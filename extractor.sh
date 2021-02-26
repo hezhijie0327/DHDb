@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.2
+# Current Version: 1.0.3
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/extractor.sh -e "example.org\|zhijie.online" -i /root/AdGuardHome/data -o /root/AdGuardHome/data -u hezhijie0327
@@ -47,13 +47,14 @@ function CheckRequirement() {
 }
 # Analyse Data
 function AnalyseData() {
+    DOMAIN_REGEX="^(([a-z]{1})|([a-z]{1}[a-z]{1})|([a-z]{1}[0-9]{1})|([0-9]{1}[a-z]{1})|([a-z0-9][-\.a-z0-9]{1,61}[a-z0-9]))\.([a-z]{2,13}|[a-z0-9-]{2,30}\.[a-z]{2,3})$"
     EXCLUDE_DEFAULT="in-addr.arpa\|ip6.arpa"
     if [ "${EXCLUDE}" == "" ]; then
         EXCLUDE_CUSTOM="${EXCLUDE_DEFAULT}"
     else
         EXCLUDE_CUSTOM="${EXCLUDE}"
     fi
-    querylog_data=($(cat "${INPUT}/querylog.json" | jq -Sr '.QH' | grep -v "${EXCLUDE_CUSTOM}" | grep -v "${EXCLUDE_DEFAULT}" | sort | uniq | awk "{ print $2 }"))
+    querylog_data=($(cat "${INPUT}/querylog.json" | jq -Sr '.QH' | grep -E "${DOMAIN_REGEX}" | grep -v "${EXCLUDE_CUSTOM}" | grep -v "${EXCLUDE_DEFAULT}" | sort | uniq | awk "{ print $2 }"))
 }
 # Output Data
 function OutputData() {

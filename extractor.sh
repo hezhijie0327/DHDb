@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.0
+# Current Version: 1.0.1
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/extractor.sh -i /root/AdGuardHome/data -o /root/AdGuardHome/data -u hezhijie0327
@@ -31,7 +31,7 @@ function CheckConfigurationValidity() {
         echo "An error occurred during processing. Invalid (OUTPUT) value, please check it and try again."
         exit 1
     fi
-    if [ "${USERNAME}" == ""]; then
+    if [ "${USERNAME}" == "" ]; then
         echo "An error occurred during processing. Missing (USERNAME) value, please check it and try again."
         exit 1
     fi

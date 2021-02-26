@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.0
+# Current Version: 1.0.1
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/release.sh
@@ -21,6 +21,7 @@ function GetData() {
     for dhdb_checklist_task in "${!dhdb_checklist[@]}"; do
         curl -s --connect-timeout 15 "${dhdb_checklist[$dhdb_checklist_task]}" >> "./dhdb_checklist.tmp"
     done
+    git clone -b dev --depth=1 "https://github.com/hezhijie0327/DHDb.git" && cat ./DHDb/*/*.txt >> "./dhdb_checklist.tmp"
 }
 # Analyse Data
 function AnalyseData() {

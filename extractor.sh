@@ -1,13 +1,14 @@
 #!/bin/bash
 
-# Current Version: 1.0.1
+# Current Version: 1.0.2
 
 ## How to get and use?
-# git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/extractor.sh -i /root/AdGuardHome/data -o /root/AdGuardHome/data -u hezhijie0327
+# git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/extractor.sh -e "example.org\|zhijie.online" -i /root/AdGuardHome/data -o /root/AdGuardHome/data -u hezhijie0327
 
 ## Parameter
-while getopts i:o:u: GetParameter; do
+while getopts e:i:o:u: GetParameter; do
     case ${GetParameter} in
+        e) EXCLUDE="${OPTARG}";;
         i) INPUT="${OPTARG}";;
         o) OUTPUT="${OPTARG}";;
         u) USERNAME="${OPTARG}";;
@@ -46,7 +47,13 @@ function CheckRequirement() {
 }
 # Analyse Data
 function AnalyseData() {
-    querylog_data=($(cat "${INPUT}/querylog.json" | jq -Sr '.QH' | sort | uniq | awk "{ print $2 }"))
+    EXCLUDE_DEFAULT="in-addr.arpa\|ip6.arpa"
+    if [ "${EXCLUDE}" == "" ]; then
+        EXCLUDE_CUSTOM="${EXCLUDE_DEFAULT}"
+    else
+        EXCLUDE_CUSTOM="${EXCLUDE}"
+    fi
+    querylog_data=($(cat "${INPUT}/querylog.json" | jq -Sr '.QH' | grep -v "${EXCLUDE_CUSTOM}" | grep -v "${EXCLUDE_DEFAULT}" | sort | uniq | awk "{ print $2 }"))
 }
 # Output Data
 function OutputData() {

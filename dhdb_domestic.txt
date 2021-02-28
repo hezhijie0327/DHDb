@@ -5911,6 +5911,8 @@ activeqq.3g.qq.com
 activity.app.autohome.com.cn
 activity.bayimob.com
 activity.clotfun.xyz
+activity.hdslb.com
+activity.hdslb.com.w.kunlungr.com
 activity.hnhnmg.com
 activity.tuiapple.com
 activity.tuifish.com

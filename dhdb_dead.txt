@@ -2086,6 +2086,8 @@ ad.fglighting.net
 ad.flux.com
 ad.fnnews.com
 ad.g-content.bi
+ad.gametower.com.tw
+ad.genybet.fr
 ad.goo.ne.jp
 ad.googleanalysis.mobi
 ad.greedland.net
@@ -2100,6 +2102,7 @@ ad.jaumo.com
 ad.jp.ap.valuecommerce.com
 ad.jsecoin.com
 ad.jsnbrynb.com
+ad.kau.li
 ad.kinogo-kinopoisk.net
 ad.kisscartoon.io
 ad.kixer.com
@@ -2138,11 +2141,13 @@ ad.smartclip.net
 ad.snappea.com
 ad.spielothek.so
 ad.stsywl.com
+ad.tbn.ru
 ad.thepaper.cn
 ad.thinkmedia.cn
 ad.topwar.ru
 ad.vidaroo.com
 ad.vippers.jp
+ad.vo-media.ru
 ad.vryeye.com
 ad.walkgame.com
 ad.watch.impress.co.jp
@@ -2231,6 +2236,7 @@ adimg.vue.weibo.com
 adimg1.chosun.com
 adimgs.xici.net
 adinc.co.kr
+adincube.com
 adinf.cp11.ott.cibntv.net
 adingo.jp.eimg.jp
 adinisp.com

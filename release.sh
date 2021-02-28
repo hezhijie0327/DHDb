@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.3
+# Current Version: 1.0.4
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/release.sh
@@ -93,7 +93,7 @@ function OutputData() {
         if [ "${dns_result_alidns}" != "" ] && [ "${dns_result_google}" != "" ]; then
             whois_info_alidns=$(whois "${dns_result_alidns}" | tr "a-z" "A-Z" | grep -v "\#" | grep "COUNTRY\:" | sed "s/[[:space:]]//g;s/COUNTRY\://g" | tail -n 1 | rev | cut -c "1-2" | rev)
             whois_info_cloudflare=""
-            whois_info_google=$(whois "${dns_result_alidns}" | tr "a-z" "A-Z" | grep -v "\#" | grep "COUNTRY\:" | sed "s/[[:space:]]//g;s/COUNTRY\://g" | tail -n 1 | rev | cut -c "1-2" | rev)
+            whois_info_google=$(whois "${dns_result_google}" | tr "a-z" "A-Z" | grep -v "\#" | grep "COUNTRY\:" | sed "s/[[:space:]]//g;s/COUNTRY\://g" | tail -n 1 | rev | cut -c "1-2" | rev)
         elif [ "${dns_result_alidns}" != "" ] && [ "${dns_result_google}" == "" ]; then
             whois_info_alidns=$(whois "${dns_result_alidns}" | tr "a-z" "A-Z" | grep -v "\#" | grep "COUNTRY\:" | sed "s/[[:space:]]//g;s/COUNTRY\://g" | tail -n 1 | rev | cut -c "1-2" | rev)
             whois_info_cloudflare=""
@@ -148,7 +148,7 @@ function OutputData() {
         fi
     }
     function RateLimiter() {
-        if [ "${whois_result}" == "#11AR" ] || [ "${whois_result}" == "#11CR" ] || [ "${whois_result}" == "#11GR" ]; then
+        if [ "${whois_result}" == "#11CR" ] || [ "${whois_result}" == "#11GR" ]; then
             sleep 3
         elif [ "${whois_result}" == "#1111" ]; then
             sleep 2

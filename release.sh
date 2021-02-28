@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.2
+# Current Version: 1.0.3
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/release.sh
@@ -125,10 +125,10 @@ function OutputData() {
             fi && error_code="#NULL" && dns_result_1="${dns_result_alidns}" && dns_result_2="${dns_result_google}" && whois_result_1="${whois_info_alidns}" && whois_result_2="${whois_info_google}"
         elif [ "${whois_info_alidns}" != "" ] && [ "${whois_info_google}" == "" ]; then
             if [ "${whois_info_alidns}" == "CN" ]; then
-                whois_result="#00CN" && error_code="#NULL"
+                whois_result="#00CN"
             else
-                whois_result="#11AR" && error_code="${whois_result}"
-            fi && dns_result_1="${dns_result_alidns}" && dns_result_2="NULL" && whois_result_1="${whois_info_alidns}" && whois_result_2="NULL"
+                whois_result="#0NCN"
+            fi && error_code="#NULL" && dns_result_1="${dns_result_alidns}" && dns_result_2="NULL" && whois_result_1="${whois_info_alidns}" && whois_result_2="NULL"
         elif [ "${whois_info_alidns}" == "" ] && [ "${whois_info_google}" != "" ]; then
             if [ "${whois_info_google}" == "CN" ]; then
                 whois_result="#00CN" && error_code="#NULL"

@@ -6288,6 +6288,7 @@ adservice.google.com.vn
 adservice.google.cz
 adservice.google.nl
 adservice.sigmob.cn
+adserviceretry.kugou.com
 adsfile.bssdlbig.kugou.com
 adsfile.qq.com
 adsfs-sdkconfig.heytapimage.com
@@ -6679,6 +6680,7 @@ aiioii.com
 aijc.net
 aijianji.com
 aijianshui.com
+aijikong.com
 aijishu.com
 aijiutou.com
 aiju.com

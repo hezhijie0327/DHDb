@@ -3004,6 +3004,7 @@ app.ptleju.com
 app.roximity.com
 app.tv333.us
 app.xixiashengdian.com
+app.xyjqy.com
 app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 app3.ga
@@ -3020,6 +3021,7 @@ appdp.com
 appe-store.com
 appgenuine.com
 appgole.com
+appimg2.qq.ccgslb.com.cn
 appl4e.com
 apple-appstore.cn
 apple-dns.cn
@@ -3114,6 +3116,7 @@ applicationinsights.net
 applovefrom.com
 appmetrica.yandex.net
 appnxt.net
+apppush.ztems.com
 apps.supfast.net
 appsocks.net
 appspromote.wostore.cn

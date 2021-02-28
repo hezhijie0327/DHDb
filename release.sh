@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.1
+# Current Version: 1.0.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/release.sh
@@ -42,6 +42,7 @@ function AnalyseData() {
 function OutputData() {
     function GetDNSRecord() {
         dns_record_alidns=$(curl -s --connect-timeout 15 -H "accept: application/dns-json" "https://dns.alidns.com/resolve?name=${dhdb_data[$dhdb_data_task]}&type=A&edns_client_subnet=${domestic_ip_subnet:-180.158.212.0/24}")
+        dns_record_cloudflare=$(curl -s --connect-timeout 15 -H "accept: application/dns-json" "https://cloudflare-dns.com/dns-query?name=${dhdb_data[$dhdb_data_task]}&type=A")
         dns_record_google=$(curl -s --connect-timeout 15 -H "accept: application/dns-json" "https://dns.google/resolve?name=${dhdb_data[$dhdb_data_task]}&type=A&edns_client_subnet=${foreign_ip_subnet:-104.208.37.0/24}")
     }
     function GetDNSStatus() {
@@ -50,41 +51,67 @@ function OutputData() {
         else
             dns_status_alidns=""
         fi
+        if [ "$(echo ${dns_record_cloudflare} | jq -Sr 'keys' | grep 'Answer')" != "" ]; then
+            dns_status_cloudflare=$(echo "${dns_record_cloudflare}" | jq -Sr '.Answer|.[]|.type' | sort | uniq | grep "1" | head -n 1)
+        else
+            dns_status_cloudflare=""
+        fi
         if [ "$(echo ${dns_record_google} | jq -Sr 'keys' | grep 'Answer')" != "" ]; then
             dns_status_google=$(echo "${dns_record_google}" | jq -Sr '.Answer|.[]|.type' | sort | uniq | grep "1" | head -n 1)
         else
             dns_status_google=""
         fi
+
     }
     function GetDNSResult() {
         ipv4_addr_regex="^(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)(\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$"
         if [ "${dns_status_alidns}" != "" ] && [ "${dns_status_google}" != "" ]; then
             dns_result_alidns=$(echo "${dns_record_alidns}" | jq -Sr '.Answer|.[]|.data' | sort | uniq | grep -E "${ipv4_addr_regex}" | head -n 1)
+            dns_result_cloudflare=""
             dns_result_google=$(echo "${dns_record_google}" | jq -Sr '.Answer|.[]|.data' | sort | uniq | grep -E "${ipv4_addr_regex}" | head -n 1)
         elif [ "${dns_status_alidns}" != "" ] && [ "${dns_status_google}" == "" ]; then
             dns_result_alidns=$(echo "${dns_record_alidns}" | jq -Sr '.Answer|.[]|.data' | sort | uniq | grep -E "${ipv4_addr_regex}" | head -n 1)
+            dns_result_cloudflare=""
             dns_result_google=""
         elif [ "${dns_status_alidns}" == "" ] && [ "${dns_status_google}" != "" ]; then
             dns_result_alidns=""
+            dns_result_cloudflare=""
             dns_result_google=$(echo "${dns_record_google}" | jq -Sr '.Answer|.[]|.data' | sort | uniq | grep -E "${ipv4_addr_regex}" | head -n 1)
         else
-            dns_result_alidns=""
-            dns_result_google=""
+            if [ "${dns_status_cloudflare}" != "" ]; then
+                dns_result_alidns=""
+                dns_result_cloudflare=$(echo "${dns_record_cloudflare}" | jq -Sr '.Answer|.[]|.data' | sort | uniq | grep -E "${ipv4_addr_regex}" | head -n 1)
+                dns_result_google=""
+            else
+                dns_result_alidns=""
+                dns_result_cloudflare=""
+                dns_result_google=""
+            fi
         fi
     }
     function GetWHOISResult() {
         if [ "${dns_result_alidns}" != "" ] && [ "${dns_result_google}" != "" ]; then
             whois_info_alidns=$(whois "${dns_result_alidns}" | tr "a-z" "A-Z" | grep -v "\#" | grep "COUNTRY\:" | sed "s/[[:space:]]//g;s/COUNTRY\://g" | tail -n 1 | rev | cut -c "1-2" | rev)
+            whois_info_cloudflare=""
             whois_info_google=$(whois "${dns_result_alidns}" | tr "a-z" "A-Z" | grep -v "\#" | grep "COUNTRY\:" | sed "s/[[:space:]]//g;s/COUNTRY\://g" | tail -n 1 | rev | cut -c "1-2" | rev)
         elif [ "${dns_result_alidns}" != "" ] && [ "${dns_result_google}" == "" ]; then
             whois_info_alidns=$(whois "${dns_result_alidns}" | tr "a-z" "A-Z" | grep -v "\#" | grep "COUNTRY\:" | sed "s/[[:space:]]//g;s/COUNTRY\://g" | tail -n 1 | rev | cut -c "1-2" | rev)
+            whois_info_cloudflare=""
             whois_info_google=""
         elif [ "${dns_result_alidns}" == "" ] && [ "${dns_result_google}" != "" ]; then
             whois_info_alidns=""
-            whois_info_google=$(whois "${dns_result_alidns}" | tr "a-z" "A-Z" | grep -v "\#" | grep "COUNTRY\:" | sed "s/[[:space:]]//g;s/COUNTRY\://g" | tail -n 1 | rev | cut -c "1-2" | rev)
+            whois_info_cloudflare=""
+            whois_info_google=$(whois "${dns_result_google}" | tr "a-z" "A-Z" | grep -v "\#" | grep "COUNTRY\:" | sed "s/[[:space:]]//g;s/COUNTRY\://g" | tail -n 1 | rev | cut -c "1-2" | rev)
         else
-            whois_info_alidns=""
-            whois_info_google=""
+            if [ "${dns_result_cloudflare}" != "" ]; then
+                whois_info_alidns=""
+                whois_info_cloudflare=$(whois "${dns_result_cloudflare}" | tr "a-z" "A-Z" | grep -v "\#" | grep "COUNTRY\:" | sed "s/[[:space:]]//g;s/COUNTRY\://g" | tail -n 1 | rev | cut -c "1-2" | rev)
+                whois_info_google=""
+            else
+                whois_info_alidns=""
+                whois_info_cloudflare=""
+                whois_info_google=""
+            fi
         fi
     }
     function AnalyseWHOISResult() {
@@ -109,11 +136,19 @@ function OutputData() {
                 whois_result="#11GR" && error_code="${whois_result}"
             fi && dns_result_1="NULL" && dns_result_2="${dns_result_google}" && whois_result_1="NULL" && whois_result_2="${whois_info_google}"
         else
-            whois_result="#1111" && error_code="#DEAD" && dns_result_1="NULL" && dns_result_2="NULL" && whois_result_1="NULL" && whois_result_2="NULL"
+            if [ "${whois_info_cloudflare}" != "" ]; then
+                if [ "${whois_info_cloudflare}" == "CN" ]; then
+                    whois_result="#00CN" && error_code="#NULL"
+                else
+                    whois_result="#11CR" && error_code="${whois_result}"
+                fi && dns_result_1="NULL" && dns_result_2="${dns_result_cloudflare}" && whois_result_1="NULL" && whois_result_2="${whois_info_cloudflare}"
+            else
+                whois_result="#1111" && error_code="#DEAD" && dns_result_1="NULL" && dns_result_2="NULL" && whois_result_1="NULL" && whois_result_2="NULL"
+            fi
         fi
     }
     function RateLimiter() {
-        if [ "${whois_result}" == "#11AR" ] || [ "${whois_result}" == "#11GR" ]; then
+        if [ "${whois_result}" == "#11AR" ] || [ "${whois_result}" == "#11CR" ] || [ "${whois_result}" == "#11GR" ]; then
             sleep 3
         elif [ "${whois_result}" == "#1111" ]; then
             sleep 2

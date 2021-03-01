@@ -11418,12 +11418,15 @@ cdn.ampproject.org
 cdn.angruo.com
 cdn.app.liuxingyul.cn
 cdn.ark.qq.com
+cdn.bootcss.com
 cdn.cmop.mgtv.com
+cdn.cn.gcloudcs.com
 cdn.dsp.com
 cdn.hpplay.com.cn
 cdn.iclicash.com
 cdn.img.liuxingyul.cn
 cdn.jesgoo.com
+cdn.jsdelivr.net.mwcloudcdn.com
 cdn.lu.sogoucdn.com
 cdn.mingmingtehui.com
 cdn.moji.com
@@ -11442,6 +11445,8 @@ cdn.tanx.com
 cdn.tianmidian.com
 cdn.unityads.unity3d.com
 cdn.upthinking.cn
+cdn.vaptcha.com
+cdn.vaptcha.com.w.cdngslb.com
 cdn.xianliao.me
 cdn.zampda.net
 cdn.zampdsp.com
@@ -11465,6 +11470,7 @@ cdndm5.net
 cdndo.com
 cdnet110.com
 cdngslb.com
+cdnimg.3g.qq.com
 cdnimg.liehu.ijinshan.com
 cdnjm.cn
 cdnjtzy.com
@@ -11524,6 +11530,7 @@ cdzimo.com
 cdzixun.net
 cdzmn.com
 cdzszp.com
+ce.cn
 ce.wlaoc.cn
 ce04.com
 ce12366.com
@@ -11694,6 +11701,7 @@ cger.com
 cgf-csyc.com
 cghlj.com
 cgiale.com
+cgicol.amap.com
 cgiia.com
 cgjoy.com
 cgke.com

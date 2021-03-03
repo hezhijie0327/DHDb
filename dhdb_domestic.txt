@@ -31866,6 +31866,7 @@ log.so.hunantv.com
 log.star.ele.me
 log.stat.kugou.com
 log.tagtic.cn
+log.tbs.qq.com
 log.tpns.tencent.com
 log.umsns.com
 log.v2.hunantv.com
@@ -31887,6 +31888,8 @@ logclub.com
 logconf.iflytek.com
 logger.qingting.fm
 logger.treexml.baofeng.com
+loggw-ex.alipay.com
+loggw.alipaydns.com
 loghao.com
 loginlog.sdo.com
 logo123.net
@@ -31912,6 +31915,8 @@ logs.51cto.com
 logs.amap.com
 logs.chelaile.net.cn
 logs.upnono.com
+logservice.hicloud.com
+logservice1.hicloud.com
 logstat.caixin.com
 logstat.t.sfht.com
 logupdate.avlyun.sec.miui.com
@@ -31991,6 +31996,7 @@ longsok.com
 longsto.com
 longtaifoods.com
 longtaiwj.com
+longtask.com
 longtengkeliji.com
 longtengwang.com
 longtugame.com
@@ -32038,6 +32044,7 @@ looyu.com
 looyuoms.com
 looyush.com
 lopetech.net
+lorzl.gq
 losking.com
 lotevision.com
 lotour.com

@@ -40758,6 +40758,7 @@ sbr-info.com
 sbt123.com
 sbwml.net
 sbwxz.com
+sc-jiaoyu.com
 sc-vis.com
 sc.cc
 sc.csai.cn
@@ -40770,6 +40771,8 @@ sc2p.com
 sc2yun.com
 sc666.com
 sc823.com
+scache.node1.systest.ptqy.gitv.tv
+scache.node2.systest.ptqy.gitv.tv
 scanv.com
 scarbbs.com
 scarclinic-cn.com
@@ -40989,12 +40992,16 @@ sdk.open.amp.igexin.com
 sdk.open.lbs.igexin.com
 sdk.open.phone.igexin.com
 sdk.open.talk.gepush.com
+sdk.open.talk.getui.com
 sdk.open.talk.getui.net
 sdk.open.talk.igexin.com
+sdk.ptqy.gitv.tv
 sdk.s.360.cn
 sdk.tf.360.cn
+sdk.xyapi.game.qq.com
 sdk.zsdfm.com
 sdk2.youguoquan.com
+sdkapiv2.bizport.cn
 sdkapp.mobile.sina.cn
 sdkapp.uve.weibo.com
 sdkauth.hpplay.cn
@@ -41010,6 +41017,7 @@ sdkm.w.inmobi.cn
 sdkm.w.inmobi.com
 sdkpay.uu.cc
 sdkrec.tf.360.cn
+sdkserver.op.hicloud.com
 sdksp.video.qq.com
 sdktm.w.inmobi.cn
 sdlc6.com
@@ -41075,6 +41083,7 @@ sdzhidian.com
 sdzjsy.com
 sdzk.co
 se.360.cn
+se2.itunes.apple.com.mwcname.com
 se7enzone.com
 sea-group.org
 sea-gullmall.com
@@ -41089,6 +41098,7 @@ sealyun.com
 seamanhome.com
 seaning.com
 seapard.com
+search.weixin.qq.com
 search1990.com
 searchtb.com
 seasouthgy.com

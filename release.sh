@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.4
+# Current Version: 1.0.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/release.sh
@@ -175,7 +175,7 @@ function OutputData() {
                 elif [ "${whois_result}" == "#1111" ]; then
                     echo "${dhdb_data_original[$dhdb_data_task]}" >> ./dhdb_dead.tmp && result_dead=$(( ${result_dead} + 1 ))
                 else
-                    result_error=$(( ${result_error} + 1 ))
+                    echo "${dhdb_data_original[$dhdb_data_task]}" >> ./dhdb_error.tmp && result_error=$(( ${result_error} + 1 ))
                 fi
             fi && RateLimiter && echo "( Index: $(( ${dhdb_data_task} + 1 )) | Result: ${whois_result} | Error: ${error_code} | DNS1: ${dns_result_1} | DNS2: ${dns_result_2} | WHOIS1: ${whois_result_1} | WHOIS2: ${whois_result_2} | Domain: ${dhdb_data_original[$dhdb_data_task]} )"
         else
@@ -193,6 +193,9 @@ function OutputData() {
     fi
     if [ ! -f "./dhdb_dead.tmp" ]; then
         touch "./dhdb_dead.tmp"
+    fi
+    if [ ! -f "./dhdb_error.tmp" ]; then
+        touch "./dhdb_error.tmp"
     fi
     if [ -f "../dhdb_alive.txt" ] && [ -f "../dhdb_dead.txt" ] && [ -f "../dhdb_domestic.txt" ] && [ -f "../dhdb_foreign.txt" ]; then
         cat ./dhdb_alive.tmp ../dhdb_alive.txt | sort | uniq > ./dhdb_alive.new
@@ -265,6 +268,17 @@ function OutputData() {
         cat ./dhdb_dead.tmp | sort | uniq > ../dhdb_dead.txt
         cat ./dhdb_domestic.tmp | sort | uniq > ../dhdb_domestic.txt
         cat ./dhdb_foreign.tmp | sort | uniq > ../dhdb_foreign.txt
+    fi
+    if [ ! -f "../dhdb_error.txt" ]; then
+        cat ./dhdb_error.tmp | sort | uniq > ../dhdb_error.txt
+    else
+        cat ./dhdb_error.tmp ../dhdb_error.txt | sort | uniq > ./dhdb_error.new
+        if [ ! -s "../dhdb_alive.txt" ] || [ ! -s "../dhdb_dead.txt" ]; then
+            cat ./dhdb_error.new | sort | uniq > ../dhdb_error.txt
+        else
+            awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ../dhdb_alive.txt ./dhdb_error.new > ./dhdb_error.mix
+            awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ../dhdb_dead.txt ./dhdb_error.mix > ../dhdb_error.txt
+        fi
     fi && cd .. && rm -rf ./Temp && exit 0
 }
 

@@ -41258,6 +41258,8 @@ servasoft.com
 server.m.pp.cn
 server.zymkcdn.com
 serveraddr.service.kugou.com
+servers.stsougou.cdntip.com
+service-cn.hwccpc.com
 service.ad.adesk.com
 service.ad.duomi.com
 service.cocounion.com
@@ -41279,6 +41281,7 @@ sevdot.com
 sevenseas-china.com
 sewise.com
 sewxi.com
+sex18.xyz
 sf-airlines.com
 sf-bearing.com
 sf-card.com
@@ -41295,6 +41298,7 @@ sf024.com
 sf1-be-pack.pglstatp-toutiao.com
 sf3-be-pack.pglstatp-toutiao.com
 sf3-fe-tos.pglstatp-toutiao.com
+sf3-ttcdn-tos.pstatp.com
 sf6-be-pack.pglstatp-toutiao.com
 sfacg.com
 sfb-100.com
@@ -41304,6 +41308,7 @@ sfddj.com
 sfe8.com
 sffix.cn
 sfgy.org
+sfhfj.site
 sfht.com
 sfhxdfgl.com
 sfitcdp.com
@@ -41356,6 +41361,9 @@ sh-henian.com
 sh-hilead.com
 sh-holiday.com
 sh-iboran.com
+sh-pod2-smp-device.apple.com
+sh-pod3-smp-device.apple.com
+sh-pod3-smp-device.gcsis-apple.com.akadns.net
 sh-ryjx.com
 sh-service.com
 sh-surface.com
@@ -41366,6 +41374,7 @@ sh-yajia.com
 sh-ybxhz.com
 sh-yuy.com
 sh-zbfm.com
+sh.mp.weixin.qq.com
 sh.qihoo.com
 sh.shuqw.com
 sh112.com
@@ -41381,6 +41390,7 @@ sha-steel.com
 shaanxirk.com
 shabc.net
 shaca.net
+shacc.music.qq.com
 shachong8.com
 shacumox.com
 shadow-forum.com

@@ -36103,6 +36103,7 @@ oahelp.com
 oahelp.net
 oameibang.com
 oatos.com
+oauth-login-drcn.platform.dbankcloud.com
 oauto.com
 oawhy.com
 obesu.com
@@ -36125,7 +36126,10 @@ ocooca.com
 ocrmaker.com
 ocsp-lb.apple.com.akadns.net
 ocsp.apple.com
+ocsp.apple.com.download.ks-cdn.com
+ocsp.globalsign.com
 ocsp.pki.goog
+ocsp2.globalsign.com
 oct-and.com
 oct-cts.com
 oct-sh.com
@@ -36162,6 +36166,7 @@ oemresource.com
 oeob.net
 oesell.com
 oetsi.com
+oex.com
 oeynet.com
 ofcard.com
 offcn.com

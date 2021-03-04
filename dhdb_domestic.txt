@@ -40204,6 +40204,7 @@ rp-pet.com
 rp.crasheye.cn
 rp.hpplay.cn
 rpg99.com
+rpgmoba.com
 rpnews.itaoxiaoshuo.com
 rpo5156.com
 rpt.gdt.qq.com
@@ -40344,6 +40345,7 @@ ruixunidc.net
 ruiyunit.com
 rujiazg.com
 rulejianzhan.com
+rum.xundayun.cn
 rum8.perf.linkedin.com
 run.haireig.com
 runbingoo.com
@@ -40442,6 +40444,7 @@ s.btime.com
 s.cdn.u17t.com
 s.ciouwap.com
 s.clkservice.youdao.com
+s.cn.bing.net
 s.cpro.baidu.com
 s.cr-nielsen.com
 s.csalsylqx.com
@@ -40492,6 +40495,9 @@ s0n.cn
 s1.2mdn.net
 s1.dapenti.com
 s1.dugoogle.com
+s1.hdslb.com
+s1.hdslb.com.cdn20.com
+s1.hdslb.com.w.kunlunar.com
 s1.hiapk.com
 s1.hualaoye.com
 s1.irs03.com
@@ -40508,6 +40514,7 @@ s135.com
 s163.com
 s1905.com
 s1craft.com
+s2.hdslb.com
 s2.hiapk.com
 s2.huoying666.com
 s2.leshi123.cc
@@ -40530,6 +40537,7 @@ s9377.com
 s95r.com
 s9yun.com
 sa-ec.com
+sa-hs.cc
 sa-log.com
 sa.sina.cn
 sa.tuisong.baidu.com
@@ -40554,6 +40562,7 @@ safe.ucweb.com
 safe524.xyz
 safebrowsing-cache.google.com
 safebrowsing.googleapis.com
+safebrowsing.urlsec.qq.com
 safecenter.com
 safedog.cn
 safehoo.com

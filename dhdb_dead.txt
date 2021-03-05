@@ -14406,17 +14406,22 @@ metao.com
 metric-agent.i10c.net
 metric.gstatic.com
 metric.inetcore.com
+metric.vodafone.com.eg
+metric.yellowpages.com
 metrics.adflake.com
 metrics.aws.sitepoint.com
 metrics.bestbuy.com
 metrics.dailymotion.com
 metrics.macys.net
 metrics.nimiq-network.com
+metrics.sce.com
 metrics.sonymusicd2c.com
 metrics.soundandvision.com
 metrics.tbliab.net
+metrics.vodafone.com.eg
 metrics.wikinvest.com
 metrics.yellowpages.com
+metricssecure.empiretoday.com
 metrigo.zalan.do
 metro114.com
 metrolife.ca
@@ -14856,6 +14861,7 @@ moyuba.com
 moyuvpn.net
 moyuxiaoshuo.com
 mozaws.net
+mozgcp.net
 mozhes.com
 mozilla.community
 mozit.cloud
@@ -14981,6 +14987,7 @@ mv.aeweb.xyz
 mv33.xyz
 mvg.jp
 mvgod.com
+mvjkbj.inazumanews2.com
 mvo.12rge.xyz
 mvo.3werf.xyz
 mvo.4w5ef.xyz
@@ -16829,6 +16836,7 @@ qiqutang.com
 qiqutt.cn
 qiqutt.com
 qireji.com
+qishenga.com
 qishixunmei.com
 qisucdn.com
 qiudao.net
@@ -17425,6 +17433,7 @@ rxcp2020.com
 rxian.com
 rxs.cc
 ry-ss.tk
+ry0.rythmefm.com
 rylinkworld.com
 ryzxqp.com
 rz.w8r4q.cn
@@ -17437,6 +17446,7 @@ s-microsoft.com
 s-mob.com
 s-msn.com
 s-nbcnews.com
+s-omniture.yell.com
 s-onetag.com
 s.123juhd.com
 s.23dsf.top

@@ -47332,6 +47332,8 @@ v.shwebi.cn
 v.szpaopao.com
 v.tf.360.cn
 v.u22l.cc
+v.vaptcha.com
+v.vaptcha.com.w.cdngslb.com
 v.xjsytoy.com
 v.yanyanbiji.com
 v.yushengyuancaishui.com
@@ -47347,6 +47349,9 @@ v1.log.moji.com
 v1.phb123.com
 v1.play.log.hunantv.com
 v1.res.log.hunantv.com
+v1.taksh.cn
+v11.douyinvod.com
+v11.douyinvod.com.sched.v4.tdnsv5.com
 v114.com
 v16.56.com
 v17go.com
@@ -47364,6 +47369,8 @@ v2.phb123.com
 v2.reachmax.cn
 v2.res.log.hunantv.com
 v2.thefatherofsalmon.com
+v26.douyinvod.com
+v29.douyinvod.com
 v2ex.cc
 v2geek.com
 v2html.atm.youku.com
@@ -47375,6 +47382,9 @@ v3.jiathis.com
 v3best.com
 v3edu.org
 v4dwkcv.com
+v5-dy-f.ixigua.com
+v5-dy-j.ixigua.com
+v5-h.douyinvod.com
 v5.com
 v5.juzi.cn
 v5bjq.com
@@ -47385,9 +47395,15 @@ v5kf.com
 v5music.com
 v5pc.com
 v5ppt.com
+v6-y.douyinvod.com
+v6.dns.weixin.qq.com
+v6.htdata.qq.com
 v6.klmc88.cn
 v6933.com
+v6ii.gdt.qq.com
 v86.org
+v9.douyinvod.com
+v95.douyinvod.com
 v977.com
 va.gxpan.cn
 va.videojj.com
@@ -47403,6 +47419,7 @@ valc.atm.youku.com
 valf.atm.youku.com
 vali.cp12.wasu.tv
 vali.cp31.ott.cibntv.net.302.myalicdn.com
+valid.apple.com.cdn20.com
 valinbl.com
 valinresources.com
 valp.atm.youku.com
@@ -47563,6 +47580,7 @@ vhallyun.com
 vhao123.com
 vhostgo.com
 vhunantv.admaster.com.cn
+vi.sparta.mig.tencent-cloud.net
 vi586.com
 via-cert.com
 viabtc.com
@@ -47589,6 +47607,7 @@ video.ureport.push.qq.com
 video.wap.mpush.qq.com
 video231.oss-cn-beijing.aliyuncs.com
 videocc.net
+videodaily.ptmi.gitv.tv
 videohupu.com
 videoincloud.com
 videojj.com

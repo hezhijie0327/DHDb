@@ -207,3 +207,4 @@ track.clearsender.com
 track.datescan.info
 track.lapa.pub
 track.msadcenter.ltp.com
+tracker.gigatorrents.ws

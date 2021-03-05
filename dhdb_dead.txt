@@ -19747,6 +19747,8 @@ tracker.cpapath.com
 tracker.cyber-hub.net
 tracker.cypherpunks.ru
 tracker.dmguo.com
+tracker.doko.moe
+tracker.ds.is
 tracker.duola.xyz
 tracker.dutchtracking.com
 tracker.dutchtracking.nl
@@ -19759,6 +19761,7 @@ tracker.fastdownload.xyz
 tracker.filetracker.pl
 tracker.financialcontent.com
 tracker.fixr.pro
+tracker.fortu.io
 tracker.funfile.org
 tracker.gigateam.net
 tracker.gigatorrent.xyz
@@ -19773,6 +19776,7 @@ tracker.justseed.it
 tracker.kicks-ass.net
 tracker.kisssub.org
 tracker.ktxp.org
+tracker.lab.vvc.niif.hu
 tracker.lolalytics.com
 tracker.monitorit4.me
 tracker.morian.icu
@@ -19795,6 +19799,7 @@ tracker.teambelgium.net
 tracker.tfile.me
 tracker.tordb.ml
 tracker.torrent.to
+tracker.torrenty.org
 tracker.twenga.pl
 tracker.tyker.xyz
 tracker.vanitycore.co
@@ -19832,6 +19837,7 @@ tracking.ha.rueducommerce.fr
 tracking.klickthru.com
 tracking.koego.com
 tracking.kurier.at
+tracking.maxcdn.com
 tracking.moneyam.com
 tracking.netzathleten-media.de
 tracking.pixelfederation.com

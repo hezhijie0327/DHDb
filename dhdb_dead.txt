@@ -18697,12 +18697,14 @@ stat.baike.com
 stat.cbsi.com.cn
 stat.cqwb.com.cn
 stat.googleanalysis.mobi
+stat.guid.tpns.sh.tencent.com
 stat.gywb.com.cn
 stat.hebnews.cn
 stat.hkwb.net
 stat.house365.com
 stat.hsw.cn
 stat.kankan.com
+stat.livesportbar.net
 stat.miraben.pw
 stat.moonwalk.co
 stat.mql5.com
@@ -18744,6 +18746,7 @@ static.reasedoper.pw
 static.sdg-china.com
 static.sellbuyshop.cn
 static.tzyiyuantuan.com
+static.yanhuang.happyelements.cn
 static8.pmadx.com
 static9.net.au
 staticaa.com
@@ -18756,6 +18759,7 @@ statics.3987.com
 statics.9669.com
 staticworld.net
 statistic.dvsend.china.com
+statistic.imgpay.ru
 statistics.news1.kr
 statistics.videofarm.daum.net
 statistik.duplanet.tk
@@ -18781,6 +18785,7 @@ stats.paypal.com
 stats.qmerce.com
 stats.radiostreamlive.com
 stats.redditmedia.com
+stats.safeway.com
 stats.searchsight.com
 stats.sharenet.co.za
 stats.slashgear.com
@@ -18794,6 +18799,7 @@ stats.unity3d.com
 stats.uswitch.com
 stats.vc.gg
 stats.video.search.yahoo.com
+stats.videoseyredin.net
 stats.walytics.com
 stats3.unrulymedia.com
 statsgoogle.appsflyer.com
@@ -18809,6 +18815,7 @@ steamcontent.com
 steamstatic.com
 steamusercontent.com
 steamvpn.org
+sthelensstar-gb.sthelensstar.co.uk
 sthoo.com
 stianran.com
 stianshi.com

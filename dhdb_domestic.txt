@@ -43465,6 +43465,7 @@ stat.m.jd.com
 stat.meitudata.com
 stat.mobgi.com
 stat.moji.com
+stat.pandora.xiaomi.com
 stat.pchome.net
 stat.ppstream.com
 stat.sd.360.cn
@@ -43480,6 +43481,7 @@ stat.wioau.com
 stat.ws.126.net
 stat.xgo.com.cn
 stat.xywy.com
+stat.y.qq.com
 stat.zdnet.com.cn
 stat.zol.com.cn
 stat.zuimeitianqi.com
@@ -43487,6 +43489,7 @@ stat2.corp.56.com
 stat2.stat.v-56.com
 stat3.stat.v-56.com
 statapp.iqilu.com
+static-exp1.licdn.com
 static-login.gog-statics.com
 static-ssl.mediav.com
 static-ssp.yidianzixun.com
@@ -43515,6 +43518,8 @@ static.g.pptv.com
 static.gg.uuu9.com
 static.googleadsserving.cn
 static.gridsumdissector.com
+static.hdslb.com
+static.hdslb.com.w.kunlunhuf.com
 static.houyi.baofeng.net
 static.ichehome.com
 static.jebe.renren.com
@@ -43523,6 +43528,7 @@ static.live.nagezan.net
 static.m.sjzhushou.com
 static.mct01.com
 static.mediav.com
+static.ptqy.gitv.tv
 static.qysyyg.com
 static.sensorsdata.cn
 static.t.agrantsem.com
@@ -43532,6 +43538,7 @@ static.uuzu.com
 static.wauee.com
 static.wkanx.com
 static.wooboo.com.cn
+static.xundayun.com
 static.youmi.net
 static.zctx8.com
 static1.baifendian.com
@@ -43544,7 +43551,10 @@ staticdn.net
 staticec.com
 staticf.com
 staticfile.org
+staticq.com
 statics.8nx7hlj.cn
+statics.vaptcha.net
+statics.vaptcha.net.w.cdngslb.com
 statics.woozooo.com
 staticsns.cdn.bcebos.com
 staticssl.image-gmkt.com

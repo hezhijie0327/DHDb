@@ -3730,6 +3730,7 @@ bbc5.azurewebsites.net
 bbc6.azurewebsites.net
 bbcdn.go.evolutionmedia.bbelements.co
 bbchat.tv
+bbcverticals.com
 bbercn.com
 bbestmall.com
 bbgsite.com
@@ -6831,6 +6832,8 @@ dazdu2iuzl72b.cloudfront.net
 dazhan123.com
 dazhewa.com
 dazhongbanben.com
+dazn-api.com
+dazndn.com
 db-cache.com
 db-nw.com
 db.cjtcc.cn
@@ -10998,6 +11001,7 @@ include.xs2345.com
 incoto.com
 ind.gudjy.com
 ind9ed.com
+indazn.com
 ineeke.com
 infaphoto.com
 inferno.demonoid.pw
@@ -11048,6 +11052,8 @@ int.w3tong.com
 inte.sohu.com
 intelnet.component
 intelrxt.com
+intercomassets.com
+intercomcdn.com
 internal.qtube.com
 internalcheck.apple.com
 international-news.newsmagazine.asia
@@ -12186,6 +12192,7 @@ kkpgv2.kankan.com
 kkqb.net
 kksmg.com
 kktv-theater.kk.stream
+kktv.com.tw
 kkzy-qq.com
 kl.hfdforging.com
 kl.jjhaolin.com
@@ -12766,6 +12773,7 @@ ll.pesbbw.cn
 ll.sciencelolb.com
 ll11.com
 llcat.tech
+lldns.net
 lli5.cc
 llk.dlingtalk.cn
 llnwi.net
@@ -18529,6 +18537,7 @@ sports.188games.net
 sports.my188.com
 sports998.net
 spotifycdn.com
+spotifycdn.net
 spreadable.com.cn
 sprinkletxt.com
 sprite.org
@@ -21370,14 +21379,17 @@ worker9.minero.cc
 workerdemo.org.hk
 worldsfastestgamer.net
 worldssl.net
+worldui.com
 woshitv.com
 wosijun.com
 wosouyun.com
 wotucdn.com
 wotula.com
 wowar.com
+wownext.tk
 wowoyou.com
 wowsai.com
+woxianhua.com
 woxinghuiguo.com
 woyaofanyi.com
 woying.com
@@ -21400,6 +21412,7 @@ ws.domain888.pw
 ws.freebitco.in
 ws.freepac.pw
 ws.l33tsite.info
+ws.peer.ooo
 ws.pzoifaum.info
 ws.tidafors.xyz
 ws.wenshenxiu.com
@@ -21736,6 +21749,7 @@ wuliupress.com
 wumeimeishu.com
 wumii.tv
 wuseng.com
+wushandx.com
 wusiwei.com
 wutongwan.org
 wuwei.ca

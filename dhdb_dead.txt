@@ -18702,6 +18702,8 @@ ssl.bsriedu.cn
 ssl.di9qu.com.cn
 ssl.hp-china.biz
 ssl.hyhzy.cn
+ssl.ptlogin2.qq.com
+ssl.ptlogin2.tencent-cloud.com
 ssl.ymapp.com
 ssl.yx4818.cn
 ssl2.cdngc.net
@@ -18831,6 +18833,7 @@ static.duoshuo.com
 static.exoclick.com
 static.exosrv.com
 static.googeadsserving.cn
+static.googles.com
 static.hk.rs
 static.img.imagecdn.cn
 static.jiaquyi.com
@@ -18919,6 +18922,7 @@ sto80.com
 stocard-backend.com
 stone.cryptoloot.pro
 stood.pw
+stopservice.chshap.blob.core.windows.net
 storage.adsmogo.com
 storage.softure.com
 store.sstuan.org
@@ -18940,6 +18944,7 @@ studyofnet.com
 stuff.202m.com
 stuhome.net
 stun6.chat.bilibili.com
+stylenanda.com
 styles-sys.com
 stylight.net
 styria.hr
@@ -18973,6 +18978,7 @@ suiyichong.com
 suiyuanka.com
 suizui.net
 sulwerphoto.com
+sumaity.com
 summall.com
 sumo.cpufan.club
 sumo.cryptonoter.com
@@ -19135,6 +19141,7 @@ szyouyizf.net
 szzfgjj.com
 szzppx.org
 szzxks.net
+t-115.rhcloud.com
 t-ads.xiaohongshu.com
 t-ak.hulu.com
 t-pan.triodos.com
@@ -19228,6 +19235,7 @@ t8ac8a8f8.jingfeed.com
 t981.com
 ta.dogyqw.cn
 ta.queit.in
+tabelog.com
 tag.sonymusic.com
 tagphi.net
 tags.newscgp.com
@@ -19298,6 +19306,7 @@ tapas.net
 taptapcode.com
 targetimg1.com
 targeting.wpdigital.net
+tasclap.jp
 taslgs.com
 taterli.com
 taucdn.net
@@ -19613,6 +19622,8 @@ tlwl2.cn
 tlztb.com
 tm-awx.com
 tm.uk.ns02.us
+tm3.binstream.live
+tm4.binstream.live
 tma-001.com
 tmall.casa
 tmcdn.net
@@ -19884,6 +19895,7 @@ tracker.opentracker.se
 tracker.patatje.eu
 tracker.port443.xyz
 tracker.pow7.com
+tracker.prq.to
 tracker.publicbt.com
 tracker.redditmedia.com
 tracker.revip.info
@@ -19998,6 +20010,7 @@ ts95.com
 tsdlp.com
 tsdm.love
 tshiny.com
+tsite.jp
 tsjdgzm.m.3dllc.cc
 tsqw.com
 tsr.zlatoff.ru
@@ -20084,6 +20097,7 @@ tuicoco.com
 tuidang.epochtimes.org
 tuidragon.com
 tuifish.com
+tuiguangdns.com
 tuili8.com
 tuiliu.net
 tuipear.com
@@ -20211,6 +20225,7 @@ twtnn.com
 twtrdns.net
 twyac.org
 tx-gz-live-p2p-01.chat.bilibili.com
+tx-sh-live-p2p-01.chat.bilibili.com
 tx.letswrite.ru
 tx.lwinl.com
 tx8cdn.com
@@ -21147,6 +21162,7 @@ web3389.com
 web5.cf
 webanalyzer.bussion.com
 webank.com
+webcg.net
 webchain.beeppool.org
 webcname.net
 webcount.finn.no

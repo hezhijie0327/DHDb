@@ -4890,6 +4890,7 @@ cdn1.tvzhe.com
 cdn11-okzy.com
 cdn1218.com
 cdn13.com
+cdn15.acloudimages.com
 cdn2-okzy.com
 cdn2.071811.cc
 cdn2.inwemo.com
@@ -11709,7 +11710,6 @@ joy95.com
 joyfire.net
 joyme.com
 joyxv.com
-jp.pool.ntp.org
 jp.vpnvip.com
 jp01-28.ssv4.net
 jpegonline.com

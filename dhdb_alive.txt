@@ -994,7 +994,6 @@
 1.mgff.com
 1.mm100.com
 1.modzj.net
-1.nanrenwo.net
 1.pncdn.cn
 1.proewildfire.cn
 1.qjhm.net
@@ -4795,7 +4794,6 @@
 3p.app.flnet.org
 3pforum.com
 3pi3t.j5.biz.tm
-3pk2.com
 3png.com
 3poo.com
 3proxy.de
@@ -10151,7 +10149,6 @@ a.rohde-schwarz.com
 a.sakh.com
 a.sayloving.com
 a.shenchuang.com
-a.slack-edge.com
 a.slsbc.cn
 a.steigenberger.com
 a.stka8.com
@@ -10458,7 +10455,6 @@ aa.avvo.com
 aa.bathandbodyworks.com
 aa.cbssports.com
 aa.com
-aa.erwinmueller.com
 aa.gushiwen.org
 aa.jiankang.com
 aa.ninze.com
@@ -11441,14 +11437,12 @@ ad.terra.com
 ad.terra.com.mx
 ad.test.ximalaya.com
 ad.text.tbn.ru
-ad.thetyee.ca
 ad.thisav.com
 ad.thsi.cn
 ad.toutiao.com
 ad.turn.com
 ad.tv2.no
 ad.udition.jp
-ad.unimhk.com
 ad.universcine.com
 ad.us.sinaimg.cn
 ad.usatoday.com
@@ -11568,7 +11562,6 @@ ad7.bigmir.net
 ad7.com
 ad7.on.cc
 ad778.com
-ad8.adfarm1.adition.com
 ad8.cc
 ada.baidu.com
 adabra.com
@@ -12055,7 +12048,6 @@ adobesign.com
 adobespark.com
 adobestock.com
 adobetag.com
-adobetarget.com
 adobetcstrialdvd.com
 adobetechcomm.com
 adobetechcommcallback.com
@@ -12076,7 +12068,6 @@ adp.atm.youku.com
 adp.cnool.net
 adp.com
 adp.gazeta.pl
-adp.homes.co.jp
 adp.s8bbs.com
 adp1.cnool.net
 adpai.thepaper.cn
@@ -12298,9 +12289,7 @@ ads.contentabc.com
 ads.corusradionetwork.com
 ads.courierpostonline.com
 ads.crapville.com
-ads.creative-serving.com
 ads.crosscut.com
-ads.csdn.net
 ads.cvut.cz
 ads.cyberctm.com
 ads.cybersales.cz
@@ -12361,7 +12350,6 @@ ads.feedly.com
 ads.feelingtouch.com
 ads.femmefab.nl
 ads.ferianc.com
-ads.fetnet.net
 ads.filecloud.com
 ads.fileindexer.com
 ads.filmup.com
@@ -12378,7 +12366,6 @@ ads.formit.cz
 ads.fortunecity.com
 ads.fotoable.com
 ads.fotosidan.se
-ads.fox.com
 ads.foxnetworks.com
 ads.fptplay.net.vn
 ads.fredericksburg.com
@@ -12400,7 +12387,6 @@ ads.gaypoint.hu
 ads.geekswithblogs.net
 ads.gionee.com
 ads.gld.dk
-ads.glispa.com
 ads.globo.com
 ads.gmodules.com
 ads.golfweek.com
@@ -12426,7 +12412,6 @@ ads.heartlight.org
 ads.heroldonline.com
 ads.hitcents.com
 ads.hollywood.com
-ads.home.vn
 ads.homedy.com
 ads.horsehero.com
 ads.huan.tv
@@ -12491,7 +12476,6 @@ ads.linuxjournal.com
 ads.live365.com
 ads.livenation.com
 ads.livetvcdn.net
-ads.lomadee.com
 ads.ma7.tv
 ads.magnetic.is
 ads.mail3x.com
@@ -12613,13 +12597,11 @@ ads.primissima.it
 ads.printscr.com
 ads.prisacom.com
 ads.privatemedia.co
-ads.pro-market.net
 ads.pro-market.net.edgesuite.net
 ads.profootballtalk.com
 ads.program3.com
 ads.prospect.org
 ads.pruc.org
-ads.psd2html.com
 ads.pubmatic.com
 ads.quasaraffiliates.com
 ads.queendom.com
@@ -12931,7 +12913,6 @@ adsco.re
 adscover.com
 adsdk.9imobi.com
 adsdk.dmzj.com
-adsdk.vivo.com.cn
 adsdk.vrvm.com
 adsdk.yandex.ru
 adse.test.ximalaya.com
@@ -13239,7 +13220,6 @@ adsv2.autodaily.vn
 adswizz.com
 adsx.greystripe.com
 adsymptotic.com
-adsyndication.msn.com
 adsys.sinovision.net
 adsys.townnews.com
 adsystem.simplemachines.org
@@ -15550,7 +15530,6 @@ analytics.cloudron.io
 analytics.cn.ru
 analytics.cnd-motionmedia.de
 analytics.cocolog-nifty.com
-analytics.codigo.se
 analytics.cohesionapps.com
 analytics.competitoor.com
 analytics.contents.by-fw.jp
@@ -15649,7 +15628,6 @@ analytics.myhermes.de
 analytics.mytvzion.pro
 analytics.navyfederal.org
 analytics.newscred.com
-analytics.nextopia.net
 analytics.nhattao.com
 analytics.nike.com
 analytics.nordea.com
@@ -15661,7 +15639,6 @@ analytics.oneplus.cn
 analytics.onesearch.id
 analytics.onlyonlinemarketing.com
 analytics.ooyala.com
-analytics.optilead.co.uk
 analytics.orenshmu.com
 analytics.ostr.io
 analytics.ovh.com
@@ -15680,7 +15657,6 @@ analytics.prod.mybuddy.ai
 analytics.productreview.com.au
 analytics.projectcarmen.com
 analytics.proxer.me
-analytics.prx.org
 analytics.publitas.com
 analytics.qoqa.ch
 analytics.qoqa.ninja
@@ -15879,7 +15855,6 @@ android.informer.com
 android.jlelse.eu
 android.push.126.net
 android.rqd.qq.com
-android100.org
 androidads20staging.adcolony.com
 androidads23.adcolony.com
 androidapksfree.com
@@ -16498,7 +16473,6 @@ api.22lianmeng.com
 api.24kidea.com
 api.557400.com
 api.a5188yes.com
-api.account.xiaomi.com
 api.accounts.firefox.com
 api.ad-locus.com
 api.ad-stir.com
@@ -16605,7 +16579,6 @@ api.infinario.com
 api.insight.synology.com
 api.instabug.com
 api.intentiq.com
-api.intercom.io
 api.io.mi.com
 api.itaoxiaoshuo.com
 api.ivideo.sina.com.cn
@@ -16651,7 +16624,6 @@ api.open.uc.cn
 api.optnmnstr.com
 api.ott.pm
 api.ozui.vn
-api.parse.com
 api.phantom.avira-vpn.com
 api.pinduoduo.com
 api.pingstart.com
@@ -17597,7 +17569,6 @@ arcteryx.com
 arctosia.com
 ard.de
 ard.ihookup.com
-ard.sweetdiscreet.com
 ard.xxxblackbook.com
 ard.yahoo.co.jp
 ardill.com
@@ -17773,7 +17744,6 @@ aryasec.com
 aryasport.com
 arygames.com
 arz.at
-arzon.com
 as-ansar.com
 as-doll.com
 as-exchange.com
@@ -18280,7 +18250,6 @@ attwirelessinternet.com
 attwirelessonline.com
 attwirelesssolutions.com
 attyou.com
-atv-ext.amazon.com
 atv-ps.amazon.com
 atv98.com
 atwtech.net
@@ -22923,7 +22892,6 @@ blog.yahoo.com
 blog.yitianshijie.net
 blog.young.twgogo.org
 blog.youthwant.com.tw
-blog.youxu.info
 blog007.com
 blog1984.com
 blogad01.myweb.hinet.net
@@ -25516,7 +25484,6 @@ c.wkanx.com
 c.wort-suche.com
 c.x.oanda.com
 c.xadingli.cn
-c.xbjcgs.cn
 c.xiaobaipan.com
 c.xjhjtz.cn
 c.xjsytoy.com
@@ -27000,7 +26967,6 @@ cctvdyt.com
 cctvfinance.com
 cctvgb.com.cn
 cctvhn.com
-cctvpic.com
 cctvpro.com.cn
 cctvsdyxl.com
 cctvse.net
@@ -27397,7 +27363,6 @@ cdn.vaptcha.com.w.cdngslb.com
 cdn.vdopia.com
 cdn.viglink.com
 cdn.wadawada-stop-report-us.com
-cdn.welcome.pussysaga.com
 cdn.wibiya.com
 cdn.wtzw.com
 cdn.wtzw.com.wswebpic.com
@@ -27448,7 +27413,6 @@ cdna.tremormedia.com
 cdnads.cam4.com
 cdnads.com
 cdnas.hyperpromote.com
-cdnasset.dantri.com.vn
 cdnassets.115.com
 cdnaws.mobidea.com
 cdnbest.com
@@ -27759,7 +27723,6 @@ census.misterspex.es
 census.misterspex.fr
 census.misterspex.nl
 census.misterspex.no
-census.misterspex.se
 centainfo.com
 centanet.com
 centauro.com.br
@@ -28156,7 +28119,6 @@ changjiangdata.com
 changjiangexpress.com
 changjiangtimes.com
 changkaidemen.org
-changken.idv.tw
 changkunet.com
 changliuliang.com
 changlongyingshi.com
@@ -30865,7 +30827,6 @@ clundressed.com
 clusty.com
 clvk.viki.io
 clx360.com
-clym-sdk.net
 clyp.it
 clyric.com
 clz.me
@@ -32212,7 +32173,6 @@ collector.appconsent.io
 collector.automote.co.nz
 collector.brandify.com
 collector.bunchbox.co
-collector.clareity.net
 collector.contentexchange.me
 collector.fiverr.com
 collector.getyourguide.com
@@ -32489,7 +32449,6 @@ confiant.msn.com
 config-flag.1sapp.com
 config-ltvp.inmobi.com
 config.3g.qq.com
-config.88-f.net
 config.adview.cn
 config.baofeng.net
 config.cocounion.com
@@ -32585,7 +32544,6 @@ consent.faz.net
 consent.gutefrage.net
 consent.inm.ie
 consent.mz-web.de
-consent.prismamedia.com
 consent.truste.com
 consentmanager.mgr.consensu.org
 conshow.com
@@ -32632,7 +32590,6 @@ content.nike.com
 content.printdirect.ru
 content.s8bbs.com
 content.secondspace.com
-content.streamplay.to
 content.yieldmanager.edgesuite.net
 content22.online.citi.com
 contentabc.com
@@ -34729,7 +34686,6 @@ d.ghostery.com
 d.gionee.com
 d.greece-search.com
 d.haberler.com
-d.haireig.com
 d.htcc.us
 d.image-ad.jp
 d.impactradius-event.com
@@ -34773,7 +34729,6 @@ d000000.com
 d01.notifa.info
 d0evi1.com
 d0z.net
-d1--cn-gotcha04.bilivideo.com
 d1--cn-gotcha04.bilivideo.com.l5.sched.dcloudlive.com
 d1--cn-gotcha204.bilivideo.com
 d1--cn-gotcha204.bilivideo.com.l5.sched.dcloudlive.com
@@ -34949,7 +34904,6 @@ d1vguuq5efvsfq.cloudfront.net
 d1vrcwxei1aj0g.cloudfront.net
 d1w24oanovvxvg.cloudfront.net
 d1wi563t0137vz.cloudfront.net
-d1wirc5qsdb1y5.cloudfront.net
 d1wjj8n9m51z7v.cloudfront.net
 d1wjz6mrey9f5v.cloudfront.net
 d1wn3.cn
@@ -34983,7 +34937,6 @@ d21rudljp9n1rr.cloudfront.net
 d21uwl37pca4oi.cloudfront.net
 d2222t5nvb13ei.cloudfront.net
 d227cncaprzd7y.cloudfront.net
-d22lo5bcpq2fif.cloudfront.net
 d22sfab2t5o9bq.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
 d22xmn10vbouk4.cloudfront.net
@@ -35044,7 +34997,6 @@ d2fbkzyicji7c4.cloudfront.net
 d2fhjyz3dwdx87.cloudfront.net
 d2film.com
 d2focgxak1cn74.cloudfront.net
-d2g15hp0vtnk4i.cloudfront.net
 d2g4rjb98r20op.cloudfront.net
 d2g9nmtuil60cb.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
@@ -35185,7 +35137,6 @@ d36sxvmjoflc2i.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
 d37abonb6ucrhx.cloudfront.net
 d37s9vd5t6mov7.cloudfront.net
-d38au5kn48shwv.cloudfront.net
 d38itq6vdv6gr9.cloudfront.net
 d39hdzmeufnl50.cloudfront.net
 d39iocnrk5rxnb.cloudfront.net
@@ -35339,7 +35290,6 @@ d5z42oph1suk.cloudfront.net
 d5zz.com
 d6.mobaders.com
 d6.sina.com.cn
-d6.sinaimg.cn
 d63a3au5lqmtu.cloudfront.net
 d65d6.com
 d6767.com
@@ -36805,7 +36755,6 @@ demlution.com
 demo.adsame.com
 demo.ihs-novation.com
 demo.jointreport-switch.com
-demo.nimiq.com
 demo.nyris.io
 demo.rhombusads.com
 demo.webxmr.com
@@ -37696,13 +37645,11 @@ dii2.zooplus.de
 dii2.zooplus.dk
 dii2.zooplus.es
 dii2.zooplus.fi
-dii2.zooplus.fr
 dii2.zooplus.gr
 dii2.zooplus.hr
 dii2.zooplus.hu
 dii2.zooplus.ie
 dii2.zooplus.it
-dii2.zooplus.nl
 dii2.zooplus.no
 dii2.zooplus.pl
 dii2.zooplus.pt
@@ -38230,7 +38177,6 @@ dl.cm.ksmobile.com
 dl.delivery.mp.microsoft.com
 dl.discordapp.net
 dl.djicdn.com
-dl.dmhy.org
 dl.dropboxusercontent.com
 dl.eduancm.com
 dl.google.com
@@ -39201,7 +39147,6 @@ download.cnet.com
 download.code.lixian.vip.xunlei.com
 download.com
 download.coolguang.com
-download.developer.apple.com
 download.dmallcdn.com
 download.docker.com
 download.fosshub.com
@@ -40162,7 +40107,6 @@ dvser02.china.com
 dvsour.china.com
 dvt4pepo9om3r.cloudfront.net
 dvvvs.com
-dvyfpg.netology.ru
 dw-collect.ksosoft.com
 dw-eu.com.com
 dw-online.ksosoft.com

@@ -25435,6 +25435,7 @@ c.s-microsoft.com
 c.saastt.com
 c.sayhi.360.cn
 c.se.msn.com
+c.seznam.cz
 c.sg.msn.com
 c.shantelope.com
 c.sibnet.ru
@@ -79805,7 +79806,6 @@ netvigie.com
 network-n.com
 network.aufeminin.com
 network.nimiq.com
-network2.aufeminin.com
 network54.com
 network60.com
 networkbench.com
@@ -80031,7 +80031,6 @@ news.swisspostsolutions.com
 news.thefappening.sexy
 news.tvb.com
 news.tvbs.com.tw
-news.ueep.com
 news.vuer.net
 news.yahoo.com
 news.ycombinator.com
@@ -83699,7 +83698,6 @@ oxfordwesternmusic.com
 oxg1.gor.b0ne.com
 oxiaohua.com
 oxid.it
-oxifwsabgd.nzz.ch
 oxlife.co
 oxrm.com
 oxygem.it
@@ -83846,7 +83844,6 @@ p0636.com
 p0f.whatleaks.com
 p1-be-endcard.pglstatp-toutiao.com
 p1-be-endcard.pglstatp-toutiao.com.wsglb0.com
-p1-dpa.byteimg.com
 p1-dy.bytexservice.com
 p1-juejin.byteimg.com
 p1.chinakaoyan.com
@@ -85393,7 +85390,6 @@ pgpolice.com
 pgrrr.com
 pgs.aviationweek.com
 pgsql.tech
-pgt1.voyage-prive.es
 pgu.cc
 pgv.m.xunlei.com
 pgyer.com
@@ -85565,7 +85561,6 @@ photos0.pop6.com
 photos1.pop6.com
 photos2.pop6.com
 photos3.pop6.com
-photos4.pop6.com
 photos5.pop6.com
 photos6.pop6.com
 photos7.pop6.com
@@ -86491,7 +86486,6 @@ playcomet.jp
 playcrab.com
 playdium.com
 playdom.com
-player-feedback-v1.glomex.com
 player-telemetry.vimeo.com
 player.4fusion.xyz
 player.accoona.com

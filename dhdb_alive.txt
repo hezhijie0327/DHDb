@@ -10209,7 +10209,6 @@ a02342.bridportnews.co.uk
 a02342.bromsgroveadvertiser.co.uk
 a02342.bucksfreepress.co.uk
 a02342.burnhamandhighbridgeweeklynews.co.uk
-a02342.chardandilminsternews.co.uk
 a02342.clactonandfrintongazette.co.uk
 a02342.dailyecho.co.uk
 a02342.darlingtonandstocktontimes.co.uk
@@ -12408,6 +12407,7 @@ ads.heartlight.org
 ads.heroldonline.com
 ads.hitcents.com
 ads.hollywood.com
+ads.home.vn
 ads.homedy.com
 ads.horsehero.com
 ads.huan.tv
@@ -25393,6 +25393,7 @@ c.kuwo.cn
 c.l.qq.com
 c.lalaxit.cn
 c.lalaxqt.cn
+c.latam.msn.com
 c.lattebank.com
 c.lianwangtech.com
 c.lovepets70.com
@@ -45718,7 +45719,6 @@ finnciti.com
 finndy.com
 finning.com
 finogeeks.com
-finqq.com
 finstagram.com
 fintechinchina.com
 fintechquan.com
@@ -54763,7 +54763,6 @@ hj3199.com
 hj3299.com
 hj5399.com
 hj5688.com
-hj5788.com
 hj589.com
 hj5899.com
 hj6588.com
@@ -75157,7 +75156,6 @@ metrics.sony.com
 metrics.sony.jp
 metrics.soundandvisionmag.com
 metrics.southwest.com
-metrics.spbtv.com
 metrics.speedousa.com
 metrics.spencersonline.com
 metrics.spirithalloween.com
@@ -76784,7 +76782,6 @@ mo.baidu.com
 mo.be
 mo.bigcoob.xyz
 mo.bigcooc.xyz
-mo.bigcooe.xyz
 mo.bsxr.com.cn
 mo.byjr899.top
 mo.ccch.xyz

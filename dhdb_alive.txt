@@ -2754,7 +2754,6 @@
 1mit.com
 1mm8.com
 1mobile.com
-1mobile.tw
 1mod.org
 1monsterbeatsbydreus.com
 1more.com
@@ -14127,7 +14126,6 @@ aipenglai.com
 aiph.net
 aipiaxi.com
 aipingxiang.com
-aipinko.com
 aiprose.com
 aips.me
 aipuo.com
@@ -16591,6 +16589,7 @@ api.open.uc.cn
 api.optnmnstr.com
 api.ott.pm
 api.ozui.vn
+api.parse.com
 api.phantom.avira-vpn.com
 api.pinduoduo.com
 api.pingstart.com
@@ -19687,6 +19686,7 @@ banners.emol.com
 banners.etermax.com
 banners.fastcupid.com
 banners.freett.com
+banners.friendfinder.com
 banners.fuckbookhookups.com
 banners.getiton.com
 banners.golfasian.com
@@ -31708,7 +31708,6 @@ cnv168.com
 cnvcs.com
 cnvf.com
 cnvoice.herokuapp.com
-cnvps.com
 cnvr-expo.com
 cnvultr.com
 cnw.cz
@@ -52647,7 +52646,6 @@ hambut.com
 hamdemia.com
 hamidabdollahi.ir
 hampoo.net
-hampshirechronicle-gb.hampshirechronicle.co.uk
 hamropatro.com
 han-cang.com
 han66.com
@@ -56219,6 +56217,7 @@ htqyy.com
 htr-mold.com
 htracker1.zmzfile.com
 htracker2.zmzfile.com
+htracker3.zmzfile.com
 htracker4.zmzfile.com
 htracker5.zmzfile.com
 htranslate.com
@@ -64369,6 +64368,7 @@ js.hs-analytics.net
 js.hsadspixel.net
 js.hscollectedforms.net
 js.hsleadflows.net
+js.icast.cn
 js.idgdmg.com.cn
 js.idgdmgroup.com.cn
 js.jianbaimei.com
@@ -82029,6 +82029,7 @@ odav.de
 odb.outbrain.com
 odbierz-bony.ovp.pl
 odc.1und1.de
+odc.starwave.com
 odd-onead.cdn.hinet.net
 oddcast.com
 oddschecker.com

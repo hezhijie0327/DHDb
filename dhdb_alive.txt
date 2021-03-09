@@ -12144,7 +12144,6 @@ ads.adcorps.com
 ads.adhall.com
 ads.adinall.com
 ads.admarvel.com
-ads.admaximize.com
 ads.administrator.de
 ads.adred.de
 ads.adroar.com
@@ -12363,6 +12362,7 @@ ads.gaypoint.hu
 ads.geekswithblogs.net
 ads.gionee.com
 ads.gld.dk
+ads.glispa.com
 ads.globo.com
 ads.gmodules.com
 ads.golfweek.com
@@ -24565,6 +24565,7 @@ btsow.online
 btsow.surf
 btspread.com
 btspreads.com
+btstats.devtribu.fr
 btsteel.com
 btsync.cf
 btsync.gq
@@ -27314,6 +27315,7 @@ cdn.vaptcha.com.w.cdngslb.com
 cdn.vdopia.com
 cdn.viglink.com
 cdn.wadawada-stop-report-us.com
+cdn.welcome.pussysaga.com
 cdn.wibiya.com
 cdn.wtzw.com
 cdn.wtzw.com.wswebpic.com
@@ -52076,7 +52078,6 @@ gzhdcs.com
 gzhhr.com
 gzhhxxkj.com
 gzhifi.com
-gzhmbag.com
 gzhmi.com
 gzhongyu020.com
 gzhphb.com
@@ -85401,7 +85402,6 @@ phoent.com
 phoer.net
 phoeshow.me
 phome.net
-phone-calling-card.exnet.su
 phone580.com
 phoneburnia.com
 phonechn.com
@@ -86592,7 +86592,6 @@ pnxs.com
 pny.net.penny.de
 pnzpw.com
 po.funshion.com
-po.ponant.com
 po18.tw
 po2b.com
 po369.com
@@ -86645,7 +86644,6 @@ poh.xxxy.biz
 pohaier.com
 pohill.com
 pohover.com
-pohudetdoma.ru
 poikm.com
 point2this.com
 pointtown.com
@@ -87085,7 +87083,6 @@ pp.free.fr
 pp.greensolutions.ro
 pp.muzofon-online.com
 pp.myapp.com
-pp.promocionesfarma.com
 pp.ru
 pp.teksty-pesenok.ru
 pp.ua
@@ -87610,7 +87607,6 @@ promo.blackdatehookup.com
 promo.cams.com
 promo.carasexe.com
 promo.easy-dating.org
-promo.fileforum.com
 promo.galabingo.com
 promo.japanhdv.com
 promo.meexy.com
@@ -87874,7 +87870,6 @@ prstats.postrelease.com
 prt-stsdk.vivo.com.cn
 prt.stsdk.vivo.com.cn
 pruc.org
-prudsys-rde.de
 prusamk2.com
 prv.pl
 prvsz4pe.micpn.com
@@ -87883,7 +87878,6 @@ prwod.com
 prx.org
 prx.wayfair.com
 prxch.com
-prxio.github.io
 przhushou.com
 przwt.com
 ps.3fenge.com
@@ -88133,7 +88127,6 @@ pubnub.com
 pubone.cc
 pubs.hiddennetwork.com
 pubs.ouedkniss.com
-pubs.xl.pt
 pubsage.com
 pubserver.xl.pt
 pubshop.img.uol.com.br
@@ -91548,7 +91541,6 @@ renren-inc.com
 renren.com
 renren.io
 renren163.com
-renren2.maoyun.tv
 renren3d.com
 renrenbang.com
 renrenbeidiao.com
@@ -92179,7 +92171,6 @@ rnybul.gismeteo.ru
 rnzi.com
 ro-wo.com
 ro.heip.eu.org
-ro.lt
 ro2.heip.eu.org
 ro89.com
 road-crew.com

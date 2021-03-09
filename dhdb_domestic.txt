@@ -16001,6 +16001,7 @@ data.bilicdn2.com
 data.danmu.baofeng.com
 data.haoma.sogou.com
 data.hicloud.com
+data.mistat.xiaomi.com
 data.qq.com
 data.trendymedia.com.cn
 data.tvguo.tv
@@ -20450,7 +20451,6 @@ freehpcg.com
 freeibook.com
 freekaobo.com
 freekeyan.com
-freelycode.com
 freemancn.com
 freemindworld.com
 freemoban.com
@@ -28970,7 +28970,6 @@ jkeabc.com
 jkgood.com
 jkidc.com
 jkimg.net
-jkpan.cc
 jkpj.com
 jktong.com
 jkxds.net
@@ -39262,7 +39261,6 @@ pxb7.com
 pxbuy.com
 pxcn168.com
 pxdsm.com
-pxl.idx.admaster.com.cn
 pxtsc.com
 pxtx.com
 py-axa.com
@@ -40503,7 +40501,6 @@ qx15.com
 qx162.com
 qxbnkj.com
 qxcu.com
-qxghost.com
 qxiu.com
 qxkp.net
 qxm.pluto.sogou.com

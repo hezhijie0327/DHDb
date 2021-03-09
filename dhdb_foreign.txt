@@ -4515,7 +4515,6 @@ a02342.gazette-news.co.uk
 a02342.gazetteherald.co.uk
 a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
-a02342.guardian-series.co.uk
 a02342.harwichandmanningtreestandard.co.uk
 a02342.heraldscotland.com
 a02342.ledburyreporter.co.uk
@@ -39116,6 +39115,7 @@ mac.eu
 mac.rs
 macandbumble.com
 macapp.so
+macappbox.com
 macappsto.re
 macau-focus.com
 macau-jc.com

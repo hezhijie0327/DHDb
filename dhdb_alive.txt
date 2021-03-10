@@ -8778,7 +8778,6 @@
 8bit.xin
 8brz.92.etowns.org
 8btc.com
-8cc5ff581a88.bitsngo.net
 8cheche.com
 8chzga.v.admaster.com.cn
 8cname.com
@@ -8875,6 +8874,7 @@
 8zntx.com
 8zy.com
 9-qq.com
+9-sun.com
 9-zhuce.com
 9.rarbg.com
 9.rarbg.me
@@ -10232,7 +10232,6 @@ a02342.wiltsglosstandard.co.uk
 a02342.wiltshiretimes.co.uk
 a02342.wimbledonguardian.co.uk
 a02342.winsfordguardian.co.uk
-a02342.wirralglobe.co.uk
 a02342.witneygazette.co.uk
 a02342.worcesternews.co.uk
 a02342.yeovilexpress.co.uk
@@ -11239,7 +11238,6 @@ ad.hefei.cc
 ad.hiiir.com
 ad.hodomobile.com
 ad.holaq.com
-ad.holmesmind.com
 ad.hot-mob.com
 ad.hpplay.cn
 ad.huajiao.com
@@ -25433,6 +25431,7 @@ c.wkanx.com
 c.wort-suche.com
 c.x.oanda.com
 c.xadingli.cn
+c.xbjcgs.cn
 c.xiaobaipan.com
 c.xjhjtz.cn
 c.xjsytoy.com
@@ -35077,6 +35076,7 @@ d3b2hhehkqd158.cloudfront.net
 d3boii3pkaouc3.cloudfront.net
 d3by8qxah6i60g.cloudfront.net
 d3c33hcgiwev3.cloudfront.net
+d3c3cq33003psk.cloudfront.net
 d3c3uihon9kmp.cloudfront.net
 d3cesrg5igdcgt.cloudfront.net
 d3cgm8py10hi0z.cloudfront.net
@@ -83062,7 +83062,6 @@ orchome.com
 orcode.com
 order.hbonow.com
 order.shadowsocks.at
-order.shadowsocks.ch
 order.shadowsocks.se
 order.webunion.com
 ordns.he.net

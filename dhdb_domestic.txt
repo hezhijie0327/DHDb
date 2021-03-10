@@ -6342,7 +6342,6 @@ adservice.google.co.jp
 adservice.google.com
 adservice.google.com.hk
 adservice.google.com.mt
-adservice.google.com.vn
 adservice.google.nl
 adservice.sigmob.cn
 adserviceretry.kugou.com
@@ -15672,7 +15671,6 @@ dafaji.com
 dafang24.com
 dafangya.com
 dafanshu.com
-dafayun9.com
 dafengning.com
 dafhr.com
 dafuhao-ol.com
@@ -19920,7 +19918,6 @@ fh86.com
 fhadmin.org
 fhdjh.com
 fhdq.net
-fhduo.com
 fhhgj.com
 fhlun.com
 fhlyou.com
@@ -33041,7 +33038,6 @@ lvyuanpam.com
 lvyuetravel.com
 lvzheng.com
 lw0591.com
-lw208.com
 lw23.com
 lw54.com
 lw85.com
@@ -39448,7 +39444,6 @@ qhupdate.com
 qhwmw.com
 qhxyms.com
 qhyedu.com
-qhyzzzs.com
 qi-che.com
 qi-ju.com
 qi.wndlkj.com
@@ -40133,7 +40128,6 @@ qrmanhua.com
 qrtest.com
 qs.lindanmiaoxiang.cn
 qs.qsmdeyz.cn
-qs01.cn
 qs12315.com
 qs921.com
 qsbank.cc

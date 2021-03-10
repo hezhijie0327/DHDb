@@ -6,7 +6,6 @@
 0.up.qingdaonews.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
-00000wg.com
 00006808.com
 0000hg.com
 000234.com
@@ -15607,6 +15606,7 @@ analytics.oneplus.cn
 analytics.onesearch.id
 analytics.onlyonlinemarketing.com
 analytics.ooyala.com
+analytics.optilead.co.uk
 analytics.orenshmu.com
 analytics.ostr.io
 analytics.ovh.com
@@ -27099,6 +27099,7 @@ cdn.88-f.net
 cdn.8digits.com
 cdn.9377ne.com
 cdn.actiflex.org
+cdn.ad.plus
 cdn.ad.xiaomi.com
 cdn.ad4game.com
 cdn.adapi.fotoable.com
@@ -54706,7 +54707,6 @@ hj8383.com
 hj839.com
 hj8815.com
 hj906.com
-hj9155.com
 hj9188.com
 hjapi.com
 hjav.in
@@ -84333,7 +84333,6 @@ partners.cmptch.com
 partners.etoro.com
 partners.keezmovies.com
 partners.mysavings.com
-partners.optiontide.com
 partners.parimatch.net
 partners.pmu.fr
 partners.pornerbros.com
@@ -94883,7 +94882,6 @@ seasons52.com
 seasonvar.ru
 seasouthgy.com
 seassoon.com
-seasungame.com
 seasungames.com
 seat-italia.it
 seat.ch

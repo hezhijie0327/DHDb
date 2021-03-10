@@ -12992,6 +12992,7 @@ logdev.openload.co
 logger.baofeng.com
 logger.dailymotion.com
 logger.ntracecloud.com
+logger.tvchosun.com
 logger.viki.io
 logger.vsmarty.vn
 logging.galaxypub.vn

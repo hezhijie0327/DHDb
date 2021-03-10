@@ -20657,6 +20657,7 @@ devopsms.com
 devphp.org.ua
 devpn.com
 devpss.com
+devqinwei.com
 devry.edu
 devsitetest.how
 devstreaming-cdn.apple.com
@@ -32652,6 +32653,7 @@ imfer.me
 img-9gag-fun.9cache.com
 img-a2.ak.imagevz.net
 img-cdn.appinn.net
+img-prod-cms-rt-microsoft-com.akamaized.net
 img.2222.moe
 img.7clink.com
 img.ak.impact-ad.jp

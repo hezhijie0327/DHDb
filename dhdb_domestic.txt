@@ -6347,7 +6347,6 @@ adserve2.tom.com
 adservice.google.ca
 adservice.google.co.jp
 adservice.google.com
-adservice.google.com.au
 adservice.google.com.hk
 adservice.google.com.mt
 adservice.google.com.vn
@@ -9944,7 +9943,6 @@ bjkqj.com
 bjkrtwl.com
 bjl11.com
 bjl2011.com
-bjl2022.com
 bjl2044.com
 bjl2077.com
 bjl2088.com
@@ -17395,7 +17393,6 @@ down.gotek.com.cn
 down.sandai.net
 down.winads.cn
 down.winbaicai.com
-down.xiazai2.net
 down.xiazaidc.com
 down0.com
 down123.cc
@@ -29379,7 +29376,6 @@ jsnxs.com
 jsocr.com
 jsonatm.broker.tplay.qq.com
 jsonin.com
-jsonnode.com
 jspang.com
 jspassport.ssl.qhimg.com
 jspatch.com
@@ -32937,7 +32933,6 @@ lumiunited.com
 lumyhouse.com
 lunchong.com
 lunkuokeji.com
-lunli1988.com
 lunwenchachong.org
 lunwendj.com
 lunwengo.net

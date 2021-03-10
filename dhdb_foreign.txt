@@ -30677,7 +30677,6 @@ hk.mobi.yahoo.com
 hk.myblog.yahoo.com
 hk.napi.ucweb.com
 hk.news.yahoo.com
-hk.pool.ntp.org
 hk.search.yahoo.com
 hk.video.news.yahoo.com
 hk.yahoo.com

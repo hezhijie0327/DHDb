@@ -8874,7 +8874,6 @@
 9-qq.com
 9-sun.com
 9-zhuce.com
-9.rarbg.com
 9.rarbg.me
 9.rarbg.to
 900.la
@@ -10133,7 +10132,6 @@ a.telus.com
 a.thefreedictionary.com
 a.thefreethoughtproject.com
 a.tiyuxiu.com
-a.tovarro.com
 a.track.sohu.com
 a.tribalfusion.com
 a.tuizhuti.com
@@ -10405,7 +10403,6 @@ a963.com
 a9av.me
 a9vg.com
 aa-metrics.ab-road.net
-aa-metrics.airreserve.net
 aa-metrics.airrsv.net
 aa-metrics.beauty.hotpepper.jp
 aa-metrics.golf-jalan.net
@@ -10471,7 +10468,6 @@ aaddss.tohomh.com
 aadongman.com
 aaex.uk
 aafp.org
-aag.yahooapis.jp
 aaid.uyunad.com
 aak90.com
 aam.gumtree.com.au
@@ -11053,7 +11049,6 @@ ad-cn.net
 ad-count.adwo.com
 ad-creative.projectcarmen.com
 ad-creatives-public.commondatastorage.googleapis.com
-ad-delivery.net
 ad-display.wikawika.xyz
 ad-emea.doubleclick.net
 ad-feed.com
@@ -11158,6 +11153,7 @@ ad.cctv.com
 ad.cdnjm.cn
 ad.centrum.cz
 ad.cgi.cz
+ad.chandrabindu.net
 ad.chieuhoa.com
 ad.clickdistrict.com
 ad.clickotmedia.com
@@ -11592,7 +11588,6 @@ adbn.masterinvest.info
 adboe.com
 adbot.theonion.com
 adbox.sina.com.cn
-adbreak.cubecdn.net
 adbridge.de
 adbroker.mp.dse.microsoft.com
 adbs.ximalaya.com
@@ -11636,7 +11631,6 @@ adcolony.com
 adcommerce.cn
 adcommerce.tv
 adconfer.com
-adcontent.gamespy.com
 adcontent.reedbusiness.com
 adcore.lenovomm.com
 adcorps.com
@@ -12218,7 +12212,6 @@ ads.catholic.org
 ads.cbc.ca
 ads.ccstock.cn
 ads.cdn.rovio.com
-ads.cdn.tvb.com
 ads.ce.cn
 ads.celtra.com
 ads.centraliprom.com
@@ -12286,7 +12279,6 @@ ads.economist.com
 ads.edbindex.dk
 ads.egrana.com.br
 ads.einmedia.com
-ads.eircom.net
 ads.electrocelt.com
 ads.elitetrader.com
 ads.elpais.com.uy
@@ -15732,6 +15724,7 @@ analyticsengine.s3.amazonaws.com
 analyticskey.com
 analyticsnew.overwolf.com
 analyticsreporting.googleapis.com
+analyticsssl.forcepoint.com
 analytictech.com
 analyze.full-marke.com
 analyzer.fc2.com
@@ -16248,7 +16241,6 @@ aolaiw.com
 aolei520.com
 aoliday.com
 aolnews.com
-aolsvc.snowqueen.ru
 aolylcd.com
 aomedia.org
 aomen661.com
@@ -16477,6 +16469,7 @@ api.cortana.ai
 api.cp12.ott.cibntv.net
 api.cpu.baidu.com
 api.crittercism.com
+api.crypto-loot.com
 api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
@@ -18767,7 +18760,6 @@ azoyagroup.com
 azpolice.com
 azri.my
 azstarnet.com
-aztecaonline.net
 aztecleisure.biz
 aztwwe.satom.ru
 azubu.tv
@@ -35753,7 +35745,6 @@ darkness-risen.com
 darknight.blog
 darkreading.com
 darkz.co
-darlingtonandstocktontimes-gb.darlingtonandstocktontimes.co.uk
 darmao.com
 darmoweliczniki.pl
 darongcheng.com
@@ -40435,7 +40426,6 @@ e.qj10b.cn
 e.qq.com
 e.qxfly.com
 e.ricpt.com
-e.s9wp1.cn
 e.sanitwealth.com
 e.sogou.com
 e.szqifu.com
@@ -61266,7 +61256,6 @@ item.mediav.com
 item24.hu
 item24.pl
 itemdb.com
-items.bingdiantao.com
 itensoft.com
 itepian.com
 iteratehq.com
@@ -66497,7 +66486,6 @@ klassekampen.no
 klaviyo.com
 klaviyo.map.fastly.net
 kldjy.com
-klebai.com
 klfxq.kieedi.foosheng.com
 klianfa.com
 klicen.com

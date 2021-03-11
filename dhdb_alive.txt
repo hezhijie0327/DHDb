@@ -34600,6 +34600,7 @@ d000000.com
 d01.notifa.info
 d0evi1.com
 d0z.net
+d1--cn-gotcha04.bilivideo.com
 d1--cn-gotcha04.bilivideo.com.l5.sched.dcloudlive.com
 d1--cn-gotcha204.bilivideo.com
 d1--cn-gotcha204.bilivideo.com.l5.sched.dcloudlive.com
@@ -40449,7 +40450,6 @@ e.weather.com.cn
 e.wikigifth.com
 e.wonwg.com
 e.x.cn.xtgreat.com
-e.xiangchim0.com
 e.xkqpco.com.com
 e.xxkio.com
 e.zkwsdf.com
@@ -49052,6 +49052,7 @@ get.paradise8.com
 get.rubyroyal.com
 get.sage.com
 get.slotocash.com
+get.sogou.com
 get.tfiph.com
 get.thefile.me
 get.thisisvegas.com
@@ -86224,7 +86225,6 @@ player.alloutwedding.com
 player.anyclip.com
 player.avplayer.com
 player.bilibili.com
-player.bilibili.com.w.alikunlun.com
 player.fm
 player.insuranceandhealth.com
 player.quankan.tv
@@ -86320,7 +86320,6 @@ plugin.pc.xunlei.com
 plugin.xl7.xunlei.com
 pluizer.nl
 plumbenefits.com
-plumbus.minutemediaservices.com
 plumvoice.com
 plunder.com
 pluosi.com

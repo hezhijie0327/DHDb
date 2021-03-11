@@ -4719,7 +4719,6 @@
 860816.com
 86175.com
 861817.com
-86188.com
 86215.com
 86516.com
 865211.com
@@ -7837,6 +7836,7 @@ appcpx.com
 appcup.com
 appdaka.com
 appdao.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com

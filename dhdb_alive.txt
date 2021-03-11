@@ -7912,7 +7912,6 @@
 77aka.com
 77amgj.com
 77av.net
-77bx.com
 77dam.com
 77ds.com
 77ds.vip
@@ -12831,6 +12830,7 @@ ads7.gamecity.net
 ads7.speedbit.com
 ads8c.depositfiles.com
 adsaccount.appcpi.net
+adsadmin.corusradionetwork.com
 adsafeprotected.com
 adsage.com
 adsagedsp.com
@@ -15724,7 +15724,6 @@ analyticsengine.s3.amazonaws.com
 analyticskey.com
 analyticsnew.overwolf.com
 analyticsreporting.googleapis.com
-analyticsssl.forcepoint.com
 analytictech.com
 analyze.full-marke.com
 analyzer.fc2.com
@@ -43221,7 +43220,6 @@ events.izooto.com
 events.jianshu.io
 events.jora.com
 events.jotform.com
-events.kaloo.ga
 events.kalooga.com
 events.launchdarkly.com
 events.lbesecapi.com
@@ -61837,7 +61835,6 @@ j.xingshangnet.com
 j.xinshipu.com
 j.zhdap.com
 j.zykxjt.com
-j0005.com
 j0129.com
 j0158.com
 j1.com
@@ -74617,6 +74614,7 @@ metric.timewarnercable.com
 metric.trulia.com
 metric.tsite.jp
 metric.vodacom.co.za
+metric.volkswagen.com
 metric.worldcat.org
 metricool.com
 metrics-api.librato.com
@@ -79759,6 +79757,7 @@ news.swisspostsolutions.com
 news.thefappening.sexy
 news.tvb.com
 news.tvbs.com.tw
+news.ueep.com
 news.vuer.net
 news.yahoo.com
 news.ycombinator.com

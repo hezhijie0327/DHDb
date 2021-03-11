@@ -101,7 +101,6 @@
 009.com
 009199.com
 00934.com
-009858.com
 00991901.com
 0099524.com
 00997708.com
@@ -10096,7 +10095,6 @@ a.proxy5.nullrefexcep.com
 a.pub.network
 a.qchannel03.cn
 a.qinghua5.com
-a.qncye.net
 a.qsjiajiao.com
 a.quangushi.com
 a.quora.com
@@ -16433,6 +16431,7 @@ api.airpush.com
 api.aixifan.com
 api.ampiri.com
 api.amplitude.com
+api.analytics.omgpop.com
 api.android.dianru.com
 api.anti.wauee.com
 api.api861861.com
@@ -30223,7 +30222,6 @@ clabso.com
 clactonandfrintongazette-gb.clactonandfrintongazette.co.uk
 clady.cc
 claiks.com
-clancy.spiceworks.com
 clannad-movie.jp
 clareity.net
 clarent.com
@@ -37179,7 +37177,6 @@ dianclan.com
 diandainfo.com
 diandanbao.com
 diandao.org
-diandawenku.com
 diandian.com
 diandianchu.com
 diandianqi.com
@@ -38595,6 +38592,7 @@ dolphin-browser.com
 dolphin-center.adsame.com
 dolphin.com
 dolphin.deliver.ifeng.com
+dolphin.ftimg.net
 dolphin4.ftimg.net
 dolphinphp.com
 dom.com
@@ -40362,6 +40360,7 @@ e.aduiz.com
 e.ailix.cn
 e.aiyyu.com
 e.anmeilai.net
+e.apsalar.com
 e.apxyz.com
 e.baidu.com
 e.banmamedia.com

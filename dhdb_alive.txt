@@ -10186,6 +10186,7 @@ a02342.richmondandtwickenhamtimes.co.uk
 a02342.romseyadvertiser.co.uk
 a02342.salisburyjournal.co.uk
 a02342.southendstandard.co.uk
+a02342.southwalesargus.co.uk
 a02342.stalbansreview.co.uk
 a02342.stourbridgenews.co.uk
 a02342.theargus.co.uk
@@ -10398,6 +10399,7 @@ aa.avvo.com
 aa.bathandbodyworks.com
 aa.cbssports.com
 aa.com
+aa.erwinmueller.com
 aa.gushiwen.org
 aa.jiankang.com
 aa.ninze.com
@@ -19749,6 +19751,7 @@ baodauthau.vn
 baodigs.com
 baodu.com
 baofeng.com
+baofeng.m.cn.miaozhen.com
 baofeng.net
 baofeng365.com
 baofengcinema.com
@@ -74910,6 +74913,7 @@ metrics.target.com
 metrics.taste.com.au
 metrics.td.com
 metrics.teambeachbody.com
+metrics.ted.com
 metrics.telegraph.co.uk
 metrics.telenet.be
 metrics.tgw.com
@@ -82124,7 +82128,6 @@ okpush.com
 okpython.com
 okrecovery.com
 okskills.com
-oksmk.com
 okstate.edu
 oksun.com
 oksvn.com

@@ -10162,7 +10162,6 @@ a02342.basildonstandard.co.uk
 a02342.bicesteradvertiser.net
 a02342.bournemouthecho.co.uk
 a02342.brentwoodlive.co.uk
-a02342.bridgwatermercury.co.uk
 a02342.bridportnews.co.uk
 a02342.bromsgroveadvertiser.co.uk
 a02342.bucksfreepress.co.uk
@@ -10189,7 +10188,6 @@ a02342.richmondandtwickenhamtimes.co.uk
 a02342.romseyadvertiser.co.uk
 a02342.salisburyjournal.co.uk
 a02342.southendstandard.co.uk
-a02342.southwalesargus.co.uk
 a02342.stalbansreview.co.uk
 a02342.stourbridgenews.co.uk
 a02342.theargus.co.uk
@@ -10481,7 +10479,6 @@ aas.bellemaison.jp
 aas.ismet.kz
 aas.visitsaudi.com
 aasaam.com
-aasgfd.cn
 aashiengg.com
 aaspt.net
 aast.edu
@@ -12784,6 +12781,7 @@ ads2.brazzers.com
 ads2.clearchannel.com
 ads2.collegeclub.com
 ads2.contentabc.com
+ads2.exhedra.com
 ads2.femmefab.nl
 ads2.gamecity.net
 ads2.greystripe.com
@@ -40100,6 +40098,7 @@ dymr697.top
 dymwsh1c2kslr.cloudfront.net
 dyn.empflix.com
 dyn.im
+dyn.tnaflix.com
 dynacw.co.jp
 dynacw.com
 dynacw.com.cn
@@ -43222,6 +43221,7 @@ events.jotform.com
 events.kalooga.com
 events.launchdarkly.com
 events.lbesecapi.com
+events.matterport.com
 events.mediarithmics.com
 events.medio.com
 events.ocdn.eu
@@ -53520,6 +53520,7 @@ headphonesbeatsaudio.com
 headphonesbeatsbydre.com
 headphoneses.com
 headphonesretailer.com
+heads4-ak-spotify-com.akamaized.net
 headwell.cn
 heaedu.com
 heals.msgfocus.com
@@ -72068,7 +72069,6 @@ m.szqifu.com
 m.szyuke.cn
 m.tansuotv.com
 m.tbenc.com
-m.tdiea.com
 m.themee.cn
 m.tianhaichen.top
 m.tiojk.com
@@ -82822,7 +82822,6 @@ openwrt.org
 openwrt.org.cn
 openwrt.pro
 openx.angelsgroup.org.uk
-openx.aosis.co.za
 openx.cairo360.com
 openx.kgmedia.eu
 openx.skinet.cz
@@ -84058,6 +84057,7 @@ papersee.com
 papertime.cc
 papertime.shop
 paperweekly.site
+paperword.com
 paperwrite.net
 paperyy.com
 papocket.com

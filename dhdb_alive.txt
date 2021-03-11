@@ -10181,7 +10181,6 @@ a02342.clactonandfrintongazette.co.uk
 a02342.dailyecho.co.uk
 a02342.darlingtonandstocktontimes.co.uk
 a02342.dorsetecho.co.uk
-a02342.dudleynews.co.uk
 a02342.echo-news.co.uk
 a02342.eppingforestguardian.co.uk
 a02342.eveshamjournal.co.uk
@@ -11630,6 +11629,7 @@ adcommerce.cn
 adcommerce.tv
 adconfer.com
 adcontent.reedbusiness.com
+adcontent.saymedia.com
 adcore.lenovomm.com
 adcorps.com
 adcount.yoka.com
@@ -12423,7 +12423,6 @@ ads.lesbianpersonals.com
 ads.liberte.pl
 ads.lifethink.net
 ads.linkedin.com
-ads.linksponsor.com
 ads.linktracking.net
 ads.linuxjournal.com
 ads.live365.com
@@ -18247,7 +18246,6 @@ audit.aaa.mgtv.com
 audit.macworld.co.uk
 audit.median.hu
 audit.pcadvisor.co.uk
-audit.quantcast.mgr.consensu.org
 audit.webinform.hu
 auditoradea.ro
 auditorius.ru
@@ -38021,6 +38019,7 @@ dl.cm.ksmobile.com
 dl.delivery.mp.microsoft.com
 dl.discordapp.net
 dl.djicdn.com
+dl.dmhy.org
 dl.dropboxusercontent.com
 dl.google.com
 dl.kinbest.cn
@@ -59064,7 +59063,6 @@ img.3sjt.com
 img.7clink.com
 img.9liuda.com
 img.ad.zhangyue.com
-img.adbox.sina.com.cn
 img.adm.xmfish.com
 img.adnyg.com
 img.adnyg.com.w.kunlungr.com
@@ -76169,7 +76167,6 @@ miusi.co
 miutour.com
 miutrip.com
 miv.ububyiw6655.xyz
-miv.xiangyuym.cn
 mivideo.g.mi.com
 miwifi.com
 mix.adsame.com
@@ -86205,6 +86202,7 @@ playcomet.jp
 playcrab.com
 playdium.com
 playdom.com
+player-feedback-v1.glomex.com
 player-telemetry.vimeo.com
 player.4fusion.xyz
 player.accoona.com
@@ -87687,6 +87685,7 @@ prstats.postrelease.com
 prt-stsdk.vivo.com.cn
 prt.stsdk.vivo.com.cn
 pruc.org
+prudsys-rde.de
 prusamk2.com
 prv.pl
 prvsz4pe.micpn.com

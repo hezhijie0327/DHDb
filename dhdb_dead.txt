@@ -10733,6 +10733,7 @@ i.tapit.com
 i.uzhiv.com
 i0713.wang
 i1.services.social.microsoft.com.nsatc.net
+i11.tietuku.com
 i1758.com
 i2.wljnj.com
 i2p2.no
@@ -10969,6 +10970,7 @@ image-ad.jp
 image.139y.com
 image.9duw.com
 image.agency.91.com
+image.alice.qq.com
 image.av9.cc
 image.hj217.com
 image.qj175.com
@@ -11073,6 +11075,7 @@ img.khgj.cn
 img.khlxw.com
 img.kuwanpx.com
 img.meipic.net
+img.moegirl.org
 img.mybet.com
 img.okd3.cn
 img.oraohui.cn
@@ -11113,6 +11116,7 @@ img.yy78ju.com
 img.zhuanfakong.com
 img.zswph.com
 img.zx590.com
+img1.3366img.com
 img1.ctags.cn
 img1.mekbet.com
 img1.tanv.com
@@ -11126,6 +11130,7 @@ img2.pengfu.net
 img3.fy1g.com
 img3.lianmengma.com
 img4399.com
+img6.douban.com
 img752.de92.com
 img9.3393.com
 imgcdc.com
@@ -11328,11 +11333,19 @@ iproxysite.com
 ipssh.net
 iptrm.com
 ipv6-publictracker.zooki.xyz
+ipv6.fra.test-ipv6.com
+ipv6.ipv6-test.ch
+ipv6.login.live.com
+ipv6.lookup.test-ipv6.com
 ipv6.mercax.com
+ipv6.music.163.com
+ipv6.test-ipv6.ch
+ipv6.test-ipv6.com
 ipv6.tracker.btsync.gq
 ipv6.tracker.harry.lu
 ipv6.tracker.zerobytes.xyz
 ipv6.vip123.cf
+ipv6.vm3.test-ipv6.com
 ipv6bot.whatismyipaddress.com
 ipv6check-http.steamcontent.com
 ipv6check-udp.steamcontent.com
@@ -12275,6 +12288,7 @@ kcai555.com
 kcai772.com
 kcai779.com
 kcai868.com
+kcart.alipay.com
 kcc.g31hc.cn
 kcdnvip.com
 kcvc.com.cn
@@ -12860,6 +12874,7 @@ libivan.com
 licaigc.com
 licaishisina.com
 licat.com
+license.comsenz.com
 license3.bluesoleil.com
 lidecheng.com
 liebao.live
@@ -12876,6 +12891,7 @@ lifevccdn.com
 lifox.net
 lightalk.com
 lightfire.cc
+lighthouseapi.dmall.com
 lighthz.com
 lightonus.com
 lightson.vpsboard.com
@@ -14413,6 +14429,7 @@ mailshanguo.com
 maimengjun.com
 maimengkeji.com
 main.minero.cc
+maintain.dmall.com
 mairoot.com
 maishitv.com
 maishou88.com
@@ -14432,6 +14449,7 @@ maldonandburnhamstandard-gb.maldonandburnhamstandard.co.uk
 mallheadphone.com
 mallzto.com
 malverngazette-gb.malverngazette.co.uk
+mam6.netease.com
 mamipush.com
 man255.com
 man426.com
@@ -14564,6 +14582,7 @@ media-imdb.com
 media.goldline.pro
 media.match.com
 media.motrixi.com
+media.st.dl.bscstorage.net
 media.trafficfactory.biz
 media.zgc66.com
 mediacategory.com
@@ -15169,6 +15188,7 @@ msft.net
 msftauth.cn
 msftauth.net
 msftnet.org
+msftspeechmodelsprod.azureedge.net
 msg.m.letv.com
 msg.mbm.cn.miaozhen.com
 msg.mobile.kglink.cn
@@ -15187,6 +15207,7 @@ mss.fartit.com
 mssi.pw
 msspgw.cn
 msstatic.com
+msstestdn.sankuai.com
 msttz.tst98.com
 mtiancity.com
 mtime.cn
@@ -15277,6 +15298,7 @@ mwcloudcdn.info
 mwcname.com
 mwms4.com
 mwrfchina.org
+mx-fe154-66.meituan.com
 mx.biquge.info
 mx.loubiqu.com
 mx03.phorm.com
@@ -15619,6 +15641,7 @@ nikecloud.com
 nikest.com
 niketracking.com
 nikkei.jp
+nil.a.com
 nile.works
 nimg.jp
 nimiq-network.com

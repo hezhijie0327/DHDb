@@ -14929,6 +14929,7 @@ cache.datamart.windows.com
 cache.sellwild.com
 cache.send.microadinc.com
 cache.soloth.com
+cache.xw126.com
 cache1.value-domain.com
 cache2.delvenetworks.com
 cachefly.net
@@ -31095,6 +31096,7 @@ hk.mobi.yahoo.com
 hk.myblog.yahoo.com
 hk.napi.ucweb.com
 hk.news.yahoo.com
+hk.pool.ntp.org
 hk.search.yahoo.com
 hk.video.news.yahoo.com
 hk.yahoo.com
@@ -36106,6 +36108,7 @@ k259.com
 k2938.com
 k2999.com
 k3.hk303.c8763.com
+k345.cc
 k3887.com
 k4fu.verif.com
 k4nz.com

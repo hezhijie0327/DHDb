@@ -8852,7 +8852,6 @@
 888.abc1234.com
 888.com
 888.etowns.org
-888.gl000.com
 888.jbi8888.com
 888.so
 888.sy0606.com
@@ -10442,6 +10441,7 @@ a02342.gazette-news.co.uk
 a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
 a02342.harwichandmanningtreestandard.co.uk
+a02342.heraldscotland.com
 a02342.maldonandburnhamstandard.co.uk
 a02342.northwichguardian.co.uk
 a02342.penarthtimes.co.uk
@@ -27987,6 +27987,7 @@ cdn.registerdisney.go.com
 cdn.relaido.jp
 cdn.resonate.com
 cdn.rhombusads.com
+cdn.rocks.io
 cdn.rove.cl
 cdn.runative-syndicate.com
 cdn.samsung.com
@@ -35785,6 +35786,7 @@ d1vguuq5efvsfq.cloudfront.net
 d1vrcwxei1aj0g.cloudfront.net
 d1w24oanovvxvg.cloudfront.net
 d1wi563t0137vz.cloudfront.net
+d1wirc5qsdb1y5.cloudfront.net
 d1wjj8n9m51z7v.cloudfront.net
 d1wjz6mrey9f5v.cloudfront.net
 d1wn3.cn
@@ -38590,6 +38592,7 @@ dii2.zooplus.it
 dii2.zooplus.no
 dii2.zooplus.pl
 dii2.zooplus.pt
+dii2.zooplus.ro
 dii2.zooplus.se
 diigo.com
 dijingchao.com
@@ -41061,6 +41064,7 @@ dutinf.com
 dutor.net
 dutory.com
 dutype.com
+duu8lzqdm8tsz.cloudfront.net
 duuchin.com
 duwenfei.com
 duwenxue.com
@@ -73939,7 +73943,6 @@ m.gzrljx.cn
 m.h0x.cn
 m.hao123.com
 m.hdboping.com
-m.heshanwan.cn
 m.heygugu.com
 m.hhllyt.com
 m.hissq.com
@@ -79827,7 +79830,6 @@ msn.com
 msn.com.tw
 msnapk.com
 msnbc.com
-msneg.com
 msnewskids.com
 msnewskids.net
 msnewskids.org

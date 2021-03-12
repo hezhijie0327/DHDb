@@ -8941,7 +8941,6 @@ api-priconne-redive.cygames.jp
 api-secure.recaptcha.net
 api-secure.solvemedia.com
 api-verify.recaptcha.net
-api.0530hz.cn
 api.140proof.com
 api.24kidea.com
 api.a5188yes.com

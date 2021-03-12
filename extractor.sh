@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.4
+# Current Version: 1.0.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/extractor.sh -e "example.org\|zhijie.online" -i /root/AdGuardHome/data -o /root/AdGuardHome/data -u hezhijie0327
@@ -58,14 +58,13 @@ function AnalyseData() {
         querylog_raw=$(cat "${INPUT}/querylog.json")
     else
         querylog_raw=$(cat "${INPUT}/querylog.json" "${INPUT}/querylog.json.*")
-    fi
-    querylog_data=($(echo "${querylog_raw}" | jq -s add | jq -Sr '.QH' | grep -E "${DOMAIN_REGEX}" | grep -v "${EXCLUDE_CUSTOM}" | grep -v "${EXCLUDE_DEFAULT}" | sort | uniq | awk "{ print $2 }"))
+    fi && querylog_data=$(echo "${querylog_raw}" | jq -s add | jq -Sr ".QH" | grep -E "${DOMAIN_REGEX}" | grep -v "${EXCLUDE_CUSTOM}" | grep -v "${EXCLUDE_DEFAULT}" | sort | uniq)
 }
 # Output Data
 function OutputData() {
-    BUILD_TIME=$(date "+%s") && for querylog_data_task in "${!querylog_data[@]}"; do
-        echo "${querylog_data[$querylog_data_task]}" >> "${OUTPUT}/querylog-${USERNAME}-${BUILD_TIME}.txt"
-    done
+    BUILD_TIME=$(date "+%s")
+    echo "${querylog_data}" >> "${OUTPUT}/querylog-${USERNAME}-${BUILD_TIME}.txt"
+    echo "\"${OUTPUT}/querylog-${USERNAME}-${BUILD_TIME}.txt\" has been generated."
 }
 
 ## Process

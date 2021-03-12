@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.6
+# Current Version: 1.0.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/extractor.sh -e "example.org\|zhijie.online" -i /root/AdGuardHome/data -o /root/AdGuardHome/data -u hezhijie0327
@@ -54,7 +54,7 @@ function AnalyseData() {
     else
         EXCLUDE_CUSTOM="${EXCLUDE}"
     fi
-    if [ ! -f "${INPUT}/querylog.json.1" ]; then
+    echo "Processing..." && if [ ! -f "${INPUT}/querylog.json.1" ]; then
         querylog_raw=$(cat "${INPUT}/querylog.json")
     else
         querylog_raw=$(cat "${INPUT}/querylog.json" ${INPUT}/querylog.json.*)
@@ -63,7 +63,6 @@ function AnalyseData() {
 # Output Data
 function OutputData() {
     BUILD_TIME=$(date "+%s")
-    echo "Processing..."
     echo "${querylog_data}" >> "${OUTPUT}/querylog-${USERNAME}-${BUILD_TIME}.txt"
     echo "\"${OUTPUT}/querylog-${USERNAME}-${BUILD_TIME}.txt\" has been generated."
 }

@@ -1,4 +1,7 @@
+0-courier.push.apple.com
 0-gold.net
+0.courier-push-apple.com.akadns.net
+0.gravatar.com
 0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
@@ -380,6 +383,7 @@
 1-cl0ud.com
 1-courier.push.apple.com
 1-courier.sandbox.push.apple.com
+1-courier2.push.apple.com
 1.ajiyuming.com
 1.asia.pool.ntp.org
 1.bb6688.ws
@@ -389,6 +393,7 @@
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.feihua.net.cn
+1.gravatar.com
 1.huilv.cc
 1.hysou.com
 1.kk.sqfuwu.cn
@@ -399,6 +404,7 @@
 1.vsimg.com
 1.win7sky.com
 1.www.s81c.com
+10-courier.push.apple.com
 10.eve.dyx.com
 10.im.cz
 10.rarbg.me
@@ -525,7 +531,10 @@
 10xfotolia.com
 10yougame.com
 11-courier.push.apple.com
+11-courier2.push.apple.com
 11.courier-push-apple.com.akadns.net
+11.courier2-push-apple.com.akadns.net
+11.tlu.dl.delivery.mp.microsoft.com
 11007398.com
 110kj.com
 11113885.com
@@ -704,6 +713,8 @@
 12yc.cc
 12ym.com
 12zw.com
+13-courier.push.apple.com
+13-courier2.push.apple.com
 1300kai.com
 1303483.live173.com
 131.com
@@ -734,6 +745,7 @@
 13ddd.com
 13xiaoshuoa.com
 14-courier.push.apple.com
+14-courier2.push.apple.com
 140ed8.com
 140proof.com
 141hh.com
@@ -753,6 +765,7 @@
 14866.com
 14zhu.com
 15-courier.push.apple.com
+15-courier2.push.apple.com
 15.taboola.com
 1500kai.com
 1501999.com
@@ -890,6 +903,7 @@
 16zhan.com
 17-courier.push.apple.com
 17-courier2.push.apple.com
+17.courier-push-apple.com.akadns.net
 1706316.com
 170nsb.com
 170tao.com
@@ -956,8 +970,10 @@
 17xsj.com
 17xtv.com
 18-courier.push.apple.com
+18-courier2.push.apple.com
 18-sex.us
 18.courier-push-apple.com.akadns.net
+18.courier2-push-apple.com.akadns.net
 1800contacts.com
 1800flowers.com
 1818.net
@@ -1064,6 +1080,7 @@
 18yl.com
 18zg.com
 19-courier.push.apple.com
+19.courier-push-apple.com.akadns.net
 1901999.com
 1906999.com
 190757.com
@@ -1289,6 +1306,7 @@
 20xam.com
 20xue.com
 21-courier.push.apple.com
+21-courier2.push.apple.com
 21-rent.com
 21.biz.tm
 21.courier-push-apple.com.akadns.net
@@ -1409,6 +1427,7 @@
 23-01.com
 23-courier.push.apple.com
 23.25u.com
+23.courier-push-apple.com.akadns.net
 23.my03.com
 23.us.freewww.biz
 23066.com
@@ -1458,6 +1477,7 @@
 23xsw.cc
 24-ads.com
 24-courier.push.apple.com
+24-courier2.push.apple.com
 24.2waky.com
 24.dm.dnset.com
 24.dns2.us
@@ -1514,6 +1534,8 @@
 24ways.org
 24winbet.com
 24x7.soliday.org
+25-courier.push.apple.com
+25.courier-push-apple.com.akadns.net
 25.cr.rs
 25.dns2.us
 25.dnset.com
@@ -1590,6 +1612,7 @@
 27dyy.com
 27meng.com
 28-courier.push.apple.com
+28.courier-push-apple.com.akadns.net
 28.etowns.net
 28.flnet.org
 28.slyip.net
@@ -1618,6 +1641,9 @@
 28u.org
 28weixinqun.com
 29-courier.push.apple.com
+29-courier2.push.apple.com
+29.courier-push-apple.com.akadns.net
+29.courier2-push-apple.com.akadns.net
 292.com
 29365.bet
 2952.cc
@@ -1796,6 +1822,7 @@
 31zscl.com
 32-b.it
 32-courier.push.apple.com
+32-courier2.push.apple.com
 32.courier-push-apple.com.akadns.net
 32.effers.com
 32.etowns.net
@@ -1825,6 +1852,9 @@
 32thing.com
 32top.xyz
 33-courier.push.apple.com
+33-courier2.push.apple.com
+33.courier-push-apple.com.akadns.net
+33.courier2-push-apple.com.akadns.net
 33.etowns.org
 33.jezets.com
 33007.com
@@ -2017,6 +2047,7 @@
 36vv.net
 36zhen.com
 37-courier.push.apple.com
+37.courier-push-apple.com.akadns.net
 3709.com
 370kan.com
 370kk.com
@@ -2037,6 +2068,7 @@
 37zw.net
 38-courier.push.apple.com
 38-courier2.push.apple.com
+38.courier-push-apple.com.akadns.net
 380.bu2z.com
 3800.cx
 380033.com
@@ -2063,6 +2095,7 @@
 38shishang.com
 38xinbo.com
 39-courier.push.apple.com
+39.courier-push-apple.com.akadns.net
 39.suroot.com
 391065.com
 3917001.com
@@ -2199,6 +2232,7 @@
 3zxsw.com
 4-courier.push.apple.com
 40-courier.push.apple.com
+40.courier-push-apple.com.akadns.net
 4000279920.com
 4001006.com
 4006138024.com
@@ -2227,6 +2261,7 @@
 40shopping.com
 40ya.com
 41-courier.push.apple.com
+41-courier2.push.apple.com
 41.courier-push-apple.com.akadns.net
 4115.cabet372.com
 4124.com
@@ -2310,8 +2345,11 @@
 45eee.com
 45it.com
 45zw.cc
+46-105-199-75.any.cdn.anycast.me
 46-105-201-240.any.cdn.anycast.me
 46-courier.push.apple.com
+46-courier2.push.apple.com
+46.courier2-push-apple.com.akadns.net
 46.flnet.org
 4612.yzc596.com
 462546.com
@@ -2321,6 +2359,8 @@
 4699f.com
 46z5j5.xyz
 47-courier.push.apple.com
+47-courier2.push.apple.com
+47.courier2-push-apple.com.akadns.net
 47.ip-51-68-199.eu
 4706.cabet125.com
 4720222.com
@@ -2331,6 +2371,9 @@
 47llll.com
 47zu.com
 48-courier.push.apple.com
+48-courier2.push.apple.com
+48.courier-push-apple.com.akadns.net
+48.courier2-push-apple.com.akadns.net
 48.effers.com
 4823yslicnezzdin.com
 4828229.com
@@ -2344,6 +2387,7 @@
 4869.cc
 48855268.com
 48iuz.com
+49-courier.push.apple.com
 49-courier2.push.apple.com
 49008e.com
 49321.com
@@ -3019,6 +3063,7 @@
 5z5.com
 6-4.org
 6-courier.push.apple.com
+6.courier-push-apple.com.akadns.net
 6000.vip
 60000cp.com
 6000gou.com
@@ -3307,6 +3352,7 @@
 6zrc.com
 7-courier.push.apple.com
 7.1qtv.com
+7.courier-push-apple.com.akadns.net
 700so.com
 701pages.com
 701sou.com
@@ -3904,6 +3950,7 @@
 8liuxing.com
 8live.com
 8muses.com
+8n1.org
 8nc8shot.txxx.com
 8news.com.tw
 8proxy.com
@@ -3923,7 +3970,9 @@
 8ybct.com
 8yzw.com
 8z1.net
+9-courier.push.apple.com
 9-sun.com
+9.courier-push-apple.com.akadns.net
 9.rarbg.com
 9.rarbg.me
 9.rarbg.to
@@ -4379,6 +4428,7 @@
 9zx.com
 a-0001.a-afdentry.net.trafficmanager.net
 a-0001.a-msedge.net
+a-0001.dc-msedge.net
 a-0014.a-msedge.net
 a-ads.com
 a-counter.kiev.ua
@@ -4388,6 +4438,7 @@ a-hospital.com
 a-jazz.com
 a-normal-day.com
 a-ring-fallback.msedge.net
+a-ring.msedge.net
 a-ssl.ligatus.com
 a.198banjia.com
 a.1u2u3u4u.com
@@ -4435,6 +4486,7 @@ a.global.msads.net
 a.hstrck.com
 a.hyperoi.com
 a.imgso.cn
+a.ipv6-test.ch
 a.jjqyk.com
 a.kidstaff.net
 a.klaviyo.com
@@ -4450,6 +4502,7 @@ a.medialaancdn.be
 a.medialytics.com
 a.mktw.net
 a.mobify.com
+a.msn.com
 a.muloqot.uz
 a.nel.cloudflare.com
 a.o2u.jp
@@ -4572,14 +4625,23 @@ a1.api.bbc.co.uk
 a1.mzstatic.com
 a1051.b.akamai.net
 a1108.gi3.akamai.net
+a1339.g2.akamai.net
 a135.wftv.com
+a1449.dscg2.akamai.net
 a152.cc
 a1577.dspb.akamai.net
 a1714.com
 a177429ff0a2d11eab4120a5a92844d8-605541764.eu-central-1.elb.amazonaws.com
+a1778.g2.akamai.net
+a1784.g2.akamai.net
+a1802.dscb.akamai.net
+a1806.dscb.akamai.net
+a1806.dscb.akamai.net.0.1.cn.akamaitech.net
 a1818.dscg2.akamai.net
 a1825.dscd.akamai.net
+a1834.dspg2.akamai.net
 a1838.dscb.akamai.net
+a1838.dscb.akamai.net.0.1.cn.akamaitech.net
 a1843.g1.akamai.net
 a1864.gi3.akamai.net
 a1887.dscq.akamai.net
@@ -4587,11 +4649,15 @@ a1887.dscq.akamai.net.0.1.cn.akamaitech.net
 a1931.dscgi3.akamai.net
 a1931.dscgi3.akamai.net.0.1.cn.akamaitech.net
 a1951.dscb.akamai.net
+a1952.dspw65.akamai.net
+a1963.g2.akamai.net
 a1988.dscg1.akamai.net
 a1988.dsct.akamai.net
 a2.b310.com
 a2.mzstatic.com
 a20309999.byethost9.com
+a2047.dscb.akamai.net
+a2047.dscb.akamai.net.0.1.cn.akamaitech.net
 a2048.com
 a21yishion.com
 a239.gi3.akamai.net
@@ -4697,6 +4763,9 @@ aaaw.xyz
 aabc.gq
 aabc.ml
 aacheji.com
+aadcdn.msauth.net
+aadcdn.msftauth.net
+aadcdnoriginwus2.afd.azureedge.net
 aaddss.tohomh.com
 aaex.uk
 aafp.org
@@ -4746,6 +4815,7 @@ ab-road.net
 ab.5.p2l.info
 ab.advertiserurl.com
 ab126.com
+ab13.mktossl.com
 ab1988.com
 ab8998.com
 abab16.com
@@ -4917,16 +4987,25 @@ account-paypal.info
 account-paypal.net
 account-paypal.org
 account.htcvive.com
+account.live.com
+account.microsoft.com
 account.synology.com
+account.termius.com
 accountkit.com
 accountpaypal.com
 accountpaypal.net
 accountpaypal.org
 accounts.firefox.com
 accounts.google.com
+accounts.livechatinc.com
 accounts.logi.com
+accounts.nvgs.nvidia.com
 accounts.pkr.com
 accp.org
+acctcdn.msauth.net
+acctcdn.msftauth.net
+acctcdnmsftuswe2.azureedge.net
+acctcdnvzeuno.azureedge.net
 accuweather.com
 acdid.acdsystems.com
 acdn.adnxs.com
@@ -5001,6 +5080,7 @@ acloudvideos.com
 aclu.org
 aclweb.org
 acm.org
+acme-v02.api.letsencrypt.org
 acmedia365.com
 acmetoy.com
 acmicpc.info
@@ -5055,6 +5135,7 @@ activism.com
 activities.niagara.comedycentral.com
 activity.browser.intl.miui.com
 activity.serving-sys.com
+activity.windows.com
 activpn.com
 activtrades.cn
 activtrades.com
@@ -5573,6 +5654,7 @@ adgraphics.theonion.com
 adgrx.com
 adguard-vpn.com
 adguard.com
+adguardteam.github.io
 adhall.com
 adhelpnews.com
 adhese.nieuwsblad.be
@@ -5878,6 +5960,7 @@ ads.administrator.de
 ads.adred.de
 ads.adroar.com
 ads.adstream.com.ro
+ads.adthrive.com
 ads.adultfriendfinder.com
 ads.adverline.com
 ads.adxadserv.com
@@ -7168,6 +7251,7 @@ afhjxb.flaconi.de
 afi-b.com
 afi.ssl.gmobb.jp
 afilio.com.br
+aflink-impressions-299952945.eu-west-1.elb.amazonaws.com
 afnpacific.net
 afoo.me
 afp.adchina.com
@@ -7233,6 +7317,7 @@ agoogleaday.com
 agora.pl
 agoraesportes.com
 agpf.de
+agrd.io
 agriturismi-sicilia.com
 agro.hk
 agro.net.ru
@@ -7479,6 +7564,7 @@ aizhet.com
 aizhi.co
 aizhizu.com
 aiziti.net
+ajax.aspnetcdn.com
 ajax.cloudflare.com
 ajax.googleapis.com
 ajax.loli.net
@@ -7587,6 +7673,8 @@ albarhotelcollection.com
 albawaba.com
 albbzjx.com
 albeats.com
+albert.apple.com
+albert.gcsis-apple.com.akadns.net
 alchemist.go2cloud.org
 alchemysynth.com
 aldeadesigns.com
@@ -7994,6 +8082,7 @@ ambitvpn.com
 amblrgg.co
 amblrgg.live
 amcas.org
+amcdn.msftauth.net
 amchpr.com
 amcoequipment.ro
 amcp500.com
@@ -8074,8 +8163,12 @@ amon.org
 amon1997.com
 amorz.com
 amoweb.fr
+amp-api-edge.music.apple.com
+amp-api-music-lb.itunes-apple.com.akadns.net
 amp-api-search-edge.apps.apple.com
 amp-api.apps.apple.com
+amp-api.music-akam.apple.com.akadns.net
+amp-api.music.apple.com
 amp-error-reporting.appspot.com
 amp.akamaized.net
 amp.dev
@@ -8110,7 +8203,9 @@ ams-efz.ms-acdc.office.com
 ams-mvp.trafficmanager.net
 ams02.space
 ams1.racingvpn.com
+ams2.current.a.prd.aadg.trafficmanager.net
 ams2.next.a.prd.aadg.trafficmanager.net
+ams2.test-ipv6.com
 amsjsy.com
 amsurg.com
 amtb-taipei.org
@@ -8191,6 +8286,7 @@ analytics.247sports.com
 analytics.30m.com
 analytics.74.ru
 analytics.a-f.io
+analytics.acgnx.net
 analytics.ad.daum.net
 analytics.adfreetime.com
 analytics.admon.com.vn
@@ -8709,6 +8805,7 @@ antiy.com
 antns.com
 antoinette.cl
 antpool.com
+antradar.com
 antvpn.com
 antzk.com
 anuncios.edicaoms.com.br
@@ -8801,9 +8898,11 @@ ap.smardroid.com
 ap2.googleusercontent.com
 apa.me
 apa.org
+apac-afsprod.trafficmanager.net
 apac-asia-courier-4.push-apple.com.akadns.net
 apac-asia-courier-vs.push-apple.com.akadns.net
 apac-china-courier-4.push-apple.com.akadns.net
+apac-china-courier-vs.push-apple.com.akadns.net
 apac.wf.com
 apac01.safelinks.protection.outlook.com
 apac1.notify.windows.com.akadns.net
@@ -8832,6 +8931,8 @@ api-backup.viaxmr.com
 api-edge.apps-lb.itunes-apple.com.akadns.net
 api-edge.apps.apple.com
 api-extractor.com
+api-fra.livechatinc.com
+api-js.mixpanel.com
 api-lp1.znc.srv.nintendo.net
 api-lytics.macpaw.com
 api-panov2.720yun.com
@@ -8873,6 +8974,7 @@ api.arcadia.pncle8.com
 api.atdmt.com
 api.bailingjiankang.com
 api.bitp.it
+api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.cazamba.com
@@ -8894,10 +8996,12 @@ api.flygame.io
 api.fosshub.com
 api.freewebfonts.org
 api.gameofwhales.com
+api.geetest.com
 api.gimbal.com
 api.github.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.identitynow.com
 api.imqtyik.com
 api.infinario.com
@@ -8905,6 +9009,7 @@ api.insight.synology.com
 api.instabug.com
 api.intentiq.com
 api.intercom.io
+api.ithome.com
 api.jetlore.com
 api.kiip.me
 api.linkgist.com
@@ -8956,6 +9061,7 @@ api.steampowered.com
 api.tabnine.com
 api.taplytics.com
 api.termius.com
+api.themoviedatabase.com
 api.themoviedb.org
 api.threema.ch
 api.tr.blismedia.com
@@ -8971,11 +9077,13 @@ api.viaxmr.com
 api.viglink.com
 api.vitservers.pw
 api.viu.now.com
+api.vstsusers.visualstudio.com
 api.wangrunxin.com
 api.waptest.taobao.com
 api.weather.com
 api.wfxll.com
 api.wipmania.com
+api.wtzw.com
 api.xmrpool.net
 api2.poperblocker.com
 api3.stex.com
@@ -8986,6 +9094,8 @@ apic.pinnacle.com
 apicasystem.com
 apieye.com
 apigee.com
+apiion.weather.com.edgekey.net
+apimgmthsjbwb6wj0wktows2eylns9k4cloeqvnvbwjgt89s1u.cloudapp.net
 apinas.nct.vn
 apipub.oumma.com
 apis.appnxt.net
@@ -9049,6 +9159,7 @@ app-sj30.marketo.com
 app-us1.com
 app-web-seo-aso.com
 app.3d.ultimaker.com
+app.adjust.com
 app.adjust.io
 app.adjust.net.in
 app.adjust.world
@@ -9091,6 +9202,7 @@ app.thomsonreuters.com
 app.titsx.com
 app.tutanota.com
 app.updates.digicert.com
+app.vssps.visualstudio.com
 app.w2.4pu.com
 app.yesware.com
 app0le.com
@@ -9314,10 +9426,12 @@ appleglobal.102.112.2o7.net
 applehealth.com.hk
 applehongkong.com
 applehongkong.com.hk
+appleid.apple.com
 appleid.berlin
 appleid.cdn-apple.com
 appleid.com
 appleid.hamburg
+appleid.idms-apple.com.akadns.net
 appleimac.com
 appleinsider.com
 appleiphone.hu
@@ -9620,6 +9734,15 @@ arph.org
 arphic.com
 arphic.com.tw
 array608.prod.do.dsp.mp.microsoft.com
+array802.prod.do.dsp.mp.microsoft.com
+array803.prod.do.dsp.mp.microsoft.com
+array804.prod.do.dsp.mp.microsoft.com
+array806.prod.do.dsp.mp.microsoft.com
+array807.prod.do.dsp.mp.microsoft.com
+array809.prod.do.dsp.mp.microsoft.com
+array810.prod.do.dsp.mp.microsoft.com
+array812.prod.do.dsp.mp.microsoft.com
+array813.prod.do.dsp.mp.microsoft.com
 arrietty.nrj.fr
 arriyadh.com
 arrlrk.edigital.hu
@@ -9741,6 +9864,7 @@ ashasanctuary.com
 ashemaletube.com
 ashens.com
 ashevillainy.com
+ashireent.top
 ashot.txxx.com
 ashvsash.com
 ashvsash.net
@@ -9749,6 +9873,7 @@ asia-dns.com
 asia-east2-trans-filament-233005.cloudfunctions.net
 asia.marketo.com
 asia.nikkei.com
+asia.odcsm1.live.com.akadns.net
 asia.playstation.com
 asiabet11.com
 asiabet168.com
@@ -9791,6 +9916,7 @@ asiaxcom.com
 asiaxxtv.com
 asicminermarket.com
 asimov-win.settings.data.microsoft.com.akadns.net
+asimov.vortex.data.trafficmanager.net
 asis-sugianto.blogspot.hk
 asit.cl
 asivu.com
@@ -9843,13 +9969,16 @@ asset-cache.net
 asset.nahnoji.cz
 asset.pagefair.net
 assets-global.viveport.com
+assets.adobedtm.com
 assets.analog.com
 assets.applovin.com
 assets.awscloud.com
 assets.bomoda.com
 assets.bwbx.io
 assets.cntdy.mobi
+assets.digitalocean.com
 assets.fanart.tv
+assets.fastgit.org
 assets.gumroad.com
 assets.gunosy.com
 assets.igapi.com
@@ -9861,6 +9990,8 @@ assets.oomz.de
 assets.servedby-buysellads.com
 assets.simplifydigital.co.uk
 assets.volvocars.com
+assets.website-files.com
+assets.www.cloudflare.com
 assets.zendesk.com
 assets1.exgfnetwork.com
 assetsadobe.com
@@ -9983,6 +10114,7 @@ att-bundles.com
 att-japan.com
 att-promotions.com
 att-rsvp.com
+att.bbs.fxykx.com
 att.cn
 att.com
 att.jobs
@@ -10113,6 +10245,7 @@ australian-business-online.com
 australiaplus.com
 auth.crypto-webminer.com
 auth.docker.io
+auth.split.io
 auth0.com
 authcaptcha.com
 author.bloggerads.net
@@ -10160,6 +10293,7 @@ autosup.com
 autosurf.vn
 autotrader.com
 autouncle.it
+autoupdate.termius.com
 autozone.com
 autumn-waterfall-c3b1.apkipa.workers.dev
 auvps.com
@@ -10197,6 +10331,7 @@ avandor.com
 avantisvideo.com
 avast.com
 avatacar.com
+avatar.ithome.com
 avatargarenanow-a.akamaihd.net
 avatarmobi.com
 avatars.discourse-cdn.com
@@ -10204,6 +10339,7 @@ avatars.githubusercontent.com
 avatars0.githubusercontent.com
 avatars1.githubusercontent.com
 avatars2.githubusercontent.com
+avatars3.githubusercontent.com
 avatars4.githubusercontent.com
 avatrade.cn
 avatrade.com
@@ -10311,6 +10447,7 @@ aweasdzw.com
 aweber.com
 awebproxy.com
 aweencore.com
+aweme-beta.bytedance.net
 awempire.com
 awesome.section.io
 awetv.com
@@ -10365,6 +10502,7 @@ axxiaoshuo.com
 aydinergil.com
 aydtkb.pikabu.ru
 ayemsa.com.mx
+ayepv6.com
 ayfdc.com
 ayjcysteel.com
 aymbb.com
@@ -10377,9 +10515,12 @@ az-meter.com
 az.5.p2l.info
 az276019.vo.msecnd.net
 az361816.vo.msecnd.net
+az416426.vo.msecnd.net
 az512334.vo.msecnd.net
+az667904.vo.msecnd.net
 az668014.vo.msecnd.net
 az693360.vo.msecnd.net
+az700632.vo.msecnd.net
 az708531.vo.msecnd.net
 az725175.vo.msecnd.net
 az745087.vo.msecnd.net
@@ -10446,6 +10587,7 @@ azurewebsites.net
 azureyun.com
 azwa.ga
 azz.badazz.org
+b-0004.b-msedge.net
 b-fairy.com
 b-ok.as
 b-ok.asia
@@ -11198,6 +11340,7 @@ bbs.dmhy.org
 bbs.ecstart.com
 bbs.fallenark.com
 bbs.foryou1.cf
+bbs.fxykx.com
 bbs.gudicn.com
 bbs.hanminzu.org
 bbs.huasing.org
@@ -12234,6 +12377,7 @@ bingj.com
 binglingtech.com
 bingo929.com
 bingsandbox.com
+bingsettingssearch.trafficmanager.net
 bingvisualsearch.com
 bingwang.cc
 bingworld.com
@@ -12606,6 +12750,7 @@ blender.org
 blenderartists.com
 blendle.nl
 bleua.ecefibwja.xyz
+blhx.danmu9.com
 blianb.com
 blick.ch
 blink.org
@@ -12641,6 +12786,7 @@ blmdc66.com
 blmdq.com
 blmkt.com
 blnjw.com
+blobs.officehome.msocdn.com
 block.mediavenus.biz
 block.s2block.com
 block.s2blosh.com
@@ -12664,6 +12810,7 @@ blog.calibre-ebook.com
 blog.cloudboost.io
 blog.com
 blog.cotten.io
+blog.counter-strike.net
 blog.cyaontheroad.com
 blog.davidziegler.net
 blog.de
@@ -13872,7 +14019,9 @@ browardpalmbeach.com
 browsec.com
 browsehappy.com
 browser-updater.yandex.net
+browser.events.data.microsoft.com
 browser.events.data.msn.com
+browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 browsercam.com
 browserleaks.com
@@ -14343,6 +14492,7 @@ buzztter.com
 bv.com
 bv.ms
 bv866.com
+bvconline.com.ar
 bvin.com
 bvkgqg.sokolov.ru
 bvpn.com
@@ -14455,6 +14605,7 @@ bytdzsw.com
 byte.co
 byte2100.com
 bytecoin.crypto-webminer.com
+bytereef.github.io
 bytextv.com
 bytick.com
 bytint.com
@@ -14480,6 +14631,7 @@ c-119.com
 c-est-simple.com
 c-i.as
 c-lion.com
+c-msn-com-asia-vip.trafficmanager.net
 c-span.org
 c-spanvideo.org
 c-sz.com
@@ -14498,6 +14650,7 @@ c.ar.msn.com
 c.at.msn.com
 c.atdmt.com
 c.be.msn.com
+c.bebi.com
 c.betrad.com
 c.bigmir.net
 c.bing.com
@@ -14539,6 +14692,7 @@ c.j782e.cn
 c.jp.msn.com
 c.kbf365.cn
 c.latam.msn.com
+c.media-amazon.com
 c.media-dl.co
 c.medialytics.com
 c.mfstatic.cz
@@ -14547,6 +14701,7 @@ c.mightiger.net
 c.minisplat.cn
 c.mnet-ad.net
 c.mobishu.com
+c.msn.cn
 c.msn.com
 c.msn.com.cn
 c.my.msn.com
@@ -14596,6 +14751,7 @@ c.ygto.com
 c.za.msn.com
 c.zoepb.cn
 c0.adalyser.com
+c0.wp.com
 c0012.brsimg.com
 c03.optimix.asia
 c0594.com
@@ -14764,6 +14920,7 @@ cabletv.com.hk
 cabletvdirectv.com
 cacafly.com
 cacafly.net
+cacerts.digicert.com
 cache-ssl.celtra.com
 cache.betweendigital.com
 cache.celtra.com
@@ -14839,6 +14996,7 @@ caiweiming.com
 caixabank.es
 caiyuanyou.com
 calameo.com
+caldav.icloud.com
 calebelston.com
 calendars.fe.apple-dns.net
 calendars.icloud.com
@@ -15272,6 +15430,7 @@ casumoaffiliates.com
 casvpn.com
 cat.com
 cat.onlinepeople.net
+catalog.gamepass.com
 catalogs.com
 catch22.net
 catchgod.com
@@ -15340,6 +15499,10 @@ cbvjddh.23txt.com
 cbw111.com
 cby.me
 cbzhuanyun.com
+cc-api-behance.adobe.io
+cc-api-data.adobe.io
+cc-api-teamprojects-ue1.adobe.io
+cc-api-teamprojects.adobe.io
 cc-glass.com
 cc.calltracking.ru
 cc.com
@@ -15541,6 +15704,8 @@ cdn.adsfactor.net
 cdn.adstract.com
 cdn.advertserve.com
 cdn.advsmedia.net
+cdn.adx1.com
+cdn.akamai.steamstatic.com
 cdn.altitudeplatform.com
 cdn.amzuu.com
 cdn.apple-mapkit.com
@@ -15572,6 +15737,7 @@ cdn.creative.medialytics.com
 cdn.cvws.apple-dns.net
 cdn.cyberduck.io
 cdn.debitcrebit669.com
+cdn.digicertcdn.com
 cdn.digitalpush.org
 cdn.districtm.io
 cdn.doke.app
@@ -15591,6 +15757,7 @@ cdn.freejars.com
 cdn.freejax.com
 cdn.freelac.com
 cdn.geedarkihr.cn
+cdn.geni.us
 cdn.gitpod.io
 cdn.glassboxcdn.com
 cdn.hauleddes.com
@@ -15613,6 +15780,7 @@ cdn.klasseo.com
 cdn.komoona.com
 cdn.krxd.net
 cdn.line-apps.com
+cdn.livechatinc.com
 cdn.m.baidu.com.www-sina-cn-com.com
 cdn.malokacha.club
 cdn.marketgid.com
@@ -15627,6 +15795,7 @@ cdn.mountainduck.io
 cdn.mouseflow.com
 cdn.movieads.ru
 cdn.mxpnl.com
+cdn.mysql.com
 cdn.nablabee.com
 cdn.nearbyad.com
 cdn.net.elogia.net
@@ -15644,6 +15813,7 @@ cdn.oneskyapp.com
 cdn.optmd.com
 cdn.paddle.com
 cdn.pljs.ru
+cdn.polyfill.io
 cdn.popcash.net
 cdn.popmyads.com
 cdn.printfriendly.com
@@ -15674,6 +15844,7 @@ cdn.steepto.com
 cdn.taboola.com
 cdn.taboolasyndication.com
 cdn.tekoapis.com
+cdn.termius.com
 cdn.tinglian.com
 cdn.trafficexchangelist.com
 cdn.trafficforce.com
@@ -15715,6 +15886,7 @@ cdn3.apple-mapkit.com
 cdn3.lacoquepersonnalisee.fr
 cdn3.mancdn88.com
 cdn4.apple-mapkit.com
+cdn4.mxpnl.com
 cdn4.waisttrainer.co.nz
 cdn7.baunetz.de
 cdn77.com

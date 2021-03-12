@@ -1475,7 +1475,6 @@
 11880.com
 1188556.com
 1189.tv
-118ex.cn
 118jm.com
 118pan.com
 118qikan.com
@@ -15975,6 +15974,7 @@ analytics.nordea.com
 analytics.nordea.dk
 analytics.nordea.fi
 analytics.nordea.no
+analytics.nordea.se
 analytics.oneplus.cn
 analytics.onesearch.id
 analytics.onlyonlinemarketing.com
@@ -22353,7 +22353,6 @@ bihoo.com
 bihu-static.com
 bihu.com
 bihubao.com
-bihuitianxia.com
 bii-erg.com
 biicode.com
 biikan.com
@@ -28598,7 +28597,6 @@ cfxydefsyy.com
 cfxyfsyy.com
 cfxzp.com
 cfzb.org
-cfzjxxw.com
 cfzq.com
 cg-zwdb.com
 cg.am
@@ -30568,7 +30566,6 @@ chumo028.com
 chunbo.com
 chuncui.net
 chuncuinet.com
-chundakj99.com
 chundi.com
 chundi.org
 chunengauto.com
@@ -34883,7 +34880,6 @@ csweigou.com
 csxcdj.com
 csxdf.com
 csxingfutemple.org
-csxlj.com
 csxsjc.com
 csxtedu.com
 csxww.com
@@ -37073,7 +37069,6 @@ dayday.plus
 daydayup123.com
 dayee.com
 dayfund.cn
-dayhao.com
 dayhr.com
 dayichang.com
 dayifund.org
@@ -44977,7 +44972,6 @@ f-log-mobile-ios.grammarly.io
 f-secure.com
 f-stack.org
 f-tra.com
-f.520tingshu.com
 f.asdfzxcv1312.com
 f.aty.sohu.com
 f.cr.rs
@@ -60858,7 +60852,6 @@ img.tapatalk.com
 img.tenpay.com
 img.tgl.qq.com
 img.theepochtimes.com
-img.users.51.la
 img.uu1001.cn
 img.uyangyong.cn
 img.vaptcha.net
@@ -73578,7 +73571,6 @@ ly-sky.com
 ly-wz.com
 ly.com
 ly.rs
-ly0121.com
 ly1800.com
 ly200-cdn.com
 ly200.com
@@ -77377,7 +77369,6 @@ mic.bahu.xyz
 mic.com
 mic.ububyiw6655.xyz
 mic.xiangyuym.cn
-mic.yun-pdm5000.cn
 mic188.com
 mic9.com
 micai.com
@@ -90687,6 +90678,7 @@ pull-l3-hs.pstatp.com.w.alikunlun.net
 pull-l3-source.douyincdn.com
 pull-l3.douyincdn.com
 pull-lls-f1.douyincdn.com
+pull-lls-f6.douyincdn.com
 pull-lls-l11.douyincdn.com
 pull-lls-l3.douyincdn.com
 pull-lls-l3.douyincdn.com.w.cdngslb.com
@@ -98362,7 +98354,6 @@ setting1.hicloud.com
 settings-ssl.xboxlive.com
 settings-win-ppe.data.microsoft.com
 settings-win.data.microsoft.com
-settings.crashlytics.com
 settings.data.microsoft.com
 settingsfd-geo.trafficmanager.net
 settingsfd-prod-weu1-endpoint.trafficmanager.net

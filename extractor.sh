@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.3
+# Current Version: 1.0.4
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/extractor.sh -e "example.org\|zhijie.online" -i /root/AdGuardHome/data -o /root/AdGuardHome/data -u hezhijie0327
@@ -54,7 +54,12 @@ function AnalyseData() {
     else
         EXCLUDE_CUSTOM="${EXCLUDE}"
     fi
-    querylog_data=($(cat "${INPUT}/querylog.json" | jq -Sr '.QH' | grep -E "${DOMAIN_REGEX}" | grep -v "${EXCLUDE_CUSTOM}" | grep -v "${EXCLUDE_DEFAULT}" | sort | uniq | awk "{ print $2 }"))
+    if [ ! -f "${INPUT}/querylog.json.1" ]; then
+        querylog_raw=$(cat "${INPUT}/querylog.json")
+    else
+        querylog_raw=$(cat "${INPUT}/querylog.json" "${INPUT}/querylog.json.*")
+    fi
+    querylog_data=($(echo "${querylog_raw}" | jq -s add | jq -Sr '.QH' | grep -E "${DOMAIN_REGEX}" | grep -v "${EXCLUDE_CUSTOM}" | grep -v "${EXCLUDE_DEFAULT}" | sort | uniq | awk "{ print $2 }"))
 }
 # Output Data
 function OutputData() {

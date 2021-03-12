@@ -71878,6 +71878,7 @@ www.teenmoviesworld.com
 www.teensnow.com
 www.teitch.tv
 www.teleboerse.de
+www.telecommandsvc.microsoft.com
 www.telex.cc
 www.tellapart.com
 www.tengbo7.com
@@ -71885,6 +71886,7 @@ www.tengbo9.com
 www.tengbo9881.com
 www.tensorflow.org
 www.terasurf.com
+www.termius.com
 www.ternbicycles.com
 www.tesco.net
 www.thairath.co.th
@@ -71906,6 +71908,7 @@ www.theguardian.com.au
 www.thehentaiworld.com
 www.theinterceptbrasil.com
 www.thekleerteam.com
+www.themoviedatabase.com
 www.themoviedb.org
 www.themovs.com
 www.thenude.eu
@@ -71992,6 +71995,8 @@ www.tlcp8.com
 www.tlmshkps.edu.hk
 www.tm.a.prd.aadg.akadns.net
 www.tm.a.prd.aadg.trafficmanager.net
+www.tm.lg.prod.aadmsa.akadns.net
+www.tm.lg.prod.aadmsa.trafficmanager.net
 www.tm.prd.ags.akadns.net
 www.tm888.vip
 www.tm9968.com
@@ -72098,6 +72103,7 @@ www.twfc.org.tw
 www.twgngc.cnns.tw
 www.twgreatdaily.com
 www.twich.tv
+www.twitter.com
 www.twitter.de
 www.twliuchang.com
 www.twmbroadband.com
@@ -72265,6 +72271,7 @@ www.vw366.com
 www.vwin.com
 www.vwin001.com
 www.vwin100.com
+www.vyncke.org
 www.vyprz.com
 www.w123123.com
 www.w3373.com
@@ -72321,6 +72328,7 @@ www.websnapr.com
 www.websurfingproxies.net
 www.weebly.com
 www.weide8.com
+www.welotter.com
 www.wenatcheeworld.com
 www.werich.idv.tw
 www.westca.com
@@ -72339,6 +72347,7 @@ www.wikidata.org
 www.wikileaks-forum.com
 www.wikinews.org
 www.wikipedia.co.uk
+www.wikipedia.org
 www.wikitravel.com
 www.wikizero.com
 www.wiktionary.org
@@ -72443,6 +72452,7 @@ www.xs9999.com
 www.xtb.com
 www.xtremeinn.com
 www.xuehaiblog.com
+www.xuehaoba.com
 www.xuehua.tw
 www.xun6.net
 www.xun77.com
@@ -72943,6 +72953,7 @@ xbingoz.com
 xbiquge.cc
 xbiquge.la
 xbiquge6.com
+xblmessaging.xboxlive.com
 xbluray.cc
 xbongbong.com
 xbookcn.com
@@ -73753,6 +73764,7 @@ xssk.net
 xsstomy.com
 xstatic.nk-net.pl
 xstats.evoload.io
+xsts.auth.xboxlive.com
 xstt5.com
 xsweb.pxuns.com
 xsxkzz.com
@@ -74301,6 +74313,7 @@ yandex.lt
 yandex.lv
 yandex.md
 yandex.net
+yandex.ocsp-responder.com
 yandex.ru
 yandex.st
 yandex.tj
@@ -74539,6 +74552,7 @@ ygcp555.com
 ygcpw.com
 ygdy8.com
 ygdy8.net
+ygjzlc.bar
 ygmpia.worten.pt
 ygto.com
 ygycwx.com
@@ -74793,6 +74807,7 @@ ynmz.net
 ynshf.com
 ynudoo.shoeby.nl
 ynuf.alibaba.com
+ynuf.alipay.com
 ynxr.rangcui.net
 yo-yi.net
 yo.cz
@@ -75562,6 +75577,7 @@ yztown.club
 yzzk.com
 yzzks.com
 z-index.cc
+z-p42-instagram.c10r.facebook.com
 z-stat.com
 z.cdn.braun634.com
 z.cdn.trafficdok.com
@@ -75818,6 +75834,8 @@ zetify.com
 zeus.developershed.com
 zeus.dl.playstation.net
 zeus.slader.com
+zeusmedia.apple.com
+zeusmedia.g.aaplimg.com
 zeutch.com
 zevandeliza.com
 zexy-en-soudan.net

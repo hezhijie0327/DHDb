@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.5
+# Current Version: 1.0.6
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/extractor.sh -e "example.org\|zhijie.online" -i /root/AdGuardHome/data -o /root/AdGuardHome/data -u hezhijie0327
@@ -57,12 +57,13 @@ function AnalyseData() {
     if [ ! -f "${INPUT}/querylog.json.1" ]; then
         querylog_raw=$(cat "${INPUT}/querylog.json")
     else
-        querylog_raw=$(cat "${INPUT}/querylog.json" "${INPUT}/querylog.json.*")
-    fi && querylog_data=$(echo "${querylog_raw}" | jq -s add | jq -Sr ".QH" | grep -E "${DOMAIN_REGEX}" | grep -v "${EXCLUDE_CUSTOM}" | grep -v "${EXCLUDE_DEFAULT}" | sort | uniq)
+        querylog_raw=$(cat "${INPUT}/querylog.json" ${INPUT}/querylog.json.*)
+    fi && querylog_data=$(echo "${querylog_raw}" | jq -Sr ".QH" | grep -E "${DOMAIN_REGEX}" | grep -v "${EXCLUDE_CUSTOM}" | grep -v "${EXCLUDE_DEFAULT}" | sort | uniq)
 }
 # Output Data
 function OutputData() {
     BUILD_TIME=$(date "+%s")
+    echo "Processing..."
     echo "${querylog_data}" >> "${OUTPUT}/querylog-${USERNAME}-${BUILD_TIME}.txt"
     echo "\"${OUTPUT}/querylog-${USERNAME}-${BUILD_TIME}.txt\" has been generated."
 }

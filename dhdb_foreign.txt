@@ -9008,7 +9008,6 @@ api.insight.synology.com
 api.instabug.com
 api.intentiq.com
 api.intercom.io
-api.ithome.com
 api.jetlore.com
 api.kiip.me
 api.linkgist.com
@@ -27962,7 +27961,6 @@ gaytube.com
 gaywatch.com
 gazeta.pl
 gazetevatan.com
-gazetteherald-gb.gazetteherald.co.uk
 gazotube.com
 gb-ceo.com
 gb.wanyi111.com

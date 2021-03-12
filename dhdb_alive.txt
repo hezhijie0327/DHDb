@@ -4971,7 +4971,6 @@
 43-courier.push.apple.com
 4311.com
 43110.cf
-4321.com
 432520.com
 432758.com
 432lb.com
@@ -5633,7 +5632,6 @@
 51jiabo.com
 51jiameng.com
 51jianxie.com
-51jiarenla.com
 51jiasu.com
 51jiaxiao.com
 51jiecai.com
@@ -16511,6 +16509,7 @@ api.infinario.com
 api.insight.synology.com
 api.instabug.com
 api.intentiq.com
+api.intercom.io
 api.io.mi.com
 api.itaoxiaoshuo.com
 api.ivideo.sina.com.cn
@@ -19257,6 +19256,7 @@ baikezh.com
 bailandaily.com
 bailiaijia.com
 bailiangroup.com
+bailifei.com
 bailiguangmang.com
 bailingjiankang.com
 bailitech.com
@@ -33429,6 +33429,7 @@ creative-serving.com
 creative.com
 creative.jdkic.com
 creative.stripchat.com
+creative.strpjmp.com
 creative1cdn.mobfox.com
 creativebloq.com
 creativecloud.com
@@ -35798,7 +35799,6 @@ dasoertliche-marketing.de
 dasougu.com
 dasoujia.com
 dassm.com
-dastann.com
 dasung.com
 dasungtech.com
 dat.foundation
@@ -44609,7 +44609,6 @@ favorite.dftoutiao.com
 favorites.ren
 favotter.net
 favstar.fm
-faw-benteng.com
 faw-mazda.com
 faw-vw.com
 fawaitui.com
@@ -48553,6 +48552,7 @@ gcirm.injersey.com
 gcirm.jacksonsun.com
 gcirm.lsj.com
 gcirm.montgomeryadvertiser.com
+gcirm.muskogeephoenix.com
 gcirm.news-press.com
 gcirm.newsleader.com
 gcirm.press-citizen.com
@@ -59068,6 +59068,7 @@ img.3sjt.com
 img.7clink.com
 img.9liuda.com
 img.ad.zhangyue.com
+img.adbox.sina.com.cn
 img.adm.xmfish.com
 img.adnyg.com
 img.adnyg.com.w.kunlungr.com
@@ -62696,7 +62697,6 @@ jianghao.wang
 jianghehuagong.com
 jianghui.xyz
 jiangjiaolong.com
-jiangjiukc.com
 jiangmg.com
 jiangmin.com
 jiangpaipinpai.com
@@ -63041,6 +63041,7 @@ jimuc.com
 jimucake.com
 jimucc.com
 jimujiazx.com
+jimworld.com
 jin10.com
 jin10x.com
 jin178.com
@@ -70429,6 +70430,7 @@ log2.musical.ly
 log2.spotify.com
 log22.makeshop.co.kr
 log24.ru
+log3-normal-hl.toutiaoapi.com
 log4d.com
 log4geek.cc
 log4x.nixcdn.com

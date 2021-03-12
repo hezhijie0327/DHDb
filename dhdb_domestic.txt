@@ -6307,7 +6307,6 @@ adsence.sogou.com
 adsense.google.cn
 adsense.html5.qq.com
 adserve2.tom.com
-adservice.google.ca
 adservice.google.co.jp
 adservice.google.com
 adservice.google.com.hk
@@ -8620,6 +8619,7 @@ baikemy.net
 baikezh.com
 bailiaijia.com
 bailiangroup.com
+bailifei.com
 bailiguangmang.com
 bailitech.com
 bailitop.com
@@ -15481,7 +15481,6 @@ d.s11.cn
 d.tjgxzs.com
 d.toutiao.com
 d.union.ijinshan.com
-d.xingshangnet.com
 d.xinshipu.com
 d.xitongtiandi.net
 d.yjbys.com
@@ -23075,7 +23074,6 @@ haohanseo.com
 haohaotuan.com
 haohaowan.com
 haohaoxiu.com
-haohaoyx.com
 haohaozhu.com
 haohead.com
 haohiyou.com
@@ -28016,7 +28014,6 @@ jhyongyou.com
 jhzq.com.cn
 ji36.net
 ji7.com
-ji8.cc
 jia-he-jia.com
 jia.com
 jia360.com
@@ -34813,7 +34810,6 @@ mobanma.com
 mobanpai.com
 mobantiankong.com
 mobantianxia.com
-mobantu.com
 mobanwang.com
 mobappconfig.securities.eastmoney.com
 mobartsgame.com

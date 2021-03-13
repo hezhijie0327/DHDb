@@ -10649,6 +10649,7 @@ a7.org
 a70717.com
 a75-10-so.ssl.cdn13.com
 a751.oadz.com
+a771.dscq.akamai.net
 a777.oadz.com
 a8.com
 a8.cyclemarket.jp
@@ -14928,6 +14929,7 @@ alert.autohome.com.cn
 alert.com.mt
 alertover.com
 alerts.ndtv.com
+alerts.thedailystar.net
 alertserver.ushaqi.com
 alesso.net
 aletorrenty.pl
@@ -16368,7 +16370,6 @@ anji66.net
 anjian.com
 anjianghu.net
 anjimicro.com
-anjingshuxiuzhixiang.com
 anjuke.com
 anjukestatic.com
 ankang06.org
@@ -66897,7 +66898,6 @@ junqing360.com
 junrongdai.com
 junsaozg.com
 junshencm.com
-junshi81.com
 junshi881.com
 junshidao.com
 junshifuxin.com
@@ -77060,7 +77060,6 @@ metering.pagesuite.com
 metersbonwe.com
 metersbonwe.net
 methdad.com
-metin520.com
 metlifezeng.com
 metnews.net
 metok.sys.miui.com

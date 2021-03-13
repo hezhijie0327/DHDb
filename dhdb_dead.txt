@@ -7322,6 +7322,7 @@ dl1sw.baidu.com
 dl321.net
 dlbljy.com
 dld.com
+dlg9999.com
 dlgslb.cn
 dlgslb.com
 dlgslb.net
@@ -16004,7 +16005,6 @@ ocm8.masmovil.es
 ocmoo.net
 ocsp-certum.com
 ocsp-responder.com
-ocsp.dcocsp.cn
 octest365.ocjstestdomain.tcdn.qq.com
 octoserver.tk
 ocuf.pzuth.cn

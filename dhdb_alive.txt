@@ -15082,7 +15082,6 @@ alisports.com
 alissl.ucdl.pp.uc.cn
 alistapart.com
 alita.waimai.meituan.com
-alitchina.com
 alithefox.net
 alithon.com
 alitrip.com
@@ -16118,6 +16117,7 @@ analytics.underarmour.com
 analytics.unibuddy.co
 analytics.upworthy.com
 analytics.urx.io
+analytics.us.archive.org
 analytics.valiuz.com
 analytics.vanillaforums.com
 analytics.vendemore.com
@@ -74399,7 +74399,6 @@ m.uissm.com
 m.uocb.cn
 m.uw45o.cn
 m.vaxyz.com
-m.vbinr.com
 m.vchiy.com
 m.verpt.com
 m.video.xiaomi.com
@@ -86384,6 +86383,7 @@ p0636.com
 p0f.whatleaks.com
 p1-be-endcard.pglstatp-toutiao.com
 p1-be-endcard.pglstatp-toutiao.com.wsglb0.com
+p1-dpa.byteimg.com
 p1-dy.bytexservice.com
 p1-juejin.byteimg.com
 p1-tt-ipv6.byteimg.com
@@ -90322,6 +90322,7 @@ pro.m.jd.com
 pro.m.jd.com.gslb.qianxun.com
 pro.proxydns.com
 pro6e.com
+proac.nationwide.com
 proactiv.com
 proactive.base.de
 proall-ar.blogspot.hk

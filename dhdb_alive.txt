@@ -10463,6 +10463,7 @@ a02342.thescottishfarmer.co.uk
 a02342.thurrockgazette.co.uk
 a02342.times-series.co.uk
 a02342.wandsworthguardian.co.uk
+a02342.warringtonguardian.co.uk
 a02342.watfordobserver.co.uk
 a02342.westerntelegraph.co.uk
 a02342.wharfedaleobserver.co.uk
@@ -18010,6 +18011,7 @@ aqzyzx.com
 ar-max.com
 ar.5.p2l.info
 ar.atwola.com
+ar.hao123.com
 ar.i-run.fr
 ar.umeng.com
 ar.voicefive.com
@@ -37363,6 +37365,7 @@ dcs.esprit.be
 dcs.esprit.co.uk
 dcs.esprit.cz
 dcs.esprit.de
+dcs.esprit.es
 dcs.esprit.eu
 dcs.esprit.fr
 dcs.esprit.nl
@@ -47711,7 +47714,6 @@ footlocker.it
 footlocker.pl
 footlocker.pt
 footlocker.se
-footprint.anetwork.ir
 footprintpredict.com
 footprints-pa.googleapis.com
 footymad.net
@@ -80805,7 +80807,6 @@ mycleanmymac.com
 mycliplister.com
 myclub2.com
 myclubworld.com
-mycms.xyz
 mycnc.org
 mycnnews.com
 mycodes.net
@@ -83400,7 +83401,6 @@ noddus.com
 node-log-scdn.yfdts.net
 node.cdntxt.com
 node.coin-hive.com
-node.market-place.su
 node.sm-dafa.com
 node.viaxmr.com
 node2.nimiq-network.com

@@ -20295,7 +20295,6 @@ banners.aftrk.com
 banners.alt.com
 banners.amigos.com
 banners.asiafriendfinder.com
-banners.beevpn.com
 banners.bigmobileads.com
 banners.bol.com.br
 banners.cams.com
@@ -27864,6 +27863,7 @@ cdn-xalbum2.xiaoniangao.cn
 cdn-xphoto2.xiaoniangao.cn
 cdn.0i-i0.com
 cdn.810236.com
+cdn.88-f.net
 cdn.8digits.com
 cdn.9377ne.com
 cdn.actiflex.org
@@ -68969,7 +68969,6 @@ kqj123.com
 kqqy.com
 kqscrl.bonprix.nl
 kqzjw.com
-kqzlzx.com
 kr-cell.com
 kr.com
 kr3360.com
@@ -80391,7 +80390,6 @@ mufengyue.com
 muftah.org
 muftc.com
 mugeda.com
-mugisama.com
 muguaddy.com
 mugw.alipay.com
 muhai.net

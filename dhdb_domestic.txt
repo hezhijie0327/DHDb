@@ -7956,7 +7956,6 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
-api.developer.xiaomi.com
 api.dewmobile.net
 api.df.mob.com
 api.dianru.com
@@ -40796,7 +40795,6 @@ psbc.com
 psc4d.com
 psd8.com
 psdiv.com
-psfpet.com
 psfq.gou.sogou.com
 psing.tech
 psjxty.com

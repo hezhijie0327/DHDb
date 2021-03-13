@@ -9639,7 +9639,6 @@
 95yijing.com
 96005656.com
 960123.com
-960335.com
 960638.com
 96090090.com
 960rc.com
@@ -25032,6 +25031,7 @@ bs-adreview.com
 bs-awh.ne.jp
 bs.commontools.net
 bs.csshq.com.cn
+bs.forward.douban.com
 bs.lamrd.cn
 bs.nakanohito.jp
 bs.orsk.ru
@@ -52833,6 +52833,7 @@ gspe35-ssl.ls.apple.com
 gspe35-ssl.ls.apple.com.mwcname.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls.apple.com.cdn20.com
+gspe79-ssl.ls.apple.com
 gspe85-cn-ssl.ls.apple.com
 gspe85-cn-ssl.ls.apple.com.cdn20.com
 gspe85-cn-ssl.ls.apple.com.w.alikunlun.com
@@ -56316,6 +56317,7 @@ hj3199.com
 hj3299.com
 hj5399.com
 hj5688.com
+hj5788.com
 hj589.com
 hj5899.com
 hj6588.com
@@ -60988,6 +60990,7 @@ img.i8xz.com
 img.img18.com
 img.ithome.com
 img.jbzj.com
+img.jizzads.com
 img.jjkaifa.com
 img.jk51.com
 img.kukudm.com
@@ -75934,7 +75937,6 @@ mattwilcox.net
 maturejp.com
 maturetube.com
 matuszewski.it
-matwav.com
 matwbp.iask.sina.com.cn
 maurices.com
 mauu.me
@@ -78660,7 +78662,6 @@ mitbbsau.com
 mite5.com
 mitem.jd.hk
 mitem.jd.hk.gslb.qianxun.com
-miteno.com
 miteo.net
 mitilove.com
 mitiplus.com
@@ -86633,7 +86634,6 @@ page.amap.com
 page.cainiao.com
 page.cainiao.com.danuoyi.tbcache.com
 page.link
-page.santc.cn
 page.tl
 page.xywy.com
 page1monk.com
@@ -91168,6 +91168,7 @@ purcow.com
 pure18.com
 pure360.com
 pureage.info
+pureapk.com
 pureasme.com
 pureconcepts.net
 purecpp.org

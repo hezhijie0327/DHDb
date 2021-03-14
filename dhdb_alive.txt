@@ -15962,6 +15962,7 @@ analytics.industriemagazin.net
 analytics.infobae.com
 analytics.inform.com
 analytics.inlinemanual.com
+analytics.iraiser.eu
 analytics.islamicfinder.org
 analytics.jiuzhilan.com
 analytics.jodelapis.com
@@ -20848,7 +20849,6 @@ bbs.mychat.to
 bbs.nga.cn
 bbs.omnitalk.org
 bbs.qoos.com
-bbs.search.nkwwnx.com
 bbs.sex169.org
 bbs.sgchinese.com
 bbs.sina.com
@@ -28822,7 +28822,6 @@ ch999.com
 ch999img.com
 cha-tm.com
 cha086.com
-cha127.com
 chabeichong.com
 chacha.com
 chachaba.com
@@ -39098,6 +39097,7 @@ display.360totalsecurity.com
 display.ad.daum.net
 display.adhudong.com
 display.digitalriver.com
+disq.us
 disqus.com
 disquscdn.com
 disqusservice.com
@@ -72065,6 +72065,7 @@ listentoworld.com
 listenvod.com
 listhub.net
 listinganalytics.net
+listlog.baofeng.net
 listorious.com
 lists-tracking.komando.com
 lists.w3.org
@@ -76490,6 +76491,7 @@ mdws.1stchoicesavings.ca
 mdws.accesscu.ca
 mdws.alterna.ca
 mdws.banquelaurentienne.ca
+mdws.blueshorefinancial.com
 mdws.caseracu.ca
 mdws.cbcu.ca
 mdws.cccu.ca

@@ -6835,7 +6835,6 @@
 58display.com
 58dm.com
 58fangdai.com
-58fc17.com
 58fenlei.com
 58game.com
 58gocm.net
@@ -15154,6 +15153,7 @@ aliyundrive.com
 aliyunedu.net
 aliyunfuwuqi.com
 aliyunhn.com
+aliyunlive.com
 aliyunmeng.com
 aliyunqifu.com
 aliyunseccdnct.inter.iqiyi.com
@@ -28041,6 +28041,7 @@ cdn.line-apps.com
 cdn.livechatinc.com
 cdn.lu.sogoucdn.com
 cdn.m.baidu.com.www-sina-cn-com.com
+cdn.malokacha.club
 cdn.marketgid.com
 cdn.marketplaceimages.windowsphone.com
 cdn.media.innity.net
@@ -72177,7 +72178,6 @@ liunews.com
 liunian.info
 liunianbanxia.com
 liurang.com
-liuscx.com
 liusha.info
 liushuba.com
 liusuping.com

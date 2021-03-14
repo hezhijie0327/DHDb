@@ -4588,7 +4588,6 @@ a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
 a02342.harwichandmanningtreestandard.co.uk
 a02342.heraldscotland.com
-a02342.ledburyreporter.co.uk
 a02342.maldonandburnhamstandard.co.uk
 a02342.milfordmercury.co.uk
 a02342.northwichguardian.co.uk
@@ -9046,6 +9045,7 @@ api.coinerra.com
 api.cortana.ai
 api.crittercism.com
 api.crypto-loot.com
+api.developer.xiaomi.com
 api.dropboxapi.com
 api.e-cg.cn
 api.ettoday.net
@@ -11520,7 +11520,6 @@ bd01.daqiso.com
 bd1-china.6789.com
 bd1.52che.com
 bd1.idgdmg.com.cn
-bd107.com
 bd2020.com
 bd4travel.com
 bd625.com
@@ -23812,7 +23811,6 @@ efeerp.com
 eff.org
 effecthub.com
 effectivemeasure.net
-effecttpharm.com
 effers.com
 effexor-xr.1.p2l.info
 efficiency.visma.com

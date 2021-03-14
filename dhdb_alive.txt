@@ -15978,7 +15978,6 @@ analytics.linktr.ee
 analytics.live.com
 analytics.liveact.cri-mw.jp
 analytics.livestream.com
-analytics.localytics.com
 analytics.logsss.com
 analytics.loop-cloud.de
 analytics.mail-corp.com
@@ -15997,6 +15996,7 @@ analytics.mobile.walmart.com
 analytics.mobile.yandex.net
 analytics.mobilegamestats.com
 analytics.moneycat.vn
+analytics.mopub.com
 analytics.mouthshut.com
 analytics.move.ru
 analytics.moviepilot.de
@@ -46886,7 +46886,6 @@ fhrlw.com
 fhtlw.com
 fhxiaoshuo.com
 fhy123.org
-fhyiq.com
 fhyuan.net
 fhyx.com
 fhyx.hk
@@ -51660,6 +51659,7 @@ go.10086.cn
 go.5211game.com
 go.acclaro.com
 go.admost.com
+go.alxbgo.com
 go.bebi.com
 go.bestmobiworld.com
 go.blackrock.com
@@ -74267,6 +74267,7 @@ m.cabet161.com
 m.cdfzcz.com
 m.cdntlz.cn
 m.cdxtny.cn
+m.ceyiuy.com
 m.chaoliangyun.cn
 m.chinachooses.com
 m.chusan.com

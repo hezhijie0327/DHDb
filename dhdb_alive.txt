@@ -10447,7 +10447,6 @@ a02342.penarthtimes.co.uk
 a02342.redditchadvertiser.co.uk
 a02342.redhillandreigatelife.co.uk
 a02342.richmondandtwickenhamtimes.co.uk
-a02342.salisburyjournal.co.uk
 a02342.southendstandard.co.uk
 a02342.southwalesargus.co.uk
 a02342.stalbansreview.co.uk
@@ -14629,7 +14628,6 @@ aisee.tv
 aiseet.aa.atianqi.com
 aiseminar.com
 aisex.com
-aisexbbs.com
 aishedes.com
 aishengji.com
 aisila.com
@@ -19697,7 +19695,6 @@ bababus.com
 babaike.com
 babaimi.com
 babaipu.com
-babalatz.com
 babao.com
 babaofan.com
 babapi.com
@@ -24268,6 +24265,7 @@ bn13.com
 bn2-ris-ap-prod-atm.trafficmanager.net
 bn2b-cor001.api.p001.1drv.com
 bn2b-cor002.api.p001.1drv.com
+bn2b-cor003.api.p001.1drv.com
 bn2b-cor004.api.p001.1drv.com
 bn3p-cor001.api.p001.1drv.com
 bn65.com
@@ -31847,7 +31845,6 @@ cmjz.net
 cmljs.org
 cmm.xmfish.com
 cmme.actonservice.com
-cmmfg.com
 cmmim.com
 cmmsns.qpic.cn
 cmn1lsm2.beliefnet.com

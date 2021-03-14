@@ -4552,7 +4552,6 @@
 3699wan.com
 369beauty.com
 369cc.com
-369gc.com
 369wenku.com
 369xxw.com
 369yizhi.com
@@ -10439,9 +10438,9 @@ a02342.greenocktelegraph.co.uk
 a02342.harwichandmanningtreestandard.co.uk
 a02342.heraldscotland.com
 a02342.maldonandburnhamstandard.co.uk
+a02342.milfordmercury.co.uk
 a02342.northwichguardian.co.uk
 a02342.penarthtimes.co.uk
-a02342.redditchadvertiser.co.uk
 a02342.redhillandreigatelife.co.uk
 a02342.richmondandtwickenhamtimes.co.uk
 a02342.southendstandard.co.uk
@@ -21780,7 +21779,6 @@ benefitsatwork.be
 beneplace.com
 bengalcatusa.com
 bengbeng.com
-bengbuzhangyue.xyz
 bengden.com
 bengfa.biz
 benghuai.com
@@ -33504,6 +33502,7 @@ consent.faz.net
 consent.gutefrage.net
 consent.inm.ie
 consent.mz-web.de
+consent.prismamedia.com
 consent.truste.com
 consentmanager.mgr.consensu.org
 conshow.com
@@ -37585,7 +37584,6 @@ de.jimdo.com
 de.moneroocean.stream
 de.tynt.com
 de.wiktionary.org
-de0.cc
 de01.rayjump.com
 de116.com
 de123.net
@@ -62175,6 +62173,7 @@ intactinsurance.com
 intaek.com
 intagram.com
 intagrm.com
+intake-analytics.wikimedia.org
 intake-logging.wikimedia.org
 intc.com
 intcache.net

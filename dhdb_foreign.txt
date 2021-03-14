@@ -2,7 +2,6 @@
 0-gold.net
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -14557,7 +14556,6 @@ buyu873.com
 buyu875.com
 buyu876.com
 buyu877.com
-buyu878.com
 buyu8833.com
 buyu8855.com
 buyu8899.com

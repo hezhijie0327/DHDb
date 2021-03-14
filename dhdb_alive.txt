@@ -13265,7 +13265,6 @@ adserve.profit-smart.com
 adserve.shopzilla.com
 adserve.viaarena.com
 adserve2.tom.com
-adserver-2.ig.com.br
 adserver-4.ig.com.br
 adserver-5.ig.com.br
 adserver-espnet.sportszone.net
@@ -50633,7 +50632,6 @@ geo.gridsumdissector.com
 geo.hicloud.com
 geo.hltv.org
 geo.homepage-web.com
-geo.kaloo.ga
 geo.kontagent.net
 geo.mattel163.com
 geo.metronews.ca
@@ -63556,6 +63554,7 @@ itpon.com
 itpow.com
 itprotoday.com
 itpub.net
+itpuk-mms.itpro.co.uk
 itpux.com
 itpux.net
 itpwd.com
@@ -70403,7 +70402,6 @@ lazybios.com
 lazyengines.com
 lazylorna.com
 lazymind.me
-lb-adserver.ig.com.br
 lb-floor.com
 lb-pkx01-offline.zhihu.com
 lb.fancydsp.com

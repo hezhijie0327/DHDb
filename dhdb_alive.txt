@@ -39969,7 +39969,6 @@ dongdongwenda.com
 dongdongyx.com
 dongdongzu.com
 dongdui.com
-dongeedu.com
 dongeejiao.com
 dongfang-wh.com
 dongfang.com
@@ -40328,6 +40327,7 @@ download.mediaget.com
 download.mediaplay.ru
 download.microsoft.com
 download.parallels.com
+download.parallels.com.cdn.cloudflare.net
 download.qianka.com
 download.sd.baidu.com
 download.synology.com
@@ -54206,7 +54206,6 @@ haina.com
 hainachuan.org
 hainan.com
 hainan.net
-hainan888.net
 hainanairlines.com
 hainancom.com
 hainancp.com

@@ -9175,7 +9175,6 @@ bangcle.com
 bangdao-tech.com
 banggo.com
 banghaiwai.com
-bangkebao.com
 banglianai.com
 bangongdashi.com
 bangongyi.com
@@ -10133,7 +10132,6 @@ biosrepair.com
 biotgene.com
 bipush.com
 biqudu.tv
-biqufu.com
 biqugemm.com
 biquges.com
 biqugew.com
@@ -19476,7 +19474,6 @@ embryform.com
 embsky.com
 emc77.com
 emcbj.com
-emcbtc.com
 emcsosin.com
 emdcadvertise.eastmoney.com
 emdl.ws.microsoft.com
@@ -31294,7 +31291,6 @@ kaopu001.com
 kaopubao.com
 kaopubao.net
 kaopuj.com
-kaopuwangzhuan.com
 kaopuyun.com
 kaopuyun.net
 kaoqin.com
@@ -36760,6 +36756,7 @@ msdn.itellyou.cn.w.kunluncan.com
 mseddl.gitee.io
 msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
+msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net
 msfpay.com
 msfwifi.3g.qq.com

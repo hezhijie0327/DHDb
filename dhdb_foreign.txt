@@ -9035,7 +9035,6 @@ api.arcadia.pncle8.com
 api.atdmt.com
 api.bailingjiankang.com
 api.bitp.it
-api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.cazamba.com
@@ -29030,6 +29029,7 @@ gmgard.com
 gmidkz5tgm.com
 gmilk.tv
 gmimarkets.com
+gming.org
 gmll.org
 gmobb.jp
 gmocloud.com

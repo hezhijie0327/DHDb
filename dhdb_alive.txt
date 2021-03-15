@@ -310,7 +310,6 @@
 024fuchan.com
 024fuwu.com
 024fzy.com
-024geliweixiu.com
 024grc.com
 024heyi.com
 024hh.com
@@ -10453,6 +10452,7 @@ a02342.warringtonguardian.co.uk
 a02342.watfordobserver.co.uk
 a02342.westerntelegraph.co.uk
 a02342.wharfedaleobserver.co.uk
+a02342.wiltsglosstandard.co.uk
 a02342.wiltshiretimes.co.uk
 a02342.wimbledonguardian.co.uk
 a02342.winsfordguardian.co.uk
@@ -11696,6 +11696,7 @@ ad.sensismediasmart.com.au
 ad.seznam.cz
 ad.simflight.com
 ad.simgames.net
+ad.sina.com.cn
 ad.sinovision.net
 ad.sitemaji.com
 ad.slashgear.com
@@ -39084,6 +39085,7 @@ display.360totalsecurity.com
 display.ad.daum.net
 display.adhudong.com
 display.digitalriver.com
+display.nativemedia.rs
 disq.us
 disqus.com
 disquscdn.com
@@ -43639,7 +43641,6 @@ emugif.com
 emuia.com
 emulatedlab.com
 emulation64.com
-emule-ed2k.com
 emule-project.org
 emulefans.com
 emuparadise.me
@@ -49456,6 +49457,7 @@ g.cn
 g.cn.miaozhen.com
 g.co
 g.csdnimg.cn
+g.d.yoyi.tv
 g.daman.cc
 g.delivery.net
 g.dev
@@ -65398,7 +65400,6 @@ jinkosolar.com
 jinku.com
 jinlaiba.com
 jinlanqihua.com
-jinliaoyang.com
 jinligou.com
 jinlila.com
 jinlinghotel.com

@@ -31369,7 +31369,6 @@ hk.mobi.yahoo.com
 hk.myblog.yahoo.com
 hk.napi.ucweb.com
 hk.news.yahoo.com
-hk.pool.ntp.org
 hk.search.yahoo.com
 hk.video.news.yahoo.com
 hk.yahoo.com
@@ -43558,6 +43557,7 @@ msccrociere.it
 msccruises.com
 mschallenge2018.com
 mscs.svaeuzh.cn
+msdkcoll.emarbox.com
 msdn.com
 msedge.api.cdp.microsoft.com
 msedge.net

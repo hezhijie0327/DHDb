@@ -10435,7 +10435,6 @@ a02342.heraldscotland.com
 a02342.maldonandburnhamstandard.co.uk
 a02342.northwichguardian.co.uk
 a02342.penarthtimes.co.uk
-a02342.redhillandreigatelife.co.uk
 a02342.richmondandtwickenhamtimes.co.uk
 a02342.southendstandard.co.uk
 a02342.southwalesargus.co.uk
@@ -37575,7 +37574,6 @@ de.tynt.com
 de.wiktionary.org
 de01.rayjump.com
 de116.com
-de123.net
 de17a.com
 de1919.com
 de3hzpms0kfq9.cloudfront.net
@@ -91872,7 +91870,6 @@ qctt24h.24h.com.vn
 qcv5.blogtruyen.vn
 qcvf.ifeng.com
 qcw.com
-qcwdpt.com
 qcwhw.com
 qcwlpay.com
 qcwlseo.com
@@ -94942,6 +94939,7 @@ retrack.q-divisioncdn.de
 retracker.akado-ural.ru
 retracker.baikal-telecom.net
 retracker.bashtel.ru
+retracker.goodline.info
 retracker.joxnet.ru
 retracker.krs-ix.ru
 retracker.lanta-net.ru

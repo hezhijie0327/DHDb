@@ -9069,7 +9069,6 @@ api.insight.synology.com
 api.instabug.com
 api.intentiq.com
 api.intercom.io
-api.ithome.com
 api.jetlore.com
 api.kiip.me
 api.linkgist.com
@@ -33604,6 +33603,7 @@ in1-gw2-02-ce7dd027.eastus2.cloudapp.azure.com
 in2-gw2-01-ce7dd027.eastus2.cloudapp.azure.com
 in2-gw2-02-ce7dd027.eastus2.cloudapp.azure.com
 in2-prod-east-us2-23fa330.trafficmanager.net
+in955.com
 in99.org
 inalco.com
 inamo.ru

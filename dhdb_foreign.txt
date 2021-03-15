@@ -15767,6 +15767,7 @@ cdmr.rpz.su
 cdn-1.gamecoast.org
 cdn-102.statdynamic.com
 cdn-2.gamecoast.org
+cdn-adn.rayjump.com
 cdn-ads.thesaigontimes.vn
 cdn-alliancegravity.s3.amazonaws.com
 cdn-api.admost.com
@@ -31691,6 +31692,7 @@ honey.briefly.ru
 honey.my
 honeynet.org
 hong-lawfirm.com
+hongbaosuoping.com
 hongbocheng.com
 hongchalin.com
 hongfeiyang.com

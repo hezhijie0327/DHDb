@@ -1010,7 +1010,6 @@
 1.letvlive.com
 1.lishibu.com
 1.lvshi567.com
-1.mgff.com
 1.mm100.com
 1.modzj.net
 1.nanrenwo.net
@@ -1026,7 +1025,6 @@
 1.tongquee.com
 1.tulaoshi.com
 1.tuxi.com.cn
-1.uc129.com
 1.ufc123.com
 1.up.qingdaonews.com
 1.v-x.com.cn
@@ -16856,7 +16854,6 @@ api-mayi.django.t.taobao.com
 api-mcp.adsp.xunlei.com
 api-pan.xunlei.com
 api-panov2.720yun.com
-api-pricetag.dmall.com
 api-priconne-redive.cygames.jp
 api-push.meizu.com
 api-sc.wtzw.com
@@ -17409,6 +17406,7 @@ app.starschina.com
 app.stex.com
 app.tanwan.com
 app.thomsonreuters.com
+app.titsx.com
 app.tutanota.com
 app.update.yunfancdn.com
 app.updates.digicert.com
@@ -28180,6 +28178,7 @@ cdna.tremormedia.com
 cdnads.cam4.com
 cdnads.com
 cdnas.hyperpromote.com
+cdnasset.dantri.com.vn
 cdnassets.115.com
 cdnaws.mobidea.com
 cdnbest.com
@@ -33778,6 +33777,7 @@ corepublishingsolutions.com
 coreyjew.com
 cornell.edu
 corner.ch
+corner.houyi.baofeng.net
 cornercard.ch
 cornerstone.edu
 coronalabs.com
@@ -46233,6 +46233,7 @@ fbworkmail.com
 fbxslw.com
 fbycnk.chiaki.vn
 fc-ccimage.baidu.com
+fc-feed.cdn.bcebos.com
 fc-moto.de
 fc.jgshwx.com
 fc.ufirefly.com
@@ -46489,7 +46490,6 @@ feifandesign.com
 feifantxt.net
 feifanwangg.com
 feifei.com
-feifei6.com
 feifeiboke.com
 feifeicms.co
 feifeiss.com
@@ -57943,7 +57943,6 @@ html.atm.youku.com
 html.it
 html.keran.hl.cn
 html.shibeiou.com
-html.sunday8.com
 html2.qktoutiao.com
 html580.com
 html5adkit.plusmo.s3.amazonaws.com
@@ -59893,7 +59892,6 @@ icme14.org
 icmedia.eu
 icmedienhaus.de
 icminer.com
-icmoto.com
 icmsdev.com
 icmsms2020.org
 icmyk.cc

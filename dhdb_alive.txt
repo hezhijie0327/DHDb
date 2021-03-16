@@ -16817,6 +16817,7 @@ apgblogs.com
 apgoview.com
 aphidic.com
 api-a.op-mobile.opera.com
+api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
 api-ad.kajicam.com
@@ -36058,6 +36059,7 @@ d2mgk3zfd02vd2.cloudfront.net
 d2mic0r0bo3i6z.cloudfront.net
 d2muzdhs7lpmo0.cloudfront.net
 d2na2p72vtqyok.cloudfront.net
+d2nje72ms8ylvb.cloudfront.net
 d2nlytvx51ywh9.cloudfront.net
 d2nrdy2pg3k168.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
@@ -79956,7 +79958,6 @@ mountain.zhidao.baidu.com
 mountainduck.io
 mountor.net
 mounui.com
-moupdate1.kingsoft-office-service.com
 mousebreaker.com
 mouseflow.com
 mouseplanet.com

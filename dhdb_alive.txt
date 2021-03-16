@@ -10774,7 +10774,6 @@ aavv.com
 aax-cpm.amazon-adsystem.com
 aax-eu-dub.amazon.com
 aax-eu.amazon-adsystem.com
-aax-fe-pek.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
@@ -18596,7 +18595,6 @@ astalavista.us
 astat.bugly.qq.com
 astat.nikkei.com
 asteimmobili.it
-astellas.mdsol.com
 astestech.com
 astfc.com
 astg.widerplanet.com
@@ -26088,6 +26086,7 @@ c.lrzazjl.cn
 c.m.163.com
 c.m06nev.com
 c.media-amazon.com
+c.media-dl.co
 c.medialytics.com
 c.mfstatic.cz
 c.mgid.com
@@ -50037,7 +50036,6 @@ garena.sg
 garena.tv
 garena.tw
 garena.vn
-garga.biz
 garizo.com
 garmuri.com
 garnoc.com
@@ -57244,6 +57242,7 @@ hoodinn.com
 hoodong.com
 hoogge.com
 hookbase.com
+hookqq.com
 hookup.com
 hookyouup.com
 hoolai.com

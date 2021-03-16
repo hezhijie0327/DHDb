@@ -7847,6 +7847,7 @@ apexyun.com
 apgblogs.com
 apgoview.com
 aphidic.com
+api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
 api-ad.kajicam.com
 api-ads.tiantianqutao.com
@@ -11290,7 +11291,6 @@ c.fwone.com
 c.gdt.qq.com
 c.jinliaoyang.com
 c.jjkk.org
-c.jsbgh.cn
 c.kuaiduizuoye.com
 c.kuwo.cn
 c.l.qq.com
@@ -25908,6 +25908,7 @@ httpdns.browser.miui.com
 httpdns.danuoyi.tbcache.com
 httpdns.meituan.com
 httpdns.push.heytapmobi.com
+httpdns.push.oppomobile.com
 httpsbaidu.com
 hturl.cc
 htwed.com

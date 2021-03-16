@@ -6898,6 +6898,7 @@ adserverhd.com
 adservex.media.net
 adservice.dk
 adservice.google.co.za
+adservice.google.com.au
 adservice.google.com.mt
 adservice.google.com.vn
 adservice.tohsoft.com
@@ -9057,7 +9058,6 @@ api.flygame.io
 api.fosshub.com
 api.freewebfonts.org
 api.gameofwhales.com
-api.geetest.com
 api.gimbal.com
 api.github.com
 api.grumft.com
@@ -12456,7 +12456,6 @@ bingads.microsoft.com
 bingagencyawards.com
 bingapistatistics.com
 bingbingyy.com
-bingdiantao.com
 bingdong700.com
 bingfeng.tw
 bingj.com
@@ -31731,6 +31730,7 @@ honpery.com
 honto.jp
 honven.xyz
 honwind.com
+hookqq.com
 hookup.com
 hookyouup.com
 hoolaigames.com
@@ -42040,6 +42040,7 @@ mfyyw.com
 mg.dt00.net
 mg.dt07.net
 mg.ipdxwtn.cn
+mg.k9dzax.cn
 mg.mail.yahoo.com
 mg64.net
 mg6440.com

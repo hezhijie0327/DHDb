@@ -9258,6 +9258,7 @@
 91huayi.com
 91huoke.com
 91ios.com
+91ipip.com
 91jbz.com
 91jf.com
 91jiabohui.com
@@ -16157,7 +16158,6 @@ analyticsengine.s3.amazonaws.com
 analyticskey.com
 analyticsnew.overwolf.com
 analyticsreporting.googleapis.com
-analyticsssl.forcepoint.com
 analytictech.com
 analyze.full-marke.com
 analyzer.fc2.com
@@ -37354,6 +37354,7 @@ dc.sigmob.cn
 dc.tremormedia.com
 dc.webtrends.com
 dc.xhct66.com
+dc08i221b0n8a.cloudfront.net
 dc1.networkbench.com
 dc2210.com
 dc2go.ca
@@ -74577,7 +74578,6 @@ m.yalayi.com
 m.yanjunbo.com
 m.yaoboshiks.cn
 m.yapusheji.com
-m.yc5586.com
 m.ycai947.com
 m.yes.youku.com
 m.yg10x.cn

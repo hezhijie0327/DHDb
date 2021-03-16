@@ -12662,6 +12662,7 @@ ads.game.net
 ads.gamecity.net
 ads.gamecopyworld.no
 ads.gamershell.com
+ads.gamespyid.com
 ads.gamigo.de
 ads.gaming-universe.de
 ads.gaming1.com
@@ -16154,6 +16155,7 @@ analyticsengine.s3.amazonaws.com
 analyticskey.com
 analyticsnew.overwolf.com
 analyticsreporting.googleapis.com
+analyticsssl.forcepoint.com
 analytictech.com
 analyze.full-marke.com
 analyzer.fc2.com
@@ -36605,7 +36607,6 @@ daima.jiduan.cc
 daima.miercn.com
 daima.youbian.com
 daima.ysdui.com
-daima.yutou123.cn
 daima.yuzhulin.com
 daima1.18tzx.com
 daimabiji.com
@@ -39429,6 +39430,7 @@ dm.300zi.com
 dm.519397.com
 dm.aizhan.com
 dm.bytedance.com
+dm.bytedance.com.w.cdngslb.com
 dm.cnbanbao.com
 dm.commentcamarche.net
 dm.cqdxun.cn
@@ -93849,7 +93851,6 @@ rainbowcn.com
 rainbowplan.org
 rainbowred.com
 rainbowsoft.org
-raincy.org
 raindi.net
 raindoe.com
 raindrop.io
@@ -97105,7 +97106,6 @@ sansky.net
 santa-mars.blogspot.hk
 santabarbaraca.com
 santaihu.com
-santc.cn
 sante-dz.com
 santehnika-online.ru
 santelvxing.com
@@ -103621,6 +103621,7 @@ soso7778.com
 sosoapi.com
 sosobt.com
 sosobtc.com
+sosody.net
 sosohaha.com
 sosoo.net
 sosoq.org
@@ -103742,6 +103743,7 @@ sousebar1.xyz
 soushai.com
 soutaowang.com
 south-plus.net
+south-plus.org
 southbeauty.com
 southbeautygroup.com
 southcn.com

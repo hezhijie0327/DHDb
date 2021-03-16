@@ -2434,7 +2434,6 @@
 1800flowers.com
 180102.com
 18095.com
-180zh.com
 181230.com
 1818.net
 18183.com
@@ -45176,6 +45175,7 @@ f-log-mobile-ios.grammarly.io
 f-secure.com
 f-stack.org
 f-tra.com
+f.520tingshu.com
 f.asdfzxcv1312.com
 f.aty.sohu.com
 f.cr.rs
@@ -47613,6 +47613,7 @@ fmg.aty.sohu.com
 fminers.com
 fmip.fe.apple-dns.cn
 fmipmobile.fe.apple-dns.cn
+fmipmobile.fe.apple-dns.net
 fmipmobile.icloud.com
 fmketang.com
 fmkgvu.nestpick.com

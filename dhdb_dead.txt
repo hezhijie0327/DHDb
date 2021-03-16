@@ -3838,6 +3838,7 @@ bbc3.azurewebsites.net
 bbc4.azurewebsites.net
 bbc5.azurewebsites.net
 bbc6.azurewebsites.net
+bbcdn.go.arbopl.bbelements.com
 bbcdn.go.evolutionmedia.bbelements.co
 bbchat.tv
 bbcverticals.com

@@ -27850,6 +27850,7 @@ cdn-cn3.apple-mapkit.com
 cdn-cn4.apple-mapkit.com
 cdn-creatives-akamai-prd.unityads.unity3d.com
 cdn-creatives-highwinds-prd.unityads.unity3d.com
+cdn-creatives-prd.unityads.unity3d.com
 cdn-cvprhkn01m01.streaming.mediaservices.windows.net
 cdn-cvprsg101m01.streaming.mediaservices.windows.net
 cdn-gcs.outfit7.com
@@ -30839,7 +30840,6 @@ cindasoft.com
 cineastentreff.de
 cinehello.com
 cinema-pics-drcn.dbankcdn.cn
-cinema-rrs.hicloud.com
 cinema-tx.hicloud.com
 cinema-ws.hicloud.com
 cinemablend.com
@@ -37027,6 +37027,7 @@ data.circulate.com
 data.cofinoga.fr
 data.com
 data.danmu.baofeng.com
+data.decathlon.de
 data.decathlon.es
 data.decathlon.fr
 data.decathlon.it
@@ -47015,6 +47016,7 @@ finchain.info
 finchina.com
 finchvpn.com
 finchvpn.org
+finctive.com
 find.api.micloud.xiaomi.net
 findacard.com
 findaphd.com
@@ -69723,7 +69725,6 @@ kyzyhello.com
 kz.zf678.com
 kz.zzkoubei.com
 kzeng.info
-kzgame2.com
 kzj365.com
 kzlgd.com
 kznbadminton.co.za
@@ -72982,6 +72983,7 @@ lol99.com
 lolco.net
 loldan.com
 loldh.com
+loldk.com
 loldy.jiangmg.com
 loldytt.com
 loldytt.org
@@ -74481,7 +74483,6 @@ m.sewxi.com
 m.sfscooter.cn
 m.shanbara.jp
 m.shilian168.cn
-m.shwedar.com.cn
 m.simba.taobao.com
 m.sina.com.hk
 m.sjzhushou.com
@@ -79191,7 +79192,6 @@ mo.aaaw.xyz
 mo.alibdm.xyz
 mo.baidu.com
 mo.be
-mo.bigcooc.xyz
 mo.bsxr.com.cn
 mo.byjr899.top
 mo.ccch.xyz
@@ -95498,7 +95498,6 @@ romhui.com
 romjd.com
 romleyuan.com
 romphone.net
-romseyadvertiser-gb.romseyadvertiser.co.uk
 romsver.ro
 romwang.com
 romzhijia.net

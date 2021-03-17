@@ -2,7 +2,6 @@
 0-gold.net
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -4015,7 +4014,6 @@
 90tuke.com
 90wx.com
 90x40.cl
-91.51rmc.com
 910go.com
 911.x24hr.com
 91122jb.com
@@ -24424,6 +24422,7 @@ eolvci.olx.ro
 eomega.org
 eonet.jp
 eonline.com
+eonun.com
 eooioo.com
 eooqoo.com
 eoouoo.com
@@ -31390,6 +31389,7 @@ hk.mobi.yahoo.com
 hk.myblog.yahoo.com
 hk.napi.ucweb.com
 hk.news.yahoo.com
+hk.pool.ntp.org
 hk.search.yahoo.com
 hk.video.news.yahoo.com
 hk.yahoo.com
@@ -52862,7 +52862,6 @@ run.app
 run.to
 runative-syndicate.com
 runbtx.com
-runcornandwidnesworld-gb.runcornandwidnesworld.co.uk
 rundell.org.uk
 rundongex.com
 runescape.com

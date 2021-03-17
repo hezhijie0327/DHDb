@@ -10427,7 +10427,6 @@ a02342.harwichandmanningtreestandard.co.uk
 a02342.heraldscotland.com
 a02342.maldonandburnhamstandard.co.uk
 a02342.northwichguardian.co.uk
-a02342.penarthtimes.co.uk
 a02342.romseyadvertiser.co.uk
 a02342.southendstandard.co.uk
 a02342.southwalesargus.co.uk
@@ -10438,7 +10437,6 @@ a02342.thenorthernecho.co.uk
 a02342.thescottishfarmer.co.uk
 a02342.thurrockgazette.co.uk
 a02342.times-series.co.uk
-a02342.wandsworthguardian.co.uk
 a02342.warringtonguardian.co.uk
 a02342.westerntelegraph.co.uk
 a02342.wharfedaleobserver.co.uk
@@ -14807,7 +14805,6 @@ akbkgame.com
 akdanji.com
 akdcar.com
 akdurak.com
-akex.io
 akey.im
 akey.me
 akeyun.com
@@ -31544,6 +31541,7 @@ cloudflare.net
 cloudflareapps.com
 cloudflareclient.com
 cloudflareinsights.com
+cloudflareok.com
 cloudflaressl.com
 cloudflarestatus.com
 cloudflarestream.com
@@ -35482,6 +35480,7 @@ cyfeng.com
 cyfengchao.com
 cyfk896.top
 cyfp298.top
+cygames.jp
 cygglm.com
 cygwin.com
 cyhd.net
@@ -37392,6 +37391,7 @@ dcsdk12.org
 dcsdn.com
 dcsjw.com
 dcsme.org
+dct.mango-office.ru
 dctbeatsbydre.com
 dctxf.com
 dcv.so

@@ -596,7 +596,6 @@
 1.arpun.com
 1.bashenghuo.com
 1.cjcp.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -740,6 +739,7 @@
 101hr.com
 101jiajiao.com
 101jm.net
+101ms.com
 101weiqi.com
 1020m.com
 1024.com
@@ -1661,7 +1661,6 @@
 1tu.com
 1tu1.com
 1u8stziw.sched.sma.tdnsv5.com
-1uuc.com
 1vp.me
 1w499yq9.sched.sma.tdnsv5.com
 1wandian.com
@@ -14484,7 +14483,6 @@ cncnbd.com
 cncncloud.com
 cncncn.com
 cncnet.net
-cncnki.com
 cncoc.tc.qq.com
 cncoc.tcdn.qq.com
 cncoders.net

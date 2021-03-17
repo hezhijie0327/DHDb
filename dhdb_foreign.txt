@@ -2,6 +2,7 @@
 0-gold.net
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -31802,6 +31803,7 @@ hostei.com
 hostelbookers.com
 hostelworld.com
 hostessbrands.com
+hostgoip.com
 hosting.conduit.com
 hosting.miarroba.info
 hosting4u.net
@@ -32220,7 +32222,6 @@ huaren.us
 huarenjie.com
 huarian.com
 huarong2006.com
-huaruishis.com
 huaruizs.com
 huasehui.com
 huashangnews.com
@@ -39449,7 +39450,6 @@ lua.pl
 lua.ren
 lubbockonline.com
 lubeabc.com
-lubetube.com
 lubeyourtube.com
 lubinscy.pl
 lucanet.com
@@ -46927,7 +46927,6 @@ ooni.org
 ooo.0o0.ooo
 ooo16.net
 ooogo.com
-oooooooo.me
 ooppoo.com
 oops.redditmedia.com
 oopsforum.com

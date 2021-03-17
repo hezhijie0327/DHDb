@@ -10428,7 +10428,6 @@ a02342.heraldscotland.com
 a02342.maldonandburnhamstandard.co.uk
 a02342.northwichguardian.co.uk
 a02342.penarthtimes.co.uk
-a02342.richmondandtwickenhamtimes.co.uk
 a02342.romseyadvertiser.co.uk
 a02342.southendstandard.co.uk
 a02342.southwalesargus.co.uk
@@ -26870,7 +26869,6 @@ canon.hr
 canon.hu
 canon.ie
 canon.it
-canon.kz
 canon.lt
 canon.lu
 canon.lv
@@ -35744,6 +35742,7 @@ d100.net
 d10gj7yjsfriaj.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
 d10lumateci472.cloudfront.net
+d10lv7w3g0jvk9.cloudfront.net
 d10nkw6w2k1o10.cloudfront.net
 d10psrq44igbex.cloudfront.net
 d10vy5gom1ed53.cloudfront.net
@@ -37377,6 +37376,7 @@ dcs.esprit.es
 dcs.esprit.eu
 dcs.esprit.fr
 dcs.esprit.nl
+dcs.esprit.se
 dcs.espritshop.ch
 dcs.espritshop.it
 dcs.espritshop.pl

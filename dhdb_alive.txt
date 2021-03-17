@@ -10421,8 +10421,6 @@ a02342.dailyecho.co.uk
 a02342.darlingtonandstocktontimes.co.uk
 a02342.dorsetecho.co.uk
 a02342.echo-news.co.uk
-a02342.eppingforestguardian.co.uk
-a02342.falmouthpacket.co.uk
 a02342.gazette-news.co.uk
 a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
@@ -35295,6 +35293,7 @@ customcoupon.com
 customdrdrebeats.com
 customer.heartinternet.co.uk
 customer.io
+customeriomail.codecademy.com
 customeriomail.com
 customerly.io
 customizedbeatbydre.com

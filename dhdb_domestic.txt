@@ -5310,6 +5310,7 @@
 92ez.com
 92fox.com
 92hidc.net
+92jiangbei.com
 92kk.com
 92kor.com
 92le.com
@@ -8119,6 +8120,7 @@ app-g.39.net
 app-measurement.com
 app-monitor.ele.me
 app-router.com
+app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -28297,7 +28299,6 @@ ipktv.com
 ipku.com
 iplascloud.com
 iplaypy.com
-iplaypython.com
 iplaysoft.com
 iplist1.yoozii.com
 iplist2.netfree.com.cn

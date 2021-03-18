@@ -1,6 +1,7 @@
 0-100.com
 0-6.com
 0.pic.paopaoche.net
+0.pool.ntp.org
 0.up.qingdaonews.com
 0006999.com
 000dn.com
@@ -145,7 +146,6 @@
 024fuwu.com
 024fytx.com
 024fzy.com
-024geliweixiu.com
 024grc.com
 024heyi.com
 024hh.com
@@ -38313,7 +38313,6 @@ ocsp.digicert.cn
 ocsp.digicert.cn.w.cdngslb.com
 ocsp.globalsign.com
 ocsp.pki.goog
-ocsp2.globalsign.com
 oct-and.com
 oct-cts.com
 oct-sh.com

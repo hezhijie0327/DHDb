@@ -10604,6 +10604,7 @@ a02342.thurrockgazette.co.uk
 a02342.times-series.co.uk
 a02342.wandsworthguardian.co.uk
 a02342.warringtonguardian.co.uk
+a02342.watfordobserver.co.uk
 a02342.westerntelegraph.co.uk
 a02342.wharfedaleobserver.co.uk
 a02342.wiltsglosstandard.co.uk
@@ -29904,7 +29905,6 @@ china.mintel.com
 china.nba.com
 china.petaasiapacific.com
 china.swissquote.com
-china.tg
 china001.com
 china101.com
 china12365.com
@@ -49583,7 +49583,6 @@ fx3q.com
 fx678.com
 fx678img.com
 fx678red.com
-fx968.com
 fxbaogao.com
 fxbqag.znak.com
 fxcccbbs.com
@@ -60177,6 +60176,7 @@ iceinto.com
 icekr.com
 icemakerdirect.com
 icemle.org
+icenci.com
 iceporn.com
 icerocket.com
 iceshi.org
@@ -97032,7 +97032,6 @@ s1.url.cn
 s1.vidtod.me
 s1.wesiedu.com
 s1.wp.com
-s1.xtyzljs.cn
 s1.zuimeitianqi.com
 s10.histats.com
 s10.histats.com.web.cdn.anycast.me

@@ -398,6 +398,7 @@
 1.bb6688.ws
 1.bh5.com.cn
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.cn716.com
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
@@ -2055,6 +2056,7 @@
 360shuashua.com
 360vip.front99.com
 360wxw.com
+360xinfang.com
 360xixi.com
 360yield.com
 360yun.org
@@ -12444,6 +12446,7 @@ bever.nl
 bextbuy.com
 bextra-store.shengen.ru
 beylze.com
+beyondcompare.cc
 beyondfirewall-big5.blogspot.hk
 beyondfirewall.com
 beyondmeasure.rigoltech.com
@@ -37121,6 +37124,7 @@ kanjicho.com
 kankan.today
 kankan365.cc
 kankanblog.com
+kankantv.cc
 kankanwu.com
 kankanzhijian.com
 kankia.com

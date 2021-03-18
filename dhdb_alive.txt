@@ -12323,6 +12323,7 @@ adlermode.com
 adless.io
 adlice.com
 adlink.de
+adlink.shopsafe.co.nz
 adlog.com.com
 adlog.flurry.com
 adlog.shopping.naver.com
@@ -50434,6 +50435,7 @@ gateway.answerscloud.com
 gateway.arc.io
 gateway.dev
 gateway.fe.apple-dns.cn
+gateway.fe.apple-dns.net
 gateway.foresee.com
 gateway.fortunelounge.com
 gateway.icloud.com
@@ -68165,7 +68167,6 @@ kalegou.com
 kali.org
 kalingling.com
 kalone.net
-kaloo.ga
 kalooga.com
 kalstats.kaltura.com
 kaltura.com
@@ -77085,7 +77086,6 @@ media.cz
 media.dabong247.com
 media.discordapp.net
 media.easyads.bg
-media.espace-plus.net
 media.eurolive.com
 media.fastclick.net
 media.fc2.com
@@ -83054,7 +83054,6 @@ news.mpush.qq.com
 news.msn.com.tw
 news.nationalgeographic.com
 news.net.daraz.com
-news.net.finam.ru
 news.njbiz.com
 news.now.com
 news.omy.sg

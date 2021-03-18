@@ -22152,6 +22152,7 @@ dm190.com
 dm2306.settings.live.net
 dm258.cn
 dm258.com
+dm50.jkyd.net
 dm530.net
 dm7gsepi27zsx.cloudfront.net
 dmcbs.com
@@ -39156,7 +39157,6 @@ linuxde.net
 linuxfly.org
 linuxfoundation.org
 linuxfromscratch.org
-linuxgem.org
 linuxhobby.com
 linuxidc.net
 linuxjournal.com

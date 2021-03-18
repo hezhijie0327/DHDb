@@ -7069,6 +7069,7 @@ adservex.media.net
 adservice.dk
 adservice.google.co.za
 adservice.google.com.au
+adservice.google.com.hk
 adservice.google.com.mt
 adservice.google.com.vn
 adservice.tohsoft.com
@@ -17482,7 +17483,6 @@ cl4.apple.com
 cl5-cdn.origin-apple.com.akadns.net
 cl5.apple.com
 clactonandfrintongazette-gb.clactonandfrintongazette.co.uk
-clancy.spiceworks.com
 clannad-movie.jp
 clareity.net
 clarent.com
@@ -23404,7 +23404,6 @@ e.ejiakm.net
 e.enjuk.com
 e.equuscs.com
 e.funnymel.com
-e.g71i1.cn
 e.gcaog.com
 e.gomev.cn
 e.gsycdb.com

@@ -10586,7 +10586,6 @@ a02342.echo-news.co.uk
 a02342.falmouthpacket.co.uk
 a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
-a02342.harwichandmanningtreestandard.co.uk
 a02342.heraldscotland.com
 a02342.maldonandburnhamstandard.co.uk
 a02342.northwichguardian.co.uk
@@ -10594,6 +10593,7 @@ a02342.romseyadvertiser.co.uk
 a02342.southendstandard.co.uk
 a02342.southwalesargus.co.uk
 a02342.stourbridgenews.co.uk
+a02342.theargus.co.uk
 a02342.theboltonnews.co.uk
 a02342.thenorthernecho.co.uk
 a02342.thescottishfarmer.co.uk
@@ -25548,7 +25548,6 @@ bucg.com
 buck.build
 buckbuild.com
 bucketeer.jp
-bucksfreepress-gb.bucksfreepress.co.uk
 bucuo.me
 bucuo100.com
 bucyrustelegraphforum.com
@@ -28733,7 +28732,6 @@ cem.hotelsapi.io
 cem5117.com
 cement365.com
 cementren.com
-ceming.com
 cemyun.com
 cenbel.com
 cencoastbmw.com
@@ -32103,7 +32101,6 @@ cmp.cso.com.au
 cmp.csoonline.com
 cmp.cxo.pl
 cmp.digitalartsonline.co.uk
-cmp.dmgmediaprivacy.co.uk
 cmp.dreamlab.pl
 cmp.greenbot.com
 cmp.hku.hk
@@ -35983,6 +35980,7 @@ d.moviemeng.com
 d.nativendo.de
 d.newssuite.sony.net
 d.pr
+d.pub.network
 d.qchannel03.cn
 d.qingting.fm
 d.rcmd.jp
@@ -41520,7 +41518,6 @@ dushudaren.com
 dushuge.net
 dushuzhong.com
 dushw.com
-dust8.com
 dustdrops.blogspot.hk
 dustin.dk
 dustin.fi
@@ -53662,7 +53659,6 @@ gumo.pro
 gumroad.com
 gumtree.com
 gumtree.sg
-gun-world.net
 gun999.tv
 gunfans.net
 gunfixer.com
@@ -85278,7 +85274,6 @@ offcloud.com
 offcn.com
 offer-wow.com
 offer.alibaba.com
-offers.bycontext.com
 offers.nordvpn.com
 offers.royalvegascasino.com
 offersbymail.com

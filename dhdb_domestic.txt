@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0.pic.paopaoche.net
-0.pool.ntp.org
 0.up.qingdaonews.com
 0006999.com
 000dn.com
@@ -1449,7 +1448,6 @@
 180.xdwan.com
 180102.com
 18095.com
-180zh.com
 181230.com
 18183.com
 181839.com
@@ -6319,7 +6317,6 @@ adclick.g.doubleclick.net
 adclick.tencentmusic.com
 adclock.zdworks.com
 adconfer.com
-adcore.lenovomm.com
 adcount.yoka.com
 add.dz19.net
 addaad.com
@@ -16359,7 +16356,6 @@ daima.dsxdn.com
 daima.jiazhao.com
 daima.miercn.com
 daima.ysdui.com
-daima.yutou123.cn
 daima.yuzhulin.com
 daimabiji.com
 daimadog.com
@@ -21291,7 +21287,6 @@ ft.moad.cn
 ft12.com
 ft22.com
 ftaro.com
-ftbifen.com
 ftbj.net
 ftfast.com
 ftfund.com
@@ -22545,7 +22540,6 @@ gmb2b.com
 gmcchina.net
 gmecity.com
 gmed.cc
-gmem.cc
 gmem.site
 gmgc.info
 gmgdc.com

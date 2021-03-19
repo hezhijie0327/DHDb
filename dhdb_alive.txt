@@ -18046,7 +18046,6 @@ apps.itunes-nocookie.com
 apps.itunes.apple.com.edgekey.net
 apps.mobilityware.com
 apps.mzstatic.com
-apps.mzstatic.com.edgekey.net
 apps.mzstatic.com.mwcname.com
 apps.outfit7.com
 apps.poln.co
@@ -26144,7 +26143,6 @@ byteedu.com
 byteisland.com
 bytereef.github.io
 bytereef.org
-bytexns.com
 bytextv.com
 bytick.com
 bytint.com
@@ -27241,7 +27239,6 @@ captchaapi.115.com
 captchas.freebitco.in
 capterra.com
 captify.co.uk
-captive-cidr.origin-apple.com.akadns.net
 captive.apple.com
 captive.apple.com.edgekey.net
 captive.g.aaplimg.com
@@ -47265,7 +47262,6 @@ filefap.com
 fileflyer.com
 fileforum.com
 filefront.com
-fileindexer.com
 filemail.com
 filemaker.com
 fileparadise.in
@@ -48906,7 +48902,6 @@ freewhale.net
 freewww.biz
 freewww.info
 freexhamster.com
-freexinwen.com
 freexs.org
 freexxxvideoclip.aebn.net
 freeydch.com
@@ -54422,7 +54417,6 @@ hack520.com
 hack6.com
 hackav.com
 hackcn.net
-hackday.com.au
 hackdig.com
 hacked.jp
 hacken.cc
@@ -56123,6 +56117,7 @@ herefordtimes.com
 herewetest.com
 heritage.org
 hermes.jd.com
+hermes.jd.com.gslb.qianxun.com
 hermes.theglobeandmail.com
 hermesworld.com
 herobo.com
@@ -59895,7 +59890,6 @@ iadmatvideo.nosdn.127.net
 iadmob.com
 iadmusicmat.music.126.net
 iadmusicmatvideo.music.126.net
-iadsdk.apple.com
 iadsdk.apple.com.akadns.net
 iadsdk.apple.com.cdn20.com
 iadsdk.apple.com.edgekey.net

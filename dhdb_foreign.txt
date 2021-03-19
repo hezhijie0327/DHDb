@@ -13230,6 +13230,7 @@ blogebay.com
 bloger.wang
 blogfeng.com
 blogflux.com
+blogfshare.com
 blogg.se
 blogger.com
 blogger.googleblog.com
@@ -16949,6 +16950,7 @@ chinaanonymous.com
 chinaapp.org
 chinaar.com
 chinaaviationdaily.com
+chinabdt.com
 chinablog.xyz
 chinabug.net
 chinabx.com
@@ -22924,6 +22926,7 @@ dtysky.moe
 du00.com
 du01z5hhojprz.cloudfront.net
 du1du.cc
+du1du.org
 du2uh7rq0r0d3.cloudfront.net
 du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
@@ -33871,6 +33874,7 @@ img-9gag-fun.9cache.com
 img-a2.ak.imagevz.net
 img-cdn.appinn.net
 img-prod-cms-rt-microsoft-com.akamaized.net
+img-s-msn-com.akamaized.net
 img.2222.moe
 img.7clink.com
 img.ak.impact-ad.jp
@@ -44230,7 +44234,6 @@ msn.com
 msn.com.tw
 msnapk.com
 msnbc.com
-msneg.com
 msnewskids.com
 msnewskids.net
 msnewskids.org

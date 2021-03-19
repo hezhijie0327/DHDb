@@ -12769,6 +12769,7 @@ ads.economist.com
 ads.edbindex.dk
 ads.egrana.com.br
 ads.einmedia.com
+ads.eircom.net
 ads.electrocelt.com
 ads.elitetrader.com
 ads.elpais.com.uy
@@ -20037,7 +20038,6 @@ baidu.jz5u.net
 baidu.masonic-lodge.ca
 baidu.mobi
 baidu.net
-baidu.sb
 baidu.tlssyg.com
 baidu1.codejie.net
 baidu1.com
@@ -45505,7 +45505,6 @@ f-log-mobile-ios.grammarly.io
 f-secure.com
 f-stack.org
 f-tra.com
-f.520tingshu.com
 f.asdfzxcv1312.com
 f.aty.sohu.com
 f.cr.rs
@@ -96110,6 +96109,7 @@ romhui.com
 romjd.com
 romleyuan.com
 romphone.net
+romseyadvertiser-gb.romseyadvertiser.co.uk
 romsver.ro
 romwang.com
 romzhijia.net

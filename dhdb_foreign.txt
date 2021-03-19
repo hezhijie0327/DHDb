@@ -2062,6 +2062,7 @@
 360yield.com
 360yun.org
 360zhijia.com
+360zimeiti.com
 361.cm
 361caipiao.com
 361t.net
@@ -8530,7 +8531,6 @@ analytics.30m.com
 analytics.74.ru
 analytics.a-f.io
 analytics.acgnx.net
-analytics.ad.daum.net
 analytics.adfreetime.com
 analytics.admon.com.vn
 analytics.adpost.org

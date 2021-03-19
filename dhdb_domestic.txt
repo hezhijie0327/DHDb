@@ -5705,7 +5705,6 @@
 9u62fp.tdum.alibaba.com
 9upk.com
 9v.com
-9wan9.com
 9wee.com
 9wee.net
 9weihu.com
@@ -18716,7 +18715,6 @@ e.domob.com.cn
 e.dsjre.com
 e.g7wf6.cn
 e.gxkyl.com
-e.j9wd6.cn
 e.k2wx5.cn
 e.k9wz7.cn
 e.kuaishou.com
@@ -28198,6 +28196,7 @@ ios.rqd.qq.com
 ios8.app
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.w.alikunlun.com
+iosapps.itunes.g.aaplimg.com
 iosappx.com
 iosask.com
 ioschina.cc
@@ -34764,7 +34763,6 @@ mahoupao.com
 mahoupao.net
 mahua.com
 mahuatalk.com
-mai.com
 maianhao.com
 maibw.net
 maicai.api.ddxq.mobi
@@ -38291,6 +38289,7 @@ ocsp.digicert.cn
 ocsp.digicert.cn.w.cdngslb.com
 ocsp.globalsign.com
 ocsp.pki.goog
+ocsp2.globalsign.com
 oct-and.com
 oct-cts.com
 oct-sh.com

@@ -10582,7 +10582,6 @@ a02342.falmouthpacket.co.uk
 a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
 a02342.heraldscotland.com
-a02342.maldonandburnhamstandard.co.uk
 a02342.northwichguardian.co.uk
 a02342.romseyadvertiser.co.uk
 a02342.southendstandard.co.uk
@@ -36289,6 +36288,7 @@ d2ggw6du5pulet.cloudfront.net
 d2ghscazvn398x.cloudfront.net
 d2glav2919q4cw.cloudfront.net
 d2gt9oovykfp1z.cloudfront.net
+d2h67oheeuigaw.cloudfront.net
 d2ho1n52p59mwv.cloudfront.net
 d2hvwfg7vv4mhf.cloudfront.net
 d2i55s0cnk529c.cloudfront.net
@@ -45575,6 +45575,7 @@ f7799.com
 f7ds.liberation.fr
 f7sh2.a.sohu.com
 f8.com
+f8.sa-gaming.net
 f888c.com
 f88yule1.com
 f89df8db52d999348c3dce8454e26ac6.dlied1.cdntips.net
@@ -60029,7 +60030,6 @@ ibooker.cc
 ibookpartner.com
 ibooksauthor.com
 ibookstar.com
-ibornclinic.com
 iboxpay.com
 ibr.cc
 ibroadlink.com
@@ -71992,6 +71992,7 @@ lightget.com
 lightgx.com
 lighthonestyhrd.org
 lighthouse.dmallcdn.com
+lighthouseapi.dmall.com
 lighti.me
 lighting163.com
 lightingchina.com

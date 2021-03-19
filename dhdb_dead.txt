@@ -3283,7 +3283,6 @@ app.ptleju.com
 app.roximity.com
 app.tv333.us
 app.xixiashengdian.com
-app.xunjiepdf.com
 app.xyjqy.com
 app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
@@ -3592,6 +3591,7 @@ awu.01.psychomining.de
 awx1.com
 ax2nssc.icu
 axad.shinobi.jp
+axiaogan.com
 axtmy.com
 axuer.com
 ay.3lga3.cn
@@ -5767,6 +5767,7 @@ cntiaoliao.com
 cntr.lookmovie.io
 cntv.wrating.com
 cnuninet.net
+cnvps.com
 cnwdsy.com
 cnxad.com
 cnxhacker.com
@@ -15053,6 +15054,7 @@ miaozhun.com
 miapp.wasu.cn
 mic.tlwl2.cn
 mic.xiaogouzhuanqian.cn
+mic.yun-pdm5000.cn
 micaitu.net
 michaelmarketl.com
 mico.io

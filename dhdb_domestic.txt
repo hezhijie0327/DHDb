@@ -7919,6 +7919,7 @@ api.fd.mob.com
 api.g.micloud.xiaomi.net
 api.game.letvstore.com
 api.gameanalytics.com
+api.geetest.com
 api.gi.igexin.com
 api.growingio.com
 api.hanju.koudaibaobao.com
@@ -38227,7 +38228,6 @@ oc.cgiaccess.tc.qq.com
 oc.cgiaccess.tcdn.qq.com
 oc.umeng.com
 ocar.tv
-ocbv0.baiyangzs.com
 ocean.sankuai.com
 oceancnc.com
 oceanengine.com

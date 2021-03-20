@@ -4729,6 +4729,7 @@ c.zmjuan.org
 c.zr55.us
 c.zxyywdj.org
 c0011.boursorama.com
+c01.i01.ctlsh.lv3.cloudglb.com
 c074c.azurewebsites.net
 c07aa.com
 c07rr.com
@@ -4867,8 +4868,10 @@ cacaca.0571yy.com
 cacaca.sp96878.com
 cacg.cc
 cache.vn
+cache01.chncomic.com
 cachecn.com
 cachecn.net
+cached-hkgd.steamcontent.com
 cachenotice.cp11.ott.cibntv.net
 cactifans.com
 cad.chosun.com
@@ -5072,6 +5075,7 @@ cdn.cpiera.com
 cdn.cpsoft86.com
 cdn.danmu.56.com
 cdn.dl.7.qq.com
+cdn.edgecast.steamstatic.com
 cdn.hiido.cn
 cdn.hiperadverts.com
 cdn.hivps.xyz
@@ -5150,6 +5154,7 @@ cdnjs.cloudflane.com
 cdnk8.com
 cdnlab.live
 cdnmaster.cn
+cdnnzycn.zhiyeapp.cn
 cdnok.com
 cdntest.a8tiyu.com
 cdntips.com
@@ -5684,6 +5689,7 @@ cm.spacetechnology.net
 cm.vamaker.com
 cm.yigao.com
 cm066.getui.igexin.com
+cm1-hkg1.cm.steampowered.com
 cm1.xmrminingproxy.com
 cm33.cf
 cm4-hkg1.cm.steampowered.com
@@ -6023,6 +6029,7 @@ comet.sputniknews.com
 commontools.net
 communication-comptable.fr
 communications.bnpparibas
+community.edgecast.steamstatic.com
 community.monerise.com
 comodoca2.com
 comodoca3.com
@@ -6824,6 +6831,7 @@ d33rhn1om6dyij.cloudfront.net
 d33uxjz28fpmpx.cloudfront.net
 d33z8jzg2xbwjp.cloudfront.net
 d33zs0szg2w108.cloudfront.net
+d340c48cdea48ae2e8003cfb8ef1f404.jddebug.com
 d347t1jq2o5r0r.cloudfront.net
 d34end593ni7uj.cloudfront.net
 d34igfgmww1rs6.cloudfront.net
@@ -6970,6 +6978,7 @@ d5ou3dytze6uf.cloudfront.net
 d5ux7398801j0.cloudfront.net
 d60y8cj1tje2a.cloudfront.net
 d6cswopzzvdu8.cloudfront.net
+d6e8e98ef7136752330a6c9c2b346a4cb8cae5fed529bddb.dlied1.cdntips.net
 d6odz201mu255.cloudfront.net
 d6ummfe8aubt5.cloudfront.net
 d6w1gd3k8phsc.cloudfront.net
@@ -7173,7 +7182,9 @@ dc.liuliang100.com
 dc.vmoters.com
 dc2.csdn.net
 dc44qjwal3p07.cloudfront.net
+dc8465c2d1160cd065a2cdf8dbb9d86e.jddebug.com
 dc9966.com
+dca5d7d5d0c96162a7d8cbebd7bd94be.jddebug.com
 dcard.io
 dcb123.com
 dcc.ghrtgf.xyz
@@ -7350,6 +7361,8 @@ dhcc.wang
 dhdtk67w1eua6.cloudfront.net
 dhnq96zntgnq1.cloudfront.net
 dhqdb.com
+dhrau1svcmmp01.danaher.org
+dhrau1svcmpr01.danaher.org
 dhtbhsgrz11qt.cloudfront.net
 dhy77jsjr4g76.cloudfront.net
 di.fengchedaomall.cn
@@ -7697,6 +7710,7 @@ down.xzwd.360eus.cn
 down9.xyz
 downbei.com
 downbetter.com
+downcdnx.weibos.cc
 downerapi.com
 downfi.com
 downk.cc
@@ -7704,6 +7718,7 @@ download.apkplz.com
 download.ithome.com.tw
 download.shuzilm.cn
 download05.com
+download2.xmcdn.com.fastcdn.com
 downloadsforipod.com
 downpb.com
 downsave.com
@@ -8470,10 +8485,13 @@ e.zp3oi.cn
 e.zu08e.cn
 e.zunss.com
 e.zvfuka.cn
+e0acdc93c0708c208901d7147383aa88.jddebug.com
 e19.entrychat.com
+e2068b07cca87c8f36eb4eb89d544fa2.jddebug.com
 e4.6dad.com
 e446787135113f15d244203e559be1ea.jddebug.com
 e68cname.com
+e6c34e889b9fd1645909fe6b275a80dc.jddebug.com
 e7560.net
 e8293d7c6320163f7b3dcd269a02618e.jddebug.com
 e98fe.luytr.com
@@ -8490,6 +8508,7 @@ ea.pixmania.it
 ea.pixmania.nl
 ea.pixmania.se
 ea.rueducommerce.fr
+ea9490c099c71bf2402a471a2419d652.jddebug.com
 eac-cdn.com
 eafifaonline2.com
 eagle.adsame.com
@@ -8538,6 +8557,7 @@ ec.com
 ec2-52-192-230-206apnortheast-1.compute.amazonaws.com
 eca.caredaily.me
 ecartoon.net
+ecc4fb8123b39c89a1b6a824f923dfd0.jddebug.com
 eccdnx.com
 ecgapp.com.cn
 ecgapp.net
@@ -8753,6 +8773,7 @@ emui.com
 emule-ed2k.com
 emumax.com
 emw919.com
+en.ce.cn
 en.ishadowx.net
 ename-dns.net
 endless-ss.com
@@ -9060,9 +9081,11 @@ f5soft.tk
 f6888.com
 f8188.com
 f8899.com
+f8dc82a943a61f5b0eb038252dd60f72.jddebug.com
 f9010.com
 fa.corp.163.com
 fa.gov.tw
+fa87d265e9e5eb6e07a6f7146983afb3.jddebug.com
 fabrouter.com
 facebook-covid-19.com
 facebook.br
@@ -9156,6 +9179,7 @@ fawuzaixian.com
 fayea.com
 fayi.baidu.com
 fb.umeng.com
+fb9aef2cb4edc1bcc9fe33ac8e766d73.jddebug.com
 fbaichuan.com
 fbb.nbhotpo.com
 fbc.ffychb.com
@@ -9450,6 +9474,7 @@ fs234.com
 fs31.com
 fsacn.com
 fsc555.com
+fscdntel-vip.115.com
 fscked.org
 fslmzs.com
 fspcdn.com
@@ -9623,6 +9648,7 @@ game.jh.qq.com
 game.kugou.com
 game.kuwo.cn
 game.letvstore.com
+game.pvz.qq.com
 game.vulcan-casino.com
 game.weibo.com.cn
 game4343.com
@@ -9758,6 +9784,7 @@ geoinfo.i2w.io
 geoiplookup.wikimedia.org
 georgianlimerick.com
 gequ888.com
+geroinv.com
 get.766.com
 get.promofor.me
 getbs.com
@@ -10053,6 +10080,7 @@ grge23.com
 grjsq.biz
 gro2004.com
 grohub07.grohub.org
+groupclient.qq.com
 groupe-pv-cp.com
 groups.google.cn
 grs.dbankcloud.eu
@@ -10283,6 +10311,7 @@ halade.com
 haloapps.cn
 hampshirechronicle-gb.hampshirechronicle.co.uk
 han-tang.cc
+hanascan.com
 handanxinkai.com
 hanguozongyi.com
 hanju.cc
@@ -10569,6 +10598,7 @@ hifly.mobi
 hifuntv.com
 higfw.com
 highspeedvpn.com
+highteahop.top
 hihell.com
 hihiforum.com
 hiing.net

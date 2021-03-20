@@ -9361,7 +9361,6 @@ api.cortana.ai
 api.crittercism.com
 api.crypto-loot.com
 api.dell.com
-api.developer.xiaomi.com
 api.dropboxapi.com
 api.duoduomh.1a3.net
 api.e-cg.cn
@@ -13207,7 +13206,6 @@ bkstr.com
 bkxs.net
 bl-1.com
 bl-doujinsouko.com
-bl.impresa.pt
 bl.wavecdn.de
 bl090.com
 bl5.cc
@@ -18853,7 +18851,6 @@ congress.gov
 congressrental.asia
 congzao.com
 conlatatca.vn
-conn1.oppomobile.com
 conn2.oppomobile.com
 connaissancesfinancierespratiques.ca
 connatix.com
@@ -32225,7 +32222,6 @@ hk.mobi.yahoo.com
 hk.myblog.yahoo.com
 hk.napi.ucweb.com
 hk.news.yahoo.com
-hk.pool.ntp.org
 hk.search.yahoo.com
 hk.video.news.yahoo.com
 hk.yahoo.com

@@ -1,6 +1,7 @@
 0-100.com
 0-6.com
 0.pic.paopaoche.net
+0.pool.ntp.org
 0.up.qingdaonews.com
 0006999.com
 000dn.com
@@ -30230,7 +30231,6 @@ javascriptcn.com
 javashuo.com
 javastudy.cloud
 javatang.com
-javaweb.org
 javawind.net
 javaxxz.com
 javazhiyin.com

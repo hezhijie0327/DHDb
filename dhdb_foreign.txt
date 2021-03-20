@@ -5902,6 +5902,7 @@ adcommerce.tv
 adcontent.gamespy.com
 adcontent.reedbusiness.com
 adcontent.saymedia.com
+adcore.lenovomm.com
 adcorps.com
 adcounter.theglobeandmail.com
 adcreative.naver.com
@@ -8549,6 +8550,7 @@ ampxl.com
 amrita.edu
 ams-efz.ms-acdc.office.com
 ams-mvp.trafficmanager.net
+ams.lenovomm.com
 ams02.space
 ams1.a.f.prd.aadg.trafficmanager.net
 ams1.racingvpn.com
@@ -12946,6 +12948,7 @@ biquger.com
 biquges.com
 biqugeso.com
 biqugetv.com
+biqugewx.com
 biqugex.com
 biqugexs.com
 biqugexsw.com
@@ -30693,6 +30696,7 @@ growthy-release-growthywebcollector-80.gcld-line.com
 grpc.termius.com
 grrrgraphics.com
 grs.dbankcloud.asia
+grs.dbankcloud.com
 grss-ieee.org
 gru14s19-in-f11.1e100.net
 grumft.com
@@ -33517,6 +33521,7 @@ i.ssix.io
 i.static.zaplata.bg
 i.v2ex.co
 i.vimeocdn.com
+i.w.inmobi.com
 i.w55c.net
 i.wuw.red
 i.ytimg.com
@@ -40668,7 +40673,6 @@ m-mywfmindia.ext.net.daraz.com
 m-power.com
 m-sport.co.uk
 m-team.cc
-m.0000hg.com
 m.031177.com
 m.0898xlj.cn
 m.10611.com
@@ -48298,7 +48302,6 @@ org.hk
 org.my
 org.ph
 org.ru
-org.tw
 org.ua
 org.uk
 org.za

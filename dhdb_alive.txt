@@ -10922,6 +10922,7 @@ a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
 a02342.heraldscotland.com
 a02342.northwichguardian.co.uk
+a02342.redditchadvertiser.co.uk
 a02342.romseyadvertiser.co.uk
 a02342.southendstandard.co.uk
 a02342.southwalesargus.co.uk
@@ -13553,7 +13554,6 @@ ads.v-lazer.com
 ads.v3exchange.com
 ads.vaildaily.com
 ads.vamaker.com
-ads.vegas.com
 ads.veloxia.com
 ads.veoh.com
 ads.verticalresponse.com
@@ -23937,7 +23937,6 @@ bjl2033.com
 bjl2044.com
 bjl2077.com
 bjl2088.com
-bjl2799.com
 bjl4777.com
 bjl4999.com
 bjl5.com
@@ -28887,6 +28886,7 @@ cdn.adblade.com
 cdn.adc.eamobile.com
 cdn.adclerks.com
 cdn.adguard.com
+cdn.adikteev.com
 cdn.adinall.com
 cdn.adk2.com
 cdn.adless.io
@@ -35200,6 +35200,7 @@ counter3.sextracker.be
 counter30.bravenet.com
 counter31.bravenet.com
 counter32.bravenet.com
+counter33.bravenet.com
 counter34.bravenet.com
 counter35.bravenet.com
 counter36.bravenet.com
@@ -53128,6 +53129,7 @@ global-harbor.com
 global-ict.cn
 global-intermedia.com
 global-jf.com
+global.appnext.com
 global.asimov.events.data.trafficmanager.net
 global.bing.com
 global.cdn.mikupics.cn
@@ -70823,6 +70825,7 @@ kk2w.net
 kk30.com
 kk3g.net
 kk50.com
+kk520.com
 kkal.com
 kkapp.com
 kkcache.com
@@ -76331,7 +76334,6 @@ lysqzs.com
 lyst.com
 lysteel.com
 lystrt.com
-lystrw.cn
 lytning.xyz
 lytoufang.com
 lytpw.com
@@ -83707,7 +83709,6 @@ mymaitian.com
 mymaji.com
 mymangaonline.net.daraz.com
 mymanhua.com
-mymd.sytes.net
 mymetal.net
 mymhotel.com
 mymicrosoft.com
@@ -84346,7 +84347,6 @@ naturali.io
 naturallyariana.com
 naturalnews.tv
 naturalvoices.com
-nature-key.com
 nature-museum.net
 nature.com
 nature.fr

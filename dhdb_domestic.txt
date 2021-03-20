@@ -8264,7 +8264,6 @@ api.ets100.com
 api.exc.mob.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.game.letvstore.com
 api.gameanalytics.com
 api.geetest.com
@@ -18097,7 +18096,6 @@ dijingchao.com
 dijinlianmeng.com
 dijiuban.com
 dijiuke.com
-diketattoo.com
 dikudu.com
 dili360.com
 dili365.com
@@ -20421,7 +20419,6 @@ envisioncn.com
 eo.apmnqut.cn
 eo.graintown.cn
 eo.hdschw.cn
-eo.rtgvghi.cn
 eoeandroid.com
 eoemarket.com
 eoffcn.com
@@ -37339,7 +37336,6 @@ mika18.com
 mikannovel.com
 mikechen.cc
 mikecrm.com
-mikemiao111.com
 mikewootc.com
 mikoshu.me
 miku.fm

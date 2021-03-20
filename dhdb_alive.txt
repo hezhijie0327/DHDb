@@ -10839,7 +10839,6 @@ a.proxy5.nullrefexcep.com
 a.pub.network
 a.qchannel03.cn
 a.qinghua5.com
-a.qsjiajiao.com
 a.quangushi.com
 a.quora.com
 a.raasnet.com
@@ -49836,6 +49835,7 @@ fpbjiansuo.mn586.com
 fpc.gartner.com
 fpc.pelican.com
 fpc.sage.com
+fpc.spurs.com
 fpcdallasstars.nhl.com
 fpdisplay.com
 fpgabbs.com
@@ -94613,7 +94613,6 @@ pyker.com
 pylfi.flash.hxh999.com
 pylist.com
 pymc.cl
-pyneo.com
 pynote.net
 pyntsquare.com
 pyorrhoea.org

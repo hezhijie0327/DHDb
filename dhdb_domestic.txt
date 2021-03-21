@@ -1724,7 +1724,6 @@
 1tieba.com
 1ting.com
 1tjob.com
-1tong.com
 1tu-design.com
 1tu.com
 1tu1.com
@@ -14179,7 +14178,6 @@ chrom-china.com
 chromecj.com
 chromedownloads.net
 chromefor.com
-chromes.cn
 chs.so
 chshcms.com
 chsite.net
@@ -16241,7 +16239,6 @@ cricbigdata.com
 crifst.com
 crimoon.net
 crispstata.com
-crl.globalsign.net
 crl.kaspersky.com
 crl.pki.goog
 crlcn.com
@@ -19332,6 +19329,7 @@ dvsour.china.com
 dvvvs.com
 dvzlb8hv.v1d.szbdyd.com
 dw-collect.ksosoft.com
+dw-online.ksosoft.com
 dw.iask.com.cn
 dw.xcar.com.cn
 dwfei.com
@@ -26819,7 +26817,6 @@ hscbw.com
 hsdatalab.com
 hsdcw.com
 hsddyy.com
-hsdhw.com
 hsdmall.com
 hsehome.com
 hsehome.org

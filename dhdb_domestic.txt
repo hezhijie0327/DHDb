@@ -6257,7 +6257,6 @@ abt.hicloud.com
 abtest-ch.snssdk.com
 abtest.alibaba.com
 abto.cc
-abu.im
 abuquant.com
 abuyun.com
 ac.86huoche.com
@@ -8250,6 +8249,7 @@ api.df.mob.com
 api.dianru.com
 api.diebian.net
 api.domob.cn
+api.douban.com
 api.doumob.com
 api.dsp.yhd.com
 api.duapp.n.shifen.com
@@ -24693,7 +24693,6 @@ h10.hxsame.hexun.com
 h231.com
 h2ex.com
 h2os.com
-h2ww6.cn
 h3c.com
 h3c.com.hk
 h3dns.net
@@ -37523,7 +37522,6 @@ miquapp.com
 mir4399.com
 miraclevision.net
 mirgaga.net
-miro891.com
 mirror.iscas.ac.cn
 mirror.sjtu.edu.cn
 mirrorcos.acgcoso-dk.sched.tdnsv2.com
@@ -39385,7 +39383,6 @@ niuniufund.com
 niuniutui.com
 niupinhui.com
 niupu.com
-niuqile.com
 niurenqushi.com
 niuschools.com
 niushe.com

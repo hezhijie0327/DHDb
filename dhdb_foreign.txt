@@ -2845,6 +2845,7 @@
 520jita.com
 520jr.com
 520lbl.com
+520ldf.com
 520lily.com
 520ly8.com
 520meirong.com
@@ -18584,6 +18585,7 @@ coin-hive-stratum-fcwcduvpjs.now.sh
 coin-hive-stratum-yvvbqoavck.now.sh
 coin-hive.com
 coin.bajarlo.net
+coinall.live
 coinbase.com
 coinbene.com
 coincharts.now.sh

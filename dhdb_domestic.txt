@@ -2132,7 +2132,6 @@
 29og5p1.cachenode.cn
 29xf.com
 29yx.com
-2a.com.cn
 2a.zol-img.com.cn
 2a4tesaprxapfknwp13h9cuinpsqmzbl.alicloudwaf.com
 2abc8.com
@@ -8508,7 +8507,6 @@ app.aplus.pptv.com
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.duxiaoman.com
 app.gsxt.gov.cn
 app.hnzycfc.com

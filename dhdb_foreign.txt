@@ -3499,6 +3499,7 @@
 67tuan.com
 68.epac.to
 680news.com
+680qk.com
 681153.com
 682.com
 68211.com
@@ -9405,6 +9406,7 @@ api.flocktory.com
 api.flygame.io
 api.fosshub.com
 api.freewebfonts.org
+api.g.micloud.xiaomi.net
 api.gameofwhales.com
 api.gimbal.com
 api.github.com
@@ -16805,7 +16807,6 @@ cfjump.com
 cfna.com
 cfos.de
 cfox.com
-cfps.cw.china-netwave.com
 cfqsup.pro-bike.ru
 cfr.org
 cfs.u-ad.info
@@ -34393,6 +34394,7 @@ img.uyangyong.cn
 img.vim-cn.com
 img.xiacaidd.com
 img.youtube.com
+img.yzcdn.cn
 img.zeruinong.com
 img001.36man.cc
 img1.ak.crunchyroll.com

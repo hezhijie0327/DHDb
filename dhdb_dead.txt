@@ -6028,7 +6028,6 @@ com.pl
 com.pr
 com.py
 com.qa
-com.ro
 com.sa
 com.sb
 com.sl
@@ -12886,6 +12885,7 @@ koqz36.com
 korimscdn.com
 koubaibu.jp
 koubeiblog.com
+koulezu.com
 kouqing.com
 kousou.cc
 kpblw.com

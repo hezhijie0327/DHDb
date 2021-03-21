@@ -18724,6 +18724,7 @@ com.mk
 com.mt
 com.ng
 com.pt
+com.ro
 com.se
 com.tn
 com.vn
@@ -24666,6 +24667,7 @@ eireinikotaerukai.com
 eis-inc.com
 eisbb.com
 eisdl.com
+eistudy.com
 eitb.eus
 eiu.com
 ejaculer.fr
@@ -32083,6 +32085,7 @@ higrid.net
 hih.com
 hihbt.com
 hihistory.net
+hihope.org
 hihour.com
 hiiir.com
 hiimii.com
@@ -38288,7 +38291,6 @@ koto.com
 kotoo.com
 kou.com.br
 koukou7.com
-koulezu.com
 koumakan.cc
 kouopt.calvinklein.com.br
 koushare.com

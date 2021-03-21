@@ -169,7 +169,6 @@
 01bz.wang
 01caijing.com
 01daa.lutci.com
-01dai.com
 01faxing.com
 01fy.cn
 01happy.com
@@ -29170,6 +29169,7 @@ cdn.usabilitytracker.com
 cdn.usefathom.com
 cdn.v2ex.com
 cdn.vaptcha.com
+cdn.vaptcha.com.w.cdngslb.com
 cdn.vdopia.com
 cdn.viglink.com
 cdn.wadawada-stop-report-us.com
@@ -35194,6 +35194,7 @@ counter.sina.com.cn
 counter.snackly.co
 counter.social
 counter.sparklit.com
+counter.star.lg.ua
 counter.theconversation.edu.au
 counter.tianjimedia.com
 counter.tldw.me
@@ -38220,6 +38221,7 @@ darkness-risen.com
 darknight.blog
 darkreading.com
 darkz.co
+darlingtonandstocktontimes-gb.darlingtonandstocktontimes.co.uk
 darmao.com
 darmoweliczniki.pl
 darongcheng.com
@@ -52794,7 +52796,6 @@ ggqx.com
 ggr.yxdown.com
 ggs.myzaker.com
 ggsafe.com
-ggsgww.cn
 ggsnoq.cavalierebici.it
 ggss.cf
 ggssl.com
@@ -73973,7 +73974,6 @@ limoer.cc
 limontec.com
 limufang.com
 lin.ee
-lin.internetofthings-china.com
 lin08.com
 linakesi.com
 linban.com

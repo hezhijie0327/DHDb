@@ -10922,6 +10922,7 @@ a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
 a02342.heraldscotland.com
 a02342.northwichguardian.co.uk
+a02342.penarthtimes.co.uk
 a02342.redditchadvertiser.co.uk
 a02342.romseyadvertiser.co.uk
 a02342.southendstandard.co.uk
@@ -14502,7 +14503,6 @@ affiliates.thinkhost.net
 affiliates.thrixxx.com
 affiliates.treasureisland.com
 affiliates.ultrahosting.com
-affiliates.vpn.ht
 affiliatesmedia.sbobet.com
 affiliation.filestube.com
 affiliation.fotovista.com
@@ -94841,6 +94841,7 @@ qctt24h.24h.com.vn
 qcv5.blogtruyen.vn
 qcvf.ifeng.com
 qcw.com
+qcwdpt.com
 qcwhw.com
 qcwlpay.com
 qcwlseo.com
@@ -99387,7 +99388,6 @@ s.click.taobao.com
 s.click.tmall.com
 s.clickability.com
 s.clickiocdn.com
-s.clicktex.ru
 s.clkservice.youdao.com
 s.cn.bing.chinacache.net
 s.cn.bing.net
@@ -106381,7 +106381,6 @@ so.dns.iqiyi.com
 so.qss-lb.com
 so.sina.cn
 so.swisscom.ch
-so.tsscnw.cn
 so147.com
 so369.net
 so5566.com

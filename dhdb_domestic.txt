@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0.pic.paopaoche.net
-0.pool.ntp.org
 0.up.qingdaonews.com
 0006999.com
 000dn.com
@@ -20763,6 +20762,7 @@ eworksglobal.com
 eworldship.com
 ewpeinfo.com
 ewqcxz.com
+ewsos.com
 ewstudy.com
 ewteacher.com
 ewuqa.com
@@ -33916,6 +33916,7 @@ le0000.com
 le0002.com
 le0003.com
 le0004.com
+le0009.com
 le1-prod-all-gs-gzlj.bilibiligame.net
 le1111.com
 le2222.com
@@ -34951,7 +34952,6 @@ lm.35.com
 lm.ijq.tv
 lm.tv.sohu.com
 lm1.tuliu.com
-lm1.wzpcw.com
 lm9999.com
 lmacc.com
 lmbang.com

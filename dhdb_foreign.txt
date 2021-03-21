@@ -3030,6 +3030,7 @@
 554js.com
 555000d3.com
 5551650.com
+5551933.com
 5552009.com
 555456.com
 55553885.com
@@ -4945,6 +4946,7 @@ a1988.dscg1.akamai.net
 a1988.dsct.akamai.net
 a2.b310.com
 a2.mzstatic.com
+a202.net
 a20309999.byethost9.com
 a2047.dscb.akamai.net
 a2047.dscb.akamai.net.0.1.cn.akamaitech.net
@@ -46225,6 +46227,7 @@ newspicks.com
 newsprestigenetwork.com.au
 newsprinters.co.uk
 newsroom.co.nz
+newsshopper-gb.newsshopper.co.uk
 newssyndication.com
 newstalkzb.co.nz
 newstamago.com
@@ -51717,6 +51720,7 @@ pse.is
 psentertainment.com
 pseudo.net.nz
 pseudonymization.synology.com
+psfpet.com
 psg-int-centralus.cloudapp.net
 psg-int-eastus.cloudapp.net
 psgui.com
@@ -58499,7 +58503,6 @@ smetrics.williams-sonoma.com
 smetrics.wilson.com
 smetrics.wimbledon.com
 smetrics.winc.com.au
-smetrics.wm.com
 smetrics.wmg.com
 smetrics.wnetwork.com
 smetrics.womensecret.com

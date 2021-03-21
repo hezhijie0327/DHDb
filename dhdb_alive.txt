@@ -26305,7 +26305,6 @@ buffst.com
 bug-bounty1.nimiq-network.com
 bug-bounty2.nimiq-network.com
 bug-bounty3.nimiq-network.com
-bug200.com
 bugaga.tut.by
 bughd.com
 bugku.com
@@ -32844,7 +32843,6 @@ cm.jd.com
 cm.l.qq.com
 cm.lianmeng.360.cn
 cm.masky.biddingx.com
-cm.mct01.com
 cm.mediav.com
 cm.netseer.com
 cm.passport.iqiyi.com
@@ -51852,6 +51850,7 @@ gaytube.com
 gaywatch.com
 gazeta.pl
 gazetevatan.com
+gazetteherald-gb.gazetteherald.co.uk
 gazotube.com
 gb-ceo.com
 gb.wanyi111.com

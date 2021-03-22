@@ -7195,6 +7195,7 @@ adserverhd.com
 adservex.media.net
 adservice.dk
 adservice.google.ca
+adservice.google.co.jp
 adservice.google.co.za
 adservice.google.com.au
 adservice.google.com.hk
@@ -9664,6 +9665,7 @@ appcdn.wapx.com
 appcenter.ms
 appcloud.com
 appconsent.io
+appdl-1-drcn.dbankcdn.com
 appdownloader.net
 appduu.com
 appdynamics.co.uk

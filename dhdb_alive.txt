@@ -5441,7 +5441,6 @@
 449577.com
 44971.com
 449940.com
-449943.com
 449945.com
 44afcp.com
 44england.com
@@ -10941,7 +10940,6 @@ a02342.falmouthpacket.co.uk
 a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
 a02342.heraldscotland.com
-a02342.northwichguardian.co.uk
 a02342.penarthtimes.co.uk
 a02342.redditchadvertiser.co.uk
 a02342.southendstandard.co.uk
@@ -19410,7 +19408,6 @@ at.alicdn.com
 at.alicdn.com.danuoyi.alicdn.com
 at.amfuwu.com
 at.atwola.com
-at.mct01.com
 at.pagesjaunes.fr
 at.pinduoduo.com
 at.ua
@@ -27992,6 +27989,7 @@ captchas.freebitco.in
 capterra.com
 captify.co.uk
 captive-cdn.origin-apple.com.akadns.net
+captive-cidr.origin-apple.com.akadns.net
 captive.apple.com
 captive.apple.com.edgekey.net
 captive.g.aaplimg.com
@@ -71019,6 +71017,7 @@ km.1024ky.me
 km.com
 km.jianduankm.com
 km.ru
+km.support.apple.com
 km.xinray.net
 km1.muhoujiemi.com
 km169.net
@@ -74758,7 +74757,6 @@ lljgame.com
 lljgxx.com
 llku.com
 lll836.net
-llmh04.com
 llnw-trials.com
 llnw.com
 llnw.net
@@ -95774,7 +95772,6 @@ qiyunbook.com
 qiyuntong.com
 qiyunworld.com
 qiyutianxia.com
-qizhandeng.com
 qizhanming.com
 qizhenyu.com
 qizhihaotian.cn

@@ -21224,7 +21224,6 @@ db5.settings.data.microsoft.com.akadns.net
 db5.vortex.data.microsoft.com.akadns.net
 db8866.com
 dba.dk
-dbafree.net
 dbam.dashbida.com
 dbc.hk
 dbcdqp72lzmvj.cloudfront.net
@@ -52643,7 +52642,6 @@ quelle.de
 queqiaoba.com
 query.ess-apple.com.akadns.net
 query.ess.apple.com
-query.hicloud.com
 querylist.cc
 queryly.com
 questvisual.com

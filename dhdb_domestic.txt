@@ -9218,7 +9218,6 @@ b.77shw.com
 b.77vcd.com
 b.alicdn.com
 b.alicdn.com.danuoyi.tbcache.com
-b.appjiagu.com
 b.bdstatic.com
 b.beizhoujt.cn
 b.bshare.cn
@@ -18856,7 +18855,6 @@ download.csdn.net
 download.dmallcdn.com
 download.elemecdn.com
 download.fuyuncc.com
-download.gfe.nvidia.cn
 download.jr.jd.com
 download.m.37.com
 download.microsoft.com
@@ -26909,7 +26907,6 @@ httpdns.alicdn.com
 httpdns.browser.miui.com
 httpdns.danuoyi.tbcache.com
 httpdns.meituan.com
-httpdns.push.oppomobile.com
 httpsbaidu.com
 httpsdns.baidu.com
 hturl.cc
@@ -45074,7 +45071,6 @@ ruisizt.com
 ruitairt.com
 ruiwen.com
 ruixing.cc
-ruixueys.com
 ruixunidc.com
 ruixunidc.net
 ruiyunit.com

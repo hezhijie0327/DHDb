@@ -10725,6 +10725,7 @@ a-webapi-prod-asse-shiftsa.southeastasia.cloudapp.azure.com
 a.19869.com
 a.198banjia.com
 a.1u2u3u4u.com
+a.20minutes.fr
 a.4aqq.com
 a.52wubi.com
 a.52zxw.com
@@ -12756,7 +12757,6 @@ admarvel.s3.amazonaws.com
 admatcher.videostrip.com
 admatic.com.tr
 admaximize.com
-admclub.com
 admd.housefun.com.tw
 admd.yam.com
 admedia.com
@@ -76944,7 +76944,6 @@ m.vkuay.com
 m.vpon.com
 m.w5188yes.com
 m.wbiev.com
-m.wcail.com
 m.weibo.cn
 m.wenzhougy.cn
 m.wervp.com
@@ -81647,7 +81646,6 @@ mmg.aty.sohu.com
 mmgal.com
 mmgame.qpic.cn
 mmgl.net
-mmi-shanghai.com
 mmi.bemobile.ua
 mmia.com
 mmicloud.com
@@ -86307,7 +86305,6 @@ nongminys.com
 nongnet.com
 nongshang.com
 nongxinyin.com
-nongyaodai.com
 nongyehu.com
 nongzisc.com
 nonobank.com
@@ -92264,7 +92261,6 @@ play.proxy.multikonline.ru
 play.qs01.cn
 play.s01.vidtod.me
 play.s01.vidtodo.pro
-play.s02.vidtod.me
 play.scripts.mrpiracy.xyz
 play.strdef.world
 play.stream.vidzi.tv

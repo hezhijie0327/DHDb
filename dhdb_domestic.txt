@@ -8279,7 +8279,6 @@ api.interaction.sohu.com
 api.io.mi.com
 api.iplay.163.com
 api.itaoxiaoshuo.com
-api.ithome.com
 api.ivideo.sina.com.cn
 api.jcswhg.com
 api.jits.heytapmobi.com
@@ -19989,7 +19988,6 @@ edusoho.net
 edutao.com
 edutime.net
 edutt.com
-eduu.com
 eduuu.com
 eduwenzheng.com
 eduwest.com

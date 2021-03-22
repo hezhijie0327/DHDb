@@ -10944,7 +10944,6 @@ a02342.greenocktelegraph.co.uk
 a02342.heraldscotland.com
 a02342.penarthtimes.co.uk
 a02342.redditchadvertiser.co.uk
-a02342.southendstandard.co.uk
 a02342.southwalesargus.co.uk
 a02342.stourbridgenews.co.uk
 a02342.theboltonnews.co.uk
@@ -34335,6 +34334,7 @@ com.mk
 com.mt
 com.ng
 com.pt
+com.ro
 com.se
 com.tn
 com.tv
@@ -38651,7 +38651,6 @@ dc.tremormedia.com
 dc.webtrends.com
 dc.xhct66.com
 dc0555.com
-dc1.networkbench.com
 dc2210.com
 dc2374b3c9cd4d2ce0e315c25d249f94.clo.footprintdns.com
 dc2go.ca

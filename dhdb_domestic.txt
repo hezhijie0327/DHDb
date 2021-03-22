@@ -18852,6 +18852,7 @@ download.csdn.net
 download.dmallcdn.com
 download.elemecdn.com
 download.fuyuncc.com
+download.gfe.nvidia.cn
 download.jr.jd.com
 download.m.37.com
 download.microsoft.com
@@ -39935,7 +39936,6 @@ oicqzone.com
 oicto.com
 oidchina.org
 oiegg.com
-oikqfwv.cn
 oilchem.net
 oilepay.com
 oilhr.com

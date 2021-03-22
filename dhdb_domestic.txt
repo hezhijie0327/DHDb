@@ -14881,7 +14881,6 @@ cmshowar-1251316161.cos.ap-guangzhou.myqcloud.com
 cmshowar.gtimg.cn
 cmskcrm.com
 cmsky.com
-cmsn.biz
 cmsrefresh.cp12.ott.cibntv.net
 cmstool.youku.com
 cmstop.com
@@ -37716,7 +37715,6 @@ mo.cifree.xyz
 mo.cyfk896.top
 mo.cyfp298.top
 mo.cymn296.top
-mo.cyrc793.top
 mo.dybx992.top
 mo.dymr697.top
 mo.haloapps.cn
@@ -39840,6 +39838,7 @@ ocsp.digicert.cn
 ocsp.digicert.cn.w.cdngslb.com
 ocsp.globalsign.com
 ocsp.pki.goog
+ocsp2.globalsign.com
 oct-and.com
 oct-cts.com
 oct-sh.com
@@ -42891,7 +42890,6 @@ qdbdsk.com
 qdcaijing.com
 qdccb.com
 qdccdl.com
-qdcdn.com
 qdcent.com
 qdct02.baidupcs.com
 qdcu.com

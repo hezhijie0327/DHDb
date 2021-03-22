@@ -17497,7 +17497,6 @@ api-mayi.django.t.taobao.com
 api-mcp.adsp.xunlei.com
 api-pan.xunlei.com
 api-panov2.720yun.com
-api-pricetag.dmall.com
 api-priconne-redive.cygames.jp
 api-push.meizu.com
 api-sc.wtzw.com
@@ -43099,6 +43098,7 @@ dzqu.com
 dzrbs.com
 dzribao.com
 dzrjx.net
+dzs55b7slwyx.cloudfront.net
 dzsaas.com
 dzsaascdn.com
 dzsc.com
@@ -65602,7 +65602,6 @@ itimep.com
 itings.com
 itingwa.com
 itit.io
-itiyan.net
 itiyun.com
 itjcku.com
 itjoy.net
@@ -93038,6 +93037,7 @@ pp.greensolutions.ro
 pp.muzofon-online.com
 pp.myapp.com
 pp.myapp.com.sched.ssdv6.tdnsv6.com
+pp.promocionesfarma.com
 pp.ru
 pp.teksty-pesenok.ru
 pp.ua

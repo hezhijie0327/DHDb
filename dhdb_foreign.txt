@@ -5915,7 +5915,6 @@ adcdownload.apple.com
 adcdownload.apple.com.akadns.net
 adcel.vrvm.com
 adcentric.randomseed.com
-adcex.com
 adchina.com
 adchitu.net
 adclear.baur.de
@@ -9395,6 +9394,7 @@ api.cloudflare.com
 api.cloudmobi.net
 api.coin-hive.com
 api.coinerra.com
+api.comm.miui.com
 api.copymanga.com
 api.cortana.ai
 api.crittercism.com
@@ -9412,7 +9412,6 @@ api.flocktory.com
 api.flygame.io
 api.fosshub.com
 api.freewebfonts.org
-api.g.micloud.xiaomi.net
 api.gameofwhales.com
 api.gimbal.com
 api.github.com
@@ -20327,6 +20326,7 @@ d1k3dpebxhgqjc.cloudfront.net
 d1k5qlz5hbz8am.cloudfront.net
 d1ks8roequxbwa.cloudfront.net
 d1l6p2sc9645hc.cloudfront.net
+d1lx.com
 d1m6l9dfulcyw7.cloudfront.net
 d1mbgf0ge24riu.cloudfront.net
 d1mbihpm2gncx7.cloudfront.net
@@ -35816,7 +35816,6 @@ it736.com
 it7e.com
 it8008.com
 it892.com
-it99988.com
 itad.linetv.tw
 itadapi.ithome.com.tw
 italia-film.com

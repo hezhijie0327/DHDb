@@ -17499,6 +17499,7 @@ api-mayi.django.t.taobao.com
 api-mcp.adsp.xunlei.com
 api-pan.xunlei.com
 api-panov2.720yun.com
+api-pricetag.dmall.com
 api-priconne-redive.cygames.jp
 api-push.meizu.com
 api-sc.wtzw.com
@@ -19711,7 +19712,6 @@ austinmacauley.com
 australia.com
 australia.kinokuniya.com
 australia.people.com.cn
-australian-business-online.com
 australiaplus.com
 auth-ai.meituan.com
 auth.api.gitv.tv
@@ -42974,7 +42974,6 @@ dynamicyield.com
 dynamodb.ap-northeast-1.amazonaws.com
 dynasys.org
 dynathome.net
-dynawebinc.com
 dyncdn.me
 dyndns-free.com
 dyndns-home.com
@@ -68013,7 +68012,6 @@ jktong.com
 jkub.com
 jkx.cc
 jkxds.net
-jkyd.net
 jkydt.com
 jkyeo.com
 jkys5.com
@@ -91466,7 +91464,6 @@ piaoyun.net
 piaozhilan.com
 piaozone.com
 piaproxy.net
-pibaba.com.cn
 pibaosi.net
 pic.0597kk.com
 pic.3h3.com
@@ -97502,7 +97499,6 @@ realestatejournal.com
 realforcechina.com
 realforum.zkiz.com
 realgfporn.com
-realgoodejuice.com
 realgravity.com
 realhomes.com
 realhomesex.net

@@ -28864,7 +28864,6 @@ img.nfa.qq.com
 img.nfa.qq.com.sched.px.tdnsv6.com
 img.nihaodd.com
 img.nihaodd.com.cname.yunjiasu-cdn.net
-img.nktcw.cn
 img.pddpic.com
 img.pddpic.com.sched.pddlego-dk.tdnsv5.com
 img.php.cn
@@ -42196,7 +42195,6 @@ ppvi.net
 ppwan.com
 ppxclub.com
 ppxhw.com
-ppxs.net
 ppys.net
 ppzedu.com
 ppzhan.com

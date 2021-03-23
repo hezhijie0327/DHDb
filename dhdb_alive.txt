@@ -13997,6 +13997,7 @@ adslot.uc.cn
 adslr.com
 adslvfile.qq.com
 adsm.soush.com
+adsmart.co.uk
 adsmart.yicha.cn
 adsmetadata.mobileadexchange.net
 adsmetadata.startappk8s.com
@@ -17815,7 +17816,6 @@ api.w.inmobi.com
 api.wangrunxin.com
 api.waptest.taobao.com
 api.weather.com
-api.weathercn.com
 api.weibo.cn
 api.weibo.com
 api.weishi.qq.com
@@ -19071,6 +19071,7 @@ asahicom.jp
 asahishimbun.sc.omtrdc.net
 asaki.me
 asap.ad7.com
+asapm.org
 asbeijing.com
 asc-wines.com
 ascanet.com
@@ -41204,7 +41205,6 @@ does-it.net
 doesntexist.com
 doesxyz.com
 dofanyi.com
-dofund.com
 dog126.com
 doganburda.com
 dogatch.jp

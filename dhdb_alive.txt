@@ -10929,7 +10929,6 @@ a02342.bournemouthecho.co.uk
 a02342.brentwoodlive.co.uk
 a02342.bridportnews.co.uk
 a02342.bucksfreepress.co.uk
-a02342.clactonandfrintongazette.co.uk
 a02342.dailyecho.co.uk
 a02342.darlingtonandstocktontimes.co.uk
 a02342.dorsetecho.co.uk
@@ -26264,6 +26263,7 @@ bucg.com
 buck.build
 buckbuild.com
 bucketeer.jp
+bucksfreepress-gb.bucksfreepress.co.uk
 bucuo.me
 bucuo100.com
 bucyrustelegraphforum.com
@@ -36734,7 +36734,6 @@ cyegushi.com
 cyepai.com
 cyfeng.com
 cyfengchao.com
-cyfk896.top
 cygames.jp
 cygglm.com
 cygwin.com
@@ -44986,6 +44985,7 @@ elqtrk.intel.com.tr
 elqtrk.intel.com.tw
 elqtrk.intel.de
 elqtrk.intel.es
+elqtrk.intel.fr
 elqtrk.intel.in
 elqtrk.intel.it
 elqtrk.intel.la

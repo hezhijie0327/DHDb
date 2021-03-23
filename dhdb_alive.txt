@@ -10869,7 +10869,6 @@ a.sh.vip.dianping.com
 a.shenchuang.com
 a.slack-edge.com
 a.slsbc.cn
-a.speedostream.com
 a.steigenberger.com
 a.stka8.com
 a.streamoupload.com
@@ -15726,7 +15725,6 @@ aliyundrive.com
 aliyunedu.net
 aliyunfuwuqi.com
 aliyunhn.com
-aliyunlive.com
 aliyunmeng.com
 aliyunqifu.com
 aliyunseccdnct.inter.iqiyi.com
@@ -38646,6 +38644,7 @@ dc.tremormedia.com
 dc.webtrends.com
 dc.xhct66.com
 dc0555.com
+dc08i221b0n8a.cloudfront.net
 dc2210.com
 dc2374b3c9cd4d2ce0e315c25d249f94.clo.footprintdns.com
 dc2go.ca
@@ -58679,7 +58678,6 @@ hmzs.net
 hmzsfmjc.com
 hmzx163.com
 hn-button.herokuapp.com
-hn-kechuang.com
 hn-pc.com
 hn.gsxt.gov.cn
 hn165.com
@@ -107256,6 +107254,7 @@ soweather.com
 soweb.gr
 sowerclub.com
 sowers.org.hk
+sowiki.net
 sowin.com
 sowu.com
 soxs.cc

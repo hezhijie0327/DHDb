@@ -11237,6 +11237,7 @@ aacheji.com
 aad.tw
 aadcdn.msauth.net
 aadcdn.msauthimages.net
+aadcdn.msftauth.net
 aadcdnoriginwus2.afd.azureedge.net
 aaddss.tohomh.com
 aadongman.com
@@ -25559,6 +25560,7 @@ bosera.com
 bosera.com.hk
 boshi.tv
 boshika.com
+boshipai.com
 boshixitong.com
 boshiyl.com
 boshuo.net
@@ -35165,6 +35167,7 @@ counter.nope.dk
 counter.nowlinux.com
 counter.ntdvn.com
 counter.nv.ua
+counter.ok.ee
 counter.packa2.cz
 counter.pcauto.com.cn
 counter.people.cn
@@ -45004,6 +45007,7 @@ elsyhw.com
 eltelu.blogspot.hk
 eltws.com
 eluosidy.com
+eluoyi.xbiquge6.com
 eluxiu.com
 elvenar.com
 elvgufen.com
@@ -45330,7 +45334,6 @@ engage.3mcompany.jp
 engage.3mdeutschland.de
 engage.3mindia.in
 engage.3mitalia.it
-engage.3mnederland.nl
 engage.3mnz.co.nz
 engage.3mphilippines.com.ph
 engage.3mslovensko.sk
@@ -46015,7 +46018,6 @@ eth0.org.uk
 eth6.org
 ethainan.com
 etheadphones.com
-ether-pack.pangolin-sdk-toutiao.com
 ether-pack.pangolin-sdk-toutiao.com.w.cdngslb.com
 ethercap.com
 etherdelta.com
@@ -48439,7 +48441,6 @@ ffquan.cn
 ffquan.com
 ffre.ffrepair.com
 ffrepair.com
-ffrmwn.musinsa.com
 ffsgame.com
 ffsky.com
 fft123.com
@@ -49560,7 +49561,6 @@ forum.iask.fr
 forum.m3x.org
 forum.mymaji.com
 forum.omy.sg
-forum.sina.com.hk
 forum.slime.com.tw
 forum.touki.ru
 forum.tvb.com
@@ -52130,7 +52130,6 @@ gdzzz.com
 ge-garden.net
 ge.flnet.org
 geakr.com
-geapu.com
 gearkr.com
 gears5.com
 gearspop.com
@@ -56962,7 +56961,6 @@ hc23.com
 hc360-inc.com
 hc360.com
 hc39.com
-hc55888.com
 hc79.com
 hca.twimg.com
 hcadv.video.ums.uc.cn
@@ -64989,7 +64987,6 @@ ipv4.host
 ipv4.imgur.map.fastly.net
 ipv4.ipv6-test.ch
 ipv4.lookup.test-ipv6.com
-ipv4.master.test-ipv6.com
 ipv4.music.163.com
 ipv4.nsx.de
 ipv4.test-ipv6.ch
@@ -76918,6 +76915,7 @@ m.vchiy.com
 m.verpt.com
 m.video.xiaomi.com
 m.vkuay.com
+m.vpadn.com
 m.vpon.com
 m.w5188yes.com
 m.wbiev.com
@@ -98864,7 +98862,6 @@ rpnews.itaoxiaoshuo.com
 rpo5156.com
 rpozzl.happy-size.de
 rprimelab.com
-rps-p2.rockpapershotgun.com
 rpsh.net
 rpt.anchorfree.net
 rpt.gdt.qq.com

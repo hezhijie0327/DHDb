@@ -10932,6 +10932,7 @@ a02342.greenocktelegraph.co.uk
 a02342.heraldscotland.com
 a02342.penarthtimes.co.uk
 a02342.redditchadvertiser.co.uk
+a02342.redhillandreigatelife.co.uk
 a02342.southwalesargus.co.uk
 a02342.stourbridgenews.co.uk
 a02342.theboltonnews.co.uk
@@ -43527,6 +43528,7 @@ ea.vente-unique.com
 ea.vente-unique.lu
 ea.voyage-prive.co.uk
 ea.warnerbros.fr
+ea.zebestof.com
 ea0a5ec615811763b0697711c1b284af.clo.footprintdns.com
 ea119.amdc.m.taobao.com
 ea3w.com
@@ -79944,7 +79946,6 @@ metrics.nfl.com
 metrics.nfm.com
 metrics.nintendo.com
 metrics.nissanusa.com
-metrics.nook.com
 metrics.northeast.aaa.com
 metrics.notebooksbilliger.de
 metrics.npr.org
@@ -93138,7 +93139,6 @@ pr.5.p2l.info
 pr.adxxx.com
 pr.blogflux.com
 pr.da.netease.com
-pr.erdavet.ro
 pr.ikovrov.ru
 pr.m.hub.sandai.net
 pr.map.qq.com
@@ -93854,7 +93854,6 @@ prt.stsdk.vivo.com.cn
 pruc.org
 prudsys-rde.de
 prusamk2.com
-prutoncapital.com
 prv.pl
 prvsz4pe.micpn.com
 prw.lenovomm.com

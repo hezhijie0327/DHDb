@@ -1,6 +1,7 @@
 0-100.com
 0-6.com
 0.pic.paopaoche.net
+0.pool.ntp.org
 0.up.qingdaonews.com
 0006999.com
 000dn.com
@@ -11846,7 +11847,6 @@ c4dcn.com
 c4dpro.com
 c4dsky.com
 c4hcdn.com
-c4ys.com
 c4yx.com
 c50forum.com
 c5game.com
@@ -26260,6 +26260,7 @@ hlzsgw.com
 hlzweb.mxingkong.net
 hm-3223.net
 hm-yc.com
+hm-zif.com
 hm.baidu.com
 hm.com.cn
 hm.e.shifen.com
@@ -38618,7 +38619,6 @@ mywakao.com
 mywayboo.net
 myweimai.com
 mywood.cc
-myxzy.com
 myyishu.com
 myyqxiu.com
 myyx618.com
@@ -47951,7 +47951,6 @@ soeasysdk.com
 sofabiao.com
 sofang.com
 sofasofa.io
-sofastack.tech
 sofire.baidu.com
 sofire.bdstatic.com
 sofire.n.shifen.com

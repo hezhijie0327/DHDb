@@ -199,7 +199,6 @@
 020.net
 0202.com.tw
 020218.com
-0205.uptm.ch
 0206vip.com
 020banjia.net
 020bom.com
@@ -1783,7 +1782,6 @@
 12sporting.com
 12tiku.com
 12v.si
-12vpn.com
 12vpn.net
 12vpx.com
 12yao.com
@@ -9441,7 +9439,6 @@
 8brz.92.etowns.org
 8btc.com
 8cc203203933974a.cdn.jiashule.com
-8cc5ff581a88.bitsngo.net
 8cee6be489007a22fb777fa9135f2a0e.dlied1.cdntips.net
 8cheche.com
 8chzga.v.admaster.com.cn
@@ -11240,7 +11237,6 @@ aacheji.com
 aad.tw
 aadcdn.msauth.net
 aadcdn.msauthimages.net
-aadcdn.msftauth.net
 aadcdnoriginwus2.afd.azureedge.net
 aaddss.tohomh.com
 aadongman.com
@@ -16450,7 +16446,6 @@ analytics-udg.netdna-ssl.com
 analytics-union.xunlei.com
 analytics.163.com
 analytics.247sports.com
-analytics.30m.com
 analytics.74.ru
 analytics.95516.com
 analytics.95516.com.wscdns.com
@@ -16573,7 +16568,6 @@ analytics.linktr.ee
 analytics.live.com
 analytics.liveact.cri-mw.jp
 analytics.livestream.com
-analytics.localytics.com
 analytics.logsss.com
 analytics.loop-cloud.de
 analytics.mail-corp.com
@@ -16621,7 +16615,6 @@ analytics.optilead.co.uk
 analytics.orenshmu.com
 analytics.ostr.io
 analytics.ovh.com
-analytics.paddle.com
 analytics.phando.com
 analytics.photorank.me
 analytics.picsart.com
@@ -16649,7 +16642,6 @@ analytics.recruitics.com
 analytics.redlink.com.ar
 analytics.rever.vn
 analytics.reyrey.net
-analytics.rogersmedia.com
 analytics.rotapost.ru
 analytics.salesanalytics.io
 analytics.samdd.me
@@ -17678,7 +17670,6 @@ api.kiip.me
 api.kingdata.ksyun.com
 api.kkapp.com
 api.ktplay.com
-api.kuaishouzt.com
 api.kwaizt.com
 api.leancloud.cn
 api.lequ.ptqy.gitv.tv
@@ -19329,7 +19320,6 @@ assets.netizen.co
 assets.newsmaxwidget.com
 assets.onestore.ms
 assets.oomz.de
-assets.servedby-buysellads.com
 assets.simplifydigital.co.uk
 assets.taobao.com
 assets.taobao.com.w.cdngslb.com
@@ -19396,7 +19386,6 @@ async.be
 asyzonline.com
 aszw.org
 at-adserver.alltop.com
-at-cddc.actu-juridique.fr
 at-img1.tdimg.com
 at-img2.tdimg.com
 at-img3.tdimg.com
@@ -22499,7 +22488,6 @@ beifang.net
 beifangfoshifen.com
 beifengwang.com
 beigedi.com
-beiguorc.com
 beihai365.com
 beihaidc.com
 beihaiting.com
@@ -37253,6 +37241,7 @@ d29i6o40xcgdai.cloudfront.net
 d29id7n8587nnz.cloudfront.net
 d29qt51jeyi6xb.cloudfront.net
 d29vzk4ow07wi7.cloudfront.net
+d2a945og79nayl.cloudfront.net
 d2anahhhmp1ffz.cloudfront.net
 d2as12kgjg8gw5.cloudfront.net
 d2au4l2o128joe.cloudfront.net
@@ -72763,7 +72752,6 @@ ldnovel.com
 ldpgl.code.mytanwan.com
 ldplayer.net
 ldproducts.com
-ldqbuy.sport-express.ru
 ldqxn.com
 lds.org
 lds.zui.com
@@ -93626,7 +93614,6 @@ promodeals.nl
 promods.cn
 promokrot.com
 promonsterbeatsbydre.com
-promos.bwin.it
 promos.camsoda.com
 promos.fling.com
 promos.gpniches.com

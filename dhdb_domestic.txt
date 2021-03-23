@@ -18,7 +18,6 @@
 00394.net
 003store.com
 004218.com
-005.tv
 00544.com
 0061.com.au
 00615.net
@@ -8234,6 +8233,7 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
+api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -21225,7 +21225,6 @@ fastmyna.com
 fastreportcn.com
 fastsoc.com
 fastsoso.cc
-fastwebcdn.com
 fatedier.com
 fateqq.com
 fatiao.pro
@@ -23480,7 +23479,6 @@ globalstech.com
 globeauto.org
 globeedu.com
 globeimmi.com
-globepv.com
 globrand.com
 glodon.com
 glofang.com
@@ -27095,7 +27093,6 @@ huaxincem.com
 huaxing.com
 huaxinnianhua.com
 huaxiong.com
-huaxirc.com
 huaxj.net
 huaxuezoo.com
 huayidiaosu.com
@@ -34333,7 +34330,6 @@ lic-bcbc.com
 licai18.com
 licaie.com
 licaike.com
-licaiker.com
 licaimofang.com
 licancan.com
 license.bluesoleil.com
@@ -34610,7 +34606,6 @@ linuxbaodian.com
 linuxboy.net
 linuxcool.com
 linuxdaxue.com
-linuxdiyf.com
 linuxdot.net
 linuxdown.net
 linuxea.com
@@ -42586,7 +42581,6 @@ push.feng.com
 push.gifshow.com
 push.ksapisrv.com
 push.m.youku.com
-push.mobile.kugou.com
 push.pgl.qq.com
 push.res.meizu.com
 push.tv.sohu.com

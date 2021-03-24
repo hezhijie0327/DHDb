@@ -633,6 +633,7 @@
 119958.com
 119hg.com
 119sihu.com
+11a12.com
 11afcp.com
 11btjia.com
 11c07.com
@@ -10994,7 +10995,6 @@ ayfdc.com
 ayjcysteel.com
 aymbb.com
 aypbpr.tokopedia.com
-ayteacher.com
 ayudanintendo.com
 ayuren.com
 ayurumen.com
@@ -33786,6 +33786,7 @@ ic3.events.data.microsoft.com
 icad.ae.org
 icaijing.com
 icams.com
+ican-contest.org
 icann.org
 icanxtv.com
 icaredbd.com
@@ -59200,6 +59201,7 @@ southeastasiacns-prod-2-4.southeastasia.cloudapp.azure.com
 southeastasiacns-prod-2-42.southeastasia.cloudapp.azure.com
 southeastasiacns-prod-2-6.southeastasia.cloudapp.azure.com
 southeastasiacns-prod-2.trafficmanager.net
+southfloridamini.com
 southmongolia.org
 southpark.de
 southpark.lat

@@ -6220,7 +6220,6 @@ abds.pingpingw.com
 abdstem.com
 abe-tech.com
 abeacon.com
-abecage.com
 abiechina.com
 abifsey.com
 abiz.com
@@ -6305,6 +6304,7 @@ acftu.org
 acfun.cn
 acg.gamersky.com
 acg.gamersky.com.wswebpic.com
+acg.gd
 acg.gg
 acg.tv
 acg17.com
@@ -12572,6 +12572,7 @@ cdn-4m9f552e.sched.s2.tdnsv5.com
 cdn-4ph6vqx2.sched.s2.tdnsv5.com
 cdn-7n-pt.zbwowo.com
 cdn-adn-https.rayjump.com
+cdn-adn.rayjump.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 cdn-bvkw7ely.sched.s2.tdnsv5.com
 cdn-cn1.apple-mapkit.com
@@ -19503,7 +19504,6 @@ e-sleb.com
 e-sscard.com
 e-tiller.com
 e-tui.net
-e.01w47q.cn
 e.2hqd0b.cn
 e.91.com
 e.ad.xiaomi.com

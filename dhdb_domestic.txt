@@ -7605,7 +7605,6 @@ aliyun-pcdnts.douyucdn.cn.m.alikunlun.net
 aliyun.cdn.chengzilte.top
 aliyun.com
 aliyun365.com
-aliyunbaike.com
 aliyuncdn.com
 aliyuncdnct.inter.iqiyi.com
 aliyuncdnct.inter.ptqy.gitv.tv
@@ -23365,7 +23364,6 @@ gitlab-assets.oss-cn-hongkong.aliyuncs.com
 gitlib.com
 gitlore.com
 gitsea.com
-gitshell.com
 gitv.cn
 gitv.tv
 giveda.com
@@ -27956,6 +27954,7 @@ iblue.me
 ibluesocial.com
 ibmwclub.com
 ibooker.cc
+ibookstar.com
 ibornclinic.com
 iboxpay.com
 ibr.cc

@@ -403,6 +403,7 @@
 1.bb6688.ws
 1.bh5.com.cn
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.cn716.com
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
@@ -38484,6 +38485,7 @@ ku18.net
 ku555.net
 kuaibaopay.com
 kuaibbs.com
+kuaibo.com
 kuaicad.com
 kuaichuanmirror.com
 kuaidi123.net
@@ -55707,6 +55709,7 @@ secmetrics.leggmason.com
 secmetrics.schaefer-shop.ch
 secmetrics.schaefer-shop.de
 secmetrics.schaefer-shop.nl
+secoloditalia.it
 secom.co.jp
 secondspace.com
 secretbrowser.net

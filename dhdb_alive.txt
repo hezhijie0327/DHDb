@@ -11936,6 +11936,7 @@ ad.71i.de
 ad.7simage.com
 ad.95306.cn
 ad.abcnews.com
+ad.abctv.com
 ad.aboutwebservices.com
 ad.abum.com
 ad.accesstrade.vn
@@ -28894,7 +28895,6 @@ cdn.adguard.com
 cdn.adikteev.com
 cdn.adinall.com
 cdn.adk2.com
-cdn.adless.io
 cdn.adm.myhayo.com
 cdn.adnxs.com
 cdn.ads.fotoable.net

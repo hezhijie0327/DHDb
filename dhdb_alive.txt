@@ -38588,6 +38588,7 @@ dc.webtrends.com
 dc.xhct66.com
 dc0555.com
 dc08i221b0n8a.cloudfront.net
+dc1.networkbench.com
 dc2210.com
 dc2374b3c9cd4d2ce0e315c25d249f94.clo.footprintdns.com
 dc2go.ca
@@ -69280,6 +69281,7 @@ jwplayer.com
 jwpltx.com
 jwpsrv.com
 jwshy.com
+jwslbb.com
 jwt.ms
 jwview.com
 jwwey.com
@@ -74954,6 +74956,7 @@ log.suumo.jp
 log.sv.pandora.tv
 log.tagtic.cn
 log.tapchimattran.vn
+log.tapchitaichinh.vn
 log.targetpush.co.kr
 log.tbs.qq.com
 log.thanhnien.vn

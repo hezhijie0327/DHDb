@@ -8236,7 +8236,6 @@ api.fc.mob.com
 api.fd.mob.com
 api.game.letvstore.com
 api.gameanalytics.com
-api.geetest.com
 api.gi.igexin.com
 api.growingio.com
 api.hanju.koudaibaobao.com
@@ -37642,7 +37641,6 @@ mo.haloapps.cn
 mo.kugou.com
 mo.res.wpscdn.cn
 mo.rjfkrzwk.cn
-mo.rtgvghi.cn
 mo.test.haloapps.com
 mo.zvygzatj.cn
 mo298.com
@@ -37909,7 +37907,6 @@ morewiscloud.com
 morganstanleyhuaxin.com
 morigames.com
 morketing.com
-morko.net
 morningcore.com
 morningwhistle.com
 mos.m.taobao.com
@@ -38718,7 +38715,6 @@ napiantian.com
 naquan.com
 narkii.com
 narutom.com
-nasgetinfo.com
 nashwork.com
 nasimobi.com
 nasiosoft.com

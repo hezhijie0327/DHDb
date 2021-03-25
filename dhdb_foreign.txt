@@ -403,7 +403,6 @@
 1.bb6688.ws
 1.bh5.com.cn
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.cn716.com
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
@@ -49789,6 +49788,7 @@ personalcreations.com
 personalizationmall.com
 personaltrainermath.com
 personalvpn.com
+peru.subventas.com
 peryi.net
 pes20-x64-gate.cs.konami.net
 pes9.changeip.net

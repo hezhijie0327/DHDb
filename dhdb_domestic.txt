@@ -8463,7 +8463,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-site-association.cdn-apple.com
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-zh.com
@@ -35426,7 +35425,6 @@ lulaohan.com
 lulaoye.1111.grfx-blog.top
 lulufind.com
 lum114.com
-lumai.net
 lumajia.com
 lumanman1688.com
 lumiunited.com
@@ -50379,6 +50377,7 @@ telefen.com
 teleinfoo.com
 teleland.net
 telemetry.sdk.inmobi.cn
+telking.com
 tell520.com
 telllove520.com
 telnet404.com

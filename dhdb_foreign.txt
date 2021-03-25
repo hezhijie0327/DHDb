@@ -4879,7 +4879,6 @@ a02342.darlingtonandstocktontimes.co.uk
 a02342.dudleynews.co.uk
 a02342.echo-news.co.uk
 a02342.eveshamjournal.co.uk
-a02342.falmouthpacket.co.uk
 a02342.gazette-news.co.uk
 a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
@@ -13176,6 +13175,7 @@ bj-apc.com
 bj-sagtar.com
 bj-saite.com
 bj1.api.bing.com
+bj100.com
 bj1000e.com
 bj1111.com
 bj173.com
@@ -21053,6 +21053,7 @@ daraz.com
 daraz.pk
 darden.com
 darendh.pw
+darentang.org
 darenvdo.top
 dariknews.bg
 darisungaiderhaka.blogspot.hk
@@ -37637,7 +37638,6 @@ kalamsaha.com
 kalaydo.fnp.de
 kali.org
 kalone.net
-kaloo.ga
 kalooga.com
 kalstats.kaltura.com
 kaltura.com
@@ -51250,7 +51250,6 @@ pressrepublican.com
 prestige-av.com
 prestige.minimafia.nl
 prestigecasino.com
-prestwichandwhitefieldguide-gb.prestwichandwhitefieldguide.co.uk
 prettylittlething.com
 prettyvirgin.com
 prevacid.1.p2l.info

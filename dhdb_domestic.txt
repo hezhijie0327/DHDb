@@ -612,6 +612,7 @@
 1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -4731,7 +4732,6 @@
 77bx.com
 77ds.com
 77ebooks.com
-77kao.com
 77kb.qucaigg.com
 77l.com
 77mh.com
@@ -14953,6 +14953,7 @@ cn.made-in-china.com
 cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.pandora.net
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.voice.gcloudcs.com
@@ -23352,7 +23353,6 @@ gjgov.com
 gjgwy.net
 gjgwy.org
 gjgzpw.com
-gjhwzjw.com
 gjjcxw.com
 gjjlc.sspu.edu.cn
 gjjnhb.com
@@ -32419,7 +32419,6 @@ kanquwen.com
 kanshangjie.com
 kanshu.com
 kanshuge.com
-kanshuwangzhan.com
 kantao.net
 kantiantang.com
 kanxsw.com

@@ -29054,7 +29054,6 @@ cdn.polyfill.io
 cdn.popcash.net
 cdn.popmyads.com
 cdn.printfriendly.com
-cdn.pulpix.com
 cdn.rantu.com
 cdn.rantu.com.w.alikunlun.com
 cdn.ravenjs.com
@@ -55852,7 +55851,6 @@ hahayouxi.com
 hahlo.com
 hahour.com
 hai0.com
-hai61.com
 haiall.com
 haiana.com
 haianbank.com
@@ -77123,7 +77121,6 @@ macreach.com
 macreach.net
 macrocheng.com
 macromedia.com
-macrophiliafan.com
 macrosan.com
 macrosilicon.com
 macrounion.com
@@ -78414,7 +78411,6 @@ mattge.com
 matthewcingram.com
 matthewsery.com
 matthias.wimmer.name
-matthias.wimmer.tel
 matthuntersblog.blogspot.in
 mattressmachinery.net
 mattwilcox.net
@@ -79666,7 +79662,6 @@ metrics.baitoru.com
 metrics.bangbros.com
 metrics.barclaycardus.com
 metrics.base.be
-metrics.beachbody.com
 metrics.bestrecipes.com.au
 metrics.bet.com
 metrics.bitdefender.com
@@ -81716,7 +81711,6 @@ mobileadsserver.com
 mobileadtrading.com
 mobileanalytics.us-east-1.amazonaws.com
 mobileanjian.com
-mobileapp.apple.com
 mobileappcommunicator.auth.microsoft.com
 mobilebet.com
 mobilebone.org
@@ -100496,7 +100490,6 @@ sc.cc
 sc.cc.com
 sc.cmt.com
 sc.com
-sc.coutts.com
 sc.csai.cn
 sc.disneylandparis.com
 sc.gg
@@ -100925,7 +100918,6 @@ scsdzxh.org
 scshenyu.com
 scsi-policy-lp1.cdn.nintendo.net
 scsjnxh.org
-scsmetrics.vodafone.it
 scsstjt.com
 scswuliu.com
 sctaixin.com
@@ -101994,7 +101986,6 @@ sephora.com
 sephora.ru
 septwolves.com
 sepu.net
-seqing911.com
 seqingx.com
 sequ.biz
 sequence.com
@@ -102175,7 +102166,6 @@ setnmh.com
 setongxue.com
 setting.rayjump.com
 setting1.hicloud.com
-settings-ssl.xboxlive.com
 settings-win-ppe.data.microsoft.com
 settings-win.data.microsoft.com
 settings.data.microsoft.com

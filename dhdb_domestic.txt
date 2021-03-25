@@ -14331,7 +14331,6 @@ cindasoft.com
 cinehello.com
 cinema-pics-drcn.dbankcdn.cn
 cinema-tx.hicloud.com
-cinema-ws.hicloud.com
 cingta.com
 ciniao.me
 cinyi.com
@@ -14686,6 +14685,7 @@ cloudvdn.com
 cloudvogue.com
 cloudwise.com
 cloudxns.com
+cloudxns.net
 cloudyo.net
 cloudyouku.com
 clpga.org
@@ -39751,6 +39751,7 @@ ocsp.dcocsp.cn
 ocsp.dcocsp.cn.w.kunlunar.com
 ocsp.digicert.cn
 ocsp.digicert.cn.w.cdngslb.com
+ocsp.globalsign.com
 ocsp.pki.goog
 ocsp2.globalsign.com
 oct-and.com

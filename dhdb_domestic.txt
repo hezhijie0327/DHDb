@@ -6725,6 +6725,7 @@ ads.mojicdn.com
 ads.oneway.mobi
 ads.privacy.qq.com
 ads.reader.yueyouxs.com
+ads.service.kugou.com
 ads.sina.com
 ads.sohu.com
 ads.static.madserving.com
@@ -28827,6 +28828,7 @@ img.yingshidiguo.cn
 img.yjegf.com
 img.youxi369.com
 img.ys137.com
+img.yzcdn.cn
 img.zhls.qq.com
 img.zsj18.com
 img.zuimh.com
@@ -32289,7 +32291,6 @@ kagirl.net
 kai-ying.com
 kaiba315.com
 kaiboda.org
-kaiboer.com
 kaichengschool.com
 kaicong.info
 kaidanbao.com
@@ -35754,7 +35755,6 @@ m.aty.snmsohu.aisee.tv
 m.aty.sohu.com
 m.b2bchinese.cn
 m.baidu.com
-m.baidu.com.yiqisee.cn
 m.beacon.sina.com.cn
 m.beidian.com
 m.bilibili.com

@@ -51846,6 +51846,7 @@ gcirm.dailyrecord.com
 gcirm.delawareonline.com
 gcirm.democratandchronicle.com
 gcirm.desmoinesregister.com
+gcirm.dmp.gcion.com
 gcirm.dmregister.com
 gcirm.dnj.com
 gcirm.gannettnetwork.com
@@ -56544,6 +56545,7 @@ harpercollinschristian.com
 harpercollinsspeakersbureau.com
 harpers.org
 harrisproductsgroup.com
+harrowtimes-gb.harrowtimes.co.uk
 harry.lu
 harrynull.tech
 harrypottermagicawakened.com
@@ -99627,6 +99629,7 @@ s3.us-east-2.amazonaws.com
 s3.video2.stream.vidzi.tv
 s3.videos.videos.vidto.me
 s3.videos.vidto.me
+s3.web.flashx.co
 s36.com
 s362693299.aon.com
 s3a.pstatp.com

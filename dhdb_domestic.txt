@@ -9069,6 +9069,7 @@ avanpa.com
 avatar-static.segmentfault.com
 avatar.csdn.net
 avatar.csdnimg.cn
+avatar.ithome.com
 avatar.pddpic.com
 avatar0.weishi.qq.com
 avatar1.weishi.qq.com
@@ -26133,7 +26134,6 @@ hkpep.com
 hkproperty.com
 hkqbh.com
 hkrdbdry.v1d.szbdyd.com
-hkslg520.com
 hkstv.tv
 hktheone.com
 hktv8.com
@@ -28028,7 +28028,6 @@ iclouds.work
 icmade.com
 icme14.org
 icminer.com
-icmoto.com
 icms.sina.cn
 icmsdev.com
 icmyk.cc

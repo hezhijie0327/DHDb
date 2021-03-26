@@ -4879,7 +4879,6 @@ a02342.clactonandfrintongazette.co.uk
 a02342.dailyecho.co.uk
 a02342.darlingtonandstocktontimes.co.uk
 a02342.dudleynews.co.uk
-a02342.echo-news.co.uk
 a02342.eveshamjournal.co.uk
 a02342.gazette-news.co.uk
 a02342.glasgowtimes.co.uk
@@ -22954,6 +22953,7 @@ download.qoo-app.com
 download.sd.baidu.com
 download.synology.com
 download.weatherblink.com
+download.windowsupdate.com
 download.windowsupdate.nsatc.net
 download.yesmessenger.com
 downloadall.asia

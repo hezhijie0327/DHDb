@@ -3127,7 +3127,6 @@
 200king.com
 200wan.com
 200y.com
-2010hg.com
 2011mv.net
 2011n.com
 2012.8684.com
@@ -6969,7 +6968,6 @@
 5611.com
 56135.com
 5617.com
-562421.com
 5626.com
 5628l.com
 5636.com
@@ -12874,6 +12872,7 @@ adp.atm.youku.com
 adp.cnool.net
 adp.com
 adp.gazeta.pl
+adp.homes.co.jp
 adp.s8bbs.com
 adp1.cnool.net
 adpai.thepaper.cn
@@ -24063,6 +24062,7 @@ bjwyseo.com
 bjxatq.com
 bjxdxx.org
 bjxf315.com
+bjxiangxiu.com
 bjximei.com
 bjxinku.com
 bjxinyou.com
@@ -34322,7 +34322,6 @@ comiccb.com
 comicdd.com
 comice.net
 comicer.com
-comicfans.net
 comiclub.com
 comico.jp
 comico.tw
@@ -36944,6 +36943,7 @@ d1.5h.com
 d1.cnr.cn
 d1.handdiy.com
 d1.mobaders.com
+d1.showself.com
 d1.sina.com.cn
 d1.sinaimg.cn
 d1.static.yximgs.com
@@ -40024,6 +40024,7 @@ dii2.zooplus.hr
 dii2.zooplus.hu
 dii2.zooplus.ie
 dii2.zooplus.it
+dii2.zooplus.nl
 dii2.zooplus.no
 dii2.zooplus.pl
 dii2.zooplus.pt
@@ -53287,7 +53288,6 @@ gmufag.e1.ru
 gmufag.elle.ru
 gmufag.fontanka.ru
 gmufag.marieclaire.ru
-gmufag.ngs.ru
 gmufag.nn.ru
 gmufag.starhit.ru
 gmufag.woman.ru
@@ -65788,7 +65788,6 @@ iwbubcs.v01aelux.space
 iwcoo.com
 iwebad.com
 iwebchoice.com
-iwebxy.com
 iwecan.net
 iweeeb.com
 iweek.ly
@@ -78777,6 +78776,7 @@ mdn.alicdn.com
 mdn.alicdn.com.w.cdngslb.com
 mdn.alipay.com
 mdn.alipay.com.danuoyi.tbcache.com
+mdn.alipayobjects.com
 mdn.mozillademos.org
 mdn.neowin.net
 mdn1.phluantmobile.net

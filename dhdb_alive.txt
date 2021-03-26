@@ -17503,6 +17503,7 @@ api.adfurikun.jp
 api.adguard.com
 api.adintext.net
 api.adnet.mob.com
+api.adnsafe.org
 api.ads.watchabc.go.com
 api.adsymptotic.com
 api.adtimaserver.vn
@@ -21553,7 +21554,6 @@ bbbb.com
 bbbbbb.me
 bbbccf.com
 bbbihe.vertbaudet.es
-bbbr8.com
 bbbtgo.com
 bbbvip.com
 bbc-sy.com
@@ -36713,7 +36713,6 @@ cypatent.com
 cypmedia.com
 cyprestar.com
 cyqyzx.com
-cyrc793.top
 cyruc.com
 cysd.7kww.net
 cysq.com
@@ -43191,7 +43190,6 @@ e.kde.cz
 e.khuoy.com
 e.kjhfy.com
 e.kuaishou.com
-e.kuwoyy.com
 e.kzwsh.cn
 e.lndjj.com
 e.miaoxinqipei.com
@@ -48062,6 +48060,7 @@ feifeiss.com
 feifeixitong.com
 feiffy.cc
 feige.ee
+feigedaojia.com
 feih.com.cn
 feihu.me
 feihua.com
@@ -60550,6 +60549,7 @@ huoguopaihang.com
 huogz.com
 huohoo.com
 huohu123.com
+huohuo.com
 huohuolife.com
 huoju365.com
 huojuli.com
@@ -66742,7 +66742,6 @@ jfrog.com
 jfrog.org
 jfrogchina.com
 jfshare.com
-jfstage.com
 jfstatic.com
 jftnz.com
 jfuwu.com
@@ -82808,6 +82807,7 @@ mssp.baidu.com
 msspgw.cn
 msspjh.emarbox.com
 msspsvr.emarbox.com
+msstatic.com
 msstore.vo.msecnd.net
 mstarsemi.com
 mstat.acestream.net
@@ -87299,6 +87299,7 @@ offcloud.com
 offcn.com
 offer-wow.com
 offer.alibaba.com
+offers.bycontext.com
 offers.nordvpn.com
 offers.royalvegascasino.com
 offersbymail.com

@@ -9376,6 +9376,7 @@ api.adcalls.nl
 api.adfurikun.jp
 api.adguard.com
 api.adintext.net
+api.adnsafe.org
 api.ads.watchabc.go.com
 api.adsymptotic.com
 api.adtimaserver.vn
@@ -9407,7 +9408,6 @@ api.cloudflare.com
 api.cloudmobi.net
 api.coin-hive.com
 api.coinerra.com
-api.comm.miui.com
 api.copymanga.com
 api.cortana.ai
 api.crittercism.com
@@ -31928,6 +31928,7 @@ herpes.3.p2l.info
 herpes.4.p2l.info
 herringnetwork.com
 heryan.web.id
+hesey.net
 heshanwan.cn
 hesti.org
 heureka.cz
@@ -35896,6 +35897,7 @@ ithml.com
 ithome.com.tw
 ithothub.com
 itjuzi.com
+itkoala.com
 itlu.org
 itluantan.com
 itm-tracker.witron.de
@@ -37753,6 +37755,7 @@ karte.io
 kartra.com
 karuimall.com
 kasa.m.biqubao.com
+kashen.com
 kaskus.co.id
 kaskus.com
 kasora.moe
@@ -40457,6 +40460,7 @@ lovemoney.com
 lovemyanime.com
 lovemyanime.net
 loveplanet.ru
+loverili.com
 loverslab.com
 lovesexdurex.cn
 lovesexdurex.com
@@ -52822,6 +52826,7 @@ r.254a.com
 r.5207470.com
 r.ad1.ru
 r.bbci.co.uk
+r.browser.miui.com
 r.dlandroid.com
 r.edge.inmobicdn.net
 r.mobpartner.mobi

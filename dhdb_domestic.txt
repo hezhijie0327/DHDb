@@ -2340,7 +2340,6 @@
 33app.net
 33bus.com
 33down.com
-33hei.com
 33ip.com
 33iq.com
 33jzw.com
@@ -10299,7 +10298,6 @@ bfyx.com
 bfyx.net
 bfzhuce.com
 bg.v4.a.dl.ws.microsoft.com
-bg0.market.xiaomi.com
 bg4.v4.a.dl.ws.microsoft.com
 bgbk.org
 bgctv.com

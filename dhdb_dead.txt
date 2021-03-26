@@ -2464,6 +2464,7 @@ ad1.xiaomi.com
 ad2.adinfuse.com
 ad2.rambler.ru
 ad2.udn.com
+ad2play.ftv-publicite.fr
 ad3.rambler.ru
 ad3.udn.com
 ad4.com.cn
@@ -6101,6 +6102,7 @@ com.vc
 com.ve
 com.vi
 com2us.net
+com5.com.cn
 comdns.xyz
 comeken.com
 comet.sputniknews.com
@@ -7368,6 +7370,7 @@ dehua.ixinfan.com
 dejing.laobanfa.com
 delaynomo.re
 deleak.com
+deleyazhou.com
 deliv.lexpress.fr
 deliver.ifeng.com
 delivery.at5.nl
@@ -7912,6 +7915,7 @@ du.narasmom.com
 du3ghxbmxci1k.cloudfront.net
 du7.com
 du8.com
+dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 duanxin321.com
 dubiwang.com
 duck.wings-dark.services
@@ -10059,6 +10063,7 @@ gmtv.cc
 gname-dns.com
 gnetis.com
 gnssinfo.com
+go-pki.com
 go.88lmimg.com
 go.adinfuse.com
 go.cartstick.com
@@ -10716,6 +10721,7 @@ hhhoo.com
 hhn.cxslcc.cn
 hhnt7r.xyz
 hhqda.pop.t5yx.cn
+hhqp77.com
 hhrhl.vip
 hhy.betway8118.com
 hi.ddns.ms

@@ -7556,7 +7556,6 @@ alisoft.com
 alisports.com
 alissl.ucdl.pp.uc.cn
 alita.waimai.meituan.com
-alitchina.com
 alithefox.net
 alithon.com
 alitrip.com
@@ -23320,6 +23319,7 @@ gitlab-assets.oss-cn-hongkong.aliyuncs.com
 gitlib.com
 gitlore.com
 gitsea.com
+gitshell.com
 gitv.cn
 gitv.tv
 giveda.com

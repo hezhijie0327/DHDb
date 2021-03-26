@@ -16087,7 +16087,6 @@ cqpbx.com
 cqph.com
 cqpix.com
 cqpost.com
-cqpsf.cn
 cqqigao.com
 cqqiyi.com
 cqqnb.net
@@ -26841,6 +26840,7 @@ httpdns.alicdn.com
 httpdns.browser.miui.com
 httpdns.danuoyi.tbcache.com
 httpdns.meituan.com
+httpdns.push.oppomobile.com
 httpsbaidu.com
 httpsdns.baidu.com
 hturl.cc
@@ -29348,6 +29348,7 @@ iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
 iosapps.itunes.apple.com.m.alikunlun.net.v.vvpncdn.com
 iosapps.itunes.apple.com.w.alikunlun.com
+iosapps.itunes.g.aaplimg.com
 iosappx.com
 iosask.com
 ioschina.cc

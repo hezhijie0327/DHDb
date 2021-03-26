@@ -10917,7 +10917,6 @@ a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
 a02342.heraldscotland.com
 a02342.northwichguardian.co.uk
-a02342.penarthtimes.co.uk
 a02342.redditchadvertiser.co.uk
 a02342.southendstandard.co.uk
 a02342.southwalesargus.co.uk
@@ -22763,6 +22762,7 @@ besttrav.com
 bestvapp.com
 bestvideodownloader.com
 bestvintagetube.com
+bestvpn-china.com
 bestvpn.com
 bestvpn.jp
 bestvpnanalysis.com
@@ -41321,7 +41321,6 @@ dongjinyu.com
 dongjun.cc
 dongke.org
 dongkelun.com
-donglibbs.com
 donglingying.cc
 donglishuzhai.net
 dongman.fm
@@ -52930,6 +52929,7 @@ githubapp.com
 githubassets.com
 githubbadge.appspot.com
 githubhackathon.com
+githubmemory.com
 githubs.cn
 githubstatus.com
 githubusercontent.com
@@ -79893,6 +79893,7 @@ metrics.sony.com
 metrics.sony.jp
 metrics.soundandvisionmag.com
 metrics.southwest.com
+metrics.spbtv.com
 metrics.speedousa.com
 metrics.spencersonline.com
 metrics.spirithalloween.com
@@ -90286,7 +90287,6 @@ pbwiki.com
 pbworks.com
 pbxes.com
 pbxes.org
-pc-dvd.com
 pc-fly.com
 pc-index-static.cdn.bcebos.com
 pc.115.com
@@ -96844,6 +96844,7 @@ rain-digital.ca
 rain8.com
 rainasmoon.com
 rainbond.com
+rainbow.one
 rainbowcn.com
 rainbowplan.org
 rainbowred.com

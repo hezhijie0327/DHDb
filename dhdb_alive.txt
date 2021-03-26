@@ -17574,6 +17574,7 @@ api.df.mob.com
 api.dianru.com
 api.diebian.net
 api.domob.cn
+api.douban.com
 api.doumob.com
 api.dropboxapi.com
 api.dsp.yhd.com
@@ -21159,6 +21160,7 @@ banners.thomsonlocal.com
 banners.todoconsolas.com
 banners.toeto.com
 banners.tribute.ca
+banners.utilo.nl
 banners.videosecrets.com
 banners.videosz.com
 banners.virtuagirlhd.com
@@ -73629,7 +73631,6 @@ lienew.com
 liepin.com
 liepincc.com
 liepinoverseas.com
-lieqishi.com
 lierenzy.fun
 liesauer.net
 lietou-edm.com

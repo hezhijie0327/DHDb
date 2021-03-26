@@ -5344,7 +5344,6 @@
 917118.com
 917935868.p23.tc.cdntip.com
 917st.com
-9188.com
 918dxs.com
 918ka.cc
 9191mr.com
@@ -8461,6 +8460,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-zh.com
@@ -10297,6 +10297,7 @@ bfyx.com
 bfyx.net
 bfzhuce.com
 bg.v4.a.dl.ws.microsoft.com
+bg1.market.xiaomi.com
 bg4.v4.a.dl.ws.microsoft.com
 bgbk.org
 bgctv.com
@@ -14320,7 +14321,6 @@ cindasc.com
 cindasoft.com
 cinehello.com
 cinema-pics-drcn.dbankcdn.cn
-cinema-tx.hicloud.com
 cingta.com
 ciniao.me
 cinyi.com
@@ -19684,7 +19684,6 @@ ebeta.org
 ebfcn.com
 ebfortune.com
 ebibi.com
-ebico.com
 ebigear.com
 ebingqilin.com
 ebiobuy.com

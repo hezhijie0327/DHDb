@@ -1756,7 +1756,6 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
-2.android.pool.ntp.org
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
@@ -3794,7 +3793,6 @@
 532ee8e94bae15d2c40e28774fe292e9.dlied1.cdntips.net
 533y.com
 535300.net
-535o.com
 53617686.com
 537.com
 5379yx.com
@@ -5877,6 +5875,7 @@
 9igcw.com
 9ihb.com
 9ihome.com
+9ilu.com
 9iphp.com
 9ishe.com
 9ji.com
@@ -37236,7 +37235,6 @@ mindmanagerchina.com
 mindmapper.cc
 mindmm.com
 mindpin.com
-mindray.com
 mindstore.io
 minecraftxz.com
 mineplugin.org

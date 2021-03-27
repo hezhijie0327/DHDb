@@ -9642,6 +9642,7 @@
 91all.net
 91app.tv
 91art.net
+91avv.cc
 91b2b.com
 91baby.com
 91bee.com
@@ -19281,7 +19282,6 @@ assets.cntdy.mobi
 assets.digitalocean.com
 assets.easou.com
 assets.fanart.tv
-assets.fastgit.org
 assets.giocdn.com
 assets.gitee.com
 assets.growingio.com
@@ -26942,6 +26942,7 @@ c.br.msn.com
 c.btyou.com
 c.bxb.oupeng.com
 c.bxjpl.cn
+c.ca.msn.com
 c.caijing123.com
 c.cdn03.duolebo.com
 c.cdn04.duolebo.com
@@ -44394,7 +44395,6 @@ ee.hx623.cn
 ee.m19ud.cn
 ee.mfufanj.cn
 ee.oikqfwv.cn
-ee.psrkoce.cn
 ee.u0r9.cn
 ee.wh723.cn
 ee.xfya3.cn
@@ -60721,7 +60721,6 @@ hwtime.6te.net
 hwtrip.com
 hwupgrade.it
 hwwjsi.aboutyou.pl
-hwx7080.com
 hwxda.com
 hwxjp.com
 hwxnet.com
@@ -72477,6 +72476,7 @@ lazada.sg
 lazada.vn
 lazienkaplus.pl
 lazonga.com
+lazpit.com
 lazy8krti.com
 lazybios.com
 lazyengines.com
@@ -78804,6 +78804,7 @@ mdws.firstontariocu.com
 mdws.fnbc.ca
 mdws.innovationcu.ca
 mdws.interiorsavings.com
+mdws.kawarthacu.com
 mdws.kscu.com
 mdws.nivervillecu.mb.ca
 mdws.northerncu.com

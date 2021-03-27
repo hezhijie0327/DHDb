@@ -17646,6 +17646,7 @@ api.kiip.me
 api.kingdata.ksyun.com
 api.kkapp.com
 api.ktplay.com
+api.kuaishouzt.com
 api.kwaizt.com
 api.leancloud.cn
 api.lequ.ptqy.gitv.tv
@@ -51151,7 +51152,6 @@ g20.alicdn.com
 g20.alicdn.com.danuoyi.alicdn.com
 g207.com
 g2a-com.newsletter.com.pl
-g2b2b.com
 g2crowd.com
 g2g1.com
 g2h3.com
@@ -52256,7 +52256,6 @@ geo.moatads.com
 geo.mtvnn.com
 geo.prod.do.dsp.mp.microsoft.com
 geo.q5media.net
-geo.thehindu.com
 geo.tv
 geo.vortex.data.microsoft.com.akadns.net
 geo.xcel.io
@@ -66015,7 +66014,6 @@ j.wan.liebao.cn
 j.wit.qq.com
 j.xingshangnet.com
 j.xinshipu.com
-j.zhdap.com
 j.zykxjt.com
 j0005.com
 j0158.com
@@ -76663,6 +76661,7 @@ m.ntxiangtai.com
 m.nuoqingck.cn
 m.nydjsm.cn
 m.obeip.com
+m.ocenp.com
 m.oipeirates.online
 m.openv.tv
 m.panda.voiceads.cn
@@ -97063,6 +97062,7 @@ rc.mxmrt.com
 rc.rlcdn.com
 rc.vtex.com.br
 rc.whytoss.com
+rc0792.com
 rc114.com
 rc2waycm-atl.netmng.com
 rc3cr.com

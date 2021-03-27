@@ -8246,6 +8246,7 @@
 72dj.com
 72dns.com
 72dns.net
+72dy.com
 72e.net
 72ee4ad1.qc.x.bsgslb.cn
 72ee5ce1.qc.x.bsgslb.cn
@@ -40587,7 +40588,6 @@ dl.meliacloud.com
 dl.ops.baidu.com
 dl.pddpic.com
 dl.qcash.ws
-dl.qoo-static.com
 dl.reg.163.com
 dl.steam.ksyna.com
 dl.ubnt.com
@@ -40833,7 +40833,6 @@ dmkdtkad2jyb9.cloudfront.net
 dmkt-sp.jp
 dmlab.hu
 dmlei.com
-dmm-extension.com
 dmm.aizhan.com
 dmm.co.jp
 dmm.com
@@ -44763,7 +44762,6 @@ elanso.com
 elanw.com
 elashi.ca
 elasticbeanstalk.com
-elb-default.us-east-1.aws.dckr.io
 elb-for-cip20-ase-prd-828438764.us-west-1.elb.amazonaws.com
 elb-status-us.statuspage.io
 elb-zg2-gateway-h2-apinet-1553843780.cn-north-1.elb.amazonaws.com.cn
@@ -44880,7 +44878,6 @@ eloqua-trackings.unity.com
 eloqua-trackings.unity3d.com
 eloqua.infobip.com
 eloqua.liberty.edu
-eloquatracking.iqvia.com
 elpais.com
 elpais.com.co
 elpais.com.sv
@@ -44902,7 +44899,6 @@ elqtrk.intel.co.kr
 elqtrk.intel.co.uk
 elqtrk.intel.com
 elqtrk.intel.com.au
-elqtrk.intel.com.br
 elqtrk.intel.com.tr
 elqtrk.intel.com.tw
 elqtrk.intel.de
@@ -44924,7 +44920,6 @@ elqtrk.morningstar.it
 elqtrk.morningstar.se
 elqtrk.rsmus.com
 elqtrk.tw.morningstar.com
-elr.sfr.fr
 elrepo.org
 els001.com
 elsanny.cl
@@ -45261,7 +45256,6 @@ engage.3m.com.tr
 engage.3m.com.ua
 engage.3m.com.vn
 engage.3mcanada.ca
-engage.3mcompany.jp
 engage.3mdeutschland.de
 engage.3mindia.in
 engage.3mitalia.it
@@ -46081,7 +46075,6 @@ euk.slyip.net
 eulam.com
 eule1.pmu.fr
 eulerian.belambra.be
-eulerian.belambra.fr
 eulerian.brandalley.fr
 eulerian.canal-plus.com
 eulerian.com
@@ -46557,7 +46550,6 @@ ext.week.news
 ext2fsd.com
 extend.tv
 extendedstayhotels.com
-extensions-loader.azurewebsites.net
 exter.weilanshan.com
 external-30160.picsz.qpic.cn
 external-promo-metrics.yandex.net
@@ -48376,7 +48368,6 @@ fft123.com
 ffvpn.com
 ffxcam.fairfax.com.au
 ffxiv.xin
-ffychb.com
 ffyinxiang.com
 fg.cc
 fg.softguy.com
@@ -78585,7 +78576,6 @@ mbvn.dyh-uat.1680170.com
 mbx.tt3edd.com
 mbx2119.com
 mbx2567.com
-mbxjs920.com
 mbz64.com
 mc-ccpit.com
 mc-doualiya.com
@@ -85043,7 +85033,6 @@ newslab.withgoogle.com
 newsland.com
 newsleader.com
 newsletter.bcautoencheres.fr
-newsletter.bdnews24.com
 newsletter.davey.com
 newsletter.outbrain.com
 newsletters.bancsabadell.com

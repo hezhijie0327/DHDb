@@ -7582,6 +7582,7 @@ affiliates.cdkeys.com
 affiliates.cupidplc.com
 affiliates.digitalriver.com
 affiliates.eblastengine.com
+affiliates.expaus.in
 affiliates.galapartners.co.uk
 affiliates.genealogybank.com
 affiliates.globat.com
@@ -17756,7 +17757,6 @@ ck.ncclick.co.kr
 ck101.com
 ck180.net
 ck8733.com
-ckaim.com
 ckernel.org
 ckgcjl.com
 ckkpp.com
@@ -32788,6 +32788,7 @@ hotgaylist.com
 hotgoo.com
 hothk.com
 hotjar.com
+hotking.com
 hotlegsandfeet.com
 hotline.ua
 hotlink.cc
@@ -48962,6 +48963,7 @@ page1monk.com
 page2rss.com
 page3.com
 pagead-tpc.l.google.com
+pagead.l.google.com
 pagead46.l.doubleclick.net
 pagecdn.com
 pagecdn.io

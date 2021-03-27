@@ -18131,7 +18131,6 @@ appadvice.com
 appanalysis.banggood.com
 appao.com
 appapi.17house.com
-appapi.dmall.com
 appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
@@ -21845,7 +21844,6 @@ bd1.xiby.cn
 bd1.yidu.cc
 bd1.zuimeitianqi.com
 bd10j05p.sched.sma.tdnsv5.com
-bd11.nipic.com
 bd2.52che.com
 bd2.dopa.com
 bd2.flfgw.cn
@@ -51019,7 +51017,6 @@ fzrsrc.com
 fzsjob.com
 fztxylgy.com
 fzxjxkb.com
-fzxrjx.com
 fzxyyqd.com
 fzyfan.com
 fzyfan.net
@@ -63887,7 +63884,6 @@ init-p01st.push.apple.com
 init-s01st.push.apple.com
 init.ess.apple.com
 init.gc.apple.com
-init.homekit.push.apple.com
 init.itunes.apple.com
 init.itunes.apple.com.mwcname.com
 init.phpwind.com
@@ -76547,7 +76543,6 @@ m.heshanwan.cn
 m.heygugu.com
 m.hhllyt.com
 m.hissq.com
-m.hjues.com
 m.hkgalden.com
 m.hlcnzz.com
 m.hmzsfmjc.com
@@ -93694,6 +93689,7 @@ prv.pl
 prvsz4pe.micpn.com
 prw.lenovomm.com
 prwod.com
+prwx.com
 prx.org
 prx.wayfair.com
 prxch.com

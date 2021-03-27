@@ -1231,6 +1231,7 @@
 1cat.xyz
 1ccbt.com
 1cnw.com
+1d18b.com
 1d4.us
 1degree.com.au
 1dmp.io
@@ -6729,7 +6730,6 @@ ads.prospect.org
 ads.pruc.org
 ads.psd2html.com
 ads.pubmatic.com
-ads.quasaraffiliates.com
 ads.queendom.com
 ads.quoka.de
 ads.radialserver.com
@@ -39448,7 +39448,6 @@ liaoliao99.com
 liaotuo.org
 liaowangxizang.net
 liayoo.com
-lib.baomitu.com
 lib.coin-hive.com
 lib.ebookservice.tw
 lib.etowns.org

@@ -3766,7 +3766,6 @@
 52xiaoshuowang.com
 52xiaoyuan.net
 52xie.com
-52xinmiao.com
 52xintaidu.com
 52xinyou.com
 52xiuxian.com
@@ -8249,6 +8248,7 @@ api.interaction.sohu.com
 api.io.mi.com
 api.iplay.163.com
 api.itaoxiaoshuo.com
+api.ithome.com
 api.ivideo.sina.com.cn
 api.jcswhg.com
 api.jits.heytapmobi.com
@@ -11433,7 +11433,6 @@ btt.service.gongt.me
 btten.com
 bttrack.9you.com
 bttt.qucaigg.com
-bttt99.kkcaicai.com
 btv.org
 btvcd.net
 btwob.net
@@ -24018,7 +24017,6 @@ guakaoba.com
 guanaitong.com
 guanchangcun.com
 guanchao.site
-guanchaohui.club
 guandan.com
 guandata.com
 guandongphoto.com

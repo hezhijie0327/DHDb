@@ -17616,7 +17616,6 @@ api.itaoxiaoshuo.com
 api.ithome.com
 api.ivideo.sina.com.cn
 api.jcswhg.com
-api.jetlore.com
 api.jits.heytapmobi.com
 api.jr.mi.com
 api.kiip.me
@@ -21031,7 +21030,6 @@ banner.elisa.net
 banner.etargeting.mobifone.vn
 banner.eurogrand.com
 banner.europacasino.com
-banner.finzoom.ro
 banner.galabingo.com
 banner.goldenpalace.com
 banner.hpmdnetwork.ru
@@ -23740,7 +23738,6 @@ bj.imp.voiceads.cn
 bj.qeejoo.com
 bj.vip.dns.iqiyi.com
 bj003.com
-bj1.api.bing.com
 bj100.com
 bj1000e.com
 bj1111.com
@@ -24150,7 +24147,6 @@ blackfling.com
 blackfridaydrebeatsnew.com
 blackfridaydrebeatsshop.com
 blackh4t.org
-blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
@@ -24325,7 +24321,6 @@ blog.meteor.com
 blog.mozilla.org
 blog.myorz.com
 blog.naver.com
-blog.onahole.eu
 blog.orph.eu
 blog.path.com
 blog.pathtosharepoint.com
@@ -26226,7 +26221,6 @@ buffered.com
 buffst.com
 bug-bounty1.nimiq-network.com
 bug-bounty2.nimiq-network.com
-bug-bounty3.nimiq-network.com
 bugaga.tut.by
 bughd.com
 bugku.com
@@ -26328,7 +26322,6 @@ bursadabugun.com
 burstly.net
 burstlyrewards.com
 buruizi.com
-burytimes-gb.burytimes.co.uk
 bus365.com
 bus84.com
 busayari.com
@@ -26882,7 +26875,6 @@ c.ad6media.fr
 c.adbxb.cn
 c.admaster.com.cn
 c.admob.com
-c.adroll.com
 c.adsco.re
 c.adx.2345.com
 c.agrant.cn
@@ -26901,7 +26893,6 @@ c.autohome.com.cn
 c.be.msn.com
 c.bebi.com
 c.betrad.com
-c.biancheng.net
 c.biancheng.net.w.kunlunno.com
 c.bigmir.net
 c.bing.com
@@ -27122,7 +27113,6 @@ c2e.ezbox.idv.tw
 c2h4.org
 c2lxoc1q.v1d.szbdyd.com
 c2mt.blogspot.hk
-c2s.startappnetwork.com
 c3.gostats.cn
 c3.moogos.com
 c3.myapkcdn.in
@@ -28632,7 +28622,6 @@ cctvenchiridion.cctv.com
 cctvfinance.com
 cctvgb.com.cn
 cctvhn.com
-cctvpic.com
 cctvpro.com.cn
 cctvsdyxl.com
 cctvse.net
@@ -28981,7 +28970,6 @@ cdn.malokacha.club
 cdn.marketgid.com
 cdn.marketplaceimages.windowsphone.com
 cdn.media.innity.net
-cdn.mgid.com
 cdn.midas-network.com
 cdn.minescripts.info
 cdn.mingmingtehui.com
@@ -29276,7 +29264,6 @@ cds1310.lon.llnw.net
 cds1325.lon.llnw.net
 cds177.dus.llnw.net
 cds308.lcy.llnw.net
-cds310.lcy.llnw.net
 cds405.lcy.llnw.net
 cds406.lcy.llnw.net
 cds407.fra.llnw.net
@@ -34180,7 +34167,6 @@ collector.wasu.cn
 collector.xhamster.com
 collector1.afreecatv.com
 collector1.xhamster.com
-collectorautoupdate7.synology.com
 collectorupdate7.synology.com
 collegeboard.org
 collegeclub.com
@@ -37575,7 +37561,6 @@ dabaoku.net
 dabi.ir
 dabieshu.com
 dabin69.com
-dabjy.com
 dabo8.com
 daboluo.net
 dabr.co.uk
@@ -39242,7 +39227,6 @@ deu-lim-c1-s1.inf.nimiq.network
 deu-lim-c1-s2.inf.nimiq.network
 deu-lim-c2-s1.inf.nimiq.network
 deu-lim-c2-s2.inf.nimiq.network
-deut1.fdj.fr
 deutsche-welle.de
 deutschlandcard.de
 dev-deu-1.inf.nimiq.network
@@ -40595,7 +40579,6 @@ dlercloud.com
 dlercloud.me
 dlercloud.org
 dleris.best
-dlesjf.jutarnji.hr
 dlfacebook.com
 dlfederal.com
 dlflavor.com
@@ -41566,6 +41549,7 @@ download.123cw.cn
 download.2.1212338883.wz.gcloudgbs.com
 download.350.com
 download.91porn005.me
+download.adguard.com
 download.adsage.com
 download.aircrack-ng.org
 download.bav.baidu.com
@@ -70825,7 +70809,6 @@ knewone.com
 knewsmart.com
 knfjhy.echo.msk.ru
 knicks.jd.com
-knicks.jd.com.gslb.qianxun.com
 knifecms.com
 kniu.cc
 knj21.com

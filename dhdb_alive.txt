@@ -7147,7 +7147,6 @@
 58net.com
 58pic.com
 58picc.com
-58player.com
 58q8.com
 58qz.com
 58supin.com
@@ -10889,6 +10888,7 @@ a0001.net
 a01.uadexchange.com
 a02.uadexchange.com
 a0209.com
+a02342.banburycake.co.uk
 a02342.basildonstandard.co.uk
 a02342.bicesteradvertiser.net
 a02342.bournemouthecho.co.uk
@@ -10906,7 +10906,6 @@ a02342.harwichandmanningtreestandard.co.uk
 a02342.heraldscotland.com
 a02342.northwichguardian.co.uk
 a02342.southendstandard.co.uk
-a02342.southwalesargus.co.uk
 a02342.theboltonnews.co.uk
 a02342.thenorthernecho.co.uk
 a02342.thescottishfarmer.co.uk
@@ -11984,6 +11983,7 @@ ad.dl.dewezet.de
 ad.doganburda.com
 ad.domainfactory.de
 ad.donanimhaber.com
+ad.doubanio.com
 ad.doubleclick.net
 ad.doublemax.net
 ad.download.cnet.com
@@ -56515,7 +56515,6 @@ hbcg.cc
 hbcggl.com
 hbchaopu.com
 hbchen.com
-hbciqtc.com
 hbcjaq.com
 hbcjh.net
 hbcjlq.com
@@ -72066,6 +72065,7 @@ lanta-net.ru
 lantaoyu.com
 lantclean.com
 lantern.io
+lantern.kronos.com
 lanternal.com
 lantian-hotel.com
 lantian.tv
@@ -85711,7 +85711,6 @@ njyingtaoya.com
 njyongji.com
 njywsd.com
 njzc025.com
-njzhonglv.com
 njzhzx.net
 njzq.com.cn
 njzrxx.xyz
@@ -85875,7 +85874,6 @@ noddl.me
 noddus.com
 node-log-scdn.yfdts.net
 node.cdntxt.com
-node.coin-hive.com
 node.market-place.su
 node.sm-dafa.com
 node.viaxmr.com
@@ -107635,7 +107633,6 @@ ssgushi.com
 ssh.dkjdnq.cn
 ssh.egesckx.cn
 ssh.iwwacgx.cn
-ssh.lifu11.com
 ssh.njcyfpv.cn
 ssh.xnmcmnt.cn
 ssh.yezijizhang.com

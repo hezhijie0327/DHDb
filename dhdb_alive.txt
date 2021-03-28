@@ -40582,6 +40582,7 @@ dl.meliacloud.com
 dl.ops.baidu.com
 dl.pddpic.com
 dl.qcash.ws
+dl.qoo-static.com
 dl.reg.163.com
 dl.steam.ksyna.com
 dl.ubnt.com
@@ -43895,7 +43896,6 @@ ebb.b0ne.com
 ebc1.capifrance.fr
 ebchina.com
 ebchinaintl.com
-ebcmall.com
 ebdan.net
 ebdoor.com
 ebeta.org
@@ -52240,6 +52240,7 @@ geo.hicloud.com
 geo.hltv.org
 geo.homepage-web.com
 geo.kontagent.net
+geo.mattel163.com
 geo.metronews.ca
 geo.mezr.com
 geo.moatads.com
@@ -62011,6 +62012,7 @@ ie.uu.163.com
 ie027.com
 ie10.com
 ie11.com
+ie13.com
 ie3.cc
 ie515.com
 ie525.com
@@ -107001,6 +107003,7 @@ souyidai.com
 souyue.mobi
 souyunku.com
 soven.com
+sovendus.com
 sovxin.com
 sowang.com
 sowangpan.com
@@ -108593,7 +108596,6 @@ static.accesstrade.vn
 static.acs86.com
 static.addtoany.com
 static.adguard.com
-static.admaximize.com
 static.ads-twitter.com
 static.adsafeprotected.com
 static.adtidy.net
@@ -112228,6 +112230,7 @@ tb772.com
 tb777.com
 tb888.net
 tb988.com
+tb9906.com
 tb9907.com
 tb9991.com
 tb9994.com

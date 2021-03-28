@@ -1071,7 +1071,6 @@
 1.win7sky.com
 1.www.s81c.com
 1.xilu.com
-1.xspic.com
 1.yac8.net
 1.yhzm.cc
 1.ytelc.com
@@ -1792,7 +1791,6 @@
 12ym.com
 12zw.com
 13-courier.push.apple.com
-13-courier2.push.apple.com
 13.courier-push-apple.com.akadns.net
 1300kai.com
 130158.com
@@ -10769,7 +10767,6 @@ a.epinv.com
 a.eporner.com
 a.exam58.com
 a.exoclick.com
-a.exosrv.com
 a.f-0.cc
 a.fengyx.com
 a.fileplaneta.com
@@ -13125,7 +13122,6 @@ ads.elitetrader.com
 ads.elpais.com.uy
 ads.emdee.ca
 ads.emirates.net.ae
-ads.enrt.eu
 ads.eorezo.com
 ads.epi.sk
 ads.epltalk.com
@@ -13700,7 +13696,6 @@ adsatt.abc.starwave.com
 adsatt.abcnews.starwave.com
 adsatt.disney.starwave.com
 adsatt.espn.go.com
-adsatt.espn.starwave.com
 adsatt.familyfun.starwave.com
 adsatt.go.starwave.com
 adsatt.movies.starwave.com
@@ -13770,7 +13765,6 @@ adserver-espnet.sportszone.net
 adserver-us.adtech.advertising.com
 adserver.71i.de
 adserver.a24.com.tr
-adserver.abv.bg
 adserver.ad4link.com
 adserver.adtech.de
 adserver.adtech.fr
@@ -13878,7 +13872,6 @@ adserver.pressboard.ca
 adserver.proteinos.com
 adserver.radio-canada.ca
 adserver.rhombusads.com
-adserver.sanomawsoy.fi
 adserver.sciflicks.com
 adserver.shadow.snapads.com
 adserver.sharewareonline.com
@@ -16642,7 +16635,6 @@ analytics.spotta.nl
 analytics.springboardvideo.com
 analytics.sprint.com
 analytics.staticiv.com
-analytics.stg.springboardvideo.com
 analytics.strangeloopnetworks.com
 analytics.styria.hr
 analytics.supplyframe.com
@@ -17222,7 +17214,6 @@ aod-image-material.cdn.bcebos.com
 aod-image-material.cdn.bcebos.com.a.bdydns.com
 aod-image.baidu.com
 aod-image.baidu.com.a.bdydns.com
-aod-wushuang-video.cdn.bcebos.com
 aod.cos.tx.xmcdn.com
 aod.itunes.apple.com
 aod.itunes.g.aaplimg.com
@@ -17401,8 +17392,6 @@ apexyun.com
 apgblogs.com
 apgoview.com
 aphidic.com
-api-a.op-mobile.opera.com
-api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
 api-ad.kajicam.com
@@ -17739,7 +17728,6 @@ api.staffhub.office.com
 api.starsmp.com
 api.steampowered.com
 api.systest.ptqy.gitv.tv
-api.tabnine.com
 api.taplytics.com
 api.taptapdada.com
 api.tatagou.com.cn
@@ -18026,7 +18014,6 @@ app.cloudcone.com
 app.com
 app.crossengage.io
 app.datafastguru.info
-app.demand.ptc.com
 app.duxiaoman.com
 app.e2ma.net
 app.e8777.com
@@ -19284,6 +19271,7 @@ assets.netizen.co
 assets.newsmaxwidget.com
 assets.onestore.ms
 assets.oomz.de
+assets.servedby-buysellads.com
 assets.simplifydigital.co.uk
 assets.taobao.com
 assets.taobao.com.w.cdngslb.com
@@ -19426,7 +19414,6 @@ atlanticcouncil.org
 atlanticsuperstore.ca
 atlas.astrology.com
 atlas.r.akipam.com
-atlas1.krone.at
 atlas1688.com
 atlasdmt.com
 atlasonepoint.com
@@ -19610,7 +19597,6 @@ audsp.com
 audtd.com
 aufeminin.com
 augloop-prod-000.japaneast.cloudapp.azure.com
-augloop.office.com
 augsburger-allgemeine.de
 augsky.com
 augth.com
@@ -21532,7 +21518,6 @@ bbb112.net
 bbb36.net
 bbb858.com
 bbb916.net
-bbba8.com
 bbbaaa.com
 bbbao.com
 bbbb.com
@@ -24294,7 +24279,6 @@ blog.51.ca
 blog.action52prototype.com
 blog.anank.ke
 blog.bengmugenr.com
-blog.binux.me
 blog.birdhouseapp.com
 blog.bitsrc.io
 blog.boxcar.io
@@ -28552,7 +28536,6 @@ ccoi.ren
 ccopyright.com
 ccp-porn.8964.xyz
 ccp.ovh
-ccpa-script.psg.nexstardigital.net
 ccpc.io
 ccpc02.com
 ccpc360.com
@@ -28850,7 +28833,6 @@ cdn-webview-pge.unityads.unity3d.com
 cdn-x-w-0.momentcdn.net
 cdn-x-w-0.momentcdn.net.cname.yunjiasu-cdn.net
 cdn-x-w-1.momentcdn.net
-cdn-x-w-1.momentcdn.net.cname.yunjiasu-cdn.net
 cdn-x-w.momentcdn.net
 cdn-x-w.momentcdn.net.cname.yunjiasu-cdn.net
 cdn-xalbum-mp4.xiaoniangao.cn
@@ -28870,7 +28852,6 @@ cdn.adblade.com
 cdn.adc.eamobile.com
 cdn.adclerks.com
 cdn.adguard.com
-cdn.adikteev.com
 cdn.adinall.com
 cdn.adk2.com
 cdn.adm.myhayo.com
@@ -29128,7 +29109,6 @@ cdn1.ad-center.com
 cdn1.apple-mapkit.com
 cdn1.capterra-static.com
 cdn1.crispadvertising.com
-cdn1.i-scmp.com
 cdn1.inner-active.mobi
 cdn1.lbesec.com
 cdn1.lp.saboom.com
@@ -29872,7 +29852,6 @@ championmachinery-cn.com
 champs-elysees.com
 champssports.com
 champzee.com
-chan.sankakucomplex.com
 chanalytics.merchantadvantage.com
 chance-ad.com
 chance.adsensor.org
@@ -38927,7 +38906,6 @@ defectink.com
 defence.pk
 defenddemocracy.org
 defense.gov
-deff.nelreports.net
 define-arch.com
 definebabe.com
 definitionupdates.microsoft.com
@@ -42019,6 +41997,7 @@ ds.serving-sys.com
 ds.vm3.test-ipv6.com
 ds023.com
 ds02gfqy6io6i.cloudfront.net
+ds05s2206.apetteam.com
 ds10.api.baifendian.com
 ds123456.com
 ds129.awmdm.com
@@ -43386,7 +43365,6 @@ ea.galerieslafayette.com
 ea.greenweez.com
 ea.habitat.de
 ea.habitat.fr
-ea.histoiredor.com
 ea.hofmann.es
 ea.hofmann.pt
 ea.homair.com
@@ -43400,7 +43378,6 @@ ea.lexpress.fr
 ea.megustaleer.com.pe
 ea.melijoe.com
 ea.millet-mountain.com
-ea.millet.fr
 ea.motorisationplus.com
 ea.numericable.fr
 ea.odalys-vacances.com
@@ -43461,7 +43438,6 @@ eamythic.com
 eamythic.net
 eanordic.com
 eap.big5.enorth.com.cn
-eap.enorth.com.cn
 eaplay.com
 earlytibet.com
 earngeek.com
@@ -43920,7 +43896,6 @@ ec.snssdk.com
 ec.yimg.com
 ec054d6b3575470a8d04e339e7705b94-cn-hangzhou.alicloudapi.com
 ec0715.com
-ec2-13-58-215-234.us-east-2.compute.amazonaws.com
 ec2-15-161-63-165.eu-south-1.compute.amazonaws.com
 ec2-44-233-143-239.us-west-2.compute.amazonaws.com
 ec3s.com
@@ -44167,7 +44142,6 @@ edge.microsoft.com
 edge.quantserve.com
 edge.reporo.net
 edge.sharethis.com
-edge2.digicert.com
 edge3.digicert.com
 edge4.digicert.com
 edgecast-vod.yimg.com
@@ -44613,7 +44587,6 @@ eightcap.com
 eightedu.com
 eigpay.com
 eiicn.com
-eiiq.com
 eilieili.cc
 eimi.vip
 eimoney.com
@@ -45578,7 +45551,6 @@ eravage.com
 eraysoft.com.tr
 erb.tremblant.ca
 ercc.cc
-ercos.cn
 erdaicms.com
 erdangjiade.com
 erdavet.ro
@@ -67791,6 +67763,7 @@ jkgood.com
 jkh8.iberojet.es
 jkidc.com
 jkimg.net
+jkjzt.com
 jkmeishi.com
 jknarp.kakaku.com
 jkorlow.com
@@ -72401,7 +72374,6 @@ lazybios.com
 lazyengines.com
 lazylorna.com
 lazymind.me
-lb-adserver.ig.com.br
 lb-floor.com
 lb-pkx01-offline.zhihu.com
 lb.fancydsp.com

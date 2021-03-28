@@ -10911,10 +10911,8 @@ a02342.greenocktelegraph.co.uk
 a02342.harwichandmanningtreestandard.co.uk
 a02342.heraldscotland.com
 a02342.northwichguardian.co.uk
-a02342.redditchadvertiser.co.uk
 a02342.southendstandard.co.uk
 a02342.southwalesargus.co.uk
-a02342.stourbridgenews.co.uk
 a02342.theboltonnews.co.uk
 a02342.thenorthernecho.co.uk
 a02342.thescottishfarmer.co.uk
@@ -29485,6 +29483,7 @@ cem.hotelsapi.io
 cem5117.com
 cement365.com
 cementren.com
+ceming.com
 cemyun.com
 cenbel.com
 cencoastbmw.com
@@ -35154,7 +35153,6 @@ counter14.bravenet.com
 counter14.sextracker.be
 counter15.bravenet.com
 counter15.sextracker.be
-counter16.bravenet.com
 counter16.sextracker.be
 counter17.bravenet.com
 counter18.bravenet.com
@@ -35173,7 +35171,6 @@ counter26.bravenet.com
 counter27.bravenet.com
 counter28.bravenet.com
 counter29.bravenet.com
-counter3.bravenet.com
 counter3.sextracker.be
 counter30.bravenet.com
 counter31.bravenet.com
@@ -35204,7 +35201,6 @@ counter6.bravenet.com
 counter6.sextracker.be
 counter7.bravenet.com
 counter7.sextracker.be
-counter8.bravenet.com
 counter8.sextracker.be
 counter9.bravenet.com
 counter9.sextracker.be
@@ -35874,7 +35870,6 @@ cs.dds.microsoft.com
 cs.hot.net.il
 cs.mbgame.gamesafe.qq.com
 cs.nakanohito.jp
-cs.prd.msys.playstation.net
 cs.twcczhu.com
 cs0060.com
 cs0080.com
@@ -37082,7 +37077,6 @@ d1rsh847opos9y.cloudfront.net
 d1rszqblq924lq.cloudfront.net
 d1s18kaechs9c9.cloudfront.net
 d1s5n6wuwgnxf4.cloudfront.net
-d1shouyou.z568.net
 d1sj3yrs7ojvv7.cloudfront.net
 d1sp2sgy246t7c.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
@@ -37104,7 +37098,6 @@ d1wirc5qsdb1y5.cloudfront.net
 d1wjj8n9m51z7v.cloudfront.net
 d1wjz6mrey9f5v.cloudfront.net
 d1wn3.cn
-d1xfq2052q7thw.cloudfront.net
 d1xkyo9j4r7vnn.cloudfront.net
 d1xn.com
 d1xtw.com
@@ -37277,7 +37270,6 @@ d2t15uaqqm1mjb.cloudfront.net
 d2taktuuo4oqx.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
-d2tkdzior84vck.cloudfront.net
 d2u1npnnqecmpq.cloudfront.net
 d2uap9jskdzp2.cloudfront.net
 d2uepos3ef6db0.cloudfront.net
@@ -37406,7 +37398,6 @@ d3fqhkmofpujs3.cloudfront.net
 d3g.qq.com
 d3g.qq.com.tc.qq.com
 d3g.qq.com.yyb-dk.sched.dcloudstc.com
-d3g5ovfngjw9bw.cloudfront.net
 d3hitamb7drqut.cloudfront.net
 d3hj4iyx6t1waz.cloudfront.net
 d3hs51abvkuanv.cloudfront.net
@@ -37472,7 +37463,6 @@ d3skg.com
 d3sskjfdrsmdxn.cloudfront.net
 d3t3lxfqz2g5hs.cloudfront.net
 d3t5ngjixpjdho.cloudfront.net
-d3t9nyds4ufoqz.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
 d3tivku5hdr7jk.cloudfront.net
 d3tsytm1wtjqo2.cloudfront.net
@@ -38358,7 +38348,6 @@ datayes.com
 datazt.com
 date.and-have.fun
 datebao.com
-daten.union-investment.de
 datescan.info
 datessr.com
 datia-inspect.com
@@ -38596,7 +38585,6 @@ dcc.shuzilm.cn
 dccfog.petco.com
 dcci.adsame.com
 dcdapp.com
-dcdbjkjn.fzgyh.com
 dcdnhub.xfs.xcloud.sandai.net
 dcement.com
 dceni.com
@@ -38672,7 +38660,6 @@ dd4.com
 dd6300.fun
 dd6366.com
 dd699.net
-dd6zx4ibq538k.cloudfront.net
 dd713.bj.bcebos.com
 dd7q.com
 dd8828.com
@@ -39313,13 +39300,11 @@ developer.dji.com
 developer.htcvive.com
 developer.jsecoin.com
 developer.microsoft.com
-developer.mozilla.org
 developer.n.shifen.com
 developer.open-api-auth.xunlei.com
 developer.vive.com
 developers.box.net
 developers.cloudflare.com
-developers.facebook.com
 developershed.com
 developersnetwork.com
 developingperspective.com
@@ -39340,7 +39325,6 @@ device.auth.xboxlive.com
 devil-torrents.pl
 deviloid.net
 devilsfilm.com
-devimages-cdn.apple.com
 devio.org
 devio.us
 devisprox-media.s3-website-eu-west-1.amazonaws.com
@@ -39631,7 +39615,6 @@ diabloimmortal.com
 diaconadovalpo.cl
 diag-vd.gridsumdissector.com
 diag-wd.gridsumdissector.com
-diagnose.igstatic.com
 diagnosis.ad.xiaomi.com
 diagnostic.opendns.com
 diahosting.co
@@ -39648,7 +39631,6 @@ dialogue.mazda.eu
 dialogue.mazda.fr
 dialogue.mazda.hr
 dialogue.mazda.it
-dialogue.mazda.pl
 dialogue.mazda.pt
 dialogue.mazda.ro
 dialogue.mazda.sk
@@ -41154,7 +41136,6 @@ doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh-sg.blahdns.com
 doh.applied-privacy.net
-doh.appliedprivacy.net
 doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
@@ -41607,7 +41588,6 @@ download.123cw.cn
 download.2.1212338883.wz.gcloudgbs.com
 download.350.com
 download.91porn005.me
-download.adguard.com
 download.adsage.com
 download.aircrack-ng.org
 download.bav.baidu.com
@@ -41642,7 +41622,6 @@ download.parallels.com.cdn.cloudflare.net
 download.pdfforge.org
 download.qianka.com
 download.qoo-app.com
-download.sd.baidu.com
 download.synology.com
 download.vzuu.com
 download.wan.sohu.com
@@ -42239,7 +42218,6 @@ du114.com
 du175.com
 du1du.cc
 du1du.org
-du2uh7rq0r0d3.cloudfront.net
 du7.org
 du8783wkf05yr.cloudfront.net
 duai.com
@@ -43891,7 +43869,6 @@ ebioe.com
 ebiogo.com
 ebioweb.com
 ebis.ne.jp
-ebis.rozetta.jp
 ebjfinance.com
 ebkj.net
 eblastengine.com
@@ -55008,6 +54985,7 @@ guojimami.com
 guojinbao.com
 guojing-tech.com
 guojiteshe.org
+guojixuexiao.org
 guojixumu.com
 guojj.com
 guojucloud.com

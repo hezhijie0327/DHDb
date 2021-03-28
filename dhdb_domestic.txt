@@ -2833,7 +2833,6 @@
 400.com
 4000278400.com
 4000500521.com
-4000690600.com
 4000730138.com
 4000892990.com
 4001006666.com
@@ -38802,7 +38801,6 @@ ner98.com
 nercel.com
 nesbbs.com
 nesc.cn
-nessau.dmall.com
 nestlechinese.com
 net-add.com
 net-swift.com
@@ -39673,7 +39671,6 @@ ocsp.dcocsp.cn
 ocsp.dcocsp.cn.w.kunlunar.com
 ocsp.digicert.cn
 ocsp.digicert.cn.w.cdngslb.com
-ocsp.globalsign.com
 ocsp.pki.goog
 oct-and.com
 oct-cts.com
@@ -39816,7 +39813,6 @@ okchexian.com
 okemu.com
 okex.me
 okeycar.com
-okfri.com
 okgj.com
 okhimalayanzi.com
 okhqb.com
@@ -42685,6 +42681,7 @@ qcloud.tencent-cloud.com
 qcloudcdn.com
 qcloudcdnct.inter.71edge.com
 qcloudcdnct.inter.ptqy.gitv.tv
+qcloudcjgj.com
 qcmoke.site
 qcmrjx.com
 qcmuzhi.com

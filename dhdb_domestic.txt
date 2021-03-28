@@ -32158,7 +32158,6 @@ k.13hangpifa.com
 k.85wa.cn
 k.97wanle.com
 k.ailefen.com
-k.cnsayo.com
 k.gsdhome.cn
 k.innvitor.com
 k.jinxiuzhilv.com
@@ -33222,6 +33221,7 @@ kunshanidc.com
 kunx.org
 kunyu.csdn.net
 kunyueyun.com
+kuo-yi.com
 kuoo8.com
 kuoruan.com
 kuosanyun.com
@@ -42215,6 +42215,7 @@ public-v6.sparta.mig.tencent-cloud.net
 public.app.autohome.com.cn
 public.creditchina.gov.cn
 public.ffquan.cn
+public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.wlbaike.com
 publicassets.cdn-apple.com

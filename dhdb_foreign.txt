@@ -29325,7 +29325,6 @@ geo.moatads.com
 geo.mtvnn.com
 geo.prod.do.dsp.mp.microsoft.com
 geo.q5media.net
-geo.thehindu.com
 geo.tv
 geo.vortex.data.microsoft.com.akadns.net
 geo.xcel.io
@@ -31809,7 +31808,6 @@ hellojava.info
 hellokittybeats.com
 hellomagazine.com
 helloprojectclothes.blogspot.jp
-helloqueer.com
 helloradio.org
 hellosmartbook.com
 hellotxt.com
@@ -36587,6 +36585,7 @@ jianada-qianzheng.com
 jianbaimei.com
 jianbangjiaoyu.com
 jianbihua.cc
+jianchajing.org
 jianchesl.com
 jianchiapp.com
 jiandansousuo.com

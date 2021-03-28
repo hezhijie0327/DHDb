@@ -2590,6 +2590,7 @@ admob.xiaomi.com
 adn.baidu.com
 adnet.sohu.com
 adnetworks.co.jp
+adnsafe.org
 adobecc.com
 adobeccstatic.com
 adobecontent.io

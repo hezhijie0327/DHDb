@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0.pic.paopaoche.net
-0.pool.ntp.org
 0.up.qingdaonews.com
 0006999.com
 000dn.com
@@ -26059,6 +26058,7 @@ hk-myungga.net
 hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
+hk.pool.ntp.org
 hk515.net
 hkaco.com
 hkance.com
@@ -26779,7 +26779,6 @@ httpdns.alicdn.com
 httpdns.browser.miui.com
 httpdns.danuoyi.tbcache.com
 httpdns.meituan.com
-httpdns.push.oppomobile.com
 httpsbaidu.com
 httpsdns.baidu.com
 hturl.cc
@@ -39633,6 +39632,7 @@ ocpc.xueersi.com
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
 ocsp-lb.apple.com.akadns.net
+ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.crlocsp.cn
 ocsp.dcocsp.cn
@@ -40235,6 +40235,7 @@ osbzr.com
 osc.uranus.sogou.com
 oscarma.com
 oscartutor.com
+oschina.net
 oscimg.oschina.net
 osechina.com
 oseminfo.com

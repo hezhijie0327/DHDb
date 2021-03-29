@@ -16710,6 +16710,7 @@ analyticsengine.s3.amazonaws.com
 analyticskey.com
 analyticsnew.overwolf.com
 analyticsreporting.googleapis.com
+analyticsssl.forcepoint.com
 analytictech.com
 analyze.full-marke.com
 analyzer.fc2.com
@@ -35111,6 +35112,7 @@ counter14.bravenet.com
 counter14.sextracker.be
 counter15.bravenet.com
 counter15.sextracker.be
+counter16.bravenet.com
 counter16.sextracker.be
 counter17.bravenet.com
 counter18.bravenet.com
@@ -37354,6 +37356,7 @@ d3eg0bumpfykya.cloudfront.net
 d3elm8wezzwg42.cloudfront.net
 d3em0905j9y6sm.cloudfront.net
 d3f.com
+d3f.houyi.baofeng.net
 d3f4u3khr0ycep.cloudfront.net
 d3fqhkmofpujs3.cloudfront.net
 d3g.qq.com
@@ -81326,6 +81329,7 @@ mmi.bemobile.ua
 mmia.com
 mmicloud.com
 mmim8.com
+mmk.dyn.mk
 mmkao.net
 mmkkgg.com
 mmkkiivv.com
@@ -88546,7 +88550,6 @@ osyum.com
 osyunwei.com
 oszx.co
 ot.io.mi.com
-ot.obi-italia.it
 ot.obi.at
 ot.obi.ch
 ot.obi.cz
@@ -96472,7 +96475,6 @@ r.mobpartner.mobi
 r.movad.de
 r.msn.com
 r.my.com
-r.myadx.net
 r.nikkei.com
 r.partner.badoo.ru
 r.pixgold.com
@@ -98765,7 +98767,6 @@ ruanyuan.net
 rubaoo.com
 rubbernews.com
 rubenterlou.com
-rubicon-match.dotomi.com
 rubicon.wellsfargo.com
 rubiconproject.com
 rubixfxasia.com
@@ -105527,7 +105528,6 @@ smetrics.opsm.com.au
 smetrics.optimum.net
 smetrics.optum.com
 smetrics.orangetheory.com
-smetrics.oravet.com
 smetrics.oshkosh.com
 smetrics.oxfam.org.uk
 smetrics.pacsun.com

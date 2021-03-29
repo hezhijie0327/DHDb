@@ -8476,6 +8476,7 @@ app.jiuzhilan.com
 app.juwang.com
 app.kwaixiaodian.com
 app.lz55.cn
+app.market.xiaomi.com
 app.mi.com
 app.moji001.com
 app.nasyun.com
@@ -14938,6 +14939,7 @@ cn.made-in-china.com
 cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.pandora.net
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.voice.gcloudcs.com
@@ -15232,7 +15234,6 @@ cnknowledge.com
 cnkuai.com
 cnky.net
 cnlangier.com
-cnlaw.net
 cnledw.com
 cnlhzb.com
 cnlianjie.com

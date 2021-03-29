@@ -15407,6 +15407,7 @@ metrics.bestbuy.com
 metrics.dailymotion.com
 metrics.macys.net
 metrics.nimiq-network.com
+metrics.nook.com
 metrics.sce.com
 metrics.sonymusicd2c.com
 metrics.soundandvision.com
@@ -16529,6 +16530,7 @@ noasic.beeppool.org
 node.alpha.nimiqpool.com
 node.cfcdist.gd
 node.cfcdist.gdn
+node.coin-hive.com
 node.cyou
 node.js
 node.nimiqpool.com

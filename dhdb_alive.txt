@@ -10903,6 +10903,7 @@ a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
 a02342.heraldscotland.com
 a02342.northwichguardian.co.uk
+a02342.redhillandreigatelife.co.uk
 a02342.southendstandard.co.uk
 a02342.theboltonnews.co.uk
 a02342.thenorthernecho.co.uk
@@ -13687,6 +13688,7 @@ adsatt.abc.starwave.com
 adsatt.abcnews.starwave.com
 adsatt.disney.starwave.com
 adsatt.espn.go.com
+adsatt.espn.starwave.com
 adsatt.familyfun.starwave.com
 adsatt.go.starwave.com
 adsatt.movies.starwave.com
@@ -29002,7 +29004,6 @@ cdn.optaim.com
 cdn.optmd.com
 cdn.paddle.com
 cdn.pindayun.com
-cdn.pljs.ru
 cdn.pocoiq.cn
 cdn.polyfill.io
 cdn.popcash.net
@@ -33669,7 +33670,6 @@ cnt.iceporn.com
 cnt.krasland.ru
 cnt.logoslovo.ru
 cnt.mastorage.net
-cnt.nicemix.com
 cnt.nov.ru
 cnt.nuvid.com
 cnt.rambler.ru
@@ -44787,6 +44787,7 @@ eloqua-trackings.unity.com
 eloqua-trackings.unity3d.com
 eloqua.infobip.com
 eloqua.liberty.edu
+eloquatracking.iqvia.com
 elpais.com
 elpais.com.co
 elpais.com.sv
@@ -70711,7 +70712,6 @@ klienux.org
 klik.me
 kliker.eu
 klikklik.nl
-kliks.affiliate4you.nl
 klinlee.com
 klip.me
 klipmart.forbes.com
@@ -78644,6 +78644,7 @@ mdsol.com
 mdtr2pdf.com
 mdtu.com
 mduckstudio.com
+mdugiz.jdsports.de
 mdvdns.com
 mdvoo.com
 mdws.1stchoicesavings.ca
@@ -100980,6 +100981,7 @@ sdlc6.com
 sdlldj.com
 sdlmaf.bestsecret.at
 sdlocw.com
+sdlongli.com
 sdly35.com
 sdmic.com
 sdmyzsgs.com
@@ -104319,7 +104321,6 @@ sites120.com
 sitescout-video-cdn.edgesuite.net
 sitescout.com
 sitesearch360.com
-sitestats.tiscali.co.uk
 sitesuite.org
 sitetag.us
 sitetagger.co.uk

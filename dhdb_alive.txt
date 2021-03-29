@@ -11222,6 +11222,7 @@ aamt.msnbc.com
 aamt.nbcnews.com
 aamt.newsapp.telemundo.com
 aamt.today.com
+aanalytics.adelaide.edu.au
 aaniao.com
 aapa.org
 aapig.com
@@ -58148,7 +58149,6 @@ hk-pic4.xyz
 hk-pub.com
 hk-wesi1.xyz
 hk.22.ns1.name
-hk.32-b.it
 hk.bdstatic.com
 hk.dictionary.yahoo.com
 hk.fartit.com
@@ -62427,6 +62427,7 @@ ikmt.net
 iknow-base.bj.bcebos.com
 iknow-base.cdn.bcebos.com
 iknow-pic.cdn.bcebos.com
+iknow.n.shifen.com
 iknowpc.bdimg.com
 iknowstatic.jomodns.com
 iknowwap.bdimg.com
@@ -62923,7 +62924,6 @@ img.pddpic.com
 img.pddpic.com.sched.pddlego-dk.tdnsv5.com
 img.php.cn
 img.prohardver.hu
-img.promoddl.com
 img.qianwee.com
 img.qoo-static.com
 img.revcontent.com

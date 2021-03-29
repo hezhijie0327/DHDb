@@ -17720,6 +17720,7 @@ api.staffhub.office.com
 api.starsmp.com
 api.steampowered.com
 api.systest.ptqy.gitv.tv
+api.tabnine.com
 api.taplytics.com
 api.taptapdada.com
 api.tatagou.com.cn

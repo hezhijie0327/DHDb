@@ -10765,7 +10765,6 @@ a.consumer.net
 a.dangdang.com
 a.diaoyu.cn
 a.dlads.cn
-a.dmall.com
 a.doko.moe
 a.dphunters.com
 a.dtprofit.com
@@ -26461,6 +26460,7 @@ buycheapbeatsbus.com
 buycheapbeatsbydre.com
 buycheapbeatsbydreshop.com
 buycheapbeatsdreuk.com
+buycialisonline.7h.com
 buycostumes.com
 buydrdrebeatbox.com
 buyfast-paysmart.net
@@ -61337,6 +61337,7 @@ iadmat.nosdn.127.net
 iadmatvideo.nosdn.127.net
 iadmob.com
 iadmusicmat.music.126.net
+iadmusicmatvideo.music.126.net
 iadsdk.apple.com.akadns.net
 iadsdk.apple.com.cdn20.com
 iadsdk.apple.com.edgekey.net
@@ -78401,7 +78402,6 @@ maxads.ruralpress.com
 maxadserver.corusradionetwork.com
 maxcdn.bootstrapcdn.com
 maxcdn.com
-maxdoge.com
 maxent-inc.com
 maxgj.net
 maxgo.com
@@ -93953,6 +93953,7 @@ public.creditchina.gov.cn
 public.dns.iij.jp
 public.ffquan.cn
 public.fr
+public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.popcorn-tracker.org
 public.porn.fr
@@ -103948,6 +103949,7 @@ shxf.net
 shxhgzf.com
 shxiaoran.com
 shxibeiquanshe.com
+shxsy.org
 shxt.com
 shxwcb.com
 shxy888.com
@@ -106838,7 +106840,6 @@ soobb.com
 soocang.com
 sooele.com
 soogif.com
-sooker.com
 soolco.com
 soomal.com
 soompi.com

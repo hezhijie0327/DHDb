@@ -830,7 +830,6 @@
 111com.net
 111g.com
 111g.yiqig.cn
-111jz.com
 111qqz.com
 111yao.com
 112112.com
@@ -8447,6 +8446,7 @@ app-g.39.net
 app-measurement.com
 app-monitor.ele.me
 app-router.com
+app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -16886,7 +16886,6 @@ dadayou.com
 dadazw.com
 dadetong.com
 dadianstudio.com
-dadigho.com
 dadijilu.com
 dadipedia.com
 dadizq.com
@@ -17800,7 +17799,6 @@ dhq898.com
 dhqtech.com
 dhrcbank.com
 dhrest.com
-dhsfcw.cn
 dht5867.com
 dhtyey.com
 dhwooden.com
@@ -30303,7 +30301,6 @@ jfm4.pop.baofeng.net
 jfocus.net
 jfrogchina.com
 jfshare.com
-jfstage.com
 jfstatic.com
 jfuwu.com
 jfyiyao.com
@@ -36188,7 +36185,6 @@ mangxuewang.com
 manhua.acimg.cn
 manhua365.com
 manhua39.com
-manhuabei.com
 manhuadaohang.com
 manhualang.com
 manhuama.cn

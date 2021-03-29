@@ -11991,7 +11991,6 @@ ad.dedecms.com
 ad.dev.360.cn
 ad.deviantart.com
 ad.digitallook.com
-ad.digitimes.com.tw
 ad.dl.dewezet.de
 ad.doganburda.com
 ad.domainfactory.de
@@ -12492,6 +12491,7 @@ addison-wesley.ch
 addlog.thuvienphapluat.vn
 addmt.com
 addnewer.com
+addons.cdn.mozilla.net
 addoom.com
 addpv.com
 adds.weatherology.com
@@ -40478,6 +40478,7 @@ djcc.com
 djcp099.com
 djdkk.com
 djduoduo.com
+djfsm.com
 djhgyy.com
 djhuying.com
 dji.com
@@ -55855,7 +55856,6 @@ haidaozhu.com
 haidii.com
 haidilao.com
 haidilao.us
-haidimao.com
 haiduomi.cc
 haier.com
 haier.hk
@@ -85634,7 +85634,6 @@ ningoo.net
 nington.com
 ningxingxing.com
 ningxinm1.com
-ninikan.com
 ninixv.xyz
 niniyeh.com
 ninja.akamaized.net

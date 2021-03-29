@@ -10911,7 +10911,6 @@ a02342.dailyecho.co.uk
 a02342.darlingtonandstocktontimes.co.uk
 a02342.dudleynews.co.uk
 a02342.eveshamjournal.co.uk
-a02342.gazette-news.co.uk
 a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
 a02342.heraldscotland.com
@@ -11698,6 +11697,7 @@ acirno.com
 acjs.aliyun.com
 acjw.net
 ackeline.com
+acl.stayfriends.de
 acloudimages.com
 acloudvideos.com
 aclu.org
@@ -19433,6 +19433,7 @@ atlantaminidealers.com
 atlanticcouncil.org
 atlanticsuperstore.ca
 atlas.astrology.com
+atlas.dmall.com
 atlas.r.akipam.com
 atlas1688.com
 atlasdmt.com
@@ -35182,6 +35183,7 @@ counter26.bravenet.com
 counter27.bravenet.com
 counter28.bravenet.com
 counter29.bravenet.com
+counter3.bravenet.com
 counter3.sextracker.be
 counter30.bravenet.com
 counter31.bravenet.com
@@ -57490,6 +57492,7 @@ herebbs.com
 herefordtimes.com
 herewetest.com
 heritage.org
+hermes.jd.com
 hermes.jd.com.gslb.qianxun.com
 hermes.theglobeandmail.com
 hermesworld.com
@@ -59611,6 +59614,7 @@ hso.jd.com
 hsoow.com
 hsp.3.cn
 hsp2odbx.sched.s2-dk.tdnsv5.com
+hspbotdetection.azurewebsites.net
 hsr2013.com
 hssdg.com
 hssdtest.com

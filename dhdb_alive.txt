@@ -189,7 +189,6 @@
 01teacher.com
 01tingshu.com
 01w.com
-01w47q.cn
 01water.com
 01yo.com
 01yun.com
@@ -10924,6 +10923,7 @@ a02342.winsfordguardian.co.uk
 a02342.wirralglobe.co.uk
 a02342.witneygazette.co.uk
 a02342.worcesternews.co.uk
+a02342.yeovilexpress.co.uk
 a02342.yourlocalguardian.co.uk
 a0263.com
 a03.uadexchange.com
@@ -25915,7 +25915,6 @@ bs-awh.ne.jp
 bs-origin.pull.yximgs.com
 bs.commontools.net
 bs.csshq.com.cn
-bs.forward.douban.com
 bs.lamrd.cn
 bs.nakanohito.jp
 bs.orsk.ru
@@ -45330,7 +45329,6 @@ enrz.com
 ens.luzernerzeitung.ch
 ens.nzz.ch
 ens.tagblatt.ch
-ensbiz.com
 enscg.com
 ensel.com.ar
 enshide.com
@@ -63005,6 +63003,7 @@ img.pddpic.com
 img.pddpic.com.sched.pddlego-dk.tdnsv5.com
 img.php.cn
 img.prohardver.hu
+img.promoddl.com
 img.qianwee.com
 img.qoo-static.com
 img.revcontent.com

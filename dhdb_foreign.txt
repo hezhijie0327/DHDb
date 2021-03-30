@@ -1735,6 +1735,7 @@
 28.slyip.net
 2804.ca227.com
 280589.com
+2805f.com
 2805u.com
 280xs.com
 281155l.com
@@ -4889,7 +4890,6 @@ a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
 a02342.harwichandmanningtreestandard.co.uk
 a02342.heraldscotland.com
-a02342.northwichguardian.co.uk
 a02342.penarthtimes.co.uk
 a02342.redhillandreigatelife.co.uk
 a02342.richmondandtwickenhamtimes.co.uk
@@ -9427,6 +9427,7 @@ api.flygame.io
 api.fosshub.com
 api.freewebfonts.org
 api.gameofwhales.com
+api.geetest.com
 api.gimbal.com
 api.github.com
 api.grumft.com
@@ -32047,7 +32048,6 @@ hga994.com
 hgamecn.com
 hgamedb.com
 hgc.fat.flnet.org
-hggt.com
 hgjt.net
 hgmhu.com
 hgob.org

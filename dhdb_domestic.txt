@@ -6502,7 +6502,6 @@ ad12345.com
 ad2.sina.com.cn
 ad2.yangjinyou.com
 ad3.sina.com.cn
-ad321.cc
 ad4.sina.com.cn
 ad518.com
 ad7.com
@@ -7299,6 +7298,7 @@ aituwo.com
 aityp.com
 aiurl.com
 aiuxdesign.com
+aiuxian.com
 aiuxstudio.com
 aivcd.cc
 aiviy.com

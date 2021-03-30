@@ -612,7 +612,6 @@
 0577home.net
 0577hr.com
 0577job.com
-0577qiche.com
 0577renliu.net.cn
 0578rencai.com
 0579dm.com
@@ -12072,6 +12071,7 @@ ad.ir.ru
 ad.itweb.co.za
 ad.jacotei.com.br
 ad.jamba.net
+ad.jamster.ca
 ad.jamster.co.uk
 ad.jamster.com
 ad.jetsoftware.com
@@ -12118,6 +12118,7 @@ ad.mangareader.net
 ad.masteranime.es
 ad.mastermedia.ru
 ad.mediabong.com
+ad.mediastorm.hu
 ad.mesomorphosis.com
 ad.mgd.de
 ad.mi.com
@@ -17453,6 +17454,7 @@ api-mayi.django.t.taobao.com
 api-mcp.adsp.xunlei.com
 api-pan.xunlei.com
 api-panov2.720yun.com
+api-pricetag.dmall.com
 api-priconne-redive.cygames.jp
 api-push.meizu.com
 api-sc.wtzw.com
@@ -50963,7 +50965,6 @@ fysns.com
 fyt222.com
 fyt30.com
 fyt365.bet
-fyt365.com
 fyt365.vip
 fyt38.com
 fyt60.com
@@ -57103,6 +57104,7 @@ healthorg.xyz
 healthpartners.com
 healthpayerintelligence.com
 healthproduct.xyz
+healthr.com
 healthreach.hk
 healthsection.xyz
 healthstories.xyz
@@ -61114,7 +61116,6 @@ i-sn3p-cor002.api.p001.1drv.com
 i-snz04p-cor001.api.p001.1drv.com
 i-sux.com
 i-trip.com.ar
-i-uya.com
 i-xinnuo.com
 i-xoron.com
 i-yulan.com
@@ -76160,7 +76161,6 @@ ly200-cdn.com
 ly200.com
 ly39zx.com
 ly522.com
-ly6080.com
 lyancafe.com
 lyancoffee.com
 lyangchuanbo.com

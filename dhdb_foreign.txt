@@ -31571,6 +31571,7 @@ hasilalamindo.com
 haskell.org
 haskellstack.org
 haskovo.net
+hasndq.com
 haswel.com
 hat358.com
 hatarako.net
@@ -37106,6 +37107,7 @@ jp-axia.m0mentum.net
 jp.hao123.com
 jp.net
 jp.pandora.tv
+jp.pool.ntp.org
 jp.rti.org.tw
 jpaifusen.com
 jpay.hk
@@ -37128,7 +37130,6 @@ jpnsp.com
 jpopforum.net
 jpost.com
 jppol.dk
-jppolid-track.trackprod.integration.jppol.dk
 jpqp888.com
 jprs.jp
 jpzyfx.com
@@ -40978,7 +40979,6 @@ m.cdfzcz.com
 m.cdntlz.cn
 m.cdxtny.cn
 m.ceyiuy.com
-m.cjjcby.cn
 m.ckaim.com
 m.clxxkz.com.cn
 m.coenr.com

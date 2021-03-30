@@ -1026,6 +1026,7 @@
 1.courier-sandbox-push-apple.com.akadns.net
 1.feeddsp.cn
 1.feihua.com
+1.feihua.net.cn
 1.gravatar.com
 1.guyaheng.com
 1.hao123.com
@@ -15251,7 +15252,6 @@ aizhigu.com.cn
 aizhigu.tv
 aizhizu.com
 aizhuizhui.com
-aiziti.net
 aizuna.com
 aizuopin.com
 ajax.aspnetcdn.com
@@ -16410,6 +16410,7 @@ analytics-udg.netdna-ssl.com
 analytics-union.xunlei.com
 analytics.163.com
 analytics.247sports.com
+analytics.30m.com
 analytics.74.ru
 analytics.95516.com
 analytics.95516.com.wscdns.com

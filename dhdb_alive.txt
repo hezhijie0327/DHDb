@@ -1307,7 +1307,6 @@
 108101.xyz
 108105.xyz
 108198.com
-10852a.com
 10865.com
 1086662.p23.tc.cdntip.com
 108cun.com
@@ -10905,7 +10904,6 @@ a02342.burnhamandhighbridgeweeklynews.co.uk
 a02342.dailyecho.co.uk
 a02342.darlingtonandstocktontimes.co.uk
 a02342.dudleynews.co.uk
-a02342.eveshamjournal.co.uk
 a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
 a02342.heraldscotland.com
@@ -44712,6 +44710,7 @@ ekaoyan.com
 ekaoyan365.com
 ekclubinternational.com
 ekexiu.com
+ekgmca.gipfel.ru
 ekh3.way-to-win.com
 ekhindi.com
 eki-net.com
@@ -53531,7 +53530,6 @@ golang.so
 golang123.com
 golangapi.com
 golangcaff.com
-golanger.com
 golangfoundation.org
 golangtc.com
 golangweb.com

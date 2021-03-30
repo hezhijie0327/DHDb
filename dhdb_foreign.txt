@@ -504,7 +504,6 @@
 1048.com
 10480000.com
 1049.com
-104sihu.com
 105129.com
 105mr.com
 106.com
@@ -12707,7 +12706,6 @@ bfsh.hk
 bfu999.com
 bfu999.net
 bfvip88.com
-bg0.market.xiaomi.com
 bg1235.com
 bg1238.com
 bg1239.com
@@ -16468,6 +16466,7 @@ cdn.infisecure.com
 cdn.innity.net
 cdn.jotfor.ms
 cdn.jquery-uim.download
+cdn.jsdelivr.net
 cdn.kdkw.jp
 cdn.kik.com
 cdn.kingstone.com.tw
@@ -16686,7 +16685,6 @@ cds484.lcy.llnw.net
 cds489.lcy.llnw.net
 cds493.lcy.llnw.net
 cds494.lcy.llnw.net
-cds54.ory.llnw.net
 cds812.lon.llnw.net
 cds818.lon.llnw.net
 cds832.lon.llnw.net
@@ -21773,7 +21771,6 @@ dev-nano.com
 dev-tacticalma.actonservice.com
 dev-theguardian.com
 dev.adforum.com
-dev.coinlab.biz
 dev.cryptobara.com
 dev.imp.nextmedia.com
 dev.nimiq-network.com

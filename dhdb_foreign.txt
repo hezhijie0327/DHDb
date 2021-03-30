@@ -2,6 +2,7 @@
 0-gold.net
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -10997,6 +10998,7 @@ axure.org
 axure.us
 axureformac.com
 axxiaoshuo.com
+aya1.xyz
 aydinergil.com
 aydtkb.pikabu.ru
 ayemsa.com.mx
@@ -21060,7 +21062,6 @@ daododo.com
 daodu14.jigsy.com
 daoen888.com
 daohang88.com
-daohangtx.com
 daolan.net
 daomengren.com
 daomuxiaoshuo.com
@@ -23576,7 +23577,6 @@ dw-eu.com.com
 dw-world.com
 dw-world.de
 dw.cbsimg.net
-dw.cnet.com
 dw.com
 dw.de
 dw178.com
@@ -39823,6 +39823,7 @@ linuxtoy.org
 linuxyunwei.com
 linwan.net
 linxingyang.net
+linyimama.com
 linyingfans.com
 lionmail.columbia.edu
 lionsdesneigesmontblanc.over-blog.com

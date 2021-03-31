@@ -9377,7 +9377,6 @@
 8964.xyz
 896691.com
 8969.org
-8977.com
 8977222.vip
 8977444.app
 8977567.com
@@ -29318,6 +29317,7 @@ cdn2.jianshu.io
 cdn2.moji002.com
 cdn20.info
 cdn3.apple-mapkit.com
+cdn3.lacoquepersonnalisee.fr
 cdn3.mancdn88.com
 cdn4.apple-mapkit.com
 cdn4.mxpnl.com
@@ -39919,6 +39919,7 @@ diabloimmortal.com
 diaconadovalpo.cl
 diag-vd.gridsumdissector.com
 diag-wd.gridsumdissector.com
+diagnose.igstatic.com
 diagnosis.ad.xiaomi.com
 diagnostic.opendns.com
 diahosting.co
@@ -47001,6 +47002,7 @@ ext.week.news
 ext2fsd.com
 extend.tv
 extendedstayhotels.com
+extensions-loader.azurewebsites.net
 external-30160.picsz.qpic.cn
 external-promo-metrics.yandex.net
 external.simpleanalytics.com
@@ -80568,7 +80570,6 @@ metrics.ionos.co.uk
 metrics.ionos.com
 metrics.ionos.de
 metrics.ionos.es
-metrics.ionos.fr
 metrics.ionos.it
 metrics.ionos.mx
 metrics.ireport.com

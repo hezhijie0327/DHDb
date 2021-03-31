@@ -12019,6 +12019,7 @@ ad.dedecms.com
 ad.dev.360.cn
 ad.deviantart.com
 ad.digitallook.com
+ad.digitimes.com.tw
 ad.dl.dewezet.de
 ad.doganburda.com
 ad.domainfactory.de
@@ -24384,6 +24385,7 @@ blixem.nl
 blizzak-juken.jp
 blizzard.cn
 blizzard.com
+blizzard.nefficient.co.kr
 blizzardcn.com
 blizzardgearstore.com
 blizzcon-a.akamaihd.net
@@ -30759,7 +30761,6 @@ china-mmm.net
 china-mmm.sa.com
 china-moutai.com
 china-nengyuan.com
-china-netwave.com
 china-nlp.com
 china-nysw.com
 china-obgyn.net
@@ -50855,7 +50856,6 @@ fsjiaju.com
 fsjoy.com
 fskmp.com
 fsky.pro
-fsldwy.com
 fslgz.com
 fsllq.com
 fslsg.com
@@ -80405,6 +80405,7 @@ metrics.barclaycardus.com
 metrics.barclays.co.uk
 metrics.base.be
 metrics.be.carrefour.eu
+metrics.beachbody.com
 metrics.beatsbydre.com
 metrics.bestrecipes.com.au
 metrics.bet.com
@@ -82590,6 +82591,7 @@ mobileadsserver.com
 mobileadtrading.com
 mobileanalytics.us-east-1.amazonaws.com
 mobileanjian.com
+mobileapp.apple.com
 mobileappcommunicator.auth.microsoft.com
 mobilebet.com
 mobilebone.org
@@ -95746,6 +95748,7 @@ qaz3.wethenew.com
 qb-v6.sparta.mig.tencent-cloud.net
 qb5.tw
 qb5200.co
+qb5200.tw
 qb5x4edlyistb6qd2xzmaoe97c1s2aoo.yundunwaf5.com
 qb86.cc
 qbaby.tv

@@ -679,6 +679,7 @@
 1000phone.net
 1000plan.org
 1000thinktank.com
+1000tm.net
 1000tuan.com
 1000uc.com
 1000xuexi.com
@@ -12200,7 +12201,6 @@ cb.alibabausercontent.com.w.alikunlun.com
 cb.alimama.cn
 cb.baidu.com
 cb.e.shifen.com
-cb.ksmobile.com
 cb.lomark.cn
 cbaqp.com
 cbca.net
@@ -32780,6 +32780,7 @@ kk.com
 kk30.com
 kk3g.net
 kk50.com
+kk520.com
 kkapp.com
 kkcache.com
 kkcapture.com

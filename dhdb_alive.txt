@@ -4498,7 +4498,6 @@
 35pan.com
 35q.com
 35rc.com
-35tyc.com
 35vvv.com
 35zw.com
 35zww.com
@@ -17506,6 +17505,7 @@ aod-image-material.cdn.bcebos.com
 aod-image-material.cdn.bcebos.com.a.bdydns.com
 aod-image.baidu.com
 aod-image.baidu.com.a.bdydns.com
+aod-wushuang-video.cdn.bcebos.com
 aod.cos.tx.xmcdn.com
 aod.itunes.apple.com
 aod.itunes.g.aaplimg.com
@@ -17738,7 +17738,6 @@ api-mayi.django.t.taobao.com
 api-mcp.adsp.xunlei.com
 api-pan.xunlei.com
 api-panov2.720yun.com
-api-pricetag.dmall.com
 api-priconne-redive.cygames.jp
 api-push.meizu.com
 api-sc.wtzw.com
@@ -52259,6 +52258,7 @@ fxdm.net
 fxdp.com
 fxempire.com
 fxeye.com
+fxfvttu.cn
 fxian.org
 fxiaoke.com
 fxingw.com
@@ -53798,7 +53798,6 @@ get.rubyroyal.com
 get.s-onetag.com
 get.sage.com
 get.slotocash.com
-get.sogou.com
 get.tfiph.com
 get.thefile.me
 get.thisisvegas.com
@@ -58577,7 +58576,6 @@ hds111.com
 hdsb.edsby.com
 hdsbyby.com
 hdscg.com
-hdschw.cn
 hdsdyyy.com
 hdsky.me
 hdsky.net
@@ -73714,7 +73712,6 @@ kx43.com
 kx516.com
 kx7p.com
 kx9h.com
-kxapp.com
 kxauzv.mrdoors.ru
 kxbld.com
 kxbox.com

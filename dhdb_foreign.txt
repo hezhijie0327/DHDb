@@ -292,6 +292,7 @@
 06afcp.com
 06dns.com
 070210.com
+0707cdn.com
 0710522.com
 0713hb.com
 0714news.com
@@ -4887,7 +4888,6 @@ a.slack-edge.com
 a.slsbc.cn
 a.soraredata.com
 a.steigenberger.com
-a.stka8.com
 a.streamoupload.com
 a.telus.com
 a.testerns.emailvision.net.daraz.com
@@ -22023,7 +22023,6 @@ dct.mango-office.ru
 dctbeatsbydre.com
 dcwg.org
 dd-cdn.origin-apple.com.akadns.net
-dd-kan.com
 dd.70yst.com
 dd.lendup.com
 dd.nytimes.com
@@ -34813,7 +34812,6 @@ hysou.com
 hyssp.haiyunx.com
 hystq.com
 hyt368.com
-hytd.com
 hytdsm.com
 hyundaiusa.com
 hyuuhit.com

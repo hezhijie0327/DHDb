@@ -954,6 +954,7 @@
 123.com
 123.sogou.com
 123.sogoucdn.com
+12301china.com
 12306.cn
 12306.com
 12306bypass.com
@@ -10765,7 +10766,6 @@ bjkqj.com
 bjkrtwl.com
 bjl11.com
 bjl2011.com
-bjl2022.com
 bjl2044.com
 bjl4777.com
 bjl4999.com
@@ -14938,6 +14938,7 @@ cn.made-in-china.com
 cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.pandora.net
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -31941,7 +31942,6 @@ jupiter.sys.miui.com
 jupup.com
 juqi.com
 juqingjuqing.com
-juren.com
 jurenqi.com
 jurongfangchan.com
 jurongrencai.com
@@ -38711,6 +38711,7 @@ naturali.io
 nature-museum.net
 natywish.com
 nauac.com
+nav.cn.ronghub.com
 navchina.com
 navigis.uc.cn
 navimentum.com

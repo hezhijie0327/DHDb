@@ -1789,6 +1789,7 @@
 12ym.com
 12zw.com
 13-courier.push.apple.com
+13-courier2.push.apple.com
 13.courier-push-apple.com.akadns.net
 1300kai.com
 130158.com
@@ -11852,7 +11853,6 @@ acookie.alimama.com
 acookie.linezing.com
 acoolread.com
 acotedemoi.com
-acount.alley.ws
 acpc.cat
 acpf-cn.org
 acpica.com
@@ -20133,7 +20133,6 @@ autozone.com
 autozonemecanicos.com
 autozonepro.com
 autumn-waterfall-c3b1.apkipa.workers.dev
-auvps.com
 auwdff.dyfashion.ro
 auwfjo.danetti.com
 auwinner.com
@@ -26258,7 +26257,6 @@ breakyizhan.com
 brealtime.com
 bred4tula.com
 bredg.com
-breeze.olclient.baofeng.com
 breezip.com
 bref.sh
 breitbart.com
@@ -41429,6 +41427,7 @@ djcc.com
 djcp099.com
 djdkk.com
 djduoduo.com
+djec.net
 djfsm.com
 djhgyy.com
 djhuying.com
@@ -81466,6 +81465,7 @@ meendo.com
 meet.new
 meet.westuc.com
 meet99.com
+meetav.com
 meetcelebs.com
 meetfasttrack.com
 meetfave.com
@@ -83430,6 +83430,7 @@ mini.at
 mini.be
 mini.bg
 mini.by
+mini.ca
 mini.cc
 mini.ch
 mini.cl

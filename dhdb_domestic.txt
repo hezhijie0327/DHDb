@@ -8184,6 +8184,7 @@ api.bd-gl.com
 api.bigfun.cn
 api.bilibili.com
 api.biligame.com
+api.browser.miui.com
 api.bs.zui.com
 api.btstu.cn
 api.bz
@@ -9046,7 +9047,6 @@ aux.soperson.com
 auxgroup.com
 auyou.com
 av-ic.com
-av.com
 av.huijiwiki.com
 av010.com
 av1.xdrig.com
@@ -9928,7 +9928,6 @@ bd2.flfgw.cn
 bd2.idgdmg.com.cn
 bd2.idgdmgroup.com.cn
 bd2.jobui.com
-bd2.nipic.com
 bd2.pipaw.com
 bd2.zuimeitianqi.com
 bd275.com
@@ -10263,7 +10262,6 @@ betway556.com
 betway801.com
 betway88help.com
 beva.com
-bewww.net
 beyebe.com
 beyondbit.com
 beyondcomparepro.com
@@ -17385,6 +17383,7 @@ dbytwl.com
 dbzgia.com
 dbzyz.com
 dc-cn.com
+dc.chillyroom.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
 dc.meitustat.com
@@ -26310,6 +26309,7 @@ hnjshzy.com
 hnkljnxh.com
 hnks.com
 hnksln.com
+hnlat.com
 hnlbdl.com
 hnleisu.com
 hnliangku.com
@@ -38742,6 +38742,7 @@ nbhky.com
 nbimer.com
 nbjlw.com
 nbjnw.com
+nbjzjn.com
 nbkc-rp.com
 nbmai.com
 nbmedicalsystem.com

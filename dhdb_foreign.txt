@@ -2,7 +2,6 @@
 0-gold.net
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -2574,7 +2573,6 @@
 4399-xyx.com
 43999yx.com
 43c55.com
-43yl.com
 43zhubao.com
 44-courier.push.apple.com
 44.courier-push-apple.com.akadns.net
@@ -20178,6 +20176,7 @@ convio.net
 conviva.com
 convrgencegame.com
 convsgmp.taboola.com
+conwos.com
 conyak.com
 coobay.com
 coocox.org
@@ -27468,7 +27467,6 @@ exotravel.com
 exovametech.dk
 exovoid.ch
 exp.glispa.com
-expai.com
 expat-blog.biz
 expatshield.com
 expaus.in
@@ -37151,6 +37149,7 @@ init-p01md-lb.push-apple.com.akadns.net
 init-p01md.apple.com
 init-p01st-lb.push-apple.com.akadns.net
 init-p01st.push.apple.com
+init-s01st-lb.push-apple.com.akadns.net
 init-s01st.push.apple.com
 init.ess.apple.com
 init.gc.apple.com
@@ -39595,6 +39594,7 @@ jsc66.com
 jscdn.appier.net
 jscdn.yieldbird.com
 jscdndel.com
+jscqt.com
 jsdaodu.over-blog.com
 jsdaodu16.jigsy.com
 jsdd15.jigsy.com
@@ -45643,7 +45643,6 @@ meika360.com
 meike-shoes.com
 meike15.com
 meilleurtaux.com
-meimeio.com
 meimi.cc
 mein-jahnreisen.de
 meine-familie-und-ich.de

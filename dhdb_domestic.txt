@@ -8463,6 +8463,7 @@ app-g.39.net
 app-measurement.com
 app-monitor.ele.me
 app-router.com
+app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -9142,7 +9143,6 @@ awtmt.com
 awuming.com
 ax-log.duizhuang.com
 ax.120ask.com
-ax.ggfeng.com
 ax.ifeng.com
 ax2nc4.ren
 axatp.com
@@ -25175,6 +25175,7 @@ hapiweb.com
 hapjs.org
 happigo.com
 happycamp.cc
+happychang.net
 happycodeboy.com
 happyelements.com
 happyev.com
@@ -36308,6 +36309,7 @@ manongs.com
 manongzj.com
 manpianyi.com
 manshen.net
+mansuno.com
 mantutu.com
 manwuxian123.com
 many88.com

@@ -606,7 +606,6 @@
 114cb.com
 114dg.com
 114dhc.com
-114pifaa.com
 114sf.com
 114ss.tk
 114tjsc.com
@@ -1373,6 +1372,7 @@
 2-ps.googleusercontent.com
 2-vpn1.com
 2.4.je
+2.android.pool.ntp.org
 2.asia.pool.ntp.org
 2.biqle.ru
 2.centos.pool.ntp.org
@@ -3237,7 +3237,6 @@
 56che.com
 56cun04.jigsy.com
 56de.com
-56md.com
 56pan.com
 56php.com
 56shuba.cc
@@ -24084,6 +24083,7 @@ doki8.com
 dokidokibangkok.com
 dokusho-ojikan.jp
 dokzl8xhmt1x7.cloudfront.net
+dolboebishekonchennoenahui.xyz
 dolc.de
 dolce-gusto.fr
 dolcn.com

@@ -720,6 +720,7 @@
 0731jiaju.com
 0731job.com
 0731pgy.com
+0731rj.com
 0731tg.com
 0731wan.com
 0731zcgs.com
@@ -7158,7 +7159,6 @@
 571400.net
 571b8d24.fyeds2.com
 571free.com
-571seo.com
 571xz.com
 5721.net
 5734a40f2d.vws.vegacdn.vn
@@ -14304,7 +14304,6 @@ adsfile.bssdlbig.kugou.com
 adsfile.qq.com
 adsfs-sdkconfig.heytapimage.com
 adsfs.oppomobile.com
-adsgo.nhipcaudautu.vn
 adsh.m.taobao.com
 adsh.wagbridge.taobao.alimama.com.gds.alibabadns.com
 adshare.toutiao.com
@@ -15549,7 +15548,6 @@ aisk.me
 aisky.cc
 aiskycn.com
 aisojie.com
-aisouk.cn
 aispeech.com
 aispreadtech.com
 aiss.anws.gov.tw
@@ -29943,6 +29941,7 @@ cdn.optaim.com
 cdn.optmd.com
 cdn.paddle.com
 cdn.pindayun.com
+cdn.pljs.ru
 cdn.pocoiq.cn
 cdn.polyfill.io
 cdn.popcash.net
@@ -34748,6 +34747,7 @@ cnxk.com
 cnxklm.com
 cnxnmy.com
 cnxuntu.com
+cny.yoyo.org
 cnyanglao.com
 cnyes.com
 cnygf.net
@@ -53991,6 +53991,7 @@ geneanet.org
 genekong.com
 genelinkout.com
 generac.com
+generali.de
 generated.photos
 genesis.1337x.org
 genesis.es

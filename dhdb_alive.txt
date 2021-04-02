@@ -14239,6 +14239,7 @@ adserver.pressboard.ca
 adserver.proteinos.com
 adserver.radio-canada.ca
 adserver.rhombusads.com
+adserver.sanomawsoy.fi
 adserver.sciflicks.com
 adserver.shadow.snapads.com
 adserver.sharewareonline.com
@@ -17193,7 +17194,6 @@ analyticsengine.s3.amazonaws.com
 analyticskey.com
 analyticsnew.overwolf.com
 analyticsreporting.googleapis.com
-analyticsssl.forcepoint.com
 analytictech.com
 analyze.full-marke.com
 analyzer.fc2.com
@@ -27235,6 +27235,7 @@ buxia.net
 buxiugangban.net
 buy-adipex.hut1.ru
 buy-cheap-phentermine.blogspot.com
+buy-cialis-online.iscool.nl
 buy-cialis.splinder.com
 buy-fioricet.hut1.ru
 buy-hk.org
@@ -51671,7 +51672,6 @@ free.sinaimg.cn
 free.sinaimg.cn.w.kunlunea.com
 free.thesocialsexnetwork.com
 free.videodownloadconverter.com
-free1.mchost.cc
 free1210.com
 free18.net
 free789.com
@@ -57146,6 +57146,7 @@ gxaj.com
 gxajk.com
 gxar.com
 gxb.io
+gxb.mmstat.com
 gxb2b.net
 gxbaidutg.com
 gxbf.net
@@ -76643,6 +76644,7 @@ linyezhandidi.com
 linyi.com
 linyi.net
 linyilongyuan.com
+linyimama.com
 linyingfans.com
 linyiren.com
 linzhuotech.com
@@ -95135,7 +95137,6 @@ pingback.giphy.com
 pingback.issuu.com
 pingback.sogou.com
 pingcap.com
-pingcegu.com
 pingcoo.com
 pingdom.net
 pinger.com

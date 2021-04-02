@@ -1374,6 +1374,7 @@
 2-ps.googleusercontent.com
 2-vpn1.com
 2.4.je
+2.asia.pool.ntp.org
 2.biqle.ru
 2.centos.pool.ntp.org
 2.cr.rs
@@ -3945,7 +3946,6 @@
 77kpp.com
 77maa.com
 77manhua.net
-77mh.com
 77nt.com
 77ppc.com
 77ptk.com
@@ -20629,6 +20629,7 @@ cpro.xixiliya.cn
 cpsenergy.com
 cpstatic.ch
 cpt.itv.com
+cptae.com
 cpu.samsungelectronics.com
 cpubbs.com
 cpx.golem.de
@@ -26738,7 +26739,6 @@ environment.google
 envisionfinancial.ca
 envitreat.net
 envivas.de
-enw.nwpuis.top
 enwailian.com
 enwp.org
 enyayinxiang.com
@@ -35884,7 +35884,6 @@ ibuspan.com
 ibvpn.com
 ibxlink.com
 ic.ac.uk
-ic.aliyuni.xyz
 ic.slyip.net
 ic.tynt.com
 ic3.events.data.microsoft.com
@@ -42347,7 +42346,6 @@ linuxyunwei.com
 linwan.net
 linweiyuan.com
 linxingyang.net
-linyimama.com
 linyingfans.com
 lionmail.columbia.edu
 lionsdesneigesmontblanc.over-blog.com

@@ -14953,6 +14953,7 @@ cn.made-in-china.com
 cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.pandora.net
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc

@@ -2127,6 +2127,7 @@
 29og5p1.cachenode.cn
 29xf.com
 29yx.com
+2a.com.cn
 2a.zol-img.com.cn
 2a4tesaprxapfknwp13h9cuinpsqmzbl.alicloudwaf.com
 2abc8.com
@@ -15059,6 +15060,7 @@ cncnbd.com
 cncncloud.com
 cncncn.com
 cncnet.net
+cncnz.net
 cncoc.tc.qq.com
 cncoc.tcdn.qq.com
 cncoders.net
@@ -26787,6 +26789,7 @@ hswkzy.com
 hswnjz.com
 hsxxad.com
 hsybyh.com
+hsyjs.com
 hsysupply.com
 hsyuntai.com
 hszhizhen.net
@@ -38640,7 +38643,6 @@ na610-na620.acs.m.taobao.com.gds.alibabadns.com
 na62.wagbridge.gaode.com.gds.alibabadns.com
 naadou.com
 nadianshi.com
-nads.wuaiso.com
 nadvideo.baidu.com
 nadvideo2.baidu.com
 naew.org

@@ -27727,6 +27727,7 @@ c.ad6media.fr
 c.adbxb.cn
 c.admaster.com.cn
 c.admob.com
+c.adroll.com
 c.adsco.re
 c.adx.2345.com
 c.agrant.cn
@@ -30273,6 +30274,7 @@ cdzixun.net
 cdzmn.com
 cdzspcls.com
 cdzszp.com
+cdzvan.com
 ce.cn
 ce.lijit.com
 ce.sm688801.com
@@ -40552,6 +40554,7 @@ device.auth.xboxlive.com
 devil-torrents.pl
 deviloid.net
 devilsfilm.com
+devimages-cdn.apple.com
 devio.org
 devio.us
 devisprox-media.s3-website-eu-west-1.amazonaws.com
@@ -45788,6 +45791,7 @@ eecnt.com
 eecourse.com
 eecso.com
 eed.ntjrh.com
+eeduol.com
 eee-eee.com
 eee114.com
 eee36.net
@@ -57941,6 +57945,7 @@ hamidabdollahi.ir
 hampoo.net
 hamropatro.com
 han-cang.com
+han-duty.com
 han66.com
 hanamichi.wiki
 hanbaiji.com
@@ -85120,6 +85125,7 @@ momoyoyo.com
 momozha.top
 momyninicenter.ir
 momzs.com
+mon-deu-1.inf.nimiq.network
 mon-deu-2.inf.nimiq.network
 mon-deu-3.inf.nimiq.network
 mon-fra-1.inf.nimiq.network
@@ -85652,6 +85658,7 @@ mp3quack.live
 mp3quran.net
 mp3searched.com
 mp3searchy.com
+mp3truck.net
 mp3truck.org
 mp3vizor.com
 mp4.res.hunantv.com
@@ -87087,7 +87094,6 @@ myzebravip.com
 myzhidao.com
 myzhongjin.com
 myznh.com
-myzte.com
 mz-oneacg.com
 mz-web.de
 mz5k.vip

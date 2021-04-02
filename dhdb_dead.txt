@@ -1274,7 +1274,6 @@
 57fx.com
 57gif.com
 57piao.com
-57wo.com
 58.xgo.com.cn
 580168.com
 580ban.com
@@ -2590,6 +2589,7 @@ adl999.com
 adlog.cbsi.com
 adlog.molitv.cn
 adlpo.com
+adm.265g.com
 adm.72zx.com
 adm.86wan.com
 adm.baidu.cn
@@ -2642,7 +2642,6 @@ adpon.jp
 adpost.org
 adpro.cn
 adrdir.qq.com
-adrenascer.com
 adresult-sp.jp
 adroute.focas.jp
 ads-api.videojj.com
@@ -19400,6 +19399,7 @@ servedby.openxmarket.jp
 servedby.yell.com
 server-hold.com
 server.adeasy.ru
+server.adless.io
 server.jsecoin.com
 server.roolim.ru
 server1.adpolestar.net
@@ -20671,7 +20671,6 @@ taojiji.com
 taojinyi.com
 taoketuitui.com
 taolun.info
-taomeisi.com
 taoquanquan.com
 taosay.net
 taosem.com

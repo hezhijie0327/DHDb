@@ -35,7 +35,6 @@
 001lv.com
 001pp.com
 001tech.com
-001town.com
 001union.com
 001www.com
 002.0x1f4b0.com
@@ -9630,6 +9629,7 @@
 8miu.net
 8muses.com
 8n1.org
+8n6n.com
 8nc8shot.txxx.com
 8news.com.tw
 8njy.com
@@ -20120,7 +20120,6 @@ auctionhelper.com
 auctions.yahoo.co.jp
 auctionwatch.com
 auctiva.com
-audev.zeit.de
 audi.com
 audiate.me
 audible.com

@@ -14503,7 +14503,6 @@ adv.pilseta24.lv
 adv.s8bbs.com
 adv.sec.intl.miui.com
 adv.sec.miui.com
-adv.shangdu.com
 adv.strategy.it
 adv.thuvienphapluat.vn
 adv.virgilio.it
@@ -37305,7 +37304,6 @@ ct.needlive.com
 ct.niu.xunlei.com
 ct.org.tw
 ct.thegear-box.com
-ct.verticalhealth.net
 ct10000.com
 ct108.com
 ct5288.com
@@ -41916,7 +41914,6 @@ dlgarenanow-a.akamaihd.net
 dlgcpvc.com
 dlgwbn.com
 dlgzxh.com
-dlhexie.com
 dlhjsv.tdum.alibaba.com
 dlid.synology.com
 dlidli.wang
@@ -44770,6 +44767,7 @@ ea.greenweez.com
 ea.habitat.de
 ea.habitat.fr
 ea.histoiredor.com
+ea.hofmann.es
 ea.hofmann.pt
 ea.homair.com
 ea.igraal.com
@@ -93944,7 +93942,6 @@ pcij.org
 pcitc.com
 pcitem.jd.hk
 pcitem.jd.hk.gslb.qianxun.com
-pclic.com
 pclick.europe.yahoo.com
 pclick.internal.yahoo.com
 pclick.yahoo.com

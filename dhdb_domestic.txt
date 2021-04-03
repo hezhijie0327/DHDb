@@ -611,7 +611,6 @@
 1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -10240,6 +10239,7 @@ bestfangchan.com
 bestfuturevip.com
 besticity.com
 bestjimmy.com
+bestmephoto.com
 bestopview.com
 bestpeng.com
 bestpush.pconline.com.cn
@@ -40747,6 +40747,7 @@ p9.pstatp.com
 p9.toutiaoimg.com
 p91sfbfpqa0wd2.mwcname.com
 p98.pstatp.com
+p98ytk.cn
 pa.ugdtimg.com
 pa18.com
 pa1pa.com

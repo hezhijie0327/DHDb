@@ -2906,7 +2906,6 @@
 1drj.com
 1drv.com
 1drv.ms
-1drv.ws
 1dufish.com
 1duhy.com
 1dumb.com
@@ -11110,6 +11109,7 @@ a02342.dailyecho.co.uk
 a02342.darlingtonandstocktontimes.co.uk
 a02342.dudleynews.co.uk
 a02342.eveshamjournal.co.uk
+a02342.gazette-news.co.uk
 a02342.glasgowtimes.co.uk
 a02342.greenocktelegraph.co.uk
 a02342.heraldscotland.com
@@ -42841,7 +42841,6 @@ doupobook.com
 doupocangqiong1.com
 douqi.com
 doutian.me
-doutugou.net
 doutukeji.com
 doutushe.com
 douwanweb.com
@@ -43943,6 +43942,7 @@ dutory.com
 dutype.com
 duu8lzqdm8tsz.cloudfront.net
 duuchin.com
+duunion.com
 duwenfei.com
 duwenxue.com
 duwenz.com
@@ -90543,6 +90543,7 @@ oclearningteam.com
 oclkj.com
 oclp.hk
 ocm.de
+ocom.pl
 ocone.loan
 ocooca.com
 ocp.fsc.org

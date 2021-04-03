@@ -14343,6 +14343,7 @@ adson.awempire.com
 adsp.ciner.com.tr
 adsp.haberturk.com
 adsp.xunlei.com
+adspace.zaman.com.tr
 adspaces.ero-advertising.com
 adsrv.deviantart.com
 adsrv.iol.co.za
@@ -16924,6 +16925,7 @@ analytics.developer.riotgames.com
 analytics.diamondstarfinancial.com.vn
 analytics.disneyinternational.com
 analytics.dns-shop.ru
+analytics.dnsfilter.com
 analytics.dpd.com
 analytics.dugun.com
 analytics.dvidshub.net
@@ -92136,6 +92138,7 @@ oscdn.apple.com
 oscdn.origin-apple.com.akadns.net
 oschina.com
 oschina.io
+oschina.net
 oscimg.oschina.net
 osd-onead.cdn.hinet.net
 osd.oxygem.it

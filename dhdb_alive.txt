@@ -27918,7 +27918,6 @@ c.x.oanda.com
 c.xadingli.cn
 c.xbjcgs.cn
 c.xiaobaipan.com
-c.xjhjtz.cn
 c.xjsytoy.com
 c.y.qq.com
 c.yanyanbiji.com
@@ -35133,6 +35132,7 @@ collect.meilleurtaux.com
 collect.ovp.vn
 collect.ptengine.cn
 collect.rewardstyle.com
+collect.serious.li
 collect.state.centrum24.pl
 collect.tealiumiq.com
 collect.tianya.cn
@@ -40536,6 +40536,7 @@ developer.open-api-auth.xunlei.com
 developer.vive.com
 developers.box.net
 developers.cloudflare.com
+developers.facebook.com
 developershed.com
 developersnetwork.com
 developingperspective.com
@@ -41345,7 +41346,6 @@ dingxin99.com
 dingxinhui.com
 dingxuewen.com
 dingyantec.com
-dingyiba.com
 dingyue.ws.126.net
 dingyueads.com
 dingyunad.com
@@ -57773,6 +57773,7 @@ haidaozhu.com
 haidii.com
 haidilao.com
 haidilao.us
+haidimao.com
 haiduomi.cc
 haier.com
 haier.hk
@@ -82053,7 +82054,6 @@ meiguanjia.net
 meiguiwxw.com
 meiguixs.com
 meiguo-qianzheng.com
-meiguofeier.com
 meiguozhuji.com
 meigushe.com
 meih5.com
@@ -84619,6 +84619,7 @@ mmkao.net
 mmkkgg.com
 mmkkiivv.com
 mmloo.com
+mmm-office.com
 mmm.io
 mmm.theweek.co.uk
 mmm26.net
@@ -86395,7 +86396,6 @@ mx1.freemail.ne.jp
 mx1.outingtravel.com
 mx123.us
 mx175.com
-mx2636.com
 mx3g.com
 mx981.com
 mxapparc.com

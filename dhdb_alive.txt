@@ -14128,6 +14128,7 @@ adserver-espnet.sportszone.net
 adserver-us.adtech.advertising.com
 adserver.71i.de
 adserver.a24.com.tr
+adserver.abv.bg
 adserver.ad4link.com
 adserver.adtech.de
 adserver.adtech.fr
@@ -31217,7 +31218,6 @@ chengrengaokaobaoming.com
 chengshidingxiang.com
 chengshiluntan.com
 chengshiw.com
-chengshizg.com
 chengshu.com
 chengsmart.com
 chengtour.com
@@ -31463,7 +31463,6 @@ china-entercom.com
 china-enterprise.com
 china-epa.com
 china-erzhong.com
-china-esi.com
 china-experts.com
 china-facebook.com
 china-files.com
@@ -83551,6 +83550,7 @@ migudy.com
 miguelsuarez.cl
 migufun.com
 miguvideo.com
+miguyu.com
 mihayo.com
 mihayou.com
 mihk.tv

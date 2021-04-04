@@ -2372,6 +2372,7 @@ activity.frequency.com
 activity.hdslb.comm
 actupremium.com
 acxiomapac.com
+ad-beacon-v01.uliza.jp
 ad-cache.dopool.com
 ad-channel.woyeahgo.tk
 ad-data.starschina.com
@@ -3006,7 +3007,6 @@ akerp.com
 akex.io
 akiba-souken.com
 akii.work
-akoofs.com
 aku.pub
 akyiyou.com
 al-hk.com

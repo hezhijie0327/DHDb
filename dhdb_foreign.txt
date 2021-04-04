@@ -5828,7 +5828,6 @@ ad-analytics-bootstrap.metaps.com
 ad-api.ehawk.com
 ad-arata.com
 ad-arata.s3.amazonaws.com
-ad-beacon-v01.uliza.jp
 ad-beta.flipboard.com
 ad-center.com
 ad-channel.wikawika.xyz
@@ -6270,6 +6269,7 @@ adcdownload.apple.com
 adcdownload.apple.com.akadns.net
 adcel.vrvm.com
 adcentric.randomseed.com
+adcex.com
 adchina.com
 adchitu.net
 adclear.baur.de
@@ -8428,6 +8428,7 @@ akira.eu.org
 akket.com
 aklamio.com
 akmc.lt
+akoofs.com
 akow.org
 akr-developers.com
 akriluss.cl
@@ -34746,7 +34747,6 @@ hopechannel.eu
 hopedafz.com
 hopedialogue.org
 hopehook.com
-hopesn.com
 hopetv.org
 hopkins-consulting.com
 hopster.tv
@@ -42532,7 +42532,6 @@ lizong888.com
 lj.hkej.com
 lj4r.4u.cr.rs
 ljbao.net
-ljc58.com
 ljcoop.com
 ljfjz.com
 ljhis.com

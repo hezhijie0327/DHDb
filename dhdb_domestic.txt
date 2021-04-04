@@ -2693,6 +2693,7 @@
 39jks.com
 39jz.com
 39kfw.com
+39txt.com
 39yst.com
 3a4b5c.com
 3aok.com
@@ -34927,7 +34928,6 @@ load-page.com
 loading.baofeng5.baofeng.net
 loan.xystatic.com
 loc.map.baidu.com
-local.hniux.cn
 locallimit.us.sinaimg.cn
 location.ximalaya.com
 locatran.com
@@ -38086,7 +38086,6 @@ msg.eclicks.cn
 msg.iqiyi.com
 msg.m.jd.com
 msg.m.jd.com.gslb.qianxun.com
-msg.mobile.kugou.com
 msg.ptqy.gitv.tv
 msg.push.51y5.net
 msg.qy.net
@@ -41347,7 +41346,6 @@ photocome.com
 photogz.photo.store.qq.com
 photohn.com
 photonj.photo.store.qq.com
-photoplayhouse.com
 photops.com
 photoshare-drcn.hicloud.com
 phototj.photo.store.qq.com

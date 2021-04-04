@@ -8215,7 +8215,6 @@
 6up.com
 6up2ot.tdum.alibaba.com
 6v.com
-6vdy.com
 6vhao.tv
 6vps.net
 6wan.com
@@ -17184,6 +17183,7 @@ analyticsengine.s3.amazonaws.com
 analyticskey.com
 analyticsnew.overwolf.com
 analyticsreporting.googleapis.com
+analyticsssl.forcepoint.com
 analytictech.com
 analyze.full-marke.com
 analyzer.fc2.com
@@ -68301,6 +68301,7 @@ j9030.com
 j9038.com
 j9155.com
 j9212.com
+j9225.com
 j9226.com
 j9233.com
 j95.bet

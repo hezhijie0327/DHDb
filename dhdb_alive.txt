@@ -5394,7 +5394,6 @@
 40manhua.com
 40net.net
 40shopping.com
-40tp.com
 40ya.com
 41-courier.push.apple.com
 41-courier2.push.apple.com
@@ -8566,7 +8565,6 @@
 77495.com
 774jj.com
 77520a.com
-7756.org
 7759.com
 7765dd.com
 7765ee.com
@@ -17258,6 +17256,7 @@ android.prod.cloud.netflix.com
 android.prod.ftl.netflix.com
 android.push.126.net
 android.rqd.qq.com
+android100.org
 androidads20staging.adcolony.com
 androidads23.adcolony.com
 androidapksfree.com
@@ -21972,6 +21971,7 @@ barstowcollege.net
 bartender.cc
 bartender.mobile.dowjones.io
 bartholomewart.com
+bartmoney.com
 barton.de
 bartvpn.com
 baryes.com
@@ -62773,7 +62773,6 @@ hxgame.net
 hxgqw.com
 hxgs.net
 hxguqogewaicf42s.in.net
-hxh999.com
 hxhost.com
 hxinq.com
 hxjbh.com

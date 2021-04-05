@@ -9912,6 +9912,7 @@ api.flocktory.com
 api.flygame.io
 api.fosshub.com
 api.freewebfonts.org
+api.g.micloud.xiaomi.net
 api.gameofwhales.com
 api.geetest.com
 api.gimbal.com
@@ -20925,7 +20926,6 @@ cs422.com
 cs442.com
 cs455.com
 cs4hs.com
-cs502.com
 cs528.com
 cs557.com
 cs585.com
@@ -22724,6 +22724,7 @@ deka.de
 delawareonline.com
 delcafe.com.ar
 delcamp.net
+dele22.com
 dele88.com
 deledible.com.au
 delfi.ee
@@ -59841,6 +59842,7 @@ secmetrics.schaefer-shop.de
 secmetrics.schaefer-shop.nl
 secoloditalia.it
 secom.co.jp
+secomtrust.net
 secondspace.com
 secretbrowser.net
 secretchina.com

@@ -2703,6 +2703,7 @@ ads.reward.rakuten.jp
 ads.roku.com
 ads.saymedia.com
 ads.smartdevicemedia.com
+ads.starbanner.com
 ads.supfast.net
 ads.taptapnetworks.com
 ads.tvtuga.com
@@ -4790,6 +4791,7 @@ c.bayongzx.cn
 c.bccyyc.com
 c.biz.weibo.com
 c.box3.bid
+c.bxjpl.cn
 c.cdlkzb.com
 c.chaochao132.xyz
 c.contem.bz
@@ -10791,7 +10793,6 @@ hbszzdlssz.com
 hbvhbv.com
 hbwcl.com
 hbx.df-srv.de
-hbyhsg.com
 hbyoyo.com
 hbyswy.com
 hbzkzxw.com
@@ -15339,7 +15340,6 @@ mackolikftp.tuttur.com
 macts.com.tw
 mad.kuuad.com
 madbanner.zvuki.ru
-madigi.net
 madlg.dlg9999.com
 madmalls.com
 madonna-av.com

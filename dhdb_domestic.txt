@@ -11716,7 +11716,6 @@ c.biancheng.net.w.kunlunno.com
 c.booksir.com.cn
 c.btyou.com
 c.bxb.oupeng.com
-c.bxjpl.cn
 c.caijing123.com
 c.cdn03.duolebo.com
 c.cdn04.duolebo.com
@@ -12553,7 +12552,6 @@ cdn-4m9f552e.sched.s2.tdnsv5.com
 cdn-4ph6vqx2.sched.s2.tdnsv5.com
 cdn-7n-pt.zbwowo.com
 cdn-adn-https.rayjump.com
-cdn-adn.rayjump.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 cdn-bvkw7ely.sched.s2.tdnsv5.com
 cdn-cn1.apple-mapkit.com
@@ -25407,6 +25405,7 @@ hbxtzy.com
 hbxyairport.com
 hbxytc.com
 hbyczk.com
+hbyhsg.com
 hbyidu.com
 hbyspx.com
 hbzaxh.com
@@ -35004,6 +35003,7 @@ log.mpns.hunantv.com
 log.music.baidu.com
 log.nuomi.com
 log.nvwa.baofeng.com
+log.nxjcwh.com
 log.p2p.hunantv.com
 log.qchannel03.cn
 log.qvb.qcloud.com
@@ -38314,6 +38314,8 @@ mxnavi.com
 mxnfq.com
 mxnxs.com
 mxqe.com
+mxqjzg.com
+mxruv.com
 mxs.com
 mxsyzen.com
 mxtcn.com

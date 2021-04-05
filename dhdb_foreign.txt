@@ -414,6 +414,7 @@
 1.bh5.com.cn
 1.car21.net.daraz.com
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.cn716.com
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
@@ -4463,6 +4464,7 @@
 913232.com
 91378.com
 913nd.dieti-natura.es
+913u.com
 9151511tuesday.hqnpwzu.cn
 915thebeat.com
 917037.com
@@ -5663,7 +5665,6 @@ acfun.cc
 acfun.eu.org
 acfunwiki.org
 acg-moe.com
-acg.ci
 acg.rip
 acg12.com
 acg18.com
@@ -40079,7 +40080,6 @@ kanmx.com
 kannewyork.com
 kannilu.com
 kanobu.ru
-kanqiusai.net
 kanqq.com
 kansascity.com
 kansascitysteaks.com

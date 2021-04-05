@@ -12257,6 +12257,7 @@ ad.api.yyapi.net
 ad.apps.fm
 ad.apsalar.com
 ad.arklm.com
+ad.atdmt.com
 ad.auditude.com
 ad.batanga.com
 ad.bayescom.com
@@ -12496,7 +12497,6 @@ ad.r.worldssl.net
 ad.reachlocal.com
 ad.rednet.cn
 ad.referencement.01net.com
-ad.reklam.xyz
 ad.reklamport.com
 ad.repubblica.it
 ad.reunion.com
@@ -69764,7 +69764,6 @@ jinshanjiayuan.com
 jinshanju.com
 jinshare.com
 jinshisoft.com
-jinshongsheng.com
 jinshuju.com
 jinshuju.net
 jinshujuapp.com

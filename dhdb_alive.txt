@@ -18602,6 +18602,7 @@ appali.hnlsht.com
 appanalysis.banggood.com
 appao.com
 appapi.17house.com
+appapi.dmall.com
 appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
@@ -21217,7 +21218,6 @@ baidu-int.com
 baidu-mgame.com
 baidu-sex.com
 baidu-wenxue.com
-baidu.cc
 baidu.cn
 baidu.com
 baidu.com.cn
@@ -55060,6 +55060,7 @@ gmoney.org
 gmopce.com
 gmossp-sp.jp
 gmota.g188.net
+gmpanel.com
 gmrmyy.com
 gmssl.org
 gmt-china.org
@@ -70494,7 +70495,6 @@ journaldunet.com
 journalism.org
 journalofdemocracy.org
 journalofhospitalmedicine.com
-journey.unicef.de
 journeys.com
 jourserv.com
 jouypub.com
@@ -80739,7 +80739,6 @@ marketing.net.jumia.ma
 marketing.net.kredito24.ru
 marketing.net.monedo.pl
 marketing.net.occhiali24.it
-marketing.net.ocm.de
 marketing.net.voopter.com.br
 marketing.net.vsgamers.es
 marketing.net.wink.es
@@ -84031,7 +84030,6 @@ minimotoringschool.com
 minimotorsport.com
 mininanaimo.ca
 mininanaimo.com
-mining.coin-hive.com
 mining.freebitco.in
 miningconf.org
 mininglamp.com

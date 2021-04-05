@@ -27034,6 +27034,7 @@ buffered.com
 buffst.com
 bug-bounty1.nimiq-network.com
 bug-bounty2.nimiq-network.com
+bug-bounty3.nimiq-network.com
 bug200.com
 bugaga.tut.by
 bughd.com
@@ -63796,7 +63797,6 @@ icphu.com
 icps.com.ua
 icq.com
 icrazyidea.com
-icrystalnotes.com
 icshanghai.com
 icshow.cc
 icsisia.com
@@ -85712,7 +85712,6 @@ mrcatgame.com
 mrcatnb.com
 mrcboy.com
 mrcjcn.com
-mrcjxw.com
 mrcrm.com
 mrcuriosity.org
 mrcywang.com

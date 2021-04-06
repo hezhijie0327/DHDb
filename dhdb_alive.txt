@@ -14594,7 +14594,6 @@ adx.gainesvillsun.com
 adx.gayboy.at
 adx.golfnews.vn
 adx.groupstate.com
-adx.hendersonvillenews.com
 adx.hongtinnhanh.com
 adx.hupu.com
 adx.hzbxm.com
@@ -38146,6 +38145,7 @@ d1nmxiiewlx627.cloudfront.net
 d1nnhbi4g0kj5.cloudfront.net
 d1nx2jii03b4ju.cloudfront.net
 d1o3ws1znr0uv8.cloudfront.net
+d1oxccu2k3w6jx.cloudfront.net
 d1p3zboe6tz3yy.cloudfront.net
 d1p7elpjrt6qav.cloudfront.net
 d1pozdfelzfhyt.cloudfront.net
@@ -38455,6 +38455,7 @@ d39iocnrk5rxnb.cloudfront.net
 d39jgb7s.v1d.szbdyd.com
 d39jgedq.v1d.szbdyd.com
 d39jgevd.v1d.szbdyd.com
+d39xxywi4dmut5.cloudfront.net
 d39yds8oe4n4jq.cloudfront.net
 d3a42c7xs4vn3.cloudfront.net
 d3a49eam5ump99.cloudfront.net
@@ -43518,6 +43519,7 @@ du114.com
 du175.com
 du1du.cc
 du1du.org
+du2uh7rq0r0d3.cloudfront.net
 du4rq1xqh3i1k.cloudfront.net
 du7.org
 du8783wkf05yr.cloudfront.net
@@ -78166,7 +78168,6 @@ lt118.com
 lt132.com
 lt2011.com
 lt299.com
-lt399.com
 lt3c.com
 lt499.com
 lt509.com
@@ -100435,6 +100436,7 @@ radarsubmissions.apple.com.akadns.net
 raddus.bayescom.com
 radeon.com
 radeonfury.com
+radi.ws
 radialserver.com
 radian6.com
 radiant-torch-3037.firebaseio.com
@@ -103431,6 +103433,7 @@ s3.us-east-2.amazonaws.com
 s3.video2.stream.vidzi.tv
 s3.videos.videos.vidto.me
 s3.videos.vidto.me
+s3.vidtod.me
 s3.web.flashx.co
 s36.com
 s362693299.aon.com

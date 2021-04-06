@@ -9915,7 +9915,6 @@ api.fosshub.com
 api.freewebfonts.org
 api.g.micloud.xiaomi.net
 api.gameofwhales.com
-api.geetest.com
 api.gimbal.com
 api.github.com
 api.grumft.com
@@ -39017,7 +39016,6 @@ jimbo.com
 jimdo.com
 jimmyhantu.asia
 jimmylv.info
-jimonet.cc
 jims.net
 jimworld.com
 jin178.com
@@ -49609,7 +49607,6 @@ newser.com
 newsextube.org
 newsfeed.com
 newsgu.com
-newshiyu.com
 newshub.co.nz
 newsjs.com
 newslab.withgoogle.com

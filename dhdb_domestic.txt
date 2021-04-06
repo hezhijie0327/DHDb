@@ -1926,6 +1926,7 @@
 22edu.com
 22ff.com
 22hd.com
+22k9.com
 22lrc.com
 22net.com
 22plc.com
@@ -7801,7 +7802,6 @@ analytics.shop.hisense.com
 analytics.snssdk.com
 analytics.talkingdata.net
 analytics.techweb.com.cn
-analytics.terminus.io
 analytics.tuhu.com
 analytics.wanmei.com
 analytics.woozooo.com
@@ -25563,7 +25563,6 @@ healthdata.hicloud.com
 healthjd.com
 healthr.com
 healthych.com
-healthythinkingkids.com
 healthyun.com
 heart-game.com
 hearthstone.nosdn.127.net

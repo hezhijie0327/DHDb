@@ -5467,6 +5467,7 @@
 91tw.net
 91ud.com
 91up.com
+91vpn.com
 91vps.com
 91vst.com
 91waijiao.com
@@ -13118,7 +13119,6 @@ channel-analysis-js.gmw.cn
 channel-analysis.gmw.cn
 channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
-channel.m.163.com
 channel.vaptcha.net
 channel.vaptcha.net.w.cdngslb.com
 chanpay.com
@@ -35295,7 +35295,6 @@ lqhigo.com
 lqjob88.com
 lqjuwuwang.com
 lqpsj.com
-lqqm.com
 lqrcb.com
 lqsy.net
 lqxshop.com

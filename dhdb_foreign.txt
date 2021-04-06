@@ -339,6 +339,7 @@
 0805666.com
 080909.com
 08099.com
+0817tv.com
 082338.com
 082800.com
 083332.com
@@ -413,7 +414,6 @@
 1.bh5.com.cn
 1.car21.net.daraz.com
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.cn716.com
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
@@ -9919,6 +9919,7 @@ api.gimbal.com
 api.github.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.identitynow.com
 api.imqtyik.com
 api.infinario.com
@@ -11282,7 +11283,6 @@ ausbeatsbydrdre.com
 auscoo.com
 ausdn.com
 ausmedaid.org.au
-ausny.com
 ausnz.net
 ausnznet.com
 aussie7.com
@@ -19383,7 +19383,6 @@ cnnmoneystream.com
 cnnorip.org
 cnnot.com
 cnnovels.com
-cnnpa.com
 cnnphilippines.com
 cnnpolitics.com
 cnns.tw

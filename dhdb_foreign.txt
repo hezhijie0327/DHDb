@@ -2,6 +2,7 @@
 0-gold.net
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -422,6 +423,7 @@
 1.huilv.cc
 1.hysou.com
 1.kk.sqfuwu.cn
+1.letvlive.com
 1.modzj.net
 1.nanrenwo.net
 1.soufy.cn
@@ -11994,6 +11996,7 @@ baixiong.online
 baiy.net
 baiyangzs.com
 baiyi181.com
+baiyiba.com
 baiyinjg.com
 baiyundou.net
 baizhenzhu.com

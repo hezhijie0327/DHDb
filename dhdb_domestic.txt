@@ -7591,6 +7591,7 @@ aliyun-iot-share.com
 aliyun-page.cn-hangzhou.log.aliyuncs.com
 aliyun-pcdnts.douyucdn.cn
 aliyun-pcdnts.douyucdn.cn.m.alikunlun.net
+aliyun-youhui.com
 aliyun.cdn.chengzilte.top
 aliyun.com
 aliyun365.com
@@ -15352,6 +15353,7 @@ cnsesan.com
 cnsfk.com
 cnshipnet.com
 cnshipping.com
+cnsifa.net
 cnsikao.com
 cnsimin.com
 cnskyit.com
@@ -17144,6 +17146,7 @@ daogoubang.com
 daoguo.com
 daohang2.qq.com
 daohang4.com
+daohangtx.com
 daohui.net
 daoisms.org
 daojia.com
@@ -26309,7 +26312,6 @@ hniois.com
 hnisca.org
 hniso.net
 hnisvc.com
-hniux.cn
 hnjg.com
 hnjing.com
 hnjing.net

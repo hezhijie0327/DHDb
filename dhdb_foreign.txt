@@ -7602,7 +7602,6 @@ adsrv.lua.pl
 adsrv.moebelmarkt.tv
 adsrv.swidnica24.pl
 adsrv.tuscaloosanews.com
-adsrv.wilmingtonstar.com
 adsrv2.swidnica24.pl
 adsrv2.wilmingtonstar.com
 adsrvr.org
@@ -24929,7 +24928,6 @@ dxztc.com
 dy-gold.com
 dy.biz.tm
 dy1279.com
-dy131.com
 dy2018.com
 dy2018.net
 dy2dy.com
@@ -33516,7 +33514,6 @@ hbjfscc.com
 hbjingming.com
 hbjinnong.com
 hbla.net
-hblady.com
 hblijiehb.com
 hblongdong.com
 hbo.com
@@ -42719,7 +42716,6 @@ log.trithuctructuyen.com.vn
 log.trithuctructuyen.vn
 log.ttbc-hcm.gov.vn
 log.tv.zing.vn
-log.uu.163.com
 log.videocampaign.co
 log.vietnamdaily.net.vn
 log.vietnamplus.vn

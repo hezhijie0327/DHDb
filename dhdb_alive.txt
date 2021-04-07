@@ -13810,7 +13810,6 @@ ads.terra.es
 ads.thecoolhunter.net
 ads.thecrimson.com
 ads.thefrisky.com
-ads.thegioitiepthi.vn
 ads.theolympian.com
 ads.thesaigontimes.vn
 ads.thestar.com
@@ -42620,7 +42619,6 @@ dopa.com
 dopa.com.cn
 dopic.net
 dopool.com
-doppler.logger.baofeng.com
 dora-family.com
 dorangesource.alicdn.com
 dorangesource.alicdn.com.danuoyi.tbcache.com
@@ -59250,6 +59248,7 @@ help.wechat.com
 help.weilianhelp.com
 help.yunaq.com
 helpcn.fun315.com
+helpdubaclient.ksmobile.com
 helpeachpeople.com
 helper-sys.com
 helperaddress.com
@@ -88547,6 +88546,7 @@ nianbin.com
 niancode.com
 nianhuiba.com
 nianticlabs.com
+nianw.com
 nianzhi.cc
 niaobee.com
 niaobulashi.com

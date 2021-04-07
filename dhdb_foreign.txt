@@ -4070,7 +4070,6 @@
 80host.com
 80kuku.com
 80s.cm
-80s.la
 80s.so
 80s.tw
 80smp4.net
@@ -19128,6 +19127,7 @@ cmd-cdn.cleanmymac.com
 cmd5.org
 cmdmexpo.com
 cmdy2020.com
+cmdy5.com
 cmeimei.top
 cmhello.com
 cmi.org.tw
@@ -38279,7 +38279,6 @@ itzmx.com
 itzmx.net
 iu13.net
 iu45.com
-iu45.me
 iubenda.com
 iucars.com
 iuh.com

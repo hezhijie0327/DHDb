@@ -8130,6 +8130,7 @@ ai.inmdata.io
 ai.iol.io
 ai.mist.com
 ai.thanhnien.vn
+ai.xinju.cc
 ai200808.com
 ai2hao.com
 ai7.org
@@ -8169,6 +8170,7 @@ aiizen.net
 aijiaoqi.com
 aijigeci.com
 aikaiyuan.com
+aikang.com
 aikanshu8.com
 aikantube.com
 aikeapp.com
@@ -8344,7 +8346,6 @@ aizhet.com
 aizhi.co
 aizhicn.com
 aizhizu.com
-aiziti.net
 ajax.aspnetcdn.com
 ajax.cloudflare.com
 ajax.googleapis.com
@@ -17546,7 +17547,6 @@ cdpcs.microsoft.com
 cdpeu.org
 cdpweb.org
 cdpwu.org
-cdqmyj.com
 cdrbenefits.com
 cds-cdn.v.aaplimg.com
 cds.apple.com
@@ -40059,7 +40059,6 @@ kankanblog.com
 kankantv.cc
 kankanwu.com
 kankanzhijian.com
-kankia.com
 kanluzhe.com
 kanlxy.com
 kanmee.com

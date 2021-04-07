@@ -12303,7 +12303,6 @@ ad.filmweb.pl
 ad.flipboard.com
 ad.floq.jp
 ad.flurry.com
-ad.fo.net
 ad.foxnetworks.com
 ad.freecity.de
 ad.funp.com
@@ -15604,6 +15603,7 @@ aizhigu.com.cn
 aizhigu.tv
 aizhizu.com
 aizhuizhui.com
+aiziti.net
 aizuna.com
 aizuopin.com
 ajax.aspnetcdn.com
@@ -60459,6 +60459,7 @@ hmh3.com
 hmhco.com
 hminvestment.com
 hmjs.cnmo-img.com.cn
+hmkjn.com
 hmlan.com
 hmldds.com
 hmltec.com
@@ -63088,6 +63089,7 @@ i-sux.com
 i-trip.com.ar
 i-xinnuo.com
 i-xoron.com
+i-yulan.com
 i.00oo00.com
 i.51job.com
 i.51job.com.51jobdns.com

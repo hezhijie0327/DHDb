@@ -1021,7 +1021,6 @@
 1.cjcp.cn
 1.cms.s81c.com
 1.cn.pool.ntp.org
-1.cn716.com
 1.codesdq.com
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
@@ -5756,6 +5755,7 @@
 5-mail.com
 5-project.com
 5-tv.ru
+5.5ppt.net
 5.bb5522.ws
 5.courier-push-apple.com.akadns.net
 5.gzfenda.com
@@ -12988,6 +12988,7 @@ adlog.vivo.com.cn
 adls.suning.com
 adluckin.com
 adlvyou.com
+adm.265g.com
 adm.52swine.com
 adm.6park.com
 adm.71100.net
@@ -24824,6 +24825,7 @@ blackfridaydrebeatsshop.com
 blackh4t.org
 blackhat.com
 blackhillsgroup.net
+blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com

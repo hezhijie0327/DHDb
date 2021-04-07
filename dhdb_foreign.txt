@@ -2383,7 +2383,6 @@
 3cwu.com
 3cx.net
 3d-game.com
-3d-zh.com
 3d.app.flnet.org
 3d.mypop3.net
 3d2013.com
@@ -13424,6 +13423,7 @@ bhawtp.vitacost.com
 bhdtc.com
 bhfitnessparts.com
 bhg.com
+bhjysp.com
 bhkta.org
 bhl.org
 bhpho.to
@@ -25790,6 +25790,7 @@ ecn.linkedin.com
 eco-industrial.org
 eco-visio.net
 eco.ca
+ecocn.org
 ecoforme.jp
 ecoinbroker.com
 ecojurconsulting.ro
@@ -46734,6 +46735,7 @@ min-xin.com
 minchen.comuv.com
 mindandlife.org
 mindmeld.com
+mindmeters.com
 mindnode.com
 mindprince.in
 mindrolling.org
@@ -51123,7 +51125,6 @@ ocsp.comodoca.com
 ocsp.comodoca4.com
 ocsp.digicert.com
 ocsp.entrust.net
-ocsp.globalsign.com
 ocsp.godaddy.com
 ocsp.godaddy.com.akadns.net
 ocsp.int-x1.letsencrypt.org

@@ -1199,7 +1199,6 @@
 100sucai.com
 100t.com
 100tal.com
-100tjs.com
 100tmt.com
 100toutiao.com
 100try.com
@@ -5993,6 +5992,7 @@
 51bjrc.com
 51blackberry.com
 51bmb.com
+51bonli.com
 51btv.com
 51businessview.com
 51buy.com
@@ -12096,6 +12096,7 @@ activity.cubejoy.com
 activity.erdfgj.com
 activity.gtimg.cn
 activity.hdslb.com
+activity.hdslb.com.w.kunlungr.com
 activity.hnhnmg.com
 activity.qzone.qq.com
 activity.serving-sys.com
@@ -47041,7 +47042,6 @@ equantum.com
 equifax.com
 equinenow.com
 equinox.com
-equiplube.com
 equippo.com
 equitable.com
 equity.tmall.com
@@ -55975,6 +55975,7 @@ goufang.com
 goufw.com
 gougoubt.org
 gougoujp.com
+gougousc.com
 gougoutxt.com
 gouhaowang.com
 gouhuasuan.shop

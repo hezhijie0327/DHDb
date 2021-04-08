@@ -18822,6 +18822,7 @@ download.csdn.net
 download.dmallcdn.com
 download.elemecdn.com
 download.fuyuncc.com
+download.gfe.nvidia.cn
 download.jr.jd.com
 download.m.37.com
 download.microsoft.com
@@ -27011,7 +27012,6 @@ huashphoto.com
 huashu-inc.com
 huasyun.com
 huatai-pb.com
-huatengoa.com
 huatengsci.com
 huati365.com
 huatu.com
@@ -27288,7 +27288,6 @@ hunanpta.com
 hunantv-ipdx.cn.miaozhen.com
 hunantv.com
 hunantv.m.cn.miaozhen.com
-hunanwb.com
 hunbei.com
 hunbei1.com
 hunbohui.info
@@ -44983,7 +44982,6 @@ runzi.cc
 ruochu.com
 ruodian360.com
 ruofan.me
-ruoshuigroup.com
 ruoxia.com
 ruoyi.vip
 ruqimobility.com

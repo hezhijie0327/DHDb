@@ -645,7 +645,6 @@
 05c4954c015f329c3f44a8878ef319fd.clo.footprintdns.com
 05cg.com
 05e837eab77ca01fe524924f3d877c8e.dl.txcdns.com
-05et.club
 05et.com
 05ia.club
 05info.com
@@ -35101,6 +35100,7 @@ collector.mazeberry.com
 collector.mediator.media
 collector.newsx.cc
 collector.ozeex.com
+collector.pi.spectrum.net
 collector.prod.expedia.com
 collector.retailcrm.pro
 collector.rn.de
@@ -57713,6 +57713,7 @@ haidilao.com
 haidilao.us
 haidimao.com
 haiduomi.cc
+haienkj.com
 haier.com
 haier.hk
 haier.net
@@ -67357,6 +67358,7 @@ ishumei.com
 ishuo.cn
 ishuocha.com
 ishuqi.com
+ishuse.com
 ishvara-yoga.com
 isi-tracking.eventim.com
 isigu.com
@@ -72609,6 +72611,7 @@ keysight.com
 keytransparency.com
 keytransparency.foo
 keytransparency.org
+keyuhome.com
 keyunsoft.com
 keyunzhan.com
 keyvalueservice.fe.apple-dns.cn
@@ -80011,6 +80014,7 @@ maketheweb.io
 maketion.com
 makeweiyuan.com
 makezixun.com
+makingvfx.com
 makkahlive.net
 makkahnewspaper.com
 maktoob.com
@@ -83045,7 +83049,6 @@ mg.uu.163.com
 mg.zpwansf.cn
 mg09.zhaopin.com
 mg21.com
-mg3333.com
 mg3721.com
 mg64.net
 mg6440.com
@@ -96076,7 +96079,6 @@ pooban.com
 poobbs.com
 poocg.com
 poofx.com
-pooioo.com
 pook.com
 pool-de.supportxmr.com
 pool.aeon.hashvault.pro

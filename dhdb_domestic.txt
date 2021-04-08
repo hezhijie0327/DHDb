@@ -610,6 +610,7 @@
 1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -1081,7 +1082,6 @@
 1360.com
 13610a.com
 136136.com
-13636.com
 1368832400079045.cn-hangzhou.fc.aliyuncs.com
 136hr.com
 13707.net
@@ -27809,7 +27809,6 @@ i51game.com
 i5738.com
 i5i6.net
 i5read.com
-i6.weather.oppomobile.com
 i618.com.cn
 i7aot4.com
 i7box.com
@@ -33143,6 +33142,7 @@ kuaijisishu.com
 kuaijitong.com
 kuaijizheng365.com
 kuaikan.netmon.360safe.com
+kuaikanmanhua.com
 kuaikuaicloud.com
 kuaikuaidai.com
 kuaikuaiyu.com

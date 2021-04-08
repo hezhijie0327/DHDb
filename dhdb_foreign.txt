@@ -20548,7 +20548,6 @@ cp-wnsr.internet7.cc
 cp-wnsr.internet7.vip
 cp.efo.cc
 cp.greenxf.cn
-cp.jz5u.net
 cp.pushwoosh.com
 cp.u9un.com
 cp.walllink.cc
@@ -39370,7 +39369,6 @@ jp-axia.m0mentum.net
 jp.hao123.com
 jp.net
 jp.pandora.tv
-jp.pool.ntp.org
 jp.rti.org.tw
 jpaifusen.com
 jpay.hk
@@ -39627,6 +39625,7 @@ juchuangbio.com
 judyclub.com
 jue-ce.com
 juejin.im
+jueshinan.com
 jueshitangmen.info
 juesw.com
 juetuzhi.net

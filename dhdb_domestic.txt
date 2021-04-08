@@ -9416,6 +9416,7 @@ baidu.greenxf.cn
 baidu.jz5u.net
 baidu.mobi
 baidu.net
+baidu.to
 baidu1.codejie.net
 baidu1.weather.com.cn
 baidu521.com
@@ -12243,7 +12244,6 @@ cbminfo.com
 cbndata.com
 cbnri.org
 cbnweek.com
-cboad.com
 cbos3d.com
 cbqyw.net
 cbs.wondershare.com
@@ -12621,7 +12621,6 @@ cdn.img.liuxingyul.cn
 cdn.ishansong.com
 cdn.ishansong.com.m.alikunlun.com
 cdn.jesgoo.com
-cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.leakzero.com
 cdn.lu.sogoucdn.com
@@ -29460,6 +29459,7 @@ ipktv.com
 ipku.com
 iplascloud.com
 iplaypy.com
+iplaypython.com
 iplaysoft.com
 iplist1.yoozii.com
 iplist2.netfree.com.cn

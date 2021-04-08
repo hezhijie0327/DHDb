@@ -3323,6 +3323,7 @@ apexinnotech.com
 api-ds.kkbox.com.tw
 api-etn.beeppool.org
 api-login.kkbox.com.tw
+api-pricetag.dmall.com
 api-zdj.com
 api.0530hz.cn
 api.1beb2a44.space

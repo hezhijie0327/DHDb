@@ -8170,7 +8170,6 @@ api-map03.meituan.com
 api-mayi.django.t.taobao.com
 api-mcp.adsp.xunlei.com
 api-pan.xunlei.com
-api-pricetag.dmall.com
 api-push.meizu.com
 api-sc.wtzw.com
 api-service.chanmama.com
@@ -9013,6 +9012,7 @@ auromcs.com
 aus.cc
 ausbio.com
 aushy.com
+ausny.com
 auspiciousvp.com
 aussino.net
 austargroup.com

@@ -27951,7 +27951,6 @@ c4.myway.com
 c4008.com
 c400c.cc
 c41.clicki.cn
-c4288.com
 c4b0af8c607ae831.cdn.jiashule.com
 c4d.live
 c4datc.com
@@ -35431,6 +35430,7 @@ config-ltvp.inmobi.com
 config.3g.qq.com
 config.88-f.net
 config.adview.cn
+config.baofeng.net
 config.cmpassport.com
 config.cocounion.com
 config.edge.skype.com
@@ -56382,7 +56382,6 @@ gsccdn.com
 gscounters.gigya.com
 gscssr.net
 gsdayu.com
-gsdhome.cn
 gsdk.tv
 gsdpw.com
 gserv.cneteu.net
@@ -69564,6 +69563,7 @@ jingking.net
 jinglawyer.com
 jinglingbiaozhu.com
 jinglong0769.com
+jinglongjiaxiao.com
 jingmaoyuanxin.com
 jingmaozhan.com
 jingme.net
@@ -95334,6 +95334,7 @@ pixelinteractivemedia.com
 pixelmator.com
 pixelqi.com
 pixels.afcdn.com
+pixels.boxberry.ru
 pixels.livingsocial.com
 pixelzirkus.gameforge.com
 pixfs.net

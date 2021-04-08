@@ -3975,7 +3975,6 @@
 2dianying.net
 2djgame.net
 2dkf.com
-2dl1w.cn
 2dn.org
 2drdrebeats.com
 2droom.com
@@ -17885,7 +17884,6 @@ api-mayi.django.t.taobao.com
 api-mcp.adsp.xunlei.com
 api-pan.xunlei.com
 api-panov2.720yun.com
-api-pricetag.dmall.com
 api-priconne-redive.cygames.jp
 api-push.meizu.com
 api-sc.wtzw.com
@@ -108517,6 +108515,7 @@ sites120.com
 sitescout-video-cdn.edgesuite.net
 sitescout.com
 sitesearch360.com
+sitestats.tiscali.co.uk
 sitesuite.org
 sitetag.us
 sitetagger.co.uk

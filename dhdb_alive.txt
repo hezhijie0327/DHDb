@@ -10906,7 +10906,6 @@ a.consumer.net
 a.dangdang.com
 a.diaoyu.cn
 a.dlads.cn
-a.dmall.com
 a.dogfood-ns.emailvision.net.daraz.com
 a.doko.moe
 a.dphunters.com
@@ -33896,7 +33895,6 @@ cn-c114.net
 cn-cos.fengduxiaoshuo.com
 cn-em.com
 cn-ezalter.fengduxiaoshuo.com
-cn-fe.com
 cn-gapis.0cdn.cn
 cn-gapis.0cdn.cn.cname.yunjiasu-cdn.net
 cn-hangzhou-component-gw.cloud.alipay.com
@@ -37698,7 +37696,6 @@ cyboai.cn
 cybozu.com
 cybtc.com
 cybtc.info
-cybtc.net
 cycares.com
 cychaiqian.com
 cyclemarket.jp
@@ -62049,6 +62046,7 @@ hubei88.com
 hubeibbs.net
 hubeidaily.net
 hubeihome.net
+hubeiip.com
 hubeipbx.com
 hubeisafety.org
 hubeiwsd.com
@@ -98871,6 +98869,7 @@ qiluhua.com
 qiluivf.com
 qilungroup.cn
 qiluyidian.mobi
+qiman6.com
 qimg.ithome.com
 qimiaomh.com
 qiming.info

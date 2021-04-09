@@ -14554,6 +14554,7 @@ clickc.admaster.com.cn
 clicki.cn
 clickip.hnol.net
 clicklog.hd.baofeng.com
+clicklog.moviebox.baofeng.com
 clicklog.moviebox.baofeng.net
 clickm.fang.com
 clickm.soufun.com
@@ -19361,6 +19362,7 @@ dycar.net
 dycdn.com
 dydab.com
 dydata.io
+dydytt.com
 dyfc.net
 dyfcw.com
 dyg-hec.com
@@ -22286,6 +22288,7 @@ fund001.com
 fund123.cn
 fundebug.com
 fundog.cc
+fundoy.com
 fundrive.com
 funeralchain.com
 funfungolf.com
@@ -32217,7 +32220,6 @@ k-res.net
 k.13hangpifa.com
 k.85wa.cn
 k.97wanle.com
-k.gsdhome.cn
 k.innvitor.com
 k.jinxiuzhilv.com
 k.metro114.com

@@ -26859,6 +26859,7 @@ httpdns.alicdn.com
 httpdns.browser.miui.com
 httpdns.danuoyi.tbcache.com
 httpdns.meituan.com
+httpdns.push.heytapmobi.com
 httpsbaidu.com
 httpsdns.baidu.com
 hturl.cc
@@ -36118,7 +36119,6 @@ mail-activity.nosdn.127.net
 mail-qq.com
 mail.10086.cn
 mail.126.com
-mail.163.com
 mail.adsame.com
 mail.fwone.com
 mail.qq.com
@@ -41789,7 +41789,6 @@ plcent.com
 plcloud.com
 pldba.com
 plesk-cn.com
-pljgame.com
 plogin.m.jd.com
 plogin.m.jd.com.gslb.qianxun.com
 plsmspx.com

@@ -6047,6 +6047,7 @@ a.sh.vip.dianping.com
 a.shenchuang.com
 a.tanx.com
 a.tiyuxiu.com
+a.track.sohu.com
 a.tuizhuti.com
 a.tvsou.com
 a.tyncar.com
@@ -18331,7 +18332,6 @@ dlsqb.com
 dlssa.com
 dlsstax.com
 dlsunworld.com
-dlsw.br.baidu.com
 dlswbr.baidu.com
 dlswbr.baidu.com.cname3920.yjs-cdn.com
 dlszywz.com
@@ -32820,7 +32820,6 @@ kkppdd57.com
 kkr5.com
 kkredian.com
 kkredian.xyz
-kksk.org
 kksofts.com
 kktijian.com
 kktv1.com

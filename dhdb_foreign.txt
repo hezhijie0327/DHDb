@@ -412,7 +412,6 @@
 1.bh5.com.cn
 1.car21.net.daraz.com
 1.cms.s81c.com
-1.cn716.com
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.feihua.net.cn
@@ -15645,6 +15644,7 @@ buffered.com
 bug-bounty1.nimiq-network.com
 bug-bounty2.nimiq-network.com
 bug-bounty3.nimiq-network.com
+bug200.com
 bugaga.tut.by
 bugnull.com
 bugout.link
@@ -18467,7 +18467,6 @@ chumengxiang.com
 chundi.org
 chungkwong.cc
 chunshuizhijia.com
-chunyao.org
 chunyu.me
 churchill.com
 churchinhongkong.org
@@ -26688,7 +26687,6 @@ environment.google
 envisionfinancial.ca
 envitreat.net
 envivas.de
-enwailian.com
 enwp.org
 enyayinxiang.com
 enzj.com
@@ -30586,6 +30584,7 @@ galacg.me
 galamart.ru
 galaxybuy.net
 galaxyexperte.de
+galaxyfont.com
 galaxymobile.jp
 galcg.com
 gale.com

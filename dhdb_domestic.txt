@@ -8191,6 +8191,7 @@ api-unionid.meituan.com
 api-web-game-ssl.xunlei.com
 api-xl9-ssl.xunlei.com
 api-z.weidian.com
+api-zdj.com
 api.186078.com
 api.1sapp.com
 api.22lianmeng.com
@@ -39733,6 +39734,7 @@ ocsp.dcocsp.cn
 ocsp.dcocsp.cn.w.kunlunar.com
 ocsp.digicert.cn
 ocsp.digicert.cn.w.cdngslb.com
+ocsp.globalsign.com
 ocsp.pki.goog
 oct-and.com
 oct-cts.com

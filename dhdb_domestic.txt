@@ -1587,7 +1587,6 @@
 1937cn.com
 193839.com
 1949idc.com
-195155.com
 1956917.s2txipv6.cdntip.com
 195855.com
 1965288.s1txipv6.cdntip.com
@@ -16243,6 +16242,7 @@ crystaledu.com
 cryuantafund.com
 cs-feige.iqiyi.com
 cs-op.douyucdn.cn
+cs-show.com
 cs.37see.com
 cs.com.cn
 cs.mbgame.gamesafe.qq.com
@@ -25883,6 +25883,7 @@ hfzq.com.cn
 hg12333.com
 hg707.com
 hg70777.com
+hg86228.com
 hg8880.org
 hgaas.com
 hgame.com
@@ -35015,6 +35016,7 @@ log.tbs.qq.com
 log.tpns.tencent.com
 log.trackingio.com
 log.umsns.com
+log.uu.163.com
 log.v2.hunantv.com
 log.vcgame.cn
 log.voicecloud.cn
@@ -37009,7 +37011,6 @@ mg.games.sina.com.cn
 mg.glwxw.net
 mg.ipdxwtn.cn
 mg.uu.163.com
-mg.zpwansf.cn
 mg09.zhaopin.com
 mg21.com
 mg3721.com

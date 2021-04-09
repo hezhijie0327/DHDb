@@ -1118,6 +1118,7 @@
 14.tlu.dl.delivery.mp.microsoft.com
 1415926.mobi
 1415926pi.com
+14244.com
 14294.com
 14498.com
 1451cn.com
@@ -8478,7 +8479,6 @@ app-g.39.net
 app-measurement.com
 app-monitor.ele.me
 app-router.com
-app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -33361,7 +33361,6 @@ kwxjh.net
 kx001.com
 kx516.com
 kx7p.com
-kxapp.com
 kxbld.com
 kxbox.com
 kxceping.com

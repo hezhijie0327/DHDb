@@ -23926,6 +23926,7 @@ gslb.xcloud.sandai.net
 gslb.xcloud.xunlei.com
 gslbmgsplive.miguvideo.com
 gslbtx.ximalaya.com
+gslxrc.com
 gsmyi.com
 gsp0.baidu.com
 gsp1.baidu.com
@@ -25260,6 +25261,7 @@ hbd.url.cn
 hbd.url.cn.sched.p1-dk.tdnsv6.com
 hbdangyang.com
 hbddrn.com
+hbdfcn.com
 hbdfdh.com
 hbdmia.com
 hbdnserror1.wo.com.cn

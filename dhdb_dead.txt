@@ -82,6 +82,7 @@
 0533.com
 0571dns.com
 0575xf.com
+0577qiche.com
 0578zhaopin.com
 0579com.com
 059007.com
@@ -3388,6 +3389,7 @@ api.gzxiongwa.cn
 api.h4game.net
 api.intense.hashvault.pro
 api.inwemo.com
+api.jetlore.com
 api.joybj.com
 api.jsecoin.com
 api.jsfc8.cn
@@ -16465,7 +16467,6 @@ mylhospital.com
 mylove19.com
 mymediarom.com
 mymoe.moe
-mymoive.com
 mynikolaev.vn.ua
 mypake.com
 myqcloud.com

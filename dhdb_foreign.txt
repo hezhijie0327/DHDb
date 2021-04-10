@@ -9889,7 +9889,6 @@ api.insight.synology.com
 api.instabug.com
 api.intentiq.com
 api.intercom.io
-api.jetlore.com
 api.kiip.me
 api.linkgist.com
 api.mapbox.com

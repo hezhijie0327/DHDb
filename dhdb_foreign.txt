@@ -2510,7 +2510,6 @@
 40net.net
 40shopping.com
 40tp.com
-40ya.com
 41-courier.push.apple.com
 41-courier2.push.apple.com
 41.courier-push-apple.com.akadns.net
@@ -8861,6 +8860,7 @@ ambien.3.p2l.info
 ambien.4.p2l.info
 ambit.chat
 ambitvpn.com
+ambjl00.com
 amblrgg.co
 amblrgg.live
 amcas.org
@@ -27518,7 +27518,6 @@ eyrtiw.slyip.net
 eyurumen.com
 eywdf.com
 eywedu.com
-eywedu.net
 ez.edns.biz
 ez.no
 ez2.in
@@ -55851,7 +55850,6 @@ pyedu.cc
 pyguanf.com
 pyhapp.com
 pyjsh.com
-pylfi.flash.hxh999.com
 pylist.com
 pymc.cl
 pynote.net

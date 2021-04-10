@@ -12632,6 +12632,7 @@ cdn.img.liuxingyul.cn
 cdn.ishansong.com
 cdn.ishansong.com.m.alikunlun.com
 cdn.jesgoo.com
+cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.leakzero.com
 cdn.lu.sogoucdn.com
@@ -37904,7 +37905,6 @@ morewiscloud.com
 morganstanleyhuaxin.com
 morigames.com
 moring.pw
-morketing.com
 morningcore.com
 morningwhistle.com
 mos.m.taobao.com

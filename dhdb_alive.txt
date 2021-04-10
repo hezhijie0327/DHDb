@@ -14302,7 +14302,6 @@ adspace.zaman.com.tr
 adspaces.ero-advertising.com
 adsrv.deviantart.com
 adsrv.iol.co.za
-adsrv.kobi.tv
 adsrv.lua.pl
 adsrv.moebelmarkt.tv
 adsrv.swidnica24.pl
@@ -29406,6 +29405,7 @@ ccpitlight.org
 ccpitln.org
 ccpitnb.org
 ccpitnmg.org
+ccpitqd.org
 ccpitsd.com
 ccpittex.com
 ccpittj.org
@@ -32976,6 +32976,7 @@ ckgcjl.com
 ckimg.com
 ckjr001.com
 ckkpp.com
+ckl.unetall.com
 ckm.iqiyi.com
 ckmap.mediav.com
 ckmov.com
@@ -42163,7 +42164,6 @@ dnsalias.org
 dnsapi.cn
 dnscnc.com
 dnscrypt.org
-dnsddos.com
 dnsdiy.com
 dnsdizhi.com
 dnsdns.xyz
@@ -50674,7 +50674,6 @@ floverow.com
 flow.ci
 flow.concord.systems
 flow.dev
-flow.dmall.com
 flow.io
 flow.org
 flow.qq.com
@@ -59507,7 +59506,6 @@ hfwx.net
 hfx.link
 hfx.net
 hfyestar.com
-hfyhjg.cn
 hfyjgg.com
 hfykd.com
 hfyt365.com

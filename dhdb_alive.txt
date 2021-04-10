@@ -3930,6 +3930,7 @@
 29og5p1.cachenode.cn
 29xf.com
 29yx.com
+2a.com.cn
 2a.zol-img.com.cn
 2a4tesaprxapfknwp13h9cuinpsqmzbl.alicloudwaf.com
 2abc8.com
@@ -13006,7 +13007,6 @@ admai.com
 admaimai.com
 adman.freeze.com
 adman.otenet.gr
-admanager.adam4adam.com
 admanager.carsoup.com
 admanager.collegepublisher.com
 admarket.21cn.com
@@ -15049,7 +15049,6 @@ ahoeab.org
 ahougn.com
 ahpcare.com
 ahphi.com
-ahqmdq.com
 ahrcty.com
 ahri-plus.com
 ahri.biz
@@ -34634,6 +34633,7 @@ cnwear.com
 cnwebe.com
 cnweblog.com
 cnwebshow.com
+cnweilo.com
 cnwen.net
 cnwenshi.net
 cnwest.com
@@ -57092,6 +57092,7 @@ gxmenjin.com
 gxmlyjy.com
 gxmmkt.com
 gxnas.com
+gxnotes.com
 gxp.cc
 gxpan.cn
 gxqcw.com
@@ -90013,7 +90014,6 @@ nvquan.org
 nvren.com
 nvren55.com
 nvsay.com
-nvshen.net
 nvsheng.com
 nvtnet.com
 nvtongzhisheng.org
@@ -102105,6 +102105,7 @@ rnybul.gismeteo.ru
 rnzi.com
 ro-wo.com
 ro.heip.eu.org
+ro.lt
 ro2.heip.eu.org
 ro89.com
 road-crew.com

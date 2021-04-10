@@ -15885,6 +15885,7 @@ count.wk2.com
 count.xxxssk.com
 count10.51yes.com
 count11.51yes.com
+count12.51yes.com
 count14.51yes.com
 count15.51yes.com
 count16.51yes.com
@@ -17425,7 +17426,6 @@ dbytwl.com
 dbzgia.com
 dbzyz.com
 dc-cn.com
-dc.ads.linkedin.com
 dc.chillyroom.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -19389,7 +19389,6 @@ dyj.cc
 dyjqd.com
 dylc.com
 dyly.com
-dymr697.top
 dyn.ithome.com
 dynacw.com.cn
 dynamic.t0.tiles.ditu.live.com
@@ -26154,6 +26153,7 @@ hk-myungga.net
 hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
+hk.pool.ntp.org
 hk515.net
 hkaco.com
 hkance.com

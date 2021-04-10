@@ -8320,7 +8320,6 @@ api.portal.swjsq.vip.xunlei.com
 api.pr.weixin.qq.com
 api.qianwee.com
 api.qvpublish.com
-api.samsungcloud.com
 api.samsungcloudcn.com
 api.sdk.fmobi.cn
 api.sec.miui.com
@@ -30835,6 +30834,7 @@ jindian120.com
 jindianweb.com
 jindidata.com
 jindingfm.com
+jindingmucai.com
 jindun007.net
 jindunfan.com
 jinduoduo.net
@@ -33447,7 +33447,6 @@ l8.tcdnlive.com
 l9.tcdnlive.com
 la-mo.com
 la.gtimg.com
-laahaa.com
 lab.alipay.com
 labagd.com
 labahao.com

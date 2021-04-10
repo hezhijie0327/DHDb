@@ -9877,7 +9877,6 @@ api.fosshub.com
 api.freewebfonts.org
 api.g.micloud.xiaomi.net
 api.gameofwhales.com
-api.geetest.com
 api.gimbal.com
 api.github.com
 api.grumft.com
@@ -11892,7 +11891,6 @@ baidulook.com
 baiduonce.com
 baidusemer.com
 baidut.github.io
-baiduv.com
 baiduvv.com
 baiduyiyi.com
 baiduyun.me
@@ -26345,6 +26343,7 @@ emgog.com
 emgwq.com
 emily.nimiq-network.com
 emilylau.org.hk
+emiqu.com
 emisja.contentstream.pl
 emlakjet.com
 emlakkulisi.com
@@ -46385,6 +46384,7 @@ mgts.by
 mgtvzy2.com
 mgzhibo.com
 mh1.zhengdongwuye.cn
+mh160.co
 mh160.xyz
 mh23.cf
 mhao123.com

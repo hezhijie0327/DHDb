@@ -8495,6 +8495,7 @@ app.aplus.pptv.com
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.duxiaoman.com
 app.gsxt.gov.cn
 app.hnzycfc.com

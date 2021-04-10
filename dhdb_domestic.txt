@@ -20380,7 +20380,6 @@ eo.hdschw.cn
 eoeandroid.com
 eoemarket.com
 eoffcn.com
-eoffice-mart.com
 eoivisa.com
 eol.cn
 eol8.com
@@ -24846,6 +24845,7 @@ haitaocheng.com
 haitaoit.com
 haitaoj.com
 haitaolab.com
+haitaoseo.com
 haitaozu.org
 haitianhome.com
 haitl.com
@@ -27782,6 +27782,7 @@ i.tddmp.com
 i.ulmdb.cn
 i.vip.iqiyi.com
 i.w.inmobi.cn
+i.w.inmobi.com
 i.waimai.meituan.com
 i.wuhaolin.cn
 i.xdywlw.cn
@@ -31960,7 +31961,6 @@ junshis.com
 junshishu.com
 junsz.com
 juntongtian.com
-juntx.com
 junwei1000.com
 junwu262.com
 junyao.tech
@@ -45962,7 +45962,6 @@ securepubads.g.doubleclick.net
 security-lq.snssdk.com
 security-v6.ias.tencent-cloud.net
 security.bilibili.com
-security.browser.miui.com
 security.gome.com.cn
 security.iqiyi.com
 security.sparta.mig.tencent-cloud.net

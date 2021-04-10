@@ -607,7 +607,6 @@
 1.92caijing.com
 1.aili.com
 1.arpun.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
 1.cn.pool.ntp.org
@@ -4550,6 +4549,7 @@
 70202v.com
 703804.com
 704cb5c0daa27477178a66285d1e65a2.safeframe.googlesyndication.com
+70689.com
 706kj.com
 707377m.com
 7080edu.com
@@ -5749,6 +5749,7 @@
 985.so
 985college.com
 985gm.com
+985sy.com
 98654.com
 9870n.com
 987app.com
@@ -16041,6 +16042,7 @@ cqbnrc.com
 cqbyer.net
 cqbys.com
 cqcaee.com
+cqcar.org
 cqcatr.com
 cqcb.com
 cqcbank.com

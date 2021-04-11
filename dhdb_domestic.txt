@@ -11800,6 +11800,7 @@ c.y.qq.com
 c.yanyanbiji.com
 c.yes.youku.com
 c.youdao.com
+c.yunnanpulasi.com
 c.zlongad.com
 c0.3.cn
 c0.3.cn.gslb.qianxun.com
@@ -14968,7 +14969,6 @@ cn.bidushe.com
 cn.img.stb.s-msn.com
 cn.innity-asia.com
 cn.made-in-china.com
-cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.pandora.net
 cn.pool.ntp.org
@@ -24295,6 +24295,7 @@ guqiu.com
 guqu.net
 gurd.snssdk.com
 gurd.snssdk.com.w.cdngslb.com
+gushequ.com
 gushfx.com
 gushi.com
 gushiciju.com
@@ -27620,7 +27621,6 @@ hytera.com
 hytic.net
 hytscv6.tcdn.qq.com
 hyundai-hmtc.com
-hyundaibeijing.com
 hyyazhaji.com
 hyyf.net
 hyyic.com
@@ -32819,6 +32819,7 @@ kk50.com
 kk520.com
 kkapp.com
 kkcache.com
+kkcaicai.com
 kkcapture.com
 kkcodes.com
 kkcoo.com
@@ -33583,7 +33584,6 @@ langren8.com
 langtaojin.com
 langtze.com
 languangdy.com
-langyuekt.com
 langyuseo.com
 langzi.fun
 lanhaicaijing.com

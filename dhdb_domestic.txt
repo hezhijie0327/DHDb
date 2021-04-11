@@ -5339,7 +5339,6 @@
 910app.com
 910play.com
 91160.com
-911pop.com
 912688.com
 912k.com
 912yx.com
@@ -6341,6 +6340,7 @@ acgzc.com
 acgzone.net
 aciml.com
 acing.com
+acingame.com
 acjs.aliyun.com
 acjw.net
 acmcoder.com
@@ -14972,6 +14972,7 @@ cn.bidushe.com
 cn.img.stb.s-msn.com
 cn.innity-asia.com
 cn.made-in-china.com
+cn.man484.com
 cn.mvconf.50union.com
 cn.pandora.net
 cn.pool.ntp.org
@@ -27012,6 +27013,7 @@ huanmusic.com
 huanpingge.com
 huanqiu.com
 huanqiuauto.com
+huanqiubbs.com
 huanqiukexue.com
 huanqiuyimin.com
 huanqu-tec.com

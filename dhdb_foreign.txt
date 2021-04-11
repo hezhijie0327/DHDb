@@ -5896,7 +5896,6 @@ ad.filmweb.pl
 ad.flipboard.com
 ad.floq.jp
 ad.flurry.com
-ad.fo.net
 ad.foxnetworks.com
 ad.freecity.de
 ad.funp.com
@@ -6034,7 +6033,6 @@ ad.publicidees.com
 ad.r.worldssl.net
 ad.reachlocal.com
 ad.referencement.01net.com
-ad.reklam.xyz
 ad.reklamport.com
 ad.repubblica.it
 ad.reunion.com
@@ -34389,7 +34387,6 @@ hkwesi2.xyz
 hkwesi22.xyz
 hkwesi22222.xyz
 hkwesi5.xyz
-hkwesi66.xyz
 hkwesi666.xyz
 hkwesi6666.xyz
 hkwesi66666.xyz
@@ -38859,7 +38856,6 @@ jiaji28.net
 jiajiao-edu.com
 jiaju100.com
 jialidun.com
-jiamengfei.com
 jianada-qianzheng.com
 jianbaimei.com
 jianbangjiaoyu.com
@@ -39373,7 +39369,6 @@ jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
 jqgcw.com
-jqpress.com
 jqrzhijia.com
 jqsite.com
 jquery-uim.download
@@ -44758,7 +44753,6 @@ marquardmedia.hu
 marriott.com
 marriottvacationclub.com
 marry.vn
-mars-droid.com
 marsbar.org.uk
 marsflag.com
 marshal.com

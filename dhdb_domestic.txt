@@ -24653,7 +24653,6 @@ h07.hxsame.hexun.com
 h0758.net
 h08.hxsame.hexun.com
 h09.hxsame.hexun.com
-h0x.cn
 h1.cfxinxi.cn
 h1.kukuw.com
 h10.hxsame.hexun.com
@@ -40230,7 +40229,6 @@ openrcv.baidu.com
 openredcloud.com
 openresty.org
 opensc.co
-opensc.xyz
 openserviceauth.ctrip.com
 openspeech.cn
 openstorage.ad.cmvideo.cn

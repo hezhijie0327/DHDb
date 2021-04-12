@@ -976,6 +976,7 @@
 16lo.com
 16maple.com
 16ppp.net
+16sucai.com
 16tz.com
 16xz.com
 16yyy.net
@@ -2514,6 +2515,7 @@
 40-courier.push.apple.com
 40.courier-push-apple.com.akadns.net
 4000279920.com
+4000600534.com
 4001006.com
 4006138024.com
 40066hg.com
@@ -10923,7 +10925,6 @@ asia.marketo.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
-asia.pool.ntp.org
 asia.roaming1.live.com.akadns.net
 asia1.ocws1.live.com.akadns.net
 asia2.roaming1.live.com.akadns.net
@@ -53616,7 +53617,6 @@ personaltrainermath.com
 personalvpn.com
 persosa.com
 peru.subventas.com
-peryi.net
 pes20-x64-gate.cs.konami.net
 pes9.changeip.net
 pescuitladunare.ro
@@ -60018,6 +60018,7 @@ sec-autumn.net.daraz.com
 sec-wiki.com
 secbug.org
 secby.me
+seccionamarilla.com.mx
 secimage.adtech.fr
 secimage.adtech.us
 secmetrics.bkb.ch

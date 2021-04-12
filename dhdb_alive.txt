@@ -33965,7 +33965,6 @@ cms.ucweb.com
 cms.v5.juzi.cn
 cms1924.org
 cmsa.com.ar
-cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmschina.com
@@ -70936,6 +70935,7 @@ js.idgdmgroup.com.cn
 js.jianbaimei.com
 js.jianbihuadq.com
 js.kiwihk.net
+js.kuxinqi.com
 js.lovexia.top
 js.mbaidu.top
 js.medi-8.net
@@ -72586,7 +72586,6 @@ kdroid.club
 kdroid.org
 kds.media
 kdslife.com
-kdslife.net
 kdspjx.com
 kdt.im
 kdued.com

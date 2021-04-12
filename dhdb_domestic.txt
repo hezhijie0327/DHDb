@@ -608,7 +608,6 @@
 1.arpun.com
 1.bashenghuo.com
 1.cjcp.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -8514,6 +8513,7 @@ app.jiuzhilan.com
 app.juwang.com
 app.kwaixiaodian.com
 app.lz55.cn
+app.market.xiaomi.com
 app.mi.com
 app.moji001.com
 app.nasyun.com
@@ -23468,6 +23468,7 @@ glamourred.com
 glanimaltrade.com
 glanu.com
 glawyer.net
+glb.assrt.net
 glbdqn.com
 glcanyin.net
 glcct.com

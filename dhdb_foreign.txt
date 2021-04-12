@@ -1496,6 +1496,7 @@
 22.info.tm
 22.jetos.com
 22.jezets.com
+22.now-ip.net
 22.qingsongbar.com
 22.suroot.com
 22.t28.net
@@ -1643,7 +1644,6 @@
 24206963-482871331770994218.preview.editmysite.com
 2421js.com
 244kk.com
-24538.com
 2455000.com
 246.etowns.org
 246.ocry.com
@@ -8144,7 +8144,6 @@ ahmia.fi
 ahmmarketing.com
 ahoeab.org
 ahpcare.com
-ahqnrc.com
 ahrcty.com
 ahri-plus.com
 ahri.biz
@@ -10928,6 +10927,7 @@ asia.marketo.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
+asia.pool.ntp.org
 asia.roaming1.live.com.akadns.net
 asia1.ocws1.live.com.akadns.net
 asia2.roaming1.live.com.akadns.net
@@ -43949,7 +43949,6 @@ m.zkwsdf.com
 m.zowmgxpz.cn
 m.zwda.com
 m.zwdu.com
-m090909.com
 m1.extrutor.org
 m1.fwmrm.net
 m1.jiasudu666.com

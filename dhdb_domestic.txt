@@ -8225,7 +8225,6 @@ api.bd-gl.com
 api.bigfun.cn
 api.bilibili.com
 api.biligame.com
-api.browser.miui.com
 api.bs.zui.com
 api.btstu.cn
 api.bz
@@ -25350,6 +25349,7 @@ hbjzzx.com
 hbkqw.com
 hbksw.com
 hbky.com
+hblady.com
 hblccy.com
 hbliti.com
 hblszq.com
@@ -28540,7 +28540,6 @@ ijxkj.com
 ijzhang.com
 ik123.com
 ik3cloud.com
-ikacc.com
 ikafan.com
 ikaixun.com
 ikaka.com
@@ -28974,7 +28973,6 @@ imgcache.gtimg.cn
 imgcache.gtimg.cn.x2s-dstack.sched.dcloudstc.com
 imgcache.qq.com
 imgcdn.cp63.ott.cibntv.net
-imgcdn.mazaibang.com
 imgcdn.scol.com.cn
 imgcdn.wapx.cn
 imgcom.static.suishenyun.net
@@ -42181,7 +42179,6 @@ profile.csdnimg.cn
 profile.intelligent.popcap.com.cn
 proginn.com
 programfan.com
-programschool.com
 programtrader.net
 progressingeography.com
 prohui.com
@@ -44088,6 +44085,7 @@ r-bride.com
 r-tms.net
 r.99waiyu.com
 r.alimc1.top
+r.browser.miui.com
 r.bxb.oupeng.com
 r.djsn888.com
 r.dmp.sina.cn

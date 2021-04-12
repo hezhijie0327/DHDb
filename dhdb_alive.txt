@@ -3874,7 +3874,6 @@
 27yx.com
 28-courier.push.apple.com
 28.courier-push-apple.com.akadns.net
-28.etowns.net
 28.flnet.org
 28.slyip.net
 2800.so
@@ -34129,6 +34128,7 @@ cn.thegay.com
 cn.uncyclopedia.wikia.com
 cn.uptodown.com
 cn.v2ex.com
+cn.vc
 cn.venetianmacao.com
 cn.venetianmacau.com
 cn.voice.gcloudcs.com
@@ -79034,6 +79034,7 @@ lztx123.com
 lzvw.com
 lzw.me
 lzwifi.com
+lzxdly.com
 lzxgo.com
 lzydjy.com
 lzyun.vip
@@ -79683,7 +79684,6 @@ m9o.net
 ma-adx.ctrip.com
 ma-china.com
 ma.5.p2l.info
-ma.alvexo.com
 ma.globalhma.com
 ma.hao123.com
 ma.meritmind.se
@@ -98675,7 +98675,6 @@ qdds.net
 qde.chinaqirun.cn
 qdfuns.com
 qdgege.com
-qdgw.com
 qdgxzg.com
 qdhantang.com
 qdhedu.com

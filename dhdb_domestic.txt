@@ -8211,7 +8211,6 @@ api-unionid.meituan.com
 api-web-game-ssl.xunlei.com
 api-xl9-ssl.xunlei.com
 api-z.weidian.com
-api-zdj.com
 api.186078.com
 api.1sapp.com
 api.22lianmeng.com
@@ -41782,6 +41781,7 @@ piworker.com
 pixelauth.com
 pixhey.com
 pixivacg.com
+pixivic.com
 piyingke.com
 piyipiba.com
 pj-road.com

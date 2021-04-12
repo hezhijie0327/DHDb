@@ -953,7 +953,6 @@
 168393.com
 1684.cc
 1684sm.com
-1686110.com
 1686607364.rsc.cdn77.org
 1688.com.au
 168801.net
@@ -39589,7 +39588,6 @@ jrecchina.com
 jria.jpn.com
 jrkan.cc
 jrklein.com
-jrlady.com
 jrpt.jrptweb.org
 jrsef.com
 jrsnba.com
@@ -54757,6 +54755,7 @@ pool.graft.hashvault.pro
 pool.minexmr.com
 pool.nimiq-network.com
 pool.nimiq.watch
+pool.ntp.org
 pool.supportxmr.com
 pool.tdcoincore.org
 pool.torrent.pw

@@ -9969,7 +9969,6 @@ api.insight.synology.com
 api.instabug.com
 api.intentiq.com
 api.intercom.io
-api.iplay.163.com
 api.kiip.me
 api.linkgist.com
 api.mapbox.com
@@ -11969,7 +11968,6 @@ baidu.jp
 baidu.masonic-lodge.ca
 baidu.swmbudokan.com
 baidu.tlssyg.com
-baidu1.com
 baidu123.com
 baiduc.com
 baiduhua.com
@@ -24844,7 +24842,6 @@ duoyoumi.com
 dup2.org
 duping.net
 duplicati.com
-dupola.net
 durasite.net
 durex-shop.ch
 durex-shopline.com

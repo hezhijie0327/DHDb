@@ -1013,7 +1013,6 @@
 1.aili.com
 1.ajiyuming.com
 1.arpun.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bb6688.ws
 1.bh5.com.cn
@@ -63352,7 +63351,6 @@ i.w55c.net
 i.waimai.meituan.com
 i.wuhaolin.cn
 i.wuw.red
-i.xdywlw.cn
 i.xunlei.com
 i.y.qq.com
 i.youdao.com
@@ -84848,7 +84846,6 @@ mo.oneshouyou.cn
 mo.qitouch.cn
 mo.res.wpscdn.cn
 mo.test.haloapps.com
-mo.zdceaa.cn
 mo298.com
 mo2g.com
 moad.cn
@@ -95993,7 +95990,6 @@ plos.org
 plotcup.com
 plotzn.apmex.com
 ploy.batmobi.net
-plpeng.xin
 pls.indiemakers.fr
 plsmspx.com
 plsub.com

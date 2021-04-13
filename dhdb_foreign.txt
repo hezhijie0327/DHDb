@@ -6333,7 +6333,6 @@ add.f5haber.com
 add.newmedia.cz
 addelivery.thestreet.com
 addevent.com
-addictedtocoffee.de
 addictiongwas.com
 addie.verticalnetwork.de
 addirector.vindicosuite.com
@@ -8983,6 +8982,7 @@ americanthinker.com
 americanunfinished.com
 americasvoice.news
 americnaas.com.br
+americorps.gov
 amerikaninsesi.com
 amerikaninsesi.org
 amerikaovozi.com
@@ -10923,6 +10923,7 @@ asia.marketo.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
+asia.pool.ntp.org
 asia.roaming1.live.com.akadns.net
 asia1.ocws1.live.com.akadns.net
 asia2.roaming1.live.com.akadns.net
@@ -32843,6 +32844,7 @@ gsp.target.com
 gsp10-ssl.apple.com
 gsp10-ssl.ls-apple.com.akadns.net
 gsp10-ssl.ls.apple.com
+gsp11-cn.ls.apple.com
 gsp13-cn.ls.apple.com
 gsp4-cn.ls.apple.com
 gsp4-cn.ls.apple.com.edgekey.net
@@ -40329,6 +40331,7 @@ kdzs123.com
 ke2.fengherili.cc
 ke86.com
 keaitupian.com
+kearney.cn
 kebhana.mx
 kebingzao.com
 kebrum.com

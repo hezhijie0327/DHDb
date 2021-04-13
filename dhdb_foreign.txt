@@ -9970,6 +9970,7 @@ api.insight.synology.com
 api.instabug.com
 api.intentiq.com
 api.intercom.io
+api.iplay.163.com
 api.kiip.me
 api.linkgist.com
 api.mapbox.com
@@ -15577,7 +15578,6 @@ btcbank.bank
 btcbox.co.jp
 btcc.com
 btcchina.com
-btcha.com
 btcherry.net
 btckan.com
 btcside.com
@@ -19952,7 +19952,6 @@ computershare.com
 computeruniverse.net
 computerworld.pl
 computing.net
-computingreviews.com
 computrain.nl
 comscoreresearch.com
 comseoer.com
@@ -38285,7 +38284,6 @@ itgetsbetter.org
 itgonglun.com
 ithacajournal.com
 ithaka.org
-ithao123.com
 ithat.net
 ithelei.com
 ithelp.ithome.com.tw
@@ -39068,7 +39066,6 @@ jiaofenw.com
 jiaoshou.com
 jiaoshouwang.com
 jiaosm.com
-jiaoyiwu.cc
 jiaoyou8.com
 jiapujidi.com
 jiasale.com
@@ -59870,6 +59867,7 @@ sdkbox.com
 sdkconfig.ad.intl.xiaomi.com
 sdks.stats-locations.com
 sdl.com
+sdlc6.com
 sdlmaf.bestsecret.at
 sdlocw.com
 sdmyzsgs.com

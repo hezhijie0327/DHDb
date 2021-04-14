@@ -3301,6 +3301,7 @@
 51hangkong.com
 51haofu.com
 51haojob.com
+51hcb.com
 51hch.com
 51hchc.com
 51hcie.com
@@ -8149,6 +8150,7 @@ apgblogs.com
 apgoview.com
 aphidic.com
 api-access.pangolin-sdk-toutiao-b.com
+api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
 api-ad.kajicam.com
 api-ads.tiantianqutao.com
@@ -18507,7 +18509,6 @@ dns567.com
 dns800.com
 dnsapi.cn
 dnscnc.com
-dnsddos.com
 dnsdiy.com
 dnsfang.com
 dnsff.com
@@ -23163,6 +23164,7 @@ geshui.com
 geshui100.com
 geshuishuilvbiao2017.com
 gesuo.com
+get.sogou.com
 get.vip
 get233.com
 getbingo.net

@@ -1577,7 +1577,6 @@
 23.courier-push-apple.com.akadns.net
 23.my03.com
 23.us.freewww.biz
-23066.com
 230tm.com
 231122.com
 232485.com
@@ -28217,6 +28216,7 @@ fanucamerica.com
 fanwen.5article.com
 fanxiang.com
 fanxiangds.com
+fanxihui.com
 fanyeong.com
 fanyi.baiud.com
 fanyi.com
@@ -39579,6 +39579,7 @@ js.bckrono.cn
 js.blozoo.info
 js.brow.si
 js.bulkhentai.com
+js.daxueshengqiandai.com
 js.dilidd.com
 js.dkqapp.cn
 js.fc090.com

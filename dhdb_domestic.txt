@@ -1761,7 +1761,6 @@
 2.arpun.com
 2.bashenghuo.com
 2.haoxue360.com
-2.letvlive.com
 2.nanrenwo.net
 2.tuxi.com.cn
 2.up.qingdaonews.com
@@ -2829,7 +2828,6 @@
 3vjia.com
 3vlm.net
 3vsheji.com
-3wap.cc
 3wcoffee.com
 3wfocus.com
 3wmm.com
@@ -37627,6 +37625,7 @@ mmg.aty.snmsohu.aisee.tv
 mmg.aty.sohu.com
 mmgame.qpic.cn
 mmgl.net
+mmgogo.com
 mmia.com
 mmicloud.com
 mmloo.com
@@ -40701,7 +40700,6 @@ p31-keyvalueservice.icloud.com.cn
 p31-quota.icloud.com.cn
 p31-sharedstreams.icloud.com.cn
 p31-streams.icloud.com.cn
-p31.net
 p3633.com
 p3k3.com
 p3p.mmstat.com

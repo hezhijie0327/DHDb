@@ -2771,7 +2771,6 @@
 500boss.com
 500ish.com
 500px.com
-500px.pro
 500week.com
 50104.calaxtv.com
 50104.coolxtv.com
@@ -3156,6 +3155,7 @@
 54hei.com
 54im.com
 54new.com
+54share.com
 54tf.com
 54tushu.com
 54up.net
@@ -16136,6 +16136,7 @@ bywave.io
 byxtv.com
 byzhihuo.com
 bz-berlin.de
+bz.igg.biz
 bzdao.com
 bzfhw.bar
 bzgame.cc
@@ -19480,6 +19481,7 @@ cnuuu.com
 cnvcs.com
 cnvf.com
 cnvoice.herokuapp.com
+cnvr-expo.com
 cnvultr.com
 cnw.cz
 cnwdsy.com
@@ -32925,6 +32927,7 @@ guangxiyou.com
 guangyuai.com
 guanjianfeng.com
 guanli66.com
+guanliyuan.org
 guannin.com
 guanplus.com
 guanqifeier.com
@@ -35228,6 +35231,7 @@ htrnews.com
 htt5.com
 http3check.net
 httpbaidu.com
+httpdns.push.heytapmobi.com
 httpdns.push.oppomobile.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com

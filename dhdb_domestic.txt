@@ -14966,7 +14966,6 @@ cn.img.stb.s-msn.com
 cn.innity-asia.com
 cn.made-in-china.com
 cn.man484.com
-cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.pandora.net
 cn.pool.ntp.org
@@ -30431,7 +30430,6 @@ jfuwu.com
 jfyiyao.com
 jfz.com
 jfzhiyao.com
-jfzkchina.com
 jg.wensixuetang.com
 jgaoxiao.com
 jgcqgf.com
@@ -33842,6 +33840,7 @@ lczyy.com
 ld.kuaigames.com
 ld0766.com
 ld12366.com
+ld246.com
 ldcang.com
 lddengine.com
 lddgo.net

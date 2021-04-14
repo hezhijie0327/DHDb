@@ -2,6 +2,7 @@
 0-gold.net
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -13565,7 +13566,6 @@ bigfile.to
 bigfilmproduction.com
 bigfishgames.com
 bigfoot.com
-bigfoot1942.sektori.org
 biggerboat.com
 biggestplayer.cachefly.net
 biggestproblemintheuniverse.com
@@ -32508,7 +32508,6 @@ gopivotal.com
 gopivotal.net
 gopojie.net
 goprovidence.com
-goproxing.com
 goproxing.net
 gordonmoore.com
 goregrish.com
@@ -42412,6 +42411,7 @@ linruanwangluo.com
 lint2.com
 linternaute.com
 linternaute.fr
+lintk.me
 linux.org
 linux.org.hk
 linux.se
@@ -44429,6 +44429,7 @@ mannes.tech
 mannkit.com
 mannmithuttouren.de
 manongjc.com
+manongzj.com
 manorama.com
 manoramanews.com
 manoramaonline.com
@@ -58699,7 +58700,6 @@ s1.intimshop.ru
 s1.kuaibaopay.com
 s1.leshi123.cc
 s1.longs1.vip
-s1.qiqutt.cn
 s1.qiqutt.com
 s1.s8tu.com
 s1.subaru.com
@@ -58985,6 +58985,7 @@ safe-installation.com
 safe-store-md.com
 safe.hyperpaysys.com
 safe.nimiq.com
+safe.ucweb.com
 safecart.com
 safechat.com
 safecloud.cc

@@ -2,7 +2,6 @@
 0-gold.net
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -3758,7 +3757,6 @@
 6tj.com
 6travel.com
 6up.com
-6vdy.com
 6vhao.tv
 6waves.com
 6xigema.com
@@ -18525,6 +18523,7 @@ chuanxincao.net
 chuanyi5.com
 chubold.com
 chucaiyun.cn
+chuchuguwen.com
 chudaoyou.com
 chuguo78.com
 chuguofeng.com
@@ -22142,7 +22141,6 @@ dailytopdealz.com
 dailyvideo.securejoin.com
 dailyview.tw
 dailyworld.com
-daima.diaoben.net
 daima.jiduan.cc
 daima.youbian.com
 daima1.18tzx.com

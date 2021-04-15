@@ -8248,7 +8248,6 @@ api.exc.mob.com
 api.fc.mob.com
 api.fd.mob.com
 api.game.letvstore.com
-api.gameanalytics.com
 api.gi.igexin.com
 api.growingio.com
 api.hanju.koudaibaobao.com
@@ -18162,7 +18161,6 @@ display.adhudong.com
 ditan360.com
 ditan369.com
 ditiewang.net
-ditiezu.com
 ditiezu.net
 dituge.com
 dituhui.com
@@ -45962,7 +45960,6 @@ searchrecterm.kuwo.cn
 searchtb.com
 seasouthgy.com
 seassoon.com
-seasungame.com
 seavo.com
 seayee.com
 sebastianblade.com

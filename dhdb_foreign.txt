@@ -9968,6 +9968,7 @@ api.atdmt.com
 api.bailingjiankang.com
 api.bitp.it
 api.breezip.com
+api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.cazamba.com
@@ -22168,7 +22169,6 @@ dah0wv79ikn14.cloudfront.net
 dahanwl.com
 dahsing.com
 dahua02.com
-dahuangcheng.cn
 dahuatech.cc
 dahuoji.biz
 dai.ly
@@ -38405,6 +38405,7 @@ isuike.com
 isummi.com
 isunaffairs.com
 isuntv.com
+isux.us
 isuzu.actonservice.com
 isvee.com
 it-bound.com
@@ -56712,7 +56713,6 @@ qinchu123.com
 qing-hei.com
 qingchu.com
 qingdao111.com
-qingdaopc.com
 qingdou.net
 qingfuzaixian.com
 qinghua2017.com

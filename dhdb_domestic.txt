@@ -3527,6 +3527,7 @@
 51wendang.com
 51wincai.com
 51windows.net
+51wj.com
 51wjrc.com
 51wm-pic1.oss-cn-hangzhou.aliyuncs.com
 51wm-pic1.oss-cn-hangzhou.aliyuncs.com.gds.alibabadns.com
@@ -5021,6 +5022,7 @@
 82326999.com
 82335966.com
 82341.com
+8246.net
 8264.com
 826wan.com
 8289880.com
@@ -8175,6 +8177,7 @@ api-map03.meituan.com
 api-mayi.django.t.taobao.com
 api-mcp.adsp.xunlei.com
 api-pan.xunlei.com
+api-pricetag.dmall.com
 api-push.meizu.com
 api-sc.wtzw.com
 api-service.chanmama.com
@@ -18746,6 +18749,7 @@ doudou911.com
 doudouba.com
 doudoubianli.com
 doudoubird.com
+doudouyin.com
 doufan.tv
 doufl.com
 doufm.net
@@ -24706,6 +24710,7 @@ h5.weishi.qq.com
 h5.xiaolianhb.com
 h5.zuimeitianqi.com
 h5595.net
+h5aiwan.com
 h5anli.com
 h5api.m.taobao.com
 h5api.m.tmall.com

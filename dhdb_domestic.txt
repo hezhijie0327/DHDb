@@ -41146,6 +41146,7 @@ pcgta.cc
 pch.qpic.cn
 pchome.com
 pchome.net
+pcidata.cn
 pciiss.com
 pcitc.com
 pclog.dftoutiao.com
@@ -43291,6 +43292,7 @@ qingmob.com
 qingnianlvxing.com
 qingqikeji.com
 qingqin.com
+qingquwu.net
 qingrenw.com
 qingruanit.net
 qingshow.net
@@ -44076,6 +44078,7 @@ qysd.net
 qysfl.com
 qyt1902.com
 qytdesign.com
+qytxhy.com
 qyunz.com
 qyvqg.com
 qyxan15a.v1d.szbdyd.com
@@ -44365,6 +44368,7 @@ redianyule.com
 redianzixun.com
 redicecn.com
 redidc.com
+redirect.networkbench.com
 redirect.pandora.xiaomi.com
 redirect.simba.taobao.com
 redirector.googlevideo.com
@@ -45503,6 +45507,7 @@ sanweimoxing.com
 sanweiyiti.org
 sanwen.com
 sanwen.net
+sanxia-china.com
 sanxiamarathon.com
 sanxiapharm.com
 sanxige.com
@@ -46072,6 +46077,7 @@ selfstudyroom-course.cdn.bcebos.com
 selinuxplus.com
 sell1.etlong.com
 sellingexpress.net
+selypan.com
 sem123.com
 semgg.com
 semidata.info
@@ -46825,6 +46831,7 @@ shinycg.com
 shinyway.org
 shiove.com
 ship56.net
+shipfinder.com
 shipgce.com
 shiphr.com
 shipsc.org
@@ -50673,6 +50680,7 @@ themee.cn
 thenburn.com
 theorychina.org
 thepaper.cn
+thermofisher.cn
 theta.sogou.com
 theta.sogoucdn.com
 thetestpage.39.net
@@ -53749,6 +53757,7 @@ virtualevent.net
 virusdefender.net
 visa800.com
 visabao.com
+visacits.com
 visajz.com
 visas.to
 visbodyfit.com
@@ -56714,6 +56723,7 @@ www.xcar.com.cn
 www.xdsisu.edu.cn
 www.xdwww.cn
 www.xf623.com
+www.xf636.com
 www.xiami.com
 www.xianchawang.com
 www.xiaobaipan.com
@@ -57216,6 +57226,7 @@ xf3z.com
 xf4hs.com
 xf5z.com
 xf623.com
+xf636.com
 xfabs.com
 xfannix.com
 xfb315.com
@@ -57507,6 +57518,7 @@ xiaoheiban.cn
 xiaoheima.com
 xiaohexie.com
 xiaohongchun.com
+xiaohongdian.wang
 xiaohongshu.com
 xiaohuabaichu.com
 xiaohuai.com
@@ -57651,6 +57663,7 @@ xiaoxiaomo.com
 xiaoxiaotong.org
 xiaoxiaozi.com
 xiaoxichangliu.com
+xiaoxicloud.com
 xiaoxineye.com
 xiaoxinrili.com
 xiaoxintoutiao.com
@@ -57694,6 +57707,7 @@ xiaozhu.com
 xiaozhu2.com
 xiaozhua.com
 xiaozhuanlan.com
+xiaozhuseo.com
 xiaozhustatic1.com
 xiaozhustatic2.com
 xiaozhustatic3.com
@@ -57892,6 +57906,7 @@ xingpan.com
 xingpin.com
 xingqiu.tv
 xingren.com
+xingrongn.com
 xingse.net
 xingseapp.com
 xingshangnet.com
@@ -58240,6 +58255,7 @@ xjtudlc.com
 xjwljb.com
 xjwyglw.com
 xjxbx.com
+xjxmtc.com
 xjxy.com
 xjy415.net
 xjytjt.com
@@ -58866,6 +58882,7 @@ xxxlbox.com
 xxxmeng.com
 xxxxxbbs.com
 xxxzzlm.org
+xxyo.com
 xxzdpf.com
 xxzfgjj.com
 xxzhushou.com
@@ -60141,6 +60158,7 @@ yabolive.com
 yaboor.com
 yac8.com
 yac8.net
+yadashi.com
 yadgen.com
 yadian666.com
 yadingtour.com
@@ -60617,6 +60635,7 @@ yhcqw.com
 yhd.com
 yhdm.io
 yhdm.tv
+yhdm5.com
 yhdtns.com
 yhetent.com
 yhfund.com.cn
@@ -60830,6 +60849,7 @@ yimihaodi.com
 yimikf.com
 yimin.biz
 yimin168.com
+yimincaifu.com
 yiminchaoshi.com
 yimingzhi.net
 yimininfo.com
@@ -61873,6 +61893,7 @@ yuchu3d.com
 yuchuantech.com
 yucoolgame.com
 yudaocha.com
+yudi.com
 yudianda.com
 yudiangame.vip
 yudouyudou.com
@@ -61906,6 +61927,7 @@ yueloo.com
 yuelu.net
 yuelun.com
 yuemei.com
+yuenei.com
 yuenwooping-truelegend.com
 yuepaijia.com
 yueqi.com
@@ -61948,6 +61970,7 @@ yuguo.us
 yuguod.com
 yuheii.com
 yuheng.tech
+yuhou.com
 yuhuijob.com
 yuiapi.com
 yuike.com
@@ -62289,6 +62312,7 @@ yx1188.com
 yx129.com
 yx129.net
 yx5198.com
+yx7088.com
 yx8811.com
 yx8u.com
 yxbao.com
@@ -63221,6 +63245,7 @@ zhihe.mobi
 zhihemobi.com
 zhihengwangchen.com
 zhihone.com
+zhihu-analytics.zhihu.com
 zhihu-web-analytics.zhihu.com
 zhihu.com
 zhihu.sogou.com
@@ -63909,6 +63934,7 @@ zjjyuntian.com
 zjjzyxh.com
 zjk.preview.dingtalk.com
 zjkccb.com
+zjkelan.com
 zjkgjj.com
 zjknews.com
 zjkonline.com
@@ -63993,6 +64019,7 @@ zkteco.xin
 zktimecube.com
 zktw.com
 zku.net
+zkunet.com
 zkungfu.com
 zkuyun.com
 zkwsdf.com
@@ -64560,6 +64587,7 @@ zxt2007.com
 zxtang.com
 zxtnetwork.com
 zxtyonyou.com
+zxw114.com
 zxw51.com
 zxwcbj.com
 zxwyouxi.com

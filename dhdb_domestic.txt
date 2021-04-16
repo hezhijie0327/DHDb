@@ -11772,7 +11772,6 @@ c.nkzker.cn
 c.ns8d.com
 c.pc.qq.com
 c.pcs.baidu.com
-c.rexuebi.com
 c.saastt.com
 c.sayhi.360.cn
 c.shantelope.com
@@ -14971,6 +14970,7 @@ cn.bidushe.com
 cn.img.stb.s-msn.com
 cn.innity-asia.com
 cn.made-in-china.com
+cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.pandora.net
 cn.pool.ntp.org
@@ -26305,7 +26305,6 @@ hmplay.com
 hmsem.com
 hmsemi.com
 hmseo.net
-hmsxw.com
 hmting.com
 hmxw.com
 hmz.com
@@ -35634,7 +35633,6 @@ lwlog.laiwang.com
 lwork.com
 lwrcb.com
 lws.xuexi.cn
-lwtxw.com
 lwurl.to
 lwxgds.com
 lwxiaoshuo.com

@@ -19265,6 +19265,7 @@ apps.apple.com
 apps.bdimg.com
 apps.bdimg.jomodns.com
 apps.box.com
+apps.buzzcity.net
 apps.corel.com
 apps.evozi.com
 apps.exchange.autodesk.com
@@ -62840,7 +62841,6 @@ htracker2.zmzfile.com
 htracker3.zmzfile.com
 htracker4.zmzfile.com
 htracker5.zmzfile.com
-htranslate.com
 htrfid.com
 htrnews.com
 htsc.com
@@ -69970,6 +69970,7 @@ jdcq.net
 jdctky.com
 jdd.com
 jdd01.198game.net
+jddaw.com
 jddb.net
 jddglobal.com
 jddj.com
@@ -101471,7 +101472,6 @@ qq.co.za
 qq.com
 qq.do
 qq.guansenff.cn
-qq.irs01.com
 qq.net
 qq.ugcimg.cn
 qq.vvx.highter.top

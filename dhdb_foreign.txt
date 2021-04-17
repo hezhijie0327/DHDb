@@ -52878,6 +52878,7 @@ ocsp.comodoca.com
 ocsp.comodoca4.com
 ocsp.digicert.com
 ocsp.entrust.net
+ocsp.globalsign.com
 ocsp.godaddy.com
 ocsp.godaddy.com.akadns.net
 ocsp.int-x1.letsencrypt.org

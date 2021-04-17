@@ -3745,7 +3745,6 @@
 52pkvr.com
 52ppt.com
 52qixiang.com
-52qj.com
 52qmct.com
 52qqba.com
 52qudao.com
@@ -17193,6 +17192,7 @@ daoscript.org
 daotin.com
 daotudashi.com
 daovoice.io
+daoweijia.com
 daoxiangcun.com
 daoxila.com
 daoxila.net
@@ -39764,7 +39764,6 @@ ocsp.dcocsp.cn.w.kunlunar.com
 ocsp.digicert.cn
 ocsp.digicert.cn.w.cdngslb.com
 ocsp.pki.goog
-ocsp2.globalsign.com
 oct-and.com
 oct-cts.com
 oct-sh.com
@@ -41097,7 +41096,6 @@ pc6a.com
 pc9.com
 pcapi.douyucdn.cn
 pcaposter.com
-pcauto.irs01.com
 pcb-hl.com
 pcb3.com
 pcb818.com
@@ -43188,7 +43186,6 @@ qilecms.com
 qilindao.com
 qiling.org
 qilingames.com
-qilinlf.com
 qilinxuan.net
 qilong.com
 qiluhospital.com

@@ -4957,6 +4957,7 @@
 37job.net
 37k.com
 37med.com
+37pps.com
 37rj.com
 37tang.com
 37team.com
@@ -8774,7 +8775,6 @@
 78ten.com
 78xtv.com
 78yx.net
-790114.com
 7909.com
 7911k.app
 7940.com
@@ -19494,7 +19494,6 @@ archiveofourown.com
 archiveofourown.me
 archiveofourown.net
 archiveofourown.org
-archiveofourown.xyz
 archives.gov
 archives.gov.tw
 archlinux.org
@@ -31168,6 +31167,7 @@ ch999.com
 ch999img.com
 cha-tm.com
 cha086.com
+cha127.com
 chabeichong.com
 chacha.com
 chachaba.com
@@ -54855,7 +54855,6 @@ geekonsite.ca
 geekori.com
 geekotg.com
 geekpark.net
-geekpie.club
 geekpie.org
 geekproxy.com
 geekpwn.org
@@ -60540,7 +60539,6 @@ herringnetwork.com
 hervecuisine.com
 heryan.web.id
 hesey.net
-heshanwan.cn
 heshui.com
 hesti.org
 hetao101.com

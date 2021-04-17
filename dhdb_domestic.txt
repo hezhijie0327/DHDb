@@ -39780,6 +39780,7 @@ ocsp.dcocsp.cn.w.kunlunar.com
 ocsp.digicert.cn
 ocsp.digicert.cn.w.cdngslb.com
 ocsp.pki.goog
+ocsp2.globalsign.com
 oct-and.com
 oct-cts.com
 oct-sh.com

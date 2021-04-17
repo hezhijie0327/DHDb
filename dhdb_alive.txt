@@ -5347,7 +5347,6 @@
 4-courier.push.apple.com
 4-xiang.com
 4.every.info.tm
-4.pic.paopaoche.net
 4.up.qingdaonews.com
 40-courier.push.apple.com
 40.courier-push-apple.com.akadns.net
@@ -12605,7 +12604,6 @@ ad.nu
 ad.nwt.cz
 ad.obuy.tw
 ad.ohmyad.co
-ad.ohmynews.com
 ad.onliner.by
 ad.openmultimedia.biz
 ad.org.vn
@@ -59360,6 +59358,7 @@ hasee.com
 hasee.net
 hasegawa.jp
 hashbase.io
+hashcoding.net
 hashfish.net
 hashicorp.com
 hashnest.com

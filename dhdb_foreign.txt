@@ -10113,7 +10113,6 @@ api.fosshub.com
 api.freewebfonts.org
 api.g.micloud.xiaomi.net
 api.gameofwhales.com
-api.geetest.com
 api.gimbal.com
 api.github.com
 api.grumft.com
@@ -33923,6 +33922,7 @@ gunsamerica.com
 gunsandammo.com
 gunsnroses.com
 guo.media
+guoaso.com
 guobencoffee.com
 guofenz.com
 guohanlawfirm.com
@@ -44780,7 +44780,6 @@ lysol.net
 lyst.com
 lystrt.com
 lytning.xyz
-lyun.me
 lyv.com
 lyvnee.com
 lyxfra.shopee.com.my
@@ -57155,6 +57154,7 @@ programme-television.org
 programme-tv.net
 programmer.group
 programmer.help
+programschool.com
 programthinkmirror.com
 programthinkmirror.xyz
 progress.com

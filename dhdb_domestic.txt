@@ -12628,6 +12628,7 @@ cdn.img.liuxingyul.cn
 cdn.ishansong.com
 cdn.ishansong.com.m.alikunlun.com
 cdn.jesgoo.com
+cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.leakzero.com
 cdn.lu.sogoucdn.com
@@ -43301,7 +43302,6 @@ qiniutek.com
 qinlake.com
 qinms.com
 qinqiang.org
-qinqiaozixun.com
 qinqinxiaobao.com
 qinrenzhuanfa2.tiedan2019.com
 qinsmoon.com

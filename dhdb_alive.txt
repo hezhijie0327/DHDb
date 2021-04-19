@@ -17226,6 +17226,7 @@ analytics.nordea.fi
 analytics.nordea.no
 analytics.nordea.se
 analytics.oneplus.cn
+analytics.onesearch.id
 analytics.onlyonlinemarketing.com
 analytics.ooyala.com
 analytics.optilead.co.uk
@@ -25454,7 +25455,6 @@ blogebay.com
 bloger.wang
 blogfeng.com
 blogflux.com
-blogfshare.com
 blogg.se
 blogger.com
 blogger.googleblog.com
@@ -75930,7 +75930,6 @@ lantouzi.com
 lanuss.com
 lanxicy.com
 lanxinbase.com
-lanxingman.com
 lanxiniu.com
 lanxiongsports.com
 lanxum.com
@@ -97289,6 +97288,7 @@ pixiq.com
 pixiv.co.jp
 pixiv.net
 pixivacg.com
+pixivic.com
 pixivic.net
 pixnet.cc
 pixnet.in

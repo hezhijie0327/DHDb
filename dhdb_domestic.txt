@@ -1,6 +1,7 @@
 0-100.com
 0-6.com
 0.pic.paopaoche.net
+0.pool.ntp.org
 0.up.qingdaonews.com
 0006266.com
 0006999.com
@@ -29049,6 +29050,7 @@ imonitor.dhgate.com
 imooc.com
 imoocc.com
 imoodou.com
+imooo.com
 imopan.com
 imosi.com
 imotao.com

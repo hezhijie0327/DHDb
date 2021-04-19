@@ -10109,7 +10109,6 @@ api.gimbal.com
 api.github.com
 api.grumft.com
 api.hfyhjg.cn
-api.huangye.miui.com
 api.identitynow.com
 api.imqtyik.com
 api.infinario.com
@@ -14304,7 +14303,6 @@ bl-doujinsouko.com
 bl.wavecdn.de
 bl090.com
 bl5.cc
-bl8883.com
 blaaaa12.googlecode.com
 blablabla.pp.ua
 blablacar.com
@@ -36669,6 +36667,7 @@ hzuheh.palcloset.jp
 hzuok.com
 hzwyh.com
 hzxiangda.com
+hzyuanshan.com
 hzyuedu.com
 hzzsbbs.com
 i-1005.b-0.ad.bench.utorrent.com

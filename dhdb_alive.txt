@@ -11961,7 +11961,6 @@ acces-vod.com
 acces.streaming-direct.co
 access-moto.com
 access-oriental.com
-access.f3b.work
 access.hikaritv.net
 access.ly
 access.open.uc.cn
@@ -24832,6 +24831,7 @@ bjcec.com
 bjceis.com
 bjcfzx.com
 bjcgtrain.com
+bjcifco.net
 bjckkj.com
 bjcloud.net
 bjcls.net
@@ -57492,6 +57492,7 @@ gsp10-ssl-cn.ls.apple.com
 gsp10-ssl.apple.com
 gsp10-ssl.ls-apple.com.akadns.net
 gsp10-ssl.ls.apple.com
+gsp12-cn.ls.apple.com
 gsp13-cn.ls.apple.com
 gsp4-cn.ls.apple.com
 gsp4-cn.ls.apple.com.edgekey.net
@@ -71258,7 +71259,6 @@ jjecn.com
 jjfinder.com
 jjg630.com
 jjgirls.com
-jjgls.com
 jjhgame.com
 jjhh.com
 jjhuifu.com

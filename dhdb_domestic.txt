@@ -16750,6 +16750,7 @@ d.admx.baixing.com
 d.alicdn.com
 d.alicdn.com.w.cdngslb.com
 d.apgoview.com
+d.assrt.net
 d.beigedi.com
 d.bilibili.com
 d.cg
@@ -37101,7 +37102,6 @@ miaodiyun.com
 miaofaxian.com
 miaohealth.net
 miaokaiyun.com
-miaomiaojia.cc
 miaomiaoxue.com
 miaomiaoz.com
 miaomiaozhe.com
@@ -41657,6 +41657,7 @@ pinyuan.cc
 pinyuew.com
 pinzhikeji.net
 pinzs.com
+pioneercnc.net
 pioneerlinux.com
 pioneersci.com
 pipa.com

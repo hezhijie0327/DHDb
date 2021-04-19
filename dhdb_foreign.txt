@@ -680,6 +680,7 @@
 120fd.com
 120gz.com
 120v.ac
+120w.info
 120x.net
 1212u.com
 12203222.com
@@ -33723,6 +33724,7 @@ gsp10-ssl.apple.com
 gsp10-ssl.ls-apple.com.akadns.net
 gsp10-ssl.ls.apple.com
 gsp11-cn.ls.apple.com
+gsp12-cn.ls.apple.com
 gsp13-cn.ls.apple.com
 gsp4-cn.ls.apple.com
 gsp4-cn.ls.apple.com.edgekey.net

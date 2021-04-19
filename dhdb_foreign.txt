@@ -1380,6 +1380,7 @@
 2-vpn1.com
 2.4.je
 2.android.pool.ntp.org
+2.asia.pool.ntp.org
 2.biqle.ru
 2.c.ns.emailvision.net.daraz.com
 2.centos.pool.ntp.org
@@ -25151,7 +25152,6 @@ drebeatsstudio2013.com
 drebeatstudio.com
 drebyby.com
 dremonsterbeatsoutlets.com
-drepr.com
 dreprobeats.com
 dreprofy.com
 drepung.org
@@ -58165,7 +58165,9 @@ qixiandoc.com
 qixianglu.cn
 qixinbo.info
 qixiwl.com
+qixunka.com
 qiye8848.com
+qiyegu.com
 qiyeweixin.com
 qiyexxw.com
 qiyoujiage.com

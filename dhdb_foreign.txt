@@ -2,7 +2,6 @@
 0-gold.net
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -18583,7 +18582,6 @@ china-duebro.com
 china-experts.com
 china-facebook.com
 china-files.com
-china-flash.com
 china-g.com
 china-gc.com
 china-insurance.com
@@ -31119,7 +31117,6 @@ fuli.us
 fuli.zone
 fuli09.com
 fuli1024.com
-fuli97.com
 fuliapps.com
 fuliba.mobi
 fuliba2020.net
@@ -44699,7 +44696,6 @@ lw1.cdmediaworld.com
 lw208.com
 lw84.com
 lwen.org
-lwfengji.net
 lwinl.com
 lwl.denpasoft.com
 lwlm.com
@@ -49107,6 +49103,7 @@ mok.com.my
 mokagames.com
 mokeedev.com
 mokezhan.com
+moks.cc
 mol.gov.tw
 mol.im
 molar.ro
@@ -51848,6 +51845,7 @@ nmtui.com
 nmzol.com
 nn.ci
 nn.ru
+nn.zzux.com
 nn633.com
 nn733.net
 nn92.com
@@ -59486,6 +59484,7 @@ renzhe.cloud
 renzhecloud.com
 reocar.com
 reon.club
+repaik.com
 repanso.com
 repdata.argusleader.com
 repdata.marshfieldnewsherald.com

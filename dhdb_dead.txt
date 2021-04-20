@@ -2844,6 +2844,7 @@ adsremote.scrippsnetworks.com
 adsrich.qq.com
 adsrv.eacdn.com
 adsrv.kobi.tv
+adsrv.tuscaloosanews.com
 adsrv.wilmingtonstar.com
 adsrv1.tapad.com
 adsrv2.wilmingtonstar.com
@@ -6279,6 +6280,7 @@ co.zm
 co.zw
 cobenet.com
 coccccc.cc
+cocomy.net
 cocos2dev.com
 cocosbcx.net
 cocostudio.org
@@ -14829,6 +14831,7 @@ m.bogubogu.cn
 m.bokanedu.net
 m.boluoxs.com
 m.boojun.cn
+m.bookbaow.com
 m.bookben.com
 m.boomgamescloud-cdn.cn
 m.breezily168.com
@@ -18981,7 +18984,6 @@ qyzc.net
 qzav44.com
 qzbuxi.com
 qzdigg.com
-qzlo.com
 qzxiangxiangkeji.com
 qzyb.com
 qzzres.com

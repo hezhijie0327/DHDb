@@ -9777,7 +9777,6 @@
 9-sun.com
 9-zhuce.com
 9.courier-push-apple.com.akadns.net
-9.pic.paopaoche.net
 9.rarbg.com
 9.rarbg.me
 9.rarbg.to
@@ -14909,6 +14908,7 @@ adx.hongtinnhanh.com
 adx.hupu.com
 adx.hzbxm.com
 adx.juxing-edu.com
+adx.kul.vn
 adx.maplehaze.cn
 adx.ms
 adx.phunuadong.vn
@@ -30969,6 +30969,7 @@ cellixsoft.com
 cellmean.com
 cells-net.com
 cells-net.net
+cellstats.mako.co.il
 cellsystech.net
 cellulo.info
 celona.io
@@ -64306,7 +64307,6 @@ hz.mmstat.com
 hz.turn.chillyroom.com
 hz1.lanmei80.com
 hz100msh.com
-hz155.com
 hz66.com
 hz8801.com
 hzaee.com
@@ -85138,7 +85138,6 @@ mianbaoduo.com
 mianbaotou.com
 miandanbx.com
 mianfeidianhua.net
-mianfeiic.com
 mianfeiwendang.com
 mianfen888.com
 mianhuatang.cc

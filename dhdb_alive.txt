@@ -49385,7 +49385,6 @@ f13.in
 f1300.com
 f139.com
 f1500.com
-f1688.com
 f18085.privacy4browsers.com
 f1870.com
 f1880.com
@@ -72301,6 +72300,7 @@ js.start1999.com
 js.stat.ijinshan.com
 js.stripe.com
 js.stroeermediabrands.de
+js.t.sinajs.cn
 js.ta80.com
 js.tianjimedia.com
 js.tongji.linezing.com
@@ -76098,6 +76098,7 @@ lang.idv.tw
 lang51.com
 lang588.com
 lang8.net
+langbobrand.com
 langchao.com
 langchengzhixin.com
 langegruppe.com
@@ -105709,7 +105710,6 @@ s.onlineornot.com
 s.p.youku.com
 s.pc.qq.com
 s.phpwind.com
-s.polkoi.com
 s.ppjol.net
 s.qhupdate.com
 s.qiangger.pw

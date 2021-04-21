@@ -1829,6 +1829,7 @@
 1337x.org
 1337x.to
 133998.com
+133jz.com
 1345345.com
 1346082.sched.sma.tdnsv5.com
 1347806.p23.tc.cdntip.com
@@ -13010,7 +13011,6 @@ adbox.sina.com.cn
 adbq.bk.mufg.jp
 adbreak.cubecdn.net
 adbridge.de
-adbroker.mp.dse.microsoft.com
 adbs.ximalaya.com
 adbsmetrics.koreanair.com
 adbutter.net
@@ -14394,6 +14394,7 @@ adserve.viaarena.com
 adserve2.tom.com
 adserver-2.ig.com.br
 adserver-4.ig.com.br
+adserver-5.ig.com.br
 adserver-espnet.sportszone.net
 adserver-us.adtech.advertising.com
 adserver.71i.de
@@ -28359,7 +28360,6 @@ c.lattebank.com
 c.leankun.com
 c.lianwangtech.com
 c.lovame.com.cn
-c.lovepets70.com
 c.m.163.com
 c.media-amazon.com
 c.media-dl.co

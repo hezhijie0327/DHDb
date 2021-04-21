@@ -23101,7 +23101,6 @@ data2.doodlemobile.com
 data2.gosquared.com
 datacapture.serving-sys.com
 datacar40.net.daraz.com
-datacenter.lenovo.com
 datacenterknowledge.com
 datacollector-drru.dt.hicloud.com
 datadefiner.com
@@ -62292,6 +62291,7 @@ seb.ee
 seb.lt
 seb.lv
 seb.sharpmarketing.eu
+sebastianbarrios.cl
 sebastiangale.ca
 sebe.fairuse.org
 seby.io

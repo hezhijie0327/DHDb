@@ -7610,6 +7610,7 @@ data.tm-awx.com
 data.waptime.cn
 data.xici.net
 data1rtb.com
+datacenter.lenovo.com
 datadragon.net
 datanoticias.prisasd.com
 datasavannah.com
@@ -16145,6 +16146,7 @@ mg.btnvlvt.cn
 mg.ipdxwtn.cn
 mg.yadro.ru
 mg.zpwansf.cn
+mg67.com
 mga.api.appget.cn
 mgm1888.net
 mgm3868.com
@@ -19020,6 +19022,7 @@ qxbx.com
 qxcdn.cc
 qxka.com
 qxnzx.com
+qy9.net
 qycn.net
 qycn.org
 qydm.net

@@ -6739,7 +6739,6 @@ ads.mojicdn.com
 ads.oneway.mobi
 ads.privacy.qq.com
 ads.reader.yueyouxs.com
-ads.service.kugou.com
 ads.sina.com
 ads.sohu.com
 ads.static.madserving.com
@@ -18910,7 +18909,6 @@ dpvc2.qqyy.com
 dpvchos.qqyy.com
 dpvcimg.qqyy.com
 dpwl.net
-dpwlmg.bar
 dpxian.me
 dpxq.com
 dq.baomihua.com
@@ -35062,7 +35060,6 @@ loggw-exsdk.alipay.com
 loggw-extiny.alipay.com
 loggw.alipay.com
 loggw.alipaydns.com
-loghao.com
 logic.content.qq.com
 login.51job.com
 login.game.qq.com

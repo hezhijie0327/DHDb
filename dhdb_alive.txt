@@ -28769,6 +28769,7 @@ cacerts.digicert.cn
 cacerts.digicert.cn.w.cdngslb.com
 cacerts.digicert.com
 cacfo.com
+cacg.cc
 cache-ssl.celtra.com
 cache.a.market.xiaomi.com
 cache.amap.com
@@ -51325,7 +51326,6 @@ financialpost.com
 financialservices.teranet.ca
 financialsoccer.ca
 financialsoccer.com.cn
-financiers.cc
 finansbankservices.net
 finanzen.net
 finanzfrage.net

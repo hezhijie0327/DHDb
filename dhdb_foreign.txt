@@ -3666,7 +3666,6 @@
 668100009.com
 668200000.com
 668240000.com
-66826.com
 668452.com
 66866832.com
 66866841.com
@@ -17861,7 +17860,6 @@ cdn.adikteev.com
 cdn.adk2.com
 cdn.adnxs.com
 cdn.ads.fotoable.net
-cdn.ads.jlscds.com
 cdn.adservingsolutionsinc.com
 cdn.adsfactor.net
 cdn.adstract.com

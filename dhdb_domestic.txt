@@ -8487,7 +8487,6 @@ app.jiuzhilan.com
 app.juwang.com
 app.kwaixiaodian.com
 app.lz55.cn
-app.market.xiaomi.com
 app.mi.com
 app.moji001.com
 app.nasyun.com
@@ -24231,7 +24230,6 @@ guojixuexiao.org
 guojixumu.com
 guojj.com
 guojucloud.com
-guojusoft.com
 guokr.com
 guokr.net
 guoku.com

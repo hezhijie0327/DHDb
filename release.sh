@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.5
+# Current Version: 1.0.6
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/release.sh
@@ -13,9 +13,6 @@ function GetData() {
         "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2domain/blacklist_full.txt"
         "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2domain/whitelist_full.txt"
         "https://raw.githubusercontent.com/hezhijie0327/Trackerslist/main/trackerslist_combine.txt"
-        "https://raw.githubusercontent.com/hezhijie0327/V2SiteDAT/main/direct.txt"
-        "https://raw.githubusercontent.com/hezhijie0327/V2SiteDAT/main/proxy.txt"
-        "https://raw.githubusercontent.com/hezhijie0327/V2SiteDAT/main/reject.txt"
     )
     rm -rf "./Temp" && mkdir "./Temp" && cd "./Temp"
     for dhdb_checklist_task in "${!dhdb_checklist[@]}"; do

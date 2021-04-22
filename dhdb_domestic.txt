@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0.pic.paopaoche.net
-0.pool.ntp.org
 0.up.qingdaonews.com
 0006266.com
 0006999.com
@@ -3611,7 +3610,6 @@
 520wenshen.com
 520xiazai.com
 520yidui.com
-520z-2.com
 520zg.net
 520zuowens.com
 52112.com
@@ -4539,7 +4537,6 @@
 7-vk.com
 7-wx.com
 7.iscrv.com
-7.pic.paopaoche.net
 700bike.com
 70202s.com
 70202v.com
@@ -25168,7 +25165,6 @@ haoxue360.com
 haoxuetang99.com
 haoxxwang.com
 haoxyx.com
-haoyangmao8.com
 haoyhq.com
 haoyisheng.com
 haoyong.cc
@@ -36137,7 +36133,6 @@ mails.cneic.com.cn
 maimemo.com
 maimemostatus.com
 maimiaotech.com
-maimowang.com
 maimuban.com
 main-api.biligame.com
 main.jiukang.org
@@ -43299,6 +43294,7 @@ qiqiuyun.net
 qiqivv.com
 qiqiww.com
 qiquting.com
+qiqutt.com
 qire123.com
 qiremanhua.com
 qirexiaoshuo.com

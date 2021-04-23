@@ -14752,7 +14752,6 @@ cm-10-59.getui.com
 cm-10-60.getui.com
 cm-10-62.getui.com
 cm-10-68.getui.com
-cm-10-70.getui.com
 cm-10-73.getui.com
 cm-10-80.getui.com
 cm-10-81.getui.com
@@ -20857,6 +20856,7 @@ ezeroshop.com
 ezhangdan.com
 ezhangu.com
 ezhicai.com
+ezhijiantuoluo.com
 ezip.awehunt.com
 ezitong.com
 ezjoy.com.my
@@ -23139,7 +23139,6 @@ geshui.com
 geshui100.com
 geshuishuilvbiao2017.com
 gesuo.com
-get.sogou.com
 get.vip
 get233.com
 getbingo.net
@@ -26566,6 +26565,7 @@ hostcto.com
 hostelxian.com
 hostker.com
 hostxen.com
+hot.browser.miui.com
 hot.m.shouji.360tpcdn.com
 hotalk.com
 hotchat-im.iqiyi.com
@@ -29028,7 +29028,6 @@ imoffice.com
 imolink.com
 imomoe.com
 imomoe.in
-imomoe.io
 imomoe.jp
 imonitor.dhgate.com
 imooc.com

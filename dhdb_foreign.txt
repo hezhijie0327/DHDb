@@ -5439,7 +5439,6 @@ a7.org
 a70717.com
 a75-10-so.ssl.cdn13.com
 a771.dscq.akamai.net
-a8.com
 a8.cyclemarket.jp
 a8.denki-koji.work
 a8.eonet.jp
@@ -6103,6 +6102,7 @@ activity.asce.org
 activity.browser.intl.miui.com
 activity.serving-sys.com
 activity.windows.com
+activity.yuyiya.com
 activpn.com
 activtrades.cn
 activtrades.com
@@ -11295,6 +11295,7 @@ arts-360.com
 arts-kunst.com
 artsculture.club
 artsdoor.com
+artsren.com
 artstation.com
 artstationmedia.com
 artsy.net
@@ -41157,7 +41158,6 @@ iop.org
 iop4.aireuropa.com
 ioqq.com
 ios.gd.ddns.name
-iosapps.itunes.apple.com
 ioshow.com
 iosmu.com
 iot.informaengage.com
@@ -43259,6 +43259,7 @@ jtw007.com
 jtxrou.saucony.com
 ju-dao.com
 ju11.net
+ju111.net
 ju51.com
 ju621.com
 ju81.cc
@@ -56001,7 +56002,6 @@ okdd.net
 okex.com
 okex.vip
 okex.win
-okexcn.com
 okfa88.c88588.com
 okfun.org
 okgo.xyz

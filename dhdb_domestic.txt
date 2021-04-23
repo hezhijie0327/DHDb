@@ -5316,6 +5316,7 @@
 90ckm.com
 90lhd.com
 90pan.com
+90qh.com
 90sheji.com
 90tank.com
 90vm.com
@@ -8548,6 +8549,7 @@ appcup.com
 appdaka.com
 appdao.com
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -14966,7 +14968,6 @@ cn.made-in-china.com
 cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.pandora.net
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -33171,6 +33172,7 @@ kuaipandata.com
 kuaipao8.com
 kuaipeilian.com
 kuaipng.com
+kuaiqiangche.com
 kuaiqin.net
 kuaishebao.com
 kuaishou.com

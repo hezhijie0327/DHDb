@@ -11782,7 +11782,6 @@ c.xadingli.cn
 c.xiaobaipan.com
 c.xlhwzx.cn
 c.y.qq.com
-c.yanyanbiji.com
 c.yes.youku.com
 c.youdao.com
 c.yunnanpulasi.com
@@ -26564,6 +26563,7 @@ hostadm.net
 hostcto.com
 hostelxian.com
 hostker.com
+hostkvm.com
 hostxen.com
 hot.browser.miui.com
 hot.m.shouji.360tpcdn.com
@@ -31229,7 +31229,6 @@ jkbl.com
 jkc8.com
 jkcorkpads.com
 jkcsjd.com
-jkdpw.com
 jke1.jianke.com
 jkeabc.com
 jkgood.com

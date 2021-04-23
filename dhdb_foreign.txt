@@ -10374,7 +10374,6 @@ api.atdmt.com
 api.bailingjiankang.com
 api.bitp.it
 api.breezip.com
-api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.bunzlaucastle.com

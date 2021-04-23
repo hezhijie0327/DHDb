@@ -14752,7 +14752,6 @@ cm-10-58.getui.com
 cm-10-59.getui.com
 cm-10-60.getui.com
 cm-10-62.getui.com
-cm-10-68.getui.com
 cm-10-73.getui.com
 cm-10-80.getui.com
 cm-10-81.getui.com
@@ -30493,6 +30492,7 @@ jialez.com
 jiameng.com
 jiameng001.com
 jiamengdp.com
+jiamengfei.com
 jiamengwoba.com
 jiamiantech.com
 jiaming.pro

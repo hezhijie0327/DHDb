@@ -1913,7 +1913,6 @@
 22edu.com
 22ff.com
 22hd.com
-22k9.com
 22lrc.com
 22net.com
 22plc.com
@@ -15209,6 +15208,7 @@ cninfo.com.cn
 cninfo.net
 cninternetdownloadmanager.com
 cnipa-gd.com
+cnipa-hb.com
 cnipa-pesc.com
 cnipa-sc.com
 cnipa-tj.com
@@ -23917,6 +23917,7 @@ growingio.com
 growthpic.weishi.qq.com
 grpc.biliapi.net
 grs.dbankcloud.cn
+grs.dbankcloud.com
 grs.hicloud.com
 grt-china.com
 grtn.cn
@@ -47150,7 +47151,6 @@ shuo66.com
 shuoba.org
 shuoboku.com
 shuomingshuku.com
-shuoqian.net
 shuoshuo9.com
 shuoshuokong.com
 shuowan.cc

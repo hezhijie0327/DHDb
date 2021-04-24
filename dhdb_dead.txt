@@ -3694,6 +3694,7 @@ api.csxsyp.cn
 api.dmc.nico
 api.dreamfull.cn
 api.dunhee.cn
+api.e-cg.cn
 api.ethereum.hashvault.pro
 api.fusepowered.com
 api.g1.junfull.com
@@ -19949,6 +19950,7 @@ rizhi.xyz
 rj.baidu.cn
 rj.baidu.com
 rj.m.taobao.co
+rjfkrzwk.cn
 rjjacky.info
 rk.rongchengxxw.com
 rkdatabase.com

@@ -10426,7 +10426,6 @@ api.decentralize.today
 api.dell.com
 api.dropboxapi.com
 api.duoduomh.1a3.net
-api.e-cg.cn
 api.ettoday.net
 api.feedbin.com
 api.finchvpn.org
@@ -40285,6 +40284,7 @@ imobiliare.ro
 imod.com
 imodel.imoredo.com
 imoeer.com
+imomoe.io
 imonitor.nethost.cz
 imonsterbeats.com
 imoonfm.com
@@ -58426,7 +58426,6 @@ pbs.org
 pbs.twimg.com
 pbsidc.com
 pbstats.jpmorgan.com
-pbsvpn.com
 pbteen.com
 pbwiki.com
 pbworks.com

@@ -3735,7 +3735,6 @@
 52ppt.com
 52qixiang.com
 52qmct.com
-52qqba.com
 52qudao.com
 52queji.com
 52ra3.com
@@ -14908,6 +14907,7 @@ cn-c114.net
 cn-cos.fengduxiaoshuo.com
 cn-em.com
 cn-ezalter.fengduxiaoshuo.com
+cn-fe.com
 cn-gapis.0cdn.cn
 cn-gapis.0cdn.cn.cname.yunjiasu-cdn.net
 cn-hangzhou-component-gw.cloud.alipay.com

@@ -603,7 +603,6 @@
 1.arpun.com
 1.bashenghuo.com
 1.cjcp.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -12895,6 +12894,7 @@ ceshigo.com
 ceshigu.com
 cespc.com
 cesses.org
+cetc52.com
 cetccloud.com
 cetcio.com
 cetcmotor.com
@@ -13709,7 +13709,6 @@ chinagiftsfair.com
 chinagoldcoin.net
 chinagoldgroup.com
 chinagolfshow.com
-chinagp.net
 chinagps.cc
 chinagrid.net
 chinagrowthcapital.com
@@ -24683,6 +24682,7 @@ h5.wannaplay.cn
 h5.wdjky.com
 h5.weishi.qq.com
 h5.xiaolianhb.com
+h5.yangrongdayipifa.com
 h5.zuimeitianqi.com
 h5595.net
 h5aiwan.com
@@ -29453,7 +29453,6 @@ ipdaili.com
 ipddz.com
 ipdftool.com
 ipdianhua.com
-ipdxwtn.cn
 ipease.net
 ipengchen.com
 ipengtai.com

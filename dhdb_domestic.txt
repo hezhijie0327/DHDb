@@ -603,6 +603,7 @@
 1.arpun.com
 1.bashenghuo.com
 1.cjcp.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -15428,7 +15429,6 @@ cnweblog.com
 cnwebshow.com
 cnweilo.com
 cnwen.net
-cnwenshi.net
 cnwest.com
 cnwhc.com
 cnwhotel.com
@@ -36557,7 +36557,6 @@ mc-ccpit.com
 mc.hujiang.com
 mc.qcloudimg.com
 mc.tvzhe.com
-mc.uiqjcpt.cn
 mc.weather.com.cn
 mc26.com
 mc361.com

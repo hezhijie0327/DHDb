@@ -5341,6 +5341,7 @@ a1988.dsct.akamai.net
 a1cu.org
 a2.b310.com
 a2.mzstatic.com
+a202.net
 a20309999.byethost9.com
 a2047.dscb.akamai.net
 a2047.dscb.akamai.net.0.1.cn.akamaitech.net
@@ -18358,6 +18359,7 @@ cdbook.org
 cdbs.com.tr
 cdcparty.com
 cdcu.com
+cde-os.com
 cdef.org
 cdev.eu
 cdfhpj.automobile.it

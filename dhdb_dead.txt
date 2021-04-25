@@ -2504,6 +2504,7 @@ actives.youku.com
 activity.frequency.com
 activity.hdslb.comm
 actupremium.com
+acw.evise.com
 acxiomapac.com
 ad-beacon-v01.uliza.jp
 ad-cache.dopool.com
@@ -2527,6 +2528,7 @@ ad.about.co.kr
 ad.accessmediaproductions.com
 ad.adfunky.com
 ad.adlantis.jp
+ad.afy11.net
 ad.ajanshaber.com
 ad.allyes.cn
 ad.aquamediadirect.com
@@ -3056,6 +3058,7 @@ adserver.yahoo.co.jp
 adserver1.adserver.com.pl
 adserver1.adtech.com.tr
 adserver2.adserver.com.pl
+adservice.google.cn
 adserviceretry.kglink.cn
 adsfeed.brabys.com
 adsgroup.qq.com
@@ -3718,6 +3721,7 @@ api.authedmine.com
 api.bhzejltg.info
 api.bitumconference.ru
 api.bonusberry.ru
+api.britepool.com
 api.calq.io
 api.cdnbye.com
 api.cmt.mob.com
@@ -3803,6 +3807,7 @@ apk4399.com
 apklog.cp11.ott.cibntv.net
 apkmodmirror.com
 aplaut.io
+apm-misaka.biliapi.net
 apme-magnetics.com
 apmnqut.cn
 app-sage.com
@@ -3960,9 +3965,11 @@ aq.prices25.com
 aq1r.qilekacha.club
 aqdkc.com
 aqdstatic.com
+aqdxdfwkufbjolu.localdomain
 aqfen.com
 aqllq.993726.cn
 aqyun.com
+aqzbvjfq.localdomain
 ar.fuxunb.com
 ar1.atwola.com
 ar7.atwola.com
@@ -4101,6 +4108,7 @@ atwasoft.com
 atwola.com
 aty.hd.sohu.com
 aty.sohu.com
+atyrzkbqzgk.localdomain
 au.apk.umeng.com
 au.umeng.co
 au2.beeppool.org
@@ -4145,6 +4153,7 @@ avic021.com
 avira-vpn.com
 avmask.com
 avpa.dzone.com
+avrbnxcfsynox.localdomain
 avsow.net
 avtb388.com
 avuoe.com
@@ -4508,6 +4517,7 @@ bc.ca
 bc.geocities.yahoo.co.jp
 bc11889.com
 bc1986.com
+bc19b450764e9ed40c2d6ee05033c69c.jddebug.com
 bc248.com
 bc6005.com
 bc6011.com
@@ -4613,6 +4623,7 @@ bdydns.cn
 bdydns.com
 bdydns.net
 bdysite.com
+be90559d2974800f8f03ff163146e08e.jddebug.com
 beacon-1.newrelic.com
 beacon-3.newrelic.com
 beacon-us-sjc1.rubiconproject.com
@@ -4721,6 +4732,7 @@ bg9444.com
 bge888.com
 bgjqr.com
 bgkh.zcpap.cn
+bgnlisy.localdomain
 bgsdk.net
 bh1t.com
 bh6688.net
@@ -4757,6 +4769,7 @@ biechadiao.com
 bifa1998.com
 bifa3366.com
 bifa770.com
+bifsphvrpmirijc.localdomain
 bigads.guj.de
 bigboy.eurogamer.net
 bigcoob.xyz

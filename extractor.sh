@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.7
+# Current Version: 1.0.8
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/extractor.sh -e "example.org\|zhijie.online" -i /root/AdGuardHome/data -o /root/AdGuardHome/data -u hezhijie0327
@@ -47,23 +47,26 @@ function CheckRequirement() {
 }
 # Analyse Data
 function AnalyseData() {
+    BUILD_TIME=$(date "+%s")
     DOMAIN_REGEX="^(([a-z]{1})|([a-z]{1}[a-z]{1})|([a-z]{1}[0-9]{1})|([0-9]{1}[a-z]{1})|([a-z0-9][-\.a-z0-9]{1,61}[a-z0-9]))\.([a-z]{2,13}|[a-z0-9-]{2,30}\.[a-z]{2,3})$"
-    EXCLUDE_DEFAULT="in-addr.arpa\|ip6.arpa"
+    QUERYLOG_REGEX="^querylog\.((json)|(json\.[0-9]{1,}))$"
     if [ "${EXCLUDE}" == "" ]; then
-        EXCLUDE_CUSTOM="${EXCLUDE_DEFAULT}"
+        EXCLUDE="in-addr.arpa\|ip6.arpa"
     else
-        EXCLUDE_CUSTOM="${EXCLUDE}"
+        EXCLUDE="in-addr.arpa\|ip6.arpa\|${EXCLUDE}"
     fi
-    echo "Processing..." && if [ ! -f "${INPUT}/querylog.json.1" ]; then
-        querylog_raw=$(cat "${INPUT}/querylog.json")
-    else
-        querylog_raw=$(cat "${INPUT}/querylog.json" ${INPUT}/querylog.json.*)
-    fi && querylog_data=$(echo "${querylog_raw}" | jq -Sr ".QH" | grep -E "${DOMAIN_REGEX}" | grep -v "${EXCLUDE_CUSTOM}" | grep -v "${EXCLUDE_DEFAULT}" | sort | uniq)
 }
 # Output Data
 function OutputData() {
-    BUILD_TIME=$(date "+%s")
-    echo "${querylog_data}" >> "${OUTPUT}/querylog-${USERNAME}-${BUILD_TIME}.txt"
+    if [ ! -f "${INPUT}/querylog.json" ]; then
+        echo "\"${INPUT}/querylog.json\" is not existed."
+        exit 1
+    else
+        cd "${INPUT}"
+    fi
+    if [ ! -d "${OUTPUT}" ]; then
+        mkdir -p "${OUTPUT}"
+    fi && cat $(ls -a "${INPUT}" | grep -E "${QUERYLOG_REGEX}" | xargs) | jq -Sr ".QH" | grep -E "${DOMAIN_REGEX}" | grep -v "${EXCLUDE}" | sort | uniq >> "${OUTPUT}/querylog-${USERNAME}-${BUILD_TIME}.txt"
     echo "\"${OUTPUT}/querylog-${USERNAME}-${BUILD_TIME}.txt\" has been generated."
 }
 

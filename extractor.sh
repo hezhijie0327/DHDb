@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.8
+# Current Version: 1.0.9
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/extractor.sh -e "example.org\|zhijie.online" -i /root/AdGuardHome/data -o /root/AdGuardHome/data -u hezhijie0327
@@ -62,7 +62,7 @@ function OutputData() {
         echo "\"${INPUT}/querylog.json\" is not existed."
         exit 1
     else
-        cd "${INPUT}"
+        echo "Processing..." && cd "${INPUT}"
     fi
     if [ ! -d "${OUTPUT}" ]; then
         mkdir -p "${OUTPUT}"

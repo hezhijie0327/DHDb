@@ -7027,6 +7027,7 @@ crossvpn.org
 crownka.com
 crs.baidu.cn
 crsc.cc
+crsignv1.qq.com
 crsna-2015.tk
 crsna2015.tk
 crsspxl.com
@@ -7058,6 +7059,7 @@ csgfnmdb.com
 csgo.wmsj.cn
 csic760.com
 cslpldyb.me
+csp.huya.com
 css.juqingba.cn
 css22.ga
 css5.bid
@@ -7194,9 +7196,11 @@ cz9k8b.top
 czcac.com
 czcqly.com
 czds.net
+czgzuwvaag.localdomain
 czhello.com
 czhywzhsyxgs.com
 czk.gemeiyun.com
+czpequhnuvl.localdomain
 czqsyyey.com
 czssx.com
 czvv.net
@@ -7697,6 +7701,7 @@ d35gxjm3e9wg7v.cloudfront.net
 d35jrq19vb5puk.cloudfront.net
 d35jyr6lwcspj1.cloudfront.net
 d35ln70levegcl.cloudfront.net
+d35mridaos0l3l.cloudfront.net
 d35q7oiklifjy3.cloudfront.net
 d35w2oo5rcyg8v.cloudfront.net
 d3685.com
@@ -7847,6 +7852,7 @@ d81ffd2404a05c5c504017d81412f367.jddebug.com
 d81pam37egi8w.cloudfront.net
 d82kg0g43e1bu.cloudfront.net
 d899.webazilla.com
+d8cad33e861b0cffdc28713820556d1e.jddebug.com
 d8rk54i4mohrb.cloudfront.net
 d8sgdg9sdzglz.cloudfront.net
 d8vp5mbry9zys.cloudfront.net
@@ -7864,6 +7870,7 @@ da.hunantv.com
 da.mgtv.com
 da.realdmn.com
 da.virginmedia.com
+da59f74d56d76ca293f10f50ea98996c.jddebug.com
 daai99.com
 daban001.com
 dabansuan.cn
@@ -7978,6 +7985,8 @@ data-vp.com
 data.adserve.tomoimg.cn
 data.apn.co.nz
 data.cbsi.com.cn
+data.cdeledu.com
+data.macw.com
 data.marketgid.com
 data.mgtv.com
 data.mobclix.com
@@ -8192,11 +8201,13 @@ designeriphonescases.com
 desk.com
 deskcity.com
 det8214mmc717.cloudfront.net
+detail.m.tmall.hk
 detaliczny.com
 detatu.com
 detection.v6.shub.sandai.net
 detnsuoxy81x.cloudfront.net
 dettol-prize.com
+deuvwjtwlkda.localdomain
 deuxje7t39utb.cloudfront.net
 dev-guardianapis.com
 dev-push.m.youku.com
@@ -8335,6 +8346,7 @@ direcionando.baixedetudo.net
 direct.cpufan.club
 direct.onlinegazeta.info
 dirt.dennis.co.uk
+dirtyasmr.com
 dis.cn.criteo.com
 dis.sh.cn.criteo.com
 discoins.com
@@ -8424,6 +8436,7 @@ dm.66qw.net
 dm.66wenshen.com
 dm.92to.com
 dm.chalook.net
+dm.city.sina.com.cn
 dm.ddns.ms
 dm.gbeik.com
 dm.haojuzi.net
@@ -8647,6 +8660,7 @@ downsx.com
 dows.yuyudl.com
 dozview.com
 dp02chdsg9x39.cloudfront.net
+dp2.im.weibo.cn
 dp2u.com
 dp3.qq.comqq
 dpaxwwk0x1o6o.cloudfront.net
@@ -8738,11 +8752,13 @@ dtdxcw.com
 dtlgalleryint.cloudapp.net
 dtnnetwork.be
 dtrace.nvidia.com
+dtrp.tencentdlinstallinfo.qq.com
 dts.akamai.startappexchange.com
 dtscdn.com
 dtstatic.com
 dtt.dtdns.net
 dtvce.com
+dtwniwxzy.localdomain
 du.biqukan.com
 du.narasmom.com
 du3ghxbmxci1k.cloudfront.net
@@ -8815,6 +8831,7 @@ dvv.qeiowc.xyz
 dvv.strbgi.xyz
 dvv.yrgtrt.xyz
 dvx-android.domob.cn
+dvzpcsvqc.localdomain
 dvzuqh0qci8dn.cloudfront.net
 dw.cbsi.com.cn
 dw.cbsimg.net
@@ -8837,6 +8854,7 @@ dwt5ebee6mw3p.cloudfront.net
 dwtn.nuion.cn
 dwuva.com
 dx.crsky.com
+dx1.xitongzhijia.net
 dx114118.com
 dx168.com
 dx1djqjpnvurw.cloudfront.net
@@ -8904,6 +8922,7 @@ dzgwg.com
 dzjcp998.com
 dzl.baidu.com
 dznjslm.com
+dzqwlqlt.localdomain
 dzrlvy.com
 dzsyxx.com
 dzz.wankeedu.com
@@ -9443,8 +9462,10 @@ e19.entrychat.com
 e2068b07cca87c8f36eb4eb89d544fa2.jddebug.com
 e4.6dad.com
 e446787135113f15d244203e559be1ea.jddebug.com
+e46cdb979c9302cbef9f2b57e227635c.jddebug.com
 e68cname.com
 e6c34e889b9fd1645909fe6b275a80dc.jddebug.com
+e6dd8b002ff776409a59337018e0957a.jddebug.com
 e7002.com
 e7009.com
 e7560.net

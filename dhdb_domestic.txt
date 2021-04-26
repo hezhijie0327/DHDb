@@ -3817,6 +3817,7 @@
 51offer.com
 51onb.com
 51oneone.com
+51onion.com
 51only.com
 51open.net
 51opone.com
@@ -9370,7 +9371,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -26159,6 +26159,7 @@ greatops.net
 greatsk.com
 greatssp.com
 greatstartools.com
+greatzhonghua.org
 gree-jd.com
 gree.com
 green12306.com
@@ -29567,7 +29568,6 @@ huatu.com
 huatugz.com
 huatuo.qq.com
 huatuo007.com
-huatuocode.weiyun.com
 huatuowenda.com
 huatuoyf.com
 huaue.com

@@ -1194,7 +1194,6 @@
 51mole.com
 51mywellness.com
 51nuoqi.com
-51onion.com
 51pec.com
 51ping.com
 51pjmm.com
@@ -8650,7 +8649,6 @@ dongzhuoyao.com
 dontblockme.modaco.com
 dontmovetochina.com
 dookhub.com
-doomii.com
 dooreb.com
 doors.co.kr
 dorapp.com
@@ -12212,6 +12210,7 @@ huashengls.com
 huashenll.com
 huatuo.weiyun.com
 huatuocode.huatuo.qq.com
+huatuocode.weiyun.com
 huatuospeed.weiyun.com
 huaweicloud-dns.com
 huaweicloud-dns.net
@@ -15325,6 +15324,7 @@ lzgye.com
 lzqp2019.com
 lzsb.org
 lzsysj.com
+lztaiyu.com
 lzzht.googlespider1.cn
 lzzsjt.com
 lzzxh.work

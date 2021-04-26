@@ -1437,7 +1437,6 @@
 2-vpn1.com
 2.4.je
 2.android.pool.ntp.org
-2.asia.pool.ntp.org
 2.au.download.windowsupdate.com
 2.biqle.ru
 2.brinkshome.com
@@ -18244,7 +18243,6 @@ caita66.com
 caitou.net
 caiweiming.com
 caixabank.es
-caiyuanyou.com
 caknmq.rotita.com
 calameo.com
 calaxtv.com

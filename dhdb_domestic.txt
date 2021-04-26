@@ -630,6 +630,7 @@
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -17909,7 +17910,6 @@ cssaaa.com
 cssf.com
 cssf.net
 cssg-ahi.com
-cssj.fun
 csslcloud.net
 cssmoban.com
 cssq33.com

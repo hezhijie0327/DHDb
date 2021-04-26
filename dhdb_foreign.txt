@@ -25163,7 +25163,6 @@ dc.applicationinsights.azure.com
 dc.arrivalist.com
 dc.audi.com
 dc.banggood.com
-dc.chillyroom.com
 dc.di.atlas.samsung.com
 dc.glbtls.t.co
 dc.oracleinfinity.io
@@ -44640,6 +44639,7 @@ jdgtgb.pcgames.de
 jdgtgb.pcgameshardware.de
 jdgtgb.t-online.de
 jdgtgb.watson.de
+jdhq188.cn
 jdi5.com
 jdkic.com
 jdlg.net

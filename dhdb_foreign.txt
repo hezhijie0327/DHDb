@@ -19110,7 +19110,6 @@ cdn-102.statdynamic.com
 cdn-145.privacy-mgmt.com
 cdn-146.privacy-mgmt.com
 cdn-2.gamecoast.org
-cdn-adn.rayjump.com
 cdn-ads.thesaigontimes.vn
 cdn-alliancegravity.s3.amazonaws.com
 cdn-api.admost.com
@@ -19779,7 +19778,6 @@ ch3s.com
 ch5.cc
 ch9.ms
 ch933.com
-chacha.com
 chacos.com
 chadly.net
 chadsherrell.com
@@ -49974,7 +49972,6 @@ m.aduiz.com
 m.adxpop.com
 m.afreecatv.com
 m.ailix.cn
-m.aiyyu.com
 m.anmeilai.net
 m.apkzu.com
 m.apxyz.com

@@ -1705,7 +1705,6 @@
 187801.com
 188.com
 1886zuche.com
-1888.com.mo
 188app.xyz
 188cf.net
 188diaoche.com
@@ -16126,7 +16125,6 @@ clyv5jq8.v1d.szbdyd.com
 clyv5jqo.v1d.szbdyd.com
 clyv5jqr.v1d.szbdyd.com
 cm-10-10.getui.com
-cm-10-11.getui.com
 cm-10-133.getui.com
 cm-10-135.getui.com
 cm-10-136.getui.com
@@ -28601,7 +28599,6 @@ hk-ss04.meo-sub.site
 hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
-hk.pool.ntp.org
 hk01.dns.meo-sub.site
 hk02.dns.meo-sub.site
 hk03.dns.meo-sub.site
@@ -50010,6 +50007,7 @@ scichina.com
 scicn.net
 science.china.com.cn
 sciencemeta.com
+scienedit.com
 scies.org
 scigy.com
 sciimg.com

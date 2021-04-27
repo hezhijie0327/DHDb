@@ -10883,7 +10883,6 @@ api.flygame.io
 api.fosshub.com
 api.frankerfacez.com
 api.freewebfonts.org
-api.g.micloud.xiaomi.net
 api.gameofwhales.com
 api.geetest.com
 api.gimbal.com
@@ -27905,6 +27904,7 @@ drumkitx.com
 drupal001.com
 drupalba.com
 drupalla.com
+drupaluser.org
 drvhub.net
 drvive.lamoda.ru
 drvivicoaching.com

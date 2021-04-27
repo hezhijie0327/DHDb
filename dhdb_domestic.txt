@@ -13936,7 +13936,6 @@ cdn.shuidihuzhu.com
 cdn.shuidihuzhu.com.m.alikunlun.com
 cdn.sm.cn
 cdn.sspai.com
-cdn.static.biqudu.la
 cdn.staticfile.org
 cdn.svoice.le.com
 cdn.szjhons.com
@@ -16326,6 +16325,7 @@ cmz2.stm65i8.com
 cmzd.com
 cmzj.net
 cmzyk.com
+cn-api.samsungcloud.com
 cn-api.samsungosp.com
 cn-api.samsungpositioning.com.cn
 cn-auth2.samsungosp.com.cn
@@ -39195,6 +39195,7 @@ m5.baidu.com
 m574ou0.cdnnodedns.cn
 m598.com
 m5bn.com
+m5stack.com
 m6.pc6.com
 m6go.com
 m7.lefile.cn

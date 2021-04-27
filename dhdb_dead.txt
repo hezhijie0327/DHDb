@@ -5871,6 +5871,7 @@ cdn.pulpix.com
 cdn.qutyan8848.com
 cdn.softlayer.net
 cdn.static-cnt.bi
+cdn.static.biqudu.la
 cdn.streambeam.io
 cdn.ttkx22n.com
 cdn.u9377w.com
@@ -8772,7 +8773,6 @@ drug-online.petrovka.info
 druic.mytxt.cc
 druis.mytxt.cc
 drunkpiano-liuyu.net
-drupaluser.org
 drvpgrhib1ucs.cloudfront.net
 ds-pc.admsger.com
 ds-pv.iqu-operation.com

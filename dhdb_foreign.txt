@@ -43830,7 +43830,6 @@ ip.webstats.bid
 ip285.com
 ip2c.landscape.co.jp
 ip5000.com
-ip5001.co
 ip5002.co
 ip5006.co
 ip5008.com
@@ -44211,6 +44210,7 @@ iqunix.store
 iqvia.com
 iqzone.com
 ir.ru
+ir.surveywall-api.survata.com
 ir2008.org
 ir3177.com
 iraiser.eu

@@ -10058,6 +10058,7 @@ event.vntoday.news
 eventapi.afreecatv.com
 eventlog.inspsearch.com
 events.kaloo.ga
+events.kalooga.com
 events.mobile.optimizely.com
 events.rti.org.tw
 eventtracker.elitedaily.com
@@ -10812,6 +10813,7 @@ gaixue.com
 galaxyns.net
 galaxypub.vn
 galeriaseroticas.xpg.com.br
+galleon.dmall.com
 galstars.net
 gamavirtual.com
 game-mode.net
@@ -17806,6 +17808,7 @@ neptune.cathayglory.org
 neptune1.appads.com
 neptune2.appads.com
 neptune3.appads.com
+neraex.pro
 nest.net.ru
 nest.youwatch.org
 net-chuko.com

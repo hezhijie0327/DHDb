@@ -16282,6 +16282,7 @@ cms.sina.cn
 cms.tanx.com
 cms.v5.juzi.cn
 cms1924.org
+cms1api.dmall.com
 cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
@@ -17205,7 +17206,6 @@ congrongfund.com
 congyicn.com
 conn.wemeet.tencent.com
 conn1.coloros.com
-conn1.oppomobile.com
 conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
@@ -29678,7 +29678,6 @@ huhabao.com
 huhai.cdwz8.cn
 huhoo.com
 huhoo.net
-huhua.net
 huhuang.net
 huhuvr.com
 hui-ben.com
@@ -41431,7 +41430,6 @@ msanjia.com
 msc.jd.com
 msc.jd.com.gslb.qianxun.com
 mscbsc.com
-msch.f.360.cn
 msclick2.kuwo.cn
 mscto.com
 mscxw.com

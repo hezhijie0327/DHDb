@@ -33733,6 +33733,7 @@ cds458.lcy.llnw.net
 cds459.lcy.llnw.net
 cds461.lcy.llnw.net
 cds468.lcy.llnw.net
+cds469.lcy.llnw.net
 cds471.lcy.llnw.net
 cds484.lcy.llnw.net
 cds489.lcy.llnw.net
@@ -45725,7 +45726,6 @@ dgyqr055mfays.cloudfront.net
 dgyuanyi.com
 dgzhihongjx.com
 dgzhisen.com
-dgzhuorui.com
 dgzj.com
 dgzq.com.cn
 dgzsgjg.com
@@ -78797,7 +78797,6 @@ jiatx.com
 jiawen88.com
 jiawin.com
 jiaxiang.baixing.com
-jiaxiangcolorsky.com
 jiaxianxian.baixing.com
 jiaxiaozhijia.com
 jiaxincloud.com
@@ -85821,6 +85820,7 @@ lfx20.com
 lfyzjck.com
 lg.365che.cc
 lg.com
+lg.dmall.com
 lg.logging.admicro.vn
 lg.lotus.vn
 lg.tr.pandora.tv
@@ -94221,7 +94221,6 @@ mgbsdk.matrix.netease.com
 mgc-games.com
 mgc.meituan.com
 mgcdn2.pconline.com.cn
-mgd.de
 mgd5.com
 mgefhu.suomi24.fi
 mgenware.com
@@ -113074,7 +113073,6 @@ qq.guansenff.cn
 qq.net
 qq.ugcimg.cn
 qq.vvx.highter.top
-qq1000.net
 qq123.xin
 qq163.cc
 qq163.tv

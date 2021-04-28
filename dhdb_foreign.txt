@@ -10918,7 +10918,6 @@ api.fosshub.com
 api.frankerfacez.com
 api.freewebfonts.org
 api.gameofwhales.com
-api.geetest.com
 api.gimbal.com
 api.github.com
 api.graphql.imdb.com
@@ -36414,7 +36413,6 @@ gmufag.nn.ru
 gmufag.starhit.ru
 gmufag.wday.ru
 gmufag.woman.ru
-gmuqa.cn
 gmx.com
 gmx.fr
 gmx.net
@@ -41231,6 +41229,7 @@ huideyecai.com
 huidicp.com
 huifarm.com
 huifudai.com
+huifuyimin.com
 huigoushop.com
 huihedian.com
 huijia888.gq
@@ -56900,7 +56899,6 @@ mzed.com
 mzhu8.com
 mzitu.com
 mzkjzhang.freeiz.com
-mzsmn.com
 mzstatic.com
 mzstatic.com.edgekey.net
 mzuan.com

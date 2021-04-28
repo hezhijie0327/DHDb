@@ -16164,7 +16164,6 @@ cm-10-59.getui.com
 cm-10-60.getui.com
 cm-10-62.getui.com
 cm-10-73.getui.com
-cm-10-81.getui.com
 cm-cn-central-00001.albatross.10086.cn
 cm-iov.com
 cm-udmp.gridsumdissector.com
@@ -28816,6 +28815,7 @@ hnjkw.net
 hnjshzy.com
 hnkljnxh.com
 hnksln.com
+hnkuaifawu.com
 hnlat.com
 hnlbdl.com
 hnleisu.com

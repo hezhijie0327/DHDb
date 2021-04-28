@@ -6951,7 +6951,6 @@ account.samsung.com
 account.sogou.com
 account.synology.cn
 account.wps.cn
-account.xiaomi.com
 account.youku.com
 account.zhihu.com
 accounts.douban.com

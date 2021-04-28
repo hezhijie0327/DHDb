@@ -20827,7 +20827,6 @@ dripcar.com
 drive.wps.cn
 driveapis.cloud.huawei.com
 driver.lenovo.com.cn
-driverdevelop.com
 driverdl.lenovo.com.cn
 drivergenius.com
 driversdown.com
@@ -30352,6 +30351,7 @@ i.m.58.com
 i.mail.qq.com
 i.mairuan.com
 i.meituan.com
+i.mi.com
 i.mid.tdnsv6.com
 i.mmcdn.cn
 i.news.qq.com
@@ -39724,7 +39724,6 @@ max.adsame.com
 max.dmp.360.cn
 max.mdvdns.qhcdn.com
 max.mediav.com
-maxacg.com
 maxgj.net
 maxhub.com
 maxhub.vip

@@ -10884,7 +10884,6 @@ api.betterttv.net
 api.bitp.it
 api.bounceexchange.com
 api.breezip.com
-api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.bunzlaucastle.com
@@ -40159,6 +40158,7 @@ hk.mobi.yahoo.com
 hk.myblog.yahoo.com
 hk.napi.ucweb.com
 hk.news.yahoo.com
+hk.pool.ntp.org
 hk.search.yahoo.com
 hk.video.news.yahoo.com
 hk.wagbridge.noncert.alibaba.com.gds.alibabadns.com

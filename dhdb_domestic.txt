@@ -8952,7 +8952,6 @@ apgoview.com
 aphidic.com
 api-20200527.xkspbz.com
 api-access.pangolin-sdk-toutiao-b.com
-api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
 api-accounts.firefox.com.cn
 api-ad.kajicam.com
@@ -19722,6 +19721,7 @@ diaokeji.net
 diaosi.net
 diaosiweb.net
 diaosu.so
+diaosu9.com
 diaosu98.com
 diaosunet.com
 diaox2.com
@@ -22870,6 +22870,7 @@ exmail.qq.com
 exmrw.com
 exness.com
 exntech.com
+exo-mk.com
 exp-lbs.newsmth.net
 exp-picture.cdn.bcebos.com
 exp.3g.ifeng.com
@@ -39939,7 +39940,6 @@ mecoxlane.com
 med-fe.cdn.bcebos.com
 med-jijiu-video.cdn.bcebos.com
 med-water.com
-med.fxfvttu.cn
 med126.com
 med66.com
 meda.cc

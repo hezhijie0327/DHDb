@@ -3815,6 +3815,7 @@ api.wapa.taobao.com
 api.whizzone.com
 api.xc17868.com
 api.y.igexin.com
+api.yidiansurong.com
 api.yp.com
 api.zhy333.com
 api.ztgm17.ru
@@ -4933,6 +4934,7 @@ bjjjqx.com
 bjk30.com
 bjl2799.com
 bjmyw.com
+bjpzf.com
 bjqhgjj.com
 bjscivid.org
 bjsgycsf.com
@@ -6646,6 +6648,7 @@ cnpoco.com
 cnproxy.com
 cnpusi.com
 cnpython.com
+cnqd.net
 cnqjc.com
 cnradio.com
 cnrdn.com
@@ -19137,6 +19140,7 @@ pic.img80.com
 pic.leeyuoxs.com
 pic.modpi.cn
 pic.neiyicun.net
+pic.paopaoche.net
 pic.poklytk.com
 pic.pxstda.com
 pic.rliolmx.cn

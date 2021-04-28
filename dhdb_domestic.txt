@@ -9225,7 +9225,6 @@ api.xueersi.com.w.cdngslb.com
 api.xunyou.mobi
 api.yangkeduo.com
 api.yfscdn.net
-api.yidiansurong.com
 api.youke.co
 api.youtu.qq.com
 api.youxiaoad.com
@@ -14951,7 +14950,6 @@ chinacfi.net
 chinacfo.net
 chinacft.org
 chinacg.org
-chinacgv.com
 chinachemnet.com
 chinachooses.com
 chinachugui.com
@@ -16783,7 +16781,6 @@ cnpubg.com
 cnpv.com
 cnpythoner.com
 cnqc.com
-cnqd.net
 cnqiang.com
 cnqichun.com
 cnqjw.com
@@ -24691,6 +24688,7 @@ fzn.cc
 fzpig.com
 fzrsrc.com
 fztxylgy.com
+fzxyyqd.com
 fzyfan.com
 fzyfan.net
 fzyfs.net
@@ -45207,7 +45205,6 @@ pic.moad.cn
 pic.mytown.qq.com
 pic.new400.cn
 pic.orsoon.com
-pic.paopaoche.net
 pic.pc6.com
 pic.punchbox.org
 pic.qhyc55.com

@@ -1,6 +1,5 @@
 0-100.com
 0-6.com
-0.pic.paopaoche.net
 0.pic.pc6.com
 0.pool.ntp.org
 0.up.qingdaonews.com
@@ -5842,6 +5841,7 @@
 8l8e.com
 8le8le.com
 8lexdjpc.sched.d0.tdnsv5.com
+8liuxing.com
 8llp.com
 8mhh.com
 8miu.com
@@ -13288,7 +13288,6 @@ camscanner.com
 can-dao.com
 can.tv
 canaan-creative.com
-canaanwed.com
 canasy.com
 candou.com
 candypay.com
@@ -37083,6 +37082,7 @@ lers168.net
 lerye.com
 leshanvc.com
 leshi123.cc
+leshi123.com
 leshou.com
 leshow.com
 leshu.com

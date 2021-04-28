@@ -9374,7 +9374,6 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-zh.com
@@ -30827,7 +30826,6 @@ idianchou.com
 idianfa.com
 idianshijia.com
 idig8.com
-idigger.allyes.com
 idkaiu.com
 idm-su.baidu.com
 idm.api.io.mi.com
@@ -35997,7 +35995,6 @@ kr01.dns.meo-sub.site
 kr02.dns.meo-sub.site
 krahag.com
 krcom.cn
-krdem.com
 krdrama.com
 krmzz.org
 krpano.tech
@@ -44770,7 +44767,6 @@ pc120.com
 pc2.gtimg.com
 pc3.gtimg.com
 pc34.com
-pc3w.com
 pc4.gtimg.com
 pc5.gtimg.com
 pc51.com

@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 0000gz.com
 0006266.com
@@ -38157,6 +38156,7 @@ login2.dftoutiao.com
 login2.dingtalk.com
 loginlog.sdo.com
 loginxian.leiting.com
+logman.dmall.com
 logmonitor.leiting.com
 logo123.net
 logo33.com
@@ -48155,6 +48155,7 @@ qxkp.net
 qxm.pluto.sogou.com
 qxnecn.com
 qxnic.com
+qxnzx.com
 qxrisk.com
 qxslyfjq.com
 qxw.cc
@@ -52463,7 +52464,6 @@ sodalife.xyz
 sodao.com
 sodc8.com
 sodexo-cn.com
-sodhef.com
 sodocloud.com
 sodocs.net
 sody123.com

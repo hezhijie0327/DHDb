@@ -8944,6 +8944,7 @@ apgblogs.com
 apgoview.com
 aphidic.com
 api-20200527.xkspbz.com
+api-a.op-mobile.opera.com
 api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
 api-accounts.firefox.com.cn
@@ -9294,7 +9295,6 @@ apis1.gifshow.com
 apis1.ksapisrv.com
 apis2.gifshow.com
 apis2.ksapisrv.com
-apisnd.heytapmobi.com
 apisoft.df0535.com
 apissl.gifshow.com
 apissl.ksapisrv.com
@@ -9429,6 +9429,7 @@ app887.com
 appactivity.wmpvp.com
 appadhoc.com
 appapi.17house.com
+appapi.dmall.com
 appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
@@ -24851,6 +24852,7 @@ game.adwo.com
 game.baichuanhd.cn
 game.bilibili.com
 game.bilibili.com.w.cdngslb.com
+game.chillyroom.com
 game.china.com
 game.eve.mdt.qq.com
 game.funshion.com
@@ -32734,6 +32736,7 @@ ivy.pconline.com.cn
 ivybaby.me
 ivycoffee.com
 ivydad.com
+ivynuts.com
 ivypub.org
 ivyschools.com
 ivysoon.com

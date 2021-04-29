@@ -177,7 +177,6 @@
 027hy.com
 027idc.com
 027jsxh.com
-027lyw.com
 027one.com
 027qyt.com
 027qyy.com
@@ -629,7 +628,6 @@
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -29795,6 +29793,7 @@ huizhaofang.com
 huizhekou.net
 huizhijiaxun.com
 huizhimob.com
+huizhouf.com
 huizuche.com
 huizuoyuezi.com
 hujia.org

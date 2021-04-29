@@ -19778,7 +19778,6 @@ api.adguard.com
 api.adnet.mob.com
 api.adnsafe.org
 api.ads.watchabc.go.com
-api.adsymptotic.com
 api.adtimaserver.vn
 api.adv.ott.cibntv.net
 api.adxpand.com
@@ -32320,7 +32319,6 @@ cashback.co.uk
 cashbackwow.co.uk
 cashbycashapp.com
 cashheaven.ru
-cashier.alipay.com
 cashier.cff888.com
 cashier.ele.me
 cashify.com

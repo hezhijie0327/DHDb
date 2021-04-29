@@ -2680,7 +2680,6 @@
 17kyun.com
 17kzy.com
 17lewan.net
-17liansuo.com
 17liuxue.com
 17ll.com
 17luyouqi.com
@@ -6052,6 +6051,7 @@
 44-courier2.push.apple.com
 44.courier-push-apple.com.akadns.net
 44.dragonparking.com
+4400136566-xs.cp168.ws
 44003885.com
 4411buyu.com
 44124157.r.msn.com
@@ -8378,7 +8378,6 @@
 61hr.com
 61ic.com
 61info.com
-61k.com
 61kezhan.com
 61mami.com
 61mc.com
@@ -38092,7 +38091,6 @@ cnaifm.com
 cnair.com
 cnal.com
 cname-cdn.com
-cname.co
 cname.dingtalk.com.gds.alibabadns.com
 cname.finess.jp
 cname.jaic-college.jp
@@ -80071,7 +80069,6 @@ jp.com
 jp.hao123.com
 jp.net
 jp.pandora.tv
-jp.pool.ntp.org
 jp.rti.org.tw
 jp.xinhuanet.com
 jp.xinhuanet.com.lxdns.com
@@ -129166,7 +129163,6 @@ static.dianru.com
 static.diditaxi.com.cn
 static.dingtalk.com
 static.dingtalk.com.w.cdngslb.com
-static.dmall.com
 static.dns.iqiyi.com
 static.doubleclick.net
 static.doublemax.net

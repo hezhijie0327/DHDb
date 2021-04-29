@@ -19092,6 +19092,7 @@ dc.sigmob.cn
 dc.so.le.com
 dc1.networkbench.com
 dc330.com
+dc551.com
 dcache.hub.sandai.net
 dcads.sina.com.cn
 dcapi.365kqzs.cn
@@ -46743,7 +46744,6 @@ qdsdds.com
 qdsdk.jd.com
 qdserver.jd.com
 qdshitangchengbao.com
-qdskill.com
 qdsysj.com
 qdtech.ai
 qdtgood.com

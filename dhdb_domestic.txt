@@ -9387,6 +9387,7 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -29044,7 +29045,6 @@ hostadm.net
 hostcto.com
 hostelxian.com
 hostker.com
-hostkvm.com
 hostxen.com
 hot.m.shouji.360tpcdn.com
 hotalk.com
@@ -39251,7 +39251,6 @@ mackext.com
 macno1.com
 macocn.com
 macoshome.com
-macpeers.com
 macrosan.com
 macrosilicon.com
 macrounion.com
@@ -43956,7 +43955,6 @@ osx.cx
 osx.dianping.com
 osx.dianping.com.s2txipv6.cdntip.com
 osx.dpfile.com
-osxapps.itunes.apple.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.g.aaplimg.com
 osyunwei.com

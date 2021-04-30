@@ -1036,6 +1036,7 @@
 1-b.ns.emailvision.net.daraz.com
 1-b.tc
 1-cl0ud.com
+1-courier.push.apple.com
 1-courier.sandbox.push.apple.com
 1-courier2.push.apple.com
 1-cs.net
@@ -18424,7 +18425,6 @@ ampj557.com
 ampj558.com
 ampj660.com
 ampj665.com
-ampj778.com
 amplenote.com
 amplesky.com
 amplify.outbrain.com
@@ -47473,6 +47473,7 @@ dns.t53.de
 dns.twnic.tw
 dns.update.netease.com
 dns.weibo.cn
+dns.weixin.qq.com
 dns.whatleaks.com
 dns.ximalaya.com
 dns002.com
@@ -130408,6 +130409,7 @@ stereos2s.crutchfield.ca
 stereos2s.crutchfield.com
 steria-mummert.de
 stern.de
+steroidgames.com
 stetcher.com
 steuer-soldaten.de
 steve.id.au

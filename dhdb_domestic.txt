@@ -8228,6 +8228,7 @@ ali.push.yximgs.com.w.alikunlun.net
 ali.static.yximgs.com
 ali.static.yximgs.com.m.alikunlun.com
 ali.static.yximgs.com.m.alikunlun.com.qr.uuhimalayanqm.com
+ali.xmssdn.micloud.mi.com
 ali2-course.video.yximgs.com
 ali2-course.video.yximgs.com.m.alikunlun.com
 ali2.a.yximgs.com
@@ -19980,7 +19981,6 @@ djwxw.com
 djwyjszpyxgs473.shop.258.com
 djxww.com
 djyjob.com
-djystudio.com
 djysx.com
 djzhj.com
 djzr88.com
@@ -39055,7 +39055,6 @@ m.sp.17house.com
 m.static.xitongzhijia.net
 m.tansuotv.com
 m.taobao.com
-m.tbenc.com
 m.tech.china.com
 m.techweb.com.cn.w.kunlungr.com
 m.thepaper.cn
@@ -49436,7 +49435,6 @@ s.renren.com
 s.search.bilibili.com
 s.share.baidu.com
 s.ssl.qhimg.com
-s.ssl.qhres.com
 s.tbcdn.cn
 s.trafficjam.cn
 s.u7u9.com
@@ -51449,7 +51447,6 @@ shoufm.com
 shouhoubang.com
 shouji.sogou.com
 shouji.yd126.com
-shouji10086.com
 shouji315.org
 shoujibao.net
 shoujiduoduo.com

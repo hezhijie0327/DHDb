@@ -11160,7 +11160,6 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -30347,6 +30346,7 @@ i.m.58.com
 i.mail.qq.com
 i.mairuan.com
 i.meituan.com
+i.mi.com
 i.mid.tdnsv6.com
 i.mmcdn.cn
 i.news.qq.com

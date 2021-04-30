@@ -1036,7 +1036,6 @@
 1-b.ns.emailvision.net.daraz.com
 1-b.tc
 1-cl0ud.com
-1-courier.push.apple.com
 1-courier.sandbox.push.apple.com
 1-courier2.push.apple.com
 1-cs.net

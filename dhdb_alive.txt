@@ -47480,7 +47480,6 @@ dns.t53.de
 dns.twnic.tw
 dns.update.netease.com
 dns.weibo.cn
-dns.weixin.qq.com
 dns.whatleaks.com
 dns.ximalaya.com
 dns002.com
@@ -70808,7 +70807,6 @@ huhuvr.com
 hui-ben.com
 hui-chao.com
 hui.net
-hui.so
 hui.sohu.com
 hui10.com
 hui20.com

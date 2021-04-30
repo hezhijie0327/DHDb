@@ -12354,7 +12354,6 @@ a2pssl-drcn.dbankcdn.cn
 a2put.chinaz.com
 a2put.chinaz.com.wswebpic.com
 a2zapk.com
-a3.allyes.com
 a3.ikafan.com
 a3.img.static.youmi.net
 a3.jandan.net
@@ -14928,6 +14927,7 @@ ads.eagletribune.com
 ads.easy-forex.com
 ads.ecircles.com
 ads.economist.com
+ads.edbindex.dk
 ads.egrana.com.br
 ads.einmedia.com
 ads.eircom.net
@@ -14968,6 +14968,7 @@ ads.flurry.com
 ads.fool.com
 ads.footymad.net
 ads.forbes.net
+ads.formit.cz
 ads.fortunecity.com
 ads.fotoable.com
 ads.fotosidan.se
@@ -25135,7 +25136,6 @@ bdcode.qinglm.com
 bdcode.youke.com
 bdcode1.haodou.com
 bdd.hainan.net
-bddm.999d.com
 bderbn.foxtrot.com.ua
 bdf2.com
 bdf304.com
@@ -54408,6 +54408,7 @@ extensions-discovery-images.twitch.tv
 extensions-loader.azurewebsites.net
 extensisgroup.com
 external-30160.picsz.qpic.cn
+external-promo-metrics.yandex.net
 external-svc-dal.swiftype.net
 external.simpleanalytics.com
 extfans.com
@@ -91729,7 +91730,6 @@ marketing.ssfllp.com
 marketing.stahl.com
 marketing.starmicronics.com
 marketing.stay-rlhc.com
-marketing.steelforge.com
 marketing.stellarmls.com
 marketing.sunny.org
 marketing.superiorrecreationalproducts.com

@@ -356,6 +356,7 @@
 083332.com
 0838.com
 0852e.com
+0853rc.com
 0869a.com
 086xinhua.com
 0885299.com
@@ -27101,7 +27102,6 @@ dl.airtable.com
 dl.benefits.express-scripts.com
 dl.box.net
 dl.browsermine.com
-dl.delivery.mp.microsoft.com
 dl.dell.com
 dl.devmate.com
 dl.discordapp.net
@@ -35031,6 +35031,7 @@ fzl7.com
 fzlft.com
 fznkjk.bonprix.sk
 fzqcbz.com
+fzshbx.org
 fzsjob.com
 fzxjxkb.com
 fzz.shgqjr.com
@@ -45809,7 +45810,6 @@ jinlianchu.com
 jinliaoyang.com
 jinligou.com
 jinluanshi.com
-jinmaojie.com
 jinnaju.com
 jinniu89.com
 jino-net.ru
@@ -49393,6 +49393,7 @@ like.co
 like.lhzhang.com
 like.likewut.net
 likehere.me
+likeji.net
 likelink.net
 likeminer.nablabee.com
 likemore-go.imgsmail.ru
@@ -63511,7 +63512,6 @@ pjbar2.xyz
 pjbar7.xyz
 pjcrwljs.com
 pjdc0055.com
-pjdc1122.com
 pjdc1133.com
 pjdc1166.com
 pjdc5000.com
@@ -66301,7 +66301,6 @@ quentic.com
 queqiaoba.com
 query.ess-apple.com.akadns.net
 query.ess.apple.com
-query.hicloud.com
 query.prod.cms.rt.microsoft.com
 querylist.cc
 queryly.com

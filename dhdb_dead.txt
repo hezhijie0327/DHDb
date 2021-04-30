@@ -7063,7 +7063,6 @@ cpc.9v.cn
 cpc.haohaowan8.com
 cpc.xioo.cn
 cpcontacts.beeppool.org
-cpcpcp222.com
 cpcpcp555.com
 cpifeng.com
 cpk1111.com
@@ -12126,6 +12125,7 @@ hnmgjr.com
 hnnuange.com
 hnquyou.com
 hnrledu.com
+hnsdedu.com
 hnxcdjk.com
 hnxueqian.com
 hnydmq.com
@@ -22674,7 +22674,6 @@ test404.com
 testcddc.atclouddev.net
 testnet.jsecoin.com
 testnet.nimiqpool.com
-testxy.com
 text-ad.kuaibo.com
 text-ad.qvod.com
 textron.vo.llnwd.net

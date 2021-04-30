@@ -3,6 +3,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -305,6 +306,7 @@
 06dns.com
 06youxi.com
 070210.com
+0707cdn.com
 0710522.com
 0713hb.com
 0714news.com
@@ -11028,6 +11030,7 @@ api.rnet.plus
 api.rubic.com.tr
 api.rudderlabs.com
 api.sail-personalize.com
+api.samsungcloud.com
 api.savemedia.website
 api.sbz.vn
 api.sciencemag.org
@@ -38786,7 +38789,6 @@ gxbf.net
 gxcaxz.cresus.fr
 gxcgw.com
 gxdahua.com
-gxdmw.com
 gxjfh.com
 gxjnyy.contorion.fr
 gxkyl.com

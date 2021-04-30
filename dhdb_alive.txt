@@ -1058,7 +1058,6 @@
 1.ajiyuming.com
 1.appexchange.com
 1.arpun.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bb5522.ws
 1.bb6688.ws
@@ -32394,6 +32393,7 @@ cashback.co.uk
 cashbackwow.co.uk
 cashbycashapp.com
 cashheaven.ru
+cashier.alipay.com
 cashier.cff888.com
 cashier.ele.me
 cashify.com
@@ -34075,6 +34075,7 @@ cer.net
 cerambath.org
 ceramicschina.com
 cerberus-408a9.web.app
+cern.ch
 cerner.com
 cernet.com
 cernet.mirrors.ustc.edu.cn
@@ -79061,7 +79062,6 @@ jietusoft.com
 jiexi.la
 jiexi.link
 jiexi8.com
-jieyixiu.com
 jieyou.com
 jieyoujob.com
 jieyue.net
@@ -81151,7 +81151,6 @@ jupyter.org
 juqi.com
 juqingjuqing.com
 juqiwang.net
-jur.unn.ac.ru
 juren.com
 jurenqi.com
 jurgens.com.ar

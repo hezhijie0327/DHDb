@@ -10953,6 +10953,7 @@ api.fosshub.com
 api.frankerfacez.com
 api.freewebfonts.org
 api.gameofwhales.com
+api.geetest.com
 api.gimbal.com
 api.github.com
 api.graphql.imdb.com
@@ -32933,7 +32934,6 @@ figma.com
 figprayer.com
 fiiimg.com
 fiinote.com
-fiio.net
 fijisun.com.fj
 fiknma.7ya.ru
 filament-stats.herokuapp.com
@@ -44003,7 +44003,6 @@ internetexplorer.com
 internetfreedom.org
 internetnews.com
 internetofeverything.com
-internetpopculture.com
 internetspeedtracker.com
 internetstandard.pl
 internetstores.de

@@ -111217,6 +111217,7 @@ pubserver3.bizport.cn
 pubserver4.bizport.cn
 pubserver5.bizport.cn
 pubserver8.bizport.cn
+pubshop.img.uol.com.br
 pubstr.acs.org
 pubstr.acspubs.org
 pubsub-edge.twitch.tv

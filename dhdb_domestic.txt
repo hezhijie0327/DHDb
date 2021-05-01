@@ -8226,7 +8226,6 @@ ali.push.yximgs.com.w.alikunlun.net
 ali.static.yximgs.com
 ali.static.yximgs.com.m.alikunlun.com
 ali.static.yximgs.com.m.alikunlun.com.qr.uuhimalayanqm.com
-ali.xmssdn.micloud.mi.com
 ali2-course.video.yximgs.com
 ali2-course.video.yximgs.com.m.alikunlun.com
 ali2.a.yximgs.com
@@ -10328,6 +10327,7 @@ b79fd8a4.qc.x.bsgslb.cn
 b7n5mpzsp36kyqzkyzxciqcwstrysigg.yundunwaf5.com
 b8yx.com
 b90246b47bbdc22caa900cb6467f847d.safeframe.googlesyndication.com
+b9128.com
 b92.photo.store.qq.com
 b9999.com
 b9g4.nxwfhjvi.cn
@@ -20162,7 +20162,6 @@ dm.bytedance.com.w.cdngslb.com
 dm.cnbanbao.com
 dm.cqdxun.cn
 dm.gucheng.com
-dm.hxzdhn.com
 dm.jb51.net
 dm.jsyst.cn
 dm.lianzhixiu.com
@@ -24827,7 +24826,7 @@ galaxystore.ad-survey.com
 galend.gallerycdn.azure.cn
 galiaoba.com
 galitv.alicdn.com
-galleryapi.micloud.xiaomi.net
+galleon.dmall.com
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
 gallopgazelle.com
@@ -26199,7 +26198,6 @@ gs265.com
 gsbankchina.com
 gsbankmall.com
 gsdata.cn
-gsdhome.cn
 gsdk.tv
 gsflcp.com
 gsgs10086.com
@@ -50923,7 +50921,6 @@ shanyhs.com
 shanyin.baixing.com
 shanyougame.com
 shanzhaiba.com
-shanzhaiji.com
 shanzhaiwang.net
 shanzhen.me
 shanzhonglei.com

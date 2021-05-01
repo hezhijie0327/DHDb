@@ -4718,7 +4718,6 @@ beacon.search.yahoo.com
 beacon.watch.impress.co.jp
 beacon.www.theguardian.com
 beacons.helium.com
-bearead.com
 beargoo.com
 beastforum.com
 beats1.cc
@@ -10991,7 +10990,6 @@ gboooo.com
 gbpjam.com
 gbr-eri-c2-s1.inf.nimiq.network
 gbr-eri-c2-s2.inf.nimiq.network
-gbsou.com
 gbtags.com
 gbzruyyhnzfc.localdomain
 gbzumh.cn

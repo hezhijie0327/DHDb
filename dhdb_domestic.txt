@@ -8935,6 +8935,7 @@ apgoview.com
 aphidic.com
 api-20200527.xkspbz.com
 api-access.pangolin-sdk-toutiao-b.com
+api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
 api-accounts.firefox.com.cn
 api-ad.kajicam.com
@@ -11154,6 +11155,7 @@ beacons5.gvt3.com
 beadwallet.com
 bear20.com
 bearad.com
+bearead.com
 bearjoy.com
 bearminers.xyz
 bearrental.com
@@ -18885,7 +18887,6 @@ data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
-data.sec.miui.com
 data.sonkwo.com
 data.trendymedia.com.cn
 data.tvguo.tv
@@ -37650,7 +37651,6 @@ lisen.me
 lishi.wanyx.com
 lishi.yxbao.com
 lishi1.yxbao.com
-lishi5.com
 lishichunqiu.com
 lishiip.com
 lishiming.net

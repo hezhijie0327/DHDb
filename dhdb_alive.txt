@@ -74841,7 +74841,6 @@ info.biz.nuro.jp
 info.bizdrive.ntt-east.co.jp
 info.blackhillsgroup.net
 info.blbrokers.com
-info.bmc.com
 info.bnp-news.de
 info.bocamuseum.org
 info.boozallen.com
@@ -80358,7 +80357,6 @@ jrjingshan.com
 jrjr.com
 jrkan.cc
 jrklein.com
-jrlady.com
 jrlt.beacon.qq.com
 jrmf360.com
 jrmfp.jr.jd.com
@@ -93467,6 +93465,7 @@ merics.de
 merics.org
 meride.tv
 meridia.1.p2l.info
+meridia.3.p2l.info
 meridia.4.p2l.info
 meridiameridia.3xforum.ro
 meridian-trust.org
@@ -116080,6 +116079,7 @@ report.gome.com.cn
 report.idqqimg.com
 report.meituan.com
 report.mitsubishicars.com
+report.novinky.cz
 report.parallels.com.cdn.cloudflare.net
 report.pcgec.qq.com
 report.pindayun.com

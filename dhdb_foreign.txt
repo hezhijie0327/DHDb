@@ -438,7 +438,6 @@
 1-r-is-1-2.net.daraz.com
 1.ajiyuming.com
 1.appexchange.com
-1.asia.pool.ntp.org
 1.bb5522.ws
 1.bb6688.ws
 1.bh5.com.cn
@@ -3938,7 +3937,6 @@
 6btbtt.com
 6cf47f9e49d34e069d0b41a5089b363d.fp.measure.office.com
 6d354b124262686b51102cf63e7c4732.clo.footprintdns.com
-6ddc.tartine-et-chocolat.com
 6do.news
 6e4ep.j5.biz.tm
 6eys.com
@@ -15050,6 +15048,7 @@ bi-si999.xyz
 bi-vetmedica.com
 bi.tvbeee.com
 bi.yeshen.com
+bi11.com
 bia.brightinfo.com
 biacgn.com
 bianca.com
@@ -35174,6 +35173,7 @@ galgame.net
 galgamez.cc
 galgamezd.com
 galleries.pimproll.com
+galleryapi.micloud.xiaomi.net
 galleryn0.awemdia.com
 galletasparati.cl
 gallup.com

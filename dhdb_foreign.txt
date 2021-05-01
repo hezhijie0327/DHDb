@@ -403,7 +403,6 @@
 0d.work
 0d1a018f1d5b4651a2cca12e1170cf36.fp.measure.office.com
 0dayporno.com
-0dj.net
 0eb23dbaa080a7c584e5f24c1a0273f5.clo.footprintdns.com
 0fbhhfxdxc.com
 0ffer.eu
@@ -9159,7 +9158,6 @@ aiyyu.com
 aizel.ru
 aizhaofuli.com
 aizhaomu.com
-aizhenghun.com
 aizhengrong.net
 aizhet.com
 aizhi.co
@@ -23633,6 +23631,7 @@ crl.apple.com
 crl.comodoca.com
 crl.digicert-cn.com
 crl.globalsign.com
+crl.globalsign.net
 crl.identrust.com
 crl.quovadisglobal.com
 crl.trust-provider.com
@@ -34454,7 +34453,6 @@ fresh.techdirt.com
 freshdesk.com
 freshfaces.com.my
 freshfinds.com
-freshlive.tv
 freshly.com
 freshmail.com
 freshmail.mx
@@ -35797,7 +35795,6 @@ geonetric.com
 geoport.com
 georgiagun.com
 georgiapower.com
-georgiaskater.com
 geoservice.curse.com
 geoshopping.nzherald.co.nz
 geosql.net

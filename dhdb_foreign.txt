@@ -3,6 +3,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -25643,7 +25644,6 @@ dc.applicationinsights.azure.com
 dc.arrivalist.com
 dc.audi.com
 dc.banggood.com
-dc.chillyroom.com
 dc.di.atlas.samsung.com
 dc.glbtls.t.co
 dc.oracleinfinity.io
@@ -65993,7 +65993,6 @@ qizi.la
 qj258.com
 qj26.com
 qjdmfv.natchezss.com
-qji.cc
 qjkc.net
 qjvpn.com
 qjxhxu.lakeside.com

@@ -1383,7 +1383,6 @@
 1l-view.mail.ru
 1lewen.com
 1lib.ch
-1lib.cn
 1lib.nl
 1lib.uk
 1lib.us
@@ -2276,6 +2275,7 @@
 33cp.com
 33dzcp.com
 33fyt.com
+33hgvip.com
 33lc.com
 33leto.com
 33msc.com
@@ -19611,7 +19611,6 @@ cdn.innity.net
 cdn.itsup.com
 cdn.jotfor.ms
 cdn.jquery-uim.download
-cdn.jsdelivr.net
 cdn.kdkw.jp
 cdn.keywee.co
 cdn.kik.com
@@ -21575,6 +21574,7 @@ cloudfrontlib-ln-1.net.daraz.com
 cloudfunctions.net
 cloudgap.net
 cloudgertopage.com
+cloudgoing.com
 cloudhealthtech.com
 cloudian.com
 cloudinary.com
@@ -22641,7 +22641,6 @@ congress.gov
 congressrental.asia
 congzao.com
 conlatatca.vn
-conn1.oppomobile.com
 connaissancesfinancierespratiques.ca
 connatix.com
 connect-in-canada.com
@@ -25644,6 +25643,7 @@ dc.applicationinsights.azure.com
 dc.arrivalist.com
 dc.audi.com
 dc.banggood.com
+dc.chillyroom.com
 dc.di.atlas.samsung.com
 dc.glbtls.t.co
 dc.oracleinfinity.io
@@ -31817,6 +31817,7 @@ f37555.com
 f37c88082f894b318447253879366eaf.fp.measure.office.com
 f3b.work
 f4.flnet.org
+f4.info.tm
 f4.shared.global.fastly.net
 f5.com
 f5.dfcwg.com
@@ -49639,7 +49640,6 @@ linuxyunwei.com
 linwan.net
 linweiyuan.com
 linx.jp
-linxingyang.net
 linyimama.com
 linyingfans.com
 lion.kusama.network
@@ -54655,7 +54655,6 @@ mierhuo.com
 miernik.technologiewdomu.pl
 miffyliye.org
 mig4.ddns.ms
-migantech.com
 mightiger.net
 mightycast.com
 migudy.com
@@ -66039,6 +66038,7 @@ qnbskk.oqvestir.com.br
 qncye.net
 qndb.net
 qnqdpy.edreams.net
+qnvod.net
 qnxsk.com
 qochma.pufetto.com.ua
 qoe-1.yottaa.net

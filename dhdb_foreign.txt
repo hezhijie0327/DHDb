@@ -3,7 +3,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -22404,7 +22403,6 @@ com.tw
 com.vn
 com126.com
 com21.com
-combaidu.com
 combifit.be
 combine.urbanairship.com
 combz.jp
@@ -58777,6 +58775,7 @@ norcomsystemsinc.com
 nord-cn.net
 nord-cn.org
 nord-for-apps.com
+nord-help.com
 nord-in-cn.org
 nord-me.com
 nord-mirror-site.net

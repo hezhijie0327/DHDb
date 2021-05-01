@@ -8998,7 +8998,6 @@ api.1sapp.com
 api.22lianmeng.com
 api.557400.com
 api.5hte21mz.com
-api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -16134,7 +16133,6 @@ cm-10-58.getui.com
 cm-10-59.getui.com
 cm-10-60.getui.com
 cm-10-62.getui.com
-cm-10-73.getui.com
 cm-cn-central-00001.albatross.10086.cn
 cm-iov.com
 cm-udmp.gridsumdissector.com
@@ -32309,7 +32307,6 @@ iqingua.com
 iqishu.la
 iqiyi-mipdx.cn.miaozhen.com
 iqiyi.com
-iqiyi.irs01.com
 iqiyi.kim
 iqiyi.m.cn.miaozhen.com
 iqiyi.pub
@@ -38080,6 +38077,7 @@ log.tpns.sh.tencent.com
 log.tpns.tencent.com
 log.trackingio.com
 log.umsns.com
+log.uu.163.com
 log.v2.hunantv.com
 log.vcgame.cn
 log.voicecloud.cn
@@ -40458,6 +40456,7 @@ mifengzhibo.com
 mifile.cn
 mifispark.com
 mig.str.mdt.qq.com
+migantech.com
 migelab.com
 migroom.com
 migu.cn
@@ -52764,7 +52763,6 @@ spdiy.net
 spdl.com
 spdytest.baidu.com
 spdytest1.baidu.com
-spe777.com
 spec.wtaplbs.yy.com
 specie.chaoxing.com
 speed.control.vip.xunlei.com

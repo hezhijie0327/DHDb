@@ -2647,7 +2647,6 @@
 3rxing.org
 3s3s.org
 3ssee.com
-3tnm.com
 3tui.net
 3u.com
 3u888.com
@@ -10872,6 +10871,7 @@ api-umamusume.cygames.jp
 api-us-east-1.ndsopaapl.nudatasecurity.com
 api-verify.recaptcha.net
 api-xspacewww.partner.net.daraz.com
+api-zdj.com
 api.140proof.com
 api.24kidea.com
 api.a5188yes.com
@@ -61215,7 +61215,6 @@ oui.sncf
 ouigo.com
 oujdacity.net
 ouliannews.com
-oumazg.com
 oumma.com
 ouoou.com
 oup.com
@@ -78669,6 +78668,7 @@ szykownamama.pl
 szysfxx.com
 szysmpay.com
 szyuke.cn
+szzek.com
 t-0009.t-msedge.net
 t-amo.net
 t-biao.com

@@ -11094,6 +11094,7 @@ api.accounts.nintendo.com
 api.ad-locus.com
 api.ad-stir.com
 api.ad.intl.xiaomi.com
+api.ad.xiaomi.com
 api.ad.xv555.com
 api.adcalls.nl
 api.addins.omex.office.net
@@ -12458,6 +12459,7 @@ assbbs.com
 assembla.com
 asset-cache.net
 asset.nahnoji.cz
+asset.newyx.net
 asset.pagefair.net
 assetmanagement.att.com
 assets-cdn.github.com
@@ -41927,6 +41929,7 @@ huasing.org
 huatefamen.net
 huath.cn
 huaweimarine.com
+huaweisymantec.com
 huaxia-news.com
 huaxiabao.org
 huaxin.ph

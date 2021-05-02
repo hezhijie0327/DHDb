@@ -9804,7 +9804,6 @@ appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
 appbacklog.dftoutiao.com
-appbackupapi.micloud.xiaomi.net
 appbi.com
 appbk.com
 appbocai.com
@@ -16168,6 +16167,7 @@ chunxuanmao.com
 chunyiscdk.com
 chunyu.mobi
 chunyuyisheng.com
+chunzuijiuye.com
 chuqimen.com
 chuquan.me
 chuqulvxing.com
@@ -47272,7 +47272,6 @@ pinshanghe.com
 pinshiwen.com
 pinshu.com
 pintu360.com
-pintuanzu.com
 pintuer.com
 pinwenba.com
 pinyin.sogou.com

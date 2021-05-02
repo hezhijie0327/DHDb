@@ -9320,7 +9320,6 @@ api.3839app.com
 api.557400.com
 api.5hte21mz.com
 api.account.xiaomi.com
-api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -14775,6 +14774,7 @@ cf.arctime.cn
 cf.duba.net
 cf.zaiyunli.cn
 cf027.com
+cf668.com
 cf865.com
 cf8d.stat.gw.youmi.net
 cfachina.org

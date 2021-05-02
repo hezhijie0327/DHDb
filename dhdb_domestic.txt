@@ -20786,6 +20786,7 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
+dl.delivery.mp.microsoft.com
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
 dl.djicdn.com
@@ -46541,6 +46542,7 @@ pbcan.com
 pbd.sogou.com
 pbmp.ali213.net
 pbootcms.com
+pbsvpn.com
 pbtxt.com
 pc-dvd.com
 pc-fly.com
@@ -48721,6 +48723,7 @@ qgsydw.com
 qgtql.com
 qguiyang.com
 qgvps.com
+qgwsp.com
 qgxl.org
 qgysj.org
 qgzzz.com

@@ -17105,6 +17105,7 @@ messagent.duvalguillaume.com
 messengernewspapers-gb.messengernewspapers.co.uk
 met.adwhirl.com
 met.vgwort.de
+metadata.google.internal
 metajs.info
 metao.com
 metric-agent.i10c.net
@@ -17311,6 +17312,7 @@ minghui-b.org
 minghui.or.kr
 mingjian.com
 mini-audio.com
+mini.group.qq.com
 mini.jijiplayer.com
 minidcsc.kugou.com
 mining-etcc.beeppool.org
@@ -17423,6 +17425,7 @@ mmtrixopt.com
 mmv.admob.com
 mmxcgd.com
 mmy.moe
+mnalrdetchige.localdomain
 mnc10.com
 mndvd.net
 mo.3uj0a.xyz
@@ -18095,6 +18098,7 @@ net.tr
 net5.ga
 neta.so
 netacad.net
+netbank.hwataibank.com.tw
 netcolor.com
 netded.com
 netdna-cdn.com
@@ -18334,6 +18338,7 @@ nnm.chrommotor.com
 nnn26.net
 nnoxzo.rfskbylbsf.xyz
 nnsky.com
+nnxkxdhu.localdomain
 nnylf168.com
 no.kcai779.com
 noarter.com
@@ -18442,6 +18447,7 @@ ntzfly.cn
 nubao.lsdys.cn
 nugettest.org
 nuicdc.org
+null.mig.tencent-cloud.net
 nuloe.alksdh.com
 num1dns.com
 numax.nu-1.com
@@ -18650,6 +18656,7 @@ office365love.com
 officezu.com
 offodd.com
 offre-companeo.com
+og.person.mgtv.com
 ogbwqq.gkwtk.xyz
 ogengine.com
 ohaotian.com
@@ -18711,6 +18718,7 @@ omg.gzmxybg.com
 omg2.com
 omgpl.com
 omni.news
+omniscientai.com
 omniture.chip.de
 omniture.eaeurope.eu
 omoplanet.com
@@ -18852,6 +18860,7 @@ org.sg
 org.tr
 org.tw
 org.vn
+ori-www.wondershare.com.tw
 orion.platino.gov.ve
 orixrentec.jp
 orluqvgu.localdomain
@@ -18942,6 +18951,7 @@ oxygenos.com
 oycode.com
 oycslia.xyz
 oylecudezqe.localdomain
+oymrnpyrewr.localdomain
 ozhibao.com
 p-behacdn.ksmobile.net
 p-log.ykimg.com
@@ -19252,6 +19262,7 @@ petshoming.com
 pf.h2rybi.cn
 pf.h5game.cn
 pfr.anistar.ru
+pfujaih.localdomain
 pg-leak.com
 pg.it
 pg0.cn
@@ -19321,6 +19332,7 @@ photo.ytmaksim.cn
 photo.yxslt.cn
 photo.zgncpjyw.cn
 photo.zhanhevr.cn
+photo4.zxip.com
 photohito.com
 photoint.net
 photosanxia.com
@@ -19346,6 +19358,7 @@ piasy.com
 pibaba.com.cn
 pic-imges.com
 pic-rere.com
+pic-wanvi-net.ixmu.net
 pic.14bobo.com
 pic.2u.com.cn
 pic.517m.cn
@@ -19410,6 +19423,7 @@ pingancdn.com
 pingapple.com
 pingbi.diudou.com
 pingcegu.com
+pingfore.wegame.com.cn
 pingguocms.com
 pingshuocoal.com
 pingyumarathon.com
@@ -19940,6 +19954,7 @@ qcwan.com
 qcwhw.com
 qcwyxx.com
 qczb8.com
+qd.browser.qq.com
 qd.dhzw.org
 qd.js.sanjiangge.com
 qd.l02r3.cn
@@ -20149,6 +20164,7 @@ qqlinux.com
 qqlogo.qq.com
 qqmailboxs.dns04.com
 qqmcc.com
+qqmemberships.serveuser.com
 qqmoke.com
 qqodjn.com
 qqoocc.com
@@ -20207,6 +20223,7 @@ qtlglb.info
 qtmlhs.com
 qtmojo.com
 qtpb.12jf3.cn
+qtreport.qq.com
 qtyd.com
 qualcomm-email.com
 qualifytring.com
@@ -20521,6 +20538,8 @@ requestads.com
 rere-cdn.com
 rererb.com
 rerouted.org
+res.17xf.qq.com
+res.17zj.qq.com
 res.9z.qq.com
 res.a6.hjfile.cn
 res.adcome.cn

@@ -6974,7 +6974,6 @@ a2p-s01-drcn.cloud.dbankcloud.cn
 a2pssl-drcn.dbankcdn.cn
 a2put.chinaz.com
 a2put.chinaz.com.wswebpic.com
-a3.allyes.com
 a3.att.hudong.com
 a3.ikafan.com
 a3.img.static.youmi.net
@@ -15702,6 +15701,7 @@ chinajzqc.com
 chinakaoyan.com
 chinakidville.com
 chinakingo.com
+chinakongzi.org
 chinakyzl.com
 chinalabexpo.com
 chinalabs.com
@@ -45836,6 +45836,7 @@ oujistore.com
 oukan.online
 ouklqd.com
 oulvnet.com
+oumazg.com
 oumengke.com
 ounh.org
 ounion.openadx.com
@@ -46940,7 +46941,6 @@ phoent.com
 phoer.net
 phome.net
 phone580.com
-phonecallapi.micloud.xiaomi.net
 phonecoolgame.com
 phonefinder1.hicloud.com
 phonegap100.com

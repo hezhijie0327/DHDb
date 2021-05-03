@@ -20021,6 +20021,7 @@ cdn.itsup.com
 cdn.izooto.com
 cdn.jotfor.ms
 cdn.jquery-uim.download
+cdn.jsdelivr.net
 cdn.kdkw.jp
 cdn.keywee.co
 cdn.kik.com
@@ -26096,6 +26097,7 @@ davison.com
 davivienda.cr
 dawanda.com
 dawangidc.com
+dawanjiakaihu.com
 dawartz.com
 dawenxue.net
 dawgsofcraft.com
@@ -27776,6 +27778,7 @@ dmcoders.com
 dmcomic.org
 dmd.metaservices.microsoft.com
 dmdigbrzjbmso.cloudfront.net
+dmeiti.com
 dmesg.app
 dmetric-partner.net.daraz.com
 dmg.digitaltarget.ru
@@ -80087,6 +80090,7 @@ szxccled.com
 szxinjiaxin.com
 szyfdz.net
 szyibuda.com
+szyin.com
 szykownamama.pl
 szysfxx.com
 szysmpay.com
@@ -83731,6 +83735,7 @@ tracker.frozen-layer.net
 tracker.gbitt.info
 tracker.gcvchp.com
 tracker.giftd.ru
+tracker.gigatorrents.ws
 tracker.hama3.net
 tracker.hdsky.me
 tracker.icerocket.com
@@ -86801,7 +86806,6 @@ v2.hd.log.hunantv.com
 v2.hdd.log.hunantv.com
 v2.hk01.qgyc.ooo
 v2.jp01.qgyc.ooo
-v2.jp02.qgyc.ooo
 v2.qiguangyicai.com
 v2.sg.media-imdb.com
 v2.tw01.qgyc.ooo

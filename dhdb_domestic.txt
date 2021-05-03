@@ -29685,7 +29685,6 @@ hk-ss04.meo-sub.site
 hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk01.dns.meo-sub.site
 hk02.dns.meo-sub.site
@@ -40687,7 +40686,6 @@ m.zol.com.cn
 m.zs-hospital.sh.cn
 m.zuimh.com
 m.zzcm5.com
-m.zzhangqing.top
 m.zzx.cnklog.com
 m03.click.com.cn
 m0816.com
@@ -44970,7 +44968,6 @@ o2moment.com
 o2o-ad-clicking.alibaba.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
-o2o.api.xiaomi.com
 o2o.keloop.cn
 o2oexpo.com
 o2osd.com
@@ -54914,7 +54911,6 @@ soupian.org
 soupingguo.com
 soupis.com
 soupu.com
-soupu.org
 soupv.com
 souqian.com
 souqiu8.com
@@ -59659,7 +59655,6 @@ u-om.com
 u-qun.com
 u-road.com
 u-x.jd.com
-u.1133.cc
 u.123hala.com
 u.63kc.com
 u.801t.com

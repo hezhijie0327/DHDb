@@ -29641,6 +29641,7 @@ hk-ss04.meo-sub.site
 hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk01.dns.meo-sub.site
 hk02.dns.meo-sub.site

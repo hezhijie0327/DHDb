@@ -20641,7 +20641,6 @@ dir-update.wegame.com.cn
 dir.minigame.qq.com
 dir.v.wo.cn
 dir.wo186.tv
-dir001.com
 direction2.is.autonavi.com
 direction2.is.autonavi.com.gds.alibabadns.com
 directui.com
@@ -25432,6 +25431,7 @@ fun7803.com
 fun809.com
 fun88-i78.com
 fun8807.com
+fun8810.com
 fun881211.com
 fun88316.com
 fun88369.com
@@ -41387,6 +41387,7 @@ mbs.boc.cn
 mbs.hao.360.cn
 mbs.weathercn.com
 mbs1.bdstatic.com
+mbsky.com
 mbsts.cp12.ott.cibntv.net
 mbsug.ssl.so.com
 mbsug.ssl.so.qss-lb.com

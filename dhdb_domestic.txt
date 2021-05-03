@@ -637,6 +637,7 @@
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -7687,7 +7688,6 @@ ads.huan.tv
 ads.icloseli.cn
 ads.ishansong.com
 ads.jianchiapp.com
-ads.linkedin.com
 ads.miidi.net
 ads.mojicdn.com
 ads.oneway.mobi
@@ -33491,7 +33491,6 @@ ios.rqd.qq.com
 ios8.app
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
-iosapps.itunes.apple.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
 iosapps.itunes.apple.com.m.alikunlun.net.v.vvpncdn.com

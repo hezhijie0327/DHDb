@@ -1708,6 +1708,7 @@
 223ww.net
 223zz.net
 224.changeip.net
+224.com
 2243.com
 22442400.com
 224881.com
@@ -11560,7 +11561,6 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
-api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -40501,7 +40501,6 @@ greenvpn.net
 greenvpn.org
 greenway.ie
 greenweez.com
-greenwx.com
 greif.com
 grey.erne.co
 greyhurst.ca

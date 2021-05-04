@@ -11217,6 +11217,7 @@ api.accounts.nintendo.com
 api.ad-locus.com
 api.ad-stir.com
 api.ad.intl.xiaomi.com
+api.ad.xiaomi.com
 api.ad.xv555.com
 api.adcalls.nl
 api.addins.omex.office.net
@@ -11646,7 +11647,6 @@ appadvice.com
 appali.hnlsht.com
 appanalysis.banggood.com
 appao.com
-appbackupapi.micloud.xiaomi.net
 appbaqend.com
 appbid.com
 appboy-images.com
@@ -73604,7 +73604,6 @@ shaoboqiulinwedding.weebly.com
 shaogood.com
 shaoka5.com
 shaokang.org
-shaolinxuefei.com
 shaoshuren.org
 shapach.net
 shapeservices.com

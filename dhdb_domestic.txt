@@ -25187,7 +25187,6 @@ fp-dev.webapp.163.com
 fp-it.fengkongcloud.com
 fp.czvv.com
 fp.fraudmetrix.cn
-fp.ps.netease.com
 fp.tongdun.net
 fpb.docin.com
 fpb.sohu.com
@@ -54078,7 +54077,6 @@ sinan-agent.jd.com.gslb.qianxun.com
 sinanet.com
 sinanya.com
 sinaquyong.com
-sinas.allyes.com
 sinashow.com
 sinasinasinasina.com
 sinastorage.com

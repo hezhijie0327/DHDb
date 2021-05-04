@@ -32299,7 +32299,6 @@ eventlog.inspsearchapi.com
 eventlog.jackpot.de
 eventlog.outbrain.com
 eventos.lp.deloittecomunicacao.com.br
-events-api.outfit7.net
 events-collector.spot.im
 events-prod-1-1033355748.us-east-1.elb.amazonaws.com
 events.air.tv
@@ -42420,7 +42419,6 @@ huaxia-news.com
 huaxiabao.org
 huaxin.ph
 huaxugg.com
-huaxunnsw.com
 huayanghui.net
 huayilanxin.com
 huayuebaobao.com

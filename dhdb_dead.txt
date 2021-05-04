@@ -236,6 +236,7 @@
 1030car.com
 10399888.com
 1040jy.com
+104sihu.com
 107.wuwho.cn
 108.hbmygj.cn
 10852a.com
@@ -10276,6 +10277,7 @@ event.trove.com
 event.vntoday.news
 eventapi.afreecatv.com
 eventlog.inspsearch.com
+events-api.outfit7.net
 events.kaloo.ga
 events.kalooga.com
 events.mobile.optimizely.com
@@ -12514,6 +12516,7 @@ huaweisafedns.com
 huaxiangdiao.com
 huaxirc.com
 huaxiu.ink
+huaxunnsw.com
 huayala.com
 huayanxiu.com
 huayanxiu.net

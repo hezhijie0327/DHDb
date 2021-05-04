@@ -839,7 +839,6 @@
 109.com
 1090.h5.zyttx.com
 10909.com
-109863.com
 109876543210.com
 10bests.com
 10besty.com
@@ -3093,7 +3092,6 @@
 38blog.com
 38cun.com
 38fan.com
-38hack.com
 38hot.net
 38hp.com
 38hzt.com
@@ -9424,6 +9422,7 @@ api.inews.qq.com
 api.installer.xiaomi.com
 api.interaction.sohu.com
 api.io.mi.com
+api.iplay.163.com
 api.iqiyi.com
 api.ishansong.com
 api.itaoxiaoshuo.com
@@ -25804,6 +25803,7 @@ galend.gallerycdn.azure.cn
 galiaoba.com
 galitv.alicdn.com
 galleon.dmall.com
+galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
 gallopgazelle.com
 galsun.com
@@ -27499,7 +27499,6 @@ guihuayun.com
 guiji.com
 guijianghu.com
 guijinshu.com
-guikeyun.com
 guilin.la
 guilinlife.com
 guilintravel.com
@@ -27522,7 +27521,6 @@ gulandscape.com
 guleji.com
 gullmap.com
 gulltour.com
-gulou120.com
 gulugj.com
 gulujie.com
 gumang.com

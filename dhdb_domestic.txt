@@ -7864,7 +7864,6 @@ adxserver.ad.cmvideo.cn
 adxvip.com
 adyun.com
 adzhongdian.com
-adzjvnet.allyes.com
 adzop.com
 adzshd.com
 ae-people.com
@@ -24395,6 +24394,7 @@ feed.theta.sogou.com
 feed.youshu.cc
 feed.youshu.cc.w.kunlunle.com
 feedback.amsproxy.qq.com
+feedback.cn.ronghub.com
 feedback.zhangle.com
 feedflpc.jomodns.com
 feedfreev6.jomodns.com

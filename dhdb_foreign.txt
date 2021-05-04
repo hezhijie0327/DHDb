@@ -7379,7 +7379,6 @@ addyoutube.com
 ade.clmbtech.com
 adebis-52667624.wowma.jp
 adebis.angfa-store.jp
-adebis.cybozu.co.jp
 adebis.daiwahouse.co.jp
 adebis.demae-can.com
 adebis.fenet.jp
@@ -10490,7 +10489,6 @@ ampj226.com
 ampj228.com
 ampj557.com
 ampj558.com
-ampj559.com
 ampj660.com
 ampj662.com
 ampj665.com
@@ -22759,7 +22757,6 @@ cmd5.org
 cmdmexpo.com
 cmdy2020.com
 cmegroup.com
-cmhello.com
 cmi.org.tw
 cming.com
 cmix.org
@@ -69739,6 +69736,7 @@ quentic.com
 queqiaoba.com
 query.ess-apple.com.akadns.net
 query.ess.apple.com
+query.hicloud.com
 query.prod.cms.rt.microsoft.com
 querylist.cc
 queryly.com

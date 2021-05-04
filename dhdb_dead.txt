@@ -186,6 +186,7 @@
 1.qtmojo.cn
 1.qtmojo.com
 1.rengshu.com
+1.shopiranian6.com
 1.win7china.com
 1.wosoni.com
 1.wps.cn
@@ -546,6 +547,7 @@
 1992789.com
 1997sty.com
 1998cdp.org
+19jan-update13.azurewebsites.net
 19sihu.com
 19zhan.com
 1a2cdc65ba22b805dbada973015426b72045429d38f355c0.dlied1.cdntips.net
@@ -723,6 +725,7 @@
 24200.luvbr.com
 243ty.com
 24hstatic.com
+24newsoft.newupdate4system.online
 24smile.org
 25.fartit.com
 25.inc.gs
@@ -778,6 +781,7 @@
 2av7.com
 2c540b73364213e2be660587c6b002de.jddebug.com
 2cy.news
+2d.windows-8.ru
 2d69a41e58d9c979ac3689aa882d6758.jddebug.com
 2dgal.com
 2di.cc
@@ -1451,6 +1455,7 @@
 5uu.us
 5vnt.com
 5w123.com
+5wezz.alldownloads.6575878.com
 5xml.com
 5xue.com
 5y51.com
@@ -2208,6 +2213,7 @@
 9see.com
 9simg.com
 9skm.com
+9t8t.ejsqucee.com
 9taobao.com
 9to.com
 9to5terminal.com
@@ -2217,6 +2223,7 @@
 a-counter.com.ua
 a-dxk.play.api.3g.youku.com
 a-f.io
+a-img.afpbb.com
 a-m-s.adnonstop.com
 a-mo.net
 a-msedge.net
@@ -2327,12 +2334,14 @@ a.tuuituii2999.com
 a.uzhiv.com
 a.vip123.cf
 a.waczt.cn
+a.walla.co.il
 a.wanrenshe.com
 a.we55.us
 a.wlcnd.com
 a.wlfnb.com
 a.wlgnd.com
 a.wlmnt.com
+a.wyzmob.com
 a.xflnk.com
 a.xhnlf.com
 a.xigua110.com
@@ -2557,6 +2566,7 @@ ac.kr
 ac.laonanren.com
 ac.mz
 ac.ru
+ac.saisoncard.co.jp
 ac.uk
 ac0c62c7490e9f81edb9a0ff669df142.jddebug.com
 ac1.faxingchina.com
@@ -2567,6 +2577,7 @@ acadn.com
 acc-hd.de
 access-sngapm.qcloud.com
 access.f3b.work
+access.journal.mycom.co.jp
 access.njherald.com
 access1.tpns.sh.tencent.com
 accessibilityunion.org
@@ -2595,6 +2606,7 @@ acss.red
 acsystem.wasu.cn
 acsystem.wasu.tv
 act-on.up.edu.pe
+act.ameba.jp
 actime.net
 actingidekex.cn
 action.logger.baofeng.com
@@ -2613,7 +2625,9 @@ ad-cache.dopool.com
 ad-channel.woyeahgo.tk
 ad-data.starschina.com
 ad-ettoday.cdn.hinet.net
+ad-first.co.kr
 ad-gb.mgid.com
+ad-hn.24hstatic.com
 ad-img.diyidan.net
 ad-m.asia
 ad-server.online
@@ -2629,23 +2643,33 @@ ad.52av.tv
 ad.7simage.com
 ad.about.co.kr
 ad.accessmediaproductions.com
+ad.ad4989.co.kr
 ad.adfunky.com
+ad.adinc.kr
 ad.adlantis.jp
+ad.adnmore.co.kr
+ad.adtube.ir
+ad.aeonad.co.kr
 ad.afy11.net
 ad.ajanshaber.com
 ad.allyes.cn
+ad.ameba.jp
 ad.aquamediadirect.com
+ad.ascii.jp
 ad.axyzconductor.jp
+ad.bannerconnect.net
 ad.bjmama.net
 ad.brainer.jp
 ad.btba.com.cn
 ad.cauly.co.kr
 ad.cdn.sex
 ad.choiceradio.com
+ad.chosunonline.com
 ad.cmvideo.cn
 ad.correioweb.com.br
 ad.crichd.in
 ad.csdn.net
+ad.cyzo.com
 ad.daum.net
 ad.demotivation.me
 ad.dic.nicovideo.jp
@@ -2654,6 +2678,7 @@ ad.doctissimo.fr
 ad.dokrmob.com
 ad.dopool.com
 ad.dqwjzm.com
+ad.dt.co.kr
 ad.dumedia.ru
 ad.e-kolay.net
 ad.egloos.com
@@ -2680,6 +2705,8 @@ ad.house365.com
 ad.icasthq.com
 ad.idgtn.net
 ad.ihuman.com
+ad.ilikesponsorad.co.kr
+ad.ilikesponsorad.com
 ad.intl.xiaomi.com
 ad.jamba.pt
 ad.jaumo.com
@@ -2687,6 +2714,7 @@ ad.jokeroo.com
 ad.jp.ap.valuecommerce.com
 ad.jsecoin.com
 ad.jsnbrynb.com
+ad.jugem.jp
 ad.kau.li
 ad.kinogo-kinopoisk.net
 ad.kinozal.website
@@ -2697,6 +2725,7 @@ ad.leadbolt.net
 ad.leadboltapps.net
 ad.leadboltmobile.net
 ad.lgappstv.com
+ad.lifehacker.jp
 ad.logro.com.tr
 ad.m.iqiyi.com
 ad.madvertise.de
@@ -2711,9 +2740,12 @@ ad.netzquadrat.de
 ad.nicovideo.jp
 ad.nttnavi.co.jp
 ad.oret.jp
+ad.osen.co.kr
+ad.owra.net
 ad.pandora.tv
 ad.pchome.com.tw
 ad.pentabox.net
+ad.pitattomatch.com
 ad.plus-a.net
 ad.preferences.com
 ad.proxy.sh
@@ -2721,9 +2753,11 @@ ad.putenbrust.net
 ad.pxlad.io
 ad.qtcs.com.vn
 ad.rambler.ru
+ad.rbbtoday.com
 ad.realmcdn.net
 ad.reduxmediia.com
 ad.reklam.xyz
+ad.reople.co.kr
 ad.response.jp
 ad.sacitaslan.com
 ad.searchina.ne.jp
@@ -2738,6 +2772,7 @@ ad.smartclip.net
 ad.snappea.com
 ad.spielothek.so
 ad.stsywl.com
+ad.targetingmarketplace.com
 ad.tbn.ru
 ad.thepaper.cn
 ad.thinkmedia.cn
@@ -2767,10 +2802,13 @@ ad1.hotel.com
 ad1.netshelter.net
 ad1.p5w.net
 ad1.sina.com.cn
+ad1.sportschosun.com
+ad1.sportsseoul.com
 ad1.udn.com
 ad1.xiaomi.com
 ad2.adinfuse.com
 ad2.hotel.com
+ad2.ip.ro
 ad2.nationalreview.com
 ad2.pl.mediainter.net
 ad2.rambler.ru
@@ -2785,6 +2823,7 @@ ad4.com.cn
 ad4.sina.com
 ad4.udn.com
 ad41.atlas.cz
+ad4u.drecom.jp
 ad5.ctrmi.com
 ad5.sina.com.cn
 ad5.udn.com
@@ -2802,6 +2841,7 @@ adback.tango.me
 adbana.adultcity.tv
 adbehavior.wsa.ximalaya.com
 adbetnet.advertserve.com
+adbiz2.co.kr
 adbmetrics.elbolardo.com
 adbrn.com
 adbroker.mp.dse.microsoft.com
@@ -2809,7 +2849,9 @@ adbuka.com.ng
 adc.xxxlshop.de
 adc.xxxlutz.de
 adchitu.net
+adcl.japan.zdnet.com
 adcl.pchome.com.tw
+adcl.sankei.co.jp
 adclear.baur.de
 adclear.teufel.de
 adclient-uol.lp.uol.com.br
@@ -2835,7 +2877,9 @@ ade.wooboo.com.cn
 adenc.co.kr
 adentifi.com
 adeq.hiidc.com.cn
+adexpert.ad4989.co.kr
 adextensioncontrol.tudou.com
+adexview.neoebiz.co.kr
 adf.acrosspf.com
 adf.hdkinoshka.net
 adf.shinobi.jp
@@ -2860,8 +2904,10 @@ adimg.ce.cn
 adimg.cpmchina.co
 adimg.daumcdn.net
 adimg.dayoo.com
+adimg.nateimg.co.kr
 adimg.qxlsjw.com
 adimg.vue.weibo.com
+adimg1.adinc.co.kr
 adimg1.chosun.com
 adimgs.xici.net
 adinc.co.kr
@@ -2904,6 +2950,7 @@ admin.louxia.org
 admissionsessayhelp.com
 admixer.co.kr
 admob.xiaomi.com
+admp-tc.jyllands-posten.dk
 adn.baidu.com
 adnet.sohu.com
 adnetworkperformance.compopcash.net
@@ -2927,6 +2974,8 @@ adobess.com
 adonline.e-kolay.net
 adops.cricbuzz.com
 adp.cnki.net
+adp.joins.com
+adperformance.netdna-cdn.com
 adping.qq.com
 adplace.adsame.com
 adplay.tudou.com
@@ -2965,10 +3014,13 @@ ads.albawaba.com
 ads.amarillo.com
 ads.amateurmatch.com
 ads.amazingmedia.com
+ads.arto.com
 ads.avocarrot.com
 ads.aws.viber.com
 ads.bbcworld.com
 ads.beeb.com
+ads.belointeractive.com
+ads.blogtruyen.com
 ads.bloomberg.com
 ads.bluelithium.com
 ads.bssdl.kugou.com
@@ -2999,6 +3051,7 @@ ads.fastcomgroup.it
 ads.fasttrack-ignite.com
 ads.financialcontent.com
 ads.foxnews.com
+ads.freeway.dk
 ads.fu8.life
 ads.gamavirtual.com
 ads.gazetaesportiva.net
@@ -3014,6 +3067,7 @@ ads.heraldnet.com
 ads.heyzap.com
 ads.hollandsentinel.com
 ads.hosting.vcmedia.vn
+ads.hotvnn.com
 ads.house365.com
 ads.indiatimes.com
 ads.indya.com
@@ -3037,6 +3091,7 @@ ads.marvel.com
 ads.matomymobile.com
 ads.mdotm.com
 ads.mercadoclics.com
+ads.metropol.dk
 ads.mgnetwork.com
 ads.mic.com
 ads.mircx.com
@@ -3047,6 +3102,7 @@ ads.mm.ap.org
 ads.mobgold.com
 ads.mobilefuse.net
 ads.modabetaff.com
+ads.morethanaclub.dk
 ads.morningstar.com
 ads.motor-forum.nl
 ads.mysimon.com
@@ -3074,6 +3130,7 @@ ads.redlightcenter.com
 ads.reward.rakuten.jp
 ads.roku.com
 ads.saymedia.com
+ads.scor.dk
 ads.shoutfile.com
 ads.shovtvnet.com
 ads.smartclicks.net
@@ -3090,13 +3147,16 @@ ads.thegioitiepthi.vn
 ads.theindependent.com
 ads.themovienation.com
 ads.thrillsaffiliates.com
+ads.tlvmedia.com
 ads.tnt.tv
 ads.toplayaffiliates.com
 ads.treehugger.com
 ads.trinitymirror.co.uk
+ads.truongton.net
 ads.trutv.com
 ads.tvtuga.com
 ads.usa-media.net
+ads.v1vn.com
 ads.viksaffiliates.com
 ads.waframedia1.com
 ads.wakamoment.tk
@@ -3121,6 +3181,7 @@ ads16.advance.net
 ads2.advance.net
 ads2.clickad.com
 ads2.mojiva.com
+ads3.adinc.co.kr
 ads3.advance.net
 ads3.mojiva.com
 ads4.ad-center.com
@@ -3202,6 +3263,7 @@ adstat.cp11.ott.cibntv.net
 adstatic.ameba.jp
 adstestview.qq.com
 adstream.123.sogoucdn.com
+adsvc2.wisenut.co.kr
 adsview.qq.com
 adsview2.qq.com
 adsy.mail.bg
@@ -3219,7 +3281,9 @@ adv-ettoday.cdn.hinet.net
 adv.app.qq.com
 adv.br
 adv.ettoday.net
+adv.khan.co.kr
 adv.lampsplus.com
+adv.letitbit.net
 adv.mediaharbor.co.kr
 adv.shangdu.com
 adv.tf1.fr
@@ -3427,6 +3491,7 @@ ajoumba.com
 ajs17.com
 aju.space
 ajyg.com
+ak-gb.marketgid.com
 ak.cdn-jquery.host
 ak.impact-ad.jp
 ak0.tw
@@ -3620,6 +3685,9 @@ am.zdnet.com.cn
 am777.com
 amateur-mature-sex.adaltabaza.net
 amazon-adsystem.com
+amazon-gift.ga2h.com
+amazoncodes.freehacks.pw
+amazongiftcard.latestcheat.com
 amazonsellerservices.com
 ambien.ourtablets.com
 ambitionbyte.com
@@ -3690,6 +3758,7 @@ analytics.elx.cloud
 analytics.fairfax.com.au
 analytics.femalefirst.co.uk
 analytics.go.com
+analytics.hosting24.com
 analytics.jabong.com
 analytics.ku6.com
 analytics.kwebsoft.com
@@ -3702,6 +3771,7 @@ analytics.mobadme.jp
 analytics.moviepilot.de
 analytics.myfinances.com
 analytics.newsinc.com
+analytics.nexon.com
 analytics.ngfiles.com
 analytics.performable.com
 analytics.piksel.com
@@ -3964,6 +4034,7 @@ app.fdwdqc.cn
 app.heywire.com
 app.ibaiducdn.com
 app.jgyee.com
+app.marketizator.com
 app.ptleju.com
 app.roximity.com
 app.tv333.us
@@ -4094,6 +4165,7 @@ appsrv1.madserving.cn
 appsrv1.madserving.com
 appsrv4.madserving.com
 appstoreapple.cn
+appusage.intel.com
 appx.91.com
 appxzz.com
 appyxxy.com
@@ -4163,6 +4235,7 @@ asdbi.com
 asdfix.com
 aserve.directorym.com
 asezwao.org
+asg.vidigital.ru
 asia-api.yikyakapi.net
 asia-cast.com
 asia-gaming.com
@@ -4196,6 +4269,7 @@ assets.2343sdxs.com
 assets.258pcf.com
 assets.258ydh.com
 assets.adtaily.com
+assets.cookieconsent.silktide.com
 assets.ps.easou.com
 assets.uxengine.net
 associates-amazon.com
@@ -4363,6 +4437,7 @@ b-aws.aol.com
 b-aws.huffingtonpost.com
 b-msedge.net
 b-ok.org
+b-one.com.ua
 b-ssl.grvcdn.com
 b.16vcd.com
 b.1istochnik.ru
@@ -4444,8 +4519,17 @@ b9c55a0cfa589a12f5055bb5abf9ecad.jddebug.com
 ba.afl.rakuten.co.jp
 ba.hugolescargot.com
 ba.jeux-gratuits.com
+ba1.shinobi.jp
+ba2.shinobi.jp
+ba3.shinobi.jp
+ba4.shinobi.jp
+ba5.shinobi.jp
 ba572.cq11.net
+ba6.shinobi.jp
+ba7.shinobi.jp
+ba8.shinobi.jp
 ba8880.com
+ba9.shinobi.jp
 baba100.com
 bababian.com
 babalatz.com
@@ -4555,14 +4639,17 @@ banner.0catch.com
 banner.automotiveworld.com
 banner.blogranking.net
 banner.cdpoker.com
+banner.chimeratool.com
 banner.coza.com
 banner.img.static.youmi.net
+banner.jv.dk
 banner.orb.net
 banner.ringofon.com
 banner.setrowid.com
 banner.t-online.de
 banner.telefragged.com
 banner.vietnamfinance.vn
+banner2.fynskemedier.dk
 bannerads.anytimenews.com
 bannerads.zwire.com
 bannerexchange.com.au
@@ -4571,6 +4658,7 @@ banners.beevpn.com
 banners.beted.com
 banners.bigmobileads.com
 banners.expressindia.com
+banners.ilivid.com
 banners.itunes.apple.com
 banners.playocio.com
 banners.unibet.com
@@ -4605,8 +4693,18 @@ baozoudawang.com
 baozouribao.com
 baqima.com
 baquge.tw
+bar1.shinobi.jp
+bar2.shinobi.jp
+bar3.shinobi.jp
+bar4.shinobi.jp
+bar5.shinobi.jp
+bar6.shinobi.jp
+bar7.shinobi.jp
+bar8.shinobi.jp
+bar9.shinobi.jp
 barmap.com
 barrister.org.cn
+bars.funportal.info
 barus.cc
 base.filedot.xyz
 basejumper.apple.com
@@ -4647,6 +4745,8 @@ bbc3.azurewebsites.net
 bbc4.azurewebsites.net
 bbc5.azurewebsites.net
 bbc6.azurewebsites.net
+bbcdn.ad2.ip.ro
+bbcdn.go.adevolution.bbelements.com
 bbcdn.go.arbopl.bbelements.com
 bbcdn.go.evolutionmedia.bbelements.co
 bbcfmt.s.llnwi.net
@@ -4675,6 +4775,7 @@ bbycontent.net
 bbystatic.com
 bc.ca
 bc.geocities.yahoo.co.jp
+bc.nhk.jp
 bc11889.com
 bc1986.com
 bc19b450764e9ed40c2d6ee05033c69c.jddebug.com
@@ -4786,6 +4887,8 @@ bdydns.cn
 bdydns.com
 bdydns.net
 bdysite.com
+be.vtomske.ru
+be01.brugervenlighedstesten.dk
 be90559d2974800f8f03ff163146e08e.jddebug.com
 beacon-1.newrelic.com
 beacon-3.newrelic.com
@@ -4913,6 +5016,7 @@ bhgmarketplace.com
 bhjac.azvub.cn
 bhu9.bankia.es
 bhzhu203.com
+bia2ax.webphoto.ir
 bianlei.com
 bianpingyou.com
 biantailajiao.com
@@ -4951,6 +5055,7 @@ bigdiao.cc
 bigfools.com
 bigfoot1942.sektori.org
 bigmobileads.com
+bigmoney.icyboards.net
 bigtree.mobi
 bigzhu.com
 bihaipack.com
@@ -5016,6 +5121,8 @@ bitscn.com
 bitscn.net
 bitse.com
 bitshare.com
+bitskins.cn.com
+bitskins.com.bz
 bitsngo.net
 bitstorm.azukachan.com
 biwei198.com
@@ -5118,6 +5225,7 @@ blog.beeppool.org
 blog.cnyes.com
 blog.exblog.co.jp
 blog.expofutures.com
+blog.ilivid.com
 blog.iruo.cc
 blog.istef.info
 blog.kangye.org
@@ -5201,6 +5309,7 @@ bookoffonline.co.jp
 bookonsky.net
 bookqi.com
 books.enlighten.org.tw
+boom.mail.ru
 bootcdn.net
 boquxinxi.com
 bosideng.me
@@ -5243,6 +5352,7 @@ bqq8.com
 bqruan.com
 br-tattoo.com
 br.hao123.com
+br.kcdn.kz
 br.phorm.com
 br0vvnn.io
 bragood.com
@@ -5282,6 +5392,7 @@ bs.da.hunantv.com
 bs.l.qq.com
 bs.url.tw
 bs988.com
+bsa.netdna-cdn.com
 bsadfs.xyz
 bsccdn.com
 bsccdn.net
@@ -5399,6 +5510,7 @@ bwin7066.com
 bwkxlkxuxaokaey.localdomain
 bwlc.net
 bwmemvxvi.localdomain
+bwp.zdnet.com
 bwptl.com
 bwsj.hk
 bwstatistics.bizwebapps.vn
@@ -5477,6 +5589,7 @@ c.box3.bid
 c.bxjpl.cn
 c.cdlkzb.com
 c.chaochao132.xyz
+c.compete.com
 c.contem.bz
 c.cpa6.ru
 c.cqpsf.cn
@@ -5501,6 +5614,7 @@ c.guangtui1999.com
 c.iche88.cn
 c.idasui.cn
 c.imrk.net
+c.index.ru
 c.iogous.com
 c.ios9.us
 c.isdspeed.qq.com
@@ -5795,6 +5909,7 @@ caixun.com
 caiyuanyou.com
 caj5.com
 calciumale.com
+call.theowl.gr
 callget.cn
 calvappd.me
 cam4tracking.com
@@ -5803,6 +5918,7 @@ camchealth.org
 cameliotoscalini.net
 campaigns.apps-connects.com
 campaignseries-gb.campaignseries.co.uk
+campus.lovepop.jp
 cams.pornrabbit.com
 canal-plus.net
 canalisystem.biz
@@ -5828,6 +5944,7 @@ capterra-static.com
 car.mobadme.jp
 car2sharechina.com
 caraterbaru.web.id
+card.mmos.com
 cardcmb.com
 carijanda.tk
 carisoprodol.ourtablets.com
@@ -5986,6 +6103,7 @@ cdn.aegins.com
 cdn.ajcryptominer.com
 cdn.amateurmatch.com
 cdn.app.kachapt.cn
+cdn.apture.com
 cdn.atdmt.com
 cdn.b9377h.com
 cdn.baofenggame.com
@@ -6049,6 +6167,7 @@ cdn20.org
 cdn2000.com
 cdn22.xyz
 cdn3-okzy.com
+cdn3.tnkfactory.com
 cdn30.com
 cdn30.org
 cdn33-okzy.com
@@ -6584,6 +6703,7 @@ clhnotrw.localdomain
 click-ads.saoteen.net
 click-cn.plista.com
 click.appinthestore.com
+click.chebana.com
 click.cheshi-img.com
 click.cm.sandai.net
 click.cpmchina.co
@@ -6665,6 +6785,7 @@ cm-10-81.getui.com
 cm-analysis.com
 cm.adkmob.com
 cm.admaster.com.cn
+cm.keywordsconnect.com
 cm.mlt01.com
 cm.optaim.com
 cm.p4p.cn.yahoo.com
@@ -6688,6 +6809,8 @@ cmicapm.com
 cmidc.net
 cmljs.org
 cmmfg.com
+cmp-loader.choice.faktor.io
+cmp.cdntrf.com
 cmplay.did.ijinshan.com
 cmpsky.com
 cms-twdigitalassets.com
@@ -6925,6 +7048,7 @@ cogcpa.org
 cohesionapps.com
 coin2co.in
 coinall.ltd
+coinhive.min.js
 coinlab.biz
 cointobe.com
 col.hztags.net
@@ -7021,6 +7145,7 @@ com.na
 com.nf
 com.ni
 com.np
+com.nxtras.banner.imagerotator
 com.om
 com.pa
 com.pe
@@ -7083,6 +7208,7 @@ config.adsage.com
 config.appjolt.com
 config.safedk.com
 cong9184.com
+congratulations.co-j26.bid
 congzhi.com
 connect.summit.co.uk
 consent.theneweuropean.co.uk

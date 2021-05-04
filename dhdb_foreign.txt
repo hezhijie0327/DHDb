@@ -11304,6 +11304,7 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -21092,6 +21093,7 @@ chimpstatic.com
 china-10.com
 china-3.com
 china-5d042.firebaseio.com
+china-cbn.com
 china-cdn3.unityads.unity3d.com
 china-coc.org
 china-customs.com
@@ -49394,7 +49396,6 @@ kushbottles.com
 kushsupplyco.com
 kushuzw.com
 kusocity.com
-kusuu.com
 kutoo8.com
 kutsg.com
 kuula.co

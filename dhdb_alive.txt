@@ -20659,7 +20659,6 @@ api.health.comm.miui.com
 api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
-api.hfyhjg.cn
 api.home.news.cn
 api.huangye.miui.com
 api.hubapi.com
@@ -61133,7 +61132,6 @@ fun898.com
 fun903.com
 fun908.com
 fun909.com
-fun91.tv
 fun9990.com
 funav.cc
 funav.co
@@ -78680,7 +78678,6 @@ iot101.com
 iotachem.com
 iotbay.com
 iotc.jr.jd.com
-iotcetc.com
 iotexpo.org
 iotfair.net
 iotinactionevents.com

@@ -6604,6 +6604,7 @@ account.microsoft.com
 account.synology.com
 account.termius.com
 account.winter.net.daraz.com
+account.xiaomi.com
 accounting-lib-ln-1.net.daraz.com
 accounting.b.ns.emailvision.net.daraz.com
 accounting.car21.net.daraz.com
@@ -19014,7 +19015,6 @@ buzzardflapper.com
 buzzav.com
 buzzcity.net
 buzzdock.com
-buzzea.com
 buzzfeed.com
 buzzhand.com
 buzzhand.net
@@ -20869,7 +20869,6 @@ cdn.keywee.co
 cdn.kik.com
 cdn.kingstone.com.tw
 cdn.klasseo.com
-cdn.komoona.com
 cdn.krxd.net
 cdn.line-apps.com
 cdn.livechatinc.com

@@ -9809,6 +9809,7 @@ appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
 appbacklog.dftoutiao.com
+appbackupapi.micloud.xiaomi.net
 appbi.com
 appbk.com
 appbocai.com
@@ -28437,7 +28438,6 @@ hao7188.com
 hao76.com
 hao86.com
 hao974.com
-haoad.org
 haoadx.cn
 haoamc.com
 haobiaoke.com

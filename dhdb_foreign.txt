@@ -11670,6 +11670,7 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -44248,6 +44249,7 @@ huashuxia.net
 huasing.org
 huatefamen.net
 huath.cn
+huaweicloudwaf.com
 huaweimarine.com
 huaweisymantec.com
 huaxia-news.com

@@ -9465,7 +9465,6 @@ api.meishesdk.com
 api.meituan.com
 api.mengtuiapp.com
 api.merro.xyz
-api.micloud.xiaomi.net
 api.microyan.com
 api.middle.transfer.search.miui.com
 api.mini.wps.cn
@@ -26031,6 +26030,7 @@ gaoxiaojob.com
 gaoxinbao.xyz
 gaoxinkc.com
 gaoyizaixian.com
+gaoyong666.com
 gaoyoujob.com
 gaoyun.cloud
 gaoyy.com
@@ -33050,6 +33050,7 @@ imiker.com
 imindmap.cc
 iminho.me
 iminisd.com
+imipy.com
 imitui.com
 imjiayin.com
 imkerwin.com
@@ -33508,7 +33509,6 @@ iot-paas-static.cdn.bcebos.com
 iot101.com
 iotachem.com
 iotc.jr.jd.com
-iotcetc.com
 iotexpo.org
 iotfair.net
 iotku.com
@@ -48782,7 +48782,6 @@ qgsydw.com
 qgtql.com
 qguiyang.com
 qgvps.com
-qgwsp.com
 qgxl.org
 qgysj.org
 qgzzz.com

@@ -9253,7 +9253,6 @@ aphidic.com
 api-20200527.xkspbz.com
 api-a.op-mobile.opera.com
 api-access.pangolin-sdk-toutiao-b.com
-api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
 api-accounts.firefox.com.cn
 api-ad.kajicam.com

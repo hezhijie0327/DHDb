@@ -11664,6 +11664,7 @@ api.fouanalytics.com
 api.frankerfacez.com
 api.freewebfonts.org
 api.funcaptcha.com
+api.g.micloud.xiaomi.net
 api.gameofwhales.com
 api.gfe.nvidia.com
 api.gimbal.com
@@ -11699,6 +11700,7 @@ api.mapbox.com
 api.mediarithmics.com
 api.mediation.amberweather.com
 api.meomiao.us
+api.micloud.xiaomi.net
 api.mightycast.com
 api.minero.cc
 api.minexmr.com
@@ -20864,6 +20866,7 @@ cdn.itsup.com
 cdn.izooto.com
 cdn.jotfor.ms
 cdn.jquery-uim.download
+cdn.jsdelivr.net
 cdn.kdkw.jp
 cdn.keywee.co
 cdn.kik.com
@@ -44741,7 +44744,6 @@ i-law.com
 i-ll.cc
 i-love-piano.com
 i-mobile.co.jp
-i-mprove.cc
 i-now.com
 i-o-u.info
 i-part.com.tw

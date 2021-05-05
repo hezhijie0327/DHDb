@@ -46859,6 +46859,7 @@ init-s01st-lb.push-apple.com.akadns.net
 init-s01st.push.apple.com
 init.ess.apple.com
 init.gc.apple.com
+init.homekit.push.apple.com
 init.itunes.apple.com
 init.push-apple.com.akadns.net
 init.push.apple.com
@@ -69113,7 +69114,6 @@ pptschool.com
 pptxtv.site
 pptzs.com
 ppurio.com
-ppurl.com
 ppvmedien.de
 ppwwyyxx.com
 ppxs.net
@@ -81263,7 +81263,6 @@ ssg.com
 ssggg.com
 ssglobal.co
 ssglobal.me
-ssh.lifu11.com
 ssh.yezijizhang.com
 ssh110.com
 ssh91.com

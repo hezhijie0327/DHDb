@@ -9807,7 +9807,6 @@ appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
 appbacklog.dftoutiao.com
-appbackupapi.micloud.xiaomi.net
 appbi.com
 appbk.com
 appbocai.com
@@ -34933,7 +34932,6 @@ jietn.com
 jietu365.com
 jietuosh.com
 jietusoft.com
-jiexi.link
 jiexi8.com
 jieyou.com
 jieyoujob.com
@@ -49034,7 +49032,6 @@ qidou.com
 qiduowei.com
 qie.tv
 qieerxi.com
-qiehe.net
 qiekj-web-log.cn-shanghai.log.aliyuncs.com
 qiekj.com
 qieman.com

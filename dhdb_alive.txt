@@ -47930,6 +47930,7 @@ detail.alicdn.com.danuoyi.tbcache.com
 detail.chinalao.com
 detail.dongqiudi.com
 detail.m.tmall.com
+detail.m.tmall.hk
 detail.taobao.com
 detail.tmall.com
 detail.tmall.com.danuoyi.tbcache.com
@@ -48672,7 +48673,6 @@ diaosi.net
 diaosiqingnian.com
 diaosisou.com
 diaosiweb.net
-diaosu.so
 diaosu9.com
 diaosu98.com
 diaosunet.com
@@ -64046,7 +64046,6 @@ gdwlife.com
 gdx.net
 gdxgt.com
 gdxxb.com
-gdxy6.com
 gdyjs.com
 gdyn.cnn.com
 gdyn.cnngo.com
@@ -93831,6 +93830,7 @@ louisianahealthconnect.com
 louislegrand.org
 louislivi.com
 loukee.com
+loukky.com
 loulansheji.com
 loungemembers.com
 loupan.com
@@ -115221,7 +115221,6 @@ pjdc6622.com
 pjdc6688.com
 pjdc8833.com
 pjdc8866.com
-pjdc8877.com
 pjdc9900.com
 pjdc9933.com
 pjdsp.com

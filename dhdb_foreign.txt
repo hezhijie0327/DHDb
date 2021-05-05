@@ -11665,7 +11665,6 @@ api.fouanalytics.com
 api.frankerfacez.com
 api.freewebfonts.org
 api.funcaptcha.com
-api.g.micloud.xiaomi.net
 api.gameofwhales.com
 api.gfe.nvidia.com
 api.gimbal.com
@@ -41609,7 +41608,6 @@ gvlibrary.com
 gvm.com.tw
 gvmodel.com
 gvsivx.multinet.com.tr
-gvtube.com
 gvyyri.major-auto.ru
 gw-analytics.panasonic.com
 gw-applications.net.daraz.com
@@ -59349,7 +59347,6 @@ mksinst.com
 mkswp.com
 mkszxh.com
 mkt.animalsafety.neogen.com
-mkt.bogou188.com
 mkt.com
 mkt.emea.neogen.com
 mkt.enterprise.kt.com

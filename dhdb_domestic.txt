@@ -9388,6 +9388,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
@@ -51627,7 +51628,6 @@ s2.qcloudcdn.com
 s2.sonkwo.com
 s2.sonkwo.hk
 s2.ssl.qhimg.com
-s2.ssl.qhres.com
 s2.techweb.com.cn
 s2.techweb.com.cn.w.kunlunar.com
 s2.tool.lu

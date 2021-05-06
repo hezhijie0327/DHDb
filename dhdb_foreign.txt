@@ -5723,6 +5723,7 @@ a.wishabi.com
 a.wlfng.com
 a.xanga.com
 a.xlpu.cc
+a0.app.xiaomi.com
 a0.raidrush.org
 a0001.net
 a01.korrelate.net
@@ -10035,6 +10036,7 @@ aliyahdewi.com
 aliyue.net
 aliyun-cdn.com
 aliyun.org
+aliyunbaike.com
 alizila.com
 aljazeera.com
 aljazeera.net
@@ -44122,6 +44124,7 @@ hstspreload.org
 hstt.net
 hsvrww.plain-me.com
 hsxhr.cc
+hsyjs.com
 hsyyf.me
 hszfgjj.com
 hszlcn.com
@@ -45155,7 +45158,6 @@ id.google.com.hk
 id.hao123.com
 id.heroku.com
 id.kbmg.cz
-id.now-ip.net
 id.oculus.com
 id.rlcdn.com
 id.sharedid.org

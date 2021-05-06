@@ -7440,6 +7440,7 @@ ad.us.sinaimg.cn
 ad.video.51togic.com
 ad.wang502.com
 ad.weixin.qq.com
+ad.winrar.com.cn
 ad.wlanbanlv.com
 ad.ximalaya.com
 ad.xkspbz.com
@@ -14351,6 +14352,7 @@ cdn-9nq48vac.sched.s2.tdnsv5.com
 cdn-adn-https-share.rayjump.com
 cdn-adn-https-share.rayjump.com.wswebcdn.com
 cdn-adn-https.rayjump.com
+cdn-adn.rayjump.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 cdn-api-my.le.com
 cdn-basic.gsgs10086.com
@@ -14450,6 +14452,7 @@ cdn.iplaysoft.com
 cdn.ishansong.com
 cdn.ishansong.com.m.alikunlun.com
 cdn.jesgoo.com
+cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com

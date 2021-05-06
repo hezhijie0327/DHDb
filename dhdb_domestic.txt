@@ -9731,6 +9731,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -23376,7 +23377,6 @@ epro.sogou.com
 eps114.com
 epschool.net
 ept-team.com
-epu.1024txt.xyz
 epub.cnipa.gov.cn
 epub360.com
 epubchina.com
@@ -24856,7 +24856,6 @@ fj96336.com
 fj987.com
 fjanlian.com
 fjber.com
-fjbgwl.com
 fjcesuo.com
 fjcoop.com
 fjcqjy.com

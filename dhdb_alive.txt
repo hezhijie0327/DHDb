@@ -13998,6 +13998,7 @@ act.commercial.shouji.360.cn
 act.convergencetraining.com
 act.cwsglobal.org
 act.daoju.qq.com
+act.dmall.com
 act.online.engineering.nyu.edu
 act.pivotpointsecurity.com
 act.qq.com
@@ -15136,7 +15137,6 @@ adm-wlan-switch.net.daraz.com
 adm.265g.com
 adm.52swine.com
 adm.6park.com
-adm.71100.net
 adm.adminstrumentengineering.com.au
 adm.baidu.com
 adm.beimg.com
@@ -16512,7 +16512,6 @@ adserver.pandora.com
 adserver.passion.com
 adserver.phatmax.net
 adserver.planet-multiplayer.de
-adserver.portal.pl
 adserver.portugalmail.net
 adserver.pressboard.ca
 adserver.proteinos.com
@@ -26603,7 +26602,6 @@ bdjs.jb51.net
 bdjs.kaixin100.com
 bdjs.shangc.net
 bdjs.uimg.cn
-bdjs1.ixiumei.com
 bdjsym.guangyuanol.cn
 bdkuth.smartbuyglasses.co.uk
 bdkyr.com
@@ -128642,7 +128640,6 @@ sensortower.com
 sensorynetworks.com
 senszx.com
 sentaijs.com
-sentetuwen.com
 sentinel.co
 sentinelgroup.com
 sentrics.net

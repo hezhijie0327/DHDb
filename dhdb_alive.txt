@@ -2858,7 +2858,6 @@
 17yaoqu.com
 17yc.com
 17ym.org
-17you.com
 17yucai.com
 17yund.com
 17yy.com
@@ -65712,7 +65711,6 @@ go.airwaysaviation.com
 go.aiven.io
 go.ak4.jp
 go.alertlabs.com
-go.alexandergroup.com
 go.allcloud.io
 go.alliancelaundry.com
 go.alliedtelesis.com
@@ -117928,6 +117926,7 @@ public.dm.files.1drv.com
 public.dns.iij.jp
 public.ffquan.cn
 public.fr
+public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.onlyfans.com
 public.popcorn-tracker.org

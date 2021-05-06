@@ -511,6 +511,7 @@
 086580.com
 086jx.com
 086kd.com
+086mai.com
 0890.com
 0898.net
 089858.com
@@ -9830,7 +9831,6 @@ appdaka.com
 appdao.com
 appdata.q1.com
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -10157,7 +10157,6 @@ ashj.com
 ashl7t28u9asxjo1.aliyunddos1011.com
 ashma.info
 ashow.pcpop.com
-asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -26348,7 +26347,6 @@ geshui.com
 geshui100.com
 geshuishuilvbiao2017.com
 gesuo.com
-get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -44932,7 +44930,6 @@ o2moment.com
 o2o-ad-clicking.alibaba.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
-o2o.api.xiaomi.com
 o2o.keloop.cn
 o2oexpo.com
 o2osd.com

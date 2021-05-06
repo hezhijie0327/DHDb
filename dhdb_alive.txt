@@ -9763,7 +9763,6 @@
 77jieri.com
 77kao.com
 77kb.qucaigg.com
-77kp.com
 77kpp.com
 77l.com
 77maa.com
@@ -14516,6 +14515,7 @@ ad.preferances.com
 ad.priel.co.kr
 ad.primetime.net
 ad.prismamediadigital.com
+ad.profiwin.de
 ad.propellerads.com
 ad.prv.pl
 ad.pt.doubleclick.net
@@ -42171,7 +42171,6 @@ contents-tracking.beop.io
 contents.internet.apps.samsung.com
 contents.opensurvey.co.kr
 contentsblock.samqaicongen.com
-contentsearch.de.espotting.com
 contentstack.io
 contentstore.htcvive.com
 contentstream.pl
@@ -63767,7 +63766,6 @@ gbw114.com
 gbwbv6.a.vvipcdn.com
 gbxgateway.dell.com
 gbyguess.com
-gc-0511.com
 gc-repair.com
 gc-zb.com
 gc.corporategiftcards.nordstrom.com
@@ -65429,6 +65427,7 @@ globalpaymentsinc.com
 globalpingbao.com
 globalpointofcare.abbott
 globalpost.com
+globalrescue.hopto.org
 globalrescue.net
 globalscanner.com
 globalsecurity.org
@@ -85120,6 +85119,7 @@ jp.com
 jp.hao123.com
 jp.net
 jp.pandora.tv
+jp.pool.ntp.org
 jp.rti.org.tw
 jp.xinhuanet.com
 jp.xinhuanet.com.lxdns.com
@@ -100713,6 +100713,7 @@ mindmanagerchina.com
 mindmapper.cc
 mindmatters.ai
 mindmeld.com
+mindmeters.com
 mindmm.com
 mindnode.com
 mindoktor.se

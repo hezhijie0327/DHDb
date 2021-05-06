@@ -14449,7 +14449,6 @@ cdn.iplaysoft.com
 cdn.ishansong.com
 cdn.ishansong.com.m.alikunlun.com
 cdn.jesgoo.com
-cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -16840,6 +16839,7 @@ cmdb.xyz
 cmdrh.com
 cmdschool.org
 cmechina.net
+cmeimei.top
 cmejob.com
 cmenergyshipping.com
 cmes.org
@@ -35829,7 +35829,6 @@ js.icast.cn
 js.idgdmg.com.cn
 js.idgdmgroup.com.cn
 js.jianbihuadq.com
-js.kuxinqi.com
 js.letvcdn.com
 js.maidagu.com.w.cdngslb.com
 js.mbaidu.top

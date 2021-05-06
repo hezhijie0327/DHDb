@@ -11588,7 +11588,6 @@ api.accounts.nintendo.com
 api.ad-locus.com
 api.ad-stir.com
 api.ad.intl.xiaomi.com
-api.ad.xiaomi.com
 api.ad.xv555.com
 api.adcalls.nl
 api.addins.omex.office.net
@@ -63872,6 +63871,7 @@ nydailynews.com
 nydailyrecord.com
 nydjsm.cn
 nydus.org
+nyfg.com
 nyheter24.se
 nyi.net
 nykaafashion.com

@@ -14516,7 +14516,6 @@ ad.preferances.com
 ad.priel.co.kr
 ad.primetime.net
 ad.prismamediadigital.com
-ad.profiwin.de
 ad.propellerads.com
 ad.prv.pl
 ad.pt.doubleclick.net
@@ -47297,6 +47296,7 @@ ddl.3g567.com
 ddle.cc
 ddmanager.ru
 ddmap.com
+ddmapimg.com
 ddmeishi.com
 ddmer.com
 ddmix.net.daraz.com
@@ -55470,6 +55470,7 @@ empfs.com
 empik.com
 empirenetwork.cf
 empiretheatres.com
+emporis.com
 empornium.ph
 empornium.sx
 empos.net
@@ -58756,7 +58757,6 @@ fatiguescience.com
 fatjiong.com
 fatkun.com
 fatmouse.xyz
-fatong9.com
 fatrat.com
 fatsoon.com
 fatvg.com
@@ -65710,6 +65710,7 @@ go.airwaysaviation.com
 go.aiven.io
 go.ak4.jp
 go.alertlabs.com
+go.alexandergroup.com
 go.allcloud.io
 go.alliancelaundry.com
 go.alliedtelesis.com

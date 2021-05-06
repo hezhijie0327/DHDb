@@ -35358,7 +35358,6 @@ cdn.smoot.g.aaplimg.com
 cdn.sp.rizhao9.com
 cdn.speedcurve.com
 cdn.sportlabs.online
-cdn.sports-streams-online.club
 cdn.sports-streams-online.xyz
 cdn.sspai.com
 cdn.sstatic.net
@@ -39171,6 +39170,7 @@ clicks.moy.su
 clicks.natwest.com
 clicks.piie.com
 clicks.pipaffiliates.com
+clicks.rbs.co.uk
 clicks.staging.worldremit.com
 clicks.tableau.com
 clicks.toteme.com
@@ -66239,7 +66239,6 @@ go.jack.org
 go.jacksonphysiciansearch.com
 go.jaggaer.com
 go.jands.com.au
-go.janushenderson.com
 go.jbtc.com
 go.jccchicago.org
 go.jdrf.org.au

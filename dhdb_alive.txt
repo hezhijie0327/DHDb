@@ -63448,6 +63448,7 @@ gameserverds.xboxlive.com
 gameservice.com
 gameservices.fh4.forzamotorsport.net
 gamesh.com
+gamesifu.com
 gamesir.com
 gamesject.com
 gamesmaster2.wixsite.com
@@ -68849,7 +68850,6 @@ gufengmh8.com
 gufensoso.com
 guge.link
 guge.tw
-gugeapps.com
 gugeapps.net
 gugesou.com
 gugexs.com
@@ -76146,7 +76146,6 @@ i.jads.co
 i.jiathis.com
 i.jsrdn.com
 i.kamigami.org
-i.l.inmobicdn.net
 i.lenovo.com.cn
 i.lenovo.com.cn.wscdns.com
 i.liadm.com
@@ -89998,7 +89997,6 @@ laohuabao.com
 laohuangli.net
 laohucaijing.com
 laohuyun.com
-laohuzx.com
 laojiayoufang.com
 laojilu.com
 laojiuxitong.com
@@ -99425,6 +99423,7 @@ metrics-config.icloud.com
 metrics-env-android.dreport.meituan.net
 metrics-exit-ios.dreport.meituan.net
 metrics-ieeexplore.ieee.org
+metrics-logger.spot.im
 metrics-meituan-android.dreport.meituan.net
 metrics-r-ht-1.net.daraz.com
 metrics-r-is-1-2.net.daraz.com
@@ -125330,7 +125329,6 @@ s.go-mpulse.net
 s.go.sohu.com
 s.go2yd.com
 s.goodkee.cn
-s.guiheng.wang
 s.h5king.com
 s.haiyunx.com
 s.hc360.com

@@ -16255,7 +16255,6 @@ bilyoner.com
 bim99.org
 bimbase.nl
 bimg.abv.bg
-bimo.cc
 bimobject.com
 bimvid.com
 binads.com
@@ -20918,6 +20917,7 @@ cdn.itsup.com
 cdn.izooto.com
 cdn.jotfor.ms
 cdn.jquery-uim.download
+cdn.jsdelivr.net
 cdn.kdkw.jp
 cdn.keywee.co
 cdn.kik.com

@@ -43999,6 +43999,7 @@ csp-collector.appspot.com
 csp.365dmp.com
 csp.archant.co.uk
 csp.dingtalk.com
+csp.huya.com
 cspan.org
 cspb1.5w5w.com
 cspda.net
@@ -54285,6 +54286,7 @@ ed.emp-shop.se
 ed.emp-shop.sk
 ed.emp.at
 ed.emp.de
+ed.emp.fi
 ed.emp.ie
 ed.large.be
 ed.large.nl

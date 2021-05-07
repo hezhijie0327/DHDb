@@ -2008,6 +2008,7 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
+2.android.pool.ntp.org
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
@@ -4549,7 +4550,6 @@
 58kuaipai.com
 58moneys.com
 58pic.com
-58picc.com
 58player.com
 58q8.com
 58qz.com
@@ -52859,6 +52859,7 @@ sgsxw.com
 sguo.com
 sgw-cn.c.huawei.com
 sgwk.info
+sgyaogan.com
 sgzhee.com
 sgzm.com
 sh-arpm.com

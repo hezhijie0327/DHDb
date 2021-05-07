@@ -448,7 +448,6 @@
 1.231.196.126.zz.countries.nerd.dk
 1.ajiyuming.com
 1.appexchange.com
-1.asia.pool.ntp.org
 1.bb5522.ws
 1.bb6688.ws
 1.bh5.com.cn
@@ -16368,6 +16367,7 @@ biqudie.com
 biqudu.com
 biqudu.la
 biqudu.net
+biqudu.tv
 biqufu.com
 biqug.org
 biquge.la
@@ -41567,7 +41567,6 @@ gufen.ga
 gufengge.org
 gufengmh.com
 gufensoso.com
-guge.info
 guge.link
 gugeapps.com
 gugesou.com
@@ -51498,6 +51497,7 @@ kpxvs.com
 kpzip.net
 kq.im-ec.com.ar
 kqaasz.instreet.com.tr
+kqcfcw.com
 kqchxa.denizbutik.com
 kqes.net
 kqiwen.com
@@ -67688,6 +67688,7 @@ phoeshow.me
 phone-calling-card.exnet.su
 phoneappli.net
 phoneburnia.com
+phonecallapi.micloud.xiaomi.net
 phonechn.com
 phonegap.com
 phonegap.me

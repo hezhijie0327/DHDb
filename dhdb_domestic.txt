@@ -25791,7 +25791,6 @@ galaxystore.ad-survey.com
 galend.gallerycdn.azure.cn
 galiaoba.com
 galitv.alicdn.com
-galleon.dmall.com
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
 gallopgazelle.com
@@ -52530,6 +52529,7 @@ seecmedia.net
 seecsee.com
 seed-china.com
 seed.bitcoin.jonasschnelli.ch
+seed.bitcoin.sipa.be
 seed.bitcoin.sprovoost.nl
 seed.btc.petertodd.org
 seedasdan.org

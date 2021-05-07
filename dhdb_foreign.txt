@@ -51532,6 +51532,7 @@ krc.a.prd.ags.trafficmanager.net
 krc.b.prd.ags.trafficmanager.net
 krc.current.a.prd.aadg.akadns.net
 krc.current.a.prd.aadg.trafficmanager.net
+krdem.com
 krdlw.com
 kredito24.es
 kredito24.ru

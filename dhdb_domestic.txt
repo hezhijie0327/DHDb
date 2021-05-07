@@ -9254,6 +9254,7 @@ aphidic.com
 api-20200527.xkspbz.com
 api-a.op-mobile.opera.com
 api-access.pangolin-sdk-toutiao-b.com
+api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
 api-accounts.firefox.com.cn
 api-ad.kajicam.com
@@ -21387,7 +21388,6 @@ doutushe.com
 douwanweb.com
 douxiaotoutiao.com
 douxie.com
-douy18.com
 douya2.com
 douyapu.com
 douyin.com
@@ -25148,7 +25148,6 @@ fotomore.com
 fotoplace.cc
 fotosay.com
 fototuan.com
-fouleide.com
 foundation.youdao.com
 founder.com
 founderbn.com
@@ -35862,7 +35861,6 @@ js.ptmind.com
 js.pub.tom.com
 js.qajypx.com
 js.qqsort.com
-js.qudaoweiwang.com
 js.ruiwen.com
 js.safe524.xyz
 js.saiqizhi.com
@@ -38249,7 +38247,6 @@ lcloc.com
 lcmp5aappjtfbjdcylekjebg8zwvjle8.aligfwaf.com
 lcode.org
 lcofjp.com
-lcouncil.com
 lcrcbank.com
 lcread.com
 lcs.dev.surepush.cn
@@ -38895,7 +38892,6 @@ likeshuo.com
 liketm.com
 liketry.com
 likewed.com
-liking.site
 likingfit.club
 likingfit.com
 likuli.com

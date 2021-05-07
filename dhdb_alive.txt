@@ -16537,6 +16537,7 @@ adserver.pandora.com
 adserver.passion.com
 adserver.phatmax.net
 adserver.planet-multiplayer.de
+adserver.portal.pl
 adserver.portugalmail.net
 adserver.pressboard.ca
 adserver.proteinos.com
@@ -18093,6 +18094,7 @@ aiyyu.com
 aizaoqi.com
 aizel.ru
 aizhan.com
+aizhanku.com
 aizhaofuli.com
 aizhaomu.com
 aizhengli.com
@@ -64865,7 +64867,6 @@ ggb.douguo.com
 ggbet.me
 ggcarry.com
 ggcarry888.com
-ggccup.com
 ggcida.com
 ggcj.com
 ggcode.2345.com

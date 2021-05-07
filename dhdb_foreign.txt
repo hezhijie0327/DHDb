@@ -9065,7 +9065,6 @@ adv.hwupgrade.it
 adv.imadrep.co.kr
 adv.livedoor.com
 adv.merlin.co.il
-adv.mezon.ru
 adv.mmnon.com
 adv.mpvc.it
 adv.mxmcdn.net
@@ -23368,7 +23367,6 @@ cnet.com
 cnetec.com
 cneteu.net
 cnetwidget.creativemark.co.uk
-cnetworks.org
 cnews.com.tw
 cnews.ru
 cnex.org.cn
@@ -44257,7 +44255,6 @@ http-echo-beta-interaction.net.daraz.com
 http3check.net
 httpbaidu.com
 httpdns.ocloud.heytapmobi.com
-httpdns.push.heytapmobi.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
 httpool.com

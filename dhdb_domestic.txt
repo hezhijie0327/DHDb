@@ -14347,7 +14347,6 @@ cdn-5nlwnm1p.sched.s2.tdnsv5.com
 cdn-69a7lwd8.slt.sched.tdnsv8.com
 cdn-7c1wf15l.sched.s2.tdnsv5.com
 cdn-7ll1rrb0.sched.s2.tdnsv5.com
-cdn-7n-pt.zbwowo.com
 cdn-80jj16ez.slt.sched.tdnsv8.com
 cdn-9nq48vac.sched.s2.tdnsv5.com
 cdn-adn-https-share.rayjump.com
@@ -14911,6 +14910,7 @@ cha001.com
 cha086.com
 cha127.com
 chabeichong.com
+chacha.com
 chachaba.com
 chachongba.cc
 chachongba.com

@@ -27230,7 +27230,6 @@ gslb.xcloud.xunlei.com
 gslbali.ximalaya.com
 gslbmgsplive.miguvideo.com
 gslbtx.ximalaya.com
-gslxrc.com
 gsmyi.com
 gsp0.baidu.com
 gsp1.baidu.com
@@ -42014,6 +42013,7 @@ mibugs.com
 mic-s.com
 micai.com
 micaiying.com
+micardapi.micloud.xiaomi.net
 micblo.com
 michaelapp.com
 michelam.com
@@ -43266,7 +43266,6 @@ murdermysterypa.com
 murl.tv
 muse100.com
 muses-ugc.iqiyi.com
-mushafa.net
 mushroomchina.com
 music-pics-cn.obs.cn-north-2.myhuaweicloud.cn
 music.163.com

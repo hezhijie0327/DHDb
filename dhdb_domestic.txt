@@ -9322,6 +9322,7 @@ api.3839app.com
 api.557400.com
 api.5hte21mz.com
 api.account.xiaomi.com
+api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -27352,7 +27353,6 @@ gtuu.com
 gtzy123.com
 gu166.com
 gu360.net
-guaguazs.com
 guahao-inc.com
 guahao.com
 guahaowang.com
@@ -33475,6 +33475,7 @@ ios.rqd.qq.com
 ios8.app
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
+iosapps.itunes.apple.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
 iosapps.itunes.apple.com.m.alikunlun.net.v.vvpncdn.com
@@ -41236,6 +41237,7 @@ matao.com
 match.adsrvr.cn
 match.huya.com
 match.p4p.1688.com
+matchday.cc
 matchvs.com
 matchweb.sports.qq.com
 material-ssl.mediav.com
@@ -49239,7 +49241,6 @@ qishu.co
 qishunbao.com
 qisool.com
 qisuu.com
-qitete.com
 qiti88.com
 qitian.biz
 qitoon.com

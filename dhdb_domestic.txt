@@ -9834,6 +9834,7 @@ appdaka.com
 appdao.com
 appdata.q1.com
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -51700,7 +51701,6 @@ s4.hy.qcloudcdn.com.s4.cdntip.com
 s4.mini.wpscdn.cn
 s4.music.126.net
 s4.ssl.qhimg.com
-s4.ssl.qhres.com
 s4.tool.lu
 s4.url.cn
 s4.vip.wpscdn.cn

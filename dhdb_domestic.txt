@@ -5401,7 +5401,6 @@
 77shw.com
 77tianqi.com
 77xmd.com
-77xtv.com
 77ys.com
 77zn.com
 780277.s2.cdntip.com
@@ -9809,6 +9808,7 @@ appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
 appbacklog.dftoutiao.com
+appbackupapi.micloud.xiaomi.net
 appbi.com
 appbk.com
 appbocai.com

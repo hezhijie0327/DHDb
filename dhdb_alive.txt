@@ -47969,7 +47969,6 @@ detail.m.tmall.hk
 detail.taobao.com
 detail.tmall.com
 detail.tmall.com.danuoyi.tbcache.com
-detail.tmall.hk
 detail.zol.com.cn
 details.com
 detailskip.taobao.com
@@ -68010,6 +68009,7 @@ gplusapi.appspot.com
 gplusmedia.com
 gpm-rtv.ru
 gpnewtech.com
+gpoint.co.jp
 gppapp.com
 gps.jd.com
 gps8.com
@@ -73535,7 +73535,6 @@ honesty.com
 honey.briefly.ru
 honey.mgtv.com
 honey.mgtv.com.wsglb0.com
-honey.my
 honeybadger.io
 honeycomb.wps.cn
 honeycomb.wpscdn.cn
@@ -73583,7 +73582,6 @@ honglinzhang.com
 honglongwl.com
 honglulan.com
 hongm.com
-hongmeimei.com
 hongmen.com
 hongmoka.com
 hongniang.com
@@ -117733,7 +117731,6 @@ proyectoq.cl
 proyy.com
 prozdravi.cz
 prozinc.us
-prozz.net
 prp11ahda.s3.amazonaws.com
 prpr-muse-dash.peropero.net
 prprcloud.com
@@ -118031,7 +118028,6 @@ public.dm.files.1drv.com
 public.dns.iij.jp
 public.ffquan.cn
 public.fr
-public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.onlyfans.com
 public.popcorn-tracker.org
@@ -124259,7 +124255,6 @@ roland-china.com
 rolanddg.com
 rolanddg.eu
 rolanddga.com
-roleetstrategie.com
 rolex.cn
 rolex.com
 rolf-probeg.ru

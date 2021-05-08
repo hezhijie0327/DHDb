@@ -12886,7 +12886,6 @@ a3.shared.global.fastly.net
 a30667.actonservice.com
 a30668.actonservice.com
 a3116817c6493f49cf3c63caff3962b5.dlied1.cdntips.net
-a32a.com.cn
 a33285.com
 a33994.actonservice.com
 a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
@@ -19404,7 +19403,6 @@ ampiri.com
 ampj135.com
 ampj223.com
 ampj228.com
-ampj558.com
 ampj660.com
 amplenote.com
 amplesky.com
@@ -50884,7 +50882,6 @@ doudoubianli.com
 doudoubird.com
 doudoudm.com
 doudouyin.com
-doudouyuedu.com
 doufan.tv
 doufl.com
 doufm.net
@@ -58555,7 +58552,6 @@ fanqievv.com
 fanqiewin10.com
 fanquanba.com
 fanquanwang.com
-fanren8.com
 fanrenshucheng.com
 fanruan.com
 fans.91p20.space
@@ -79997,6 +79993,7 @@ init-s01st.push.apple.com
 init.ess.apple.com
 init.gc.apple.com
 init.gc.apple.com.mwcname.com
+init.homekit.push.apple.com
 init.itunes.apple.com
 init.itunes.apple.com.mwcname.com
 init.phpwind.com
@@ -126462,7 +126459,6 @@ sanjiangge.com
 sanjiangpm.com
 sanjiaoniu.com
 sanjiaoshou.net
-sanjiapm.com
 sanjiasoft.com
 sanjieke.com
 sanjinjiake.com

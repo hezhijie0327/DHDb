@@ -639,7 +639,6 @@
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -16860,7 +16859,6 @@ cmgrasp.com
 cmia.info
 cmicrwx.cn
 cmiyu.com
-cmjoy.com
 cmjz.net
 cmm.xmfish.com
 cmmim.com
@@ -47323,7 +47321,6 @@ pipacoding.com
 pipaw.com
 pipaw.net
 pipi.cn
-pipibus.com
 pipikou.com
 pipipan.com
 pipipifa.com
@@ -47608,6 +47605,7 @@ poobbs.com
 poocg.com
 poofx.com
 pook.com
+pool.ntp.org
 pool.v6.bt.n0808.com
 poolct.17173.com
 pooldist.shouyou.com
@@ -56240,6 +56238,7 @@ swaqds.com
 swarma.org
 swbbsc.com
 swc.weather.com.cn
+swcdn.apple.com
 swcdn.apple.com.akadns.net
 swcdn.apple.com.w.alikunlun.com
 swcdn.g.aaplimg.com

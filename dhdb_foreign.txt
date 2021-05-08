@@ -11729,6 +11729,7 @@ api.mapbox.com
 api.mediarithmics.com
 api.mediation.amberweather.com
 api.meomiao.us
+api.micloud.xiaomi.net
 api.mightycast.com
 api.minero.cc
 api.minexmr.com
@@ -11786,7 +11787,6 @@ api.rnet.plus
 api.rubic.com.tr
 api.rudderlabs.com
 api.sail-personalize.com
-api.samsungcloud.com
 api.savemedia.website
 api.sbz.vn
 api.sciencemag.org
@@ -17731,7 +17731,6 @@ bo.facesbet.com
 bo92.ga
 boa.brycewray.com
 boao369.com
-boao888.com
 boar.indieweb.org
 boardreader.com
 boards.4chan.org

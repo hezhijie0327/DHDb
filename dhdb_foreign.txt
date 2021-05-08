@@ -7604,7 +7604,6 @@ adm-wlan-switch.net.daraz.com
 adm.6park.com
 adm.adminstrumentengineering.com.au
 adm.beimg.com
-adm.category5.tv
 adm.fwmrm.net
 adm.lib-ht-2.net.daraz.com
 adm.phunusuckhoe.vn
@@ -11543,7 +11542,6 @@ apat1989.org
 apcdianyuan.com
 apcerpharma.actonservice.com
 apcinfo.motorolasolutions.com
-apcow.com
 apczech.cz
 ape-tagit.timeinc.net
 ape.mfj.se
@@ -29744,6 +29742,7 @@ download.qoo-app.com
 download.sd.baidu.com
 download.synology.com
 download.weatherblink.com
+download.windowsupdate.com
 download.windowsupdate.nsatc.net
 download.wondershare.com
 download.yesmessenger.com
@@ -76240,7 +76239,6 @@ securitasdirect.fr
 securite.01net.com
 security-alert.wz6l9nmd.top
 security-next.com
-security.browser.miui.com
 security.claroty.com
 security.fblaster.com
 security.googleblog.com

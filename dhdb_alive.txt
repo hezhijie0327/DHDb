@@ -15472,7 +15472,6 @@ ads-api.twitter.com
 ads-backend.nhadatmoi.net
 ads-banner.1mobile.com
 ads-bid.l.doubleclick.net
-ads-bidder-api.twitter.com
 ads-brand-postback.unityads.unity3d.com
 ads-by.yieldselect.com
 ads-cdn.fptplay.net
@@ -19453,6 +19452,7 @@ amuniverse.6te.net
 amuref.com
 amuren.com
 amv.fr
+amvs22.com
 amvs6.com
 amvs66.com
 amvs77.com
@@ -29065,7 +29065,6 @@ bjtobacco.com
 bjtonghui.com
 bjtongyu.com
 bjtopli.com
-bjtpyq.com
 bjtth.org
 bjttsf.com
 bjtu-hedu.com
@@ -47968,6 +47967,7 @@ detail.m.tmall.hk
 detail.taobao.com
 detail.tmall.com
 detail.tmall.com.danuoyi.tbcache.com
+detail.tmall.hk
 detail.zol.com.cn
 details.com
 detailskip.taobao.com
@@ -52463,7 +52463,6 @@ dwheeler.com
 dwinput.com
 dwion.com
 dwjq.com.cn
-dwmoniqi.com
 dwmqsa.sn.files.1drv.com
 dwnews.com
 dwnm2295blvjq.cloudfront.net
@@ -74533,7 +74532,6 @@ hturl.cc
 htuwenming.com
 htwed.com
 htxxpx.com
-htxyin.com
 hty.cdn-ng.net
 htyou.com
 htys.cc
@@ -93091,6 +93089,7 @@ localhost.test.net.daraz.com
 localhost.train.net.daraz.com
 localizejs.com
 localizestatus.com
+locallimit.us.sinaimg.cn
 localnews8.com
 localpages.com
 localphone.com
@@ -117943,7 +117942,6 @@ pu0038.com
 pu0039.com
 pu0040.com
 pu148.com
-pu2299.com
 pu6600.com
 pu7733.com
 pu7755.com
@@ -119374,6 +119372,7 @@ qianlima.com
 qianlima11.cc
 qianlimafile.com
 qianlinkj.com
+qianliyanww.com
 qianlong.adsame.com
 qianlong.com
 qianlongnews.com

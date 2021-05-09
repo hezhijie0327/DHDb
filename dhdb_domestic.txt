@@ -9928,6 +9928,7 @@ api.yuedu.iqiyi.com
 api.zhihu.com
 api.zhirenzhufu.com
 api.zhuanlan.sina.com.cn
+api.zhuti.xiaomi.com
 api.zol.com
 api.zone.lixian.vip.xunlei.com
 api1.888zy.cn
@@ -23861,7 +23862,6 @@ ecohumanity.org
 ecollision.shareinstall.com.cn
 ecomcbjs.jomodns.com
 ecomgxh.kuwo.cn
-ecommerceintegration-public-service-ecomprod02.ol.epicgames.com
 ecomoter.com
 ecook.cn
 ecoplastech.com

@@ -4333,7 +4333,6 @@
 530p.com
 5312732.b2b.jinanfa.cn
 5317wan.com
-531mk.com
 531u.com
 5322c79c0f749497.qaxcloudwaf.com
 5329a9qx.p23.tc.cdntip.com
@@ -17277,7 +17276,6 @@ cnhzz.com
 cniao5.com
 cnibx.com
 cnicif.com
-cnidea.net
 cnimg.elex.com
 cninfo.com.cn
 cninfo.net
@@ -17866,7 +17864,6 @@ console-base.log-global.aliyuncs.com.w.cdngslb.com
 consolebench.cn-hangzhou.log.aliyuncs.com
 consolecgi.qidian.qq.com
 consumeweb.alipay.com
-contactapi.micloud.xiaomi.net
 contacts.163.com
 contacts.fe.apple-dns.cn
 content.1688.com
@@ -18786,6 +18783,7 @@ cv8768.com
 cvchome.com
 cvcri.com
 cvda.17173.com
+cvicse.com
 cvicseks.com
 cvmart.net
 cvnad.com
@@ -47032,7 +47030,6 @@ pic.chinaz.com.wscdns.com
 pic.cnblogs.com
 pic.cnmo-img.com.cn
 pic.cubejoy.com
-pic.cytcm.com
 pic.downk.cc
 pic.ea3w.com
 pic.eduancm.com

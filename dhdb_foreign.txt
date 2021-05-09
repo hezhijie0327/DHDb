@@ -1360,6 +1360,7 @@
 195777777.com
 1957799.com
 195839-ipv4.farm.dprodmgd106.aa-rt.sharepoint.com.spo-0004.spo-msedge.net
+195855.com
 195888000.com
 195999777.com
 195aaa195.com
@@ -9844,7 +9845,6 @@ ak.sascdn.com
 ak1.imgaft.com
 ak47fuli.com
 ak633.com
-ak9.6895588.com
 ak929.com
 aka-cdn-ns.adtech.de
 aka-cdn-ns.adtechus.com
@@ -10640,7 +10640,6 @@ ampconfigprod.blob.core.windows.net
 amphenol-ns.com
 ampiri.com
 ampj135.com
-ampj223.com
 ampj226.com
 ampj228.com
 ampj557.com
@@ -23433,6 +23432,7 @@ cnhot.cc
 cnhowotruck.com
 cnhqzb-wx.com
 cnhuadong.net
+cnhvacrnet.com
 cniaas.com
 cnil.links-lab.fr
 cnineu.com
@@ -51774,7 +51774,6 @@ kuaizitech.net
 kuaizq.com
 kuandao.com
 kuangchan.biz
-kuangchanglang.com
 kuangren.cc
 kuangrendao.com
 kuangyi.com

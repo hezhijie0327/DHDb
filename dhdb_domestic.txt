@@ -636,6 +636,7 @@
 1.92caijing.com
 1.aili.com
 1.arpun.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
@@ -2946,10 +2947,14 @@
 36543.com
 365500.com
 365528.com
+365616.com
+365667.com
 36578.com
 365916.com
+365936.com
 3659431641pg.sina.cn
 3659431642pg.sina.cn
+365955.com
 365960.com
 365art.com
 365autogo.com
@@ -18353,6 +18358,7 @@ crashes.mo.wps.cn
 crasheye.cn
 crashlytics.163.com
 crashlytics2.l.google.com
+crashlyticsreports-pa.googleapis.com
 crawl.ws.126.net
 crayon.meishichina.com
 crazyenglish.org
@@ -32040,6 +32046,7 @@ ie.sogou.com
 ie.uu.163.com
 ie027.com
 ie13.com
+ie2205.com
 ie515.com
 ie525.com
 ie815.com
@@ -43392,6 +43399,7 @@ my88316666.com
 my9166.com
 my9527.com
 my97.net
+my9911.com
 myad.toocle.com
 myagric.com
 myaijarvis.com
@@ -43542,6 +43550,7 @@ myra2.com
 myrb.net
 myreadme.com
 myrice.com
+myrics.com
 myriptide.com
 myrtb.net
 myrunners.com
@@ -60051,6 +60060,7 @@ umvsoft.com
 un-bug.com
 un.m.jd.com
 un.m.jd.com.gslb.qianxun.com
+un.ubaike.cn
 un.xz6.com
 un1.takefoto.cn
 un1.wayoulegal.com
@@ -61740,6 +61750,7 @@ vxia.net
 vxiaocheng.com
 vxiaoxin.com
 vxinyou.com
+vxpic.com
 vxplo.com
 vxsnk.com
 vxuey.com
@@ -65070,6 +65081,7 @@ www.veryhuo.com
 www.vip.com
 www.vod.lxdns.com
 www.vsmlife.com
+www.vxpic.com
 www.vyuan8.com
 www.w-miaohui.com
 www.w3cplus.com
@@ -72305,6 +72317,7 @@ z.cesuyun.cn
 z.cn
 z.cnzz.com
 z.gds.cnzz.com
+z.grfyw.com
 z.itpub.net
 z.itpub.net.w.kunlungr.com
 z.jd.com

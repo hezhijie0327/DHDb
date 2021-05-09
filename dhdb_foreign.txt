@@ -52435,6 +52435,7 @@ kwcg.ca
 kwcguangdong.com
 kwikj.com
 kwin.xyz
+kwis-opf.amazon.com
 kwm.com
 kwok7.com
 kwongwah.com.my
@@ -52523,6 +52524,7 @@ l.engage.canva.com
 l.evidon.com
 l.fairblocker.com
 l.ffx.io
+l.hltv.org
 l.instagram.com
 l.logly.co.jp
 l.m.naver.com
@@ -52535,6 +52537,7 @@ l.sharethis.com
 l.support.canva.com
 l.thumbtack.com
 l.typesquare.com
+l.tyrantdb.com
 l.ujian.cc
 l.www.naver.com
 l0-secure.videohub.tv
@@ -52557,7 +52560,9 @@ la-sync.taboola.com
 la-z-boy.com
 la.5.p2l.info
 la.vietid.net
+la1-c2-ia4.ia4.r.salesforceliveagent.com
 la137.cc
+la3-c2-phx.phx.r.salesforceliveagent.com
 la7.tv
 laas.americanexpress.com
 lab-autumn.net.daraz.com
@@ -52800,6 +52805,7 @@ laosunit.com
 laowaixiaohan.bloguje.com
 laowaixiaohan.bloguje.cz
 laowang.vip
+laowangblog.com
 laoyang.info
 laozhang.tk
 lap-click.tr.line.me
@@ -52881,7 +52887,9 @@ latourism.org
 laughingsquid.com
 laughterizer.weebly.com
 launchdarkly.com
+launcher-bq.gaijin.net
 launcher-content.t2gp.take2games.com
+launcher.spot.im
 launcher.us.yeshen.com
 launches.appsflyer.com
 launchgood.com
@@ -52950,7 +52958,12 @@ lb-adserver.ig.com.br
 lb-csr41.net.daraz.com
 lb-floor.com
 lb-print-mo.net.daraz.com
+lb-prod-mm-detect01.ubisoft.com
+lb-prod-mm-detect02.ubisoft.com
+lb-prod-mm-traversal.ubisoft.com
 lb-r-ln-1.net.daraz.com
+lb-rdv-ac.ubisoft.com
+lb-rdv-prod.ubi.com
 lb.billing01.email-allstate.com
 lb.gravatar.com
 lb.marketing01.email-allstate.com
@@ -53137,6 +53150,7 @@ learn.oclc.org
 learn.rainfocus.com
 learn.ricoh.ca
 learn.twigeducation.com
+learn.unity.com
 learn.uwindsor.ca
 learnappmaking.com
 learndiary.com
@@ -53684,6 +53698,7 @@ libnull.com
 libo15.com
 libraccio.it
 libraries.adobe.io
+library-service.live.use1a.on.epicgames.com
 library.minghui.org
 library.moegirl.org
 library.pressdisplay.com
@@ -53808,6 +53823,7 @@ lightnovel.cn
 lightplan.cc
 lightspeed.com
 lightstream.com
+lightswitch-public-service-prod06.ol.epicgames.com
 lightyearvpn.com
 ligtv.com.tr
 lih.kg
@@ -54187,6 +54203,7 @@ literally-analytics.appspot.com
 literatumonline.com
 litespeed.com
 lithium.com
+litiangarment.manufacturer.globalsources.com
 litipumps.com
 lititop.group
 litix.io
@@ -54248,6 +54265,7 @@ live.coachella.com
 live.com
 live.com.au
 live.cxo.name
+live.dz11.com
 live.ec2.cxo.name
 live.eu
 live.fc2.com
@@ -54262,6 +54280,7 @@ live.rezync.com
 live.sekindo.com
 live.vnpgroup.net
 live173.com
+live2d.pavostudio.com
 live365.com
 live666.me
 liveaction.com
@@ -54295,6 +54314,7 @@ livemodal.com
 livenation.com
 livepartners.com
 livepass.conviva.com
+liveperson.map.fastly.net
 livera.nl
 liverail.com
 liverail.tv
@@ -54344,6 +54364,7 @@ liyaochao.com
 lizakii.000webhostapp.com
 lizenghai.com
 lizhi.com
+lizhi.us12.list-manage.com
 lizhi001.com
 lizhongyi.com
 lizi.com
@@ -54475,6 +54496,7 @@ loc.rediff.com
 local.adguard.org
 local.com
 local.fr
+local.info.g9hc4.cn
 localads-statistics.maps.me
 localbitcoins.com
 localbitcoins.net
@@ -54707,6 +54729,7 @@ login.car40.net.daraz.com
 login.danaherconnect.com
 login.dlsite.com
 login.firaxislive.com
+login.gaijin.net
 login.live.com
 login.meexy.com
 login.microsoft.com
@@ -56035,6 +56058,7 @@ macossierra.com
 macosx.info
 macosxlion.com
 macpaw.com
+macpaw.onelink.me
 macpazar.com
 macplatform.wondershare.com
 macports.org
@@ -56408,6 +56432,7 @@ manage001.adtech.fr
 manage001.adtech.us
 manageadv.cblogs.eu
 managecore.over-blog.com
+managed-cname-fallback.activehosted.com.cdn.cloudflare.net
 managed-pki.ch
 managed-pki.de
 managedmeetingrooms.com
@@ -56893,6 +56918,7 @@ marketing.gowhiteowl.com
 marketing.greentanktech.com
 marketing.growbinmaster.com
 marketing.gulfshores.com
+marketing.h365.gg
 marketing.hammer.net
 marketing.happay.in
 marketing.haughn.com
@@ -57582,6 +57608,7 @@ maybeiwill.me
 mayi258.com
 maying.co
 mayoclinic.org
+mayswind.github.io
 mayswind.net
 mayun1.com
 mayway520.weebly.com
@@ -57661,6 +57688,7 @@ mbuat.dahsing.com
 mbulanna.com
 mbvn.dyh-uat.1680170.com
 mbz64.com
+mc-21665-1925519580.us-west-2.elb.amazonaws.com
 mc-doualiya.com
 mc-test.com
 mc.7kzw.com
@@ -57672,6 +57700,7 @@ mc.corel.com
 mc.jling.dev
 mc.tyhjwjg.cn
 mc.webvisor.com
+mc.yandex.md
 mc.yandex.ru
 mc0411.com
 mca.gov.in
@@ -57889,6 +57918,7 @@ measinc.com
 measure.ameblo.jp
 measure.mf.cz
 measure.refinery89.com
+measurements-api.wonderpush.com
 meaww.com
 meban.cc
 mebelaero.ru
@@ -57916,6 +57946,7 @@ medhyg.ch
 medi-8.net
 media-active.ru
 media-adrunner.mycomputer.com
+media-akam.licdn.com
 media-analytics.akamaized.net
 media-box.co
 media-cdn.epicgames.com
@@ -57942,6 +57973,7 @@ media.alphaload.com
 media.amazon.map.fastly.net
 media.aso.altapress.ru
 media.bidr.io
+media.blizzard.com
 media.bonnint.net
 media.ci-en.jp
 media.cz
@@ -58340,6 +58372,7 @@ mercola.com
 mercolamarket.com
 mercury.bravenet.com
 mercury.ru
+mercury.ubi.com
 mercuryinsurance.com
 mercurynews.com
 mercy.net
@@ -59185,6 +59218,11 @@ mg3333.com
 mg64.net
 mg6440.com
 mgagolf.org
+mgate-elb-01.warthunder.com
+mgate-jupiter-am-uk-01.enlisted.net
+mgate-sv-lx-01.warthunder.com
+mgate01lw-nl.warthunder.com
+mgate06am-uk.warthunder.com
 mgbivj.hintaopas.fi
 mgbsdk.matrix.netease.com
 mgcnid.aboutyou.cz
@@ -59953,6 +59991,8 @@ mirror.aptus.co.tz
 mirror.csr41.net.daraz.com
 mirror.earthlink.iq
 mirror.ghproxy.com
+mirror.its.dal.ca
+mirror.math.princeton.edu
 mirror.ns1.viviotech.net.daraz.com
 mirror.poliwangi.ac.id
 mirror.smi.fm
@@ -59962,7 +60002,11 @@ mirrormediagroup.com
 mirrorr-oa-2.net.daraz.com
 mirrors.bestthaihost.com
 mirrors.fedoraproject.org
+mirrors.ircam.fr
+mirrors.ocf.berkeley.edu
 mirrors.thzhost.com
+mirrors.ukfast.co.uk
+mirrors.up.pt
 mirrorsedge.com
 mirrorsedge.jp
 mirrorsedge.net
@@ -60041,6 +60085,7 @@ mituyu.com
 miuz.ru
 miv.ububyiw6655.xyz
 mivyyq.safeandfair.com
+mix-collecte-it-prod-1582605754.ap-northeast-2.elb.amazonaws.com
 mix.com
 mix.kinostuff.com
 mix.moe
@@ -60139,6 +60184,7 @@ mkto-ab130037.com
 mkto-c0100.com
 mkto-sj050263.com
 mkto-sj230006.com
+mkto-sj320080.com
 mktoresp.com
 mktorest.com
 mktossl.com
@@ -60214,6 +60260,7 @@ mmfi.net
 mmgal.com
 mmi.bemobile.ua
 mmim8.com
+mmixstaticassets.azureedge.net
 mmk.dyn.mk
 mmkao.net
 mmkkgg.com
@@ -60962,6 +61009,7 @@ mowrygrimson.com
 mox.tv
 moxaftp.box.com
 moxfive.xyz
+moxiaojiu.com
 moy.su
 moye.me
 moyimusic.com
@@ -61105,6 +61153,7 @@ mrzhenggang.com
 mrzhouxiaofei.com
 ms-apps.haaretz.com
 ms-ceintl.gallery.vsassets.io
+ms-dotnettools.gallery.vsassets.io
 ms-dotnettools.gallerycdn.vsassets.io
 ms-python.gallerycdn.vsassets.io
 ms-toolsai.gallerycdn.vsassets.io
@@ -61218,6 +61267,7 @@ mspairlift.com
 msper.freeiz.com
 mspring.org
 mspy.com
+msr-api-ubiservices.ubi.com
 msropendata.com
 msstore.vo.msecnd.net
 mstarsemi.com
@@ -61270,6 +61320,7 @@ mtkdy.com
 mtktk.com
 mtl.ttsqgs.com
 mtm.mo
+mtm.rebe.capcom.com
 mto.cgv.vn
 mto.mediatakeout.com
 mtop.cnzzla.com
@@ -61577,6 +61628,7 @@ my.parallels.com.cdn.cloudflare.net
 my.pcloud.com
 my.promo.skf.com
 my.putlocker.to
+my.rtmark.net
 my.shymilftube.com
 my.st.com
 my.tabnine.com
@@ -61697,6 +61749,8 @@ mycp188.com
 mycp233.com
 mycricket.com
 mycs.com
+mycyberuniverse.com
+mycyberuniverse.disqus.com
 mydad.info
 mydas.mobi
 mydati.com
@@ -62076,6 +62130,7 @@ na.ns02.us
 na.privatelink.msidentity.com
 na.tl
 na.wargaming.net
+na134-ia4.ia4.r.force.com
 na1e-acc.services.adobe.com
 naacoalition.org
 nab.com.au
@@ -62126,6 +62181,7 @@ nalandawest.org
 nalntn.elektroshopwagner.de
 nalpathamkalam.com
 naltis.com
+nam02.safelinks.protection.outlook.com
 namba.net
 name.com
 namebright.com
@@ -62757,6 +62813,7 @@ new-av.com
 new-programmatic.com
 new-proxy.com.de
 new-rutor.eu.org
+new-translate.unity3d.jp
 new-vid-zone-1.blogspot.com.au
 new.av9.cc
 new.browsermine.com
@@ -62863,6 +62920,7 @@ newrevive.detik.com
 newrin.me
 newrutor.eu.org
 newrutor.org.pl
+news-page-themes-api.a.upc.ubisoft.com
 news-press.com
 news-pro.today
 news-whistleout.s3.amazonaws.com
@@ -62978,6 +63036,7 @@ newsextube.org
 newsfeed.com
 newsgu.com
 newshub.co.nz
+newsite.quadrantsec.com
 newsjs.com
 newslab.withgoogle.com
 newsland.com
@@ -63801,6 +63860,7 @@ nomulus.foo
 non-fakenews.org
 noneto.com
 nong3bram.com
+nongli.911cha.com
 nongminys.com
 nongzisc.com
 nonozone.net
@@ -63901,6 +63961,7 @@ nosto.com
 nostringsattached.com
 nota.md
 notability.com
+notabug.org
 notarize.com
 notary.net
 note.com
@@ -63915,9 +63976,11 @@ notheroes.com
 noti.sonkwo.hk
 notice.hoopladigital.com
 notice.kakaku.com
+notification-secure.hltv.org
 notification.services.msn.com
 notification.tubecup.net
 notificationinbox.xboxlive.com
+notifications-pa.googleapis.com
 notifiche.secoloditalia.it
 notify-bugs-fra1.rtl.de
 notify.adobe.io
@@ -63953,6 +64016,7 @@ nov.evmenov37.ru
 nov.ru
 nova.app
 nova.bg
+nova.collect.igodigital.com
 nova.cz
 nova.dice.net
 novafile.com
@@ -64523,6 +64587,7 @@ nv-ad.24hstatic.com
 nv.5.p2l.info
 nv.ua
 nvcqii.multivarka.pro
+nvego.com
 nvesto.com
 nvfmjo.camptoo.nl
 nvidia.asia
@@ -64613,6 +64678,7 @@ ny913.com
 nya.iss.one
 nyaa.com
 nyaa.eu
+nyaa.hezhijie0327.workers.dev
 nyaa.io
 nyaa.iss.one
 nyaa.net
@@ -64620,6 +64686,7 @@ nyaa.si
 nyaa.tracker.wf
 nyaa.uk
 nyaatorrents.info
+nyabbs.com
 nyahentai.com
 nyam1480.com
 nyandcompany.com
@@ -64754,6 +64821,7 @@ o365weve.com
 o36975.ingest.sentry.io
 o3brown.com
 o433356.ingest.sentry.io
+o460837.ingest.sentry.io
 o522159.ingest.sentry.io
 o522631.ingest.sentry.io
 o6222.com
@@ -64939,6 +65007,7 @@ ocsp.rootg2.amazontrust.com
 ocsp.sca1b.amazontrust.com
 ocsp.sectigo.com
 ocsp.starfieldtech.com
+ocsp.thawte.com
 ocsp.trust-provider.com
 ocsp.trustwave.com
 ocsp.usertrust.com
@@ -65051,6 +65120,7 @@ office-com.jp
 office-mall.net
 office.ad1.ru
 office.com
+office.live.com
 office.officenet.co.kr
 office365.com
 office365tw.com
@@ -65267,6 +65337,7 @@ oliver.ren
 oliverjcole.co.uk
 oliverpeoples.com
 oliveryang.net
+oljzcl.joojzz.com
 olklgn.jh-profishop.de
 ollxtv.com
 olmedo.cl
@@ -65533,14 +65604,20 @@ onedrive.co
 onedrive.co.uk
 onedrive.com
 onedrive.eu
+onedrive.hezhijie0327.workers.dev
 onedrive.live.com
 onedrive.microsoft.com
 onedrive.net
 onedrive.org
+onedriveclubprodbn20019.blob.core.windows.net
 onedriveclubprodbn20023.blob.core.windows.net
+onedriveclubproddm20006.blob.core.windows.net
+onedriveclubproddm20008.blob.core.windows.net
+onedriveclubproddm20030.blob.core.windows.net
 onedriveclubproddm20034.blob.core.windows.net
 onedriveclucprodbn20001.blob.core.windows.net
 onedriveclucprodbn20002.blob.core.windows.net
+onedriveclucprodbn20003.blob.core.windows.net
 onedriveclucprodbn20004.blob.core.windows.net
 onedriveclucprodbn20005.blob.core.windows.net
 onedriveclucprodbn20006.blob.core.windows.net
@@ -65564,8 +65641,10 @@ onedriveclucprodbn20030.blob.core.windows.net
 onedriveclucproddm20001.blob.core.windows.net
 onedriveclucproddm20002.blob.core.windows.net
 onedriveclucproddm20004.blob.core.windows.net
+onedriveclucproddm20005.blob.core.windows.net
 onedriveclucproddm20006.blob.core.windows.net
 onedriveclucproddm20007.blob.core.windows.net
+onedriveclucproddm20008.blob.core.windows.net
 onedriveclucproddm20009.blob.core.windows.net
 onedriveclucproddm20011.blob.core.windows.net
 onedriveclucproddm20012.blob.core.windows.net
@@ -65578,6 +65657,7 @@ onedriveclucproddm20018.blob.core.windows.net
 onedriveclucproddm20019.blob.core.windows.net
 onedriveclucproddm20020.blob.core.windows.net
 onedriveclucproddm20021.blob.core.windows.net
+onedriveclucproddm20022.blob.core.windows.net
 onedriveclucproddm20023.blob.core.windows.net
 onedriveclucproddm20024.blob.core.windows.net
 onedriveclucproddm20025.blob.core.windows.net
@@ -65585,6 +65665,7 @@ onedriveclucproddm20026.blob.core.windows.net
 onedriveclucproddm20027.blob.core.windows.net
 onedriveclucproddm20028.blob.core.windows.net
 onedriveclucproddm20029.blob.core.windows.net
+onedriveclucproddm20030.blob.core.windows.net
 onedriveclucproddm20036.blob.core.windows.net
 onedumb.com
 onefeed.co.uk
@@ -65734,7 +65815,9 @@ only-175281-180-160-103-68.nstool.netease.com
 only-176675-180-160-103-68.nstool.netease.com
 only-185292-210-22-106-66.nstool.netease.com
 only-1932-180-160-118-149.nstool.netease.com
+only-201245-180-160-113-53.nstool.netease.com
 only-207323-180-160-113-57.nstool.netease.com
+only-21148-124-78-213-159.nstool.netease.com
 only-211612-180-160-118-149.nstool.netease.com
 only-21278-180-160-113-57.nstool.netease.com
 only-216520-180-160-103-68.nstool.netease.com
@@ -65766,12 +65849,15 @@ only-366341-180-160-118-149.nstool.netease.com
 only-366380-180-160-118-149.nstool.netease.com
 only-367363-180-160-118-149.nstool.netease.com
 only-375262-180-160-118-149.nstool.netease.com
+only-376172-180-160-113-53.nstool.netease.com
 only-383325-180-160-118-149.nstool.netease.com
 only-387235-180-160-118-149.nstool.netease.com
+only-390821-180-160-113-53.nstool.netease.com
 only-402832-180-160-113-57.nstool.netease.com
 only-405739-180-160-113-57.nstool.netease.com
 only-40816-180-160-118-149.nstool.netease.com
 only-41763-180-160-118-149.nstool.netease.com
+only-429186-180-160-113-53.nstool.netease.com
 only-44049-180-160-103-68.nstool.netease.com
 only-444894-180-160-103-68.nstool.netease.com
 only-45613-210-22-106-66.nstool.netease.com
@@ -65809,11 +65895,14 @@ only-732970-180-160-118-149.nstool.netease.com
 only-741464-180-160-118-149.nstool.netease.com
 only-747892-180-160-103-68.nstool.netease.com
 only-751004-180-160-103-68.nstool.netease.com
+only-762780-180-160-113-53.nstool.netease.com
 only-766953-180-160-118-149.nstool.netease.com
+only-77292-180-160-113-53.nstool.netease.com
 only-783005-180-160-118-149.nstool.netease.com
 only-790974-210-22-106-66.nstool.netease.com
 only-792881-180-160-118-149.nstool.netease.com
 only-808629-180-160-118-149.nstool.netease.com
+only-812394-180-160-113-53.nstool.netease.com
 only-812584-180-160-103-68.nstool.netease.com
 only-836074-180-160-103-68.nstool.netease.com
 only-839238-180-160-118-149.nstool.netease.com
@@ -65826,6 +65915,7 @@ only-881849-180-160-118-149.nstool.netease.com
 only-885152-180-160-118-149.nstool.netease.com
 only-887560-180-160-118-149.nstool.netease.com
 only-888415-180-160-118-149.nstool.netease.com
+only-890223-180-160-113-53.nstool.netease.com
 only-903935-180-160-118-149.nstool.netease.com
 only-916205-180-160-103-68.nstool.netease.com
 only-920708-180-160-118-149.nstool.netease.com
@@ -66070,6 +66160,8 @@ opera.com
 operationtulip.com
 operationwarm.org
 opersa.com.ar
+opgg-cdn.akamaized.net
+opgg-gnb.akamaized.net
 opgg-static.akamaized.net
 ophan.theguardian.com
 ophiram.com
@@ -66191,6 +66283,7 @@ order.shadowsocks.ch
 order.shadowsocks.se
 order.webunion.com
 order2cash.com
+orderprocessor-public-service-ecomprod01.ol.epicgames.com
 ordns.he.net
 ordpmx.victorianplumbing.co.uk
 oreca-asia.com
@@ -66215,6 +66308,7 @@ org-nfreya.net.daraz.com
 org-print-mo.net.daraz.com
 org-r-dw-1.net.daraz.com
 org-r-ht-2.net.daraz.com
+org.downloadcenter.samsung.com
 org.es
 org.hk
 org.my
@@ -66482,7 +66576,9 @@ outletbeatsshop.com
 outletinn.com
 outletnike.com
 outlook-1.cdn.office.net
+outlook-2.cdn.office.net
 outlook-exo.trafficmanager.net
+outlook-office-com.k-0002.k-msedge.net
 outlook.com
 outlook.ha.office365.com
 outlook.idealab.com
@@ -66525,6 +66621,7 @@ overclockers.ua
 overdaily.org
 overflow.biz
 overflow.t-0001.t-msedge.net
+overlay.cdn.ubisoft.com
 overlay.ringtonematcher.com
 overock.com
 overplay.net
@@ -66658,6 +66755,7 @@ p.cdn.persaas.dell.com
 p.circaworks.com
 p.classroombookings.com
 p.clvs7.com
+p.cquotient.com
 p.d.1emn.com
 p.delivery.net
 p.estream.to
@@ -66722,10 +66820,12 @@ p0636.com
 p07.t.eloqua.com
 p0f.whatleaks.com
 p1.parsely.com
+p11.techlab-cdn.com
 p12345.com
 p12p.com
 p13.zdassets.com
 p138.com
+p13n-swarm-production.eastus.cloudapp.azure.com
 p13n.adobe.io
 p13nlog-1106815646.us-east-1.elb.amazonaws.com
 p16-tiktokcdn-com.akamaized.net
@@ -66745,6 +66845,7 @@ p2.danskebank.se
 p2.mypi.co
 p2.port25.biz
 p2.qpoe.com
+p20.zdassets.com
 p2099.com
 p215223.clksite.com
 p215223.inclk.com
@@ -66757,6 +66858,7 @@ p26-buy.itunes-apple.com.akadns.net
 p26-buy.itunes.apple.com
 p2885.com
 p29-buy-lb.itunes-apple.com.akadns.net
+p29-buy.itunes-apple.com.akadns.net
 p29-buy.itunes.apple.com
 p2es.com
 p2l.info
@@ -66792,6 +66894,7 @@ p3p.yahoo.com
 p4-a2jiaaw53kijy-m2mqimpuw46vu77f-303487-i1-v6exp3.v4.metric.gstatic.com
 p4-a2jiaaw53kijy-m2mqimpuw46vu77f-303487-i2-v6exp3.ds.metric.gstatic.com
 p4-a2jiaaw53kijy-m2mqimpuw46vu77f-if-v6exp3-v4.metric.gstatic.com
+p4-b4qzsharb7tug-v7kzyirtkwgltgkx-if-v6exp3-v4.metric.gstatic.com
 p4-bi75bbu6e5tiu-kdl5eoym3vtd4oeb-if-v6exp3-v4.metric.gstatic.com
 p4-bvlbrm3jq5g3o-fxm4fmny6idvmapm-if-v6exp3-v4.metric.gstatic.com
 p4-bwvknskgvvqmi-kanbg3wipv6lz62t-if-v6exp3-v4.metric.gstatic.com
@@ -66801,31 +66904,38 @@ p4-ctleqnrm4uneo-osk6wvl4cwovlzfk-309663-i1-v6exp3.v4.metric.gstatic.com
 p4-ctleqnrm4uneo-osk6wvl4cwovlzfk-309663-i2-v6exp3.ds.metric.gstatic.com
 p4-ctleqnrm4uneo-osk6wvl4cwovlzfk-309663-s1-v6exp3-v4.metric.gstatic.com
 p4-ctleqnrm4uneo-osk6wvl4cwovlzfk-if-v6exp3-v4.metric.gstatic.com
+p4-cu7qp3tfi6w6e-lotrd7j5ujlizh54-if-v6exp3-v4.metric.gstatic.com
 p4-cy54kz4djnpn6-26ef6jxho7qkvd3e-840653-i1-v6exp3.v4.metric.gstatic.com
 p4-cy54kz4djnpn6-26ef6jxho7qkvd3e-840653-i2-v6exp3.ds.metric.gstatic.com
 p4-cy54kz4djnpn6-26ef6jxho7qkvd3e-if-v6exp3-v4.metric.gstatic.com
 p4-cye6a3dmwk6r4-uxmws2un2qpp44kn-if-v6exp3-v4.metric.gstatic.com
+p4-d43rdjrt6oxuy-ervuqqipknggxgoj-if-v6exp3-v4.metric.gstatic.com
 p4-dfr7uot76kqbu-bp22qddt3fq3zejo-if-v6exp3-v4.metric.gstatic.com
 p4-dfv5gv4gke4yi-uii5q5orhmkzjihf-233747-i1.stbcast3.metric.gstatic.com
 p4-dfv5gv4gke4yi-uii5q5orhmkzjihf-233747-i2.stbcast4.metric.gstatic.com
 p4-dfv5gv4gke4yi-uii5q5orhmkzjihf-if-v6exp3-v4.metric.gstatic.com
+p4-dj3sq75afoi4y-opj72jb2dybcswh4-if-v6exp3-v4.metric.gstatic.com
 p4-dkxddhkzxzgqw-d3xlaywqzld7lp7q-158580-s1-v6exp3-v4.metric.gstatic.com
 p4-dkxddhkzxzgqw-d3xlaywqzld7lp7q-if-v6exp3-v4.metric.gstatic.com
 p4-dlgnrn4sdtuk4-zexopmhh62mhuaw7-if-v6exp3-v4.metric.gstatic.com
+p4-dyq566yle4wme-dwrrjof345mwcbzm-if-v6exp3-v4.metric.gstatic.com
 p4-eamcu5jew3eqs-nst23hzccrfa3k6l-764512-i1-v6exp3.ds.metric.gstatic.com
 p4-eamcu5jew3eqs-nst23hzccrfa3k6l-764512-i2-v6exp3.v4.metric.gstatic.com
 p4-eamcu5jew3eqs-nst23hzccrfa3k6l-if-v6exp3-v4.metric.gstatic.com
 p4-ejocec4ubzqf2-6rloa6hdyrzlkmcs-if-v6exp3-v4.metric.gstatic.com
+p4-emrptbenzoksg-u6whqmkx5jkjxf6e-if-v6exp3-v4.metric.gstatic.com
 p4-f3f4m2cnn6dqc-5noenph5q7fmdkm2-if-v6exp3-v4.metric.gstatic.com
 p4-fb3pe3aqoacak-nqloeanmvwd2szcz-623519-i1-v6exp3.v4.metric.gstatic.com
 p4-fb3pe3aqoacak-nqloeanmvwd2szcz-623519-i2-v6exp3.ds.metric.gstatic.com
 p4-fb3pe3aqoacak-nqloeanmvwd2szcz-if-v6exp3-v4.metric.gstatic.com
+p4-feowvrhqermwu-ypqsybxlcoqgc74r-if-v6exp3-v4.metric.gstatic.com
 p4-fxcbrjitjrao6-qceucai6it6gfviw-if-v6exp3-v4.metric.gstatic.com
 p4-g67yl4a645b5u-sf7c4jihpamcox6l-559901-i1-v6exp3.v4.metric.gstatic.com
 p4-g67yl4a645b5u-sf7c4jihpamcox6l-559901-i2-v6exp3.ds.metric.gstatic.com
 p4-g67yl4a645b5u-sf7c4jihpamcox6l-559901-s1-v6exp3-v4.metric.gstatic.com
 p4-g67yl4a645b5u-sf7c4jihpamcox6l-if-v6exp3-v4.metric.gstatic.com
 p4-g7jl5y72tklhm-4voxmuw5ygih4rln-if-v6exp3-v4.metric.gstatic.com
+p4-gwpkp5np2auwq-rp3pqu7sz2yhiaej-if-v6exp3-v4.metric.gstatic.com
 p4-h43rb6xttqo3c-kjg36r2qd6gew6ee-305181-i1-v6exp3.v4.metric.gstatic.com
 p4-h43rb6xttqo3c-kjg36r2qd6gew6ee-305181-i2-v6exp3.ds.metric.gstatic.com
 p4-h43rb6xttqo3c-kjg36r2qd6gew6ee-305181-s1-v6exp3-v4.metric.gstatic.com
@@ -66838,6 +66948,7 @@ p4-he7idkeinnzdq-emsd3lt2suyxhfqy-if-v6exp3-v4.metric.gstatic.com
 p4-hkxznyoq7abne-6xpinimswnfistfp-365803-i1-v6exp3.v4.metric.gstatic.com
 p4-hkxznyoq7abne-6xpinimswnfistfp-365803-i2-v6exp3.ds.metric.gstatic.com
 p4-hkxznyoq7abne-6xpinimswnfistfp-if-v6exp3-v4.metric.gstatic.com
+p4-hu3q6vw6ys3dy-roqzqkqgoyopmow5-if-v6exp3-v4.metric.gstatic.com
 p4-hv2bemfi3ulx6-mxr2dlmwzcqw22at-if-v6exp3-v4.metric.gstatic.com
 p41-buy-lb.itunes-apple.com.akadns.net
 p41-buy.itunes-apple.com.akadns.net
@@ -66855,6 +66966,9 @@ p46-fmip.icloud.com
 p46-keyvalueservice.icloud.com
 p46-quota.icloud.com
 p46-sharedstreams.icloud.com
+p47-content.icloud.com
+p47-fmip.icloud.com
+p47-quota.icloud.com
 p4p.arenabg.ch
 p4p.arenabg.com
 p4pp.com
@@ -66871,6 +66985,7 @@ p5z8l.r5.cr.rs
 p6686.com
 p67788.com
 p71-buy-lb.itunes-apple.com.akadns.net
+p71-buy.itunes-apple.com.akadns.net
 p71-buy.itunes.apple.com
 p790p8a.s3.amazonaws.com
 p7s1.io
@@ -67056,6 +67171,7 @@ pampling.com
 pampopholf.com
 pamteng.com
 pan.render.com
+pan.tjcloud.tech
 pan.whathyx.com
 pan58.com
 pan8.net
@@ -67316,6 +67432,7 @@ partnermktg.symantec.com
 partnernfreya.net.daraz.com
 partnerprogramma.bol.com
 partnerr-ht-2.net.daraz.com
+partners-alb-1113315349.us-east-1.elb.amazonaws.com
 partners.a24.biz
 partners.agoda.com
 partners.altervista.org
@@ -67834,6 +67951,7 @@ pdn.applovin.com
 pdncommunity.com
 pdproxy.com
 pds-init.ess.apple.com
+pds-prod.v.aaplimg.com
 pds.ess-apple.com.akadns.net
 pds.ess.apple.com
 pds.nasa.gov
@@ -68034,6 +68152,7 @@ penton.com
 pentoy.hk
 penzainform.ru
 people-pa.clients6.google.com
+people-pa.googleapis.com
 people-press.org
 people.com
 people2people.com
@@ -68529,6 +68648,7 @@ pickshoesclothes.com
 picnik.com
 picosmos.net
 picpicapp.com
+pics.dmm.com
 pics.ee
 pics.firstload.de
 pics.mu
@@ -68584,6 +68704,7 @@ pimpoint.inriver.com
 pimproll.com
 pin-cong.com
 pin-guan.com
+pin-river.data.ea.com
 pin.it
 pin1188.com
 pin13.net
@@ -68640,6 +68761,7 @@ pinnaclesports.com
 pinoy-n.com
 pinpailiu.com
 pinptg.milleni.com.tr
+pins.amazon.com
 pinshan.com
 pinshu.cc
 pinsightmedia.com
@@ -68838,6 +68960,7 @@ pixel.quantserve.com
 pixel.reddit.com
 pixel.roymorgan.com
 pixel.rubiconproject.com
+pixel.rubiconproject.net.akadns.net
 pixel.s3xified.com
 pixel.safe-installation.com
 pixel.servebom.com
@@ -69185,6 +69308,7 @@ playcomet.jp
 playdium.com
 playdom.com
 player-feedback-v1.glomex.com
+player-migration.gtm.ooyala.com.akadns.net
 player-telemetry.vimeo.com
 player.018xpj.com
 player.4fusion.xyz
@@ -69197,6 +69321,7 @@ player.avplayer.com
 player.cnevids.com
 player.fm
 player.insuranceandhealth.com
+player.ooyala.com
 player.quankan.tv
 player.staging2.crazyegg.com
 player.videos.vidto.me
@@ -69953,6 +70078,7 @@ prd-collector-platform.ex.co
 prd-lender.cdp.internal.unity3d.com
 prd-mcafee-mosaic-pub.azurewebsites.net
 prd-priconne-redive.akamaized.net
+prd-usw2-requestattribution-iad.apple.com
 prd.ags.msidentity.com
 prd.ns2.viviotech.net.daraz.com
 prda.aadg.msidentity.com
@@ -70070,6 +70196,7 @@ prg.smartadserver.com
 pri.org
 pri4.fat.flnet.org
 price.ru
+priceengine-public-service-ecomprod01.ol.epicgames.com
 priceinfo.comuv.com
 priceless.com
 priceless.org
@@ -70300,6 +70427,7 @@ prod.one.lt
 prod.registrar.skype.com
 prod.rewardsplatform.microsoft.com
 prod.roaming1.live.com.akadns.net
+prod.ups-ap-se-1.aolp-ds-prd.aws.oath.cloud
 prod.webpu.sh
 prod.y-medialink.com
 prod4-collecticon.outlookmobile.com
@@ -70337,6 +70465,7 @@ proff.no
 proffsmagasinet.se
 profi.ru
 proficosmetics.ru
+profile-production-01.gaijin.net
 profile-r-oa-1.net.daraz.com
 profile.accounts.firefox.com
 profile.car10.net.daraz.com
@@ -70947,8 +71076,14 @@ publ.co
 publeadmedia.com
 public-api.wordpress.com
 public-apis.cleanmymac.com
+public-cdn.cloud.unity3d.com
+public-configs.gaijin.net
 public-prod-dspcookiematching.dmxleo.com
+public-rest.a.upc.ubisoft.com
 public-tracker.zooki.xyz
+public-ubiservices.ubi.com
+public-wgnc4-sg.wargaming.net
+public-ws-ubiservices.ubi.com
 public.bn.files.1drv.com
 public.dm.files.1drv.com
 public.dns.iij.jp
@@ -70987,8 +71122,10 @@ publiguias.cl
 publinedita.pt
 publish.iptvz.net
 publishdrive.com
+publisher-assets.spot.im
 publisher-event.ads.prd.ie.internal.unity3d.com
 publisher-event.unityads.unity3d.com
+publisher.liveperson.net
 publisher.monster.com
 publitas.com
 pubmatic-match.dotomi.com
@@ -71004,6 +71141,7 @@ pubshop.img.uol.com.br
 pubstr.acs.org
 pubstr.acspubs.org
 pubsub-edge.twitch.tv
+pubsub.googleapis.com
 pubsvs.com
 pubt.in
 pubt.net
@@ -71019,6 +71157,7 @@ puffinbrowser.com
 puffss.com
 puffss.me
 puffstore.com
+pug-sg.pubmatic.com
 pugetsound.edu
 pugetsoundbmw.com
 pugpig.com
@@ -71052,6 +71191,7 @@ puooi.com
 puppetlabs.com
 puppy.com
 purch.com
+purch.gaijinent.com
 purchase.hut1.ru
 purchase.mp.microsoft.com
 purchasingpower.com
@@ -71227,6 +71367,7 @@ pycon.org
 pydabogados.com.ar
 pyddd.com
 pydnsv.ejobs.ro
+pyfunceble.github.io
 pyguanf.com
 pyhapp.com
 pyjsh.com
@@ -71648,6 +71789,8 @@ qooza.hk
 qoqa.ch
 qoqa.com
 qoqa.ninja
+qos3.ol.epicgames.com
+qos4.ol.epicgames.com
 qosp.msg.71.am
 qovery.com
 qoygsv.born2be.pl
@@ -71799,6 +71942,8 @@ qua.com
 quad9.net
 quadient.com
 quadpay.com
+quadrantsec.blu180.net
+quadrantsec.com
 quadrosystems.ru
 quaktre.blogspot.com.tr
 qualcomm.cn

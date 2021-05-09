@@ -1,6 +1,7 @@
 0-courier.push.apple.com
 0-courier2.push.apple.com
 0-gold.net
+0.cn.pool.ntp.org
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
@@ -94,6 +95,11 @@
 00sy.net
 00txt.com
 01-123.com
+01-all-seed-gc-lx-01.cdn.gaijin.net
+01-all-seed-gc-us-04.cdn.gaijin.net
+01-enlisted-cdnnow.cdn.gaijin.net
+01-enlisted-level3.cdn.gaijin.net
+01-enlisted-stackpath.cdn.gaijin.net
 01-torte.com
 01.creativecdn.com
 01.gxso.net
@@ -130,6 +136,10 @@
 01tao.com
 01tingshu.com
 01wb.com
+02-all-seed-gc-us-03.cdn.gaijin.net
+02-all-seed-gc-us-04.cdn.gaijin.net
+02-enlisted-cdnnow.cdn.gaijin.net
+02-enlisted-stackpath.cdn.gaijin.net
 02.mine.nu
 020.net
 0202.com.tw
@@ -205,6 +215,9 @@
 02laser.com
 02og.com
 02shu.cc
+03-all-seed-gc-us-03.cdn.gaijin.net
+03-all-seed-gc-us-04.cdn.gaijin.net
+03-enlisted-cdnnow.cdn.gaijin.net
 030buy.com
 031177.com
 0312of.com
@@ -243,6 +256,9 @@
 03bbcc.com
 03dq.com
 03k.org
+04-all-seed-gc-us-03.cdn.gaijin.net
+04-all-seed-gc-us-04.cdn.gaijin.net
+04-enlisted-cdnnow.cdn.gaijin.net
 0403.ca
 0411.com
 041188888.com
@@ -259,6 +275,8 @@
 04647.net
 049pk.com
 04afcp.com
+05-enlisted-cdnnow.cdn.gaijin.net
+05-enlisted-level3.cdn.gaijin.net
 0511w.com
 0512fangchan.com
 0512pifa.com.cn
@@ -361,6 +379,7 @@
 082338.com
 082800.com
 083332.com
+08350c02a8103d54ef66f26d33b157d0.clo.footprintdns.com
 0838.com
 0852e.com
 0853rc.com
@@ -412,6 +431,8 @@
 0dayporno.com
 0eb23dbaa080a7c584e5f24c1a0273f5.clo.footprintdns.com
 0ed23dc44870ffe98aaa4cffc0bc7e86.clo.footprintdns.com
+0f2b62cc66b66bc0e1ba1063ebc64b83.clo.footprintdns.com
+0f4eac0ba1aff4d674a4686bbea56bcb.clo.footprintdns.com
 0fbhhfxdxc.com
 0fees.us
 0ffer.eu
@@ -474,7 +495,9 @@
 1.xspic.com
 10-courier.push.apple.com
 10-courier2.push.apple.com
+10.144.25.114.zz.countries.nerd.dk
 10.243.42.220.zz.countries.nerd.dk
+10.42.96.122.zz.countries.nerd.dk
 10.client-channel.google.com
 10.courier-push-apple.com.akadns.net
 10.eve.dyx.com
@@ -482,8 +505,10 @@
 10.rarbg.com
 10.rarbg.me
 100.126.164.153.zz.countries.nerd.dk
+100.20.81.113.zz.countries.nerd.dk
 1000.tv
 10000recipe.com
+100015380.collect.igodigital.com
 1000860006.com
 1000fr.net
 1000giri.net
@@ -535,6 +560,8 @@
 100ydrc.com
 100yfrc.com
 100zhuang.com
+101.194.71.101.zz.countries.nerd.dk
+101.4.87.101.zz.countries.nerd.dk
 101.www1.biz
 1010.com.hk
 101010.pl
@@ -576,6 +603,7 @@
 105zx.com
 106.129.128.101.zz.countries.nerd.dk
 106.24.60.60.zz.countries.nerd.dk
+106.55.197.115.zz.countries.nerd.dk
 106.com
 10611.com
 106666.cc
@@ -586,11 +614,13 @@
 106sihu.com
 107sihu.com
 108-177-122-104.dynamic-ip.hinet.net
+108.46.173.220.zz.countries.nerd.dk
 1080872514.rsc.cdn77.org
 108198.com
 108cun.com
 108js.com
 108tlc.com
+109.62.92.106.zz.countries.nerd.dk
 1090ys.com
 109814.com
 10b1000.com
@@ -621,8 +651,10 @@
 11-courier.push.apple.com
 11-courier2.push.apple.com
 11.102.128.113.zz.countries.nerd.dk
+11.132.144.223.zz.countries.nerd.dk
 11.181.19.138.zz.countries.nerd.dk
 11.233txb.com
+11.at.atwola.com
 11.au.download.windowsupdate.com
 11.courier-push-apple.com.akadns.net
 11.courier2-push-apple.com.akadns.net
@@ -663,6 +695,7 @@
 1138x.com
 113ya.com
 114-track.net.daraz.com
+114.169.0.111.zz.countries.nerd.dk
 114160.com
 1141666.com
 1144hg.com
@@ -697,6 +730,8 @@
 11665.com
 1166buyu.com
 11684.com
+117.8.89.113.zz.countries.nerd.dk
+117.80.252.111.zz.countries.nerd.dk
 117708.com
 11773885.com
 117show.com
@@ -732,6 +767,7 @@
 11xotn7p.com
 12-courier.push.apple.com
 12-courier2.push.apple.com
+12.8.80.101.zz.countries.nerd.dk
 12.beautifulero.com
 12.courier-push-apple.com.akadns.net
 12.courier2-push-apple.com.akadns.net
@@ -750,6 +786,7 @@
 120w.info
 120x.net
 1212u.com
+122.103.88.218.zz.countries.nerd.dk
 12203222.com
 12223a.com
 12223nn.com
@@ -759,6 +796,8 @@
 123-789.com
 123-biyezheng.org
 123-hp.com
+123.20.83.208.zz.countries.nerd.dk
+123.92.32.121.zz.countries.nerd.dk
 123.effers.com
 123.suroot.com
 123.wuand.com
@@ -794,6 +833,7 @@
 123rf.com
 123ssh.net
 123xun.com
+124.100.77.124.zz.countries.nerd.dk
 125.effers.com
 125a.net
 125mx.com
@@ -813,6 +853,7 @@
 128888.com
 128ic.com
 129.230.193.116.zz.countries.nerd.dk
+129.31.184.110.zz.countries.nerd.dk
 12988.net
 12999.com
 12bet.com
@@ -847,19 +888,26 @@
 13-courier.push.apple.com
 13-courier2.push.apple.com
 13.courier-push-apple.com.akadns.net
+130.242.12.171.zz.countries.nerd.dk
+130.39.79.218.zz.countries.nerd.dk
 1300kai.com
 1303483.live173.com
 130bf.com
+131.73.100.114.zz.countries.nerd.dk
 131.com
 131391f356c0ec2fce2e4e7ea2a54183.clo.footprintdns.com
 1314.4irc.com
 131qz.com
+132.123.82.218.zz.countries.nerd.dk
+133.49.64.144.zz.countries.nerd.dk
 133.9.194.123.zz.countries.nerd.dk
 1337.abcvg.info
 1337.cx
 1337x.org
 1337x.to
 133a436e197e25793fe8538eb2c69f46.clo.footprintdns.com
+134.78.116.150.zz.countries.nerd.dk
+135.83.145.119.zz.countries.nerd.dk
 1356net.com
 1357g.com
 135995.com
@@ -870,6 +918,7 @@
 1365.com
 1365tu.com
 136fc.com
+137.124.32.160.zz.countries.nerd.dk
 138.251.210.153.zz.countries.nerd.dk
 1388012.com
 138jm.com
@@ -890,7 +939,9 @@
 14-courier.push.apple.com
 14-courier2.push.apple.com
 14-tage-wettervorhersage.de
+14.199.27.183.zz.countries.nerd.dk
 14.courier-push-apple.com.akadns.net
+140.11.88.218.zz.countries.nerd.dk
 140ed8.com
 140proof.com
 141hh.com
@@ -898,17 +949,20 @@
 141jav.com
 141jj.com
 141tube.com
+142.198.249.114.zz.countries.nerd.dk
 143.185.18.114.zz.countries.nerd.dk
 144.dragonparking.com
 144n.com
 144yd.com
 145sihu.com
+146.232.170.118.zz.countries.nerd.dk
 146e.com
 147xiaoshuo.com
 147xs.com
 147xs.org
 1480876790.rsc.cdn77.org
 14866.com
+149.239.36.125.zz.countries.nerd.dk
 14zhu.com
 15-courier.push.apple.com
 15-courier2.push.apple.com
@@ -930,6 +984,7 @@
 150601.fc2rs.com
 1507999.com
 150kai.com
+151.188.140.113.zz.countries.nerd.dk
 151.3-a.net
 151.hk
 151kan.com
@@ -940,6 +995,8 @@
 1555990.com
 155899.com
 15595.com
+156.55.173.61.zz.countries.nerd.dk
+156.8.189.107.zz.countries.nerd.dk
 156.n.168810.cn
 156070.com
 15650022.com
@@ -985,10 +1042,13 @@
 15zhu.com
 16-courier.push.apple.com
 16-courier2.push.apple.com
+16.106.185.222.zz.countries.nerd.dk
+16.70.7.178.zz.countries.nerd.dk
 16.courier-push-apple.com.akadns.net
 16086371--c1.com
 160edu.net
 160tu.com
+161.7.43.114.zz.countries.nerd.dk
 1615aa.com
 1615y.com
 1615yy.com
@@ -999,7 +1059,11 @@
 161818.com
 161856.com
 161sex.com
+162.34.80.117.zz.countries.nerd.dk
+162.67.112.123.zz.countries.nerd.dk
 1629hb.com
+163.107.190.39.zz.countries.nerd.dk
+163.8.20.218.zz.countries.nerd.dk
 163.flnet.org
 163.slyip.net
 163686.com
@@ -1017,6 +1081,7 @@
 16563300.com
 16563377.com
 16595.com
+166.28.109.180.zz.countries.nerd.dk
 166161.com
 166396.com
 1665b.com
@@ -1099,6 +1164,7 @@
 17-courier.push.apple.com
 17-courier2.push.apple.com
 17.153.194.123.zz.countries.nerd.dk
+17.255.240.182.zz.countries.nerd.dk
 17.courier-push-apple.com.akadns.net
 1706316.com
 170nsb.com
@@ -1107,6 +1173,8 @@
 1718001.com
 171gifs.com
 171xs.com
+172.91.186.39.zz.countries.nerd.dk
+172.92.145.182.zz.countries.nerd.dk
 172210.com
 172internet.com
 173.232.141.124.zz.countries.nerd.dk
@@ -1116,6 +1184,7 @@
 173fc.com
 173kan.com
 173yx.net
+175.128.195.220.zz.countries.nerd.dk
 175.220.196.104.bc.googleusercontent.com
 17566.com
 175sihu.com
@@ -1127,6 +1196,7 @@
 176iii.net
 176vr.com
 176www.net
+177.36.109.113.zz.countries.nerd.dk
 17750099.com
 17753344.com
 17756600.com
@@ -1187,10 +1257,12 @@
 18-courier2.push.apple.com
 18-sex.us
 18.173.226.36.zz.countries.nerd.dk
+18.69.205.115.zz.countries.nerd.dk
 18.courier-push-apple.com.akadns.net
 18.courier2-push-apple.com.akadns.net
 1800contacts.com
 1800flowers.com
+181.20.84.67.zz.countries.nerd.dk
 1818.net
 1818luckluck.net
 1818nic.com
@@ -1198,12 +1270,16 @@
 182.117.64.64.zz.countries.nerd.dk
 1843magazine.com
 185.111.225.36.zz.countries.nerd.dk
+185.200.126.124.zz.countries.nerd.dk
 185185.com
 185678.cc
+186.32.247.61.zz.countries.nerd.dk
 186078.com
 18628.com
 1864445.com
+187.189.79.124.zz.countries.nerd.dk
 187908.com
+187f7deefc81732e7115b0cbe59957c0.clo.footprintdns.com
 188158.com
 188226.com
 1884933.com
@@ -1229,6 +1305,7 @@
 188service.com
 188sportsbook.com
 188weststjames.com
+189.250.118.113.zz.countries.nerd.dk
 189.la
 189078.com
 18937.uobf005.authorizeddns.net
@@ -1313,6 +1390,7 @@
 18yl.com
 19-courier.push.apple.com
 19-courier2.push.apple.com
+19.97.67.49.zz.countries.nerd.dk
 19.courier-push-apple.com.akadns.net
 1901999.com
 19035924.automated.almosafer.com
@@ -1324,6 +1402,8 @@
 191927.com
 192.79.79.126.zz.countries.nerd.dk
 192.com
+194.1.63.178.zz.countries.nerd.dk
+194.215.139.117.zz.countries.nerd.dk
 19461688.com
 19461946.com
 19462828.com
@@ -1333,6 +1413,8 @@
 1947.cc
 1949er.org
 195.114.237.35.bc.googleusercontent.com
+195.142.225.121.zz.countries.nerd.dk
+195.198.171.115.zz.countries.nerd.dk
 195.45.115.221.zz.countries.nerd.dk
 195000333.com
 1950033.com
@@ -1383,10 +1465,12 @@
 195yyy195.com
 195yyyy.com
 195zzzz195.com
+196.169.208.183.zz.countries.nerd.dk
 196.n1g.org
 197.216.77.120.zz.countries.nerd.dk
 1975blr.com
 197a.cc
+198.161.88.167.zz.countries.nerd.dk
 198.243.109.27.zz.countries.nerd.dk
 19830102.com
 1984.city
@@ -1529,10 +1613,12 @@
 1yuanzheng.com
 1z2x1z.blogspot.hk
 1zsoft.com
+2-01-275d-002d.cdx.cedexis.net
 2-01-37d2-0018.cdx.cedexis.net
 2-01-49b5-0149.cdx.cedexis.net
 2-01-49b5-015a.cdx.cedexis.net
 2-courier.push.apple.com
+2-courier2.push.apple.com
 2-floor.dyndns.org
 2-hand.info
 2-ps.googleusercontent.com
@@ -1545,6 +1631,7 @@
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
 2.centos.pool.ntp.org
+2.cn.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.cr.rs
 2.gravatar.com
@@ -1552,7 +1639,10 @@
 2.speedknow.co
 2.tlu.dl.delivery.mp.microsoft.com
 20-courier.push.apple.com
+20-courier2.push.apple.com
+20.117.66.222.zz.countries.nerd.dk
 20.courier-push-apple.com.akadns.net
+200.240.250.183.zz.countries.nerd.dk
 200.75.134.223.zz.countries.nerd.dk
 200.sh
 2000200.com
@@ -1608,14 +1698,17 @@
 2020spaces.com
 2021newyear.lung-ching.com.tw
 203186077128.static.ctinets.com
+204.96.187.117.zz.countries.nerd.dk
 2047.name
 204801.xyz
 2049bbs.github.io
 2049bbs.xyz
 205987.com
 205hk.com
+206.23.109.113.zz.countries.nerd.dk
 206dy.com
 207285.shop.cnlist.org
+208.35.209.222.zz.countries.nerd.dk
 2088062.com
 2088063.com
 208xs.com
@@ -1643,6 +1736,7 @@
 210166.com
 210ec36e26fa08d6046411db1c9352a7.clo.footprintdns.com
 210z.com
+211.5.127.125.zz.countries.nerd.dk
 211.effers.com
 211.ru
 2110000.com
@@ -1650,10 +1744,13 @@
 21270099.com
 21271166.com
 213.com
+214.69.2.116.zz.countries.nerd.dk
 2146677.com
 217.net
 2177third.com
 218.204.144.124.zz.countries.nerd.dk
+218.206.122.106.zz.countries.nerd.dk
+218.242.187.39.zz.countries.nerd.dk
 218318.com
 21893a39fa5add61ad0d1123a96d67a1.clo.footprintdns.com
 2197079.com
@@ -1696,14 +1793,17 @@
 22.suroot.com
 22.t28.net
 22.te.rs
+220.170.157.219.zz.countries.nerd.dk
 2200buyu.com
 2202803c13d485ea6bfe7cb97813c631.nrb.footprintdns.com
+2207vns.internet7.vip
 220808.com
 221.etowns.net
 221.trickip.org
 22113885.com
 2213.com
 221316.com
+222.232.244.120.zz.countries.nerd.dk
 222.com
 222.my03.com
 22222n.cc
@@ -1793,6 +1893,7 @@
 233v2.com
 233xiao.com
 233yes.com
+234.93.38.59.zz.countries.nerd.dk
 234.info.tm
 234.slyip.net
 2344.com
@@ -1806,8 +1907,10 @@
 234k7.com
 234xz.com
 2355.info.tm
+236.132.173.111.zz.countries.nerd.dk
 23656.com
 2365a.com
+237.189.117.180.zz.countries.nerd.dk
 237.cc
 237.info.tm
 2378.com
@@ -1838,6 +1941,8 @@
 24-ads.com
 24-courier.push.apple.com
 24-courier2.push.apple.com
+24.187.11.124.zz.countries.nerd.dk
+24.210.36.112.zz.countries.nerd.dk
 24.2waky.com
 24.client-channel.google.com
 24.courier-push-apple.com.akadns.net
@@ -1848,12 +1953,16 @@
 24.ns02.biz
 24.slyip.net
 240.net
+241.77.7.110.zz.countries.nerd.dk
 241777.com
 242.98.82.208.zz.countries.nerd.dk
 24206963-482871331770994218.preview.editmysite.com
+243.158.73.34.bc.googleusercontent.com
+244.111.244.120.zz.countries.nerd.dk
 244kk.com
 24538.com
 2455000.com
+246.52.79.218.zz.countries.nerd.dk
 246.etowns.org
 246.ocry.com
 2468.go2cloud.org
@@ -1866,6 +1975,7 @@
 247workinghost.com
 2481e.com
 248bc.com
+249.132.77.124.zz.countries.nerd.dk
 249581.com
 24beta.com
 24ex.net
@@ -1914,9 +2024,11 @@
 25.slyip.net
 25.us.freewww.biz
 250sy.cc
+251.151.86.110.zz.countries.nerd.dk
 251ai.com
 252ai.com
 252yy.net
+253.97.69.113.zz.countries.nerd.dk
 2541.com
 255.etowns.org
 255.info.tm
@@ -1947,6 +2059,7 @@
 26-courier2.push.apple.com
 26.218.70.164.zz.countries.nerd.dk
 26.courier-push-apple.com.akadns.net
+26.courier2-push-apple.com.akadns.net
 26.dns04.com
 26.effers.com
 26.etowns.org
@@ -2002,6 +2115,7 @@
 272a.net
 272h.net
 272i.net
+273426.shop.cnlist.org
 27383d2db5e8cd2b32ef51fd0a398dc1.clo.footprintdns.com
 2741062.com
 2741103.com
@@ -2095,6 +2209,7 @@
 2cycd.com
 2cyxw.com
 2d2d.hostei.com
+2dad6fb89bd6ad325fdb8f2d3ee22c79.clo.footprintdns.com
 2days.org
 2dehands.be
 2dfan.com
@@ -2110,6 +2225,7 @@
 2e4b93d1-a8ae-4a89-8885-6109135ac0de.prmutv.co
 2easydroid.com
 2efj.up.coop
+2f0bbbba4d5384953bf21b4907333d0d.nrb.footprintdns.com
 2fine.de
 2fz1.com
 2gis.ru
@@ -2168,6 +2284,7 @@
 3-courier2.push.apple.com
 3-ddesignsolutions.com
 3.0.bailandaily.com
+3.237.119.123.zz.countries.nerd.dk
 3.32top.xyz
 3.au.download.windowsupdate.com
 3.courier-push-apple.com.akadns.net
@@ -2177,6 +2294,7 @@
 3.tlu.dl.delivery.mp.microsoft.com
 30-courier.push.apple.com
 30-courier2.push.apple.com
+30.26.159.106.zz.countries.nerd.dk
 30.courier-push-apple.com.akadns.net
 30.etowns.org
 30000cp.com
@@ -2207,6 +2325,7 @@
 30xz.com
 31-courier.push.apple.com
 31-courier2.push.apple.com
+31.91.176.180.zz.countries.nerd.dk
 31.courier-push-apple.com.akadns.net
 31.courier2-push-apple.com.akadns.net
 31.media.tumblr.com
@@ -2290,7 +2409,9 @@
 32-b.it
 32-courier.push.apple.com
 32-courier2.push.apple.com
+32.205.210.62.zz.countries.nerd.dk
 32.courier-push-apple.com.akadns.net
+32.courier2-push-apple.com.akadns.net
 32.effers.com
 32.etowns.net
 32.info.tm
@@ -2324,6 +2445,7 @@
 32top.xyz
 33-courier.push.apple.com
 33-courier2.push.apple.com
+33.115.209.222.zz.countries.nerd.dk
 33.courier-push-apple.com.akadns.net
 33.courier2-push-apple.com.akadns.net
 33.etowns.org
@@ -2338,6 +2460,7 @@
 332518.com
 333-555.com
 333.effers.com
+3331905.com
 33324333.com
 3332839.com
 3333144.com
@@ -2414,6 +2537,8 @@
 33yq.com
 34-courier.push.apple.com
 34-courier2.push.apple.com
+34.76.102.223.zz.countries.nerd.dk
+34.76.33.183.zz.countries.nerd.dk
 34.77.133.223.zz.countries.nerd.dk
 34.courier-push-apple.com.akadns.net
 3414arzd.com
@@ -2434,6 +2559,9 @@
 34mnxrk2cls37374.aliyunddos1026.com
 34xiaoshuo.com
 35-courier.push.apple.com
+35-courier2.push.apple.com
+35.202.107.223.zz.countries.nerd.dk
+35.68.74.223.zz.countries.nerd.dk
 35.courier-push-apple.com.akadns.net
 35.crazycat.ro
 35.flnet.org
@@ -2466,6 +2594,7 @@
 35zw.com
 36-courier.push.apple.com
 36-courier2.push.apple.com
+36.132.204.123.zz.countries.nerd.dk
 36.courier-push-apple.com.akadns.net
 36.courier2-push-apple.com.akadns.net
 36.cr.rs
@@ -2554,6 +2683,8 @@
 366aa.net
 366bb.net
 366ss.net
+367710.shop.cnlist.org
+367710.shop.m.cnlist.org
 367783.net
 3680369.com
 3688js.com
@@ -2585,6 +2716,7 @@
 36vv.net
 36zhen.com
 37-courier.push.apple.com
+37-courier2.push.apple.com
 37.courier-push-apple.com.akadns.net
 37.info.tm
 3709.com
@@ -2611,6 +2743,8 @@
 38-courier.push.apple.com
 38-courier2.push.apple.com
 38.168.17.118.zz.countries.nerd.dk
+38.175.19.110.zz.countries.nerd.dk
+38.72.80.218.zz.countries.nerd.dk
 38.courier-push-apple.com.akadns.net
 380.bu2z.com
 3800.cx
@@ -2641,6 +2775,8 @@
 38xinbo.com
 39-courier.push.apple.com
 39-courier2.push.apple.com
+39.10.250.220.zz.countries.nerd.dk
+39.56.155.218.zz.countries.nerd.dk
 39.courier-push-apple.com.akadns.net
 39.suroot.com
 391065.com
@@ -2685,6 +2821,7 @@
 3ary.com
 3b0b2756a0c7ae48e4795f5ba808e4e2.clo.footprintdns.com
 3b318a5d05cfeccd82c24a32b90575a4.clo.footprintdns.com
+3baf5b49c53ea312372e0ba0591fb529.clo.footprintdns.com
 3blmedia.com
 3boys2girls.com
 3bro.ml
@@ -2727,6 +2864,7 @@
 3dxtras.com
 3dytt.com
 3ea9e6b5b344d1ec3bf92a8aaa271629.clo.footprintdns.com
+3f41fcace2f9e3fa225d5deaa203cae2.clo.footprintdns.com
 3fantizi.com
 3fenge.com
 3ff53b6d931ed293732313c4efee4a47.nrb.footprintdns.com
@@ -2824,6 +2962,7 @@
 4.courier-push-apple.com.akadns.net
 4.every.info.tm
 40-courier.push.apple.com
+40-courier2.push.apple.com
 40.courier-push-apple.com.akadns.net
 4000279920.com
 4000600534.com
@@ -2894,6 +3033,7 @@
 42xz.com
 43-courier.push.apple.com
 43-courier2.push.apple.com
+43.84.74.121.zz.countries.nerd.dk
 43.courier-push-apple.com.akadns.net
 43110.cf
 4321365.com
@@ -2937,6 +3077,7 @@
 449945.com
 449946.com
 44afcp.com
+44b53398b25fd31454ae28b0150f5ba5.clo.footprintdns.com
 44england.com
 44hyk.com
 44pq.cc
@@ -2946,6 +3087,7 @@
 45.courier-push-apple.com.akadns.net
 45144.com
 4518.cabet097.com
+453f63b6c9f0e87e7c30e58739e9a39b.fp.measure.office.com
 455261.com
 455733.shop.cnlist.org
 455733.shop.m.cnlist.org
@@ -2983,6 +3125,7 @@
 46z5j5.xyz
 47-courier.push.apple.com
 47-courier2.push.apple.com
+47.236.192.183.zz.countries.nerd.dk
 47.courier-push-apple.com.akadns.net
 47.courier2-push-apple.com.akadns.net
 47.ip-51-68-199.eu
@@ -3026,6 +3169,7 @@
 4949567.com
 494hu.com
 495777.com
+498bf79380ab98871abf13d3c09c804a.clo.footprintdns.com
 49ivb.org
 49oa3o49b6.com
 49w.cc
@@ -3039,6 +3183,7 @@
 4beatsbydre.com
 4bluestones.biz
 4btbtt.com
+4c562f3c3f8e96dbfddab6721a364dcd.fp.measure.office.com
 4cdn.org
 4chan.com
 4chan.org
@@ -3107,6 +3252,9 @@
 5.info.tm
 50-courier.push.apple.com
 50-courier2.push.apple.com
+50.174.57.59.zz.countries.nerd.dk
+50.217.1.111.zz.countries.nerd.dk
+50.90.224.125.zz.countries.nerd.dk
 50.courier-push-apple.com.akadns.net
 50006.coolxtv.com
 50045.diyxtv.com
@@ -3316,6 +3464,7 @@
 51zpyc.com
 51ztzj.com
 51zuoti.com
+52.30.109.180.zz.countries.nerd.dk
 52.cr.rs
 52.edns.biz
 52.info.tm
@@ -3329,6 +3478,8 @@
 5200eee.com
 5200vvv.com
 5200wx.com
+520247.shop.cnlist.org
+520247.shop.m.cnlist.org
 52040h.com
 5207470.com
 52088.cc
@@ -3514,6 +3665,7 @@
 546908.com
 5488.com
 54benniao.com
+54c4e999b90b2eaf3e97e05157d294d6.clo.footprintdns.com
 54chen.com
 54fcnr.com
 54gj.com
@@ -3530,6 +3682,8 @@
 54zyz.org
 55.02.ns02.us
 55.2myip.com
+55.35.113.123.zz.countries.nerd.dk
+55.44.45.114.zz.countries.nerd.dk
 55.cr.rs
 55.dhcp.biz
 55.dnset.com
@@ -3545,6 +3699,7 @@
 5504ll.com
 55113885.com
 5511977.com
+5514afea26a6c4fb4db132052fd948d8.nrb.footprintdns.com
 55178.com
 55222989.com
 552283.com
@@ -3608,6 +3763,7 @@
 55you.com
 55zm.com
 56.18.202.68.zz.countries.nerd.dk
+56.44.231.36.zz.countries.nerd.dk
 56.biz.tm
 56.etowns.org
 56.info.tm
@@ -3681,6 +3837,7 @@
 59-106-20-39.r-bl100.sakura.ne.jp
 59.179.42.64.zz.countries.nerd.dk
 59.24.4.125.zz.countries.nerd.dk
+59.email.stripe.com
 59008gg.com
 5906333.com
 591234x.com
@@ -3724,6 +3881,7 @@
 5b433c11b449f8cfa735dd5921e1ddf3.clo.footprintdns.com
 5baf1288cf.dl8.me
 5beatsbydre.com
+5cdedd4b2ea761fb2ab71c79b8e8765e.fp.measure.office.com
 5cgo.com
 5ch.net
 5ci.lt
@@ -3958,6 +4116,7 @@
 64644444.com
 649099.com
 649649.com
+64b03f2893ba337580c09a7d92f76a29.nrb.footprintdns.com
 64cf181ce22dd2cc0bcf7b1ccac39978.clo.footprintdns.com
 64ds.com
 64live.org
@@ -3969,8 +4128,10 @@
 64w.cc
 64wiki.com
 64xk.com
+65.34.91.210.zz.countries.nerd.dk
 65.66.178.217.zz.countries.nerd.dk
 65.66.98.124.zz.countries.nerd.dk
+65.88.153.175.zz.countries.nerd.dk
 65.biz.tm
 65.my03.com
 65.ygto.com
@@ -4085,6 +4246,8 @@
 66xbgg.com
 66ys.co
 66zw.com
+67.124.72.211.zz.countries.nerd.dk
+67.33.213.223.zz.countries.nerd.dk
 67.4dq.com
 670038.com
 677.biz.tm
@@ -4113,6 +4276,7 @@
 682.com
 68211.com
 68241626.ia0.net
+683489.shop.cnlist.org
 68399.com
 686ib.com
 688.flnet.org
@@ -4157,6 +4321,7 @@
 6eys.com
 6f1111.com
 6f3333.com
+6f41c9da71c98c03bd65b3e5d46db99b.clo.footprintdns.com
 6f7777.com
 6f9999.com
 6fdaa3434cf596cba0995cd727330531.clo.footprintdns.com
@@ -4201,6 +4366,7 @@
 7.1qtv.com
 7.client-channel.google.com
 7.courier-push-apple.com.akadns.net
+70.101.181.118.zz.countries.nerd.dk
 70.11.228.119.zz.countries.nerd.dk
 70066hg.com
 700mh.com
@@ -4254,6 +4420,7 @@
 71p.net
 71txt.com
 71wx.net
+72.149.217.183.zz.countries.nerd.dk
 72.cr.rs
 72.edns.biz
 72.effers.com
@@ -4283,6 +4450,8 @@
 72la.com
 72pro.cc
 72up.com
+73.105.76.144.zz.countries.nerd.dk
+73.74.239.120.zz.countries.nerd.dk
 73.etowns.org
 73.info.tm
 73.slyip.net
@@ -4325,7 +4494,10 @@
 747.us.to
 7472r.com
 749997.com
+75.197.152.61.zz.countries.nerd.dk
+75.32.92.113.zz.countries.nerd.dk
 75.4pu.com
+75.69.247.58.zz.countries.nerd.dk
 75.qc.to
 75367.com
 755.etowns.org
@@ -4438,7 +4610,9 @@
 77vad.com
 77xbgg.com
 77xsw.la
+78.32.89.125.zz.countries.nerd.dk
 78.46.156.118.zz.countries.nerd.dk
+78.47.170.178.zz.countries.nerd.dk
 7803888.com
 780780.ca
 78081.com
@@ -4464,6 +4638,7 @@
 78xtv.com
 790092.com
 7909.com
+791142.shop.m.cnlist.org
 7911hh.com
 7911k.app
 794579.com
@@ -4550,6 +4725,7 @@
 8-courier2.push.apple.com
 8-d.com
 8-ps.googleusercontent.com
+8.221.154.195.zz.countries.nerd.dk
 8.client-channel.google.com
 8.courier-push-apple.com.akadns.net
 8000.com
@@ -4569,6 +4745,7 @@
 801t.com
 805.dankaart.com
 806699a.com
+806f7b132dabf6e354d2fb86bd53cc0f.clo.footprintdns.com
 80700.com
 8080189.com
 8080s.net
@@ -4588,6 +4765,8 @@
 80smp4.net
 80txt.com
 80yc.com
+81.18.11.58.zz.countries.nerd.dk
+81.183.28.1.zz.countries.nerd.dk
 81.25u.com
 810236.com
 810251.com
@@ -4651,6 +4830,7 @@
 832276f2bd73a219968f404123ee32a5.clo.footprintdns.com
 832889.com
 8329555.com
+8329d2ffdb4d5ffaa2a62b0bcb50ed0a.clo.footprintdns.com
 83480900.com
 835889.com
 835dd.net
@@ -4685,6 +4865,7 @@
 8395670.com
 83dd.com
 83euro.com
+83t.la1-c2-ia4.salesforceliveagent.com
 84.ddns.ms
 8419.com
 84384d.com
@@ -4696,6 +4877,8 @@
 84lm.com
 84lm.net
 84zhu.com
+85.166.62.58.zz.countries.nerd.dk
+85.79.69.79.zz.countries.nerd.dk
 85.biz.tm
 8505008.com
 8505031.com
@@ -4704,6 +4887,7 @@
 85299.com
 853.epac.to
 8545.com
+855090fe541f4f2ad32c601ea7976ff3.clo.footprintdns.com
 85550.com
 8558.org
 8574dnj3yzjace8c8io6zr9u3n.hop.clickbank.net
@@ -4749,6 +4933,8 @@
 8721.com
 872y.com
 873ba79381ec70018bc3d9a663510541.clo.footprintdns.com
+875281.shop.cnlist.org
+875281.shop.m.cnlist.org
 8757.org
 876326.com
 8765tf.com
@@ -4857,6 +5043,7 @@
 889su.com
 889ut.com
 889xp.com
+88b1a680378307c971409befbb9ed6bd.clo.footprintdns.com
 88bf33.com
 88bifa.net
 88bifa.vip
@@ -4978,6 +5165,7 @@
 9.rarbg.me
 9.rarbg.to
 9.tlu.dl.delivery.mp.microsoft.com
+90.207.63.36.zz.countries.nerd.dk
 9000design.com
 9000wy.com
 90011.com
@@ -5000,6 +5188,7 @@
 90tuke.com
 90wx.com
 90x40.cl
+91.192.34.1.zz.countries.nerd.dk
 91.54.15.125.zz.countries.nerd.dk
 91.9p91.com
 910.dn.se
@@ -5009,6 +5198,7 @@
 9118fu.com
 911919.com
 911cha.com
+911cha.com.jisu-cnd.com
 911sblive.com
 911sl.com
 911wow.com
@@ -5229,6 +5419,8 @@
 96tang.site
 96tang.xyz
 96vpn.com
+97.232.86.101.zz.countries.nerd.dk
+97.68.204.1.zz.countries.nerd.dk
 9735476.sender.skyscanner.net
 9735476.test.skyscanner.net
 973xs.com
@@ -5259,6 +5451,8 @@
 97xiaoshuo.com
 97xiaoshuo.net
 97xiazai.com
+98.40.32.112.zz.countries.nerd.dk
+98.43.26.114.zz.countries.nerd.dk
 98.effers.com
 980361.shop.cnlist.org
 980361.shop.m.cnlist.org
@@ -5331,6 +5525,7 @@
 98vip.com
 99-idc.com
 99.47.102.212.zz.countries.nerd.dk
+99.93.224.101.zz.countries.nerd.dk
 99.cr.rs
 99.jyg9.eu.org
 9900319.com
@@ -5444,6 +5639,7 @@
 9amjs.com
 9anime.com
 9apps.com
+9b41cd55e86dd31e58a546ce021fcb70.clo.footprintdns.com
 9bac1.com
 9baf1.com
 9bah1.com
@@ -5460,6 +5656,7 @@
 9duw.com
 9dyjbj.com
 9e7c9496ef767898cf6c9ff0b9b032a7.clo.footprintdns.com
+9e9eea2771e8e2a5beb8cd2949bad418.clo.footprintdns.com
 9ele.com
 9fabet.com
 9gag.com
@@ -5751,6 +5948,7 @@ a.vdo.ai
 a.velvet.by
 a.vfghd.com
 a.vfgtb.com
+a.visitorqueue.com
 a.visualrevenue.com
 a.votpusk.ru
 a.vserv.mobi
@@ -5818,6 +6016,7 @@ a04.uadexchange.com
 a0415704157.byethost7.com
 a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com
 a05.uadexchange.com
+a06b3feff5967060d6fdad8e9264f883.clo.footprintdns.com
 a0nm5zyyzi0tgb805iaflj1yd2c5x5.ext-twitch.tv
 a0pple.net
 a0trade.top
@@ -5896,6 +6095,7 @@ a1845.dscg2.akamai.net
 a1847.dscg2.akamai.net
 a1860.dscd.akamai.net
 a1864.gi3.akamai.net
+a1879.dscw14.akamai.net
 a1887.dscq.akamai.net
 a1887.dscq.akamai.net.0.1.cn.akamaitech.net
 a1897.dscd.akamai.net
@@ -5912,6 +6112,7 @@ a1958.b.akamai.net
 a1963.g2.akamai.net
 a1988.dscg1.akamai.net
 a1988.dsct.akamai.net
+a1989.dscq.akamai.net
 a1999.dscg2.akamai.net
 a1cu.org
 a2.adform.net
@@ -6118,6 +6319,7 @@ a8cventry.uqwimax.jp
 a8ht.hipp.fr
 a8vgc.x.incapdns.net
 a9.xlgqy.com
+a91071f02b0399961c15f3ffeee300fb.clo.footprintdns.com
 a9925ac65faaaf45f55bea35d2c93b02.clo.footprintdns.com
 a9av.me
 aa-metrics.ab-road.net
@@ -6278,6 +6480,7 @@ ab.advertiserurl.com
 ab126.com
 ab13.mktossl.com
 ab1988.com
+ab26b7c626fe69b7fa32a5d64b0a8140.clo.footprintdns.com
 ab8998.com
 aba.com
 aba.gumgum.com
@@ -6481,6 +6684,7 @@ abloy.com
 abloz.com
 ablwang.com
 ably.io
+abm.mktoedge.com
 abmail2.e.hungryjacks.com.au
 abmau.com
 abncx.amv.fr
@@ -6641,6 +6845,7 @@ account-paypal.net
 account-paypal.org
 account-public-service-prod.ak.epicgames.com
 account.activedirectory.windowsazure.com
+account.box.com
 account.htcvive.com
 account.live.com
 account.microsoft.com
@@ -6658,6 +6863,7 @@ accountkit.com
 accountpaypal.com
 accountpaypal.net
 accountpaypal.org
+accounts.ea.com
 accounts.firefox.com
 accounts.google.co.jp
 accounts.google.com
@@ -6675,6 +6881,7 @@ acctcdn.msauth.net
 acctcdn.msftauth.net
 acctcdnmsftuswe2.azureedge.net
 acctcdnvzeuno.azureedge.net
+accts.epicgames.com
 accupurls.com
 accuride.com
 accuroemr.com
@@ -6750,6 +6957,7 @@ acheter-followers-instagram.com
 acheterdesfollowersinstagram.com
 acheterfollowersinstagram.com
 achievementanalytics.com
+achievements.gameservices.ea.com
 achievements.xboxlive.com
 achronix.com
 achsd.com
@@ -6816,8 +7024,10 @@ actiflex.org
 actimes.com.au
 actinutrition.fr
 action.advisorycloud.com
+action.dstillery.com
 action.evrikak.ru
 action.greenpeace.org.uk
+action.media6degrees.com.cdn.cloudflare.net
 action.stanleysecurity.fr
 action52prototype.com
 actionforhealthykids.org
@@ -6882,6 +7092,7 @@ acw.sciencedirect.com
 acw.secure.jbs.elsevierhealth.com
 acwbzb.compagniedesspas.fr
 acwebconnecting.com
+acwf.people.com.cn
 acx.io
 acxajt.jimmykey.com
 acxmetrics.usbank.com
@@ -9300,6 +9511,9 @@ afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
 afcp01.com
 afcp07.com
 afcp09.com
+afcs.dell-cidr.akadns.net
+afcs.dell.com
+afcs.dellcdn.com
 afd-k.office.com
 afd.hosting.portal.azure.net
 afd.tech

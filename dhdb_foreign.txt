@@ -6648,7 +6648,6 @@ account.microsoft.com
 account.synology.com
 account.termius.com
 account.winter.net.daraz.com
-account.xiaomi.com
 accounting-lib-ln-1.net.daraz.com
 accounting.b.ns.emailvision.net.daraz.com
 accounting.car21.net.daraz.com
@@ -21177,6 +21176,7 @@ cdnpure.com
 cdnqq.yl89.cn
 cdnr-ch-1.net.daraz.com
 cdnr-es-1.net.daraz.com
+cdnren.com
 cdns.com.tw
 cdns.lodeo.io
 cdns.mydirtyhobby.com

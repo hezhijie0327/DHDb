@@ -9729,6 +9729,7 @@
 71100.net
 7113879.com
 711ddd.net
+711g.com
 711pr.com
 711yy.net
 7120.com
@@ -10605,7 +10606,6 @@
 80s.tw
 80shihua.com
 80sjy.net
-80tian.com
 80txt.com
 80txt.la
 80vps.com
@@ -21442,7 +21442,6 @@ api-pan.xunlei.com
 api-panov2.720yun.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
-api-pricetag.dmall.com
 api-priconne-redive.cygames.jp
 api-prod.leancloud.cn
 api-public.addthis.com
@@ -84867,7 +84866,6 @@ jabil.com
 jabizb.com
 jable.tv
 jabong.com
-jabry.com
 jac.yahoosandbox.com
 jacadi.ch
 jacadi.es
@@ -139630,7 +139628,6 @@ ssl.ts8.qq.com
 ssl.vatanclick.ir
 ssl.webpack.de
 ssl.woshishuish.top
-ssl.youkag.com
 ssl.zy3dku.cn
 ssl2.gdqifang.com
 ssl4.my.800cdn.com

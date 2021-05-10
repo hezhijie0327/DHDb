@@ -9773,7 +9773,6 @@ api.inmeng.net
 api.installer.xiaomi.com
 api.interaction.sohu.com
 api.io.mi.com
-api.iplay.163.com
 api.iqiyi.com
 api.ishansong.com
 api.itaoxiaoshuo.com
@@ -13672,6 +13671,7 @@ buyfine.net
 buyiju.com
 buyimg.bianxianmao.com
 buyjk.com
+buyku88.com
 buysun.net
 buysweet.com
 buzhi5.com
@@ -28478,7 +28478,6 @@ growthpic.weishi.qq.com
 grpc.biliapi.net
 grpc.snm0516.aisee.tv
 grs.dbankcloud.cn
-grs.dbankcloud.com
 grs.hicloud.com
 grt-china.com
 grtn.cn
@@ -55011,7 +55010,6 @@ seecmedia.net
 seecsee.com
 seed-china.com
 seed.bitcoin.jonasschnelli.ch
-seed.bitcoin.sprovoost.nl
 seed.btc.petertodd.org
 seedasdan.org
 seeddsp.com

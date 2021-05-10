@@ -2680,6 +2680,7 @@
 365fdy.com
 365gangqin.com
 365htk.com
+365huo.com
 365jq.com
 365kan.tv
 365kk.cc
@@ -12035,7 +12036,6 @@ api.mapbox.com
 api.mediarithmics.com
 api.mediation.amberweather.com
 api.meomiao.us
-api.micloud.xiaomi.net
 api.mightycast.com
 api.minero.cc
 api.minexmr.com
@@ -48752,6 +48752,7 @@ iqunix.store
 iqvia.com
 iqzone.com
 ir.ru
+ir.surveywall-api.survata.com
 ir2008.org
 ir3177.com
 iraiser.eu
@@ -49046,7 +49047,6 @@ itbeihe.com
 itbook5.com
 itbusiness.ca
 itbusinessedge.com
-itbyte.net
 itcacfo.com
 itcamefromtheradio.com
 itcanwait.com
@@ -60483,6 +60483,7 @@ mo.aaaw.xyz
 mo.be
 mo.bsxr.com.cn
 mo.ccch.xyz
+mo.kugou.com
 mo.nightlife141.com
 mo.oneshouyou.cn
 mo.qitouch.cn

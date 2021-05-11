@@ -9821,6 +9821,7 @@ api.meishesdk.com
 api.meituan.com
 api.mengtuiapp.com
 api.merro.xyz
+api.micloud.xiaomi.net
 api.microyan.com
 api.middle.transfer.search.miui.com
 api.mini.wps.cn
@@ -12555,6 +12556,7 @@ billwang.net
 bim-times.com
 bima.weathercn.com
 bimcn.org
+bimo.cc
 binbinyl.com
 bincailiuxue.com
 bindwpush.58.com
@@ -15526,7 +15528,6 @@ changqingshu.net
 changrongwang.com
 changshabdc.com
 changshang.com
-changshifang.com
 changtu.baixing.com
 changtu.com
 changweibo.com
@@ -42415,7 +42416,6 @@ m3.static.yximgs.com
 m3.static.yximgs.com.download.ks-cdn.com
 m3guo.com
 m3u8.live.video.ptqy.gitv.tv
-m3ws.kugou.com
 m4.lefile.cn
 m4.lefile.cn.cdn20.com
 m4.mogu66.com

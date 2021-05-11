@@ -45972,7 +45972,6 @@ http-echo-beta-interaction.net.daraz.com
 http3check.net
 httpbaidu.com
 httpdns.ocloud.heytapmobi.com
-httpdns.push.heytapmobi.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
 httpool.com
@@ -50888,7 +50887,6 @@ javstore.net
 javtag.com
 javtorrent.re
 javtube.com
-javwide.com
 javwide.tv
 javynow.com
 javzoo.com
@@ -55039,7 +55037,6 @@ lhcmc.com
 lhdyfc.com
 lhesqk.karatov.com
 lhewdj.fnac.pt
-lhfbet.com
 lhflh.com
 lhj.com
 lhj006.com
@@ -67620,6 +67617,7 @@ only-104576-180-160-103-68.nstool.netease.com
 only-119208-180-160-118-149.nstool.netease.com
 only-139230-180-160-118-149.nstool.netease.com
 only-143714-180-160-118-149.nstool.netease.com
+only-161166-180-160-118-149.nstool.netease.com
 only-165773-180-160-118-149.nstool.netease.com
 only-171867-180-160-118-149.nstool.netease.com
 only-175281-180-160-103-68.nstool.netease.com

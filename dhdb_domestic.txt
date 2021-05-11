@@ -2341,6 +2341,7 @@
 2317556.shop.liebiao.com
 2323u.com
 2323wan.com
+23243.xc.05cg.com
 2325509.b2b.liebiao.com
 2325509.shop.liebiao.com
 233.com
@@ -2371,6 +2372,7 @@
 234f.com
 2358232.shop.liebiao.com
 235830.shop.liebiao.com
+23606.xc.wenpie.com
 236400.com
 2366.com
 2366app.com
@@ -9328,6 +9330,7 @@ ankelife.com
 ankichina.net
 ankki.com
 anlaiye.com
+anli.lifegamer.top
 anlibaby.com
 anlink.com
 anlogic.com
@@ -9423,6 +9426,7 @@ anyang100.com
 anyangedu.com
 anyangxian.baixing.com
 anybeen.com
+anyes.com.cn
 anyew.com
 anyforweb.com
 anygame.info
@@ -10474,6 +10478,7 @@ article-api.huxiu.com
 article-fd.zol-img.com.cn
 article-fd.zol-img.com.cn.wswebpic.com
 article.dongqiudi.com
+article.suipianny.com
 article.xuexi.cn
 article.zlink.toutiao.com
 artimg.net
@@ -13073,13 +13078,17 @@ blog-static.cnblogs.com
 blog.51cto.com
 blog.chinaunix.net
 blog.csdn.net
+blog.dotomui.com
 blog.fuckgfw233.org
 blog.gitee.com
 blog.hicasper.com
 blog.hicasper.com.cname.yunjiasu-cdn.net
 blog.itpub.net
 blog.izgq.net
+blog.lalalalala.club
 blog.sina.com.cn
+blog.tuziip.com
+blog.yst.global
 blog007.com
 blogchina.com
 blogjava.net
@@ -20951,6 +20960,7 @@ deviceid.tantanapp.com
 devicemanuals.com
 devimages-cdn.apple.com.mwcname.com
 devio.org
+devondale.com.cn
 devopen.club
 devops-master.com
 devs.data.mob.com

@@ -11263,7 +11263,6 @@
 88bx.com
 88cdn.com
 88cp00.com
-88cpapp1.com
 88csdc.com
 88dj.com
 88duomi.com
@@ -20675,6 +20674,7 @@ analytics.tradedoubler.com
 analytics.traderlink.com
 analytics.transmoni.vn
 analytics.tribeca.vidavee.com
+analytics.trutv.com
 analytics.tuhu.com
 analytics.turn.com
 analytics.twentytwowords.com
@@ -79027,6 +79027,7 @@ hz3zq9b7.v1d.szbdyd.com
 hz66.com
 hz6x6nwq.v1d.szbdyd.com
 hz73xwgr.v1d.szbdyd.com
+hz8801.com
 hzaee.com
 hzairport.com
 hzamcare.com
@@ -88886,7 +88887,6 @@ jqsite.com
 jqskygame.com
 jqsrmm.sousou.co.jp
 jque.xyz
-jquery-uim.download
 jquery.com
 jquery123.com
 jqueryajax.com

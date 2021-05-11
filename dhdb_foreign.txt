@@ -13426,6 +13426,7 @@ asia.marketo.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
+asia.pool.ntp.org
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
 asia.spotifyforbrands.com
@@ -43773,7 +43774,6 @@ haohaoyx.com
 haoii123.com
 haojuzi.net
 haokanbu.com
-haokandu.com
 haokantu.com
 haokanzhan.com
 haoleio.com
@@ -52511,7 +52511,6 @@ kaiyuan.me
 kajihara.net.br
 kaka.me
 kaka1234.net
-kakadm.com
 kakaku.com
 kakazy-yun.com
 kakoon.co.il
@@ -63251,7 +63250,6 @@ mwikipedia.org
 mwjx.com
 mwnodes.viaxmr.com
 mwrf.net
-mwrftech.com
 mwxwmr.exofficio.com
 mwzeom.zeotap.com
 mx.browsermine.com

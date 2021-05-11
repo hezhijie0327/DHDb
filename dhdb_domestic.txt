@@ -10140,7 +10140,6 @@ app.knights.mi.com
 app.kwaixiaodian.com
 app.lz55.cn
 app.m.letv.com
-app.market.xiaomi.com
 app.mengtuiapp.com
 app.mi.com
 app.moji001.com
@@ -13529,6 +13528,7 @@ bt1.patexplorer.com
 bt1.the9.com
 btb8.com
 btbat.com
+btc100.com
 btc114.com
 btc123.com
 btc126.com
@@ -17594,6 +17594,7 @@ cn.innity-asia.com
 cn.launcher.battlenet.com.cn
 cn.linkedin.com
 cn.made-in-china.com
+cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.ntp.org.cn
 cn.pandora.net
@@ -19893,6 +19894,7 @@ d9.sina.com.cn
 d9.sinaimg.cn
 d959c33da1b7a55b8b5e10f902512b35.dlied1.cdntips.net
 d97b3956e88f47d54d10499f0ca8b01e.safeframe.googlesyndication.com
+d9917.com
 da-qian.com
 da-quan.net
 da.2000888.com

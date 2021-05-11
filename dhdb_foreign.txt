@@ -3699,7 +3699,6 @@
 54gj.com
 54hacker.com
 54hei.com
-54im.com
 54new.com
 54sb.org
 54share.com
@@ -4023,7 +4022,6 @@
 605595.shop.m.cnlist.org
 605660.com
 60655.com
-606728.com
 60702j.com
 6070k.com
 60757.com
@@ -12073,6 +12071,7 @@ api.fouanalytics.com
 api.frankerfacez.com
 api.freewebfonts.org
 api.funcaptcha.com
+api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.gfe.nvidia.com

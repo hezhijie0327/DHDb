@@ -24389,6 +24389,7 @@ emyfs.bs2cdn.yy.com
 emyms.bs2cdn.yy.com
 en-sem.com
 en.cc
+en.ce.cn
 en.gmw.cn
 en.gmw.cn.wswebcdn.com
 en.mail.qq.com
@@ -25977,7 +25978,6 @@ financeun.com
 finbtc.net
 finchain.info
 finchina.com
-find.api.micloud.xiaomi.net
 find.qq.com
 findermp.video.qq.com
 finderweb.net

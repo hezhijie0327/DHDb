@@ -34190,6 +34190,7 @@ c.pub.network
 c.qhruisen.cn
 c.reset.ns.emailvision.net.daraz.com
 c.rhapsody.com
+c.ru.msn.com
 c.s-microsoft.com
 c.sayhi.360.cn
 c.se.msn.com
@@ -77360,6 +77361,7 @@ host81-138-7-108.in-addr.btopenworld.com
 hostadm.net
 hostbuf.com
 hostcontent.live
+hostcto.com
 hostedads.realitykings.com
 hostedstatus.page
 hostedvillas.com
@@ -142624,7 +142626,6 @@ srkoo.com
 srm.dji.com
 srmdvb.ekohealth.com
 srnzdl.morhipo.com
-sroomafp.allyes.com
 sroomf70nasiru.duckdns.org
 srphoto.fr
 srpnet.com
@@ -146950,7 +146951,6 @@ sxsimg.com
 sxsjgy.com
 sxslnews.com
 sxsoft.com
-sxsolid.com
 sxsruida.com
 sxszw.net
 sxtppm.com
@@ -147935,7 +147935,6 @@ t188.dazhonghua.cn
 t1networks.com
 t2-dsa-opencdn.a.bdydns.com
 t2-xhs-new-vpc-ipv6-2022140793.cn-north-1.elb.amazonaws.com.cn
-t2.51maiwanju.com
 t2.58cdn.com.cn
 t2.612.com
 t2.a.market.xiaomi.com

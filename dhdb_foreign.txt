@@ -1,7 +1,6 @@
 0-courier.push.apple.com
 0-courier2.push.apple.com
 0-gold.net
-0.cn.pool.ntp.org
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
@@ -20123,7 +20122,6 @@ byzhihuo.com
 bz-berlin.de
 bz.igg.biz
 bzdao.com
-bzfhw.bar
 bzgame.cc
 bzko.com
 bzlold.machi.to
@@ -57794,7 +57792,6 @@ m.ckaim.com
 m.clxxkz.com.cn
 m.coenr.com
 m.comicat.org
-m.cqolg.cn
 m.cscp.me
 m.cuoss.com
 m.d8qu.com
@@ -73834,7 +73831,6 @@ pu6622.com
 pu7755.com
 pu8800.com
 pu8822.com
-pu8844.com
 pu889.com
 pu9955.com
 puansec.com

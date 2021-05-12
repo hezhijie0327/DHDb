@@ -12275,6 +12275,7 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -32982,6 +32983,7 @@ echo.com
 echodnia.eu
 echofon.com
 echohealthinc.com
+echomod.com
 echosign.com
 echostarmobile.com
 echots.com
@@ -67776,7 +67778,6 @@ oi-wiki.org
 oigps.com
 oikos.com.tw
 oiktv.com
-oimg.m.cnbc.com
 oimg.mobile.cnbc.com
 oimg.nbcuni.com
 oimg.universalorlandovacations.com

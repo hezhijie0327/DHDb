@@ -1,5 +1,6 @@
 0-100.com
 0-6.com
+0.cn.pool.ntp.org
 0.pic.pc6.com
 0.up.qingdaonews.com
 00.auto.sohu.com
@@ -12134,6 +12135,7 @@ beian88.com
 beianapi29.com
 beianapi30.com
 beianidc.com
+beibeicdn.com
 beidahuang.net
 beidamusic.com
 beidasoft.com
@@ -20625,7 +20627,6 @@ dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
-dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com

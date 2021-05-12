@@ -10194,7 +10194,6 @@ appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
 appbacklog.dftoutiao.com
-appbackupapi.micloud.xiaomi.net
 appbi.com
 appbk.com
 appbocai.com
@@ -21709,7 +21708,6 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
-dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -32296,6 +32294,7 @@ huiyan315.com
 huiyankan.com
 huiyaohuyu.com
 huiyep.com
+huiyi8.com
 huiyiabc.com
 huiyinxun.com
 huiyisheji.com
@@ -32601,6 +32600,7 @@ hxfy888.com
 hxgame.net
 hxgqw.com
 hxgs.net
+hxgwott.com
 hxinq.com
 hxjbh.com
 hxjiqi.com

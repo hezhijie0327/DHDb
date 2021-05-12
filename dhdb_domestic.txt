@@ -20623,7 +20623,7 @@ dbzyz.com
 dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
-dc.chillyroom.com
+dc.ads.linkedin.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -34993,6 +34993,7 @@ ios.rqd.qq.com
 ios8.app
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
+iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -45072,7 +45073,6 @@ musicorder.hicloud.com
 musicpay.kuwo.cn
 musicsailor.com
 musicsky.org
-musicuu.com
 musikid.com
 musiness.vip
 muslimwww.com

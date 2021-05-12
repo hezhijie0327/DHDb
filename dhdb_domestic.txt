@@ -9752,6 +9752,7 @@ api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -17812,7 +17813,6 @@ cngba.com
 cngdwx.com
 cnggt120.com
 cngin.com
-cnglb.com
 cngold.org
 cngoldres.com
 cngrain.com
@@ -44841,7 +44841,6 @@ msanjia.com
 msc.jd.com
 msc.jd.com.gslb.qianxun.com
 mscbsc.com
-msch.f.360.cn
 msclick2.kuwo.cn
 mscto.com
 mscxw.com

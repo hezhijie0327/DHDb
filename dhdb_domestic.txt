@@ -12081,6 +12081,7 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -18446,6 +18447,7 @@ console-base.log-global.aliyuncs.com.w.cdngslb.com
 consolebench.cn-hangzhou.log.aliyuncs.com
 consolecgi.qidian.qq.com
 consumeweb.alipay.com
+contactapi.micloud.xiaomi.net
 contacts.163.com
 contacts.fe.apple-dns.cn
 content.1688.com
@@ -55866,7 +55868,6 @@ shhxf119.com
 shhxzq.com
 shhyhy.com
 shhzcj.com
-shi-ci.com
 shi-ming.com
 shi78.com
 shibeike.com

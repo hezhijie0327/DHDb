@@ -14580,7 +14580,6 @@ jcloud-cdn.com
 jcloud-live.com
 jcloud-oss.com
 jcloudcache.com
-jcloudcs.com
 jclouddn.com
 jcloudedge.com
 jcloudgslb.com
@@ -14608,6 +14607,7 @@ jdao.tk
 jdb100.com
 jdburl.com
 jdcache.com
+jdcjsr.com
 jdcloudcache.com
 jdcloudcache.net
 jdcloudcs.com
@@ -21107,6 +21107,7 @@ proxy.googlezip.net
 proxy.mytestminer.xyz
 proxy.yt
 proxy4free.pl
+proxyanonimo.es
 proxybig.net
 proxyit.ga
 proxyit.ml

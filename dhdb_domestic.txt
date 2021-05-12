@@ -20626,6 +20626,7 @@ dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
+dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -31021,7 +31022,6 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.linkedin.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -53644,6 +53644,7 @@ rrswl.com
 rrt365.com
 rrting.net
 rrtsangel.com
+rrty.tv
 rrxiu.cc
 rrxiu.me
 rrxiu.net

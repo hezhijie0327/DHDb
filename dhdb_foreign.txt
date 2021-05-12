@@ -1668,7 +1668,6 @@
 2.biqle.ru
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
-2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.cr.rs
@@ -18610,7 +18609,6 @@ bodog127.com
 bodog168.com
 bodog39.com
 bodog68.com
-bodog73.com
 bodog868.com
 bodog88.net
 bodog88asia.com
@@ -23018,7 +23016,6 @@ chinamootools.com
 chinamusicbusinessnews.com
 chinamz.org
 chinanewscenter.com
-chinaoulong.com
 chinapower.csis.org
 chinapress.com.my
 chinaproxy.me
@@ -36781,7 +36778,6 @@ fh121.com
 fh1551.com
 fh303.com
 fh32.com
-fh68.com
 fh801.com
 fh931.com
 fh97.com
@@ -51792,7 +51788,6 @@ jiashule.com
 jiasule.net
 jiasule.org
 jiasuzhu.com
-jiawen88.com
 jiaxiangcolorsky.com
 jiaxinggifts.manufacturer.globalsources.com
 jiayoulu.com
@@ -65606,6 +65601,7 @@ newzfind.com
 newzgames.com
 newzit.com
 newzkoo.com
+nex.163.com
 nexac.com
 nexage.com
 nexcat.com

@@ -6608,7 +6608,6 @@ cdt-md.com
 cdt1.azurewebsites.net
 cdueff.com
 cdunu.com
-cdvcloud.com
 cdvtc.com
 cdyichu.com
 cdywgou.com
@@ -22420,6 +22419,7 @@ s3.myregeneaf.com
 s3.play.estream.nu
 s3.play.tainiesonline.pw
 s3.rongnews.com
+s3.ssl.qhres.com
 s3.thersprens.com
 s3.video.estream.nu
 s3.wm.yololike.space

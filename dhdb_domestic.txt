@@ -2087,6 +2087,7 @@
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
+2.centos.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
 2.pic.pc6.com
@@ -12605,6 +12606,7 @@ bipush.com
 biquge.info
 biqugemm.com
 biqugew.com
+biqugewx.com
 biransign.com
 bird4d.com
 birdol.com
@@ -20389,6 +20391,7 @@ data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
+data.sec.miui.com
 data.snm0516.aisee.tv
 data.sonkwo.com
 data.trendymedia.com.cn
@@ -32237,7 +32240,6 @@ huilanyujia.com
 huilianyi.com
 huilog.com
 huilongsen.com
-huilvwang.com
 huim.com
 huiman.net
 huimee.com
@@ -41275,7 +41277,6 @@ log.tpns.tencent.com
 log.trackingio.com
 log.u.wps.cn
 log.umsns.com
-log.uu.163.com
 log.v2.hunantv.com
 log.vcgame.cn
 log.voicecloud.cn
@@ -44139,7 +44140,6 @@ mixer.sina.cn
 mixern.sina.cn
 mixers.sina.cn
 mixgslb.com
-mixian88.com
 mixin.cc
 mixiong.tv
 mixrnb.com

@@ -653,6 +653,7 @@
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -2525,7 +2526,6 @@
 269.net
 26923.com
 2696007a22a157075a7e4760d.mdbook.cn
-26abc.com
 26ef.com
 26gg.bnq86.com
 26host.com
@@ -4596,7 +4596,6 @@
 566855.com
 566job.com
 567210.com
-5676.com
 567idc.com
 5684.com
 569.com
@@ -9754,7 +9753,6 @@ api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com

@@ -16388,7 +16388,6 @@ ads.channel4.com
 ads.cheabit.com
 ads.chinadaily.com.cn
 ads.chumcity.com
-ads.cineville.nl
 ads.citymagazine.si
 ads.clasificadox.com
 ads.clearchannel.com
@@ -42794,6 +42793,7 @@ codeplayer.vip
 codeplex.com
 codepub.com
 codepush.blob.core.windows.net
+codepush.teams.microsoft.com
 coder.si
 coder.work
 coder100.com
@@ -63157,7 +63157,6 @@ fithiro.club
 fitness.com
 fitnessforums.net
 fitnesslook.ru
-fitnesspingtai.com
 fitomarket.ru
 fitoneapp.com
 fiu758.blog111.fc2.com
@@ -94828,7 +94827,6 @@ le2222.com
 le3-api.game.bilibili.com
 le360.ma
 le444.com
-le5888.com
 le5le.com
 le787.com
 le866.com

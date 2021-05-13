@@ -8708,6 +8708,7 @@ ak6tc3dz.v1d.szbdyd.com
 ak6tcm17.v1d.szbdyd.com
 ak6vn67e.v1d.szbdyd.com
 ak7amtyh.v1d.szbdyd.com
+ak9.6895588.com
 akaiwl.com
 akamud.gallerycdn.azure.cn
 akbkgame.com
@@ -9219,6 +9220,7 @@ analytics.shop.hisense.com
 analytics.snssdk.com
 analytics.talkingdata.net
 analytics.techweb.com.cn
+analytics.terminus.io
 analytics.tuhu.com
 analytics.wanmei.com
 analytics.woozooo.com
@@ -9595,7 +9597,6 @@ apgblogs.com
 apgoview.com
 aphidic.com
 api-20200527.xkspbz.com
-api-a.op-mobile.opera.com
 api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
@@ -9673,7 +9674,6 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
-api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -16043,6 +16043,7 @@ chinabus.info
 chinabuses.com
 chinabym.com
 chinabyte.com
+chinabyte.net
 chinabzp.com
 chinac.com
 chinac3.com
@@ -28757,7 +28758,6 @@ guess.tf.360.cn
 guess.union2.50bang.org
 guestops.com
 gufeiposuiji.com
-gufengmh8.com
 guge.tw
 gugeapps.net
 gugong.net
@@ -52575,7 +52575,6 @@ qy-swallow.qiyukf.com
 qy.cn
 qy.net
 qy.qchannel03.cn
-qy01.com
 qy32.vip
 qy435.com
 qy6.com

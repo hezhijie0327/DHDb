@@ -3981,7 +3981,6 @@ analytics.qoqa.com
 analytics.radiatemedia.com
 analytics.services.distractify.com
 analytics.sonymusic.com
-analytics.terminus.io
 analytics.thevideo.me
 analytics.tool.lu
 analytics.tv189.cn
@@ -6828,7 +6827,6 @@ chinaaid.me
 chinaalex.com
 chinabaiker.com
 chinabaokan.com
-chinabyte.net
 chinacitynews.be
 chinackf.net
 chinaclip.net
@@ -9522,6 +9520,7 @@ downsave.com
 downsx.com
 dows.yuyudl.com
 dozview.com
+dp.559.cc
 dp02chdsg9x39.cloudfront.net
 dp2.im.weibo.cn
 dp2u.com

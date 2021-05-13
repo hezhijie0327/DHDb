@@ -19575,7 +19575,6 @@ buf.build
 buf.lemonde.fr
 bufalopedia.ch
 bufalopedia.net
-buff.163.com
 buffalo-asia.com
 buffalonews.com
 buffalorising.com
@@ -30288,6 +30287,7 @@ dl.airtable.com
 dl.benefits.express-scripts.com
 dl.box.net
 dl.browsermine.com
+dl.delivery.mp.microsoft.com
 dl.dell.com
 dl.devmate.com
 dl.discordapp.net
@@ -44507,7 +44507,6 @@ hcaptcha.com
 hcaptchastatus.com
 hcc.flnet.org
 hcdj.com
-hcdnw120.global.c.cdnhwc6.com
 hce.itechzero.com
 hcecde.dieti-natura.com
 hch24.com
@@ -62465,7 +62464,6 @@ mj23nba.txxx.com
 mjb7.com
 mjconsultorias.com.br
 mjeejc.tiki.vn
-mjgzm.com
 mjhassoc.com
 mjhlifesciences.com
 mjib.gov.tw
@@ -79520,7 +79518,6 @@ sdkconfig.ad.intl.xiaomi.com
 sdkm.w.inmobi.com
 sdks.stats-locations.com
 sdl.com
-sdlc6.com
 sdlcpartners.com
 sdlmaf.bestsecret.at
 sdlocw.com

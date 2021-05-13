@@ -9718,7 +9718,6 @@ api.cloud.189.cn
 api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
-api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cpu.baidu.com
@@ -10110,7 +10109,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -19570,7 +19568,6 @@ czbtv.com
 czbx18.com
 czcarbon.com
 czctech.com
-czcyme.com
 czdrbz.com
 czedu.com
 czfcw.com
@@ -35420,6 +35417,7 @@ itboy.net
 itbulu.com
 itbuy.com
 itbyc.com
+itbyte.net
 itc.cn
 itc.sspu.edu.cn
 itchaguan.com
@@ -38633,7 +38631,6 @@ kgmobilestatbak.kugou.com
 kgnop2.kugou.com
 kgogame.com
 khdatasolutions.com
-khesport.com
 khlysc.com
 khpt.tongdun.cn
 khqihuo.com

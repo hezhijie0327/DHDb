@@ -9718,6 +9718,7 @@ api.cloud.189.cn
 api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cpu.baidu.com
@@ -12504,6 +12505,7 @@ bigwinepot.com
 bigwww.com
 bigxiao.com
 bigzhong.com
+bihaiji.com
 bihoo.com
 bihu-static.com
 bihu.com
@@ -13767,7 +13769,6 @@ byfuh.com
 byfunds.com
 byfzxy.com
 bygamesdk.com
-bygjhb.com
 bygw.net
 byhard.com
 byjdxy.com
@@ -51931,6 +51932,7 @@ qs.xiangzhuan999.cn
 qs12315.com
 qs7dkolx9nv6nqywzvsvgakfjsgwa9jj.yundunwaf5.com
 qs921.com
+qsb.browser.miui.com
 qsbank.cc
 qsbbs.net
 qsbdc.com

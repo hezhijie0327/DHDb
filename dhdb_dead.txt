@@ -4587,6 +4587,7 @@ audit.quantcast.mgr.consensu.org
 aupig.cn
 auspr.com
 australia-proxy.com
+australiaeast1-pushnp.australiaeast.cloudapp.azure.com
 australian-business-online.com
 austria-car-rental.findworm.net
 ausuu.com
@@ -9664,6 +9665,7 @@ duoshou7.com
 duoshoubang.com
 duoshuo.com
 duosq.com
+duotin.com
 duotuwang.com
 duowanns.com
 dupola.com
@@ -11000,6 +11002,7 @@ expiredns.net
 expirenotification.com
 explorer.jsecoin.com
 exploreupdates.servehttp.com
+expoking.com.ng
 expressvpn.io
 expressvpn.pm
 ext.media

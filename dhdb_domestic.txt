@@ -1571,7 +1571,6 @@
 1717380.b2b.liebiao.com
 17173cdn.com
 17173ie.com
-17173im.allyes.com
 17173v.com
 17173yx.com
 1717ba.com
@@ -9937,7 +9936,6 @@ api.yuedu.iqiyi.com
 api.zhihu.com
 api.zhirenzhufu.com
 api.zhuanlan.sina.com.cn
-api.zhuti.xiaomi.com
 api.zol.com
 api.zone.lixian.vip.xunlei.com
 api1.888zy.cn
@@ -57034,7 +57032,6 @@ sms-callback.dftoutiao.com
 sms.ads.oppomobile.com
 sms.wo186.tv
 sms9.net
-smsapi.micloud.xiaomi.net
 smsbao.com
 smshx.com
 smskb.com
@@ -60910,7 +60907,6 @@ tk.nvacg.org
 tk.optaim.com
 tk.wo685.com
 tk163.com
-tkcm888.com
 tkcn.rayjump.com
 tkf.ink
 tkg5.com

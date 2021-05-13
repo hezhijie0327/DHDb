@@ -39951,7 +39951,6 @@ ci-lib-ln-2.net.daraz.com
 ci.appveyor.com
 ci.etowns.net
 ci.intuit.com
-ci.phncdn.com
 ci.phprcdn.com
 ci.r-hx-1.net.daraz.com
 ci.security

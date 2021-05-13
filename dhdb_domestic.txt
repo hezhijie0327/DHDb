@@ -10060,7 +10060,6 @@ apkui.com
 apkyx.com
 apkzu.com
 aplan.tv
-aplbs-dualstack.yy.com
 aplbs.dualstack.huanju.cn
 aplbs.yy.com
 aplum-inc.com
@@ -18444,7 +18443,6 @@ console-base.log-global.aliyuncs.com.w.cdngslb.com
 consolebench.cn-hangzhou.log.aliyuncs.com
 consolecgi.qidian.qq.com
 consumeweb.alipay.com
-contactapi.micloud.xiaomi.net
 contacts.163.com
 contacts.fe.apple-dns.cn
 content.1688.com
@@ -42777,6 +42775,7 @@ manhua.acimg.cn
 manhua.dmzj.com
 manhua365.com
 manhua39.com
+manhuabei.com
 manhuadaohang.com
 manhualang.com
 manhuama.cn
@@ -55593,7 +55592,6 @@ shanyeyuanliang.com
 shanyhs.com
 shanyin.baixing.com
 shanyougame.com
-shanzhaiba.com
 shanzhaiwang.net
 shanzhen.com
 shanzhen.me

@@ -4,6 +4,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -627,7 +628,6 @@
 1080872514.rsc.cdn77.org
 108198.com
 108cun.com
-108js.com
 108tlc.com
 109.62.92.106.zz.countries.nerd.dk
 1090ys.com
@@ -40597,6 +40597,7 @@ gizlen.net
 gizmodo.com
 gj.applog.uc.cn
 gj0479.com
+gj2car.com
 gj515.com
 gj5s.com
 gjapplog.uc.cn
@@ -62684,7 +62685,6 @@ mo.aaaw.xyz
 mo.be
 mo.bsxr.com.cn
 mo.ccch.xyz
-mo.kugou.com
 mo.nightlife141.com
 mo.oneshouyou.cn
 mo.qitouch.cn
@@ -73802,7 +73802,6 @@ pu0039.com
 pu0040.com
 pu148.com
 pu2255.com
-pu2299.com
 pu6600.com
 pu6622.com
 pu7755.com

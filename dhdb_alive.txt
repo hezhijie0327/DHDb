@@ -35912,7 +35912,6 @@ cbsnews.com
 cbspisp.applay.club
 cbspressexpress.com
 cbsrb.com
-cbsrc.com
 cbssports.com
 cbsstatic.com
 cbtc.org.hk
@@ -73759,6 +73758,7 @@ hanzhong.baixing.com
 hanzhong.lianjia.com
 hanzhong123.com
 hao-sheng-yi.com
+hao.17173.com
 hao.315hyw.com
 hao.7654.com
 hao.lenovo.com.cn
@@ -89330,6 +89330,7 @@ jp.hao123.com
 jp.moc.gov.tw
 jp.net
 jp.pandora.tv
+jp.pool.ntp.org
 jp.rti.org.tw
 jp.schroders.email
 jp.xinhuanet.com
@@ -122030,6 +122031,7 @@ powercount.jswelt.de
 powerde.com
 powerdns.org
 powereasy.net
+poweredby.jads.co
 poweredbyintel.com
 poweric-china.com
 powerlaw.ai

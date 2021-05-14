@@ -12194,7 +12194,6 @@ api-xspacewww.partner.net.daraz.com
 api.140proof.com
 api.24kidea.com
 api.a5188yes.com
-api.account.xiaomi.com
 api.accounts.firefox.com
 api.accounts.nintendo.com
 api.ad-locus.com

@@ -12199,6 +12199,7 @@ api-zdj.com
 api.140proof.com
 api.24kidea.com
 api.a5188yes.com
+api.account.xiaomi.com
 api.accounts.firefox.com
 api.accounts.nintendo.com
 api.ad-locus.com
@@ -13568,6 +13569,7 @@ asia.marketo.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
+asia.pool.ntp.org
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
 asia.spotifyforbrands.com
@@ -34372,6 +34374,7 @@ enrt.eu
 ens.luzernerzeitung.ch
 ens.nzz.ch
 ens.tagblatt.ch
+ensbiz.com
 enscape3d.com
 enscg.com
 ensel.com.ar

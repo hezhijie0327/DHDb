@@ -22305,7 +22305,6 @@ api.w.inmobi.com
 api.wangrunxin.com
 api.waptest.taobao.com
 api.weather.com
-api.weathercn.com
 api.weibo.cn
 api.weibo.com
 api.weishi.qq.com
@@ -42084,7 +42083,6 @@ cncoc.tcdn.qq.com
 cncoders.net
 cncolour.com
 cncondom.com
-cncookernet.com
 cncoolm.com
 cncopter.com
 cncotton.com
@@ -121166,7 +121164,6 @@ plausible.strzibny.name
 plausible.tac.dappstar.io
 plausible.test.sketch.com
 plausible.vaughanesports.org
-plausible.videospeedup.com
 plausible.zorin.com
 plavix.shengen.ru
 play-analytics.com

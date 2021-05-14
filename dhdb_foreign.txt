@@ -3036,7 +3036,6 @@
 4000279920.com
 4000600534.com
 4001006.com
-4006138024.com
 40066hg.com
 4006825178.com
 4007223.com
@@ -12192,7 +12191,6 @@ api-widget.soundcloud.com
 api-wotuilog-asia.wargaming.net
 api-ws-ubiservices.ubi.com
 api-xspacewww.partner.net.daraz.com
-api-zdj.com
 api.140proof.com
 api.24kidea.com
 api.a5188yes.com
@@ -12381,6 +12379,7 @@ api.rnet.plus
 api.rubic.com.tr
 api.rudderlabs.com
 api.sail-personalize.com
+api.samsungcloud.com
 api.savemedia.website
 api.sbz.vn
 api.sciencemag.org
@@ -67947,7 +67946,6 @@ okcoin.com
 okdd.net
 okehieugochukwucassperkroosdavid.duckdns.org
 okex.com
-okex.vip
 okex.win
 okfa88.c88588.com
 okfdjsdlfjdlsjfds.duckdns.org

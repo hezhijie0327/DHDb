@@ -2623,6 +2623,7 @@
 2cname.com
 2cp.com
 2cq.com
+2cto.com
 2cyzx.com
 2d.zol-img.com.cn
 2d.zol-img.com.cn.wswebpic.com
@@ -22577,6 +22578,7 @@ drive.weixin.qq.com
 drive.wps.cn
 driveapis.cloud.huawei.com
 driver.lenovo.com.cn
+driverdevelop.com
 driverdl.lenovo.com.cn
 drivergenius.com
 driversdown.com
@@ -31017,6 +31019,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site

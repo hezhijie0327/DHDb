@@ -21694,6 +21694,7 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
+dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -34846,7 +34847,6 @@ ins-jiert27v.ias.tencent-cloud.net
 ins-k5tkxji1.ias.tencent-cloud.net
 ins-kcaedbd1.ias.tencent-cloud.net
 ins-m2e5p6ao.ias.tencent-cloud.net
-ins-m6gwefm2.ias.tencent-cloud.net
 ins-mfa9hirw.ias.tencent-cloud.net
 ins-mvdthqgu.ias.tencent-cloud.net
 ins-p6ep9d2n.ias.tencent-cloud.net
@@ -46574,6 +46574,7 @@ nt.lianjia.com
 nt.phpwind.com
 nt2.ele.me
 ntalker.com
+ntaow.com
 ntce.com
 ntcfy.com
 ntdvf.com
@@ -56483,7 +56484,6 @@ sigchina.com
 sightp.com
 siglent.com
 siglff.com
-sigma-statistics-push.proxima.nie.netease.com
 sigmachip.com
 sigmamed.net
 sign.dftoutiao.com

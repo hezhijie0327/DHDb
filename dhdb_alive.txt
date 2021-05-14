@@ -71621,7 +71621,6 @@ greenplum.net
 greenprints.org.cn
 greenproxy.net
 greenreadings.com
-greenseer.com.ar
 greensender.pl
 greensolutions.ro
 greensolver.net
@@ -99412,6 +99411,7 @@ lythw.com
 lytning.xyz
 lytoufang.com
 lytpw.com
+lyun.me
 lyunweb.com
 lyv.com
 lyvnee.com
@@ -123571,6 +123571,7 @@ public.dm.files.1drv.com
 public.dns.iij.jp
 public.ffquan.cn
 public.fr
+public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.onlyfans.com
 public.popcorn-tracker.org
@@ -144166,7 +144167,6 @@ static.zctx8.com
 static.zdassets.com
 static.zhihu.com
 static.zhihu.com.sched.s2.tdnsv5.com
-static.zimuku.la
 static.zuixingzuo.net
 static.zybuluo.com
 static01.nyt.com
@@ -147460,7 +147460,6 @@ sznews.com
 szniego.com
 szniushi.com
 sznmd.com
-szns-marathon.com
 szol.net
 szolxd.com
 szonline.net

@@ -15454,6 +15454,7 @@ baotintuc.vn
 baowen8.com
 baoyang1.com
 baoyang888.com
+baoyang98.com
 baoyuntong.com
 baoyushipin.me
 baozhuang.biz
@@ -80341,7 +80342,6 @@ seed-pol-2.inf.nimiq.network
 seed-pol-3.inf.nimiq.network
 seed-pol-4.inf.nimiq.network
 seed.bitcoin.sipa.be
-seed.bitcoin.wiz.biz
 seed.bitcoinstats.com
 seed.nimiqpool.com
 seed1.qiangdong.xyz

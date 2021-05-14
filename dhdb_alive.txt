@@ -40979,7 +40979,6 @@ clients.l.google.com
 clients1.google.com
 clients2.google.com
 clients2.googleusercontent.com
-clients2.vlcstreamer.com
 clients3.google.com
 clients4.google.com
 clients6.google.com
@@ -70124,7 +70123,6 @@ go.sharedhope.org
 go.sharpsinc.com
 go.sharpusa.com
 go.shazi8.com
-go.shelby.com
 go.shibolet.com
 go.shipware.com
 go.shochu.life
@@ -104092,7 +104090,6 @@ meripet.biz
 meripet.com
 meritain.com
 meritgo.se
-meritline.com
 meritmind.se
 meriwest.com
 merklechina.com
@@ -136333,7 +136330,6 @@ shaoxianchong.com
 shaoyangxian.baixing.com
 shaoyee.com
 shaozi.info
-shaozimama.com
 shapach.net
 shapeservices.com
 shapeways.com

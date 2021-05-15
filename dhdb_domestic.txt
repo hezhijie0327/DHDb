@@ -7430,7 +7430,6 @@ acceldata.xunyou.com
 accelink.com
 access-credit.meituan.com
 access.open.uc.cn
-access.speech.ai.xiaomi.com
 access.toggle.qq.com
 access.video.qq.com
 access1.tpns.tencent.com
@@ -21696,7 +21695,6 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
-dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com

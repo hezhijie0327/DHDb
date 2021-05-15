@@ -5190,7 +5190,6 @@
 68hr.com
 68ll8b2.cdnnodedns.cn
 68p89vzh.sched.sma.tdnsv5.com
-68rong.com
 68t68.com
 68team.com
 68tuku.com
@@ -9973,7 +9972,6 @@ apicase.io
 apicdn.face.pptv.com
 apicloud.com
 apiconfig.adwo.com
-apidd.yxtun.com
 apiems.58.com
 apifw.mathpool.cn
 apigateway-v6.iqiyi.com
@@ -32908,7 +32906,6 @@ i.tddmp.com
 i.ulmdb.cn
 i.vip.iqiyi.com
 i.w.inmobi.cn
-i.w.inmobi.com
 i.waimai.meituan.com
 i.weread.qq.com
 i.work.weixin.qq.com
@@ -35913,6 +35910,7 @@ jbenden.gallerycdn.azure.cn
 jbfoundry.com
 jbo255.com
 jbo568.com
+jbpbox.com
 jbqipa.com
 jbryun.com
 jbzj.com
@@ -49529,6 +49527,7 @@ poobbs.com
 poocg.com
 poofx.com
 pook.com
+pool.ntp.org
 pool.v6.bt.n0808.com
 poolct.17173.com
 pooldist.shouyou.com

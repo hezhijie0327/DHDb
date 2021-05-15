@@ -2084,6 +2084,7 @@
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
+2.centos.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
 2.pic.pc6.com
@@ -26415,6 +26416,7 @@ fp-it.fengkongcloud.com
 fp.czvv.com
 fp.fraudmetrix.cn
 fp.hwwt8.com
+fp.nanrenwo.net
 fp.tongdun.net
 fpb.docin.com
 fpb.sohu.com
@@ -32679,7 +32681,6 @@ hysec.com
 hysteeltube.com
 hytcshare.com
 hytd.com
-hytera.com
 hytic.net
 hytscv6.tcdn.qq.com
 hyundai-hmtc.com
@@ -49525,7 +49526,6 @@ poobbs.com
 poocg.com
 poofx.com
 pook.com
-pool.ntp.org
 pool.v6.bt.n0808.com
 poolct.17173.com
 pooldist.shouyou.com

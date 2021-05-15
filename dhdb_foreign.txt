@@ -240,7 +240,6 @@
 033001.com
 033008.com
 033033.com
-033505.com
 0335e.com
 03365365.com
 034666.com
@@ -512,7 +511,6 @@
 10.42.96.122.zz.countries.nerd.dk
 10.client-channel.google.com
 10.courier-push-apple.com.akadns.net
-10.eve.dyx.com
 10.im.cz
 10.rarbg.com
 10.rarbg.me
@@ -2342,6 +2340,7 @@
 3.0.bailandaily.com
 3.237.119.123.zz.countries.nerd.dk
 3.32top.xyz
+3.aa1122.ws
 3.au.download.windowsupdate.com
 3.courier-push-apple.com.akadns.net
 3.courier2-push-apple.com.akadns.net
@@ -28205,7 +28204,6 @@ daimajia.com
 daimajiaoliu.com
 daimasucai.com
 dainikpost.com
-daiphapinfo.net
 dairymaster.com
 dairyreporter.com
 daishu.com
@@ -48793,7 +48791,6 @@ info.bizdrive.ntt-east.co.jp
 info.blackhillsgroup.net
 info.blbrokers.com
 info.bluesolutions.co.uk
-info.bmc.com
 info.bnp-news.de
 info.bocamuseum.org
 info.boozallen.com

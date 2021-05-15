@@ -12431,7 +12431,6 @@ bieshu.com
 bietongfeng.com
 bieyangapp.com
 bif703890b760z84.aliyunddos1026.com
-bifen.la
 bifong.com
 big-bit.com
 big1.ifengcdn.com
@@ -31008,6 +31007,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site

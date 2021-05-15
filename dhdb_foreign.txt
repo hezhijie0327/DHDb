@@ -4,7 +4,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -764,7 +763,6 @@
 118study.com
 119.29.196.104.bc.googleusercontent.com
 119089.com
-1194229.com
 119958.com
 119sihu.com
 11a12.com
@@ -2224,6 +2222,7 @@
 29-courier2.push.apple.com
 29.courier-push-apple.com.akadns.net
 29.courier2-push-apple.com.akadns.net
+29.flnet.org
 290479-cm36076.tmweb.ru
 292.com
 293.net
@@ -3367,6 +3366,7 @@
 505am.com
 506-vt.c3tag.com
 50655.com
+5068yx.com
 508223012e5a5ff19f30a391b2bdadc0.my.2k.com
 508843.com
 509338.com
@@ -4320,6 +4320,7 @@
 66hyk.com
 66ip.com
 66jiedai.com
+66js.info
 66kk.com
 66let.com
 66leto.com
@@ -4485,7 +4486,6 @@
 70wx.com
 70yst.com
 710333.com
-71100.net
 7113879.com
 711ddd.net
 711g.com
@@ -52018,7 +52018,6 @@ jitsi.org
 jitsuroku.kir.jp
 jituwang.com
 jiu3000.com
-jiudingcapital.com
 jiudingdalv.com
 jiumishow.com
 jiuping.net
@@ -53612,6 +53611,7 @@ kharkov.ua
 khatrimaza.org
 khd.qjvpn.com
 khdmw.com
+khesport.com
 khews.com
 khg56.com
 khgtwn.reifendirekt.de
@@ -75221,7 +75221,6 @@ r.5207470.com
 r.ad1.ru
 r.akipam.com
 r.bbci.co.uk
-r.browser.miui.com
 r.dir.bg
 r.dlandroid.com
 r.edge.inmobicdn.net

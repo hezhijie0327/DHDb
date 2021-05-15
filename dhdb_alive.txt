@@ -4800,6 +4800,7 @@
 29-courier2.push.apple.com
 29.courier-push-apple.com.akadns.net
 29.courier2-push-apple.com.akadns.net
+29.flnet.org
 290479-cm36076.tmweb.ru
 2910853114.docs.qq.com
 2918.com
@@ -5859,7 +5860,6 @@
 365ttcz.com
 365ub.com
 365webcall.com
-365weifu.com
 365wenku.com
 365winner.biz
 365world.com
@@ -64819,6 +64819,7 @@ freenewscn.com
 freenode.net
 freenung-x.com
 freenuts.com
+freeoa.net
 freeoda.com
 freeones.ca
 freeones.com
@@ -99886,7 +99887,6 @@ m.hx623.cn
 m.hy10010.com.cn
 m.i2356.com
 m.icekr.com
-m.icyrd.com
 m.idongde.com
 m.ihais.com
 m.ilife.cn

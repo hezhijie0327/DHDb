@@ -649,7 +649,6 @@
 1.92caijing.com
 1.aili.com
 1.arpun.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
@@ -14576,6 +14575,7 @@ cccity.cc
 cccnec.com
 cccpan.com
 ccctspm.org
+cccyds.com
 cccyun.cc
 ccdace.hupu.com
 ccdby.com
@@ -17729,6 +17729,7 @@ cncrk.com
 cncrony.com
 cncrypt.com
 cncsj.net
+cnctui.com
 cncz360.com
 cnczjy.com
 cnd8.com
@@ -18709,7 +18710,6 @@ cpdad.com
 cpdaily.com
 cpecc.net
 cpeol.net
-cpgzh.com
 cphoto.net
 cphoto.org
 cpiaoju.com
@@ -42132,7 +42132,6 @@ m.client.10010.com.w.cdngslb.com
 m.clkservice.youdao.com
 m.cnkang.com
 m.cocounion.com
-m.cpgzh.com
 m.ctrip.com
 m.cudaojia.com
 m.czhywzhsyxgs.com

@@ -12285,6 +12285,7 @@ api.funcaptcha.com
 api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
+api.geetest.com
 api.gfe.nvidia.com
 api.gimbal.com
 api.github.com
@@ -63374,6 +63375,7 @@ moscowtimes.ru
 mosea.net
 moseacg.com
 mosenni.com
+mosheng520.com
 moshi.newzgames.com
 moshicheats.newzgames.com
 moshou.com

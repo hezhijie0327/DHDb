@@ -9813,7 +9813,6 @@ api.meishesdk.com
 api.meituan.com
 api.mengtuiapp.com
 api.merro.xyz
-api.micloud.xiaomi.net
 api.microyan.com
 api.middle.transfer.search.miui.com
 api.mini.wps.cn
@@ -11998,7 +11997,6 @@ bdjs1.ixiumei.com
 bdjsym.guangyuanol.cn
 bdkyr.com
 bdlm.120askimages.com
-bdlm.jiaochengzhijia.com
 bdlm.jiaochengzhijia.com.cname1970.yjs-cdn.com
 bdlmggcs1.familydoctor.com.cn
 bdm.ye-su.cn
@@ -27046,6 +27044,7 @@ galend.gallerycdn.azure.cn
 galiaoba.com
 galitv.alicdn.com
 galleon.dmall.com
+galleryapi.micloud.xiaomi.net
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
 gallopgazelle.com

@@ -2084,7 +2084,6 @@
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
-2.centos.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
 2.pic.pc6.com
@@ -10100,7 +10099,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -23792,7 +23790,6 @@ ebooks.run
 ebopark.com
 eboxmaker.com
 ebp.renren.com
-ebrhnud.cn
 ebscn-am.com
 ebscn.com
 ebseek.com
@@ -54208,7 +54205,6 @@ s5.hy.qcloudcdn.com
 s5.mini.wpscdn.cn
 s5.music.126.net
 s5.music.126.net.w.alikunlun.com
-s5.qhres.com
 s5.ssl.qhimg.com
 s5.vip.wpscdn.cn
 s575.com

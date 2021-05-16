@@ -648,7 +648,6 @@
 1-cs.net
 1-du.net
 1.01fy.cn
-1.07swz.com.cname756.yjs-cdn.com
 1.1010pic.com
 1.11467.com
 1.32xp.com
@@ -19652,6 +19651,7 @@ cricbigdata.com
 crifst.com
 crimoon.net
 crispstata.com
+crl.apple.com
 crl.kaspersky.com
 crl.pki.goog
 crlcn.com
@@ -55021,7 +55021,6 @@ rksec.com
 rl.go2yd.com
 rl.mail.qq.com
 rlair.net
-rlbl888.com
 rlkj.com
 rlmt.iqiyi.com
 rlog.video.qq.com
@@ -57235,7 +57234,6 @@ shaoxianchong.com
 shaoyangxian.baixing.com
 shaoyee.com
 shaozi.info
-shaozimama.com
 shaphc.org
 shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 share.api.weibo.cn
@@ -59977,7 +59975,6 @@ stats2.unicompayment.com
 statsonline.pushct.baidu.com
 status.blueskyxn.com
 status.qiekj.com
-statusapi.micloud.xiaomi.net
 statwup.huya.com
 staycu.com
 stc.iqiyipic.com

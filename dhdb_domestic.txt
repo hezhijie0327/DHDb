@@ -638,7 +638,6 @@
 1-cs.net
 1-du.net
 1.01fy.cn
-1.07swz.com
 1.07swz.com.cname756.yjs-cdn.com
 1.1010pic.com
 1.11467.com
@@ -10227,7 +10226,6 @@ appdownload.alicdn.com.danuoyi.tbcache.com
 appdownload.mail.10086.cn
 appdriver.cn
 appdriver.com.cn
-appdump.nie.netease.com
 appeasou.com
 appengine.wmpvp.com
 apperr.log.mgtv.com
@@ -13561,6 +13559,7 @@ btracker.top
 btrcsc.com
 bts.hk
 btschool.net
+btsemi.com
 btsha.com
 btsou.org
 btsszx.51sole.com

@@ -15245,7 +15245,6 @@ act.commercial.shouji.360.cn
 act.convergencetraining.com
 act.cwsglobal.org
 act.daoju.qq.com
-act.dmall.com
 act.guanjia.qq.com
 act.online.engineering.nyu.edu
 act.pivotpointsecurity.com
@@ -23419,7 +23418,6 @@ appali.hnlsht.com
 appanalysis.banggood.com
 appao.com
 appapi.17house.com
-appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
 appbacklog.dftoutiao.com
@@ -25662,6 +25660,7 @@ autumn.engineering.net.daraz.com
 autumn.ids.net.daraz.com
 autumn.management.net.daraz.com
 auvpn.zendesk.com
+auvps.com
 auwdff.dyfashion.ro
 auwfjo.danetti.com
 auwinner.com
@@ -82660,7 +82659,6 @@ igofvz.jdsports.at
 igome.com
 igoogle.com
 igooma.com
-igorism.com
 igossip.com
 igotmail.com.tw
 igoyx.com
@@ -105901,7 +105899,6 @@ metrics.adage.com
 metrics.adelaidenow.com.au
 metrics.aetn.com
 metrics.aftonbladet.se
-metrics.aia.com
 metrics.airasia.com
 metrics.al.com
 metrics.allaboutyou.com
@@ -150086,6 +150083,7 @@ t-abi.hypers.com.cn
 t-bb.net
 t-benz.hypers.com.cn
 t-biao.com
+t-cha.com
 t-cheshi.com
 t-d.tv
 t-dsp.pinduoduo.com

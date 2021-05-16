@@ -12225,6 +12225,7 @@ api-xspacewww.partner.net.daraz.com
 api.140proof.com
 api.24kidea.com
 api.a5188yes.com
+api.account.xiaomi.com
 api.accounts.firefox.com
 api.accounts.nintendo.com
 api.ad-locus.com
@@ -22360,7 +22361,6 @@ centerforhumanreprod.com
 centex.com
 centipede.fjellvann.no
 centogene.com
-centos.bz
 centos.org
 centra.org
 central-beta.mall.tv
@@ -43841,7 +43841,6 @@ guisheng.li
 guitar101.com.tw
 guitarcenter.com
 guitarworld.com
-guizhoujindu.com
 gujibook.com
 gulasidorna.se
 gulesider.no
@@ -58961,6 +58960,7 @@ mao1.jsnovel.com
 mao999.com
 maogx.win
 maohaha.com
+maokz.com
 maomaoxue.com
 maomiav.com
 maomiboy.com

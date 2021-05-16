@@ -12378,7 +12378,6 @@ api.freewebfonts.org
 api.funcaptcha.com
 api.gaijinent.com
 api.gameofwhales.com
-api.geetest.com
 api.gfe.nvidia.com
 api.gimbal.com
 api.github.com
@@ -24122,7 +24121,6 @@ clients.l.google.com
 clients1.google.com
 clients2.google.com
 clients2.googleusercontent.com
-clients2.vlcstreamer.com
 clients3.google.com
 clients4.google.com
 clients6.google.com
@@ -75215,7 +75213,6 @@ qq92z.com
 qqahz.net
 qqaishu.com
 qqav.tv
-qqbiaoqing8.com
 qqbqg.com
 qqc.co
 qqcedsrc.com

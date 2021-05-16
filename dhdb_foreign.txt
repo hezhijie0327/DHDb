@@ -216,6 +216,7 @@
 029rencai.com
 029zx.net
 02afcp.com
+02e37a15617d9e2414a3f9929197ba9c.clo.footprintdns.com
 02edu.com
 02laser.com
 02og.com
@@ -511,6 +512,7 @@
 10.42.96.122.zz.countries.nerd.dk
 10.client-channel.google.com
 10.courier-push-apple.com.akadns.net
+10.courier2-push-apple.com.akadns.net
 10.im.cz
 10.rarbg.com
 10.rarbg.me
@@ -552,6 +554,7 @@
 100ke.org
 100lnrc.com
 100lw.com
+100man.dmm.com
 100mountain.com
 100msh.net
 100niangudu.com
@@ -1051,6 +1054,7 @@
 1571627030.rsc.cdn77.org
 1586f.com
 158bifa.com
+159967.shop.m.cnlist.org
 15cdn.com
 15h8.net
 15hn.com
@@ -1067,6 +1071,7 @@
 16.106.185.222.zz.countries.nerd.dk
 16.70.7.178.zz.countries.nerd.dk
 16.courier-push-apple.com.akadns.net
+16.courier2-push-apple.com.akadns.net
 16086371--c1.com
 160edu.net
 160tu.com
@@ -1357,6 +1362,7 @@
 18board.info
 18ca.com
 18ccc.tv
+18comic.art
 18comic.bet
 18comic.biz
 18comic.cc
@@ -1377,6 +1383,7 @@
 18comic3.biz
 18comic4.biz
 18d1efc2-0d28-4cbb-aae4-4198327829f5.enrollments.api.brightspace.com
+18d1efc2-0d28-4cbb-aae4-4198327829f5.organizations.api.brightspace.com
 18gifts.com
 18girlssex.com
 18h.animezilla.com
@@ -1545,6 +1552,7 @@
 1cnw.com
 1d4.us
 1db96f2d5fce09432b0d584ba678af7a.clo.footprintdns.com
+1def0717922a807f482ee35bbcbba0f4.nrb.footprintdns.com
 1degree.com.au
 1dmp.io
 1dot1dot1dot1.cloudflare-dns.com
@@ -1675,6 +1683,7 @@
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
 2.courier-push-apple.com.akadns.net
+2.courier2-push-apple.com.akadns.net
 2.cr.rs
 2.gravatar.com
 2.letvlive.com
@@ -1697,6 +1706,7 @@
 2001-2009.state.gov
 2002000.xyz
 20035544.com
+20059b.ha.azioncdn.net
 20063365.com
 2006mindfreaklike.blogspot.com
 2008xianzhang.info
@@ -1771,6 +1781,7 @@
 21-rent.com
 21.biz.tm
 21.courier-push-apple.com.akadns.net
+21.courier2-push-apple.com.akadns.net
 21.etowns.net
 21.flnet.org
 21.mysq1.net
@@ -2273,6 +2284,7 @@
 2d73.ru
 2dad6fb89bd6ad325fdb8f2d3ee22c79.clo.footprintdns.com
 2days.org
+2ddl.ms
 2dehands.be
 2dfan.com
 2djgame.net
@@ -2317,6 +2329,7 @@
 2nn.jp
 2o7.net
 2ortv.com
+2p66nmmycsj3.statuspage.io
 2pjob.com
 2proxy.de
 2q1wea3rdsf.000webhostapp.com
@@ -2530,6 +2543,7 @@
 332518.com
 333-555.com
 333.effers.com
+3332215.com
 33324333.com
 3332839.com
 3333144.com
@@ -2613,6 +2627,7 @@
 34.76.33.183.zz.countries.nerd.dk
 34.77.133.223.zz.countries.nerd.dk
 34.courier-push-apple.com.akadns.net
+34.courier2-push-apple.com.akadns.net
 3414arzd.com
 341666666.com
 342tt.com
@@ -2626,6 +2641,7 @@
 3488js.com
 349broomestreet.com
 34acf0414d836d3f8d491c6186153694.my.2k.com
+34b7f06552345d2f1dcf9ea6c2bc1af6.clo.footprintdns.com
 34c.cc
 34dm.com
 34mnxrk2cls37374.aliyunddos1026.com
@@ -2830,6 +2846,7 @@
 383810.com
 384.cc
 3843zz.com
+385fb9626f93150bbf3c5c9b3434cfb2.fp.measure.office.com
 38666567.com
 38666876.com
 386w.com
@@ -3069,6 +3086,7 @@
 404url.com
 404v.com
 405400.com
+407098.shop.cnlist.org
 407wan.com
 4080dyy.com
 4084.cc
@@ -3205,6 +3223,7 @@
 468.vologdainfo.ru
 4699a.com
 4699f.com
+46e6a341fa7387c2b3265eeac6b3eccb.clo.footprintdns.com
 46nb.com
 46z5j5.xyz
 47-courier.push.apple.com
@@ -3214,6 +3233,7 @@
 47.courier2-push-apple.com.akadns.net
 47.ip-51-68-199.eu
 4706.cabet125.com
+470838.shop.m.cnlist.org
 4720222.com
 4725u.com
 473000.org
@@ -3242,6 +3262,7 @@
 486486.com
 486646.com
 4869.cc
+488236.shop.cnlist.org
 48855268.com
 48iuz.com
 49-courier.push.apple.com
@@ -3249,11 +3270,14 @@
 49.12.44.59.zz.countries.nerd.dk
 49.courier-push-apple.com.akadns.net
 49008e.com
+492-ipv4e.clump.prod.aa-rt.sharepoint.com
+492193.shop.m.cnlist.org
 49321.com
 49363.com
 4949567.com
 494hu.com
 495777.com
+497aa969aa6aa438053151553cc483e7.nrb.footprintdns.com
 498bf79380ab98871abf13d3c09c804a.clo.footprintdns.com
 49ivb.org
 49oa3o49b6.com
@@ -3279,6 +3303,7 @@
 4dsply.com
 4ebaytraders.com
 4everproxy.com
+4f6e2eae0ec5a37801e821828fc27b19.clo.footprintdns.com
 4f8c982a03267284621692575947902c.nrb.footprintdns.com
 4freeapp.com
 4freemam.myfw.us
@@ -3335,6 +3360,7 @@
 5-tv.ru
 5.bb5522.ws
 5.courier-push-apple.com.akadns.net
+5.courier2-push-apple.com.akadns.net
 5.info.tm
 5.top4top.io
 50-courier.push.apple.com
@@ -3343,6 +3369,7 @@
 50.217.1.111.zz.countries.nerd.dk
 50.90.224.125.zz.countries.nerd.dk
 50.courier-push-apple.com.akadns.net
+50.courier2-push-apple.com.akadns.net
 50006.coolxtv.com
 5001v.com
 50045.diyxtv.com
@@ -3699,6 +3726,8 @@
 53.etowns.net
 53.my03.com
 531.tw
+531006.shop.cnlist.org
+531006.shop.m.cnlist.org
 531dns.com
 533.com
 533.epac.to
@@ -3751,6 +3780,7 @@
 543215.com
 545050.com
 5462.com
+546449.shop.cnlist.org
 54647.io
 54647.online
 54647.xyz
@@ -3874,6 +3904,7 @@
 5678la.com
 56869.com
 568play.vn
+56b2622420adc1b2409219b73e2f432d.fp.measure.office.com
 56ca.com
 56che.com
 56cun04.jigsy.com
@@ -4126,6 +4157,7 @@
 61868.cc
 6188.net
 618bet.com
+6190a51bd79e0c9730b1c5441a92b88c.clo.footprintdns.com
 61co.com
 61k.com
 61sou.com
@@ -4138,6 +4170,7 @@
 62.my.to
 62.shop.tm
 62.slyip.net
+620863.shop.m.cnlist.org
 6210k.com
 62365t.com
 623k.com
@@ -4372,6 +4405,7 @@
 67joy.com
 67mb.com
 67tuan.com
+67vv.dy.net
 68.4pu.com
 68.epac.to
 68.info.tm
@@ -4392,6 +4426,7 @@
 688.org
 68800099.com
 6888zr.com
+688d2a5558f781fb77bd7b9871d05955.clo.footprintdns.com
 688n.com
 6895588.com
 6898a.cc
@@ -4768,6 +4803,7 @@
 799499.com
 79tk.com
 7afcp.com
+7ba46421972b2781c58805619f8a866b.fp.measure.office.com
 7box.vip
 7bqlnfv7cqphc8obtu64f3eqi00ht1619359949.nuid.imrworldwide.com
 7caijiaqi.com
@@ -4874,6 +4910,7 @@
 809803.com
 80anmo.net
 80bi.com
+80efbe2e062cefae7145f93aad81b4db.clo.footprintdns.com
 80fans.com
 80host.com
 80kuku.com
@@ -4987,6 +5024,7 @@
 83t.la1-c2-ia4.salesforceliveagent.com
 84.ddns.ms
 8419.com
+841a4b8f5304f8e72e06631e907bb092.nrb.footprintdns.com
 84384d.com
 843912.shop.cnlist.org
 8466.com
@@ -5211,6 +5249,7 @@
 8912128.com
 8916802.com
 893933.com
+894b59fb3bccdd4b73176439a57e13b9.nrb.footprintdns.com
 8964.com
 8964.in
 8964.xyz
@@ -5312,6 +5351,7 @@
 908taiwan.org
 9090aa.com
 90a.cc
+90b54be518d65fa9a76fc5c5f7566f58.clo.footprintdns.com
 90e.com
 90kxw.com
 90mh.com
@@ -5407,6 +5447,7 @@
 922c25.com
 9234.com
 923qp6.com
+92564041c465279d029220a804112c4e.clo.footprintdns.com
 925ps.com
 9270.com.cn
 9282821monday.hqnpwzu.cn
@@ -5533,6 +5574,7 @@
 95wen.com
 95xiu.com
 96.ip-51-255-193.eu
+960871.shop.m.cnlist.org
 966cpa.com
 96777.cc
 96804.com
@@ -5630,6 +5672,7 @@
 985588.com
 985994.com
 986.com
+986707.shop.cnlist.org
 9870123.com
 9874b8acd8c4c663e0902bc246aa1573.clo.footprintdns.com
 9877yx.com
@@ -6168,6 +6211,7 @@ a1.mzstatic.com
 a1.security-next.com
 a1.truth.gq
 a1007.dspw43.akamai.net
+a1049.g2.akamai.net
 a1051.b.akamai.net
 a11058.actonservice.com
 a1108.gi3.akamai.net
@@ -6229,6 +6273,7 @@ a1806.dscb.akamai.net
 a1806.dscb.akamai.net.0.1.cn.akamaitech.net
 a1813.cn.w.tl88.net
 a1813.dscd.akamai.net
+a1815.co.w.tl88.net
 a1818.dscg2.akamai.net
 a1825.dscd.akamai.net
 a1834.dspg2.akamai.net
@@ -6328,6 +6373,7 @@ a30667.actonservice.com
 a30668.actonservice.com
 a33285.com
 a33994.actonservice.com
+a3463a1a6f039ff9c1b0a45ffa9ac724.clo.footprintdns.com
 a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
 a35827.actonservice.com
 a35907.actonservice.com
@@ -7039,6 +7085,7 @@ account.box.com
 account.htcvive.com
 account.live.com
 account.microsoft.com
+account.splayer.work
 account.synology.com
 account.termius.com
 account.winter.net.daraz.com
@@ -7054,6 +7101,7 @@ accountkit.com
 accountpaypal.com
 accountpaypal.net
 accountpaypal.org
+accounts.dmm.com
 accounts.ea.com
 accounts.firefox.com
 accounts.google.co.jp
@@ -7703,6 +7751,7 @@ ad121m.com
 ad13.focalink.com
 ad14.focalink.com
 ad15.focalink.com
+ad1555abd10d10976e36c9162dddb810.clo.footprintdns.com
 ad16.focalink.com
 ad17.focalink.com
 ad18.focalink.com
@@ -7788,6 +7837,7 @@ adb.kijk.nl
 adb.superrtl.de
 adb.toggo.de
 adb.wp.pl
+adb2waycm-atl.netmng.com
 adbecrsl.com
 adbetclickin.pink
 adbinead.com
@@ -7975,6 +8025,7 @@ adidas.se
 adidasevent.com
 adidm.idmnet.pl
 adikteev.com
+adiktivebanners.b-cdn.net
 adilk.ilikecomix.com
 adimage.blm.net
 adimage.guardian.co.uk
@@ -8192,6 +8243,7 @@ adobe.autoscout24.bg
 adobe.autoscout24.lu
 adobe.autoscout24.pl
 adobe.com
+adobe.com.ssl.d1.sc.omtrdc.net
 adobe.demdex.net
 adobe.falabella.com.pe
 adobe.io
@@ -8204,6 +8256,7 @@ adobe.truckscout24.fr
 adobe.truckscout24.it
 adobe.truckscout24.nl
 adobe.truckscout24.pl
+adobe.tt.omtrdc.net
 adobe.wacoal.jp
 adobeaemcloud.com
 adobeaemcloud.net
@@ -8229,8 +8282,10 @@ adobeexchange.com
 adobeexperienceawards.com
 adobegov.com
 adobehiddentreasures.com
+adobeid-na1.services.adobe.com
 adobeid.services.adobe.com
 adobeku.com
+adobelogin-origin.prod.ims.adobejanus.com
 adobelogin.com
 adobeplatinumclub.com
 adobepress.ch
@@ -9748,6 +9803,7 @@ aexz.rm.fhxiaoshuo.com
 af-ad.co.uk
 af-event-logger.appsflyer.com
 af.fukuishimbun.co.jp
+af04fe0ed13c1936a450c6fffb2e19a8.clo.footprintdns.com
 afa.org
 afbshop.de
 afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
@@ -9793,6 +9849,7 @@ affiliate.1800flowers.com
 affiliate.astraweb.com
 affiliate.baazee.com
 affiliate.chiaki.vn
+affiliate.dmm.com
 affiliate.doubleyourdating.com
 affiliate.dtiserv.com
 affiliate.exabytes.com.my
@@ -10560,6 +10617,7 @@ alinda.cz
 alinea.com
 alinebandeira.com.br
 alipay.hk
+alisg-normal-lb.byteoversea.net
 alistapart.com
 alitrip.hk
 alittlemarket.com
@@ -11287,6 +11345,7 @@ analyse.bcovery.com
 analysis.afreecatv.com
 analysis.fc2.com
 analysis.polarisoffice.com
+analysis.torrenthaja7.com
 analysiscenter.veracode.com
 analysysmason.com
 analytiall.com
@@ -11826,6 +11885,7 @@ anidb.net
 anidex.info
 anidex.moe
 anifare.jp
+anihonetwallpaper.com
 anijjm.winkelstraat.nl
 anilnikz.com
 anilos.com
@@ -12222,6 +12282,7 @@ api-verify.recaptcha.net
 api-widget.soundcloud.com
 api-wotuilog-asia.wargaming.net
 api-ws-ubiservices.ubi.com
+api-wsdgp.games.dmm.com
 api-xspacewww.partner.net.daraz.com
 api.140proof.com
 api.24kidea.com
@@ -12445,6 +12506,7 @@ api.travis-ci.org
 api.triver.jp
 api.ts.feedback.71.am
 api.ttkong.com
+api.tvmaze.com
 api.twitch.tv
 api.twitter.com
 api.ujian.cc
@@ -12456,6 +12518,7 @@ api.viaxmr.com
 api.viglink.com
 api.vitservers.pw
 api.viu.now.com
+api.vote.cnyw.net
 api.vstsusers.visualstudio.com
 api.vuukle.com
 api.wangrunxin.com
@@ -12491,6 +12554,7 @@ apibay.org
 apibrowsesmartne-a.akamaihd.net
 apic.pinnacle.com
 apicasystem.com
+apidgp-gameplayer.games.dmm.com
 apidocs-winter.net.daraz.com
 apidocs.freya.net.daraz.com
 apidocs.lib-ln-2.net.daraz.com
@@ -12587,6 +12651,8 @@ app-abm.marketo.com
 app-analytics-ru.huami.com
 app-clicks.firstrepublic.com
 app-dynamics.com
+app-gameplayer.dmm.co.jp
+app-gameplayer.dmm.com
 app-lon07.marketo.com
 app-sales.net
 app-sdylqipai3917.com
@@ -13598,6 +13664,7 @@ asia.marketo.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
+asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
 asia.spotifyforbrands.com
@@ -14112,6 +14179,8 @@ aufeminin.com
 aufp.io
 aufsafari.de
 augloop-prod-000.japaneast.cloudapp.azure.com
+augloop-prod-001.southeastasia.cloudapp.azure.com
+augloop-prod.trafficmanager.net
 augloop.office.com
 augmentation.osi.office.net
 augsburger-allgemeine.de
@@ -14202,6 +14271,7 @@ authsvc.svcs.teams.office.com
 authsvc.teams.microsoft.com
 auto-aufladen.de
 auto.allewagen.de
+auto.dmm.com
 auto.obozrevatel.com
 auto.ru
 auto0391.com
@@ -14281,6 +14351,7 @@ autumn.docker.net.daraz.com
 autumn.engineering.net.daraz.com
 autumn.ids.net.daraz.com
 autumn.management.net.daraz.com
+auvpn.zendesk.com
 auvps.com
 auwdff.dyfashion.ro
 auwfjo.danetti.com
@@ -14332,6 +14403,7 @@ avast.com
 avastcloud.org
 avastin.com
 avatacar.com
+avatar.games.dmm.com
 avatargarenanow-a.akamaihd.net
 avatarify.ai
 avatarmobi.com
@@ -14936,6 +15008,7 @@ b7869.com
 b78999.com
 b7919.com
 b7af390f3e4742b89839094147d38a88.pacloudflare.com
+b7e869520ae85d695e5be6fcba9916b8.clo.footprintdns.com
 b7l.cc
 b8007.com
 b8070.com
@@ -15043,6 +15116,7 @@ badger.roidi.gr
 badger.vbvf.org
 badges.alltop.com
 badges.altmetric.com
+badges.gitter.im
 badges.instagram.com
 badgeville.com
 badiucao.com
@@ -15452,6 +15526,7 @@ bans.bride.ru
 bansheerocks.com
 banshop.gruntovik.ru
 banstat.nadavi.net
+banusy.dmm.com
 banweb.concordia-ny.edu
 banxiayue.com
 banyan.com
@@ -15675,6 +15750,7 @@ bb.zyns.com
 bb0621.com
 bb1122.com
 bb179.com
+bb20fe766e93c09695a21c0748d9c221.clo.footprintdns.com
 bb22888.com
 bb242.net
 bb248.com
@@ -15960,6 +16036,7 @@ bdzcck.stadiumgoods.com
 be.cordial.com
 be4.herokuapp.com
 be5620a65285c0abe8bd197fe366d865.fp.measure.office.com
+bea4.v.fwmrm.net
 beach.hac.lp1.eshop.nintendo.net
 beachbody.com
 beacon-fullpage-predictor.goguardian.com
@@ -17275,6 +17352,7 @@ bitcert.ocsp.sectigo.com
 bitchop.net.daraz.com
 bitchute.com
 bitcoin-generator.mobie.in
+bitcoin.dmm.com
 bitcoin.org
 bitcoiner.win
 bitcoingener.blogspot.com
@@ -17443,6 +17521,7 @@ bj2222.com
 bj6666.com
 bjadn.net
 bjaic.com
+bjango.com
 bjaokaihua.com
 bjaoyou.cn
 bjbaidu88.com
@@ -17749,6 +17828,7 @@ blog.felixc.at
 blog.fizzik.com
 blog.foolsmountain.com
 blog.g-sec.lu
+blog.getpelican.com
 blog.goo.ne.jp
 blog.google
 blog.gslin.org
@@ -17785,6 +17865,7 @@ blog.mozilla.org
 blog.myorz.com
 blog.myrenterhero.com
 blog.naver.com
+blog.ntsdtt.bid
 blog.onahole.eu
 blog.orph.eu
 blog.ouou.eu
@@ -18571,6 +18652,8 @@ bn.ohah.ru
 bn.orthodoxy.ru
 bn.sarov.info
 bn.take-profit.org
+bn1303.settings.live.net
+bn1303.storage.live.com
 bn2-ris-ap-prod-atm.trafficmanager.net
 bn2b-cor001.api.p001.1drv.com
 bn2b-cor002.api.p001.1drv.com
@@ -18827,6 +18910,7 @@ boodigo.com
 booeoo.com
 book.bfnn.org
 book.com.tw
+book.dmm.com
 book.zi5.me
 book4u.ganbarune.com
 book4you.org
@@ -19357,6 +19441,7 @@ brow.si
 broward.aiproxies.com
 broward.co1.qualtrics.com
 broward.edu
+broward.formstack.com
 broward.onelogin.com
 browardpalmbeach.com
 brownadvisory.com
@@ -19544,6 +19629,7 @@ btlr.sharethrough.com
 btmao.cc
 btmean.cardosystems.com
 btmeiju.com
+btmulu3.club
 btn.clickability.com
 btn.createsend1.com
 btnk024.com
@@ -20692,6 +20778,7 @@ cache.betweendigital.com
 cache.celtra.com
 cache.datamart.windows.com
 cache.sellwild.com
+cache.send.microad.jp
 cache.send.microadinc.com
 cache.soloth.com
 cache.wdcdn.net
@@ -21811,6 +21898,7 @@ cdn-qc.coccoc.com
 cdn-ra.rockcontent.com
 cdn-rtb.sape.ru
 cdn-settings.segment.com
+cdn-sg-platform.gcdn.co
 cdn-social.janrain.com
 cdn-ssl.vidible.tv
 cdn-store-icons-akamai-prd.unityads.unity3d.com
@@ -21904,6 +21992,8 @@ cdn.cxense.com
 cdn.cyberduck.io
 cdn.cytivalifesciences.com
 cdn.cytivalifesciences.com.cn
+cdn.d2-apps.net
+cdn.datatables.net
 cdn.debitcrebit669.com
 cdn.designbyhumans.com
 cdn.devmate.com
@@ -21916,6 +22006,8 @@ cdn.doubleverify.com
 cdn.download.kde.org
 cdn.dragonstatic.com
 cdn.driveback.ru
+cdn.dtm.dmm.co.jp
+cdn.dtm.dmm.com
 cdn.earnify.com
 cdn.educba.com
 cdn.eltima.com
@@ -21986,6 +22078,7 @@ cdn.movieads.ru
 cdn.mxpnl.com
 cdn.mysql.com
 cdn.nablabee.com
+cdn.nba.com
 cdn.nearbyad.com
 cdn.net.elogia.net
 cdn.net.wink.es
@@ -22007,6 +22100,7 @@ cdn.onescreen.net
 cdn.onesignal.com
 cdn.oneskyapp.com
 cdn.opencmp.net
+cdn.opensourcefonts.org
 cdn.optmd.com
 cdn.paddle.com
 cdn.panelbear.com
@@ -22037,6 +22131,7 @@ cdn.revjet.com
 cdn.rhombusads.com
 cdn.rocks.io
 cdn.roirevolution.com
+cdn.rollbar.com
 cdn.rove.cl
 cdn.runative-syndicate.com
 cdn.samsung.com

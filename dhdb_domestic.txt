@@ -10679,6 +10679,7 @@ appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
 appbacklog.dftoutiao.com
+appbackupapi.micloud.xiaomi.net
 appbi.com
 appbk.com
 appbocai.com
@@ -34007,7 +34008,6 @@ i1.17173cdn.com
 i1.chuimg.com
 i1.fuimg.com
 i1.go2yd.com
-i1.hdslb.com
 i1.hoopchina.com.cn
 i1.letvimg.com
 i1.sinaimg.cn
@@ -46080,6 +46080,7 @@ mrcrm.com
 mrcuriosity.org
 mrcywang.com
 mrdede.com
+mrdios.com
 mreg.kuwo.cn
 mrentea.com
 mrhallacg.com

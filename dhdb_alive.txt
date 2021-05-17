@@ -51525,6 +51525,7 @@ dgss2.baidu.com
 dgss2.bdstatic.com
 dgss3.bdstatic.com
 dgssmy.com
+dgstatic.jd.com
 dgt-factory.com
 dgt.com
 dgtle.com
@@ -134529,6 +134530,7 @@ saa.zdnet.com
 saad.ms.zhangyue.net
 saad.qurvex.com
 saainfo.anz.co.nz
+saalt.org
 saam.gumtree.com.au
 saametrics.aktia.fi
 saarbruecker-zeitung.de
@@ -137611,6 +137613,7 @@ servedby.o2.co.uk
 serveftp.com
 servehttp.com
 serveirc.com
+serveminecraft.net
 server-au.imrworldwide.com
 server-br.imrworldwide.com
 server-by.imrworldwide.com

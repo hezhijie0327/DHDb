@@ -10613,6 +10613,7 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -41372,7 +41373,6 @@ letsebuy.com
 lettercloud.net
 letuknowit.com
 letushu.com
-letv.allyes.com
 letv.axp.admaster.com.cn
 letv.cn
 letv.com
@@ -56672,7 +56672,6 @@ seechentech.com
 seecmedia.net
 seecsee.com
 seed-china.com
-seed.bitcoin.jonasschnelli.ch
 seed.btc.petertodd.org
 seedasdan.org
 seeddsp.com
@@ -58918,6 +58917,7 @@ sojump.com
 sojump.hk
 sokoban.ws
 soku.com
+sokutu.com
 sola.gtimg.cn
 sola.gtimg.cn.cloud.tc.qq.com
 sola.gtimg.cn.x2s-dstack.sched.dcloudstc.com
@@ -62339,7 +62339,6 @@ tianyi1368.com
 tianyihy.net
 tianyijue.com
 tianyinzaixian.com
-tianyiweiya.com
 tianyuimg.com
 tianzhao.net
 tianzhuo.com

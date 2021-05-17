@@ -10709,7 +10709,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -11041,7 +11040,6 @@ ase-mc.jd.com
 ase-mc.jd.com.gslb.qianxun.com
 asean-china-center.org
 asearch.alicdn.com
-asen0713.com
 aseoe.com
 aserver-heyi.m.taobao.com
 asew0d.tdum.alibaba.com
@@ -48942,7 +48940,6 @@ osx.dpfile.com
 osx.dpfile.com.s2txipv6.cdntip.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
-osxapps.itunes.g.aaplimg.com
 osyunwei.com
 ot.io.mi.com
 ota.ptqy.gitv.tv

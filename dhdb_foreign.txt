@@ -12393,6 +12393,7 @@ api.cloudmobi.net
 api.codacy.com
 api.codeclimate.com
 api.coinerra.com
+api.comm.miui.com
 api.company-target.com
 api.cookielaw-script.it
 api.cookielaw.eu
@@ -37515,7 +37516,6 @@ finishkilpailu.fi
 finishline.com
 finishwin.be
 finlandiatalo.fi
-finlayliu.com
 finler.net
 finley.finleyusa.com
 finleyusa.com

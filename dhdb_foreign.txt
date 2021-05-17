@@ -24522,6 +24522,7 @@ cn.msi.com
 cn.nikkei.com
 cn.nytstyle.com
 cn.picacomiccn.com
+cn.pool.ntp.org
 cn.pub.vpon.com
 cn.rti.tw
 cn.ru
@@ -53519,7 +53520,6 @@ kanglesoft.com
 kangleweb.net
 kangmeigym.com
 kangxi55wlsf.com
-kangye.org
 kangze.com
 kanhaiwai.com
 kanjicho.com

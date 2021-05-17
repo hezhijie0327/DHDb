@@ -837,7 +837,6 @@
 10333.com
 10339.com
 1035.mobi
-10419.net
 10561701.fls.doubleclick.net
 10612.sched.ssd.tdnsv6.com
 1063835.p23.tc.cdntip.com
@@ -17704,7 +17703,6 @@ client-api.ele.me
 client-api.itunes.apple.com.mwcname.com
 client-dmp.suishenyun.cn
 client-lz.rili.cn
-client-monitor.tantanapp.com
 client-stats.gclick.cn
 client-upload.cn-shanghai.log.aliyuncs.com
 client.aldtop.com

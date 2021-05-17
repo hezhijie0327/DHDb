@@ -12412,6 +12412,7 @@ api.mapbox.com
 api.mediarithmics.com
 api.mediation.amberweather.com
 api.meomiao.us
+api.micloud.xiaomi.net
 api.mightycast.com
 api.minero.cc
 api.minexmr.com

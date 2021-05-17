@@ -11390,6 +11390,7 @@
 86amsdy.com
 86app.com
 86art.net
+86campus.com
 86clouds.com
 86control.com
 86ditu.com
@@ -16753,6 +16754,7 @@ ads-api.twitter.com
 ads-backend.nhadatmoi.net
 ads-banner.1mobile.com
 ads-bid.l.doubleclick.net
+ads-bidder-api.twitter.com
 ads-brand-postback.unityads.unity3d.com
 ads-by.yieldselect.com
 ads-cdn.fptplay.net
@@ -42576,6 +42578,7 @@ cn-jstz-dx-live-03.bilivideo.com
 cn-jstz-dx-live-04.bilivideo.com
 cn-lcd.com
 cn-library.rukomos.ru
+cn-mpa.com
 cn-ms.galaxyappstore.com
 cn-ms.samsungapps.com
 cn-mw.com
@@ -81401,7 +81404,6 @@ i3gt.com
 i3j3u3u9.ssl.hwcdn.net
 i3smot.com
 i3v.cc
-i3youlun.com
 i3yuan.com
 i4.chuimg.com
 i4.cmail20.com
@@ -94070,7 +94072,6 @@ kmaa14.com
 kmaa4.com
 kmail.com
 kmapp.net
-kmarry.me
 kmart.com
 kmcaishui.com
 kmcenter.org

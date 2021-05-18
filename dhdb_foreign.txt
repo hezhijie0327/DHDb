@@ -4458,7 +4458,6 @@
 69a89ff4b8f68d62ced69c15a1519d1e.clo.footprintdns.com
 69fenxiang.com
 69park.com
-69ps.com
 69shu.com
 69shu.org
 69story.com
@@ -12426,6 +12425,7 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
+api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.gfe.nvidia.com
@@ -21012,7 +21012,6 @@ cambridgeschoolshakespeare.com
 cambridgetrust.com
 camdough.com
 camdvr.org
-came-online.org
 cameleo.ru
 camelot-europe.com
 camelotherald.com

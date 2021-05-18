@@ -4769,7 +4769,6 @@
 550400.com
 5504q.com
 5504z.com
-551335.net
 55188.com
 55344.com
 555yst.com
@@ -10209,6 +10208,7 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
+api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -13379,6 +13379,7 @@ bjkrtwl.com
 bjl11.com
 bjl2044.com
 bjl666.com
+bjl8789.com
 bjlcs-tech.com
 bjlemon.com
 bjlevsoft.com
@@ -33979,7 +33980,6 @@ i.snssdk.com.w.kunluncan.com
 i.sso.sina.com.cn
 i.stat.nearme.com.cn
 i.tansuotv.com
-i.tantanapp.com
 i.taobao.com
 i.tddmp.com
 i.ulmdb.cn

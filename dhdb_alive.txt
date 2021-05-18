@@ -23406,7 +23406,6 @@ app.hnzycfc.com
 app.houyi.baofeng.net
 app.hstatic.net
 app.hubspot.com
-app.hytdsm.com
 app.icon256.com
 app.info.coopenae.fi.cr
 app.information.maileva.com
@@ -26092,7 +26091,6 @@ aweme-beta.bytedance.net
 aweme-hl.snssdk.com
 aweme-hl.snssdk.com.xi.zwtianshangm.com
 aweme.snssdk.com
-aweme.snssdk.com.xi.zwtianshangm.com
 aweme.snssdk.com.xi.zwtianshangm.com.qr.uuhimalayanqm.com
 awempire.com
 awesome-bruce.me
@@ -84097,7 +84095,6 @@ images.wondershare.com
 images1-content--hci-com.cdn.ampproject.org
 images1.1133.cc
 images1.content-hci.com
-images1.test.de
 images2-content--hci-com.cdn.ampproject.org
 images2.content-hci.com
 images2.imgbox.com

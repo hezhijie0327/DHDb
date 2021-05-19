@@ -11432,7 +11432,6 @@ awp-assets.meituan.net
 awp-assets2.meituan.net
 awp.meituan.com
 awqsaged.cn
-awrsx.cn
 awscf.azchcdnk.com
 awsok.com
 awspal.com
@@ -19088,6 +19087,7 @@ console-base.log-global.aliyuncs.com.w.cdngslb.com
 consolebench.cn-hangzhou.log.aliyuncs.com
 consolecgi.qidian.qq.com
 consumeweb.alipay.com
+contactapi.micloud.xiaomi.net
 contacts.163.com
 contacts.fe.apple-dns.cn
 content.1688.com
@@ -29765,7 +29765,6 @@ guestops.com
 gufeiposuiji.com
 guge.tw
 gugeapps.net
-gugong.net
 gugud.com
 guguread.com
 guguyu.com

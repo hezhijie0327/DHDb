@@ -17817,7 +17817,6 @@ adserver.filefront.com
 adserver.freecity.de
 adserver.friendfinder.com
 adserver.gameparty.net
-adserver.goforandroid.com
 adserver.gorillanation.com
 adserver.harktheherald.com
 adserver.hellasnet.gr
@@ -43867,7 +43866,6 @@ codeplayer.vip
 codeplex.com
 codepub.com
 codepush.blob.core.windows.net
-codepush.teams.microsoft.com
 coder.si
 coder.work
 coder100.com
@@ -44318,7 +44316,6 @@ commander1.com
 commander1.com.cdngl.net
 commchina.net
 commdata.v.qq.com
-commdata6.v.qq.com
 commendyd.chaoxing.com
 comment-api.huxiu.com
 comment-card.iqiyi.com
@@ -95802,7 +95799,6 @@ kulichki.com
 kulichki.net
 kuliqiang.com
 kuliwang.net
-kullorki.it.cx
 kultpavillonblog.blogspot.ch
 kum.com
 kuman.com

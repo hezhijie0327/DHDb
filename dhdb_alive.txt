@@ -23521,6 +23521,7 @@ appali.hnlsht.com
 appanalysis.banggood.com
 appao.com
 appapi.17house.com
+appapi.dmall.com
 appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
@@ -53843,7 +53844,6 @@ dns.pub
 dns.quad9.net
 dns.sb
 dns.switch.ch
-dns.t53.de
 dns.therifleman.name
 dns.twnic.tw
 dns.update.netease.com
@@ -54702,7 +54702,6 @@ down.alicdn.com
 down.alicdn.com.danuoyi.tbcache.com
 down.anticheatexpert.com
 down.anticheatexpert.com.wsdvs.com
-down.apps.sina.cn
 down.chinaz.com
 down.diannaodian.com
 down.dingtalk.com
@@ -70462,7 +70461,6 @@ gluons.gallerycdn.azure.cn
 gluware.com
 glvs.com
 glwxw.net
-glxdlf.tickets.ua
 glxlawyer.com
 glyh.org
 glype.com
@@ -70486,7 +70484,6 @@ gm825.com
 gm86.com
 gm88.com
 gm99game.net
-gma.alicdn.com
 gmacsaic.com
 gmail-cn.com
 gmail.babson.edu
@@ -106891,7 +106888,6 @@ metrics.bighospitality.co.uk
 metrics.biopharma-reporter.com
 metrics.bitdefender.com
 metrics.bizjournals.com
-metrics.bloomberg.com
 metrics.bmo.com
 metrics.bodyandsoul.com.au
 metrics.boostmobile.com
@@ -107159,7 +107155,6 @@ metrics.modcloth.com
 metrics.moneymart.ca
 metrics.moosejaw.com
 metrics.morningadvertiser.co.uk
-metrics.motortrend.com
 metrics.myprime.com
 metrics.mysanantonio.com
 metrics.myturnstone.com
@@ -111378,6 +111373,7 @@ muscleandfitness.com
 muse-ui.org
 muse100.com
 musemagazine.it
+museoreinasofia.es
 muses-ugc.iqiyi.com
 musescore.com
 museumofthebible.org
@@ -112510,7 +112506,6 @@ na-ab32.marketo.com
 na-lon05.marketo.com
 na-lon09.marketo.com
 na-sika.com
-na-sj23.marketo.com
 na.ads.yahoo.com
 na.albtls.t.co
 na.ddns.name
@@ -112624,7 +112619,6 @@ nalandabodhi.org
 nalandawest.org
 nalanxi.com
 nalichi.com
-nalntn.elektroshopwagner.de
 nalpathamkalam.com
 naltis.com
 nam02.safelinks.protection.outlook.com
@@ -121038,7 +121032,6 @@ partner.nautilus.net.daraz.com
 partner.net.daraz.com
 partner.patnercgi.net.daraz.com
 partner.pelikan.cz
-partner.pladform.ru
 partner.pobieraczek.pl
 partner.pocketing.tv
 partner.premiumdomains.com

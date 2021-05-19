@@ -7109,6 +7109,7 @@ access.acspubs.org
 access.hikaritv.net
 access.ly
 access.redhat.com
+access.speech.ai.xiaomi.com
 access.sunpower.com
 access.utamap.com
 accesscam.org
@@ -21744,7 +21745,6 @@ cato.org
 catofashions.com
 catofconfidence.blog126.fc2.com
 catpre.com
-catpro.io
 catracking.finning.com
 catsoncrack.com
 catswall.net
@@ -31625,6 +31625,7 @@ downdetector.com
 downduck.com
 downeyboy.com
 downg.com
+downi9.com
 downiestatistics.com
 downk.cc
 download-a.akamaihd.net
@@ -61062,7 +61063,6 @@ mastertag.q-sis.de
 masterzion.ddns.net
 mastheadstudios.com
 mastodon.cloud
-mastodon.host
 mastodon.social
 mastodon.thoughtbot.com
 mastodon.xyz
@@ -83562,6 +83562,7 @@ silucg.com
 siluke.cc
 siluke.com
 siluke.la
+siluke.tw
 silukeke.com
 siluwu.com
 silvabonilla.cl
@@ -86613,6 +86614,7 @@ soufy.cn
 sougouwiki.com
 souho.cc
 souhu.com
+soujianghu.com
 soul-cycle.email
 soul-plus.net
 soul-plus.org
@@ -87037,6 +87039,7 @@ splash-screen.net
 splash.appsgeyser.com
 splashtop.com
 splatoon2tournament.com
+splayer.org
 splendia.com
 splicecommunity.com
 splinder.com

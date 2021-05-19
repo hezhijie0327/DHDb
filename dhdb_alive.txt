@@ -9849,7 +9849,6 @@
 67danji.com
 67gu.com
 67joy.com
-67mb.com
 67tuan.com
 67vv.dy.net
 68.4pu.com
@@ -23306,6 +23305,7 @@ app-analytics-cn.huami.com
 app-analytics-ru.huami.com
 app-analytics.huami.com
 app-cdn.2q10.com
+app-cdn.2q10.com.wswebpic.com
 app-clicks.firstrepublic.com
 app-down.xiaohaowen.com
 app-dynamics.com
@@ -53768,7 +53768,6 @@ dnion.com
 dnix.ch
 dnj.com
 dnjishu.com
-dnjpes.samsungstore.mx
 dnjs8.com
 dnjsb.com
 dnkeeper.dbankcloud.com
@@ -75498,6 +75497,7 @@ haitianhome.com
 haitl.com
 haitongjiaoyu.com
 haitou.cc
+haitoucapital.com
 haitoujia.com
 haituie.com
 haitum.com

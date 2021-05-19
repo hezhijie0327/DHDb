@@ -22729,7 +22729,6 @@ api.instabug.com
 api.installer.xiaomi.com
 api.intensifier.de
 api.intentiq.com
-api.interaction.sohu.com
 api.intercom.io
 api.io.mi.com
 api.ip.sb
@@ -23308,7 +23307,6 @@ app-analytics-cn.huami.com
 app-analytics-ru.huami.com
 app-analytics.huami.com
 app-cdn.2q10.com
-app-cdn.2q10.com.wswebpic.com
 app-clicks.firstrepublic.com
 app-down.xiaohaowen.com
 app-dynamics.com
@@ -23423,7 +23421,6 @@ app.mi.com
 app.mktg.genesys.com
 app.moji001.com
 app.monetizze.com.br
-app.monetrack.com
 app.mover.io
 app.myzaker.com
 app.nasyun.com
@@ -23825,7 +23822,6 @@ appleid.berlin
 appleid.cdn-apple.com
 appleid.com
 appleid.hamburg
-appleid.idms-apple.com.akadns.net
 appleimac.com
 appleinsider.com
 appleiphone.hu
@@ -42702,7 +42698,6 @@ cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
 cmsa.com.ar
-cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmsc106.net
@@ -48412,7 +48407,6 @@ d24afgsm39csxt.cloudfront.net
 d24cze5sab2jwg.cloudfront.net
 d24n15hnbwhuhn.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
-d25dfknw9ghxs6.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d25vwvprbxda9z.cloudfront.net
 d25xkbr68qqtcn.cloudfront.net
@@ -62919,6 +62913,7 @@ fang99.cc
 fang99.com
 fangbaoqiang.net
 fangbei.org
+fangbianle.com
 fangbx.com
 fangcang.com
 fangchan.com
@@ -64307,7 +64302,6 @@ file-prpr-muse-dash.peropero.net
 file-r-oa-2.net.daraz.com
 file-spring.net.daraz.com
 file.40017.cn
-file.822522.com
 file.869d.com
 file.apicvn.com
 file.berndpulchmedotcom.net.daraz.com
@@ -65145,7 +65139,6 @@ flow.10010.com
 flow.ci
 flow.concord.systems
 flow.dev
-flow.dmall.com
 flow.io
 flow.org
 flow.qq.com
@@ -122285,6 +122278,7 @@ perigold.com
 perigord-as.com
 perimeterx.net
 period-calendar.com
+periodicgames.com
 periodistadigital.com
 periscope.tv
 perk0mean.com

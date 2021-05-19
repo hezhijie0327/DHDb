@@ -4619,7 +4619,6 @@
 72dns.net
 72dy.com
 72en.com
-72jd.com
 72k.us
 72la.com
 72pro.cc
@@ -5736,6 +5735,7 @@
 98tt.com
 98vip.com
 99-idc.com
+99.140.197.113.zz.countries.nerd.dk
 99.47.102.212.zz.countries.nerd.dk
 99.93.224.101.zz.countries.nerd.dk
 99.cr.rs
@@ -12423,6 +12423,7 @@ api.betterttv.net
 api.bitp.it
 api.bounceexchange.com
 api.breezip.com
+api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.bunzlaucastle.com
@@ -54574,6 +54575,7 @@ kejik.com
 kejimeixue.com
 kejk.tech
 kekaku.com
+kekepx.com
 kekiss.com
 kelbymediagroup.com
 kelepi.com

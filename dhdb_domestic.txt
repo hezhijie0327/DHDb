@@ -6626,6 +6626,7 @@
 9000gou.com
 9000idc.com
 900112.com
+900678.com
 900cha.com
 900ppt.com
 900top.com
@@ -18243,6 +18244,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -52949,7 +52951,6 @@ qiti88.com
 qitian.biz
 qitoon.com
 qiu-ai.com
-qiu.com
 qiucinews.com
 qiudian.net
 qiufaqf.com

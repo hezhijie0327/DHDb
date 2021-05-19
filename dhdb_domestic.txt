@@ -2190,6 +2190,7 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
+2.android.pool.ntp.org
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
@@ -4756,7 +4757,6 @@
 54manong.com
 54ncor2.cdnnodedns.cn
 54op.com
-54paike.com
 54read.com
 54ske.com
 54traveler.com
@@ -38548,7 +38548,6 @@ js.qajypx.com
 js.qqsort.com
 js.ruiwen.com
 js.safe524.xyz
-js.saiqizhi.com
 js.sanwen.net
 js.shangxueba.com
 js.sohu.com
@@ -60558,7 +60557,6 @@ swwlotus.com
 swws10007.taojindi.com
 swws10011.taojindi.com
 swwy.com
-swykjgs.com
 sx.c21.com.cn
 sx.gsxt.gov.cn
 sx189.com

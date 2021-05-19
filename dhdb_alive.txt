@@ -1945,6 +1945,7 @@
 123456.la
 1234567.com.cn
 123456789.tv
+1234567b.com
 12345good.com
 12345good.net
 12345proxy.com
@@ -11461,7 +11462,6 @@
 86qc.com
 86sb.com
 86shouji.com
-86sjx.com
 86uuu.com
 86wapf9s.v1d.szbdyd.com
 86wfge7o.v1d.szbdyd.com
@@ -17165,7 +17165,6 @@ ads.ictnews.vn
 ads.ign.com
 ads.illuminatednation.com
 ads.imagistica.com
-ads.img.co.za
 ads.imgur.com
 ads.indeed.com
 ads.independent.com.mt
@@ -24283,7 +24282,6 @@ architecturaldigest.com
 archive.anvil.org.ph
 archive.fo
 archive.is
-archive.istio.io
 archive.li
 archive.md
 archive.org
@@ -42532,7 +42530,6 @@ cmbajia.com
 cmbc.com.cn
 cmbchina.com
 cmbchina.net
-cmbchinaucs.com
 cmbeb5visa.cn
 cmbi.com.hk
 cmbimg.com
@@ -44924,6 +44921,7 @@ content.cercle-actionnaires.bnpparibas
 content.cin7.com
 content.circlesstudio.com
 content.claris.com
+content.clipster.ws
 content.cloudflare.com
 content.cmpsolutions.com
 content.connects.designeverest.com
@@ -53900,6 +53898,7 @@ dnsdns.xyz
 dnsdojo.com
 dnsdojo.net
 dnsdojo.org
+dnsdun.net
 dnses.alekberg.net
 dnset.com
 dnsfang.com
@@ -66678,7 +66677,6 @@ frnr.duckdns.org
 frntgq1w.sched.s2-dk.tdnsv5.com
 frog.wix.com
 frog9alea.com
-froggy.link
 froglytics.eventfrog.ch
 froling.bee.pl
 from-al.com
@@ -67863,6 +67861,7 @@ gab.com.tr
 gabalmania.com
 gabgabhouse.com
 gabipaltrova.com
+gabiplay.com
 gabo8.com
 gabocorp.com
 gabtrends.com
@@ -78844,6 +78843,7 @@ hnmsw.com
 hnmuseum.com
 hnmyyz.com
 hnntube.com
+hnnuaa.willhaben.at
 hnnx.com
 hnnxs.com
 hnnzwhyy.com
@@ -130774,6 +130774,7 @@ r.reklama.biz
 r.sax.sina.com.cn
 r.scoota.co
 r.sinaimg.cn
+r.tinmoi24.vn
 r.topdent.ru
 r.toplaygame.ru
 r.turn.com

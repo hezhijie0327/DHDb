@@ -11152,7 +11152,6 @@ astyle.alicdn.com.danuoyi.alicdn.com
 asus.com.cn
 asus.youdemai.com
 asussmart.com
-asussz-zp.com
 async.qun.qq.com
 asyzonline.com
 at-img1.tdimg.com
@@ -17277,6 +17276,7 @@ chuangyejia.vip
 chuangyejmw.com
 chuangyijisu.com
 chuangyouqi.com
+chuangyunet.com
 chuangzaoshi.com
 chuanjiaoban.com
 chuanke.com
@@ -39280,6 +39280,7 @@ k35-pkg.gslb.ksyuncdn.com
 k35.gslb.ksyuncdn.com
 k366.com
 k369.com
+k4nz.com
 k5-toutiao-ml.gslb.ksyuncdn.com
 k5-v6-meituan-d.gslb.ksyuncdn.com
 k5-v6-meituan.gslb.ksyuncdn.com

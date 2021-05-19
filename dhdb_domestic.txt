@@ -2193,7 +2193,6 @@
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
-2.centos.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
 2.pic.pc6.com
@@ -10611,7 +10610,6 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net

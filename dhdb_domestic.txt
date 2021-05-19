@@ -10232,6 +10232,7 @@ api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -30912,7 +30913,6 @@ haowuyunji.com
 haowuyx.com
 haoxdai.com
 haoxipu.com
-haoxiyou.com
 haoxue.com
 haoxue360.com
 haoxuetang99.com
@@ -40974,6 +40974,7 @@ lboyue.com
 lbrbis.com
 lbs.mail.163.com
 lbs.map.qq.com
+lbs.netease.im
 lbs.pandora.xiaomi.com
 lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com

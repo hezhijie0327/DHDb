@@ -1228,7 +1228,6 @@
 132lawyer.com
 1330073.b2b.liebiao.com
 1330257.shop.liebiao.com
-13322.com
 1334242.b2b.jinanfa.cn
 1337544.sched.sma-dk.tdnsv5.com
 13377608388.com
@@ -10390,6 +10389,7 @@ api.weixin.qq.com
 api.wesure.cn
 api.wmpvp.com
 api.wsq.umeng.com
+api.wtzw.com
 api.wxlink.szyuexin.com.cn
 api.xd.com
 api.xiachufang.com
@@ -12596,7 +12596,6 @@ beacons5.gvt3.com
 beadwallet.com
 bear20.com
 bearad.com
-bearead.com
 bearjoy.com
 bearminers.xyz
 bearrental.com
@@ -26321,7 +26320,6 @@ fanwenq.com
 fanwenzhan.com
 fanxian.com
 fanxianke.com
-fanxiaocuo.com
 fanxiaojian.com
 fanxing.com
 fanxing.kugou.com
@@ -36101,7 +36099,6 @@ iosapps.itunes.apple.com.m.alikunlun.net.v.vvpncdn.com
 iosapps.itunes.apple.com.w.alikunlun.com
 iosapps.itunes.g.aaplimg.com
 iosappx.com
-iosask.com
 ioschina.cc
 iosfengwo.com
 ioshost.qtlcdn.com

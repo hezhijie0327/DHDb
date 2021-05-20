@@ -30843,6 +30843,7 @@ dl.airtable.com
 dl.benefits.express-scripts.com
 dl.box.net
 dl.browsermine.com
+dl.delivery.mp.microsoft.com
 dl.dell.com
 dl.devmate.com
 dl.discordapp.net
@@ -44522,6 +44523,7 @@ gu-global.com
 gu-pix.appspot.com
 gu.5.p2l.info
 gu.com
+gu.dyntrk.com
 gu.twimg.com
 gu7socdn.txxx.com
 guabu.com
@@ -69025,7 +69027,6 @@ ocsp.verisign.com
 ocsp05.actalis.it
 ocsp2.globalsign.com
 ocspx.digicert.com
-oct-asia.com
 octanevpn.com
 octanime.net
 octanner.com

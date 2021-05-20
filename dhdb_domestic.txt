@@ -10148,6 +10148,7 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
+api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -11173,6 +11174,7 @@ at4.doubanio.com
 at58.com
 at78.com
 at851.com
+at98.com
 ata-test.net
 atacchina.com
 atanx.alicdn.com
@@ -16464,7 +16466,6 @@ cheyian.com
 cheyipai.com
 cheyishang.com
 cheyisou.com
-cheyooh.com
 cheyou123.com
 cheyun.com
 cheyuu.com
@@ -17162,6 +17163,7 @@ chn-feedback.adsrvr.cn
 chn.chinamil.com.cn
 chn112.com
 chn168.com
+chn789.net
 chnart.com
 chnau99999.com
 chnbook.org

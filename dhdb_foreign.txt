@@ -483,6 +483,7 @@
 1-ps.googleusercontent.com
 1-r-is-1-2.net.daraz.com
 1.07swz.com
+1.07swz.com.cname756.yjs-cdn.com
 1.15.73.106.zz.countries.nerd.dk
 1.231.196.126.zz.countries.nerd.dk
 1.ajiyuming.com
@@ -519,6 +520,7 @@
 10.client-channel.google.com
 10.courier-push-apple.com.akadns.net
 10.courier2-push-apple.com.akadns.net
+10.eve.dyx.com
 10.im.cz
 10.rarbg.com
 10.rarbg.me
@@ -1993,6 +1995,7 @@
 2378.com
 237yu.com
 238.128.27.61.zz.countries.nerd.dk
+2380.ml
 238b9aa1e321eaf3d889b88ff0be8cc3.clo.footprintdns.com
 239900.com
 23cpc.com
@@ -3746,6 +3749,7 @@
 52zhushan.com
 52zwxs.com
 52zzl.com
+53.34.243.47.zz.countries.nerd.dk
 53.etowns.net
 53.my03.com
 531.tw
@@ -83263,7 +83267,6 @@ show.9zwang.com
 show.aikantube.com
 show.buzzcity.net
 show.everytell.com
-show.qx15.com
 show.tcth8.com
 show160.com
 showav.tv

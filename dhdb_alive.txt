@@ -23811,6 +23811,7 @@ appleid.berlin
 appleid.cdn-apple.com
 appleid.com
 appleid.hamburg
+appleid.idms-apple.com.akadns.net
 appleimac.com
 appleinsider.com
 appleiphone.hu
@@ -84322,7 +84323,6 @@ img.hunantv.com
 img.hunantv.com.w.kunlunar.com
 img.huxiucdn.com
 img.huzhi.org.cn
-img.i8xz.com
 img.icons8.com
 img.idongde.com
 img.ifeng.com
@@ -155737,7 +155737,6 @@ tls1.cdnudns.com
 tls13.1d.pw
 tls13.taboola.map.fastly.net
 tlselite.com
-tlssyg.com
 tlstwy.com
 tlsy.cy.com
 tlte.com

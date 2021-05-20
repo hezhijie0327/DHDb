@@ -1414,7 +1414,6 @@
 101jm.net
 101ms.com
 101newsmedia.com
-101sihu.com
 101weiqi.com
 101xp.com
 1020m.com
@@ -15295,7 +15294,6 @@ act.commercial.shouji.360.cn
 act.convergencetraining.com
 act.cwsglobal.org
 act.daoju.qq.com
-act.dmall.com
 act.guanjia.qq.com
 act.online.engineering.nyu.edu
 act.pivotpointsecurity.com
@@ -67043,6 +67041,7 @@ fulijd.com
 fulimin.org
 fulin.org
 fulinbox.1688.com
+fulinedu.com
 fuling.com
 fulingwx.com
 fulione.com
@@ -108694,6 +108693,7 @@ mino.tw
 minor-tech.com
 minorshort.weixin.qq.com
 minoutohd.000webhostapp.com
+minpro.n.shifen.com
 minr.nullrefexcep.com
 minr.pw
 minra.com
@@ -148941,7 +148941,6 @@ storage.jd.com
 storage.jd.com.gslb.qianxun.com
 storage.live.com
 storage.lp1.scsi.srv.nintendo.net
-storage.onlinetv.media
 storage.qoo-static.com
 storage.spencerwoo.com
 storage.trafic.ro
@@ -155470,6 +155469,7 @@ tj900.com
 tjae.cn
 tjaide.com
 tjaqq.smoba.qq.com
+tjashy.com
 tjbearing.com
 tjbfpx.com
 tjbh.com
@@ -163678,7 +163678,6 @@ vbidc.com
 vbinr.com
 vbiquge.com
 vbmcms.com
-vboba.com
 vbr.ru
 vbrick.com
 vbsemi.com

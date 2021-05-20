@@ -7838,7 +7838,6 @@ abtest.tantanapp.com
 abto.cc
 abuquant.com
 abuyun.com
-ac-dun.security.ntes53.netease.com
 ac.51job.com
 ac.86huoche.com
 ac.atpanel.com
@@ -27278,7 +27277,6 @@ fonts-gstatic.wp-china-yes.net
 fonts-gstatic.yecdn.com
 fonts.geekzu.org
 fonts.googleapis.com
-fonts.gstatic.com
 fonts.yecdn.com
 fontstar.com.cn
 foodbk.com
@@ -36343,6 +36341,7 @@ ircmnr.com
 ireader.com
 ireader.qq.com
 ireadercity.com
+ireaderm.net
 ireadweek.com
 ireadyit.com
 irealtech.com
@@ -38102,6 +38101,7 @@ jjvod.tv
 jjwxc.com
 jjwxc.net
 jjwxc.org
+jjxj.org
 jjxyls.com
 jjyx.com
 jjyy.me
@@ -50903,6 +50903,7 @@ poobbs.com
 poocg.com
 poofx.com
 pook.com
+pool.ntp.org
 pool.v6.bt.n0808.com
 poolct.17173.com
 pooldist.shouyou.com

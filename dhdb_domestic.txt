@@ -4346,6 +4346,7 @@
 51rc.com
 51rcsl.com
 51read.site
+51readhome.com
 51reboot.com
 51rencai.com
 51render.com
@@ -32902,6 +32903,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.push.oppomobile.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
 httpsbaidu.com

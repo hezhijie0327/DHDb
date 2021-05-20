@@ -1702,6 +1702,7 @@
 2.biqle.ru
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
+2.centos.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.courier2-push-apple.com.akadns.net
 2.cr.rs
@@ -30837,7 +30838,6 @@ dl.airtable.com
 dl.benefits.express-scripts.com
 dl.box.net
 dl.browsermine.com
-dl.delivery.mp.microsoft.com
 dl.dell.com
 dl.devmate.com
 dl.discordapp.net

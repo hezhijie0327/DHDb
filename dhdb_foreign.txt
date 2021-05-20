@@ -12415,7 +12415,6 @@ api.betterttv.net
 api.bitp.it
 api.bounceexchange.com
 api.breezip.com
-api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.bunzlaucastle.com
@@ -15905,7 +15904,6 @@ bbb.po888.net
 bbb111.com
 bbb112.net
 bbb2017.duckdns.org
-bbb36.net
 bbb916.net
 bbbaaa.com
 bbbb.com
@@ -44260,7 +44258,6 @@ greenpeace.org
 greenplum.net
 greenproxy.net
 greenreadings.com
-greenseer.com.ar
 greensender.pl
 greensolutions.ro
 greensolver.net

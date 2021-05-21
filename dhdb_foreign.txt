@@ -491,6 +491,7 @@
 1.231.196.126.zz.countries.nerd.dk
 1.ajiyuming.com
 1.appexchange.com
+1.asia.pool.ntp.org
 1.bb5522.ws
 1.bb6688.ws
 1.bh5.com.cn
@@ -12210,6 +12211,7 @@ anycast.dns1.nextdns.io
 anycast.loli.net
 anycast.me
 anyclip.com
+anydd.com
 anyelse.com
 anyiidc.com
 anyporn.com
@@ -12588,7 +12590,6 @@ api.raycast.app
 api.rb.sbixby.com
 api.recaptcha.net
 api.rees46.com
-api.reon.club
 api.retargetly.com
 api.reviews.co.uk
 api.rnet.plus

@@ -36254,7 +36254,6 @@ captive.apple.com.edgekey.net
 captive.g.aaplimg.com
 capture.condenastdigital.com
 capture.crutchfield.com
-capture.trackjs.com
 captureage.com
 capvision.com
 capwhale.com
@@ -64883,6 +64882,7 @@ fjmstc.com
 fjmwjx.com
 fjndwb.com
 fjnet.com
+fjnjl.net
 fjonlinefair.com
 fjotic.com
 fjpinvestment.com
@@ -111026,7 +111026,6 @@ msyos.com
 msypr.com
 mszmapp.com
 mszq.com
-mszsx.com
 mszxyh.com
 mt-bbs.com
 mt-finance.com

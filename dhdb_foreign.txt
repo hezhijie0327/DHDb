@@ -4,7 +4,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -2933,7 +2932,6 @@
 39kf.com
 39meitu.com
 39mo.com
-39shubao.com
 39sk.com
 39vpn.com
 39ws.com
@@ -12410,6 +12408,7 @@ api-xspacewww.partner.net.daraz.com
 api.140proof.com
 api.24kidea.com
 api.a5188yes.com
+api.account.xiaomi.com
 api.accounts.firefox.com
 api.accounts.nintendo.com
 api.ad-locus.com
@@ -12911,6 +12910,7 @@ appcloud.com
 appcloudcdn.com
 appconsent.io
 appcontent.serif.com
+appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appduu.com
@@ -45221,7 +45221,6 @@ hamptoroads.com
 hamropatro.com
 hamster.darkbit.io
 hamza1366.hopto.org
-han-cang.com
 han-duty.com
 han-tang.cc
 han66.com

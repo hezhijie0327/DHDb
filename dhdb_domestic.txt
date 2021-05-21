@@ -19101,7 +19101,6 @@ console.cdnetworks.com
 consolebench.cn-hangzhou.log.aliyuncs.com
 consolecgi.qidian.qq.com
 consumeweb.alipay.com
-contactapi.micloud.xiaomi.net
 contacts.163.com
 contacts.fe.apple-dns.cn
 content.1688.com
@@ -28048,7 +28047,6 @@ galend.gallerycdn.azure.cn
 galiaoba.com
 galitv.alicdn.com
 galleon.dmall.com
-galleryapi.micloud.xiaomi.net
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
 gallopgazelle.com

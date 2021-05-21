@@ -22724,6 +22724,7 @@ api.health.comm.miui.com
 api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
+api.hfyhjg.cn
 api.home.news.cn
 api.huangye.miui.com
 api.hubapi.com
@@ -58591,7 +58592,6 @@ edge-034.hkhkg-2.ce.apple-dns.net
 edge-034.hkhkg-2.icloud-content.com
 edge-040.uslax2.icloud-content.com
 edge-chat.instagram.com
-edge-dl.andomedia.com
 edge-interaction.net.daraz.com
 edge-keele-nnw-leis-mc-leis.net.daraz.com
 edge-mqtt.facebook.com
@@ -91270,7 +91270,6 @@ jkys5.com
 jkzdny.go-sport.com
 jkzhilu.com
 jkzl.com
-jl-news.com
 jl-zh.com
 jl.61.com
 jl.people.com.cn

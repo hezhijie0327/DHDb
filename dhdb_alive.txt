@@ -24034,6 +24034,7 @@ apps.idata.qq.com
 apps.identrust.com
 apps.itunes-nocookie.com
 apps.itunes.apple.com.edgekey.net
+apps.microsoft.com
 apps.mobilityware.com
 apps.mzstatic.com
 apps.mzstatic.com.edgekey.net
@@ -129374,6 +129375,7 @@ qpby00.com
 qpby0055.com
 qpby0066.com
 qpby0077.com
+qpby0088.com
 qpby0099.com
 qpby11.com
 qpby2255.com

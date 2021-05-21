@@ -8573,7 +8573,6 @@ ads.blixem.nl
 ads.blog.com
 ads.bluemountain.com
 ads.boerding.com
-ads.bonniercorp.com
 ads.bonnint.net
 ads.boomtown.net
 ads.boylesports.com
@@ -45553,7 +45552,6 @@ hbolag.hb-api.omtrdc.net
 hbomax.com
 hbonow.com
 hbopenbid.pubmatic.com
-hbqq.com
 hbr.org
 hbrb.net
 hbrcgd.com
@@ -64931,6 +64929,7 @@ movieweb.com
 moving.com
 movingimage.com
 movixhub.com
+movshow.com
 movzap.com
 mowd.idv.tw
 mown5gaze.com
@@ -76434,6 +76433,7 @@ qp832.com
 qpby00.com
 qpby0066.com
 qpby0077.com
+qpby0088.com
 qpby0099.com
 qpby11.com
 qpby2255.com

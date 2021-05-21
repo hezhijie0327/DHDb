@@ -29973,7 +29973,6 @@ bi-druginforequest.com
 bi-flogger-alb-ext-343643057.us-east-1.elb.amazonaws.com
 bi-log.aihuishou.com
 bi-mall.meituan.com
-bi-pipeline-collector.stylight.net
 bi-sensors.duxiaoman.com
 bi-si.xyz
 bi-si1.xyz
@@ -115380,7 +115379,6 @@ noblecasino.com
 noblepoker.com
 noblequran.com
 nobletonedu.com
-noblock.pro
 noblock.ru
 nobol.idv.tw
 nocang.com

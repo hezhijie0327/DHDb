@@ -12457,6 +12457,7 @@ api.betterttv.net
 api.bitp.it
 api.bounceexchange.com
 api.breezip.com
+api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.bunzlaucastle.com
@@ -18856,7 +18857,6 @@ bn2k.92.etowns.org
 bn3p-cor001.api.p001.1drv.com
 bn65.com
 bna.com
-bnapp.com
 bnaz.org
 bnbzaubernuss.ch
 bnc.autopass.xyz
@@ -31033,7 +31033,6 @@ dm258.com
 dm3cor003-com.be.1drv.com
 dm3cor004-com.be.1drv.com
 dm530.net
-dm77.com
 dm7gsepi27zsx.cloudfront.net
 dmarcdigests.com
 dmas.com.au
@@ -47496,7 +47495,6 @@ hsck8.com
 hsdn.org
 hsfacebook.com
 hsfdc.com
-hsgsrj.com
 hsh-bh.com
 hshv.7kzw.com
 hshymanor.com
@@ -52628,6 +52626,7 @@ javaweb.io
 javaweb.org
 javaworld.com
 javbaike.com
+javbo.net
 javbooks.com
 javbus.cc
 javbus.co

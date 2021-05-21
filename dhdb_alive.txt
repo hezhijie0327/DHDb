@@ -1586,7 +1586,6 @@
 11.mydrivers.com
 11.rarbg.com
 11.tlu.dl.delivery.mp.microsoft.com
-11.yiqig.com
 110.com
 11000011.com
 11007398.com
@@ -37145,7 +37144,6 @@ ccmd.coveredca.com
 ccmdl.adobe.com
 ccmdls.adobe.com
 ccme.cc
-ccmetro.com
 ccmfcm.com
 ccmh13.com
 ccmodel.com
@@ -112660,6 +112658,7 @@ na-ab32.marketo.com
 na-lon05.marketo.com
 na-lon09.marketo.com
 na-sika.com
+na-sj23.marketo.com
 na.ads.yahoo.com
 na.albtls.t.co
 na.ddns.name
@@ -113305,6 +113304,7 @@ nd.mdfull.com
 nd065287.deflanid.com
 nd090.com
 nd15.com
+nd56.com
 ndapp.com
 nddaily.com
 nddmed.com
@@ -139872,6 +139872,7 @@ shangyuer.com
 shangzhibo.tv
 shangzhou.baixing.com
 shanhaizhanji.com
+shanhe.cc
 shanhu99.com
 shanhuojiaoyi.com
 shanhuu.com
@@ -140287,7 +140288,6 @@ shenyangoffice.com
 shenyecg.com
 shenyehd.com
 shenyequ.com
-shenyongxiang.com
 shenyou.cn
 shenyou.tv
 shenyun.com

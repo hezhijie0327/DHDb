@@ -3647,7 +3647,6 @@
 520ccc.cc
 520dyfx.com
 520im.com
-520jita.com
 520jr.com
 520lbl.com
 520ldf.com
@@ -13802,6 +13801,7 @@ asia.marketo.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
+asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -37359,7 +37359,6 @@ feikebt.com
 feikebt.pw
 feikong.cc
 feikong.in
-feilaoju.com
 feillie.com
 feilong.me
 feimaojiasu.com
@@ -51110,6 +51109,7 @@ intercom.com
 intercom.io
 intercontinental.com
 interface.com
+interface.music.163.com
 interfax.ru
 interflora.es
 interflora.fr
@@ -70255,6 +70255,7 @@ op00w.baiyangzs.com
 op7.agilebits.com
 opalanz.com
 opank.com
+opatseg.com
 opciondragon.cl
 opco.com
 ope99.com

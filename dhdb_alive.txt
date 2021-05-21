@@ -1863,7 +1863,6 @@
 120bjgcyy.org
 120btc.com
 120fd.com
-120gz.com
 120hpyy.com
 120kaoshi.com
 120kid.com
@@ -23539,7 +23538,6 @@ appanalysis.banggood.com
 appao.com
 appapi.17house.com
 appapi.dmall.com
-appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
 appbacklog.dftoutiao.com
@@ -37015,7 +37013,6 @@ ccc-x.jd.com
 ccc-x.jd.com.gslb.qianxun.com
 ccc.sys.miui.com
 ccc.x.jd.com
-ccc.xx578.com
 ccc112.net
 ccc333.weebly.com
 ccc63.net
@@ -92588,6 +92585,7 @@ juhangye.com
 juhaof.com
 juhaokan.org
 juhe.com
+juhemulu.com
 juheweb.com
 juheying.com
 juhuaren.com
@@ -102964,6 +102962,7 @@ m7.lefile.cn
 m7.lefile.cn.wswebcdn.com
 m7.music.126.net
 m701.music.126.net
+m78.co
 m8.music.126.net
 m8.music.126.net.w.kunlungr.com
 m801.music.126.net
@@ -128929,7 +128928,6 @@ qiniutek.com
 qiniuts.com
 qinjia.gallerycdn.azure.cn
 qinlake.com
-qinliancf.com
 qinmanga.com
 qinms.com
 qinqiang.org

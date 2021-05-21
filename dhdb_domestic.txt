@@ -7407,7 +7407,6 @@ a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
 a.dlads.cn
-a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -14660,6 +14659,7 @@ ca168.com
 ca2008.shop.liebiao.com
 ca231.com
 ca39.com
+ca687.com
 ca77d8615eccf0101e8ba9d27b2d4f2c.v.smtcdns.net
 ca800.com
 caaa-spacechina.com
@@ -36107,6 +36107,7 @@ ios.rqd.qq.com
 ios8.app
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
+iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -37488,7 +37489,6 @@ jianzhijiaoyu.com
 jianzhikeji.com
 jianzhila.net
 jianzhimao.com
-jianzhiwangzhan.com
 jianzhiyixin.com
 jianzhu2008.com
 jiaoben.ganji.cn
@@ -56484,6 +56484,7 @@ sdlldj.com
 sdlongli.com
 sdly35.com
 sdmic.com
+sdn.geekzu.org
 sdnfv.org
 sdnjsbc.com
 sdnlab.com

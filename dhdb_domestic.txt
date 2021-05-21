@@ -32061,7 +32061,6 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -47495,6 +47494,7 @@ ningmengdou.com
 ningmengyun.com
 ningmoe.com
 ningoo.net
+ningto.com
 nington.com
 ningxingxing.com
 ningxinm1.com
@@ -58707,6 +58707,7 @@ sms-callback.dftoutiao.com
 sms.ads.oppomobile.com
 sms.wo186.tv
 sms9.net
+smsapi.micloud.xiaomi.net
 smsbao.com
 smshx.com
 smskb.com

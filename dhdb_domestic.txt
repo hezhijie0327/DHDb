@@ -21343,6 +21343,7 @@ dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
+dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -26640,7 +26641,6 @@ feigedaojia.com
 feih.com.cn
 feihua.com
 feihuadns.com
-feihulive.com
 feihuo.com
 feihutaoke.com
 feiji.qq.com
@@ -40860,7 +40860,6 @@ lanzhouunicom.com
 lanzhuwh.com
 lanzou.com
 lanzoui.com
-lanzous.com
 lanzoux.com
 lanzun.net
 lao9123.com
@@ -45050,7 +45049,6 @@ mibugs.com
 mic-s.com
 micai.com
 micaiying.com
-micardapi.micloud.xiaomi.net
 micblo.com
 michaelapp.com
 michelam.com

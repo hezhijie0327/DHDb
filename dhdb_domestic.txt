@@ -1,6 +1,7 @@
 0-100.com
 0-6.com
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 0000gz.com
@@ -8170,7 +8171,6 @@ ad.sohu.com
 ad.suning.design
 ad.tatatimes.com
 ad.tencentmusic.com
-ad.test.ximalaya.com
 ad.thsi.cn
 ad.toutiao.com
 ad.us.sinaimg.cn
@@ -10507,7 +10507,6 @@ apis1.gifshow.com
 apis1.ksapisrv.com
 apis2.gifshow.com
 apis2.ksapisrv.com
-apisnd.heytapmobi.com
 apisoft.df0535.com
 apissl.gifshow.com
 apissl.ksapisrv.com
@@ -11051,7 +11050,6 @@ ashj.com
 ashl7t28u9asxjo1.aliyunddos1011.com
 ashma.info
 ashow.pcpop.com
-asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -14427,7 +14425,6 @@ c.ctags.cn
 c.ctc.w.ximalaya.com
 c.cyhx98.com
 c.d3iz9md.com
-c.dadedaxue.com
 c.data.mob.com
 c.dlyukun.cn
 c.dun.163.com
@@ -32491,7 +32488,6 @@ hongkong.yizhiwechat.com
 hongkou.net
 hongku.com
 hongkunjinfu.com
-hongleishicai.com
 honglongwl.com
 honglulan.com
 hongmen.com
@@ -33203,7 +33199,6 @@ hubei-design.com
 hubei88.com
 hubeibbs.net
 hubeidaily.net
-hubeihome.net
 hubeipbx.com
 hubeiwsd.com
 hubeixuekao.com

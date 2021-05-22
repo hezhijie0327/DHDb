@@ -14156,7 +14156,6 @@ bugrpt.oss-cn-beijing.aliyuncs.com
 bugscan.net
 bugtags.com
 bugucn.com
-bugutime.com
 bugxia.com
 buhuiwan.com
 buhuyo.com
@@ -48935,6 +48934,7 @@ osx.dianping.com
 osx.dianping.com.s2txipv6.cdntip.com
 osx.dpfile.com
 osx.dpfile.com.s2txipv6.cdntip.com
+osxapps.itunes.apple.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
 osxapps.itunes.g.aaplimg.com
@@ -56762,7 +56762,6 @@ senmiaoschool.com
 senra.me
 sensate.hk
 sense-arrival.sm.cn
-sense-cn01.tapdb.net
 sensearch.baidu.com
 senselock.com
 senseluxury.com

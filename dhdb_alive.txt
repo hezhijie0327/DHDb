@@ -149538,7 +149538,6 @@ stun.nimiq-network.com
 stun.paradox-interactive.com
 stun.play.aiseet.atianqi.com
 stun.qqlive.qq.com
-stun.services.mozilla.com
 stun.yunfancdn.com
 stun1.douyucdn.cn
 stun1.nimiq-network.com

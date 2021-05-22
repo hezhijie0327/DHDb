@@ -12352,6 +12352,7 @@ apfi-jatim.org
 apfritts.com
 api-2-0.spot.im
 api-3-0-0.twitter.com
+api-a.op-mobile.opera.com
 api-adservices.apple.com
 api-analytics-bootstrap.metaps.com
 api-analytics.metaps.com
@@ -38922,7 +38923,6 @@ fqsou.com
 fqujub.hema.com
 fqxs.org
 fqzds.com
-fqzhan.com
 fr-beatsbydrestore.com
 fr-go.kelkoogroup.net
 fr-prod.asyncgw.teams.microsoft.com
@@ -45894,6 +45894,7 @@ help.steampowered.com
 help.ubuntu.com
 help.weilianhelp.com
 helpcn.fun315.com
+helpcn.fun727.com
 helpdesk.egnyte.com
 helpeachpeople.com
 helpgrid1.ksmobile.com

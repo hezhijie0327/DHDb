@@ -2437,7 +2437,6 @@ a.clipconverter.cc
 a.cn.miaozhen.com
 a.collective-media.net
 a.dianjoy.com
-a.dmall.com
 a.domob.cn
 a.dounanhuahui.com
 a.duanmeiwen.com
@@ -2806,6 +2805,7 @@ acgsky.win
 achicih.gitee.io
 achsd.com
 acimg.cn
+acingame.com
 ackcdn.net
 acl.stayfriends.de
 acm.beeppool.org
@@ -11761,6 +11761,7 @@ fqgj.net
 fqnews.net
 fqseo.org
 fqsszx.com
+fqzhan.com
 fr.wdc.beeppool.org
 fr1.monerise.com
 fr33dom.h33t.com

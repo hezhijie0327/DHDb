@@ -38540,7 +38540,6 @@ js.gdyjs.com
 js.gomein.net.cn
 js.gsxt.gov.cn
 js.handanxinkai.com
-js.haoxyx.com
 js.icast.cn
 js.idgdmg.com.cn
 js.idgdmgroup.com.cn
@@ -54249,6 +54248,7 @@ r-tms.net
 r.99waiyu.com
 r.alicpd.top
 r.alimc1.top
+r.browser.miui.com
 r.bxb.oupeng.com
 r.djsn888.com
 r.dmp.sina.cn

@@ -17830,6 +17830,7 @@ adserver.filefront.com
 adserver.freecity.de
 adserver.friendfinder.com
 adserver.gameparty.net
+adserver.goforandroid.com
 adserver.gorillanation.com
 adserver.harktheherald.com
 adserver.hellasnet.gr
@@ -88621,7 +88622,6 @@ its-up.com
 its.bjmu.edu.cn
 its.caltech.edu
 its.de
-its.fugetech.com
 its114.com
 itsallgay.eu
 itsaol.com
@@ -102217,7 +102217,6 @@ m.90mh.com
 m.918.com
 m.937920.com
 m.958so.cn
-m.967nd.cn
 m.96mob.com
 m.97tuk.cn
 m.99114.com

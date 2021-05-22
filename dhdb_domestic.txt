@@ -894,7 +894,6 @@
 11.jiangzi.com
 11.jiangzi.com.cname3039.yjs-cdn.com
 11.mydrivers.com
-11.yiqig.com
 110.com
 11000011.com
 1100tk.com
@@ -7848,6 +7847,7 @@ ac.51job.com
 ac.86huoche.com
 ac.atpanel.com
 ac.csdn.net
+ac.dun.163.com
 ac.jice.io
 ac.mmstat.com
 ac.o2.qq.com
@@ -19069,6 +19069,7 @@ congrongfund.com
 congyicn.com
 conn.wemeet.tencent.com
 conn1.coloros.com
+conn1.oppomobile.com
 conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
@@ -21170,7 +21171,6 @@ daup.map.baidu.com
 daup.map.n.shifen.com
 davdian.com
 davidrockburn.gallerycdn.azure.cn
-davinfo.com
 dawaiyu.com
 dawandao.com
 dawaner.net
@@ -40215,7 +40215,6 @@ ksgnr.com
 kshitachi.com
 kshot.com
 ksjgs.com
-ksjsa.com
 ksks001.com
 ksmobile.net
 ksmud58l.sched.sma-dk.tdnsv5.com

@@ -10308,7 +10308,6 @@
 730.nuomi.n.shifen.com
 730011.com
 7306.com
-730700.com
 730bm.com
 73167.com
 731bm.com
@@ -15315,6 +15314,7 @@ act.commercial.shouji.360.cn
 act.convergencetraining.com
 act.cwsglobal.org
 act.daoju.qq.com
+act.dmall.com
 act.guanjia.qq.com
 act.online.engineering.nyu.edu
 act.pivotpointsecurity.com
@@ -61839,6 +61839,7 @@ exness.com
 exnet.su
 exnpk.com
 exntech.com
+exo-mk.com
 exo-ring.msedge.net
 exo.kiev.ua
 exo.nel.measure.office.net
@@ -91059,6 +91060,7 @@ jiweichengzhu.com
 jiwire.com
 jiwu.com
 jixiang10.com
+jixiangbaiwei.com
 jixiangcai.com
 jixiangniutanrou.net
 jixiangtv.com

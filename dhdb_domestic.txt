@@ -15457,7 +15457,6 @@ cdn-9ry8adom.sched.s2.tdnsv5.com
 cdn-adn-https-share.rayjump.com.wswebcdn.com
 cdn-adn-https.rayjump.com
 cdn-adn-https.rayjump.com.wswebpic.com
-cdn-adn.rayjump.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 cdn-api-my.le.com
 cdn-basic.gsgs10086.com
@@ -16175,7 +16174,6 @@ channel.api.duapp.com
 channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
 channel.kandian.qq.com
-channel.m.163.com
 channel.vaptcha.net
 channel.vaptcha.net.w.cdngslb.com
 channel2-account-ssl.xunlei.com
@@ -22102,6 +22100,7 @@ diankeji.com
 diankeshequ.com
 dianlancg.com
 dianler.com
+dianli.com
 dianli08.com
 dianliang8.com
 dianliaoapp.com
@@ -32593,7 +32592,6 @@ hottechsemi.com
 hottui.com
 hotupgrade.hpplay.cn
 hotwill.cn
-hotwp.net
 houbank.com
 houcaller.com
 houdao.net
@@ -35295,6 +35293,7 @@ img.momocdn.com.ox.mftianshanam.com.qr.uuhimalayanqm.com
 img.mosflower.cn
 img.mp.itc.cn
 img.mp.sohu.com
+img.mukewang.com
 img.newvfx.com
 img.nfa.qq.com
 img.nfa.qq.com.sched.px.tdnsv6.com

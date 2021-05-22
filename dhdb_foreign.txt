@@ -30897,6 +30897,7 @@ dl.airtable.com
 dl.benefits.express-scripts.com
 dl.box.net
 dl.browsermine.com
+dl.delivery.mp.microsoft.com
 dl.dell.com
 dl.devmate.com
 dl.discordapp.net
@@ -62002,7 +62003,6 @@ mein-its.de
 mein-jahnreisen.de
 meine-familie-und-ich.de
 meinekette.de
-meinianguoji.com
 meinprospekt.de
 meipic.com
 meiqiu.me
@@ -89230,6 +89230,7 @@ status.minexmr.com
 status.rapidssl.com
 status.thawte.com
 status.twhirl.org
+statusapi.micloud.xiaomi.net
 statuse.digitalcertvalidation.com
 statuspage.io
 statystyki.panelek.com

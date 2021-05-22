@@ -6087,6 +6087,7 @@
 800youhuo.com
 801.tianya.cn
 801.tianyaui.com
+801t.com
 802203.com
 803.tianya.cn
 8036043.fls.doubleclick.net
@@ -32060,6 +32061,7 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site

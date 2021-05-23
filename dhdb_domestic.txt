@@ -7553,7 +7553,6 @@ a3.ikafan.com
 a3.img.static.youmi.net
 a3.jandan.net
 a3116817c6493f49cf3c63caff3962b5.dlied1.cdntips.net
-a32a.com.cn
 a390v39z.sched.s2-dk.tdnsv5.com
 a3a5xi06.sched.pddlego-dk.tdnsv5.com
 a3dbb2db4761ad7d6de576d464c067f6.safeframe.googlesyndication.com
@@ -7840,7 +7839,6 @@ abtest.tantanapp.com
 abto.cc
 abuquant.com
 abuyun.com
-ac-dun.security.ntes53.netease.com
 ac.51job.com
 ac.86huoche.com
 ac.atpanel.com
@@ -17913,7 +17911,6 @@ clyv5jlo.v1d.szbdyd.com
 clyv5jq8.v1d.szbdyd.com
 clyv5jqo.v1d.szbdyd.com
 clyv5jqr.v1d.szbdyd.com
-cm-10-10.getui.com
 cm-10-133.getui.com
 cm-10-134.getui.com
 cm-10-135.getui.com
@@ -27150,7 +27147,6 @@ floor.jd.com.gslb.qianxun.com
 florentiavillage.com
 flow.10010.com
 flow.ci
-flow.dmall.com
 flow.qq.com
 flow.wps.cn
 flowcontroll.dcdn.sandai.net
@@ -31228,6 +31224,7 @@ hcdamai.com
 hcdn2.luffycity.com
 hcdn2.luffycity.com.w.kunlungr.com
 hcdnd100.gslb.c.cdnhwc1.com
+hcdnd120.global.c.cdnhwc6.com
 hcdnl.pull02.gslb.c.cdnhwc2.com
 hcdnl.pulldyin.gslb.c.cdnhwc2.com
 hcdnl.pullhls.gslb.c.cdnhwc2.com
@@ -48917,7 +48914,6 @@ osx.dianping.com
 osx.dianping.com.s2txipv6.cdntip.com
 osx.dpfile.com
 osx.dpfile.com.s2txipv6.cdntip.com
-osxapps.itunes.apple.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
 osxapps.itunes.g.aaplimg.com
@@ -55588,7 +55584,6 @@ s0.meituan.com
 s0.meituan.net
 s0.pstatp.com
 s0.ssl.qhimg.com
-s0.ssl.qhres.com
 s0016.com
 s0017.com
 s0025.com

@@ -10589,7 +10589,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -19068,7 +19067,6 @@ congyicn.com
 conn.wemeet.tencent.com
 conn1.coloros.com
 conn1.oppomobile.com
-conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com
@@ -30612,7 +30610,6 @@ haizihe.com
 haizitong.com
 hajjjc.com
 halfrost.com
-halidown.com
 halihali.li
 halixun.com
 halloar.com
@@ -38567,7 +38564,6 @@ js.ubaike.cn
 js.union-wifi.com
 js.users.51.la
 js.users.51.la.wsdvs.com
-js.xihuangdushu.com
 js.xtgreat.com
 js.xuexila.com
 js.xz6d.com

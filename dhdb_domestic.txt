@@ -3356,7 +3356,6 @@
 371house.com
 371love.com
 371site.com
-371zhongyi.com
 37201.com
 3722.com
 3727.cc
@@ -7847,6 +7846,7 @@ ac.86huoche.com
 ac.atpanel.com
 ac.csdn.net
 ac.dun.163.com
+ac.dun.163yun.com
 ac.jice.io
 ac.mmstat.com
 ac.o2.qq.com
@@ -26770,7 +26770,6 @@ fengyx.com
 fengzhangame.net
 fengzigame.com
 fenha.net
-fenhao.me
 fenlei168.com
 fenlei265.com
 fenleidao.com
@@ -32056,7 +32055,6 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -50908,7 +50906,6 @@ poobbs.com
 poocg.com
 poofx.com
 pook.com
-pool.ntp.org
 pool.v6.bt.n0808.com
 poolct.17173.com
 pooldist.shouyou.com
@@ -60075,6 +60072,7 @@ store.sdbao.com
 store.shuidichou.com
 store.st.dl.pinyuncloud.com
 store.steamchina.com
+store.storevideos.cdn-apple.com
 store.sunlands.com
 store.sunlands.com.wswebcdn.com
 store.taobao.com

@@ -9553,7 +9553,6 @@ dnscheck.adguard.com
 dnscom.work
 dnscpu.com
 dnscpu.net
-dnsddos.com
 dnsdun.com
 dnsdyn.xyz
 dnsece.com
@@ -10730,7 +10729,6 @@ edu.sa
 edu.sg
 edu.tr
 edu.widion.com
-edu5a.com
 eduancm.com
 educate.theowl.gr
 eduinhk-my.sharepoint.com
@@ -22352,6 +22350,7 @@ repk1124.xyz
 repo.akii.ml
 report-ads-sdk.upltv.com
 report-zt.allmusic.com
+report.dx.vip.tantanapp.com
 report.huatuo.qq.com
 report.mobile.kukuplay.com
 report.qq.com

@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 0000gz.com
@@ -22823,6 +22822,7 @@ dns567.com
 dns800.com
 dnsapi.cn
 dnscnc.com
+dnsddos.com
 dnsdiy.com
 dnsfang.com
 dnsff.com
@@ -24957,6 +24957,7 @@ edu03.com
 edu0851.com
 edu201.com
 edu510.com
+edu5a.com
 edu63.com
 edu777.com
 edu80.com
@@ -26967,7 +26968,6 @@ financeun.com
 finbtc.net
 finchain.info
 finchina.com
-find.api.micloud.xiaomi.net
 find.qq.com
 findermp.video.qq.com
 finderweb.net
@@ -41615,7 +41615,6 @@ libaopay.com
 libaoyun.com
 libfre.obs.cn-east-3.myhuaweicloud.com
 libii.cn
-libisky.com
 libomarathon.com
 libra.cp31.ott.cibntv.net
 library.bjmu.edu.cn
@@ -54726,7 +54725,6 @@ report-uri.baidu.com
 report-vip-ssl.xunlei.com
 report.adview.cn
 report.cms.qq.com
-report.dx.vip.tantanapp.com
 report.gamecenter.qq.com
 report.gome.com.cn
 report.idqqimg.com

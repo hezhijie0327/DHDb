@@ -13798,7 +13798,6 @@ asia.marketo.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
-asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -24841,7 +24840,6 @@ cncenter.cz
 cnchanran.com
 cnciyuan.com
 cnclifttruck.com
-cncncloud.com
 cncnki.com
 cncoolm.com
 cncrivals.com
@@ -41647,7 +41645,6 @@ glucerna.com
 gluckman.com
 gluckysecrets.com
 gluware.com
-glvs.com
 glxdlf.tickets.ua
 glyh.org
 glype.com
@@ -66200,6 +66197,7 @@ nanang.web.id
 nanapro.org
 nanawall.com
 nanchao.win
+nanerjia.com
 nanfanggongyuan.fandom.com
 nangmuislinedep.com.vn
 nanhuwang.com

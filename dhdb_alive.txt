@@ -19611,7 +19611,6 @@ ak.sascdn.com
 ak1.imgaft.com
 ak1ak1.com
 ak3vc3lx.v1d.szbdyd.com
-ak47.cooguo.com
 ak47fuli.com
 ak633.com
 ak6tc3dz.v1d.szbdyd.com
@@ -30853,7 +30852,6 @@ bizo.com
 bizographics.com
 bizopsmall.com
 bizotrip.com
-bizpai.com
 bizport.cn
 bizppurio.com
 bizrate.com
@@ -41867,6 +41865,7 @@ clickip.hnol.net
 clickjs.cnzz.com
 clicklog.hd.baofeng.com
 clicklog.moviebox.baofeng.com
+clicklog.moviebox.baofeng.net
 clickm.fang.com
 clickm.soufun.com
 clickmail.stubhub.com
@@ -53305,7 +53304,6 @@ dl.95862788.com
 dl.9xu.com
 dl.airtable.com
 dl.arctime.cn
-dl.benefits.express-scripts.com
 dl.box.net
 dl.browsermine.com
 dl.centanet.com
@@ -97369,6 +97367,7 @@ lead.program3.com
 lead.soperson.com
 leadal.com
 leadal.net
+leadbbs.com
 leadboltads.net
 leadbuddy.web-players.co.in
 leadcoretech.com
@@ -113581,6 +113580,7 @@ netdzb.com
 netease-inc.com
 netease.com
 netease.im
+neteasegames.com
 netec.com
 netech-expo.com
 netelixir.com
@@ -126838,6 +126838,7 @@ pubsub-edge.twitch.tv
 pubsub.googleapis.com
 pubsvs.com
 pubt.in
+pubt.net
 pubu.com.tw
 pubu.tw
 pubukeji.com
@@ -136936,6 +136937,7 @@ sccin.com
 sccm.cc
 sccnn.com
 sccq.net
+sccsfxdq.com
 sccts.com
 sccwz.com
 sccycles.cl

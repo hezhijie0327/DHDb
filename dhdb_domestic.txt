@@ -1686,7 +1686,6 @@
 173iot.com
 173kw.com
 173on.com
-173sy.com
 173um.com
 173uu.com
 173zy.com
@@ -10229,7 +10228,6 @@ api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -11408,7 +11406,6 @@ awaimai.com
 awake-stats.jpush.cn
 awaken.amap.com
 awaken.amap.com.gds.alibabadns.com
-awaker.hk
 awaysoft.com
 awbang.com
 awc618.com
@@ -19525,7 +19522,6 @@ cqslib.org
 cqslsc.com
 cqsms.net
 cqsoft.org
-cqsto.com
 cqsxedu.com
 cqsy.org
 cqtally.co

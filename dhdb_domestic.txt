@@ -7895,6 +7895,7 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
+account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com

@@ -15528,6 +15528,7 @@ cdn.cn.gcloudcs.com
 cdn.cnbj1.fds.api.mi-img.com
 cdn.console.aliyun.com
 cdn.convergemob.com
+cdn.cytivalifesciences.com.cn
 cdn.data.video.iqiyi.com
 cdn.data.video.ptqy.gitv.tv
 cdn.dcloud.net.cn
@@ -58454,6 +58455,7 @@ skusoft.com
 skwl.org
 skwo.net
 sky-fire.com
+sky.mohurd.gov.cn
 sky.news.sina.com.cn
 sky.nfcos.cn
 sky.vip.youku.com
@@ -60259,6 +60261,7 @@ sun-ada.net
 sun-lion.com
 sun-wish.com
 sun0769.com
+sun0816.com
 sun440.bjmu.edu.cn
 sun66.net
 sunbloger.com

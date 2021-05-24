@@ -10298,6 +10298,7 @@ api.meishesdk.com
 api.meituan.com
 api.mengtuiapp.com
 api.merro.xyz
+api.micloud.xiaomi.net
 api.microyan.com
 api.middle.transfer.search.miui.com
 api.mini.wps.cn
@@ -41650,7 +41651,6 @@ lieluobo.com
 liemingwang.com
 liepin.com
 liepincc.com
-lieqinews.com
 liesauer.net
 lietou-edm.com
 lietou-static.com
@@ -42570,7 +42570,6 @@ loho88.com
 loji.com
 lol-data-filter.wegame.com.cn
 lol-wegame-client-1258344700.file.myqcloud.com
-lol.17173.com
 lol.aci.game.qq.com
 lol.ams.game.qq.com
 lol.qq.com
@@ -43845,7 +43844,6 @@ mail.sspu.edu.cn
 mail.tsinghua.edu.cn
 mail.vip.jsbc.com
 mail.wo.cn
-mail.yeah.net
 mail1.371.net
 mail163.com
 maila88.com

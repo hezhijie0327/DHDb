@@ -16166,6 +16166,7 @@ channel.api.duapp.com
 channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
 channel.kandian.qq.com
+channel.m.163.com
 channel.vaptcha.net
 channel.vaptcha.net.w.cdngslb.com
 channel2-account-ssl.xunlei.com
@@ -29004,6 +29005,7 @@ glsc.com.cn
 glshimg.com
 gltop.com
 gluons.gallerycdn.azure.cn
+glvs.com
 glwxw.net
 glxlawyer.com
 glzj88.com
@@ -43479,7 +43481,6 @@ m.qianka.com
 m.qidian.qq.com
 m.qiremanhua.com
 m.qpic.cn
-m.qulishi.com
 m.quxiangkeji.cn
 m.qy.net
 m.qzone.com
@@ -45736,7 +45737,6 @@ moew.xyz
 moeyue.com
 mofa.com
 mofanbaby.com
-mofang.com
 mofangge.com
 mofangge.xin
 mofanghr.com

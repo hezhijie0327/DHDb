@@ -42400,6 +42400,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -55634,7 +55635,6 @@ s1.rr.itc.cn
 s1.sonkwo.com
 s1.sonkwo.hk
 s1.ssl.qhimg.com
-s1.ssl.qhres.com
 s1.ssl.qhres2.com
 s1.stat.lianmeng.360.cn
 s1.tansuotv.com

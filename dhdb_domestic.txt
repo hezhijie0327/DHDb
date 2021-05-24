@@ -7540,7 +7540,6 @@ a2.zhanzhang.net
 a20963a208896b77c81a3e08975b71e3.safeframe.googlesyndication.com
 a21fs.com
 a22345.51sole.com
-a2397.oadz.com
 a278ea87.51cto.com.cname.yunduns.com
 a2dongman.com
 a2p-s01-drcn.cloud.dbankcloud.cn
@@ -13116,6 +13115,7 @@ biquge.info
 biqugemm.com
 biqugew.com
 biqugewx.com
+biquku.la
 biransign.com
 bird4d.com
 birdol.com
@@ -51075,6 +51075,7 @@ pptvyun.com
 pptxy.com
 ppui-static-pc.cdn.bcebos.com
 ppui-static-wap.cdn.bcebos.com
+ppurl.com
 ppvabs.pplive.com
 ppvi.net
 ppwan.com

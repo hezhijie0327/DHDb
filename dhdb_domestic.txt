@@ -19061,6 +19061,7 @@ congyicn.com
 conn.wemeet.tencent.com
 conn1.coloros.com
 conn1.oppomobile.com
+conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com
@@ -26572,7 +26573,6 @@ feedads.g.doubleclick.net
 feedback-system.webapp.163.com
 feedback.aliexpress.com
 feedback.amsproxy.qq.com
-feedback.cn.ronghub.com
 feedback.zhangle.com
 feedflpc.jomodns.com
 feedfreev6.jomodns.com
@@ -30078,6 +30078,7 @@ gycode.com
 gydongli.com
 gyersf.com
 gyguohua.com
+gyhj.org
 gyip.net
 gyljc.com
 gymama.com

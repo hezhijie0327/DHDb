@@ -427,7 +427,6 @@
 0730188.com
 0730news.com
 073122.com
-0731cfw.com
 0731fdc.com
 0731i.com
 0731jiaju.com
@@ -10149,6 +10148,7 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
+api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -36014,6 +36014,7 @@ interface.dmzj.com
 interface.im.taobao.com
 interface.sina.cn
 interface2.mxingkong.com.cn
+interface3.music.163.com
 interface3.music.163.com.163jiasu.com
 internal-amis-res.cdn.bcebos.com
 internal-api-security.feishu.cn
@@ -53787,7 +53788,6 @@ quklive.com
 qukuai.com
 qukuailiant.com
 qukuba.com
-qulishi.com
 qulv.com
 qumaiyao.com
 quming66.com

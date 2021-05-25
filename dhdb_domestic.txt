@@ -2183,7 +2183,6 @@
 2.aili.com
 2.android.pool.ntp.org
 2.arpun.com
-2.asia.pool.ntp.org
 2.bashenghuo.com
 2.haoxue360.com
 2.nanrenwo.net
@@ -3916,7 +3915,6 @@
 4u4v.net
 4vidw8.tdum.alibaba.com
 4vxgrax3.sched.sma.tdnsv5.com
-4wxw.com
 4xoss8.tdum.alibaba.com
 4xseo.com
 4y4.net
@@ -31411,7 +31409,6 @@ healthdata.hicloud.com
 healthjd.com
 healthr.com
 healthych.com
-healthyun.com
 heart-game.com
 hearthstone.nosdn.127.net
 heartide.com

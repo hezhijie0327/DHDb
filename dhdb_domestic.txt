@@ -10334,7 +10334,6 @@ api.portal.swjsq.vip.xunlei.com
 api.pr.weixin.qq.com
 api.pwmqr.com
 api.qgroup.qq.com
-api.qianwee.com
 api.qvpublish.com
 api.rlcdn.com
 api.s.suv666.com
@@ -11913,6 +11912,7 @@ baishishuju.com
 baishudata.com
 baishunet.com
 baisiker.com
+baisu.com
 baitaihuge.com
 baiteng.org
 baithu.com

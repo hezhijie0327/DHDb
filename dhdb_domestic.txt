@@ -10298,7 +10298,6 @@ api.meishesdk.com
 api.meituan.com
 api.mengtuiapp.com
 api.merro.xyz
-api.micloud.xiaomi.net
 api.microyan.com
 api.middle.transfer.search.miui.com
 api.mini.wps.cn
@@ -12520,7 +12519,6 @@ bdjs.kaixin100.com
 bdjs.laonanren.com
 bdjs.shangc.net
 bdjs.uimg.cn
-bdjs1.ixiumei.com
 bdjsym.guangyuanol.cn
 bdkyr.com
 bdlm.120askimages.com
@@ -53811,6 +53809,7 @@ quklive.com
 qukuai.com
 qukuailiant.com
 qukuba.com
+qulishi.com
 qulv.com
 qumaiyao.com
 quming66.com

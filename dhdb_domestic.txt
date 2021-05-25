@@ -17703,6 +17703,7 @@ client-api.ele.me
 client-api.itunes.apple.com.mwcname.com
 client-dmp.suishenyun.cn
 client-lz.rili.cn
+client-monitor.tantanapp.com
 client-stats.gclick.cn
 client-upload.cn-shanghai.log.aliyuncs.com
 client.aldtop.com
@@ -59697,7 +59698,6 @@ static.360buyimg.com
 static.36krcdn.com
 static.52pojie.cn
 static.58.com
-static.91feiyong.com
 static.9you.com
 static.adwo.com
 static.agrant.cn

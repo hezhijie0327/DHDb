@@ -579,7 +579,6 @@
 05-enlisted-level3.cdn.gaijin.net
 0504b2c472e31baad06215d2e05a7cd6.dlied1.cdntips.net
 051058.com
-0510syedu.com
 0511w.com
 0512118114.com
 0512fangchan.com
@@ -56910,7 +56909,6 @@ dx-cmts.iqiyi.com
 dx-job.com
 dx-tech.com
 dx.10086.cn
-dx.3.cn
 dx.thermofisher.com
 dx04131.com
 dx2.cc
@@ -75947,7 +75945,6 @@ hacg.red
 hacg.top
 hacg.wiki
 hacg.ws
-hack-cn.com
 hack0nair.me
 hack50.com
 hack520.com
@@ -79900,6 +79897,7 @@ hongmen.com
 hongmoka.com
 hongniang.com
 hongpig.com
+hongpt.com
 hongqi.tv
 hongqipress.com
 hongrenzhuang.site
@@ -93180,7 +93178,6 @@ jtqh.net
 jtracking.lulusoft.com
 jtrn.is.autonavi.com.gds.alibabadns.com
 jtsa.edu
-jtstudy.com
 jttv.net
 jtug.code.poyang.com
 jtuzd.rdtk.io
@@ -110635,6 +110632,7 @@ mobwsa.ximalaya.com
 moby.to
 mobypicture.com
 mobyy-sv-tianmu.yy.com
+mocache.com
 mocashanghai.org
 mochajs.org
 mochashou.com

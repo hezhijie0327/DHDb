@@ -15807,7 +15807,6 @@ ad.kataweb.it
 ad.kddi-fs.com
 ad.keenspace.com
 ad.khan.co.kr
-ad.kissanime.io
 ad.kisscartoon.ac
 ad.kisscartoon.is
 ad.kisscartoon.su
@@ -35847,7 +35846,6 @@ cache.a.market.xiaomi.com
 cache.agilebits.com
 cache.amap.com
 cache.amap.com.danuoyi.tbcache.com
-cache.api-zdj.com
 cache.betweendigital.com
 cache.celtra.com
 cache.cnzz.com
@@ -61705,6 +61703,7 @@ etoro.com
 etoro.com.cn
 etoubao.com
 etouch.cn
+etowns.net
 etowns.org
 etowz.com
 etp.hanetf.com

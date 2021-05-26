@@ -17132,7 +17132,6 @@ chiplayout.net
 chipmanufacturing.org
 chiponeic.com
 chipown.com
-chiprf.com
 chipsbank.com
 chipsec.com
 chipsgo.com
@@ -35895,7 +35894,6 @@ inhdd.com
 inhi.kim
 ini3e.com
 inibiru.com
-inicoapp.com
 inidc.net
 inimc.com
 ininin.com
@@ -39803,7 +39801,6 @@ kgdb.info
 kgfanr.com
 kgimg.com
 kgmobilestat.kugou.com
-kgmobilestatbak.kugou.com
 kgnop2.kugou.com
 kgogame.com
 khdatasolutions.com
@@ -41730,6 +41727,7 @@ lightinit.com
 lightky.com
 lightlygame.com
 lightpassport.com
+lightswitch-public-service-prod06.ol.epicgames.com
 lighttp.com
 lightyy.com
 liguda.com
@@ -52650,7 +52648,6 @@ qianqu.cc
 qianrihong.net
 qianrong.me
 qianrushi.org
-qianshenghua.com
 qiansw.com
 qianvisa.com
 qianw.com

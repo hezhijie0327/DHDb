@@ -3898,6 +3898,7 @@
 2.aili.com
 2.android.pool.ntp.org
 2.arpun.com
+2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.bashenghuo.com
@@ -103293,7 +103294,6 @@ m.admedia.com
 m.adnxs.com
 m.ads.sohu.com
 m.adtiming.com
-m.aduiz.com
 m.adxpop.com
 m.afreecatv.com
 m.aihuishou.com
@@ -112672,7 +112672,6 @@ museoreinasofia.es
 muses-ugc.iqiyi.com
 musescore.com
 museumofthebible.org
-mushapi.com
 mushroomchina.com
 mushroomtube.com
 mushymush.tv
@@ -125207,7 +125206,6 @@ pj7997.com
 pj8866.com
 pj886888.com
 pj8877.com
-pj98887.com
 pjapi.jd.com
 pjapi.jd.com.gslb.qianxun.com
 pjbar.xyz
@@ -137089,6 +137087,7 @@ s3.amazonaws.com
 s3.analytics.blue
 s3.ap-northeast-2.amazonaws.com
 s3.ap-southeast-2.amazonaws.com
+s3.ax1x.com
 s3.buysellads.com
 s3.bytecdn.cn
 s3.bytecdn.cn.w.kunlunpi.com

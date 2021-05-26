@@ -1721,6 +1721,7 @@
 2-wlan-switch.net.daraz.com
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
+2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -38613,7 +38614,6 @@ flagstar.com
 flamary.com
 flare.com
 flash-xxx.com
-flash.sec.miui.com
 flash127.com
 flashempire.com
 flashgames247.com
@@ -46056,7 +46056,6 @@ hao695.com
 hao6v.com
 hao9669.com
 haobanyi.com
-haobb360.com
 haocai138.com
 haocai1688.com
 haochali.cc
@@ -82438,6 +82437,7 @@ savevideo.me
 savewithsrpbiz.com
 saveyoutube.com
 savjee.be
+savoirflare.com
 savoy.cubecdn.net
 savoy.storage.cubecdn.net
 savvas.com

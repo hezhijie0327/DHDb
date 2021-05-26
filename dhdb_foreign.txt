@@ -4,6 +4,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -12603,7 +12604,6 @@ api.cloudmobi.net
 api.codacy.com
 api.codeclimate.com
 api.coinerra.com
-api.comm.miui.com
 api.company-target.com
 api.cookielaw-script.it
 api.cookielaw.eu
@@ -12646,6 +12646,7 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -74881,7 +74882,6 @@ pjbar7.xyz
 pjcrwljs.com
 pjdc0055.com
 pjdc5511.com
-pjdc5522.com
 pjdc5566.com
 pjdc5577.com
 pjdc6622.com

@@ -13389,7 +13389,6 @@ a-ups-presence4-prod-azsc.japanwest.cloudapp.azure.com
 a-ups-presence8-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presence9-prod-azsc.centralus.cloudapp.azure.com
 a-usw.1rx.io
-a-webapi-prod-asse-shiftsa.southeastasia.cloudapp.azure.com
 a.19869.com
 a.198banjia.com
 a.1passwordusercontent.com
@@ -55127,7 +55126,6 @@ doudouba.com
 doudoubianli.com
 doudoubird.com
 doudoudm.com
-doudouyin.com
 doufan.tv
 doufl.com
 doufm.net

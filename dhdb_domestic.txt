@@ -9290,6 +9290,7 @@ ali.static.yximgs.com
 ali.static.yximgs.com.m.alikunlun.com
 ali.static.yximgs.com.m.alikunlun.com.c.cdnuyun.cn
 ali.static.yximgs.com.m.alikunlun.com.qr.uuhimalayanqm.com
+ali.xmssdn.micloud.mi.com
 ali2-course.video.yximgs.com
 ali2-course.video.yximgs.com.m.alikunlun.com
 ali2.a.yximgs.com
@@ -11715,6 +11716,7 @@ babidou.net
 babihu.com
 baby-bus.com
 baby.sina.com.cn
+baby.yf898.com
 baby.youku.com
 baby611.com
 baby868.com
@@ -44668,7 +44670,6 @@ meiqiantu.com
 meiqiausercontent.com
 meiriyiwen.com
 meiriyouxue.com
-meirong.net
 meirongshanghai.com
 meisfuture.com
 meishahui.com

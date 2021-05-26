@@ -6022,7 +6022,6 @@ a-ups-presence4-prod-azsc.japanwest.cloudapp.azure.com
 a-ups-presence8-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presence9-prod-azsc.centralus.cloudapp.azure.com
 a-usw.1rx.io
-a-webapi-prod-asse-shiftsa.southeastasia.cloudapp.azure.com
 a.198banjia.com
 a.1passwordusercontent.com
 a.1u2u3u4u.com
@@ -10541,7 +10540,6 @@ aizhanku.com
 aizhaofuli.com
 aizhaomu.com
 aizhengrong.net
-aizhet.com
 aizhi.co
 aizhicn.com
 aizhizu.com
@@ -44797,7 +44795,6 @@ googles.com
 googlescholar.com
 googlesciencefair.com
 googleshopping.sapoapps.vn
-googlesile.com
 googlesource.com
 googlestore.com
 googlesverige.com
@@ -70156,7 +70153,6 @@ nydailyrecord.com
 nydjsm.cn
 nydus.org
 nyesek.com
-nyfg.com
 nyheter24.se
 nyi.net
 nykaafashion.com
@@ -84798,7 +84794,6 @@ shikoto.com
 shiksha.com
 shiksha.ws
 shiliancj.com
-shimaosc.com
 shimchunge.com
 shiming.t28.net
 shimo.run

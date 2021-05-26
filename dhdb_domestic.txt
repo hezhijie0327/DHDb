@@ -10152,6 +10152,7 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
+api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -12847,6 +12848,7 @@ bfyx.com
 bfyx.net
 bfzhuce.com
 bg.v4.a.dl.ws.microsoft.com
+bg0.market.xiaomi.com
 bg1.market.xiaomi.com
 bg4.v4.a.dl.ws.microsoft.com
 bg4r2i0.cachenode.cn
@@ -56806,7 +56808,6 @@ seohet.com
 seohuizhou.com
 seopath.net
 seosn.com
-seosrx.net
 seotcs.com
 seotianxia.com
 seowdw.com

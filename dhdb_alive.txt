@@ -23677,7 +23677,6 @@ appali.hnlsht.com
 appanalysis.banggood.com
 appao.com
 appapi.17house.com
-appapi.dmall.com
 appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
@@ -27250,6 +27249,7 @@ baichuan-sdk.alicdn.com
 baichuan-sdk.alicdn.com.w.cdngslb.com
 baichuan-sdk.taobao.com
 baichuan.baidu.com
+baichuanhd.com
 baicizhan.com
 baicizhan.org
 baiclouds.com
@@ -134969,7 +134969,6 @@ rfthunder.com
 rg.yottos.com
 rg3.github.io
 rg950.com
-rgb128.com
 rgdjfb.avh-outdoor.nl
 rge.com
 rgeorest.map.qq.com

@@ -1084,7 +1084,6 @@
 123.com
 123.sogou.com
 123.sogoucdn.com
-12301china.com
 12306.cn
 12306.com
 12306bypass.com
@@ -12587,6 +12586,7 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -29808,6 +29808,7 @@ guihuayun.com
 guiji.com
 guijianghu.com
 guijinshu.com
+guikeyun.com
 guilin.la
 guilinlife.com
 guilintravel.com

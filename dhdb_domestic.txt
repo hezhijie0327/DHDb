@@ -10203,6 +10203,7 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
+api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -21335,7 +21336,6 @@ dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
-dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -46678,6 +46678,7 @@ mythware.net
 mytijian.com
 mytogo.com
 mytokenpocket.vip
+mytv365.com
 mytvgame.com
 myuall.com
 myubbs.com

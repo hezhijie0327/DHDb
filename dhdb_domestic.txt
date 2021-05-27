@@ -2883,7 +2883,6 @@
 2zimu.com
 3.39zuoye.com
 3.5646.cn
-3.cn.pool.ntp.org
 3.iscrv.com
 3.pic.pc6.com
 3.ssqzj.com
@@ -4503,6 +4502,7 @@
 520fx.com
 520hhht.com
 520it.com
+520jita.com
 520link.com
 520love520.com
 520mingmei.com
@@ -28617,6 +28617,7 @@ geshui.com
 geshui100.com
 geshuishuilvbiao2017.com
 gesuo.com
+get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -33236,7 +33237,6 @@ huhuvr.com
 hui-ben.com
 hui-chao.com
 hui.net
-hui.so
 hui.sohu.com
 hui10.com
 hui20.com
@@ -40979,6 +40979,7 @@ lboyue.com
 lbrbis.com
 lbs.mail.163.com
 lbs.map.qq.com
+lbs.netease.im
 lbs.pandora.xiaomi.com
 lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com

@@ -5883,7 +5883,6 @@
 3600d.com
 3600du.com
 360114.com
-360118.com
 360289.com
 3603765.com
 360500.com
@@ -8141,6 +8140,7 @@
 5200ddd.com
 5200e.com
 5200eee.com
+5200ooo.com
 5200vvv.com
 5200wx.com
 520101.com
@@ -34825,6 +34825,7 @@ bxdlkj.com
 bxgfw.com
 bxgjyc.com
 bxgtd.com
+bxjg.circ.gov.cn
 bxjob.net
 bxjr.com
 bxkejian.com
@@ -42847,7 +42848,6 @@ cm4-sgp1.cm.steampowered.com
 cm5-lax1.cm.steampowered.com
 cm52.appier.org
 cm6-lax1.cm.steampowered.com
-cm8.lycos.com
 cma-china.itunes-apple.com.akadns.net
 cma.itunes-apple.com.akadns.net
 cma.itunes.apple.com
@@ -69490,7 +69490,6 @@ gdpr-service.herokuapp.com
 gdpr-tcfv2.sp-prod.net
 gdpr.internetbrands.com
 gdpr.studybreakmedia.com
-gdpycy02.com
 gdqifang.com
 gdqou2nm.sched.s2.tdnsv5.com
 gdqynews.com
@@ -74894,6 +74893,7 @@ gu-global.com
 gu-pix.appspot.com
 gu.5.p2l.info
 gu.com
+gu.dyntrk.com
 gu.twimg.com
 gu166.com
 gu360.net

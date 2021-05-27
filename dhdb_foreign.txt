@@ -12634,6 +12634,7 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
+api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.gfe.nvidia.com
@@ -46539,7 +46540,6 @@ hedbergsupply.com
 heder.dk
 hedera.com
 hedgehog.fightforthefuture.org
-hedgehogking.com
 hedgehogrock.com
 hedgeye.com
 hedinbil.se

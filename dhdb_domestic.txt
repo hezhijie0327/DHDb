@@ -661,7 +661,6 @@
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -7943,6 +7942,7 @@ acgzone.net
 achievement.iqiyi.com
 aciml.com
 acing.com
+acingame.com
 acjs.aliyun.com
 acjw.net
 ack-console.oss-cn-hangzhou.aliyuncs.com
@@ -18082,7 +18082,6 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
-cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -27282,6 +27281,7 @@ fonts-gstatic.wp-china-yes.net
 fonts-gstatic.yecdn.com
 fonts.geekzu.org
 fonts.googleapis.com
+fonts.gstatic.com
 fonts.yecdn.com
 fontstar.com.cn
 foodbk.com
@@ -60017,7 +60017,6 @@ stemcellscn.com
 stepfpga.com
 stewartcn.com
 stfhq.com
-stfile.com
 stg-data.ads.heytapmobi.com
 stg8.com
 stgod.com

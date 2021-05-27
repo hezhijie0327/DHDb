@@ -18243,7 +18243,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -56193,7 +56192,6 @@ scholar.google.com.cn
 scholar.sogou.com
 scholarmate.com
 scholat.com
-schoolgater.com
 schprompt.dangdang.com
 schwr.com
 sci99.com

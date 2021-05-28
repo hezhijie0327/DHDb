@@ -35487,7 +35487,6 @@ c14621952.mgr.gcsp.cddbp.net
 c14f8770-8f18-4060-a2c5-d4f72d3b3607.cname.yecdn.com
 c151fb41e1c344b429b2ce741ff0cad9.v.smtcdns.net
 c1522.mooo.com
-c155ee.com
 c193264ac500d2b82fdd4f9ea5475a93.dlied1.cdntips.net
 c1dbbffc92e6e53e8fcf8c89037dbe15.safeframe.googlesyndication.com
 c1e86f3506cfe05a6738ea6893ff7e.duckdns.org
@@ -44259,6 +44258,7 @@ codeplayer.vip
 codeplex.com
 codepub.com
 codepush.blob.core.windows.net
+codepush.teams.microsoft.com
 coder.si
 coder.work
 coder100.com
@@ -60141,7 +60141,6 @@ eluchat.org
 eluchat.vip
 eluhep.bosco.ru
 eluosidy.com
-eluoyi.xbiquge6.com
 eluxiu.com
 elv.com
 elvenar.com
@@ -69065,7 +69064,6 @@ gaoqing.fm
 gaoqing.la
 gaoqing500.com
 gaoqingpai.com
-gaoqiwenda.com
 gaoqixhb.com
 gaore.com
 gaosan.com
@@ -146195,7 +146193,6 @@ smsyun.cc
 smszf.com
 smt-bonding.com
 smt-dip.com
-smt-job.com
 smt-lib.org
 smt.admaster.com.cn
 smt.live

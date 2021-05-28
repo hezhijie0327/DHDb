@@ -10300,6 +10300,7 @@ api.meishesdk.com
 api.meituan.com
 api.mengtuiapp.com
 api.merro.xyz
+api.micloud.xiaomi.net
 api.microyan.com
 api.middle.transfer.search.miui.com
 api.mini.wps.cn
@@ -57944,7 +57945,6 @@ shuanshu.com
 shuanyue.tech
 shuashuaapp.com
 shuazhibo.com
-shubao29.com
 shubuzi.com
 shuc-android.ksord.com
 shuc-js.ksord.com

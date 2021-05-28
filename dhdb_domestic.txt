@@ -32066,6 +32066,7 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -52396,7 +52397,6 @@ qgren.com
 qgsk.yximg.cn
 qgsydw.com
 qgtql.com
-qguiyang.com
 qgvps.com
 qgxl.org
 qgysj.org

@@ -10332,6 +10332,7 @@ api.portal.swjsq.vip.xunlei.com
 api.pr.weixin.qq.com
 api.pwmqr.com
 api.qgroup.qq.com
+api.qianwee.com
 api.qvpublish.com
 api.rlcdn.com
 api.s.suv666.com
@@ -32063,7 +32064,6 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -38966,6 +38966,7 @@ jushewang.com
 jushigj.com
 jushuo.com
 jussevent.com
+jusstickets.com
 just998.com
 justalkcloud.com
 justbon.com
@@ -54976,7 +54977,6 @@ riitao.com
 riji001.com
 rijigu.com
 rijiwang.com
-riju.tv
 rili.cn
 rilvtong.com
 rimiedu.com
@@ -55383,7 +55383,6 @@ rujiazg.com
 ruketang.com
 rulejianzhan.com
 rum.xundayun.cn
-rum8.perf.linkedin.com
 rumengtushu.suning.com
 run.haireig.com
 runbingoo.com

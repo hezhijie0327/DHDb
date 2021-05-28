@@ -1929,7 +1929,6 @@
 123.sogou.com
 123.sogoucdn.com
 123.suroot.com
-123.wuand.com
 12301china.com
 12306.cn
 12306.com
@@ -5784,7 +5783,6 @@
 345fk.com
 345k.com
 345kam.com
-345ok.net
 346838.sched.s2.tdnsv5.com
 348849.p23.tc.cdntip.com
 348894.s2txipv6.cdntip.com
@@ -57106,6 +57104,7 @@ dx-cmts.iqiyi.com
 dx-job.com
 dx-tech.com
 dx.10086.cn
+dx.3.cn
 dx.thermofisher.com
 dx04131.com
 dx2.cc
@@ -63580,7 +63579,6 @@ fangcang.com
 fangchan.com
 fangchan0573.com
 fangchanhz.com
-fangchip.com
 fangcloud.com
 fangcs.net
 fangdaijisuanqi.com
@@ -66155,6 +66153,7 @@ fonts.loli.net.cdn.cloudflare.net
 fonts.net
 fonts.proxy.ustclug.org
 fonts.timeinc.net
+fonts.yecdn.com
 fonts1.unidays.world
 fontshop-prod-responsive-images.s3.amazonaws.com
 fontshop.com
@@ -100940,6 +100939,7 @@ livestre.am
 livestream.com
 livestrong.com
 livesubtitleinfo.wifi169.com
+livesupport24x7.com
 liveticker.com
 livetileedge.dsx.mp.microsoft.com
 livetracker.rfe.pangea-cms.com
@@ -125640,7 +125640,6 @@ play-lh.googleusercontent.com
 play-poker-free.forsearch.net
 play-tx-recpub.douyucdn2.cn
 play-tx-ugcpub.douyucdn2.cn
-play.agefans.net
 play.alt.indigital.lt
 play.anyname.zelfo.pw
 play.assets.shentaiesp.asia
@@ -150340,7 +150339,6 @@ stats.melvingeorge.me
 stats.menn.blog
 stats.merriam-webster.com
 stats.mesenvies.fr
-stats.metaletter.net
 stats.metrozendodo.fr
 stats.miarroba.info
 stats.mikepenz.dev
@@ -151385,6 +151383,7 @@ stylebook.de
 stylecdn.com
 stylefile.fr
 stylemode.com
+stylewoman.net
 stylight.it
 styongtu.com
 styria-digital.com

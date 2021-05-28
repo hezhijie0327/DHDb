@@ -4226,7 +4226,6 @@
 51itstudy.com
 51jam.com
 51jiabo.com
-51jiameng.com
 51jianxie.com
 51jiaxiao.com
 51jiecai.com
@@ -31139,6 +31138,7 @@ hbpukang.com
 hbpygt.com
 hbqnb.com
 hbqnxy.com
+hbqq.com
 hbqtgg.com
 hbqyxy.com
 hbr.console.aliyun.com
@@ -53870,7 +53870,6 @@ quotas.console.aliyun.com
 quote.51.la
 quote.eastmoney.com
 quotes.money.163.com
-qupai.me
 qupaibei.com
 qupaicloud.com
 qupeiyin.com
@@ -54676,7 +54675,6 @@ remote88.com
 remoteaps.com
 remotedu.com
 renaren.com
-rencaiaaa.com
 rencaijob.com
 render-oss-cdn.amap.com
 render-oss-cdn.amap.com.w.cdngslb.com

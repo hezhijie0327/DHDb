@@ -3226,7 +3226,6 @@
 1857759.shop.liebiao.com
 186.32.247.61.zz.countries.nerd.dk
 186078.com
-18628.com
 1863637.p23.tc.cdntip.com
 1864445.com
 1865269.s2txipv6.cdntip.com
@@ -70071,6 +70070,7 @@ get.rubyroyal.com
 get.s-onetag.com
 get.sage.com
 get.slotocash.com
+get.sogou.com
 get.spell.ml
 get.tfiph.com
 get.thefile.me
@@ -103679,7 +103679,6 @@ m.lenovo.com.cn.wscdns.com
 m.lesanmo.top
 m.let98.net
 m.leyuman.com
-m.lfshpt.cn
 m.lizhi.fm
 m.lolvsdota.cn
 m.louisan.cn
@@ -137862,7 +137861,6 @@ samennoortoos.com
 samenresultaat.nl
 sametband.com.ar
 sametrics.finn.no
-samevay.com.cn
 samhotele.com
 saming.com
 samirchen.com

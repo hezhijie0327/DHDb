@@ -1735,7 +1735,6 @@
 2-wlan-switch.net.daraz.com
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
-2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -4629,7 +4628,6 @@
 70wx.com
 70yst.com
 710333.com
-7113879.com
 711ddd.net
 711g.com
 711yy.net
@@ -55423,6 +55421,7 @@ kalone.net
 kalooga.com
 kalstats.kaltura.com
 kaltura.com
+kaluli.com
 kamakurasango.blogspot.jp
 kameleoon.com
 kameng.com

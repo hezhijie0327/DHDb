@@ -10027,7 +10027,6 @@ ap01-vncproxy.aliyun.com.gds.alibabadns.com
 ap1.qiyukf.com
 ap11.pub.funshion.com
 ap2.qiyukf.com
-ap3.agora.io
 ap88.com
 apabi.com
 apachecn.org
@@ -33314,7 +33313,6 @@ huiruanzhijia.com
 huishangbao.com
 huishangol.com
 huishengqianzhushou.com
-huishij.com
 huishou-zh.com
 huishou.m.jd.com
 huishou.m.jd.com.gslb.qianxun.com

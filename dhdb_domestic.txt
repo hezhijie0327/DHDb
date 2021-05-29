@@ -262,6 +262,7 @@
 03d707543e6401ced0ace52b6c7d5a81.dlied1.cdntips.net
 03e1181bba1cf.cdn.sohucs.com
 03fd6743ff606e330372a7e3a796a884.safeframe.googlesyndication.com
+03k.org
 03nq.com
 0411e.com
 0411hd.com
@@ -18563,7 +18564,6 @@ cnmooc.org
 cnmsn.net
 cnmstl.net
 cnmysql.com
-cnnaihuo.com
 cnnb.com
 cnnbfdc.com
 cnnewss.com
@@ -49964,7 +49964,6 @@ pcstatic.2345.com
 pct86.com
 pctowap.com
 pctu.net
-pctvx.com
 pcvideoaliyun.titan.mgtv.com
 pcvideotestws.titan.mgtv.com
 pcvideotxott.titan.mgtv.com

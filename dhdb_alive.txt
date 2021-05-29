@@ -33889,7 +33889,6 @@ bs-offers.konicaminolta.jp
 bs-origin.pull.yximgs.com
 bs.commontools.net
 bs.csshq.com.cn
-bs.forward.douban.com
 bs.lamrd.cn
 bs.mybb.ru
 bs.nakanohito.jp
@@ -124317,7 +124316,6 @@ photon.komoot.de
 photoneray.com
 photonicssociety.org
 photonj.photo.store.qq.com
-photopai.com
 photoplayhouse.com
 photops.com
 photopulse.ru

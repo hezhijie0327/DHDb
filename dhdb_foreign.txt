@@ -12625,6 +12625,7 @@ api.cloudmobi.net
 api.codacy.com
 api.codeclimate.com
 api.coinerra.com
+api.comm.miui.com
 api.company-target.com
 api.cookielaw-script.it
 api.cookielaw.eu
@@ -14238,7 +14239,6 @@ asxxlo.interflora.es
 asxxtv.com
 asylnetzbaar.ch
 async.be
-aszw.org
 at-adserver.alltop.com
 at-cddc.actu-juridique.fr
 at-languagesolutions.com
@@ -29782,7 +29782,6 @@ dd6zx4ibq538k.cloudfront.net
 dd8828.com
 dd935.net
 dd9871.com
-ddaa-742e54-tencent-hongkong-liveperso.d1.teridioncloud.net
 ddacn6pr5v0tl.cloudfront.net
 ddaynew.5demo.xyz
 ddbig.com

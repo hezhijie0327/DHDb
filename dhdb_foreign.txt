@@ -497,7 +497,6 @@
 1.231.196.126.zz.countries.nerd.dk
 1.ajiyuming.com
 1.appexchange.com
-1.asia.pool.ntp.org
 1.bb5522.ws
 1.bb6688.ws
 1.bh5.com.cn
@@ -63233,6 +63232,7 @@ meirifuli.org
 meirishangxin.com
 meirishentie.com
 meirixiaochao.com
+meirong.net
 meisaitu.com
 meishijournal.com
 meituba.com
@@ -78249,6 +78249,7 @@ quentic.com
 queqiaoba.com
 query.ess-apple.com.akadns.net
 query.ess.apple.com
+query.hicloud.com
 query.prod.cms.rt.microsoft.com
 querylist.cc
 queryly.com

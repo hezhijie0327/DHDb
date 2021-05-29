@@ -1130,6 +1130,7 @@
 1629hb.com
 163.107.190.39.zz.countries.nerd.dk
 163.8.20.218.zz.countries.nerd.dk
+163.cm
 163.flnet.org
 163.slyip.net
 163686.com
@@ -2433,6 +2434,7 @@
 3.32top.xyz
 3.aa1122.ws
 3.au.download.windowsupdate.com
+3.cn.pool.ntp.org
 3.courier-push-apple.com.akadns.net
 3.courier2-push-apple.com.akadns.net
 3.cr.rs

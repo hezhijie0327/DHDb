@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 0000gz.com
@@ -50343,6 +50342,7 @@ pic.moad.cn
 pic.mytown.qq.com
 pic.new400.cn
 pic.orsoon.com
+pic.paopaoche.net
 pic.pc6.com
 pic.punchbox.org
 pic.qhyc55.com
@@ -58376,6 +58376,7 @@ sj-lawyer.com
 sj.zol.com.cn
 sj11hb.com
 sj123.com
+sj133.com
 sj33.net
 sj3w.com
 sj88.com

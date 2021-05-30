@@ -6746,7 +6746,6 @@
 91kami.com
 91keman.com
 91keto.com
-91ks.cc
 91kuzhan.com
 91laihama.com
 91ld.com
@@ -10585,6 +10584,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -14656,6 +14656,7 @@ ca2008.shop.liebiao.com
 ca231.com
 ca39.com
 ca687.com
+ca712.com
 ca77d8615eccf0101e8ba9d27b2d4f2c.v.smtcdns.net
 ca800.com
 caaa-spacechina.com
@@ -21452,7 +21453,6 @@ ddport.com
 ddqayjr7.v1d.szbdyd.com
 ddqcw.com
 ddske.com
-ddsoucai.com
 ddstarapp.com
 ddsy.com
 ddtugame.com
@@ -34735,7 +34735,6 @@ ihuayou.net
 ihuazhan.net
 ihui.com
 ihuidian.com
-ihuigo.com
 ihuikou.net
 ihuipao.com
 ihuiu.com
@@ -48579,6 +48578,7 @@ op.tga.qq.com
 op.yundasys.com
 op86.net
 opark.com
+opc.cloud.tencent.com
 opcool.com
 opd2c.com
 opdown.com
@@ -59602,7 +59602,6 @@ stat.m.jj.cn
 stat.meitudata.com
 stat.mobgi.com
 stat.moji.com
-stat.music.qq.com
 stat.openinstall.io
 stat.pandora.xiaomi.com
 stat.pchome.net
@@ -64043,7 +64042,6 @@ tzfdc.com
 tzfeize.xyz
 tzfuke.com
 tzgcjie.com
-tzgwifi.net
 tzhealth.com
 tzhsdqyxgs850.shop.258.com
 tzhwcc.com

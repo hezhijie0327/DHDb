@@ -4,7 +4,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -23524,7 +23523,6 @@ chende.net
 cheneyliu.com
 cheng.guru
 chengailvsuo.com
-chengbo.org
 chengder.com
 chengdulvshi.net
 chengfeilong.com

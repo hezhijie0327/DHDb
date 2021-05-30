@@ -662,6 +662,7 @@
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -18421,7 +18422,6 @@ cnfczn.com
 cnfeelings.com
 cnfeol.com
 cnfiberhome.com
-cnfilternet.com
 cnfina.com
 cnfirst.org
 cnfish.com
@@ -25460,6 +25460,7 @@ eopa.n.shifen.com
 eoriver.com
 eosantpool.com
 eospark.com
+eosyg.com
 eotwsg.tdum.alibaba.com
 eovas.net
 ep-china.net
@@ -35307,6 +35308,7 @@ img.pddpic.com.sched.pddlego-dk.tdnsv5.com
 img.php.cn
 img.pojies.cn
 img.pojies.cn.w.kunlungr.com
+img.poppur.com
 img.printf520.com
 img.qcloud.com
 img.qianwee.com
@@ -39492,6 +39494,7 @@ kanshuge.com
 kanshuwangzhan.com
 kantao.net
 kantiantang.com
+kantiantang.net
 kanxsw.com
 kanxue.com
 kanzhun.com

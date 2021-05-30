@@ -1,6 +1,7 @@
 0-100.com
 0-6.com
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 0000gz.com
@@ -5410,6 +5411,7 @@
 684397.p29.tcdnvod.com
 6868.com
 6868shop.com
+686fw.com
 6873.com
 6899wan.com
 68design.net
@@ -13120,6 +13122,7 @@ biquge.info
 biqugemm.com
 biqugew.com
 biqugewx.com
+biqugg.com
 biquku.la
 biquter.xyz
 biransign.com
@@ -18244,6 +18247,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -20903,7 +20907,6 @@ dannysite.com
 danotest.com
 danpin.com
 danqingshaonian.com
-danqoo.com
 danteng.me
 dantuvc.com
 danuoyi.xescdn.com

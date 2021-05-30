@@ -2447,7 +2447,6 @@
 2308404.b2b.liebiao.com
 2309359.p23.tc.cdntip.com
 230ghu.tdum.alibaba.com
-2311.oadz.com
 231256.shop.liebiao.com
 2317556.b2b.liebiao.com
 2317556.shop.liebiao.com
@@ -10420,6 +10419,7 @@ api.yuedu.iqiyi.com
 api.zhihu.com
 api.zhirenzhufu.com
 api.zhuanlan.sina.com.cn
+api.zhuti.xiaomi.com
 api.zol.com
 api.zone.lixian.vip.xunlei.com
 api1.888zy.cn
@@ -18895,7 +18895,6 @@ collect.hupu.com
 collect.ptengine.cn
 collect.tianya.cn
 collect.ux.21cn.com
-collecter.frontjs.com
 collection.sina.com.cn
 collector.51zmt.net
 collector.91fenfa.com
@@ -20320,7 +20319,6 @@ d.jbpbox.com
 d.jd.com
 d.jd.com.gslb.qianxun.com
 d.jjyx.com
-d.kugou.com
 d.mingyihui.net
 d.miwifi.com
 d.mob.com
@@ -34946,7 +34944,6 @@ im.jpush.cn
 im.qq.com
 im.tieba.baidu.com
 im.v8.ddxq.mobi
-im020.com
 im050.com
 im1.hicloud.com
 im170.com
@@ -41721,7 +41718,6 @@ lightinit.com
 lightky.com
 lightlygame.com
 lightpassport.com
-lightswitch-public-service-prod06.ol.epicgames.com
 lighttp.com
 lightyy.com
 liguda.com
@@ -43445,7 +43441,6 @@ m.jiaochengzhijia.com
 m.jiaochengzhijia.com.cname.yunjiasu-cdn.net
 m.jiedianqian.com
 m.jingxi.com
-m.jinhuizhibo.com
 m.jinti.com
 m.jr.jd.com
 m.jrj.com.cn
@@ -44371,7 +44366,6 @@ mbsug.ssl.so.com
 mbsug.ssl.so.qss-lb.com
 mbt.jd.com
 mbusihall.sh.chinamobile.com
-mbx.tt3edd.com
 mc-ccpit.com
 mc-manhattan.xiaojukeji.com
 mc.atm.youku.com
@@ -61309,7 +61303,6 @@ taigongwl.com
 taihaikj.com
 taihainet.com
 taihangco.com
-taihanghotel.com
 taihe.com
 taihehospital.com
 taihemedia.com

@@ -128500,7 +128500,6 @@ public.dm.files.1drv.com
 public.dns.iij.jp
 public.ffquan.cn
 public.fr
-public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.onlyfans.com
 public.popcorn-tracker.org
@@ -146467,7 +146466,6 @@ sngapm.qq.com
 sngmta.qq.com
 snh0048.com
 snh48.com
-snh48club.com
 sni1gl.wpc.alphacdn.net
 sni1gl.wpc.gammacdn.net
 sni1gl.wpc.kappacdn.net

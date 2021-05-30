@@ -12679,6 +12679,7 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
+api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.gfe.nvidia.com
@@ -40004,6 +40005,7 @@ friendfinder.com
 friendly-chat-8901e.firebaseio.com
 friendlyvote.com
 friends-of-tibet.org
+friends-public-service-prod06.ol.epicgames.com
 friends.gs.ea.com
 friends.pts.org.tw
 friends.worldofwarships.asia
@@ -46280,7 +46282,6 @@ happy-porn.com
 happy-science.jp
 happy-size.de
 happy-sugar-life.fandom.com
-happy-vpn.com
 happy24uk.com
 happybao.com.cn
 happycaoyue.com
@@ -58558,7 +58559,6 @@ lightingdirect.com
 lightingshowplace.com
 lightinthebox.com
 lightnovel.cn
-lightplan.cc
 lightspeed.com
 lightstream.com
 lightyearvpn.com

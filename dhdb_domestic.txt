@@ -7399,7 +7399,6 @@ a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
 a.dlads.cn
-a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -31892,7 +31891,6 @@ hijuu.com
 hiknow.com
 hikrobotics.com
 hikvision-jl.com
-hikvision.com
 hillstonenet.com
 hillyton.com
 hiloong.com
@@ -42420,6 +42418,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -56474,6 +56473,7 @@ sdlldj.com
 sdlongli.com
 sdly35.com
 sdmic.com
+sdn.geekzu.org
 sdnfv.org
 sdnjsbc.com
 sdnlab.com
@@ -56561,7 +56561,6 @@ search.51job.com
 search.51job.com.51jobdns.com
 search.appstore.vivo.com.cn
 search.bilibili.com
-search.browser.miui.com
 search.cdn.huya.com
 search.dangdang.com
 search.dpool.sina.com.cn
@@ -62200,7 +62199,6 @@ thy.dacedsfa.cn
 thyclub.com
 thyoo.com
 thyou.com
-thz28.com
 thz56.com
 thzer.com
 ti-node.com

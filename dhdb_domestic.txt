@@ -10598,6 +10598,7 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -28169,7 +28170,6 @@ ganhuodaquan.com
 ganji.cn
 ganji.com
 ganjistatic1.com
-ganjistatic2.com
 ganjituiguang.ganji.com
 gank-studio.com
 gankgames.com
@@ -37939,7 +37939,6 @@ jiujhzp.com
 jiujiang.lianjia.com
 jiujiange.com
 jiujiui.com
-jiujiunn.com
 jiujiups.com
 jiujiuwan.com
 jiujiuwj.com

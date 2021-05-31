@@ -594,7 +594,6 @@
 0513.org
 0513011.com
 051352.com
-0513syedu.com
 0513zs.com
 0514.com
 0514rj.com
@@ -13876,7 +13875,6 @@ a13605.actonservice.com
 a13678.actonservice.com
 a13709.actonservice.com
 a1389.g2.akamai.net
-a1410.oadz.com
 a14166430330.cdn-pci.optimizely.com
 a14338.actonservice.com
 a14374.actonservice.com
@@ -25006,6 +25004,7 @@ asia.marketo.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
+asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -35462,7 +35461,6 @@ c.youdao.com
 c.za.msn.com
 c.zhangle.com
 c.zlongad.com
-c.zoepb.cn
 c0.3.cn
 c0.3.cn.gslb.qianxun.com
 c0.adalyser.com
@@ -61049,6 +61047,7 @@ eoriver.com
 eos-cloudsaves-live.s3.amazonaws.com
 eosantpool.com
 eospark.com
+eosyg.com
 eotwsg.tdum.alibaba.com
 eovas.net
 ep-china.net
@@ -65632,6 +65631,7 @@ fjycw.com
 fjyy.org
 fjzixun.com
 fjzol.com
+fjzprx.com
 fk-book.com
 fk.mrcat.bet
 fk100.com

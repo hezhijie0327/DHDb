@@ -897,7 +897,6 @@
 080zeero.sched.s2-dk.tdnsv5.com
 0813fs.com
 08160.cn
-0817tv.com
 0818tuan.com
 082338.com
 0826j.com
@@ -50709,7 +50708,6 @@ daxiyu.com
 daxuecn.com
 daxueit.com
 daxuepc.com
-daxueshengqiandai.com
 daxueshi.com
 daxuesou.com
 daxuewa.com
@@ -159866,7 +159864,6 @@ tracker.breizh.pm
 tracker.bt-hash.com
 tracker.bt.uol.com.br
 tracker.bt4g.com
-tracker.btcake.com
 tracker.btorrent.xyz
 tracker.btsync.cf
 tracker.btsync.gq
@@ -163862,7 +163859,6 @@ unification.org
 unification.org.tw
 unifilabs.actonservice.com
 unifilabs.com
-uniformmm.ddns.net
 unifull.com
 unifygroup.com
 unigress.com
@@ -164222,7 +164218,6 @@ update.sdk.jiguang.cn
 update.synology.com
 update.tabnine.com
 update.videolan.org
-update.vlcstreamer.com
 update.wedobest.com.cn
 update.windowportals.xyz
 update.wps.cn

@@ -2438,7 +2438,6 @@
 3.32top.xyz
 3.aa1122.ws
 3.au.download.windowsupdate.com
-3.cn.pool.ntp.org
 3.courier-push-apple.com.akadns.net
 3.courier2-push-apple.com.akadns.net
 3.cr.rs
@@ -5339,7 +5338,6 @@
 88laohu.com
 88lm.cc
 88lo.com
-88pt88.com
 88ptk.com
 88tnd.com
 88tours.com
@@ -20602,7 +20600,6 @@ buzzvil.com
 bv.com
 bv.ms
 bv866.com
-bvaff.com
 bvbqyq.odalys-vacances.com
 bvconline.com.ar
 bvexmf.bigtv.ru
@@ -20622,7 +20619,6 @@ bw3785.com
 bw558558.com
 bw68vip.com
 bw8558.com
-bw8805.com
 bw88178.com
 bw8863.com
 bw888555.com
@@ -22596,7 +22592,6 @@ cdn.itphanpytor.club
 cdn.itsup.com
 cdn.izooto.com
 cdn.jotfor.ms
-cdn.jquery-uim.download
 cdn.kdkw.jp
 cdn.keywee.co
 cdn.kik.com
@@ -45907,6 +45902,7 @@ h4610.com
 h5.013ld.com
 h5.080ld.com
 h5.084ld.com
+h5.086ld.com
 h5.25u.com
 h5.holalauncher.com
 h5.ld052.com
@@ -45920,6 +45916,7 @@ h5.ld12.pro
 h5.ld29.pro
 h5.ld33333.com
 h5.ld55555.com
+h5.ld59.bet
 h5.ld66666.com
 h5.ld88.tv
 h5.ld99.tv
@@ -55253,6 +55250,7 @@ jxaxs.com
 jxbin.com
 jxcc.cc
 jxcp1688.com
+jxf57.com
 jxghou.sollumeesthe.com
 jxiwdw.ufret.jp
 jxlgjd.com
@@ -66585,7 +66583,6 @@ msg.ettoday.net
 msga.71.am
 msgamesresearch.com
 msgamestudios.com
-msgapi-prod-ea-azsc1-1.cloudapp.net
 msgapi-prod-ea-azsc2-1.cloudapp.net
 msgapi-prod-eus-azsc2-4.cloudapp.net
 msgapi-prod-eus-azsc2-5.cloudapp.net

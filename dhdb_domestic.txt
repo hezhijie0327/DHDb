@@ -659,6 +659,7 @@
 1.92caijing.com
 1.aili.com
 1.arpun.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
@@ -6068,7 +6069,6 @@
 800best.com
 800bestex.com
 800cdn.com
-800du.com
 800hr.com
 800li.net
 800lie.com
@@ -19298,6 +19298,7 @@ counter.kingsoft.com
 counter.ksosoft.com
 counter.m1905.com
 counter.pcauto.com.cn
+counter.people.cn
 counter.sina.com.cn
 counter.tianjimedia.com
 counter.yesky.com
@@ -20483,6 +20484,7 @@ d5.sinaimg.cn
 d50pjq1.cachenode.cn
 d518ed55f3428b52fae9a53469fe6404.dlied1.cdntips.net
 d5199.com
+d5253.com
 d52ad7cd77466b4de50da5f24834f20c.dlied1.cdntips.net
 d5350.com
 d558f7ac95fd63207cb8c362ef973975.safeframe.googlesyndication.com
@@ -25028,7 +25030,6 @@ eeppt.com
 eeqiu.com
 eeskill.com
 eetop.com
-eetop.wang
 eetp9q2.cachenode.cn
 eetrend.com
 eetrust.com
@@ -39925,7 +39926,6 @@ kklxj.com
 kkmh.com
 kkminer.com
 kkppdd57.com
-kkr5.com
 kkredian.com
 kkredian.xyz
 kksofts.com
@@ -48645,7 +48645,6 @@ openasic.org
 openauth.alipay.com
 openbayes.com
 openbox.mobilem.360.cn
-openbpm.net
 opencdn-qqugc.jomodns.com
 opencdn.jomodns.com
 opencdn126music.jomodns.com

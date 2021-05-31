@@ -1926,7 +1926,6 @@
 18dao.org
 18daxue.com
 18guanjia.com
-18heat.com
 18itv.com
 18ladys.com
 18lipin.com
@@ -6313,7 +6312,6 @@
 86fl31a7.v1d.szbdyd.com
 86fl31a8.v1d.szbdyd.com
 86fsp.com
-86fuwuwang.com
 86fwa7zx.v1d.szbdyd.com
 86game.com
 86gc.net
@@ -10234,6 +10232,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -10582,7 +10581,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -13482,7 +13480,6 @@ bjxx8.com
 bjxydh.com
 bjxztqn.com
 bjyah.com
-bjyaoyang.com
 bjyczb.com
 bjyestar.com
 bjyggc.com
@@ -43803,6 +43800,7 @@ mahoupao.com
 mahoupao.net
 mahua.com
 mahuatalk.com
+mai.com
 maianhao.com
 maibw.net
 maicai.api.ddxq.mobi
@@ -46636,7 +46634,6 @@ mysixue.com
 mysmth.net
 mysodao.com
 mysongktv.com
-mysore-yoga.com
 myspain.org
 mysqlops.com
 mysqlpub.com

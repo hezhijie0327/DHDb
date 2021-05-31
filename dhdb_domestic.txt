@@ -10247,7 +10247,6 @@ api.inmeng.net
 api.installer.xiaomi.com
 api.interaction.sohu.com
 api.io.mi.com
-api.iplay.163.com
 api.iqiyi.com
 api.ishansong.com
 api.itaoxiaoshuo.com
@@ -38589,7 +38588,6 @@ js2.t.sinajs.cn
 js3.org
 js4.eastmoney.com
 js50.ys137.com
-js50.yxlady.com
 js53777.com
 js6.efyt6.com
 js66649.com
@@ -42245,7 +42243,6 @@ liziqiche.com
 lj-bank.com
 lj.zu.anjuke.com
 lj168.com
-ljc58.com
 ljcdn.com
 ljemail.org
 ljhks.com
@@ -47785,7 +47782,6 @@ nos.netease.com
 nosec.org
 nosuchfield.com
 not3.com
-notadd.com
 note.youdao.com
 note52.com
 noteapi.micloud.xiaomi.net

@@ -7351,6 +7351,7 @@ a-ad.adwo.com
 a-cn.duoyi.com
 a-cn.duoyi.com.dycdn.com
 a-liai.com
+a-llq.whbmy.com
 a-m-s.poco.cn
 a-padn-access.pingan.com.cn
 a-sta-cn.upltv.com
@@ -11020,7 +11021,6 @@ asciima.com
 asczwa.com
 asczxcefsv.com
 asd868.com
-asdyf.com
 ase-mc.jd.com
 ase-mc.jd.com.gslb.qianxun.com
 asean-china-center.org
@@ -22485,6 +22485,7 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
+dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -32536,6 +32537,7 @@ horti-expo2019.com
 hortor.net
 hortor002.com
 hortor005.com
+hortor020.com
 hortorgames.com
 hosjjk.com
 hospital.pku.edu.cn
@@ -60640,7 +60642,6 @@ sy.cl2009.com
 sy.code.mytanwan.com
 sy.flash.mytanwan.com
 sy.lianjia.com
-sy25.com
 sy3.com
 sy4z9f.cn
 sy916.net

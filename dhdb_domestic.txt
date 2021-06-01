@@ -19270,7 +19270,6 @@ count21.51yes.com
 count22.51yes.com
 count23.51yes.com
 count24.51yes.com
-count25.51yes.com
 count26.51yes.com
 count27.51yes.com
 count28.51yes.com
@@ -46266,7 +46265,6 @@ mtipv6.v.bsgslb.cn
 mtizt.com
 mtj.baidu.com
 mtketang.com
-mtkg.cc
 mtksj.com
 mtlog.droid4x.cn
 mtnets.com

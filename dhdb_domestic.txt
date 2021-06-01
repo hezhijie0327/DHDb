@@ -672,7 +672,6 @@
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -62212,7 +62211,6 @@ thy.dacedsfa.cn
 thyclub.com
 thyoo.com
 thyou.com
-thz56.com
 thzer.com
 ti-node.com
 ti-solar.com

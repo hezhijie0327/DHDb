@@ -451,7 +451,6 @@
 097f0ea4cce4b0e807c0b70ef5aceea4.clo.footprintdns.com
 098.com
 0982b.com
-098ld.com
 0991dj.com
 099529.com
 099sky.com
@@ -12693,6 +12692,7 @@ api.betterttv.net
 api.bitp.it
 api.bounceexchange.com
 api.breezip.com
+api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.bunzlaucastle.com
@@ -46190,7 +46190,6 @@ h1.elf168.net
 h1.msn.com
 h1.ripway.com
 h1.ru
-h1388.com
 h16.ru
 h1665.com
 h1bz.com
@@ -60945,7 +60944,6 @@ m.afreecatv.com
 m.ailix.cn
 m.airav.cc
 m.anmeilai.net
-m.apkzu.com
 m.apxyz.com
 m.baidu.com.yiqisee.cn
 m.baidu.com.zhiduo.org
@@ -66832,7 +66830,6 @@ motul.mooc-training.com
 moulticast.net
 mounstar.com
 mountainduck.io
-mountcraft.tk
 mountex.hu
 moupdate1.kingsoft-office-service.com
 mouse.voyagefuneralhomes.com
@@ -93831,6 +93828,7 @@ t.wayfair.co.uk
 t.wayfair.com
 t.wayfair.de
 t.webjavaskript.net
+t.win
 t.wizaly.com
 t.yesware.com
 t.zhiwy.xyz

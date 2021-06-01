@@ -12743,6 +12743,7 @@ api.funcaptcha.com
 api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
+api.geetest.com
 api.gfe.nvidia.com
 api.gimbal.com
 api.github.com
@@ -25245,6 +25246,7 @@ cn.ibtimes.com
 cn.jimdo.com
 cn.man484.com
 cn.man655.com
+cn.mclean.50union.com
 cn.msi.com
 cn.nikkei.com
 cn.nytstyle.com

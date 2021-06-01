@@ -7406,6 +7406,7 @@ a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
 a.dlads.cn
+a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -10229,7 +10230,6 @@ api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -12655,7 +12655,6 @@ beidou.org
 beidou66.com
 beidouone.com
 beidousafety.org
-beidousj.com
 beidouxingxueche.com
 beifang.net
 beifangfoshifen.com

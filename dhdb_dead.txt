@@ -2489,7 +2489,6 @@ a.clipconverter.cc
 a.cn.miaozhen.com
 a.collective-media.net
 a.dianjoy.com
-a.dmall.com
 a.domob.cn
 a.dounanhuahui.com
 a.duanmeiwen.com
@@ -5401,6 +5400,7 @@ bei7.clewx.com
 beibei.com
 beibj.com
 beidian.com
+beidousj.com
 beifabook.com
 beifeng.com
 beifuni.com

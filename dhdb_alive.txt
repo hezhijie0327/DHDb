@@ -29005,7 +29005,6 @@ bdqn666.com
 bdqnwh.com
 bdr88.com
 bds-cn.com
-bds.hainan.net
 bds.haochu.com
 bds.haochu.com.cname4009.yjs-cdn.com
 bds.snssdk.com
@@ -70326,7 +70325,6 @@ get.rubyroyal.com
 get.s-onetag.com
 get.sage.com
 get.slotocash.com
-get.sogou.com
 get.spell.ml
 get.spell.run
 get.tfiph.com
@@ -85524,6 +85522,7 @@ images.revtrax.com
 images.samsung.com
 images.scanalert.com
 images.seebug.org
+images.sftcdn.net
 images.shapeways.com
 images.sohu.com
 images.startappservice.com
@@ -135728,7 +135727,6 @@ retracker.spb.ru
 retracker.telecom.by
 retracker01-msk-virt.corbina.net
 retrackertorrentsru.mgts.by
-retrocoder.org
 retrofiteng.com.br
 retrolegends.com
 retrolution.com

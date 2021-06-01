@@ -24436,6 +24436,7 @@ e.uissm.com
 e.weather.com.cn
 e.weibo.com
 e.x.cn.xtgreat.com
+e.xxkio.com
 e046d572e35ae8dbd19dbfe97325411d.safeframe.googlesyndication.com
 e0514.com
 e0575.com
@@ -33574,6 +33575,7 @@ hw-gz-live-comet-02.chat.bilibili.com
 hw-gz-live-p2p-01.chat.bilibili.com
 hw-sh-live-comet-01.chat.bilibili.com
 hw-sh-live-comet-02.chat.bilibili.com
+hw-sh-live-p2p-01.chat.bilibili.com
 hw.118114.net
 hw.yidianzixun.com
 hw.zuimeitianqi.com

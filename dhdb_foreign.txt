@@ -1834,7 +1834,6 @@
 2018movies.000webhostapp.com
 201980.com
 2019ayaya.com
-202-238-47-212.rev.cloud.instantcloud.io
 20206003.com
 20206006.com
 202096e.com
@@ -48542,6 +48541,7 @@ hopechannel.eu
 hopedialogue.org
 hopefulgeranium.blogspot.co.nz
 hopehook.com
+hopesn.com
 hopetv.org
 hopkins-consulting.com
 hoprnet.org
@@ -50818,7 +50818,6 @@ images2.imgbox.com
 images3-content--hci-com.cdn.ampproject.org
 images3.content-hci.com
 images3.imgbox.com
-images4.c-ctrip.com
 images4.content-hci.com
 images4.sw-cdn.net
 images5.content-hci.com
@@ -68210,6 +68209,7 @@ mysinamail.com
 mysinchew.com
 mysite.verizon.net
 mysocialworklab.com
+mysore-yoga.com
 myspace.com
 mysports98.com
 myspringfield.com
@@ -82956,7 +82956,6 @@ s3.amazonaws.com
 s3.analytics.blue
 s3.ap-northeast-2.amazonaws.com
 s3.ap-southeast-2.amazonaws.com
-s3.ax1x.com
 s3.buysellads.com
 s3.crypto-webminer.com
 s3.eu-central-1.amazonaws.com
@@ -92832,7 +92831,6 @@ stumbleupon.com
 stun.l.google.com
 stun.nimiq-network.com
 stun.paradox-interactive.com
-stun.services.mozilla.com
 stun1.nimiq-network.com
 stun1.webrtc.us-east-1.prod.mozaws.net
 stun2.nimiq-network.com

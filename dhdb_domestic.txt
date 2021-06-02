@@ -672,6 +672,7 @@
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -31934,6 +31935,7 @@ hiphotos.baidu.com
 hiphotos.jomodns.com
 hipiao.com
 hippoanimation.com
+hippter.com
 hippy.html5.qq.com
 hippy.imtt.qq.com
 hippy.imtt.qq.com.sched.p2v6.tdnsv6.com
@@ -39802,7 +39804,6 @@ kgdb.info
 kgfanr.com
 kgimg.com
 kgmobilestat.kugou.com
-kgnop2.kugou.com
 kgogame.com
 khdatasolutions.com
 khlysc.com
@@ -45572,7 +45573,6 @@ mmgame.qpic.cn
 mmgame.qpic.cn.cloud.tc.qq.com
 mmgl.net
 mmgogo.com
-mmicloud.com
 mmjs.adutp.com
 mmjs.adutp.com.cname465.yjs-cdn.com
 mmloo.com

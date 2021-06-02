@@ -14216,7 +14216,6 @@ assbbs.com
 assembla.com
 asset-cache.net
 asset.nahnoji.cz
-asset.newyx.net
 asset.pagefair.net
 assetmanagement.att.com
 assetmanagement.pictet
@@ -25536,7 +25535,6 @@ cnstats.cdev.eu
 cnstats.ru
 cnsuomei.com
 cnsyhz.com
-cnszkl.com
 cnt.3dmy.net
 cnt.alawar.com
 cnt.geo.jp
@@ -54041,6 +54039,7 @@ ixi.ua
 ixiangche.com
 ixiqin.com
 ixitools.com
+ixiumei.com
 ixon.cloud
 ixquick-proxy.com
 ixquick.co.uk
@@ -63543,7 +63542,6 @@ mc.corel.com
 mc.desmine.ru
 mc.jling.dev
 mc.mmkkhhnn.cn
-mc.tyhjwjg.cn
 mc.webvisor.com
 mc.yandex.md
 mc.yandex.ru
@@ -92298,7 +92296,6 @@ status.minexmr.com
 status.rapidssl.com
 status.thawte.com
 status.twhirl.org
-statusapi.micloud.xiaomi.net
 statuse.digitalcertvalidation.com
 statuspage.io
 statystyki.panelek.com

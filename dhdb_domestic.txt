@@ -10241,7 +10241,6 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
-api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -40987,7 +40986,6 @@ lboyue.com
 lbrbis.com
 lbs.mail.163.com
 lbs.map.qq.com
-lbs.netease.im
 lbs.pandora.xiaomi.com
 lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com

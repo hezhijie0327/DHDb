@@ -25242,7 +25242,6 @@ cn.ibtimes.com
 cn.jimdo.com
 cn.man484.com
 cn.man655.com
-cn.mclean.50union.com
 cn.msi.com
 cn.nikkei.com
 cn.nytstyle.com
@@ -79035,6 +79034,7 @@ quentic.com
 queqiaoba.com
 query.ess-apple.com.akadns.net
 query.ess.apple.com
+query.hicloud.com
 query.prod.cms.rt.microsoft.com
 querylist.cc
 queryly.com

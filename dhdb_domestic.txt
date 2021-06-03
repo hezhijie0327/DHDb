@@ -12525,7 +12525,6 @@ bdjs.uimg.cn
 bdjsym.guangyuanol.cn
 bdkyr.com
 bdlm.120askimages.com
-bdlm.jiaochengzhijia.com.cname1970.yjs-cdn.com
 bdlmggcs1.familydoctor.com.cn
 bdm.ye-su.cn
 bdmjs.xywy.com
@@ -22488,7 +22487,6 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
-dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -42815,6 +42813,7 @@ lqhigo.com
 lqjob88.com
 lqjuwuwang.com
 lqpsj.com
+lqqm.com
 lqrcb.com
 lqsy.net
 lqxshop.com

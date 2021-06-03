@@ -1769,6 +1769,7 @@
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
 2.centos.pool.ntp.org
+2.cn.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.courier2-push-apple.com.akadns.net
 2.cr.rs
@@ -37831,7 +37832,6 @@ fanrenshucheng.com
 fans.91p20.space
 fans.bestvogue.com
 fans1.com
-fans580.com
 fansign.streamray.com
 fanstop.net
 fansubbing.com
@@ -42582,6 +42582,7 @@ gleichheit.de
 glennhilton.com
 gleventslive.com.br
 glextv.com
+glg.uu.163.com
 glgoo.com
 glgoo.net
 glgoo.org
@@ -57857,7 +57858,6 @@ laintranet.es
 laissepasse.jp
 laiyetxt.com
 laiyexs.com
-laiyihuo.com
 lakaskezelo.com
 lakeb2b.com
 lakeballs.fi
@@ -71614,7 +71614,6 @@ odalys-vacances.com
 odalys-vacation-rental.com
 odav.de
 odb.outbrain.com
-odbierz-bony.ovp.pl
 odc.1und1.de
 odc.officeapps.live.com
 odc.starwave.com
@@ -72737,7 +72736,6 @@ opendemocracy.net
 opendesktop.org
 opendns.com
 opendoors.nl
-opendoorvpn.com
 opendroneid.org
 openervpn.com
 openfilm.com

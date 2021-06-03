@@ -31661,6 +31661,7 @@ dl.airtable.com
 dl.benefits.express-scripts.com
 dl.box.net
 dl.browsermine.com
+dl.delivery.mp.microsoft.com
 dl.dell.com
 dl.devmate.com
 dl.discordapp.net
@@ -40480,7 +40481,6 @@ ft.com
 ft2.autonomycloud.com
 ftalkconnect.com
 ftaysn.meinekette.de
-ftcauction.com
 ftchinese.com
 ftd.ca
 ftd.com
@@ -76490,6 +76490,7 @@ pmpdubai.com
 pmppcc.net
 pmr66.com
 pmrdnt.tuincentrum.nl
+pmsra.com
 pmstrk.mercadolivre.com.br
 pmu.fr
 pn66.com

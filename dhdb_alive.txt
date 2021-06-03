@@ -83473,6 +83473,7 @@ i.app.lefile.cn
 i.apps.sina.cn
 i.autohome.com.cn
 i.baidu.com
+i.bandito.org
 i.bangassets.com
 i.bestcontentfare.top
 i.bigmir.net
@@ -86278,7 +86279,6 @@ img2.cheshi-img.com.w.cdngslb.com
 img2.doubanio.com
 img2.expreview.com
 img2.g.pptv.com
-img2.hrccb.com
 img2.jiemian.com
 img2.jiemian.com.wswebpic.com
 img2.km.com
@@ -104517,7 +104517,6 @@ m.jf.10010.com
 m.jiaochengzhijia.com
 m.jiaochengzhijia.com.cname.yunjiasu-cdn.net
 m.jiedianqian.com
-m.jinchaoyu.com
 m.jingxi.com
 m.jinhuizhibo.com
 m.jinti.com
@@ -111948,6 +111947,7 @@ mobilefacebook.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
+mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobileinternational.com
@@ -131947,7 +131947,6 @@ qnjslm.com
 qnl1.com
 qnmlgb.tech
 qnniu.com
-qnq.moe
 qnqcdn.net
 qnqdpy.edreams.net
 qnr.io
@@ -133463,7 +133462,6 @@ qzwb.com
 qzwktr.world-fusigi.net
 qzxcvb.m.zwdu.com
 qzxfnv.beams.co.jp
-qzxmtyy.com
 qzxx.com
 qzze.com
 qzzmt.com

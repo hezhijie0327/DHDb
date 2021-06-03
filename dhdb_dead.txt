@@ -9999,6 +9999,7 @@ dtrace.nvidia.com
 dtrp.tencentdlinstallinfo.qq.com
 dts.akamai.startappexchange.com
 dtscdn.com
+dtssmodel.com
 dtstatic.com
 dtt.dtdns.net
 dtvce.com
@@ -16115,6 +16116,7 @@ kfs.io
 kfu.digimarkting.com
 kg-gold.com
 kg.com
+kgmobilestat.kugou.com
 kgmobilestatbak.kugou.com
 kh1.spacetechnology.net
 khbj.net

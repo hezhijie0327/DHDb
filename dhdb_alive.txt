@@ -2189,6 +2189,7 @@
 1314.4irc.com
 1314520sz.com
 131458.com
+1314mylove.com
 1314study.com
 1314wallet.com
 1314zf.com
@@ -3945,7 +3946,6 @@
 2.aili.com
 2.android.pool.ntp.org
 2.arpun.com
-2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.bashenghuo.com
@@ -44363,7 +44363,6 @@ code.acstat.com
 code.ainsyndication.com
 code.angularjs.org
 code.bdstatic.com
-code.bianxianwu.com
 code.blender.org
 code.cdjsblm.com
 code.createjs.com
@@ -57864,7 +57863,6 @@ e.958so.cn
 e.ad.xiaomi.com
 e.aduiz.com
 e.ailix.cn
-e.aiyyu.com
 e.anmeilai.net
 e.apsalar.com
 e.apxyz.com
@@ -88236,6 +88234,7 @@ insights.1688.com
 insights.algolia.io
 insights.cdt.ch
 insights.compagnon.com
+insights.ddiworld.com
 insights.frenchtogether.com
 insights.harvardbusiness.org
 insights.mckimcg.ca
@@ -110529,7 +110528,6 @@ milu.com
 milulucn.com
 milvzn.com
 milwaukeetool.asia
-milzx.com
 mima.club
 mimacom.com
 mimakiusa.actonservice.com

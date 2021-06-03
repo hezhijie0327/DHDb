@@ -10251,6 +10251,7 @@ api.inmeng.net
 api.installer.xiaomi.com
 api.interaction.sohu.com
 api.io.mi.com
+api.iplay.163.com
 api.iqiyi.com
 api.ishansong.com
 api.itaoxiaoshuo.com
@@ -23674,7 +23675,6 @@ dtqiufa.com
 dtrcb.com
 dts007.com
 dtsbc.com.cn
-dtssmodel.com
 dtstack.com
 dttt.net
 dturl.cc
@@ -39793,7 +39793,6 @@ kgb-ifs.tanx.com
 kgdb.info
 kgfanr.com
 kgimg.com
-kgmobilestat.kugou.com
 kgogame.com
 khdatasolutions.com
 khlysc.com

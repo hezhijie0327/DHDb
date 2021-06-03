@@ -2673,6 +2673,7 @@ a1.huiqituan.com
 a1.lmaq.cn
 a1.vdolady.com
 a1.yuuedu.com
+a1.zhanzhang.net
 a1139.oadz.com
 a1491.oadz.com
 a15172379.alturo-server.de
@@ -7524,7 +7525,6 @@ cnad7.economicoutlook.net
 cnad8.economicoutlook.net
 cnad9.economicoutlook.net
 cnadtop.com
-cname-url.com
 cname.beeppool.org
 cnameaddress.top
 cnamedns.net

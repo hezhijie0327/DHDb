@@ -21577,6 +21577,7 @@ pjdc6600.com
 pjdc6633.com
 pjdc8000.com
 pjdc8866.com
+pjdc8877.com
 pjdc9000.com
 pjdc9900.com
 pjdc9922.com
@@ -26335,7 +26336,6 @@ tz.zjhoudao.com
 tzfnodds.localdomain
 tzh019.cn
 tzh315.cn
-tzidc.com
 tzym322.qzmhnk.com
 tzysbwg.com
 u.3393.com

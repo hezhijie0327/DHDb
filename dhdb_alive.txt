@@ -3946,6 +3946,7 @@
 2.aili.com
 2.android.pool.ntp.org
 2.arpun.com
+2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.bashenghuo.com
@@ -38439,7 +38440,6 @@ cdn.userdatatrust.com
 cdn.v2ex.com
 cdn.vaptcha.com
 cdn.vaptcha.com.w.cdngslb.com
-cdn.vdopia.com
 cdn.videonow.ru
 cdn.viglink.com
 cdn.vuukle.com
@@ -78774,6 +78774,7 @@ helpcn.fun727.com
 helpdaohang1.ksmobile.com
 helpdesk.egnyte.com
 helpduba1.ksmobile.com
+helpdubaclient.ksmobile.com
 helpeachpeople.com
 helper-sys.com
 helper.docer.wps.cn
@@ -111936,6 +111937,7 @@ mobilegamebase.com
 mobilegw.alipay.cn
 mobilegw.alipay.com
 mobilegw.alipaydns.com
+mobilegw.src.alipaydns.com
 mobilehera.ximalaya.com
 mobileinternational.com
 mobileinternational.com.cn
@@ -134186,7 +134188,6 @@ r6---sn-un57en7e.googlevideo.com
 r6---sn-vgqsdn7s.googlevideo.com
 r6.galya.ru
 r6.mo.baidu.com
-r6sb.com
 r7.com
 r8877.com
 r8qtou0.cachenode.cn
@@ -147630,6 +147631,7 @@ socansoft.com
 socapro.com
 socay.com
 soccajoeys.actonservice.com
+soccer18.com
 soccer24.com
 soccerfanz.com.my
 soccerfinancier.ca
@@ -154154,6 +154156,7 @@ sync.sync.viewdeos.com
 sync.taboola.com
 sync.targeting.unrulymedia.com
 sync.teads.tv
+sync.technoratimedia.com
 sync.tidaltv.com
 sync.vertamedia.com
 sync.widespace.com

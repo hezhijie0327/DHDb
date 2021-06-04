@@ -2188,6 +2188,7 @@
 2.aili.com
 2.android.pool.ntp.org
 2.arpun.com
+2.asia.pool.ntp.org
 2.bashenghuo.com
 2.haoxue360.com
 2.nanrenwo.net
@@ -3066,6 +3067,7 @@
 3389dh.com
 33app.net
 33bus.com
+33hgvip.com
 33ip.com
 33iq.com
 33jianzhi.com
@@ -16336,6 +16338,7 @@ cheng-sen.com
 cheng.xin
 cheng95.com
 cheng95.net
+chengbo.org
 chengchuanren.com
 chengde.anjuke.com
 chengdebank.com
@@ -19255,7 +19258,6 @@ count22.51yes.com
 count23.51yes.com
 count24.51yes.com
 count26.51yes.com
-count27.51yes.com
 count28.51yes.com
 count29.51yes.com
 count3.51yes.com
@@ -32902,6 +32904,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
@@ -47586,7 +47589,6 @@ njlike.com
 njlzsx.net
 njmama.com
 njmuseum.com
-njnutz.com
 njpwerner.gallerycdn.azure.cn
 njqxrc.com
 njrc365.com

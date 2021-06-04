@@ -21299,7 +21299,6 @@ analyse.bcovery.com
 analyse.weather.com.cn
 analysis-acc-ssl.xunlei.com
 analysis.120ask.com
-analysis.afreecatv.com
 analysis.fc2.com
 analysis.huanqiu.com
 analysis.polarisoffice.com
@@ -71212,6 +71211,7 @@ github.githubassets.com
 github.global.ssl.fastly.net.daraz.com
 github.hezhijie0327.workers.dev
 github.io
+github.itzmx.com
 github3.mk-proxy.ml
 githubapp.com
 githubassets.com
@@ -84793,6 +84793,7 @@ ifacelog.dns.iqiyi.com
 ifacelog.iqiyi.com
 ifaclub.com
 ifacus.akivasuperfoods.com
+ifahao.com
 ifangarden.com
 ifanggo.com
 ifangka.com
@@ -88878,6 +88879,7 @@ ioffergift.com
 ioffershow.com
 ioffice100.com
 iogbwd.homamia.com
+ioguma.com
 ioi.seldos.com.tr
 ioio.in
 ioio.pw
@@ -154159,7 +154161,6 @@ sync.sync.viewdeos.com
 sync.taboola.com
 sync.targeting.unrulymedia.com
 sync.teads.tv
-sync.technoratimedia.com
 sync.tidaltv.com
 sync.vertamedia.com
 sync.widespace.com

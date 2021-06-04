@@ -19214,7 +19214,6 @@ cosedm.com
 cosfund.com
 coshelper.com
 coship.com
-cosimcloud.com
 cosize.com
 cosmoplat.com
 cosmos-video-api.immomo.com
@@ -26424,6 +26423,7 @@ faxindai.com
 faxingchina.com
 faxingcn.com
 faxingshuo.com
+faxingtupian.com
 faxingzhan.com
 faxiufang.com
 faxsun.com
@@ -51390,7 +51390,6 @@ public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.sparta.mig.tencent-cloud.net
 public.wlbaike.com
-publicassets.cdn-apple.com
 publicassets.cdn-apple.v.aaplimg.com
 publiccms.com
 publish-pic-cpu.baidu.com

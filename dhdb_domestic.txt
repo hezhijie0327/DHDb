@@ -2190,7 +2190,6 @@
 2.aili.com
 2.android.pool.ntp.org
 2.arpun.com
-2.asia.pool.ntp.org
 2.bashenghuo.com
 2.haoxue360.com
 2.nanrenwo.net
@@ -10815,7 +10814,6 @@ appstore.pandora.xiaomi.com
 appstore.ptmi.gitv.tv
 appstoreisvpic.alipayobjects.com
 appstoreisvpic.alipayobjects.com.danuoyi.tbcache.com
-appsupdate.sinaapp.com
 appsupport.qq.com
 appsupport.stargame.com
 apptao.com
@@ -24143,7 +24141,6 @@ dvzlbwmf.v1d.szbdyd.com
 dvzlfh6o.v1d.szbdyd.com
 dvzlw98j.v1d.szbdyd.com
 dw-collect.ksosoft.com
-dw-online.ksosoft.com
 dw.iask.com.cn
 dw.xcar.com.cn
 dw93s8.tdum.alibaba.com
@@ -35315,6 +35312,7 @@ img.qunliao.info.qiniudns.com
 img.qwps.cn
 img.res.meizu.com
 img.rmlt.com.cn
+img.samsungapps.com
 img.scoregg.com
 img.sogoucdn.com
 img.sogoucdn.com.p23.tc.cdntip.com

@@ -14628,7 +14628,6 @@ ab.dydab.com
 ab.gaoguang.com
 ab.hwwt8.com
 ab.hysdknb.com
-ab.meishiba.com.cn
 ab.pincai.com
 ab.taptapdada.com
 ab.yy.com
@@ -26125,6 +26124,7 @@ av.huijiwiki.com
 av.mmxtv.net
 av.nightlife141.com
 av.st
+av.u5m4.cn
 av.video.qq.com
 av.weboxtv.com
 av001.com
@@ -66096,7 +66096,6 @@ flightb1a4.com
 flightnetwork.com
 flightproxy-asea-02-teams.cloudapp.net
 flightproxy-asea-03-teams.cloudapp.net
-flightproxy-asea-06-teams.cloudapp.net
 flightproxy-asse-02-teams.cloudapp.net
 flightproxy-asse-03-teams.cloudapp.net
 flightproxy-asse-05-teams.cloudapp.net

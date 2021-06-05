@@ -668,7 +668,6 @@
 1.92caijing.com
 1.aili.com
 1.arpun.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
@@ -2758,6 +2757,7 @@
 28rv.com
 28tui.com
 28wxlc.tdum.alibaba.com
+28xl.com
 28y.com
 28yj.com
 2910853114.docs.qq.com
@@ -30160,6 +30160,7 @@ gzfsnet.com
 gzfxkwl.com
 gzgc120.com
 gzgdwl.com
+gzgjx99.com
 gzguard12th.com
 gzgxkj.com
 gzhangcha.com
@@ -52269,7 +52270,6 @@ qddhyjvm.v1d.szbdyd.com
 qddown.com
 qdds.net
 qdfuns.com
-qdgw.com
 qdgxzg.com
 qdhh.b2b.huangye88.com
 qdhsty.com

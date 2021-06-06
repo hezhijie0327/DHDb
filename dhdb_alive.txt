@@ -24342,7 +24342,6 @@ apps.mzstatic.com.mwcname.com
 apps.net.daraz.com
 apps.outfit7.com
 apps.paidy.com
-apps.poln.co
 apps.print-mo.net.daraz.com
 apps.samsung.com
 apps.sascdn.com
@@ -94993,7 +94992,6 @@ jyhmz.com
 jyhpt.tj.gov.cn
 jyhyfintax.com
 jyimg.com
-jyjhkz.com
 jyjjc.com
 jyjxlt2009.net
 jyjyj.cn
@@ -126522,7 +126520,6 @@ pj3635.com
 pj4977.com
 pj7997.com
 pj8866.com
-pj886888.com
 pj8877.com
 pjapi.jd.com
 pjapi.jd.com.gslb.qianxun.com
@@ -132142,6 +132139,7 @@ qpb.sohu.com
 qpb.sohu.com.cname209.yjs-cdn.com
 qpb187.com
 qpby00.com
+qpby0022.com
 qpby0055.com
 qpby0066.com
 qpby0077.com

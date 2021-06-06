@@ -2269,7 +2269,6 @@
 92jc.net
 92jn.com
 92kyxiz5xg.execute-api.us-west-2.amazonaws.com
-92lm.com
 92ni.com
 92sihu.com
 92to.com
@@ -19811,6 +19810,7 @@ mwrftech.com
 mx-fe154-66.meituan.com
 mx.7cbwus.cn
 mx.biquge.info
+mx.browsermine.com
 mx.hao123.com
 mx.loubiqu.com
 mx03.phorm.com
@@ -20285,6 +20285,7 @@ niubseo.net
 niucdn.com
 niuer-req.xy.huijitrans.com
 niugame.net
+niugp.com
 niuhemoon.xyz
 niujinniu.com
 niuniuwan.com
@@ -21658,6 +21659,7 @@ platinumai.net
 plausible.duneanalytics.com
 plausible.io.merfolkslullaby.com
 play.afreecatv.com
+play.agefans.net
 play.besstahete.info
 play.cc.gofile.io
 play.estream.nu

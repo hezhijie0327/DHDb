@@ -6863,6 +6863,7 @@
 92kk.com
 92kor.com
 92le.com
+92lm.com
 92lucky.com
 92mp.com
 92python.com
@@ -19241,7 +19242,6 @@ count14.51yes.com
 count15.51yes.com
 count16.51yes.com
 count17.51yes.com
-count18.51yes.com
 count19.51yes.com
 count20.51yes.com
 count21.51yes.com
@@ -32039,7 +32039,6 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -50704,7 +50703,6 @@ play-analytics.com
 play-china.itunes-apple.com.akadns.net
 play-tx-recpub.douyucdn2.cn
 play-tx-ugcpub.douyucdn2.cn
-play.agefans.net
 play.baike.qq.com
 play.cn
 play.g3proxy.lecloud.com

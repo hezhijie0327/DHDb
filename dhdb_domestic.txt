@@ -15633,7 +15633,6 @@ cdn1-epicgames-1251447533.file.myqcloud.com
 cdn1.lbesec.com
 cdn1.mbs.boc.cn
 cdn1.mbs.boc.cn.wswebpic.com
-cdn1.res.nx5.com
 cdn1.wenjuan.com
 cdn1.yeyushe.cn
 cdn108img.115.com
@@ -19049,6 +19048,7 @@ congyicn.com
 conn.wemeet.tencent.com
 conn1.coloros.com
 conn1.oppomobile.com
+conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com
@@ -19248,7 +19248,6 @@ count21.51yes.com
 count22.51yes.com
 count23.51yes.com
 count24.51yes.com
-count26.51yes.com
 count28.51yes.com
 count29.51yes.com
 count3.51yes.com
@@ -42979,7 +42978,6 @@ luolai.tech
 luolei.org
 luomapan.com
 luomi.com
-luoo.net
 luoohu.com
 luooqi.com
 luosi.com
@@ -48965,7 +48963,6 @@ ottpauth.yst.aisee.tv
 ottupdate.api.mgtv.com
 otype.com
 ou99.com
-ouapi.com
 oubk.com
 oudapay.com
 oudeqi.com

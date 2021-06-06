@@ -24791,7 +24791,6 @@ click.sinx.com
 click.sodatorrent.com
 click.surfrider.org
 click.tiara.daum.net
-click.tiara.kakao.com
 click.transactional.carousell.com
 click.tv.repubblica.it
 click.twcwigs.com
@@ -27023,6 +27022,7 @@ count.rtl.de
 count.webstatistik-bw.de
 count.yandeg.ru
 count13.51yes.com
+count18.51yes.com
 counter-strike.net
 counter.123counts.com
 counter.1gb.ru
@@ -68365,7 +68365,6 @@ myvisaluxuryhotels.com
 myvitality.actonservice.com
 myvnc.com
 mywabrands.com
-mywanbo.com
 mywang.net
 myway.com
 mywaytopay.info

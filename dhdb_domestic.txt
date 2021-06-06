@@ -6454,7 +6454,6 @@
 892055959.sched.s2.tdnsv5.com
 893497.shop.m.liebiao.com
 896691.com
-8979.com
 898.travel
 8988ef7e4489348c49eb9fbf8eb534c3.v.smtcdns.net
 8989118.com
@@ -25921,7 +25920,6 @@ eyaobei.com
 eyasglobal.com
 eycans.com
 eydata.net
-eye-young.vip
 eye024.com
 eye027.com
 eye0712.com
@@ -33962,7 +33960,6 @@ i.tddmp.com
 i.ulmdb.cn
 i.vip.iqiyi.com
 i.w.inmobi.cn
-i.w.inmobi.com
 i.waimai.meituan.com
 i.weread.qq.com
 i.work.weixin.qq.com
@@ -57914,6 +57911,7 @@ shuazhibo.com
 shubuzi.com
 shuc-android.ksord.com
 shuc-js.ksord.com
+shuc-pc-hamlet.ksord.com
 shucaiguaguo.com
 shuchongread.com
 shucong.com

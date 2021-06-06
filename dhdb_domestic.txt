@@ -8199,7 +8199,6 @@ adapi.shouji.360.cn
 adapter.shouji.360.cn
 adaptive.6000.liveplay.myqcloud.com
 adarrive.com
-adas-china.org
 adash-c.m.taobao.com
 adash-c.ut.taobao.com
 adash-emas.cn-hangzhou.aliyuncs.com
@@ -19242,7 +19241,6 @@ count.wk2.com
 count.xxxssk.com
 count10.51yes.com
 count11.51yes.com
-count12.51yes.com
 count14.51yes.com
 count15.51yes.com
 count16.51yes.com
@@ -48041,6 +48039,7 @@ nybaidu.net
 nychinaren.com
 nyckidsclub.com
 nydus.battle.net
+nyfg.com
 nync.com
 nyrsksw.com
 nysdyyh.com

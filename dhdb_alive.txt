@@ -35627,7 +35627,6 @@ c.wkanx.com
 c.wort-suche.com
 c.wxskqy.cn
 c.x.oanda.com
-c.xbjcgs.cn
 c.xdygw.com.cn
 c.xiaobaipan.com
 c.xlhwzx.cn
@@ -121104,6 +121103,7 @@ opank.com
 opark.com
 opatseg.com
 opbdps.bonprix.fi
+opc.cloud.tencent.com
 opciondragon.cl
 opco.com
 opcool.com
@@ -121279,7 +121279,6 @@ openclasses.info
 opencloud.wostore.cn
 opencmp.net
 opencode.net
-opencoding.com
 opencollective.com
 opencourse.pku.edu.cn
 opencourt.vip

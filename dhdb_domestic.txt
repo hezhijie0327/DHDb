@@ -10694,7 +10694,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -12892,6 +12891,7 @@ bi-sensors.duxiaoman.com
 bi-track.hypergryph.com
 bi.manhuaren.com
 bi.ptqy.gitv.tv
+bi.yeshen.com
 bian-min.com
 biancheng.net
 biancui.com
@@ -37681,7 +37681,6 @@ jindian120.com
 jindianweb.com
 jindidata.com
 jindingfm.com
-jindingmucai.com
 jindun007.net
 jindunfan.com
 jinduoduo.net

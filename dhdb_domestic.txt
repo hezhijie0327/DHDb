@@ -19261,7 +19261,6 @@ count39.51yes.com
 count4.51yes.com
 count41.51yes.com
 count42.51yes.com
-count43.51yes.com
 count44.51yes.com
 count45.51yes.com
 count46.51yes.com
@@ -32887,7 +32886,6 @@ httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
 httpdns.ocloud.heytapmobi.com
-httpdns.push.heytapmobi.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
 httpsbaidu.com

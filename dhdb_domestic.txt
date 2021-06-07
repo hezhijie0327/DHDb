@@ -10578,6 +10578,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -27382,6 +27383,7 @@ fphs5.com
 fplus.funshion.com
 fpoll.net
 fps-pro.ws.126.net
+fps7.com
 fptest.fraudmetrix.cn
 fpzw.com
 fq597.com
@@ -59788,7 +59790,6 @@ static.qiekj.com.w.kunlungr.com
 static.qimai.cn
 static.qiyi.com
 static.qiyi.com.w.alikunlun.com
-static.qysyyg.com
 static.res.qq.com
 static.runoob.com
 static.sensorsdata.cn

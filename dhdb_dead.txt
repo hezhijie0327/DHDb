@@ -6799,6 +6799,7 @@ cdn.ttkx22n.com
 cdn.u9377w.com
 cdn.us.goldspotmedia.com
 cdn.vamaker.com
+cdn.vdopia.com
 cdn.wg.uproxx.com
 cdn.x-lift.jp
 cdn.yimg.com
@@ -12025,7 +12026,6 @@ fpc.inxinternational.com
 fpgall.com
 fpgaplayer.com
 fpliu.com
-fps7.com
 fpwap.com
 fq123.biz
 fqgj.net
@@ -24727,6 +24727,7 @@ static.ku6.com
 static.l3.cdn.adbucks.com
 static.oroll.com
 static.pay.baidu.com
+static.qysyyg.com
 static.reasedoper.pw
 static.sdg-china.com
 static.sellbuyshop.cn

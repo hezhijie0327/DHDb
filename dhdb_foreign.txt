@@ -578,7 +578,6 @@
 100ben.net
 100classicbooks.com
 100cyrc.com
-100dangong.com
 100daystooffload.com
 100dnrc.com
 100ehui.com
@@ -5292,6 +5291,7 @@
 886666.com
 886868.cc
 886bl.com
+886vps.com
 8877buyu.com
 887he.com
 887yp.com
@@ -12772,7 +12772,6 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
-api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.geetest.com
@@ -22975,6 +22974,7 @@ cdnappicons.appsflyer.com
 cdnas.hyperpromote.com
 cdnasset.dantri.com.vn
 cdnaws.mobidea.com
+cdnbest.com
 cdnbest.net
 cdncache-a.akamaihd.net
 cdncache1-a.akamaihd.net
@@ -36574,6 +36574,7 @@ eugenecascadescoast.org
 eugeny.github.io
 euk.slyip.net
 eulam.com
+eulatracking-public-service-prod06.ol.epicgames.com
 euldnr.rezat.ru
 eule1.pmu.fr
 eulerian.belambra.be
@@ -58451,7 +58452,6 @@ ldvip32.com
 ldvip34.com
 ldvip35.com
 ldvip36.com
-ldvip37.com
 ldvip40.com
 ldvip41.com
 ldvip42.com

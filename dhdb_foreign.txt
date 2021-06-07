@@ -12782,6 +12782,7 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -47599,7 +47600,6 @@ hezxs.com
 hf-la-68.s3.amazonaws.com
 hf2358.com
 hf2619.com
-hf3bk.shop
 hfashionmall.com
 hfd.bridgetowermedia.com
 hfday.com
@@ -50645,7 +50645,6 @@ ikakuedu.com
 ikancai.com
 ikandian.com
 ikanfan.com
-ikangke.com
 ikanwzd.top
 ikdxfh.jollyroom.se
 ikea.com
@@ -54558,6 +54557,7 @@ jbo84.com
 jbo86.com
 jbo87.com
 jbo8822.com
+jbo8877.com
 jbo9.com
 jbo909.com
 jbo98.com
@@ -78350,7 +78350,6 @@ pu0037.com
 pu0038.com
 pu0039.com
 pu0040.com
-pu2255.com
 pu6622.com
 pu889.com
 pu9955.com

@@ -1767,7 +1767,6 @@
 2.biqle.ru
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
-2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.courier2-push-apple.com.akadns.net
@@ -16313,7 +16312,6 @@ bbb.po888.net
 bbb111.com
 bbb112.net
 bbb2017.duckdns.org
-bbb36.net
 bbb916.net
 bbbaaa.com
 bbbb.com
@@ -22501,7 +22499,6 @@ cctvctpc.com
 cctvsdyxl.com
 ccue.ca
 ccue.com
-ccv.jiumishow.com
 ccv.ybt999.com
 ccv5.com
 ccvoice.ca
@@ -29220,7 +29217,6 @@ d3t5ngjixpjdho.cloudfront.net
 d3t9nyds4ufoqz.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
 d3tivku5hdr7jk.cloudfront.net
-d3tsytm1wtjqo2.cloudfront.net
 d3u3it754fo1zz.cloudfront.net
 d3u5zn5k9864p0.cloudfront.net
 d3ud741uvs727m.cloudfront.net
@@ -58607,7 +58603,6 @@ ledongzhibo666.com
 ledongzhibo6666.com
 ledongzhibo777.com
 ledongzhibo7777.com
-ledongzhibo888.com
 ledongzhibo8888.com
 ledongzhibo93.com
 ledongzhibo94.com
@@ -68055,6 +68050,7 @@ mycyberuniverse.disqus.com
 mydad.info
 mydas.mobi
 mydati.com
+myday.cn
 myddns.com
 mydebook.com
 mydeejayspace.com

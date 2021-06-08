@@ -15149,7 +15149,6 @@ cccity.cc
 cccnec.com
 cccpan.com
 ccctspm.org
-cccyds.com
 cccyun.cc
 ccdace.hupu.com
 ccdby.com
@@ -18248,7 +18247,6 @@ cn1.relay.iplc.pro
 cn12365.org
 cn168.com
 cn18k.com
-cn2.relay.iplc.pro
 cn20.com
 cn22.net
 cn2che.com
@@ -21422,7 +21420,6 @@ ddqayjr7.v1d.szbdyd.com
 ddqcw.com
 ddske.com
 ddstarapp.com
-ddsy.com
 ddtugame.com
 ddun.com
 ddurl.to
@@ -44864,6 +44861,7 @@ mgame.sohu.com
 mgamevideo.serviceproxy.qq.com
 mgate.jd.com
 mgate.jd.com.gslb.qianxun.com
+mgbsdk.matrix.netease.com
 mgc-games.com
 mgc.meituan.com
 mgcdn2.pconline.com.cn
@@ -45533,6 +45531,7 @@ mmmono.com
 mmmtea.net
 mmocgame.qpic.cn
 mmocgame.qpic.cn.sched.p2v6.tdnsv6.com
+mmonly.cc
 mms-graph.cdn.bcebos.com
 mms-static.cdn.bcebos.com
 mms-voice.cdn.bcebos.com

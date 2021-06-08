@@ -1763,6 +1763,7 @@
 2-wlan-switch.net.daraz.com
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
+2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -21446,7 +21447,6 @@ ca3.revieworbit.com
 ca4.revieworbit.com
 ca488.com
 ca5066.com
-ca518.com
 ca538.com
 ca5566.com
 ca559.com
@@ -24926,7 +24926,6 @@ click.sinx.com
 click.sodatorrent.com
 click.surfrider.org
 click.tiara.daum.net
-click.tiara.kakao.com
 click.transactional.carousell.com
 click.tv.repubblica.it
 click.twcwigs.com
@@ -50381,7 +50380,6 @@ i8cn.com
 i8xz.com
 i9.ytimg.com
 i999.fun
-i999.live
 i999.me
 i999.site
 i999.tv
@@ -68547,7 +68545,6 @@ mxjiasu.com
 mxjtedu.com
 mxmrt.com
 mxpdsu.bhv.fr
-mxpkw.com
 mxplay.com
 mxptint.net
 mxria.com

@@ -1,5 +1,6 @@
 0-100.com
 0-6.com
+0.cn.pool.ntp.org
 0.pic.pc6.com
 0.up.qingdaonews.com
 00.auto.sohu.com
@@ -8770,6 +8771,7 @@ ahhs10000.com
 ahhtzx.com
 ahhxcm.com
 ahjdq.com
+ahjem.com
 ahjgxy.com
 ahjk.com
 ahjtxx.com
@@ -42385,7 +42387,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn

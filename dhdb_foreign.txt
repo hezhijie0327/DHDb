@@ -6334,7 +6334,6 @@ a.wishabi.com
 a.wlfng.com
 a.xanga.com
 a.xlpu.cc
-a0.app.xiaomi.com
 a0.raidrush.org
 a0001.net
 a01.korrelate.net
@@ -13264,6 +13263,7 @@ appcloud.com
 appcloudcdn.com
 appconsent.io
 appcontent.serif.com
+appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appduu.com
@@ -76567,6 +76567,7 @@ ping.richardtaylor.dev
 ping.staticmoly.me
 ping.ublock.org
 pingan.com.hk
+pingapple.com
 pingback.giphy.com
 pingback.issuu.com
 pingdom.net
@@ -94826,7 +94827,6 @@ syditie.com
 sydm.hk
 sydneytoday.com
 sydsvenskan.se
-sydzdiy.com
 syebh.com
 syf.com
 syfwnf.society6.com

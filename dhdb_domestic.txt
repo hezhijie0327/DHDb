@@ -16161,7 +16161,6 @@ channel.api.duapp.com
 channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
 channel.kandian.qq.com
-channel.m.163.com
 channel.vaptcha.net
 channel.vaptcha.net.w.cdngslb.com
 channel2-account-ssl.xunlei.com
@@ -56638,7 +56637,6 @@ seechentech.com
 seecmedia.net
 seecsee.com
 seed-china.com
-seed.bitcoin.sprovoost.nl
 seedasdan.org
 seeddsp.com
 seedit.cc
@@ -64248,7 +64246,6 @@ ucren.com
 ucsec.ucweb.com
 ucsec1.ucweb.com
 uctrac.com
-ucus.ucweb.com
 ucying.com
 uczhidao.com
 ucziliao.com

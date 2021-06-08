@@ -12846,7 +12846,6 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
-api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -59047,7 +59046,6 @@ ldvip28.com
 ldvip29.com
 ldvip30.com
 ldvip31.com
-ldvip32.com
 ldvip34.com
 ldvip35.com
 ldvip36.com
@@ -95229,7 +95227,6 @@ t.nativendo.de
 t.nbyongle.com
 t.nyaatracker.com
 t.ofsys.com
-t.oohxa.xyz
 t.orzdream.com
 t.overflow.biz
 t.paydirekt.de

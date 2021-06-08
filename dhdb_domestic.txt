@@ -669,6 +669,7 @@
 1.92caijing.com
 1.aili.com
 1.arpun.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
@@ -57902,7 +57903,6 @@ shuazhibo.com
 shubuzi.com
 shuc-android.ksord.com
 shuc-js.ksord.com
-shuc-pc-hamlet.ksord.com
 shucaiguaguo.com
 shuchongread.com
 shucong.com

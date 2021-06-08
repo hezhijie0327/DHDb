@@ -2084,7 +2084,6 @@
 23us.so
 23us.tv
 23us23us.com
-23uscom.com
 23w4erdtfg.000webhostapp.com
 23wx.cc
 23wx.la
@@ -29785,6 +29784,7 @@ data-a.ns.emailvision.net.daraz.com
 data-beacons.s-onetag.com
 data-cdn.mbamupdates.com
 data-collector.wefi.com
+data-detect.nie.netease.com
 data-failover.eroadvertising.com
 data-id.ads.oppomobile.com
 data-optout-service.uca.cloud.unity3d.com
@@ -62677,7 +62677,6 @@ manhuadao.com
 manhuadb.com
 manhuagui.com
 manhuaju.com
-manhuaniu.com
 manhuapi.com
 manhuaren.cc
 manhuaren.com

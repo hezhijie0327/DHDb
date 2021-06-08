@@ -4608,7 +4608,6 @@
 6hccbb.com
 6hch.co
 6hch.com
-6hch001.com
 6i7mwo7.x.incapdns.net
 6ih6.vip
 6kongbao.com
@@ -12845,6 +12844,7 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -65930,7 +65930,6 @@ mfj.se
 mfkmyve.retrocoder.org
 mfkpp.com
 mfocus.vn
-mfpjrj.com
 mfqqx.com
 mfqzlc.silver.com
 mfs-shatel-training.maaii.com
@@ -79493,6 +79492,7 @@ pyddd.com
 pydnsv.ejobs.ro
 pyfunceble.github.io
 pyguanf.com
+pyguohai.com
 pyhapp.com
 pyjsh.com
 pylist.com

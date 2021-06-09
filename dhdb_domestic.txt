@@ -7773,7 +7773,6 @@ abc.jia.com
 abc.jia.com.wswebcdn.com
 abc.rwpt.top
 abc.yjbys.com
-abc12345.net
 abc12366.com
 abc360.com
 abc369.net
@@ -19234,11 +19233,9 @@ count.vrs.sohu.com
 count.west263.com
 count.wk2.com
 count.xxxssk.com
-count10.51yes.com
 count11.51yes.com
 count14.51yes.com
 count15.51yes.com
-count16.51yes.com
 count17.51yes.com
 count20.51yes.com
 count21.51yes.com
@@ -51800,7 +51797,6 @@ q1.yyxwzx.com
 q11.cnzz.com
 q14.cnzz.com
 q17.cnzz.com
-q1scv.vov0.com
 q2.qlogo.cn
 q2100.com
 q2d.com

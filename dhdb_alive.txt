@@ -16195,7 +16195,6 @@ ad110.com
 ad12.focalink.com
 ad121m.com
 ad123.ynet.com
-ad12345.com
 ad13.focalink.com
 ad14.focalink.com
 ad15.focalink.com
@@ -23460,6 +23459,7 @@ apicasystem.com
 apicdn.face.pptv.com
 apicloud.com
 apiconfig.adwo.com
+apidd.yxtun.com
 apidgp-gameplayer.games.dmm.com
 apidocs-winter.net.daraz.com
 apidocs.freya.net.daraz.com
@@ -55877,6 +55877,7 @@ download.ali.xmcdn.com.w.alikunlun.com.qr.uuhimalayanqm.com
 download.alicdn.com
 download.amd.com
 download.bav.baidu.com
+download.bluesprig.com
 download.camfrogcdn.com
 download.cloud.189.cn
 download.cnet.com
@@ -137721,6 +137722,7 @@ rollout.io
 rolls-roycecullinan.com
 rolls-roycemotorcars.com
 rolls-roycemotorcarsna.com
+rollslitters.net
 rollupjs.com
 rologo.com
 rolsociety.org
@@ -153227,7 +153229,6 @@ stoneberry.com
 stonebuy.com
 stoneios.com
 stoneo2o.com
-stoneoption.com
 stonepoll.com
 stonepoll.net
 stoneread.com

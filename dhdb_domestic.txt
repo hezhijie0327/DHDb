@@ -1,6 +1,7 @@
 0-100.com
 0-6.com
 0.cn.pool.ntp.org
+0.pic.paopaoche.net
 0.pic.pc6.com
 0.pool.ntp.org
 0.up.qingdaonews.com
@@ -10605,7 +10606,6 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -21299,6 +21299,8 @@ dbzyz.com
 dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
+dc.ads.linkedin.com
+dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -42419,7 +42421,6 @@ log.mix.sina.com.cn
 log.mmstat.com
 log.moviebox.baofeng.com
 log.mpns.hunantv.com
-log.music.baidu.com
 log.nuomi.com
 log.nvwa.baofeng.com
 log.nxjcwh.com
@@ -46886,7 +46887,6 @@ natqs.bealge.sogou.com
 naturali.io
 nature-museum.net
 natywish.com
-nauac.com
 navchina.com
 navigis.uc.cn
 navimentum.com
@@ -54209,6 +54209,7 @@ r-tms.net
 r.99waiyu.com
 r.alicpd.top
 r.alimc1.top
+r.browser.miui.com
 r.bxb.oupeng.com
 r.djsn888.com
 r.dmp.sina.cn

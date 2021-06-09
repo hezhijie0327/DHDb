@@ -13263,7 +13263,6 @@ appcloud.com
 appcloudcdn.com
 appconsent.io
 appcontent.serif.com
-appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appduu.com
@@ -54697,6 +54696,7 @@ iyoutube.com
 iysse.com
 iytc.net
 iyuanfang-my.sharepoint.com
+iyunzk.com
 iyvzqt.agabangmall.com
 iyx668.com
 izamay.com
@@ -59018,7 +59018,6 @@ ldserv02.adtech.fr
 ldserv02.adtech.us
 ldshj.com
 ldsjp.com
-ldsp22.com
 ldsp33.com
 ldsp6.com
 ldsp66.com
@@ -77094,7 +77093,6 @@ plausible.phuctm97.com
 plausible.play.date
 plausible.prod.sketch.com
 plausible.promlabs.com
-plausible.punchfork.com
 plausible.rachel.systems
 plausible.regex.help
 plausible.resilienz-kongress.de

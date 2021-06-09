@@ -941,6 +941,7 @@
 086jx.com
 086kd.com
 086ld.com
+086mai.com
 086xinhua.com
 087ld.com
 0885299.com
@@ -108836,7 +108837,6 @@ media-rockstargames-com.akamaized.net
 media-router-flurry1.prod.media.wg1.b.yahoo.com
 media-servers.net
 media-serving.com
-media-static.jointreport-switch.com
 media-system.de
 media-tel.hypers.com.cn
 media-tjbh-person.tjoss.xstore.ctyun.cn
@@ -118393,6 +118393,7 @@ nncgs.com
 nncj.com
 nndims.com
 nnduyi.com
+nnera.com
 nnews.eu
 nnf901.com
 nnfzsx.com

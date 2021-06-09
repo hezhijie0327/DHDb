@@ -13583,6 +13583,7 @@ a.diaoyu.cn
 a.dirtyasmr.com
 a.disabledns.emailvision.net.daraz.com
 a.dlads.cn
+a.dmall.com
 a.docs-ns.emailvision.net.daraz.com
 a.dogfood-ns.emailvision.net.daraz.com
 a.dogfood.ns.emailvision.net.daraz.com
@@ -19715,7 +19716,6 @@ aituwo.com
 aitxt.com
 aityp.com
 aitype.net
-aiurl.com
 aiuu2.com
 aiuu2.org
 aiuuo.com
@@ -136256,6 +136256,7 @@ region.ifeng.com
 region.keele-nnw-leis-mc-leis.net.daraz.com
 region.r-ht-2.net.daraz.com
 regionalband.weebly.com
+regionalwifi.net
 regionc.ns.emailvision.net.daraz.com
 regiongold.com
 regioninfo-pa.googleapis.com

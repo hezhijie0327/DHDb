@@ -15502,6 +15502,7 @@ act.commercial.shouji.360.cn
 act.convergencetraining.com
 act.cwsglobal.org
 act.daoju.qq.com
+act.dmall.com
 act.guanjia.qq.com
 act.lanap.com
 act.online.engineering.nyu.edu
@@ -37560,7 +37561,6 @@ cc-api-behance.adobe.io
 cc-api-data.adobe.io
 cc-api-teamprojects-ue1.adobe.io
 cc-api-teamprojects.adobe.io
-cc-asea-08-skype.cloudapp.net
 cc-asea-09-skype.cloudapp.net
 cc-asse-05-skype.cloudapp.net
 cc-asse-06-skype.cloudapp.net
@@ -39120,7 +39120,6 @@ centanet.com
 centauro.com.br
 centavoip.com.ar
 centcc.com
-centent.streamp1ay.cc
 centent.streanplay.cc
 cententcymbals.com
 center2.makeding.com
@@ -71102,7 +71101,6 @@ gffunds.com.cn
 gffwq.com
 gfglb.com
 gfgold.com.hk
-gfgupiao.com
 gfgywe.abril.com.br
 gfh84jfh64ap36.com
 gfieo.com
@@ -76981,7 +76979,6 @@ gzxdf.com
 gzxf35.com
 gzxftz.com
 gzxhdyc.com
-gzxiaopeng.com
 gzxict.com
 gzxjzc.com
 gzxszf.com
@@ -83152,6 +83149,7 @@ hungerstrikeforaids.org
 hungyatw.com
 hunjuwang.com
 hunker.com
+hunlaife.cn
 hunlang.com
 hunli100.com
 hunlihunli.com
@@ -99801,7 +99799,6 @@ ld-5.itunes-apple.com.akadns.net
 ld-5.itunes.apple.com
 ld-8.itunes-apple.com.akadns.net
 ld-8.itunes.apple.com
-ld.kuaigames.com
 ld.mediaget.com
 ld.ppdai.com
 ld.td22.com
@@ -104103,7 +104100,6 @@ lt1118.com
 lt118.com
 lt132.com
 lt2011.com
-lt299.com
 lt3c.com
 lt499.com
 lt509.com
@@ -132716,7 +132712,6 @@ qkhhjm.autoscout24.nl
 qkhtml.com
 qkkjd.com
 qkl123.com
-qklyz.com
 qknisog514.ryq85m.com
 qknown.com
 qkshare.com
@@ -154165,7 +154160,6 @@ sunstar-shop.jp
 sunstu.com
 sunta.com.tw
 suntalk-shftz.com
-suntechauto.com.cn
 suntechmed.com
 suntop168.com
 suntray.com

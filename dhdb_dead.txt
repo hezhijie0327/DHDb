@@ -4253,7 +4253,6 @@ anquan.baidu.cn
 anquan.luomi.com
 anquanbao.com
 anruan.com
-anshugao.com
 ansiding.com
 ant.conversive.nl
 antarx.com
@@ -13114,6 +13113,7 @@ gz5.com
 gz9d.com
 gzbj.lianjia.com
 gzbmw.com
+gzbsjg.com
 gzcdns.com
 gzfangs.com
 gzfenda.com
@@ -22161,6 +22161,7 @@ pub1.cope.es
 pub2.cdn.webmanagercenter.com
 pubgzebi.ddns.net
 publi.forum.ad
+public.gw.dmall.com
 publicidades.redtotalonline.com
 publish.ad.youth.cn
 publish.web.id

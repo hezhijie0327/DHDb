@@ -7827,6 +7827,7 @@ abtest.tantanapp.com
 abto.cc
 abuquant.com
 abuyun.com
+ac-dun.security.ntes53.netease.com
 ac.51job.com
 ac.86huoche.com
 ac.atpanel.com
@@ -9827,6 +9828,7 @@ anrip.com
 anruichina.com
 anshan.anjuke.com
 anshouji.com
+anshugao.com
 ansky.com
 ansteelgroup.com
 answer-question.dftoutiao.com
@@ -51360,7 +51362,6 @@ public-v6.sparta.mig.tencent-cloud.net
 public.app.autohome.com.cn
 public.creditchina.gov.cn
 public.ffquan.cn
-public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.sparta.mig.tencent-cloud.net
 public.wlbaike.com

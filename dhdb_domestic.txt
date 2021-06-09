@@ -10219,6 +10219,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
@@ -31599,7 +31600,6 @@ hepmall.com
 hepost.com
 hercity.com
 hercules-micro.com
-herder.cdn.bcebos.com
 herdsric.com
 here120.com
 herebbs.com

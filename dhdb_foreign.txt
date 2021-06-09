@@ -27032,7 +27032,6 @@ core.bruynzeelkeukens.nl
 core.gcp.vip.tantanapp.com
 core.royalads.net
 core.spreedly.com
-core.tantanapp.com
 core.unit-sense.net
 core.vnecdn.com
 core3.proxyswitcher.com
@@ -47173,7 +47172,6 @@ hammer-europe.com
 hammer.de
 hammer.net
 hampoo.net
-hamptoroads.com
 hamropatro.com
 hamster.darkbit.io
 hamza1366.hopto.org
@@ -87389,7 +87387,6 @@ shukuai.com
 shuma2.com
 shumerlya.ru
 shumil.co
-shumilou.org
 shumo.com
 shundi.us
 shunfalighting.com
@@ -87619,7 +87616,6 @@ simonsharp.ch
 simonshen.blog
 simp.red
 simple-cdn.s3.amazonaws.com
-simple-is-better.com
 simple.avaya.com
 simple.bootify.io
 simpleanalytics.com

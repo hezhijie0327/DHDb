@@ -2,6 +2,7 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 0000gz.com
@@ -10388,7 +10389,6 @@ api.weixin.qq.com
 api.wesure.cn
 api.wmpvp.com
 api.wsq.umeng.com
-api.wtzw.com
 api.wxlink.szyuexin.com.cn
 api.xd.com
 api.xiachufang.com

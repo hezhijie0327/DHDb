@@ -5888,6 +5888,7 @@
 798ydh.com
 799.net
 7999.com
+7999.tv
 799job.com
 79ce7e11.qc.x.bsgslb.cn
 79ce7e12.qc.x.bsgslb.cn
@@ -7834,6 +7835,7 @@ ac.51job.com
 ac.86huoche.com
 ac.atpanel.com
 ac.csdn.net
+ac.dun.163.com
 ac.dun.163yun.com
 ac.jice.io
 ac.mmstat.com
@@ -10254,7 +10256,6 @@ api.inmeng.net
 api.installer.xiaomi.com
 api.interaction.sohu.com
 api.io.mi.com
-api.iplay.163.com
 api.iqiyi.com
 api.ishansong.com
 api.itaoxiaoshuo.com

@@ -1635,6 +1635,7 @@
 1db96f2d5fce09432b0d584ba678af7a.clo.footprintdns.com
 1def0717922a807f482ee35bbcbba0f4.nrb.footprintdns.com
 1degree.com.au
+1dfa.com
 1dmp.io
 1dot1dot1dot1.cloudflare-dns.com
 1dpw.com
@@ -83398,7 +83399,6 @@ rum.uptime.com
 rum.vhwrz.net
 rum14.perf.linkedin.com
 rum18.perf.linkedin.com
-rum8.perf.linkedin.com
 rumah123.com
 rumahkerennn.com
 rumahsabiq.com

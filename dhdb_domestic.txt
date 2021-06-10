@@ -1732,7 +1732,6 @@
 178du.com
 178hui.com
 178linux.com
-178online.com
 178pt.com
 178rw.com
 178yr.com
@@ -7511,7 +7510,6 @@ a1010.phobos.apple.com
 a11.gdl.netease.com
 a1166.com
 a135.net
-a1410.oadz.com
 a1548331f64d8af4385b4a7b9d2ccfa2.dl.txcdns.com
 a15d55423.5tps.xyz
 a16422345985850d.cdn.jiashule.com
@@ -23308,7 +23306,6 @@ dragonest.com
 dragonnewsru.com
 dragonsea-china.com
 dramx.com
-drasy.net
 dratio.com
 drawyoo.com
 drc6kayy.v1d.szbdyd.com
@@ -58684,6 +58681,7 @@ snooda.com
 snor-china.com
 snowballsecurities.com
 snowflake.qq.com
+snowpear.com
 snpimg.gtimg.com
 snrat.com
 snren.com

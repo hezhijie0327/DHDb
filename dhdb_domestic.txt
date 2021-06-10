@@ -10251,6 +10251,7 @@ api.inmeng.net
 api.installer.xiaomi.com
 api.interaction.sohu.com
 api.io.mi.com
+api.iplay.163.com
 api.iqiyi.com
 api.ishansong.com
 api.itaoxiaoshuo.com
@@ -12586,7 +12587,6 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -43157,6 +43157,7 @@ lynkco.com
 lynow.cn
 lyobs.com
 lypd.com
+lypdl.com
 lyps.net
 lypyxx.com
 lyra.iscrv.com

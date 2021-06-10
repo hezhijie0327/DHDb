@@ -10219,7 +10219,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
@@ -30706,7 +30705,6 @@ hao123.com
 hao123.com.sg
 hao123.xywy.com
 hao123union.baidu.com
-hao1258.com
 hao163.com
 hao181.com
 hao1970.com

@@ -3162,7 +3162,6 @@
 360che.com
 360chezhan.com
 360chou.com
-360chuguo.com
 360doc.cn
 360doc.com
 360doc2.net
@@ -42044,6 +42043,7 @@ liuxuesmd.com
 liuxueyun.com
 liuxx.com
 liuyanbaike.com
+liuyang.com
 liuyangfcw.com
 liuyanzhao.com
 liuyifei.cc
@@ -47966,6 +47966,7 @@ nxggzyjy.org
 nxgqt.org
 nxgtjt.com
 nxhh.net
+nxhjf.com
 nxhscxkj.com
 nxin.com
 nxly766.com
@@ -51333,6 +51334,7 @@ public-v6.sparta.mig.tencent-cloud.net
 public.app.autohome.com.cn
 public.creditchina.gov.cn
 public.ffquan.cn
+public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.sparta.mig.tencent-cloud.net
 public.wlbaike.com

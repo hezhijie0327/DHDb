@@ -36166,7 +36166,6 @@ cache.amap.com.danuoyi.tbcache.com
 cache.betweendigital.com
 cache.celtra.com
 cache.cnzz.com
-cache.cswsadlab.com.w.cdngslb.com
 cache.datamart.windows.com
 cache.m.ptqy.gitv.tv
 cache.pack.google.com
@@ -41185,6 +41184,7 @@ chinese-memorial.org
 chinese-no1.com
 chinese.engadget.com
 chinese.gospelherald.com
+chinese.irib.ir
 chinese.net.au
 chinese.soifind.com
 chinese.uhrp.org

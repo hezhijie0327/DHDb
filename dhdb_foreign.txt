@@ -418,7 +418,6 @@
 086xinhua.com
 087ld.com
 0885299.com
-088m5.com
 089338.com
 08946.com
 08952.com
@@ -12831,7 +12830,6 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
-api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -30138,6 +30136,7 @@ dc.applicationinsights.azure.com
 dc.arrivalist.com
 dc.audi.com
 dc.banggood.com
+dc.chillyroom.com
 dc.di.atlas.samsung.com
 dc.glbtls.t.co
 dc.oracleinfinity.io

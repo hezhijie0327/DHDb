@@ -93844,7 +93844,6 @@ stun.l.google.com
 stun.nimiq-network.com
 stun.paradox-interactive.com
 stun1.nimiq-network.com
-stun1.webrtc.us-east-1.prod.mozaws.net
 stun2.nimiq-network.com
 stun3.nimiq-network.com
 stun4.nimiq-network.com
@@ -97616,6 +97615,7 @@ timesmembership.com
 timesnow.in
 timesnow.tv
 timesnownews.com
+timeso.cc
 timesofindia.com
 timesofindia.indiatimes.com
 timesofisrael.com

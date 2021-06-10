@@ -19238,7 +19238,6 @@ count.xxxssk.com
 count11.51yes.com
 count14.51yes.com
 count15.51yes.com
-count17.51yes.com
 count20.51yes.com
 count21.51yes.com
 count22.51yes.com
@@ -34023,6 +34022,7 @@ i51game.com
 i574ou0.cdnnodedns.cn
 i5i6.net
 i5zhen.com
+i6.weather.oppomobile.com
 i618.com.cn
 i7.3conline.com
 i7aot4.com
@@ -40330,7 +40330,6 @@ kuaming.com
 kuanff.com
 kuang-chi.com
 kuang-chi.org
-kuangchanglang.com
 kuangjijia.com
 kuangjiwan.com
 kuangjue.com
@@ -42372,7 +42371,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -52336,7 +52334,6 @@ qgysj.org
 qgzzz.com
 qh-cdn.com
 qh-lb.com
-qh.dlservice.microsoft.com
 qh.gsxt.gov.cn
 qh326dbm.v1d.szbdyd.com
 qh393qw3.v1d.szbdyd.com
@@ -62074,7 +62071,6 @@ thethirdmedia.com
 thetigerhood.com
 thetongji.com
 thetype.cloud
-thexnode.com
 theyun.com
 thfdcsoft.com
 thfund.com.cn

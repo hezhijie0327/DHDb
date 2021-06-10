@@ -5736,7 +5736,6 @@
 95xiu.com
 96.ip-51-255-193.eu
 960871.shop.m.cnlist.org
-965bbb.com
 966cpa.com
 96777.cc
 96804.com
@@ -19626,7 +19625,6 @@ bookcreator.com
 bookdepository.co.uk
 bookdepository.com
 bookepub.com
-bookfi.net
 bookforall.ru
 bookforall1.bookforall.ru
 bookgb.bfnn.org
@@ -27022,6 +27020,7 @@ core.bruynzeelkeukens.nl
 core.gcp.vip.tantanapp.com
 core.royalads.net
 core.spreedly.com
+core.tantanapp.com
 core.unit-sense.net
 core.vnecdn.com
 core3.proxyswitcher.com
@@ -48546,6 +48545,7 @@ hk.mobi.yahoo.com
 hk.myblog.yahoo.com
 hk.napi.ucweb.com
 hk.news.yahoo.com
+hk.pool.ntp.org
 hk.schroders.email
 hk.search.yahoo.com
 hk.tomonews.net
@@ -79670,6 +79670,7 @@ qgumjp.asiae.co.kr
 qgumjp.joins.com
 qgumjp.koreanzz.co.kr
 qgzskk.sunset-hill.jp
+qh.dlservice.microsoft.com
 qhdczzs.com
 qhigh.com
 qhj-isat.com

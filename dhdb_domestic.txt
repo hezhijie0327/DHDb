@@ -3,7 +3,6 @@
 0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 0000gz.com
@@ -5953,6 +5952,7 @@
 7chacha.com
 7cmz.com
 7colorblog.com
+7cwo.com
 7cxk.com
 7d0d6de04e6cb9adae2597632d22b9fe.dlied1.cdntips.net
 7d32bf4a03a8627631e57a447594fc1d.dlied1.cdntips.net
@@ -12309,7 +12309,6 @@ bbs.nga.cn.wswebcdn.com
 bbs.pcauto.com.cn
 bbs.uc.cn
 bbs.ucdns.uc.cn
-bbs.vcb-s.com
 bbs.xbiao.com
 bbs.xiuno.com
 bbs.xiuno.com.aocdn.com
@@ -27037,7 +27036,6 @@ fjjyxny.com
 fjly.com
 fjmlh.com
 fjmstc.com
-fjmwjx.com
 fjnet.com
 fjnjl.net
 fjotic.com
@@ -33192,6 +33190,7 @@ hui20.com
 hui800.com
 hui800.net
 huian.baixing.com
+huibenbeno.win
 huibo.com
 huicaiba.com
 huicaishui.net
@@ -38523,7 +38522,6 @@ js.ub.fang.com
 js.ubaike.cn
 js.union-wifi.com
 js.users.51.la
-js.users.51.la.wsdvs.com
 js.xtgreat.com
 js.xuexila.com
 js.xz6d.com
@@ -62357,7 +62355,6 @@ timedoo.com
 timelog.moviebox.baofeng.com
 timeofdate.com
 timeoutbeijing.com
-timeoutcn.com
 timepill.net
 timeread.com
 timeread.net

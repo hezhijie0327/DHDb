@@ -12986,6 +12986,7 @@ api.wfxll.com
 api.wipmania.com
 api.wootric.com
 api.wootric.com.herokudns.com
+api.wtzw.com
 api.xmrpool.net
 api.xuann.wang
 api02.thebigknow.com
@@ -23020,7 +23021,6 @@ cdn.teads.tv
 cdn.techcommunity.microsoft.com
 cdn.tekoapis.com
 cdn.termius.com
-cdn.tinglian.com
 cdn.tinypass.com
 cdn.tophatch.com
 cdn.tpmedia.online
@@ -25689,6 +25689,7 @@ cnobol.com
 cnodejs.org
 cnol.cc
 cnonline.org
+cnpatent.com
 cnpet.cc
 cnplugins.com
 cnpmjs.org
@@ -28974,6 +28975,7 @@ d1x0p9n0l25ki7.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1xinhaiy2uqbu.cloudfront.net
 d1xkyo9j4r7vnn.cloudfront.net
+d1xtw.com
 d1xwveyzg9vmq2.cloudfront.net
 d1y7gcia52oqq5.cloudfront.net
 d1ybdlg8aoufn.cloudfront.net

@@ -10063,6 +10063,7 @@ apgblogs.com
 apgoview.com
 aphidic.com
 api-20200527.xkspbz.com
+api-a.op-mobile.opera.com
 api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
@@ -32850,7 +32851,6 @@ htsc.com
 htsc.com.cn
 htsec.com
 htsgh5.com
-htsh.cc
 htstzm.com
 httingshu.com
 http.gslb.ksyuncdn.com
@@ -40994,7 +40994,6 @@ lcux.net
 lcxwfc.com
 lczq.com
 lczyy.com
-ld.kuaigames.com
 ld.ppdai.com
 ld.td22.com
 ld0766.com

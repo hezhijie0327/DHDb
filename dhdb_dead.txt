@@ -6828,6 +6828,7 @@ cdn.softlayer.net
 cdn.static-cnt.bi
 cdn.static.biqudu.la
 cdn.streambeam.io
+cdn.tinglian.com
 cdn.ttkx22n.com
 cdn.u9377w.com
 cdn.us.goldspotmedia.com
@@ -16781,6 +16782,7 @@ lcy.cc
 lcyp.net
 lczm.com
 ld.hao123img.com
+ld.kuaigames.com
 ld1725.com
 ld556.com
 ldcache.net

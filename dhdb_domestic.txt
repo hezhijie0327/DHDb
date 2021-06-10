@@ -5442,7 +5442,6 @@
 695157.com
 695175.com
 695275.com
-695828.com
 695976.sched.v1-dk.tdnsv5.com
 695ljg.com
 695qdp1.cachenode.cn
@@ -50490,7 +50489,6 @@ pingjs.qq.com
 pingjs.qq.com.sched.px-dk.tdnsv6.com
 pinglun.youth.cn
 pinglun.youth.cn.wswebcdn.com
-pinglun8.cc
 pingma.qq.com
 pingmid.qq.com
 pingnanlearning.com

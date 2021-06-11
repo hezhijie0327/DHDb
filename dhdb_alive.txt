@@ -29091,7 +29091,6 @@ bdimg2.qunliao.info.download.ks-cdn.com
 bdinfo.net
 bding.net
 bditong.com
-bdj.tianya.cn
 bdj55.com
 bdj98.com
 bdjiaoben.wmxa.cn
@@ -35341,7 +35340,6 @@ bzrb.net
 bzrw.net
 bzshw.com
 bzsoso.com
-bztzl.com
 bzw315.com
 bzwt1.cc
 bzxinganghulan.com
@@ -54555,7 +54553,6 @@ dm-h.phncdn.com
 dm.21hubei.com
 dm.300zi.com
 dm.519397.com
-dm.aizhan.com
 dm.bytedance.com
 dm.bytedance.com.w.cdngslb.com
 dm.cnbanbao.com
@@ -88488,7 +88485,6 @@ ingameads.gameloft.com
 ingamesads.gameloft.com
 ingarden.pt
 ingatlan.com
-ingben.com
 ingcore.com
 ingdan.com
 ingdirect.es
@@ -132785,6 +132781,7 @@ qoqa.com
 qoqa.ninja
 qos.game.qq.com
 qos.gcloud.qq.com
+qos.qcloud.com
 qos1.ol.epicgames.com
 qos3.ol.epicgames.com
 qos4.ol.epicgames.com

@@ -10692,6 +10692,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -13359,7 +13360,6 @@ bjkrtwl.com
 bjl11.com
 bjl2044.com
 bjl666.com
-bjl8789.com
 bjlcs-tech.com
 bjlemon.com
 bjlevsoft.com
@@ -19235,7 +19235,6 @@ count23.51yes.com
 count24.51yes.com
 count29.51yes.com
 count3.51yes.com
-count30.51yes.com
 count32.51yes.com
 count34.51yes.com
 count35.51yes.com
@@ -42409,6 +42408,7 @@ log.tpns.tencent.com
 log.trackingio.com
 log.u.wps.cn
 log.umsns.com
+log.uu.163.com
 log.v2.hunantv.com
 log.vcgame.cn
 log.voicecloud.cn

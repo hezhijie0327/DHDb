@@ -5342,6 +5342,7 @@ bcelive.com
 bcevod.com
 bci-eu.beeppool.org
 bcicdn.com
+bckbc.com
 bckmu02.com
 bcn.cpufan.club
 bcode.zhantai.com
@@ -19833,6 +19834,7 @@ msg.mbm.cn.miaozhen.com
 msg.mobile.kglink.cn
 msg1.video.qiyi.com
 msgapi-prod-ea-azsc1-1.cloudapp.net
+msgapi-prod-ea-azsc2-1.cloudapp.net
 msgs.jp
 msgstore2.pldtprv.net
 mshago.com

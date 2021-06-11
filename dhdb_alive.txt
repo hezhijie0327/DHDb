@@ -12972,7 +12972,6 @@
 989p989q.com
 989y989y.com
 98a.ink
-98app1.com
 98app3.com
 98ben.com
 98c93808a49d47f36c906690045960f6.clo.footprintdns.com
@@ -22634,7 +22633,6 @@ apac.presence.services.sfb.trafficmanager.net
 apac.presence.teams.microsoft.com
 apac.wf.com
 apac01.safelinks.protection.outlook.com
-apac1.notify.windows.com.akadns.net
 apacautumn.net.daraz.com
 apaccsr31.net.daraz.com
 apacd.ns.emailvision.net.daraz.com
@@ -54872,6 +54870,7 @@ dns.pub
 dns.quad9.net
 dns.sb
 dns.switch.ch
+dns.t53.de
 dns.therifleman.name
 dns.twnic.tw
 dns.update.netease.com
@@ -87477,7 +87476,6 @@ inf.clickpay.com
 inf.ldmnq.com
 inf.vip.meituan.com
 inf.wqa.ru
-infamylists.com
 infaq.net
 infarts.net
 inference.location.live.net

@@ -2185,7 +2185,6 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
-2.android.pool.ntp.org
 2.arpun.com
 2.bashenghuo.com
 2.haoxue360.com
@@ -8530,7 +8529,6 @@ adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.madserving.com
-adv.sec.miui.com
 adv.zuimeitianqi.com
 advapi.ahtv.cn
 adver.qq.com
@@ -16457,6 +16455,7 @@ chgate.huya.com
 chgcis.com
 chgcw.com
 chgjedu.com
+chgjjzx.com
 chhua.com
 chhzm.com
 chi.fang.anjuke.com
@@ -17721,7 +17720,6 @@ clkservice2.dict.youdao.com
 clkst.tianyancha.com
 clkstat.china.cn
 clkstat.qihoo.com
-clkyjt.com
 clled.com
 clloz.com
 clocklab.tech
@@ -31226,7 +31224,6 @@ hcshebao.com
 hcsilk.com
 hcsip.com
 hcstzz.com
-hctxf.org
 hcw.so
 hcws0000424223.51sole.com
 hcws0000438861.51sole.com
@@ -42474,6 +42471,7 @@ loginserver.kuwo.cn
 loginxian.leiting.com
 logistics-mrd.jd.com
 logistics-mrd.jd.com.gslb.qianxun.com
+logman.dmall.com
 logmonitor.leiting.com
 logo123.net
 logo33.com

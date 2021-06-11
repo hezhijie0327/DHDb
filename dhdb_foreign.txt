@@ -36194,7 +36194,6 @@ entertainmentwise.com
 entertaintastic.com
 entirelyorange.com
 entireweb.com
-entitlement-public-service-prod08.ol.epicgames.com
 entitlement.auth.adobe.com
 entitlements.api.2kcoretech.online
 entitlements.jwplayer.com
@@ -48539,6 +48538,7 @@ hk.mobi.yahoo.com
 hk.myblog.yahoo.com
 hk.napi.ucweb.com
 hk.news.yahoo.com
+hk.pool.ntp.org
 hk.schroders.email
 hk.search.yahoo.com
 hk.tomonews.net
@@ -59364,6 +59364,7 @@ lesventesprivees.net
 lesvideosjaunes.eu
 let020.com
 let1.devialet.com
+let210.com
 let282.com
 let289.com
 let62.com
@@ -83357,6 +83358,7 @@ rum.uptime.com
 rum.vhwrz.net
 rum14.perf.linkedin.com
 rum18.perf.linkedin.com
+rum8.perf.linkedin.com
 rumah123.com
 rumahkerennn.com
 rumahsabiq.com

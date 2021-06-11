@@ -5362,7 +5362,6 @@
 8899buyu.com
 889su.com
 889ut.com
-889xp.com
 88b1a680378307c971409befbb9ed6bd.clo.footprintdns.com
 88bf33.com
 88bifa.vip
@@ -12789,6 +12788,7 @@ api.cloudmobi.net
 api.codacy.com
 api.codeclimate.com
 api.coinerra.com
+api.comm.miui.com
 api.company-target.com
 api.cookielaw-script.it
 api.cookielaw.eu
@@ -77518,6 +77518,7 @@ pool.graft.hashvault.pro
 pool.minexmr.com
 pool.nimiq-network.com
 pool.nimiq.watch
+pool.ntp.org
 pool.supportxmr.com
 pool.tdcoincore.org
 pool.torrent.pw
@@ -87993,6 +87994,7 @@ skubank.com
 skueel.ozernyi-gatne.com.ua
 skuola.net
 skuvault.com
+skwo.net
 skxtv.com
 sky-planning.net
 sky.com

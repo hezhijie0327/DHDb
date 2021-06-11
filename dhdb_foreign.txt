@@ -12833,6 +12833,7 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -39995,6 +39996,7 @@ fox5atlanta.com
 fox5dc.com
 fox5ny.com
 fox5storm.com
+fox61.com
 fox688.com
 fox6now.com
 fox7.com

@@ -10574,6 +10574,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -23877,7 +23878,6 @@ durzn.gallerycdn.azure.cn
 dushaobindoudou.gallerycdn.azure.cn
 dushicn.com
 dushijia.com
-dushiliren.net
 dushitiyan.com
 dushiyufu.com
 dushu.com
@@ -60403,7 +60403,6 @@ swaqds.com
 swarma.org
 swbbsc.com
 swc.weather.com.cn
-swcdn.apple.com
 swcdn.apple.com.akadns.net
 swcdn.apple.com.w.alikunlun.com
 swcdn.apple.com.w.alikunlun.com.n.num1dns.com
@@ -63328,7 +63327,6 @@ tspsy.com
 tsqt.net
 tsrcw.com
 tssakura.com
-tsscnw.cn
 tsshunxin.com
 tsu.tw
 tsw18.com

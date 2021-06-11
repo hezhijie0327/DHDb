@@ -4,6 +4,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -3980,7 +3981,6 @@
 5581.com
 558220.shop.cnlist.org
 55832.com
-5588zr.com
 559.flnet.org
 5595aaa.com
 5595app.com
@@ -78861,6 +78861,7 @@ proxy.codestream.com
 proxy.com
 proxy.cool
 proxy.d.ns.emailvision.net.daraz.com
+proxy.dzeio.com
 proxy.mokedc.workers.dev
 proxy.multikonline.ru
 proxy.nullrefexcep.com

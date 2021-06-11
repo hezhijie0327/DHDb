@@ -1801,7 +1801,6 @@
 117show.com
 1180c.ec.azureedge.net
 118114.net
-1185050.com
 118518.com
 1185437.shop.liebiao.com
 118700500.com
@@ -21395,7 +21394,6 @@ analytics-ingress-global.bitmovin.com
 analytics-ingress.bitmovin.com
 analytics-production.hapyak.com
 analytics-proxy.springboard.com
-analytics-script.ad-shield.io
 analytics-scripts.cablelabs.com
 analytics-sdk.yle.fi
 analytics-secure.dollargeneral.com
@@ -97479,7 +97477,6 @@ knippgroup.com
 kniu.cc
 knj21.com
 knlqeu.jewlr.com
-knopka.fishurl.ru
 knopnf.asambeauty.com
 knorzj.wearfigs.com
 knotch.it

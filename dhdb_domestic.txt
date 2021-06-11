@@ -19040,7 +19040,6 @@ connect-drcn.dbankcloud.cn
 connect-drcn.hispace.hicloud.com
 connect.play.aiseet.atianqi.com
 connect.qq.com
-connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
@@ -53248,7 +53247,6 @@ qqqnm.com
 qqqqqqqqqqq.com
 qqqqqqqqqqqqqqqq.com
 qqride.com
-qqrizhi.com
 qqshidao.com
 qqshow-ufs.tencent.com
 qqshow2-item.qq.com
@@ -58102,6 +58100,7 @@ simingtang.com
 simonsiefke.gallerycdn.azure.cn
 simope.com
 simperfect.com
+simple-is-better.com
 simplecd.org
 simpledatas.com
 simplexue.com

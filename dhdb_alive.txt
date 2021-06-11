@@ -22808,6 +22808,7 @@ api-panov2.720yun.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
 api-pl.kdrag0n.dev
+api-pricetag.dmall.com
 api-priconne-redive.cygames.jp
 api-prod.leancloud.cn
 api-public.addthis.com
@@ -74640,6 +74641,7 @@ good.ta80.com
 good1230.com
 good2grow.com
 good321.net
+goodaiai.com
 goodapk.com
 goodapp.net
 goodav17.com

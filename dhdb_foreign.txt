@@ -7997,7 +7997,6 @@ ad.wappalyzer.com
 ad.wavu.hu
 ad.way.cz
 ad.webnext.ru
-ad.webservis.gen.tr
 ad.webshark.pl
 ad.weplayer.cc
 ad.where.com
@@ -12871,6 +12870,7 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
+api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.geetest.com
@@ -19756,7 +19756,6 @@ boostability.com
 boostmobile.com
 boot.pbstck.com
 bootbarn.com
-bootcampbeijing.com
 bootify.io
 boots.co.uk
 bootstrapcdn.com
@@ -27251,6 +27250,7 @@ count.webstatistik-bw.de
 count.yandeg.ru
 count13.51yes.com
 count18.51yes.com
+count31.51yes.com
 count36.51yes.com
 count5.51yes.com
 count6.51yes.com

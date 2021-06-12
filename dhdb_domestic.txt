@@ -10575,7 +10575,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -18113,6 +18112,7 @@ cmz2.stm65i8.com
 cmzd.com
 cmzj.net
 cmzyk.com
+cn-api.samsungcloud.com
 cn-api.samsungosp.com
 cn-api.samsungpositioning.com.cn
 cn-auth.samsungosp.com
@@ -18750,7 +18750,6 @@ cod.southmoney.com
 code-by.org
 code.37cs.com
 code.bdstatic.com
-code.bianxianwu.com
 code.csdn.net
 code.ditiezu.net
 code.kejet.com

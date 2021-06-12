@@ -10260,7 +10260,6 @@ api.kingdata.ksyun.com
 api.kkapp.com
 api.kmf.com
 api.kmovie.gifshow.com
-api.kolpowered.com
 api.ktplay.com
 api.kuaishouzt.com
 api.kwaizt.com
@@ -19049,6 +19048,7 @@ connect-drcn.dbankcloud.cn
 connect-drcn.hispace.hicloud.com
 connect.play.aiseet.atianqi.com
 connect.qq.com
+connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
@@ -40820,7 +40820,6 @@ laolaosi.com
 laoliang.net
 laoliboke.com
 laomaotao.net
-laomaotao.org
 laomaotaopan.com
 laonanren.cc
 laonanren.com
@@ -56510,7 +56509,6 @@ search0cache.imtt.qq.com
 search1990.com
 searchapi.pptv.com
 searchera.ximalaya.com
-searchgw.dmall.com
 searchrecterm.kuwo.cn
 searchtb.com
 searchwsa.ximalaya.com

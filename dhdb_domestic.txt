@@ -1,6 +1,5 @@
 0-100.com
 0-6.com
-0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
 0.up.qingdaonews.com
@@ -8836,6 +8835,7 @@ aiaisz.xyz
 aiaiu.com
 aiaor.com
 aibaimm.com
+aibang.com
 aibang5.com
 aibaov.com
 aibeidian.com
@@ -10596,6 +10596,7 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -33789,7 +33790,6 @@ hznsh.com
 hznzcn.com
 hzou.net
 hzpgc.com
-hzqimiao.com
 hzr1.com
 hzrc.com
 hzredream.com
@@ -35969,7 +35969,6 @@ interface.biliapi.com
 interface.bilibili.com
 interface.dmzj.com
 interface.im.taobao.com
-interface.music.163.com
 interface.sina.cn
 interface2.mxingkong.com.cn
 interface3.music.163.com
@@ -46063,7 +46062,6 @@ mscbsc.com
 msch.f.360.cn
 msclick2.kuwo.cn
 mscto.com
-mscxw.com
 msdn.itellyou.cn
 msdn.itellyou.cn.w.kunluncan.com
 mse.jd.com

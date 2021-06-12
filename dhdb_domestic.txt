@@ -11186,7 +11186,6 @@ atido.com
 ating.info
 atishay-jain.gallerycdn.azure.cn
 atj-kuaishou.37.com.cn
-atlas.dmall.com
 atlenovo.com
 atm.yoyi.com.cn
 atobo.com
@@ -14042,6 +14041,7 @@ bt.1000.pet
 bt.10000.pet
 bt.3dmgame.com
 bt.ali213.net
+bt.dl1234.com
 bt.jd.com
 bt.popgo.net
 bt.xitongmonitor.com
@@ -31307,6 +31307,7 @@ hdns-event.dmall.com
 hdns.ksyun.com
 hdp.sfcdn.org
 hdp.u01.live.siqiangame.com
+hdpyqa.com
 hdpyqc.com
 hds-api.eqxiu.com
 hdscg.com
@@ -35189,7 +35190,6 @@ img.gmw.cn
 img.guiderank-app.com
 img.gxhxmy88.com
 img.hbxhda.com
-img.hdslb.com
 img.houzi8.com
 img.hunantv.com
 img.hunantv.com.w.kunlunar.com

@@ -16523,7 +16523,6 @@ adebis.report.clinic
 adebis.theclinic.jp
 adebis.tohshin.co.jp
 adebis.tokyuhotels.co.jp
-adebis.urban-research.jp
 adebis02.juku.st
 adebis8628.matsui.co.jp
 adebisu.wowow.co.jp
@@ -16726,7 +16725,6 @@ adlog.shopping.naver.com
 adlog.tagtic.cn
 adlog.vivo.com.cn
 adls.suning.com
-adluckin.com
 adlvyou.com
 adm-csr21.net.daraz.com
 adm-localhost.net.daraz.com
@@ -26617,6 +26615,7 @@ awyys.com
 awzp.net
 ax-log.duizhuang.com
 ax.120ask.com
+ax.ggfeng.com
 ax.idg.se
 ax.ifeng.com
 ax.itunes.apple.com
@@ -31519,7 +31518,6 @@ bjdnserror3.wo.com.cn
 bjdnserror4.wo.com.cn
 bjdnserror5.wo.com.cn
 bjdnserror6.wo.com.cn
-bjdnserror7.wo.com.cn
 bjdongxin.com
 bjdsppa.com
 bjdt360.com
@@ -68737,7 +68735,6 @@ funyqq.com
 funzykch.sched.s2-dk.tdnsv5.com
 fuoo1.top
 fupa.net
-fupiaopifa.com
 fupx.phi.b0ne.com
 fuq.com
 fuqian.la
@@ -79269,7 +79266,6 @@ helixcommunity.org
 helixstudios.net
 hellasnet.gr
 hellik.ee
-hello-code.com
 hello-hk.blogspot.hk
 hello.blogspot.hk
 hello.bpost.be

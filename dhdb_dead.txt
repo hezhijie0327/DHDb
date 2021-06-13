@@ -3457,6 +3457,7 @@ ads.kazaa.com
 ads.lapalingo.com
 ads.larryaffiliates.com
 ads.linksrequest.com
+ads.livetvcdn.net
 ads.lmmob.com
 ads.lordlucky.com
 ads.lucidmedia.com.gslb.com
@@ -10063,6 +10064,7 @@ dpgmedia.net
 dpigu.com
 dpiw925yvtpfq.cloudfront.net
 dpjtch.vestabalin.com
+dplayer.tv
 dplus-flat7.com
 dps.499.cn
 dps.shouji56.com
@@ -22563,6 +22565,7 @@ qiqu.la
 qiquhudong.com
 qiqutang.com
 qiqutt.cn
+qiqutt.com
 qireji.com
 qisbook.com
 qishenga.com

@@ -671,7 +671,6 @@
 1.92caijing.com
 1.aili.com
 1.arpun.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
@@ -3066,6 +3065,7 @@
 3389dh.com
 33app.net
 33bus.com
+33hei.com
 33hgvip.com
 33ip.com
 33iq.com
@@ -18237,6 +18237,7 @@ cn1.relay.iplc.pro
 cn12365.org
 cn168.com
 cn18k.com
+cn2.relay.iplc.pro
 cn20.com
 cn22.net
 cn2che.com
@@ -39516,7 +39517,6 @@ kcjzsc.com
 kcloudidc.com
 kcrcb.com
 kcsz.sspu.edu.cn
-kcygo.com
 kcyuri.com
 kd.allcitysz.net
 kd.qpic.cn
@@ -43934,7 +43934,6 @@ managemobile.cdeledu.com
 manben.com
 manboker.com
 mandao-tech.com
-mandarincapital.net
 mandarinedu.org
 mandarinhouse.com
 mandian.com

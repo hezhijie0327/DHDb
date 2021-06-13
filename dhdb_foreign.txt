@@ -12875,7 +12875,6 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
-api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -76408,7 +76407,6 @@ photolia.net
 photon.komoot.de
 photoneray.com
 photonicssociety.org
-photopai.com
 photoplayhouse.com
 photopulse.ru
 photorank.me

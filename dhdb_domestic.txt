@@ -10572,6 +10572,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -19043,7 +19044,6 @@ connect-drcn.dbankcloud.cn
 connect-drcn.hispace.hicloud.com
 connect.play.aiseet.atianqi.com
 connect.qq.com
-connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
@@ -21478,7 +21478,6 @@ deeplink.umeng.com
 deepoon.com
 deepsheet.ltd
 deepsheet.net
-deepvision.ai
 deepzz.com
 deerma.com
 def144e2.qc.x.bsgslb.cn
@@ -56385,6 +56384,7 @@ sdlldj.com
 sdlongli.com
 sdly35.com
 sdmic.com
+sdn.geekzu.org
 sdnfv.org
 sdnjsbc.com
 sdnlab.com

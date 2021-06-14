@@ -1773,6 +1773,7 @@
 2-wlan-switch.net.daraz.com
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
+2.android.pool.ntp.org
 2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
@@ -55855,7 +55856,6 @@ jn.vwin668.com
 jn1.tv
 jn1535.com
 jnb-mvp.trafficmanager.net
-jndssd.com
 jneurosci.org
 jnj-group.com
 jnjylh.com
@@ -59269,7 +59269,6 @@ ledongzhibo3333.com
 ledongzhibo444.com
 ledongzhibo4444.com
 ledongzhibo5555.com
-ledongzhibo666.com
 ledongzhibo6666.com
 ledongzhibo8888.com
 ledongzhibo93.com
@@ -76671,7 +76670,6 @@ pingpingdai.net
 pingproxy.com
 pings.blip.tv
 pings.vidpulse.com
-pingshu8.com
 pingsky.ir
 pingstart.com
 pinguo.us

@@ -5918,7 +5918,6 @@ bmwarchiv.de
 bmwworld.net
 bn016.com
 bn2-ris-prod-atm.trafficmanager.net
-bnapp.com
 bnbsky.com
 bnbstatic.com
 bndbddt.top
@@ -13462,6 +13461,7 @@ hbchy.net
 hbciqtc.com
 hbdns.org
 hbdnserror2.wo.com.cn
+hbdnserror6.wo.com.cn
 hbdt.luomi.com
 hbidc.net
 hbjdxt.com
@@ -19400,6 +19400,7 @@ miliol.com
 miliol.org
 milivpn.com
 milivpn.net
+milk.yesky.com.cn
 milkjpg.com
 milkplayer.com
 milluki.hopto.org

@@ -4978,6 +4978,7 @@
 5999.tv
 599ku.com
 59b2b.com
+59di.com
 59dun.com
 59f660e5b7f1daaa60f12d92f3d426d5.safeframe.googlesyndication.com
 59iedu.com
@@ -21026,7 +21027,6 @@ data.highpin.cn
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
-data.sec.miui.com
 data.snm0516.aisee.tv
 data.sonkwo.com
 data.trendymedia.com.cn
@@ -30990,7 +30990,6 @@ hbdnserror1.wo.com.cn
 hbdnserror3.wo.com.cn
 hbdnserror4.wo.com.cn
 hbdnserror5.wo.com.cn
-hbdnserror6.wo.com.cn
 hbdnserror7.wo.com.cn
 hbdthy.com
 hbdtjqj.com
@@ -45069,7 +45068,6 @@ milink.market.xiaomi.com
 milink.pandora.xiaomi.com
 milipictures.com
 miliyo.com
-milk.yesky.com.cn
 milkiy.com
 million-api.aiclk.com
 millll.net

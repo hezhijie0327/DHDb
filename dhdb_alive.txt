@@ -1469,7 +1469,6 @@
 1024ie.com
 1024ky.biz
 1024ky.me
-1024nic.com
 1024sj.com
 1024ss.com
 1024tools.com
@@ -58161,6 +58160,7 @@ e-wie-einfach.de
 e-wok.tv
 e-words.jp
 e-zone.com.hk
+e.2l06k.cn
 e.360.cn
 e.51sole.com
 e.51xmgys.com
@@ -86701,7 +86701,6 @@ img.ssl.msdk.qq.com.x2.sched.dcloudstc.com
 img.stripcdn.com
 img.stripst.com
 img.subhd.la
-img.subhd.tv
 img.subhdtw.com
 img.sysgeek.cn
 img.t.sinajs.cn
@@ -113061,7 +113060,6 @@ molenaar.nl
 molhodealface.duckdns.org
 molibaike.com
 molie.com
-moligirl.com
 molihe.cc
 molihua.org
 molinsoft.com
@@ -117456,7 +117454,6 @@ nfcic.com
 nfcjw.com
 nfcmag.com
 nfcws.hicloud.com
-nfdnserror1.wo.com.cn
 nfdnserror10.wo.com.cn
 nfdnserror11.wo.com.cn
 nfdnserror12.wo.com.cn
@@ -123127,6 +123124,7 @@ oxid.it
 oxifwsabgd.nzz.ch
 oxizwk.livique.ch
 oxlife.co
+oxp.mxptint.net
 oxrm.com
 oxygem.com
 oxygem.it

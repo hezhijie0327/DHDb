@@ -32835,7 +32835,6 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
-httpdns.ocloud.heytapmobi.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
 httpsbaidu.com
@@ -35949,7 +35948,6 @@ interface.dmzj.com
 interface.im.taobao.com
 interface.sina.cn
 interface2.mxingkong.com.cn
-interface3.music.163.com
 interface3.music.163.com.163jiasu.com
 internal-amis-res.cdn.bcebos.com
 internal-api-security.feishu.cn
@@ -54102,7 +54100,6 @@ qzbonline.com
 qzccbank.com
 qzchkj.com
 qzcklm.com
-qzcns.com
 qzfxyy.com
 qzh.zu.anjuke.com
 qzhlkj.net

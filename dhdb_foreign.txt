@@ -12876,6 +12876,7 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -18261,6 +18262,7 @@ bjgemi.com
 bjh10.com
 bjh3.com
 bjh6.com
+bjhj10000.com
 bjhjw.com.cn
 bjiebtc.com
 bjinnovate.com
@@ -23926,7 +23928,6 @@ cherrypimps.com
 cherrysave.com
 ches5sort.com
 cheshouye.com
-chess-nyl.com
 chevalierusa.actonservice.com
 chevinfleet.com
 chevrolet.com
@@ -38756,7 +38757,6 @@ fens.me
 fense888.com
 fensi.plus
 fentanes.com.ar
-fenxiangdashi.com
 fenxs.com
 fenxw.com
 fenying.net
@@ -84810,7 +84810,6 @@ sb.music.apple.com
 sb.sb
 sb.scorecardresearch.com
 sb.voicefive.com
-sb0101.com
 sb0919.com
 sb1-bob.burubudur.com
 sb1152.com

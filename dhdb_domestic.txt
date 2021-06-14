@@ -668,6 +668,7 @@
 1.92caijing.com
 1.aili.com
 1.arpun.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
@@ -18235,7 +18236,6 @@ cn18k.com
 cn2.relay.iplc.pro
 cn20.com
 cn22.net
-cn2che.com
 cn314.com
 cn357.com
 cn360cn.com
@@ -21022,6 +21022,7 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
+data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -36552,7 +36553,6 @@ itmoocs.com
 itmop.com
 itmsm.com
 itmuch.com
-itnan.net
 itniwota.com
 itnpyfwshe.com
 itnxs.com
@@ -57656,7 +57656,6 @@ shouduit.com
 shoufm.com
 shouhoubang.com
 shouji.sogou.com
-shouji.yd126.com
 shouji315.org
 shoujibao.net
 shoujiduoduo.com
@@ -60498,7 +60497,6 @@ sxrb.com
 sxrbw.com
 sxrczx.com
 sxrong.com
-sxrsj.net
 sxrtv.com
 sxsapi.com
 sxsim.com

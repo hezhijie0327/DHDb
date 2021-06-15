@@ -2226,7 +2226,6 @@
 1339857.shop.liebiao.com
 133998.com
 133a436e197e25793fe8538eb2c69f46.clo.footprintdns.com
-133jz.com
 134.78.116.150.zz.countries.nerd.dk
 1341512.sched.sma.tdnsv5.com
 1341533.p23.tc.cdntip.com
@@ -4311,7 +4310,6 @@
 21xianhua.com
 21xl.info
 21xuema.com
-21yinxiang.com
 21yod.com
 21yq.com
 21yunwei.com
@@ -14278,6 +14276,7 @@ a655e64b5b118aa8b9b9790c332aba29.dlied1.cdntips.net
 a66kk.com
 a66qq.com
 a67.com
+a67744.com
 a67dy.com
 a6a1.com
 a6yadysu.sched.sma.tdnsv5.com
@@ -54546,7 +54545,6 @@ dl.zu.anjuke.com
 dl.zuimeitianqi.com
 dl0.serctl.com
 dl0.subhd.la
-dl0679.com
 dl0728.com
 dl1.larianvault.com
 dl1.qwp365.cn
@@ -60324,7 +60322,6 @@ eg-innovations.net
 eg-p2.eurogamer.net
 eg.gitpapa.com
 eg.ru
-eg11.com
 eg1111.com
 eg1111.vip
 eg255.com
@@ -65611,6 +65608,7 @@ ff.xue63.com
 ff.yiqima.xyz
 ff0.market.xiaomi.com
 ff123.hao0202.com
+ff14.17173.com
 ff167.net
 ff31150be517e6987917db5bc3ebebf5.dlied1.cdntips.net
 ff316.net
@@ -100033,7 +100031,6 @@ lbs.netease.im
 lbs.pandora.xiaomi.com
 lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
-lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
 lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
@@ -103407,7 +103404,6 @@ log.mpns.hunantv.com
 log.netsoft2012.com
 log.news.zing.vn
 log.newsvine.com
-log.ngaynay.vn
 log.nhipcaudautu.vn
 log.nordot.jp
 log.nuomi.com
@@ -123559,7 +123555,6 @@ oyxdwx.com
 oyy.l2anons.ws
 oyy.ru
 oyyj-oys.org
-oyyqan.hejoscar.dk
 oz.kurzy.cz
 oz138.com
 ozap.com
@@ -130137,7 +130132,6 @@ promotion.kugou.com
 promotion.lenovo.com.cn
 promotion.lenovo.com.cn.wswebcdn.com
 promotion.letou118.net
-promotion.monster.com
 promotion.partnercash.com
 promotion.pddpic.com
 promotion.pddpic.com.sched.pddlego-dk.tdnsv5.com
@@ -130771,7 +130765,6 @@ public-tracker.zooki.xyz
 public-ubiservices.ubi.com
 public-v6.sparta.mig.tencent-cloud.net
 public-wgnc4-sg.wargaming.net
-public-ws-ubiservices.ubi.com
 public.app.autohome.com.cn
 public.bn.files.1drv.com
 public.creditchina.gov.cn
@@ -136436,7 +136429,6 @@ rec.g.163.com
 rec.mouseflowaps.netdna-cdn.com
 rec.moviebox.baofeng.net
 rec.quartic.pl
-rec.udn.com
 rec.z.qingting.fm
 rec2.chaoxing.com
 rec2000.at.ua

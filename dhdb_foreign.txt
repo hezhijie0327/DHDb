@@ -6085,6 +6085,7 @@
 9mcu.com
 9mediaonline.com
 9mi01.com
+9miaoketang.com
 9msg.com
 9mynews.com
 9nation.com.au
@@ -22670,6 +22671,7 @@ ccbintl.com.hk
 ccbjournal.com
 ccbs.ntu.edu.tw
 ccc-2013.com
+ccc.sys.miui.com
 ccc112.net
 ccc3285.com
 ccc333.weebly.com
@@ -35118,7 +35120,6 @@ edge-034.hkhkg-2.ce.apple-dns.net
 edge-034.hkhkg-2.icloud-content.com
 edge-040.uslax2.icloud-content.com
 edge-chat.instagram.com
-edge-dl.andomedia.com
 edge-interaction.net.daraz.com
 edge-keele-nnw-leis-mc-leis.net.daraz.com
 edge-mqtt.facebook.com
@@ -79694,7 +79695,6 @@ pu0037.com
 pu0038.com
 pu0039.com
 pu0040.com
-pu889.com
 pu9955.com
 puansec.com
 pub.admedia.io
@@ -80402,6 +80402,7 @@ qishu.cc
 qishu.tw
 qisuu.la
 qitdsl.ralf.ru
+qitete.com
 qitiancom.com
 qitouch.cn
 qiu.com

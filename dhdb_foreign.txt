@@ -4,7 +4,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -1599,7 +1598,6 @@
 195tt195.com
 195ttt195.com
 195u195.com
-195vvv195.com
 195www195.com
 195yyy195.com
 195yyyy.com
@@ -62418,6 +62416,7 @@ m.iruad.com
 m.jbb006666.com
 m.jbb034.com
 m.jinchaoyu.com
+m.jinhuizhibo.com
 m.jm778899.com
 m.kanbook.net
 m.kankanwu.com
@@ -68811,6 +68810,7 @@ muevetebasket.es
 mufg.jp
 muftah.org
 mug.criteo.com
+mugisama.com
 muguaddy.com
 muhai.net
 muhsinlar.com

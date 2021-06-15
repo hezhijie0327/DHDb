@@ -13125,7 +13125,6 @@ apiserver-freya.net.daraz.com
 apiserver-wlan-switch.net.daraz.com
 apiserver.r-is-1-2.net.daraz.com
 apiserverlib-ht-2.net.daraz.com
-apisnd.heytapmobi.com
 apisof.net
 apisyouwonthate.com
 apitilt.com
@@ -79992,7 +79991,6 @@ pwp.ink
 px-cloud.net
 px-intl.ucweb.com
 px.adhigh.net
-px.ads.linkedin.cn
 px.ads.linkedin.com
 px.britepool.com
 px.cdn.creative.medialytics.com

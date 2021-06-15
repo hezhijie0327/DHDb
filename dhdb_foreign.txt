@@ -12637,7 +12637,6 @@ aobo.com.au
 aobo62.com
 aobo888.com
 aoc.com
-aochunsy.com
 aoclanguedoc.com
 aofoundation.org
 aofriend.com
@@ -25440,7 +25439,6 @@ cludo.com
 clue6load.com
 cluefone.com
 clumsyninjahack.goblogz.net
-clundressed.com
 cluster.adultworld.com
 cluster.chart.dk
 clusty.com
@@ -39647,7 +39645,6 @@ flidc.net
 fliggy.hk
 flightb1a4.com
 flightnetwork.com
-flightproxy-asea-02-teams.cloudapp.net
 flightproxy-asea-03-teams.cloudapp.net
 flightproxy-asse-02-teams.cloudapp.net
 flightproxy-asse-03-teams.cloudapp.net
@@ -86618,6 +86615,7 @@ seed-pol-1.inf.nimiq.network
 seed-pol-2.inf.nimiq.network
 seed-pol-3.inf.nimiq.network
 seed-pol-4.inf.nimiq.network
+seed.bitcoin.jonasschnelli.ch
 seed.bitcoin.sipa.be
 seed.bitcoin.sprovoost.nl
 seed.bitcoin.wiz.biz

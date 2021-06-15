@@ -473,6 +473,7 @@
 0759job.com
 0759k.com
 0759yc.com
+075ld.com
 0760.com
 0760bw.com
 0760rc.com
@@ -7564,7 +7565,6 @@ a70b8ac698914c8a747bba7c8d5515cc.dlied1.cdntips.net
 a70f6451e9b72be6fdeffdd2cff0a088.dlied1.cdntips.net
 a751.oadz.com
 a754f42bf600655371e2ca6961802e53.dlied1.cdntips.net
-a777.oadz.com
 a7a16fcbbe6258a15d44228284cc196e.dlied1.cdntips.net
 a7cf6c07ba00d3e975ba4d355c3a9d0a.safeframe.googlesyndication.com
 a8.com
@@ -10293,7 +10293,6 @@ api.microyan.com
 api.middle.transfer.search.miui.com
 api.mini.wps.cn
 api.misim.10046.mi.com
-api.miui.security.xiaomi.com
 api.mlinks.co
 api.mob.app.letv.com
 api.mobgi.com
@@ -12579,6 +12578,7 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -43324,7 +43324,6 @@ m.haiwainet.cn
 m.hao123.com
 m.haotoon.cn
 m.health.pingan.com
-m.heibaimanhua.com
 m.hellobike.com
 m.heygugu.com
 m.hlcnzz.com

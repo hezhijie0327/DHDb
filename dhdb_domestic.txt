@@ -2187,6 +2187,7 @@
 2.aili.com
 2.arpun.com
 2.bashenghuo.com
+2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
 2.pic.pc6.com
@@ -21175,6 +21176,7 @@ dazijia.com
 dazpin.com
 dazu666.com
 dazui.com
+db-nw.com
 db1.fuz.cc
 db1a359389c3677e83934bf15cb098dc.dlied1.cdntips.net
 db1caad761e1c4e78a0afe7bdbd774bb.qaxcloudwaf.com

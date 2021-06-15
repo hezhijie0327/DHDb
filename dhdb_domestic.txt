@@ -2442,7 +2442,6 @@
 23-14.gz.apigwtencent.com
 2300sjz.com
 230596.com
-23066.com
 2307251.b2b.liebiao.com
 2308404.b2b.liebiao.com
 2309359.p23.tc.cdntip.com
@@ -16060,7 +16059,6 @@ chainnode.com
 chainsdir.com
 chainsinn.com
 chainsql.net
-chainwhy.com
 chainwon.com
 chairyfish.com
 chaishiguan.com
@@ -18062,7 +18060,6 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
-cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -32844,6 +32841,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.ocloud.heytapmobi.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
 httpsbaidu.com
@@ -36945,7 +36943,6 @@ javps.com
 jaxcx.com
 jaycetyle.gallerycdn.azure.cn
 jayfc.com
-jayfu.tk
 jayme.net
 jaytrn.com
 jazo.cn.chemnet.com

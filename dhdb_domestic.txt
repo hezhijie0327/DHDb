@@ -7570,7 +7570,6 @@ a7cf6c07ba00d3e975ba4d355c3a9d0a.safeframe.googlesyndication.com
 a8.com
 a8.o4p7y.cn
 a81029f2d4760d5376354b5b777fc07e.dlied1.cdntips.net
-a814.oadz.com
 a8a181f32d1efc71.qaxcloudwaf.com
 a8b4cb109dc6dcc5ae439d51793f52a5.dlied1.cdntips.net
 a8e81b69602de6be3417d203c006179d.safeframe.googlesyndication.com
@@ -27913,6 +27912,7 @@ g3img.com
 g3user.com
 g4.iqilu.com
 g4.ykimg.com
+g5f4.com
 g5qfx1if3mdj5huysbw5kx58hn8kzbbs.aliyundunwaf.com
 g5wzhq.tdum.alibaba.com
 g6j1dt0.cachenode.cn
@@ -28548,6 +28548,7 @@ geshui.com
 geshui100.com
 geshuishuilvbiao2017.com
 gesuo.com
+get.sogou.com
 get.vip
 get233.com
 getapk.cn

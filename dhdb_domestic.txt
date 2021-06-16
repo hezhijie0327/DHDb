@@ -675,7 +675,6 @@
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -18958,6 +18957,7 @@ community.api.ptqy.gitv.tv
 community.cms.gclick.cn
 community.iqiyi.com
 community.sonkwo.com
+comnetix.com
 comocloud.net
 company.kuyiso.com
 companyadc.51job.com

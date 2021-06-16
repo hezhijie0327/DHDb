@@ -47731,7 +47731,6 @@ cs148.com
 cs154.com
 cs154.wac.edgecastcdn.net
 cs155.com
-cs170.com
 cs172.com
 cs192.com
 cs193.com
@@ -57385,6 +57384,7 @@ dungeonkeeper.com.cn
 dungeonrampage.haxdo.com
 duniacabe.com
 dunjiaodu.com
+dunkelhost.de
 dunkhome.com
 dunkindonuts.com
 dunlve.com
@@ -86667,7 +86667,6 @@ images.macx.cn
 images.mpression.net
 images.mylot.com
 images.netcomvad.com
-images.newsx.cc
 images.nvidia.cn
 images.nvidia.com
 images.outbrainimg.com
@@ -141837,7 +141836,6 @@ script.crazyegg.com.cdn.cloudflare.net
 script.hotjar.com
 script.hqpass.com
 script.opentracker.net
-scriptoj.com
 scriptproxy.pie.net.pk
 scripts.bestprice.gr
 scripts.cy-wz.com
@@ -156413,6 +156411,7 @@ szonline.net
 szoo123.sytes.net
 szp168.com
 szpa.com
+szpama.com
 szpaopao.com
 szpcb-jlc.com
 szpclab.com
@@ -157639,7 +157638,6 @@ taoxiaoxing.com
 taoxie.com
 taoxv.com
 taoyard.com
-taoyeyou.com
 taoyi-support.com
 taoyinqing.com
 taoyizhu.com

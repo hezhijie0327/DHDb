@@ -2186,7 +2186,6 @@
 2.aili.com
 2.arpun.com
 2.bashenghuo.com
-2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
 2.pic.pc6.com
@@ -47220,6 +47219,7 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
+nex.163.com
 nexstep.zdworks.com
 next-union.com
 next.api.aliyun.com

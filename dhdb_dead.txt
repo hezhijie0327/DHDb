@@ -4213,6 +4213,7 @@ analyticacdn.com
 analyticapi.piri.net
 analytics-data.io
 analytics-rhwg.rhcloud.com
+analytics-script.ad-shield.io
 analytics-static.unister-gmbh.de
 analytics-union.sandai.net
 analytics.126.net
@@ -7584,6 +7585,7 @@ cloudglb.com
 cloudglb.net
 cloudn.me
 cloudphotoes.com
+cloudpsvn.com
 cloudseeplus.com
 cloudseetech.com
 cloudserver01.com
@@ -12648,6 +12650,7 @@ gdrc365.com
 gdsoq.com
 gdtone.com
 gdwxmz.com
+gdxy6.com
 ge.epac.to
 ge100.com
 ge95.com

@@ -11849,7 +11849,6 @@ analytics-ingress-global.bitmovin.com
 analytics-ingress.bitmovin.com
 analytics-production.hapyak.com
 analytics-proxy.springboard.com
-analytics-script.ad-shield.io
 analytics-scripts.cablelabs.com
 analytics-sdk.yle.fi
 analytics-secure.dollargeneral.com
@@ -42381,7 +42380,6 @@ gdssecurity.com
 gdtai.com
 gdx.net
 gdxgt.com
-gdxy6.com
 gdyjs.com
 gdyn.cnn.com
 gdyn.cnngo.com
@@ -56905,6 +56903,7 @@ jumin.cc
 jumio.com
 jump.001union.com
 jump.baidu.001union.com
+jump.ishop789.com
 jump.netsoft2012.com
 jump.sproutsocial.com
 jumpcloud.com
@@ -88146,6 +88145,7 @@ shuajibang.net
 shuanghao-cn.com
 shubao201.com
 shubt.net
+shuc-pc-hamlet.ksord.com
 shudaizi.org
 shueisha.co.jp
 shufagu.com

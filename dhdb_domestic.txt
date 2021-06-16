@@ -10692,7 +10692,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -13479,7 +13478,6 @@ bjyestar.com
 bjyggc.com
 bjyhwy.com
 bjyqsj.com
-bjytdqwx.com
 bjythd.com
 bjyunyu.com
 bjywt.com
@@ -14636,7 +14634,6 @@ ca002.com
 ca003.com
 ca08308411e85782886c7053d0285ede.v.smtcdns.net
 ca2008.shop.liebiao.com
-ca231.com
 ca39.com
 ca518.com
 ca687.com
@@ -21027,7 +21024,6 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
-data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -40447,6 +40443,7 @@ kwimg9.kuwo.cn
 kwimgs.com
 kwin.wang
 kwkg.kuwo.cn
+kwm.com
 kwmiosjump.kuwo.cn
 kwmsg.kuwo.cn
 kwtzn.com
@@ -43620,7 +43617,6 @@ m9.music.126.net
 m90cc.com
 m9o.net
 ma-china.com
-ma1.meishij.net
 ma16.com
 ma2.meishij.net
 ma3office.com
@@ -63701,7 +63697,6 @@ twh5.com
 twinkleunion.com
 twinsenliang.net
 twitterios.com
-twk.cc
 twoarmy.com
 twr.re.cs.quickconnect.to
 twtstudio.com

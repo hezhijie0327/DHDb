@@ -4,6 +4,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -18578,6 +18579,7 @@ block.s2block.com
 block.s2blosh.com
 block.sw1block.com
 blockbuster.com
+blockedbyhk.com
 blockedinchina.net
 blockediniran.com
 blockedonweibo.com
@@ -47348,7 +47350,6 @@ h4610.com
 h5.013ld.com
 h5.071ld.com
 h5.072ld.com
-h5.073ld.com
 h5.074ld.com
 h5.078ld.com
 h5.079ld.com
@@ -59558,7 +59559,6 @@ ldvip27.com
 ldvip28.com
 ldvip29.com
 ldvip30.com
-ldvip31.com
 ldvip40.com
 ldvip41.com
 ldwybo.ingenieur.de
@@ -59625,6 +59625,7 @@ leakbay.net
 leanatureboutique.com
 leancloud.com
 leanlab.co
+leanlan.com
 leanplum.com
 leanwork.pt
 leap.app
@@ -77430,7 +77431,6 @@ piwik.openstreetmap.org
 pix.adrta.com
 pix.airbusgroup.com
 pix.eads.com
-pix.impdesk.com
 pix.lendingtree.com
 pix.nbcuni.com
 pix.pub

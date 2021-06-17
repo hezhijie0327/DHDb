@@ -15559,6 +15559,7 @@ act.commercial.shouji.360.cn
 act.convergencetraining.com
 act.cwsglobal.org
 act.daoju.qq.com
+act.dmall.com
 act.guanjia.qq.com
 act.lanap.com
 act.online.engineering.nyu.edu
@@ -35708,7 +35709,6 @@ c.msn.cn
 c.msn.com
 c.msn.com.cn
 c.my.msn.com
-c.mywild.cn
 c.n.shifen.com
 c.nakanohito.jp
 c.netu.tv
@@ -96865,6 +96865,7 @@ kc9.cn
 kca.amazon.com
 kcai228.com
 kcai332.com
+kcai969.com
 kcdgs.com
 kcdns.net
 kcentv.com
@@ -133389,7 +133390,6 @@ qlcoder.com
 qldzj.com
 qlgpy.com
 qlidc.com
-qlisv.siemens6es7.com
 qljgw.com
 qljiop.allabout.co.jp
 qll-times.com

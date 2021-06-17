@@ -2436,7 +2436,6 @@
 22lrc.com
 22ntd6yc.sched.s2-dk.tdnsv5.com
 22plc.com
-22shop.com
 22vd.com
 22zy.net
 23-14.gz.apigwtencent.com
@@ -21017,6 +21016,7 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
+data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -28599,7 +28599,6 @@ gffunds.com.cn
 gfglb.com
 gfjl.org
 gflearn.aichaoxing.com
-gfmz.com
 gfrtrttweet.com
 gfs-op.douyucdn.cn
 gfs1.gomein.net.cn
@@ -37630,7 +37629,6 @@ jingdata.com
 jingdezhen.baixing.com
 jingdian230.com
 jingdianju.com
-jingdianlaoge.com
 jingdianxitong.com
 jingdiao.com
 jingdigital.com
@@ -44623,6 +44621,7 @@ melon.cdnetworks.com
 melove.net
 memacx.com
 member.bilibili.com
+member.chinaacc.com
 member.jr.jd.com
 member.jschina.com.cn
 member.zcygov.cn
@@ -46082,6 +46081,7 @@ mshow.fang.com
 msi.autohome.com.cn
 msite.baidu.com
 msits.com
+msiyw.com
 msjdpay.jd.com
 msjdpay.jd.com.gslb.qianxun.com
 msjyfund.com.cn

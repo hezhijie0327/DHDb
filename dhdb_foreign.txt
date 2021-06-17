@@ -3154,7 +3154,6 @@
 3proxy.de
 3proxy.ru
 3qdigital.com
-3qec.com
 3qzone.com
 3rbcd.com
 3ren.blog
@@ -9959,6 +9958,7 @@ adv.nexthardware.com
 adv.pilseta24.lv
 adv.s8bbs.com
 adv.sec.intl.miui.com
+adv.sec.miui.com
 adv.strategy.it
 adv.thuvienphapluat.vn
 adv.vcmedia.vn
@@ -57572,6 +57572,7 @@ kc-education.com
 kca.amazon.com
 kcai228.com
 kcai332.com
+kcai969.com
 kcdgs.com
 kcentv.com
 kcf.wowma.jp

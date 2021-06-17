@@ -10561,7 +10561,6 @@ app-analytics-cn.huami.com
 app-analytics.huami.com
 app-cdn.2q10.com
 app-cdn.2q10.com.wswebpic.com
-app-down.xiaohaowen.com
 app-echo.com
 app-g.39.net
 app-gw.csdn.net
@@ -13287,7 +13286,6 @@ bjdnserror1.wo.com.cn
 bjdnserror2.wo.com.cn
 bjdnserror3.wo.com.cn
 bjdnserror4.wo.com.cn
-bjdnserror5.wo.com.cn
 bjdnserror6.wo.com.cn
 bjdnserror7.wo.com.cn
 bjdongxin.com
@@ -14053,7 +14051,6 @@ btcfans.com
 btcha.com
 btcsearch.com
 btcsos.com
-btdownload.net
 btfan.com
 btfile.sdo.com
 btgame01.com
@@ -21260,7 +21257,6 @@ dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
-dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -26288,6 +26284,7 @@ fanyibase.com
 fanyiegg.youdao.com
 fanyigou.cn
 fanyigou.com
+fanyigou.net
 fanyiguan.youdao.com
 fanyilvs.youdao.com
 fanyishang.com
@@ -42826,6 +42823,7 @@ luckykun.com
 luckyxp.net
 lucode.net
 lucoder.com
+lucy365.com
 lucydraw.com
 ludake.com
 ludashi.com

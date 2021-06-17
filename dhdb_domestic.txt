@@ -10330,6 +10330,7 @@ api.s.suv666.com
 api.samsungcloudcn.com
 api.sdbao.com
 api.sdk.fmobi.cn
+api.sec.miui.com
 api.share.baidu.com
 api.share.mob.com
 api.share.n.shifen.com

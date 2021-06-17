@@ -39650,7 +39650,6 @@ ch5.cc
 ch5.dcep.ccb.com
 ch7ims.tdum.alibaba.com
 ch9.ms
-ch933.com
 ch999.com
 ch999img.com
 cha-tm.com
@@ -47463,7 +47462,6 @@ crisp.chat
 crispadvertising.com
 crispstata.com
 cristyli.com
-crit-staging.com
 criteo.com
 criteo.net
 criterionedge.com
@@ -61522,6 +61520,7 @@ engage.3mbelgique.be
 engage.3mbulgaria.bg
 engage.3mcanada.ca
 engage.3mcesko.cz
+engage.3mchile.cl
 engage.3mcompany.lk
 engage.3mdanmark.dk
 engage.3mdeutschland.de
@@ -103182,7 +103181,6 @@ llywsl.ott.le.com
 llzg.com
 llzw888.com
 lm.1731788.com
-lm.ijq.tv
 lm.serving-sys.com
 lm.tv.sohu.com
 lm.web.xlisp.net

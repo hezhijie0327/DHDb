@@ -22858,6 +22858,7 @@ cdn-145.privacy-mgmt.com
 cdn-146.privacy-mgmt.com
 cdn-2.gamecoast.org
 cdn-adn-https-share.rayjump.com
+cdn-adn.rayjump.com
 cdn-ads.thesaigontimes.vn
 cdn-alliancegravity.s3.amazonaws.com
 cdn-api.admost.com
@@ -23336,7 +23337,6 @@ cds1287.lon.llnw.net
 cds1289.lon.llnw.net
 cds1293.lon.llnw.net
 cds1307.lon.llnw.net
-cds1310.lon.llnw.net
 cds1325.lon.llnw.net
 cds177.dus.llnw.net
 cds308.lcy.llnw.net
@@ -77845,7 +77845,6 @@ play.play1.videos.videos.vidto.me
 play.play1.videos.vidto.me
 play.pocketgolf.host
 play.proxy.multikonline.ru
-play.qs01.cn
 play.s01.vidtod.me
 play.s01.vidtodo.pro
 play.s02.vidtod.me

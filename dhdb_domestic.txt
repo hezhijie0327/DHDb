@@ -4276,7 +4276,6 @@
 51modo.cc
 51mokao.com
 51moot.net
-51mp3ring.com
 51mrp.com
 51mtw.com
 51mywellness.com
@@ -47230,7 +47229,6 @@ nfdnserror15.wo.com.cn
 nfdnserror16.wo.com.cn
 nfdnserror17.wo.com.cn
 nfdnserror3.wo.com.cn
-nfdnserror4.wo.com.cn
 nfdnserror5.wo.com.cn
 nfdnserror6.wo.com.cn
 nfdnserror7.wo.com.cn
@@ -56263,7 +56261,6 @@ sdk.cdnmaster.com
 sdk.cmgame.com
 sdk.conf.getui.com
 sdk.conf.igexin.com
-sdk.congyicn.com
 sdk.congyicn.com.m.alikunlun.com
 sdk.e.qq.com
 sdk.guard.mob.com

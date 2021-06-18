@@ -3595,6 +3595,7 @@
 19869.com
 1987084.p23.tc.cdntip.com
 1988.tv
+1988012.com
 1988147.p23.tc.cdntip.com
 1988147.sched.sma.tdnsv5.com
 19888.tv
@@ -6100,6 +6101,7 @@
 3637.com
 363u.com
 364000.com
+3648980.com
 365-588.com
 365-stream.com
 365.etowns.org
@@ -24220,7 +24222,6 @@ applecentar.co.rs
 applecentar.rs
 applecentre.com.au
 applecentre.info
-appleclassicipod.com
 appleclub.com.hk
 applecomputer-imac.com
 applecomputer.cn
@@ -62064,7 +62065,6 @@ equuscs.com
 eqv3oqyr.v1d.szbdyd.com
 eqvpao.bayard-jeunesse.com
 eqx.smartadserver.com
-eqxiu.cn
 eqxiu.com
 eqxiu.mobi
 eqxiu.tv
@@ -81260,10 +81260,8 @@ hndca.com
 hndfbg.com
 hndnews.com
 hndnserror1.wo.com.cn
-hndnserror2.wo.com.cn
 hndnserror4.wo.com.cn
 hndnserror5.wo.com.cn
-hndnserror6.wo.com.cn
 hndpx.com
 hndxsg.org
 hne45p1.cachenode.cn
@@ -105504,7 +105502,6 @@ m.chusan.com
 m.client.10010.com
 m.client.10010.com.w.cdngslb.com
 m.clkservice.youdao.com
-m.clxxkz.com.cn
 m.cnkang.com
 m.cocounion.com
 m.coenr.com

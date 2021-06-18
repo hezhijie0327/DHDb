@@ -38983,7 +38983,6 @@ cds1287.lon.llnw.net
 cds1289.lon.llnw.net
 cds1293.lon.llnw.net
 cds1307.lon.llnw.net
-cds1325.lon.llnw.net
 cds177.dus.llnw.net
 cds308.lcy.llnw.net
 cds310.lcy.llnw.net
@@ -51136,7 +51135,6 @@ data.tradeville.eu
 data.trendymedia.com.cn
 data.tvguo.tv
 data.ubi.com
-data.ventesprivees-fr.com
 data.video.dns.iqiyi.com
 data.video.iqiyi.com
 data.video.ptqy.gitv.tv
@@ -58434,7 +58432,6 @@ e.sogou.com
 e.synchronybank.com
 e.szqifu.com
 e.t28.net
-e.t71q.com
 e.tapdb.net
 e.ted.com
 e.tf.360.cn
@@ -94594,7 +94591,6 @@ jp.hao123.com
 jp.moc.gov.tw
 jp.net
 jp.pandora.tv
-jp.pool.ntp.org
 jp.rti.org.tw
 jp.schroders.email
 jp.xinhuanet.com
@@ -108870,6 +108866,7 @@ mc91.com
 mca.gov.in
 mca.net.daraz.com
 mca66.com
+mcaccess-e.com
 mcadforums.com
 mcaf.ee
 mcafee.com
@@ -141760,7 +141757,6 @@ script.hqpass.com
 script.opentracker.net
 scriptproxy.pie.net.pk
 scripts.bestprice.gr
-scripts.cy-wz.com
 scripts.easyliao.com
 scripts.easyliao.com.w.kunlunar.com
 scripts.jixie.io

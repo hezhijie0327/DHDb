@@ -1144,7 +1144,6 @@
 0x7.me
 0x9.me
 0xaa55.com
-0xd3d.xyz
 0xff000000.com
 0xffffff.org
 0xsky.com
@@ -55815,7 +55814,6 @@ dot.pub
 dot.wp.pl
 dot.wts.xinwen.cn
 dot2.eporner.com
-dota.sykty.com
 dota.tw
 dota2rpg.com
 dota2tester.com
@@ -77692,7 +77690,6 @@ ha.25u.com
 ha.com
 ha.gsxt.gov.cn
 ha.pro-market.net
-ha.wheel.duolebo.com
 ha97.com
 haag0some.com
 haaretz.com
@@ -105409,6 +105406,7 @@ m.90mh.com
 m.918.com
 m.937920.com
 m.958so.cn
+m.967nd.cn
 m.96mob.com
 m.97tuk.cn
 m.99114.com
@@ -121317,7 +121315,6 @@ okemu.com
 okex.com
 okex.me
 okex.vip
-okex.win
 okexcn.com
 okeycar.com
 okfa88.c88588.com

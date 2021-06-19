@@ -10292,6 +10292,7 @@ api.microyan.com
 api.middle.transfer.search.miui.com
 api.mini.wps.cn
 api.misim.10046.mi.com
+api.miui.security.xiaomi.com
 api.mlinks.co
 api.mob.app.letv.com
 api.mobgi.com
@@ -19582,6 +19583,7 @@ crlf0710.com
 crlg.com
 crlocsp.cn
 crm.cc
+crm.ws.ctrip.com
 crm1001.com
 crmch.com
 crmclick.com

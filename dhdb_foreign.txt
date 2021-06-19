@@ -8331,7 +8331,6 @@ adebis.theclinic.jp
 adebis.tipness.co.jp
 adebis.tohshin.co.jp
 adebis.tokyuhotels.co.jp
-adebis.urban-research.jp
 adebis02.juku.st
 adebis8628.matsui.co.jp
 adebisu.wowow.co.jp
@@ -13788,7 +13787,6 @@ appveyor.com
 appwall.api.airpush.com
 appwall.tv2phone.cn
 appwifi.com
-appye.com
 appzhonghua.com
 aprentec.cl
 apress.com
@@ -88246,6 +88244,7 @@ shuaacg.com
 shuadanfu.com
 shuai.so
 shuaibo.wang
+shuaigay.nl
 shuaigay1.com
 shuaigeshe.com
 shuaigetupian.com

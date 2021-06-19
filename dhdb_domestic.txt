@@ -3291,6 +3291,7 @@
 365jz.com
 365key.com
 365master.com
+365mini.com
 365pcbuy.com
 365pk.com
 365pp.com
@@ -5021,7 +5022,6 @@
 5down.net
 5ds.com
 5e3aa5fa5505481d0afa9b60.mdbook.cn
-5e6f408b59ddc57c.qaxcloudwaf.com
 5e969c7aa80f6957335fc413552b1b48.dlied1.cdntips.net
 5ede337a36c9346ea8f3d14b66f1af38.dlied1.cdntips.net
 5ee1f452c9098ccb7bfc28d490850059.dlied1.cdntips.net
@@ -11379,7 +11379,6 @@ avivasign.com
 avlsec.com
 avlyun.com
 avoscloud.com
-avpet.cc
 avq360.com
 avrvi.com
 avrw.com
@@ -12472,7 +12471,6 @@ bdcode.haochu.com.cname4009.yjs-cdn.com
 bdcode.qinglm.com
 bdcode.youke.com
 bdcode1.haodou.com
-bdd.hainan.net
 bdf2.com
 bdf304.com
 bdfpb1.8684.com
@@ -19215,7 +19213,6 @@ count11.51yes.com
 count22.51yes.com
 count23.51yes.com
 count24.51yes.com
-count29.51yes.com
 count32.51yes.com
 count34.51yes.com
 count35.51yes.com
@@ -27726,7 +27723,6 @@ fxzygc.com
 fy-data.com
 fy-game.com
 fy169.net
-fy685.com
 fybanks.com
 fybiji.com
 fybooks.com
@@ -32201,7 +32197,6 @@ hndnserror2.wo.com.cn
 hndnserror3.wo.com.cn
 hndnserror4.wo.com.cn
 hndnserror5.wo.com.cn
-hndnserror6.wo.com.cn
 hndpx.com
 hndxsg.org
 hne45p1.cachenode.cn
@@ -32636,7 +32631,6 @@ hrbciming.com
 hrbesd.com
 hrbmama.com
 hrbmilan.com
-hrbpma.com
 hrbslh.com
 hrbswx.com
 hrbzdty.com
@@ -46622,7 +46616,6 @@ n.mark.letv.com
 n.sinaimg.cn
 n.ssp.qq.com
 n.tzh019.cn
-n.tzh315.cn
 n.yunshipei.com
 n0.sinaimg.cn
 n0808.com
@@ -48268,7 +48261,6 @@ oldboyedu.com
 oldcp.com
 oldenland.com
 oldpan.me
-oldrss.com
 oldtang.com
 oldwww.bjmu.edu.cn
 oleony.com
@@ -49605,6 +49597,7 @@ passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
 passport.lagou.com
+passport.lenovo.com
 passport.lenovo.com.cn
 passport.meituan.com
 passport.mydrivers.com
@@ -51158,7 +51151,6 @@ przwt.com
 ps-scholar-amis-standard.bj.bcebos.com
 ps.cname1.getui.com
 ps.cname2.getui.com
-ps.dlads.cn
 ps.map.baidu.com
 ps.res.netease.com
 ps123.net
@@ -62141,7 +62133,6 @@ tiantianleshuiguo.com
 tiantianquce.com
 tiantianqutao.com
 tiantianring.com
-tiantiantiao.com
 tiantianxuexi.com
 tiantonglaw.com
 tianvalue.com

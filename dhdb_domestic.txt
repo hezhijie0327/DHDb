@@ -10591,7 +10591,6 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -34127,6 +34126,7 @@ ic2china.com
 ic37.com
 ic72.com
 ic7toa8x.sched.sma.tdnsv5.com
+ic98.com
 ic9cube.com
 ica-alliance.org
 icafe28.net
@@ -41513,6 +41513,7 @@ liaoliao.com
 liaosam.com
 liaotiangou.com
 liaow0316.com
+liaoxuefeng.com
 liaozhai.tv
 lib.baomitu.com
 lib.bjmu.edu.cn

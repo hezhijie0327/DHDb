@@ -7996,7 +7996,6 @@
 51okf.com
 51onb.com
 51oneone.com
-51onion.com
 51only.com
 51open.net
 51opone.com
@@ -131035,6 +131034,7 @@ public-tracker.zooki.xyz
 public-ubiservices.ubi.com
 public-v6.sparta.mig.tencent-cloud.net
 public-wgnc4-sg.wargaming.net
+public-ws-ubiservices.ubi.com
 public.app.autohome.com.cn
 public.bn.files.1drv.com
 public.creditchina.gov.cn
@@ -138373,6 +138373,7 @@ rocheplus.es
 rochepro.hr
 rochesterregional.org
 rock-chips.com
+rock-lizard.org
 rock.cryptaloot.pro
 rock.directprimal.com
 rock.reauthenticator.com

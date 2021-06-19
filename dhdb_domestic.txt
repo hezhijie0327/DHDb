@@ -18053,6 +18053,7 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
+cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -19223,7 +19224,6 @@ count41.51yes.com
 count46.51yes.com
 count5.pconline.com.cn
 count5.pconline.com.cn.dnsgtm.com
-count51.51yes.com
 count6.pconline.com.cn
 countad.pconline.com.cn.dnsgtm.com
 counter.kingsoft.com
@@ -49877,6 +49877,7 @@ pdfxd.com
 pdfzj.com
 pdgzf.com
 pdidc.com
+pdiinfo.com.cn
 pdim.gs
 pdkzyy.cn
 pdl.gionee.com
@@ -56299,6 +56300,7 @@ sdkclick.mobile.sina.cn
 sdkclick.uve.weibo.com
 sdkcloud.e.360.cn
 sdkconf.avlyun.com
+sdkconfig.ad.xiaomi.com
 sdkconfig.play.aiseet.atianqi.com
 sdkconfig.video.qq.com
 sdkfp.jd.com

@@ -3372,7 +3372,6 @@
 46.flnet.org
 4608.hk
 4612.yzc596.com
-4616-1.global-cdn.online
 4616-1.global1cdn.com
 461683.com
 462546.com
@@ -13155,6 +13154,7 @@ apiserver-freya.net.daraz.com
 apiserver-wlan-switch.net.daraz.com
 apiserver.r-is-1-2.net.daraz.com
 apiserverlib-ht-2.net.daraz.com
+apisnd.heytapmobi.com
 apisof.net
 apisyouwonthate.com
 apitilt.com
@@ -36060,6 +36060,7 @@ emea.www.net.daraz.com
 emeacsr11.net.daraz.com
 emeawww.net.daraz.com
 emediate.apmmedia.net
+emediate.eu
 emedicinehealth.com
 emee.com
 emeraldx.com
@@ -81195,7 +81196,6 @@ qvmucs.abluestore.com
 qvnpxc.technopark.ru
 qvod.com
 qvqtga.barenecessities.com
-qvwa7.xxllz.top
 qvxo.com
 qvzrde.eusemfronteiras.com.br
 qvzrde.horoscopovirtual.com.br
@@ -85346,6 +85346,7 @@ sanitairwinkel.nl
 sanitas.com
 sanitwealth.com
 sanjiangge.com
+sanjiaoshou.net
 sanjinjiake.com
 sanjueyaluosi.com
 sankaijian.com

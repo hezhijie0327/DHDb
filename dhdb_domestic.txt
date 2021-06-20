@@ -10513,7 +10513,6 @@ apk.360buyimg.com
 apk.91.com
 apk.shouji.koowo.com
 apk.zhoushengfe.com
-apk3.com
 apkevery.com
 apkgu.com
 apkim.w0kzkd.cn
@@ -35930,6 +35929,7 @@ interface.dmzj.com
 interface.im.taobao.com
 interface.sina.cn
 interface2.mxingkong.com.cn
+interface3.music.163.com
 interface3.music.163.com.163jiasu.com
 internal-amis-res.cdn.bcebos.com
 internal-api-security.feishu.cn

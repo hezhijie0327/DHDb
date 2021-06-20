@@ -10875,7 +10875,6 @@
 796067.shop.m.liebiao.com
 7966.com
 796623.shop.m.liebiao.com
-7979la.com
 7979u.com
 797sun.com
 797vip.com
@@ -23208,7 +23207,6 @@ api.ishansong.com
 api.itaoxiaoshuo.com
 api.ithome.com
 api.ivideo.sina.com.cn
-api.jcswhg.com
 api.jikipedia.com
 api.jits.heytapmobi.com
 api.jobui.com
@@ -51196,7 +51194,6 @@ data.stepstone.be
 data.stepstone.fr
 data.stepstone.nl
 data.studybreakmedia.com
-data.technoscoots.com
 data.tradeville.eu
 data.trendymedia.com.cn
 data.tvguo.tv
@@ -120765,7 +120762,6 @@ oascentral.itbusiness.ca
 oascentral.law.com
 oascentral.lycos.com
 oascentral.newsmax.com
-oascentral.rcrnews.com
 oascentral.redherring.com
 oascentral.theonion.com
 oascentral.theonionavclub.com
@@ -126085,7 +126081,6 @@ pddcdn.com
 pddeu.com
 pdds-cdn.uc.cn
 pdep.com.ar
-pdf-1.infamylists.com
 pdf-lib.org
 pdf-tech.com
 pdf.com

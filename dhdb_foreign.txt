@@ -5672,7 +5672,6 @@
 92148.shop.m.cnlist.org
 921lu.com
 922.info.tm
-922000.com
 922c25.com
 923qp6.com
 92564041c465279d029220a804112c4e.clo.footprintdns.com
@@ -16766,7 +16765,6 @@ bd1-china.6789.com
 bd1.idgdmg.com.cn
 bd2020.com
 bd4travel.com
-bd625.com
 bd835.com
 bd935.com
 bdc.ca
@@ -26203,7 +26201,6 @@ codingcompetitions.withgoogle.com
 codingdao.com
 codingdojo.com
 codingmilitia.com
-codingserf.com
 codota-dataplane.rudderstack.com
 coe.int
 coed-d.openx.net
@@ -43410,7 +43407,6 @@ global.in.ai.privatelink.monitor.azure.com
 global.jcb
 global.ketchcdn.com
 global.localizecdn.com
-global.mgr.consensu.org
 global.msads.net
 global.notify.windows.com
 global.ntt
@@ -67919,7 +67915,6 @@ mobile-lib-oa-1.net.daraz.com
 mobile-www.net.daraz.com
 mobile.356884.com
 mobile.amateursexy.net
-mobile.banzai.it
 mobile.beike188.com
 mobile.d.ns.emailvision.net.daraz.com
 mobile.de
@@ -73006,7 +73001,6 @@ oascentral.itbusiness.ca
 oascentral.law.com
 oascentral.lycos.com
 oascentral.newsmax.com
-oascentral.rcrnews.com
 oascentral.redherring.com
 oascentral.theonion.com
 oascentral.theonionavclub.com
@@ -83075,7 +83069,6 @@ res.elle.fr
 res.femina.fr
 res.francedimanche.fr
 res.iqucai.com
-res.ohmanhua.com
 res.programme-television.org
 res.public.fr
 res.rbl.ms
@@ -95672,6 +95665,7 @@ swjinsheng.com
 swjl.net
 swjrzk.com
 swkism.moon-trade.ru
+swlhome.com
 swlidc.com
 swlsbj.com
 swm.digital

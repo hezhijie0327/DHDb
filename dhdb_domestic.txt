@@ -22126,7 +22126,6 @@ diemameishi.com
 diemoe.net
 diershoubing.com
 difanapp.com
-dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digcredit.com
@@ -26272,7 +26271,6 @@ fanxing.com
 fanxing.kugou.com
 fanxuefei.com
 fany-eda.com
-fany-online.com
 fanya.aichaoxing.com
 fanya.chaoxing.com
 fanyantao.com
@@ -31981,6 +31979,7 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -32455,7 +32454,6 @@ hooyoo.com
 hope-tarsus.com
 hopebank.com
 hopecool.com
-hopedafz.com
 hoperun.com
 hopetrip.com.hk
 hoplink.ksosoft.com

@@ -4,6 +4,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -22331,7 +22332,6 @@ carfax.com
 carfax.sc.omtrdc.net
 cargas.com
 cargigileads.com
-cargo001.com
 cargosupermarket.volga-dnepr.com
 cargurus.actonservice.com
 cargurus.com
@@ -47181,6 +47181,7 @@ guolin.tech
 guoman8.cc
 guopengliang.com
 guoshipartners.com
+guoshudq.com
 guotaifilm.com
 guoxuecc.com
 guozeyu.com

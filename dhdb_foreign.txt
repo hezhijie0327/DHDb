@@ -12946,7 +12946,6 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
-api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.geetest.com
@@ -24230,6 +24229,7 @@ chinaar.com
 chinaart.tw
 chinaaviationdaily.com
 chinabdt.com
+chinablog.xyz
 chinabug.net
 chinabx.com
 chinabyhx.com
@@ -60496,6 +60496,7 @@ lifesitenews.com
 lifesize.com
 lifespaceprobiotics.com
 lifestyle-syreetasik.blogspot.hk
+lifestylegroup.hk
 lifesum.com
 lifethink.net
 lifetime.life

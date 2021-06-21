@@ -1963,6 +1963,7 @@
 22113885.com
 2213.com
 221486.com
+221547.com
 222.232.244.120.zz.countries.nerd.dk
 222.com
 222.my03.com
@@ -12946,6 +12947,7 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
+api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.geetest.com
@@ -47466,6 +47468,7 @@ h5.ldvip35.com
 h5.ldvip36.com
 h5.ldvip37.com
 h5.ldvip40.com
+h5.ldvip41.com
 h5.ldvip42.com
 h5.ledong987.cc
 h5.pk1179.com
@@ -80592,7 +80595,6 @@ qiaojiang.tv
 qiaomen8.com
 qiaomi.com
 qiaoshenghuo.com
-qiaosiwang.com
 qibookw.com
 qibuluo.com
 qidian.ca

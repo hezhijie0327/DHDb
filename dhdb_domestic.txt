@@ -34965,7 +34965,6 @@ images.enet.com.cn
 images.liqucn.com
 images.lulian.cn
 images.macx.cn
-images.newsmth.net
 images.nvidia.cn
 images.pchome.net
 images.pinduoduo.com
@@ -47204,7 +47203,6 @@ nfdnserror11.wo.com.cn
 nfdnserror12.wo.com.cn
 nfdnserror13.wo.com.cn
 nfdnserror15.wo.com.cn
-nfdnserror16.wo.com.cn
 nfdnserror17.wo.com.cn
 nfdnserror3.wo.com.cn
 nfdnserror5.wo.com.cn

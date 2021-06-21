@@ -11828,6 +11828,7 @@ baihe.com
 baiheee.com
 baihei.net
 baihephoto.com
+baihexs.com
 baihui.com
 baihuillq.com
 baiila.com
@@ -18200,7 +18201,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -19202,7 +19202,6 @@ count.xxxssk.com
 count11.51yes.com
 count22.51yes.com
 count23.51yes.com
-count24.51yes.com
 count32.51yes.com
 count34.51yes.com
 count35.51yes.com
@@ -56264,7 +56263,6 @@ sdkclick.mobile.sina.cn
 sdkclick.uve.weibo.com
 sdkcloud.e.360.cn
 sdkconf.avlyun.com
-sdkconfig.ad.xiaomi.com
 sdkconfig.play.aiseet.atianqi.com
 sdkconfig.video.qq.com
 sdkfp.jd.com

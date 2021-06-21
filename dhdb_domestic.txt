@@ -31957,6 +31957,7 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -32169,7 +32170,6 @@ hndca.com
 hndfbg.com
 hndnews.com
 hndnserror1.wo.com.cn
-hndnserror2.wo.com.cn
 hndnserror3.wo.com.cn
 hndnserror4.wo.com.cn
 hndnserror5.wo.com.cn
@@ -32897,6 +32897,7 @@ huami.com
 huamoe.com
 huan-tai.com
 huan.tv
+huanaotong.com
 huanbao-world.com
 huanbaoscx.com
 huanbeiloan.com

@@ -13440,7 +13440,6 @@ bjtyzh.org
 bjunionstar.net
 bjuri.com
 bjuser.jpush.cn
-bjweimob.com
 bjweixindk.com
 bjweizhifu.com
 bjwfz.com
@@ -42289,7 +42288,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -56262,6 +56260,7 @@ sdkclick.mobile.sina.cn
 sdkclick.uve.weibo.com
 sdkcloud.e.360.cn
 sdkconf.avlyun.com
+sdkconfig.ad.xiaomi.com
 sdkconfig.play.aiseet.atianqi.com
 sdkconfig.video.qq.com
 sdkfp.jd.com

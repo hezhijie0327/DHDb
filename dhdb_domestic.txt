@@ -7387,6 +7387,7 @@ a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
 a.dlads.cn
+a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -15999,6 +16000,7 @@ cgyou.com
 cgyouxi.com
 cgzy.net
 cgzyw.com
+cgzz8.com
 ch-auto.com
 ch-water.com
 ch.com
@@ -41583,6 +41585,7 @@ light-client-log-heiniugo.getapk.cn
 lightget.com
 lightgx.com
 lighthouse.dmallcdn.com
+lighthouseapi.dmall.com
 lighting163.com
 lightingchina.com
 lightinit.com

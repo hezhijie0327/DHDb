@@ -5977,7 +5977,6 @@
 999.abccp1.com
 999.ch3088.com
 999.df319.com
-999.dlg789.com
 999.hx202.com
 999.jbi6689.com
 999.jbi9988.com
@@ -12956,7 +12955,6 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
-api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com

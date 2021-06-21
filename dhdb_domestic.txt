@@ -10241,7 +10241,6 @@ api.ishansong.com
 api.itaoxiaoshuo.com
 api.ithome.com
 api.ivideo.sina.com.cn
-api.jcswhg.com
 api.jits.heytapmobi.com
 api.jobui.com
 api.joomob.com
@@ -42351,7 +42350,6 @@ log.tpns.tencent.com
 log.trackingio.com
 log.u.wps.cn
 log.umsns.com
-log.uu.163.com
 log.v2.hunantv.com
 log.vcgame.cn
 log.voicecloud.cn

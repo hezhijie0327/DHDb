@@ -50125,6 +50125,7 @@ http-echo-beta-interaction.net.daraz.com
 http3check.net
 httpbaidu.com
 httpdns.push.heytapmobi.com
+httpdns.push.oppomobile.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
 httpool.com

@@ -15856,7 +15856,6 @@ cernet2.net
 cersp.com
 certify.alipay.com
 ces-transaction.com
-cesafe.com
 cesfutures.com
 ceshi112.com
 ceshigo.com
@@ -19023,7 +19022,6 @@ connect-drcn.dbankcloud.cn
 connect-drcn.hispace.hicloud.com
 connect.play.aiseet.atianqi.com
 connect.qq.com
-connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com

@@ -10565,7 +10565,6 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -14652,7 +14651,6 @@ cache.a.market.xiaomi.com
 cache.amap.com
 cache.amap.com.danuoyi.tbcache.com
 cache.cnzz.com
-cache.cswsadlab.com.w.cdngslb.com
 cache.m.ptqy.gitv.tv
 cache.pack.google.com
 cache.soso.com
@@ -32972,6 +32970,7 @@ huaraytech.com
 huarongdao.com
 huarongled.com
 huaruicom.com
+huaruizs.com
 huas.co
 huashangtop.com
 huashen-edu.com
@@ -56216,7 +56215,6 @@ sdk.cdnmaster.com
 sdk.cmgame.com
 sdk.conf.getui.com
 sdk.conf.igexin.com
-sdk.congyicn.com.m.alikunlun.com
 sdk.e.qq.com
 sdk.guard.mob.com
 sdk.look.360.cn

@@ -27030,6 +27030,7 @@ fl8pus1.cachenode.cn
 flachina.com
 flamesky.org
 flaredup.com
+flash.sec.miui.com
 flash2-http.qq.com
 flash8.net
 flash8f.com
@@ -29420,7 +29421,6 @@ gs.amazon.cn
 gs.getui.com
 gs.gsxt.gov.cn
 gs.jsscxx.com
-gs265.com
 gsactivity.diditaxi.com.cn
 gsbankchina.com
 gsbankmall.com
@@ -36729,7 +36729,6 @@ iyeeda.com
 iyeele.com
 iyenei.com
 iyes.youku.com
-iyewu.club
 iyingdi.com
 iyingji.com
 iyinxun.com
@@ -53554,7 +53553,6 @@ quanquanapp.net
 quanriai.com
 quanshi.com
 quanshuge.com
-quansucloud.com
 quant.la
 quantacn.com
 quantao100.com

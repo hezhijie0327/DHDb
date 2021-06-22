@@ -47788,7 +47788,6 @@ cs-geo-dds.trafficmanager.net
 cs-notices.fireeye.com
 cs-op.douyucdn.cn
 cs-server-s2s.yellowblue.io
-cs-show.com
 cs-utils-rtr.analytics.net.daraz.com
 cs-utils-rtr.apache.net.daraz.com
 cs-utils-rtr.backend.net.daraz.com
@@ -99793,7 +99792,6 @@ laigame7.net
 laihema.com
 laihua.com
 laijiawen.com
-laijiong.com
 laijiuye.com
 laiketui.com
 lailaihui.com

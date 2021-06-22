@@ -4907,7 +4907,6 @@
 259go.com
 259rr.com
 25az.com
-25djd.com
 25dx.com
 25f340182f9c0f236086f4536a12b916.safeframe.googlesyndication.com
 25fd4ce51ad7493197e8507d829be2bd.fp.measure.office.com
@@ -66251,7 +66250,6 @@ finance.sina.cn
 finance.sina.com.cn
 finance.yahoo.com
 finance.youku.com
-finance.youth.cn
 finance.youth.cn.wswebcdn.com
 financeit.io
 financeleadsonline.com
@@ -110674,6 +110672,7 @@ metric.nissan.pt
 metric.nissan.ua
 metric.nomura.co.jp
 metric.nwsource.com
+metric.olivegarden.com
 metric.petinsurance.com
 metric.philosophy.com
 metric.print-mo.net.daraz.com
@@ -128047,6 +128046,7 @@ pinzhi.xin
 pinzhikeji.net
 pinzs.com
 pio.fabianfett.de
+pioneerlinux.com
 pioneersci.com
 pioneertimes.net
 pionline.com

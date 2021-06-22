@@ -11946,7 +11946,6 @@ bajdzis.gallerycdn.azure.cn
 bajiehechuang.com
 bajintech.com
 bajson.com
-bakaawt.com
 bakchoi.com
 bake818.cn
 bala.cc
@@ -19594,7 +19593,6 @@ crystaledu.com
 cryuantafund.com
 cs-feige.iqiyi.com
 cs-op.douyucdn.cn
-cs-show.com
 cs.37see.com
 cs.5i5j.com
 cs.com.cn
@@ -33543,6 +33541,7 @@ hxgame.net
 hxgqw.com
 hxgs.net
 hxgwott.com
+hxhost.com
 hxinq.com
 hxjbh.com
 hxjiqi.com
@@ -35905,6 +35904,7 @@ interface.biliapi.com
 interface.bilibili.com
 interface.dmzj.com
 interface.im.taobao.com
+interface.music.163.com
 interface.sina.cn
 interface2.mxingkong.com.cn
 interface3.music.163.com
@@ -43832,7 +43832,6 @@ mall0.qiyipic.com
 mallchina.net
 mallcoo.net
 mallhaha.com
-mallocfree.com
 mallshow.net
 mallstaroa.com
 mallui.pizzahut.com.cn

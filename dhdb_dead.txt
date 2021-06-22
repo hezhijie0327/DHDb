@@ -3411,6 +3411,7 @@ ads-api.videojj.com
 ads-de.spray.net
 ads-pixiv.net
 ads-script.ad-center.com
+ads-tracking.beopinion.com
 ads-twitter.com
 ads-west-colo.adsymptotic.com
 ads-wordego.azureedge.net
@@ -14330,6 +14331,7 @@ huaweicloudwaf.com
 huaweidevice.com
 huaweimall.com
 huaweisafedns.com
+huaxia369.com
 huaxiangdiao.com
 huaxirc.com
 huaxiu.ink

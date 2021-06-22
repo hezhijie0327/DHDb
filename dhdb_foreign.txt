@@ -1792,7 +1792,6 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.android.pool.ntp.org
-2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -6772,7 +6771,6 @@ a6.codejumps.com
 a6.wechatpu.com
 a647dbrbqs.tumblr.com
 a66kk.com
-a66qq.com
 a67.com
 a67744.com
 a6a1.com
@@ -8832,7 +8830,6 @@ ads-server.hipwee.com
 ads-sg.tiktok.com
 ads-target.coccoc.com
 ads-tracking.beop.io
-ads-tracking.beopinion.com
 ads-trk.vidible.tv
 ads-v-darwin.hulustream.com
 ads.123net.jp
@@ -61342,6 +61339,7 @@ liuxiaobo.net
 liuxinzhou.com
 liuxue.stellour.com
 liuxuegang.site
+liuxuewenshuwang.com
 liuyao.me
 liuyingqiang.com
 liuzheyuan.com
@@ -78762,7 +78760,6 @@ pool.graft.hashvault.pro
 pool.minexmr.com
 pool.nimiq-network.com
 pool.nimiq.watch
-pool.ntp.org
 pool.supportxmr.com
 pool.tdcoincore.org
 pool.torrent.pw

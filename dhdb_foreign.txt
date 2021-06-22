@@ -1798,6 +1798,7 @@
 2.biqle.ru
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
+2.centos.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.courier2-push-apple.com.akadns.net
 2.cr.rs
@@ -73841,6 +73842,7 @@ okok0055.com
 okok0066.com
 okok0088.com
 okokzy.cc
+oksmk.com
 okstate.edu
 oktagv.immobilienscout24.at
 oktube.net

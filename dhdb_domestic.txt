@@ -2970,7 +2970,6 @@
 317hu.com
 3188.la
 3198.com
-3199.cn
 3199.com
 31a02bf3c60e816ad54fa3bbfb615ce5.dlied1.cdntips.net
 31dae7fdd30c348526d8b0601595ea74.dlied1.cdntips.net
@@ -3510,7 +3509,6 @@
 3g.ali213.net
 3g.cnfol.com
 3g.yy.com
-3g2win.com
 3g518.com
 3g567.com
 3g7vv5a3.sched.sma.tdnsv5.com
@@ -10566,7 +10564,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -18201,6 +18198,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc

@@ -47077,6 +47077,7 @@ cp.europort.jp
 cp.gs307.com
 cp.jfcdns.com
 cp.lac.co.jp
+cp.pushwoosh.com
 cp.qbaobei.com
 cp.u9un.com
 cp.walllink.cc
@@ -79686,7 +79687,6 @@ hdslb.net
 hdsupplysolutions.com
 hdthjy.com
 hduofen.cn
-hduofen.com
 hdurl.me
 hduzplus.xyz
 hdvb.info

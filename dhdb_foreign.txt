@@ -4671,6 +4671,7 @@
 69192.com
 6922000.com
 6949.com
+695828.com
 696205.com
 69990f.com
 699aa.net
@@ -13463,7 +13464,6 @@ appcloud.com
 appcloudcdn.com
 appconsent.io
 appcontent.serif.com
-appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appduu.com
@@ -75818,7 +75818,6 @@ p2.danskebank.fi
 p2.danskebank.no
 p2.danskebank.se
 p2.mypi.co
-p2.port25.biz
 p2.qpoe.com
 p20.zdassets.com
 p2099.com

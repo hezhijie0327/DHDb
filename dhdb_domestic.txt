@@ -7869,7 +7869,6 @@ account.youdao.com
 account.youku.com
 account.zhihu.com
 accounts.douban.com
-accounts.epicgames.com
 accounts.firefox.com.cn
 accounts.google.cn
 accounts.nvgs.nvidia.cn

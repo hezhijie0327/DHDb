@@ -14476,6 +14476,7 @@ c2.amap.com
 c2.gdt.qq.com
 c2.youdao.com
 c23163a589d35c4cbac5898bfae3111d.dlied1.cdntips.net
+c2471.cn
 c2cpicdw.qpic.cn
 c2d2bhqz.v1d.szbdyd.com
 c2d2bxv1.v1d.szbdyd.com
@@ -18084,7 +18085,6 @@ cmz2.stm65i8.com
 cmzd.com
 cmzj.net
 cmzyk.com
-cn-api.samsungcloud.com
 cn-api.samsungosp.com
 cn-api.samsungpositioning.com.cn
 cn-auth.samsungosp.com
@@ -62218,7 +62218,6 @@ timecoo.com
 timedoo.com
 timelog.moviebox.baofeng.com
 timeofdate.com
-timeoutbeijing.com
 timepill.net
 timeread.com
 timeread.net

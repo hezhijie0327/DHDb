@@ -19673,7 +19673,6 @@ bnef.com
 bnetcmsus-a.akamaihd.net
 bnetproduct-a.akamaihd.net
 bnetshopus.akamaized.net
-bnews.co
 bnext.es
 bnext.io
 bnf7.ras.flnet.org
@@ -87244,7 +87243,6 @@ secure.download.dm.origin.com
 secure.east2pony.com
 secure.emeu0circ.com
 secure.etym6cero.com
-secure.everydayhealth.com
 secure.fanboy.co.nz
 secure.fastclick.net
 secure.fear7calk.com
@@ -96470,6 +96468,7 @@ swwcyk.fotomac.com.tr
 swwcyk.sabah.com.tr
 swwcyk.takvim.com.tr
 swxgvo.techacademy.jp
+swykjgs.com
 swzhaohuo.com.cn
 swzzj.com
 sx-mzy.com
@@ -99741,7 +99740,6 @@ tlfax.com
 tlfjw.com
 tlightsky.com
 tlinks.run
-tlkzs.com
 tlllllll.com
 tlmmgf.com
 tlmpulsa.com

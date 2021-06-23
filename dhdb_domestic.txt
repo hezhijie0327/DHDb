@@ -2870,6 +2870,7 @@
 2zimu.com
 3.39zuoye.com
 3.5646.cn
+3.cn.pool.ntp.org
 3.iscrv.com
 3.pic.pc6.com
 3.ssqzj.com
@@ -24714,7 +24715,6 @@ ecohumanity.org
 ecollision.shareinstall.com.cn
 ecomcbjs.jomodns.com
 ecomgxh.kuwo.cn
-ecommerceintegration-public-service-ecomprod02.ol.epicgames.com
 ecomoter.com
 ecook.cn
 ecoplastech.com
@@ -28724,7 +28724,6 @@ giexya.com
 gif.lu.sogoucdn.com
 gif5.net
 gifcool.com
-giffox.com
 gifmiao.com
 gifms.com
 gifshow.b0.aicdn.com
@@ -31508,6 +31507,7 @@ hengwenzhendangqi.com
 hengxiangtaji.com
 hengyan.com
 hengyang.anjuke.com
+hengyer.com
 hengyidai.com
 hengyikang.cn
 hengyoux.com
@@ -55948,6 +55948,7 @@ sc0.hao123img.com
 sc02.alicdn.com
 sc04.alicdn.com
 sc117754a1uv41ig.aliyunddos1028.com
+sc119.cc
 sc1588.com
 sc2.nosdn.127.net
 sc2car.com
@@ -58002,6 +58003,7 @@ simplexue.com
 simu800.com
 simul-china.com
 simuwang.com
+simwe.com
 simxhs.com
 sin.di2y21.top
 sina.cn
@@ -61832,7 +61834,6 @@ tg88dhdb.v1d.szbdyd.com
 tg88dw6r.v1d.szbdyd.com
 tg8ega18.v1d.szbdyd.com
 tg8egfc1.v1d.szbdyd.com
-tga-data-upload.hrgame.com.cn
 tgapic.qq.com
 tgapic.qq.com.sched.p1.tdnsv6.com
 tgapic.qq.com.sched.px.tdnsv6.com

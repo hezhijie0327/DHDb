@@ -28403,7 +28403,6 @@ cs148.com
 cs154.com
 cs154.wac.edgecastcdn.net
 cs155.com
-cs170.com
 cs172.com
 cs192.com
 cs193.com
@@ -48440,7 +48439,6 @@ hbshuzhou.com
 hbslncy.com
 hbsnepal.com.np
 hbswnews.com
-hbtxbaidu.com
 hbv.de
 hbvl.be
 hbx.media.net
@@ -79020,6 +79018,7 @@ pool.graft.hashvault.pro
 pool.minexmr.com
 pool.nimiq-network.com
 pool.nimiq.watch
+pool.ntp.org
 pool.supportxmr.com
 pool.tdcoincore.org
 pool.torrent.pw

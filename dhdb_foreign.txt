@@ -432,6 +432,7 @@
 084ld.com
 0852e.com
 0853rc.com
+0854job.com
 0859job.com
 085ld.com
 0869a.com
@@ -10061,7 +10062,6 @@ adv.nexthardware.com
 adv.pilseta24.lv
 adv.s8bbs.com
 adv.sec.intl.miui.com
-adv.sec.miui.com
 adv.strategy.it
 adv.thuvienphapluat.vn
 adv.vcmedia.vn
@@ -13040,6 +13040,7 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -63237,7 +63238,6 @@ m.sancdn.net
 m.sanitwealth.com
 m.sanjiangge.com
 m.sdaih.com
-m.sdyl188.com
 m.search.aol.com
 m.sfscooter.cn
 m.shanbara.jp

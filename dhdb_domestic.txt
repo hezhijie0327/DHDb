@@ -1698,7 +1698,6 @@
 17446.com
 1750184.b2b.liebiao.com
 1754395.b2b.liebiao.com
-17558.net
 1756307.shop.liebiao.com
 1757233.b2b.liebiao.com
 1758.com
@@ -10564,6 +10563,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -31644,7 +31644,6 @@ hfyt365.com
 hfzq.com.cn
 hg12333.com
 hg707.com
-hg86228.com
 hg8880.org
 hgaas.com
 hgame.com
@@ -43808,6 +43807,7 @@ malabeibei.com
 malacca.inveno.com
 malagis.com
 malait.com
+malaysiaairlines.com
 maldiveszh.com
 maldun.com
 males120.com
@@ -48005,6 +48005,7 @@ ocri-genomics.org
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
 ocsp-data.us.cdnetworks.com
+ocsp-lb.apple.com.akadns.net
 ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.cfca.com.cn
@@ -56284,7 +56285,6 @@ sdlongli.com
 sdly35.com
 sdmic.com
 sdn.geekzu.org
-sdn.kugou.com
 sdnfv.org
 sdnjsbc.com
 sdnlab.com

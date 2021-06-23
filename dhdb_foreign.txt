@@ -34470,7 +34470,6 @@ e.serverbid.com
 e.synchronybank.com
 e.szqifu.com
 e.t28.net
-e.t71q.com
 e.ted.com
 e.tiojk.com
 e.tw.cx
@@ -57081,6 +57080,7 @@ jp.hao123.com
 jp.moc.gov.tw
 jp.net
 jp.pandora.tv
+jp.pool.ntp.org
 jp.rti.org.tw
 jp.schroders.email
 jpaatr.astellas.jp

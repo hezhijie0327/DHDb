@@ -10021,7 +10021,6 @@
 66zw.com
 67.124.72.211.zz.countries.nerd.dk
 67.33.213.223.zz.countries.nerd.dk
-67.4dq.com
 670038.com
 671061.shop.258.com
 6711.com
@@ -37208,6 +37207,7 @@ captive.apple.com.edgekey.net
 captive.g.aaplimg.com
 capture.condenastdigital.com
 capture.crutchfield.com
+capture.trackjs.com
 captureage.com
 capvision.com
 capwhale.com
@@ -58723,6 +58723,7 @@ e.sogou.com
 e.synchronybank.com
 e.szqifu.com
 e.t28.net
+e.t71q.com
 e.tapdb.net
 e.ted.com
 e.tf.360.cn
@@ -118617,7 +118618,6 @@ nfcws.hicloud.com
 nfdnserror13.wo.com.cn
 nfdnserror15.wo.com.cn
 nfdnserror17.wo.com.cn
-nfdnserror3.wo.com.cn
 nfdnserror6.wo.com.cn
 nfdnserror7.wo.com.cn
 nfdnserror8.wo.com.cn

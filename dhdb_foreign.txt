@@ -50536,7 +50536,6 @@ http-echo-beta-interaction.net.daraz.com
 http3check.net
 httpbaidu.com
 httpdns.push.heytapmobi.com
-httpdns.push.oppomobile.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
 httpool.com
@@ -62612,6 +62611,7 @@ ltgplc.com
 lthzhy.elv.com
 ltkdj.com
 ltmei.com
+ltmp.cc
 ltn.com.tw
 ltnibr.ro
 ltnico.fnac.com
@@ -99574,7 +99574,6 @@ titus.com
 tiu.ru
 tivan.naver.com
 tiyalive.com
-tiyu008.com
 tiyu118.com
 tiyu68.com
 tiyuba.net

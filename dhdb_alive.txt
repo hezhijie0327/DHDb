@@ -13697,6 +13697,7 @@ a.diaoyu.cn
 a.dirtyasmr.com
 a.disabledns.emailvision.net.daraz.com
 a.dlads.cn
+a.dmall.com
 a.docs-ns.emailvision.net.daraz.com
 a.dogfood-ns.emailvision.net.daraz.com
 a.dogfood.ns.emailvision.net.daraz.com
@@ -72619,7 +72620,6 @@ gm.biz.tm
 gm.gds.mmstat.com
 gm.hpe.cn
 gm.mmstat.com
-gm.uc003.com
 gm193.com
 gm2007.com
 gm825.com
@@ -129539,6 +129539,7 @@ pop-vbe1.www.linkedin.com
 pop-vsh1.www.linkedin.com
 pop.code.mytanwan.com
 pop.code.poyang.cn
+pop.com.br
 pop.redirect.adsjudo.com
 pop.turnik.su
 pop.uusee.com
@@ -133990,7 +133991,6 @@ qjshe.com
 qjsmartech.com
 qjtrip.com
 qjvpn.com
-qjwhzs.com
 qjxgold.com
 qjxhxu.lakeside.com
 qjxiyt.respect-shoes.ru
@@ -140712,7 +140712,6 @@ s3.phluant.com
 s3.play.estream.to
 s3.play.estream.xyz
 s3.play.vidzi.tv
-s3.play1.videos.vidto.me
 s3.pstatp.com
 s3.pstatp.com.xi.zwtianshangm.com
 s3.pstatp.com.xi.zwtianshangm.com.qr.uuhimalayanqm.com
@@ -147105,7 +147104,6 @@ sinoergy.com
 sinoevin.com
 sinofo.com
 sinofsx.com
-sinograin.com
 sinohb.com
 sinohowe.com
 sinohx.com

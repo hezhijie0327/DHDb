@@ -8394,6 +8394,7 @@ ads.mojicdn.com
 ads.oneway.mobi
 ads.privacy.qq.com
 ads.reader.yueyouxs.com
+ads.service.kugou.com
 ads.serving-sys.cn
 ads.sina.com
 ads.sohu.com
@@ -30942,7 +30943,6 @@ hbdangyang.com
 hbddrn.com
 hbdfdh.com
 hbdmia.com
-hbdnserror1.wo.com.cn
 hbdnserror3.wo.com.cn
 hbdnserror4.wo.com.cn
 hbdnserror7.wo.com.cn

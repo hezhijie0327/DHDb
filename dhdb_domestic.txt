@@ -41714,7 +41714,6 @@ link.1point3acres.com
 link.bilibili.com
 link.chinaz.com
 link.jianshu.com
-link.jiduan.cc
 link.netease.im
 link.zhihu.com
 link.zhiyeapp.com
@@ -43089,7 +43088,6 @@ lz-redeem.com
 lz-static.b0.aicdn.com
 lz-www-cdn.b0.aicdn.com
 lz.lianjia.com
-lz.mingchacn.top
 lz.zu.anjuke.com
 lz13.cn
 lz310.com
@@ -43353,6 +43351,7 @@ m.robooot.com
 m.rrsdl.com
 m.runoob.com
 m.sctcd.com
+m.sdyl188.com
 m.sewxi.com
 m.sh.bendibao.com
 m.shilian168.cn
@@ -57028,6 +57027,7 @@ shaoxianchong.com
 shaoyangxian.baixing.com
 shaoyee.com
 shaozi.info
+shaozimama.com
 shaphc.org
 shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 share.api.weibo.cn

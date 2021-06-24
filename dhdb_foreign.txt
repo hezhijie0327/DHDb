@@ -6300,6 +6300,7 @@ a.csfd.cz
 a.denik.cz
 a.dirtyasmr.com
 a.disabledns.emailvision.net.daraz.com
+a.dlads.cn
 a.docs-ns.emailvision.net.daraz.com
 a.dogfood-ns.emailvision.net.daraz.com
 a.dogfood.ns.emailvision.net.daraz.com
@@ -23068,7 +23069,6 @@ cdn-145.privacy-mgmt.com
 cdn-146.privacy-mgmt.com
 cdn-2.gamecoast.org
 cdn-7n-pt.zbwowo.com
-cdn-adn-https-share.rayjump.com
 cdn-adn.rayjump.com
 cdn-ads.thesaigontimes.vn
 cdn-alliancegravity.s3.amazonaws.com
@@ -65581,6 +65581,7 @@ mdhv.io
 mdialog.com
 mdirector.com
 mdiyay.vseinstrumenti.ru
+mdjhxgjyc.com
 mdjyadi.com
 mdk.flnet.org
 mdlf.xyz

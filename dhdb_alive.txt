@@ -9977,6 +9977,7 @@
 66hyk.cc
 66hyk.com
 66ip.com
+66jiedai.com
 66jjzw.tdum.alibaba.com
 66js.info
 66kk.com
@@ -33870,6 +33871,7 @@ bosscdn.com
 bossdata.be
 bossgoo.com
 bosshr.com
+bossthraed.com
 bosszhipin.com
 boston.com
 bostonangelclub.com
@@ -58637,7 +58639,6 @@ e.deimm.com
 e.deployads.com
 e.dlx.addthis.com
 e.domob.cn
-e.dsjre.com
 e.dtscout.com
 e.dukangjiu.net.cn
 e.e.themighty.com
@@ -95382,7 +95383,6 @@ js.fc090.com
 js.fengniao.com
 js.fhxiaoshuo.com
 js.firefang.cn
-js.flpjc.com
 js.fout.jp
 js.foxpush.com
 js.gaijin.net
@@ -118584,7 +118584,6 @@ nfcws.hicloud.com
 nfdnserror13.wo.com.cn
 nfdnserror15.wo.com.cn
 nfdnserror17.wo.com.cn
-nfdnserror6.wo.com.cn
 nfdnserror7.wo.com.cn
 nffair.com
 nffund.com
@@ -130506,7 +130505,6 @@ privacy4browsers.com
 privacybox.de
 privacycollector-prod-evidon-1122372851.us-east-1.elb.amazonaws.com
 privacyflake.com
-privacyfriendly.brainbits.in
 privacymanager.io
 privacyone.io
 privacypolicy.trgr.be

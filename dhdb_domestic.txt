@@ -11126,6 +11126,7 @@ asyzonline.com
 at-img1.tdimg.com
 at-img2.tdimg.com
 at-img3.tdimg.com
+at-siac.com
 at.alicdn.com
 at.alicdn.com.danuoyi.alicdn.com
 at.idqqimg.com
@@ -11321,7 +11322,6 @@ availability.fe.apple-dns.cn
 avanpa.com
 avatar-1254024480.cos.ap-beijing.myqcloud.com
 avatar-static.segmentfault.com
-avatar-txt.quancms.com
 avatar.1point3acres.cn
 avatar.52pojie.cn
 avatar.cdn.gmugmu.com
@@ -57710,7 +57710,6 @@ shuanyue.tech
 shuashuaapp.com
 shuazhibo.com
 shubuzi.com
-shuc-js.ksord.com
 shuc-pc-hamlet.ksord.com
 shucaiguaguo.com
 shuchongread.com
@@ -61299,6 +61298,7 @@ taonienie.com
 taoniupin.com
 taooo.cc
 taopiaopiao.com
+taopic.com
 taoqao.com
 taoqian123.com
 taosdata.com

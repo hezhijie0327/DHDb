@@ -29211,7 +29211,6 @@ bd-p2p.pull.yximgs.com.a.bcelive.com
 bd-proxy.pull.yximgs.com
 bd-proxy.pull.yximgs.com.a.bcelive.com
 bd-s.baixing.net
-bd.apps.zing.vn
 bd.beimap.com
 bd.czxuexi.com
 bd.dk
@@ -104269,6 +104268,7 @@ logitravel.com
 loglady.publicbroadcasting.net
 loglady.skypicker.com
 logly.co.jp
+logman.dmall.com
 logme.in
 logmein.com
 logmonitor.leiting.com
@@ -129052,6 +129052,7 @@ plugin.mobopay.baidu.com
 plugin.pc.xunlei.com
 plugin.xl7.xunlei.com
 plugin.xl7.xunlei.com.w.kunlungr.com
+plugins.soclminer.com.br
 pluginto.paysafe.com
 pluizer.nl
 plum.metgs.com
@@ -135511,6 +135512,7 @@ qx100.com
 qx1000.com
 qx10086.net
 qx100years.com
+qx121.com
 qx15.com
 qx162.com
 qx20.com
@@ -153421,7 +153423,6 @@ static.fraudmetrix.cn
 static.freebitco.in
 static.freenet.de
 static.front.xywy.com
-static.frontjs.com
 static.g.iqiyi.com
 static.g.ppstream.com
 static.g.pptv.com
@@ -165431,7 +165432,6 @@ ttkacz.com
 ttkdex.com
 ttkefu.com
 ttkkuu.com
-ttkkv.com
 ttkmj.net
 ttkmj.org
 ttkong.com
@@ -176383,7 +176383,6 @@ whmnrc.com
 whmnx.com
 whmoocs.com
 whmoto.com
-whmtyy.com
 whmyjj.org
 whmylike.cc
 whmylikekq.com
@@ -177487,7 +177486,6 @@ wm3335.com
 wm3336.com
 wm3337.com
 wm8.bet
-wm818.com
 wm9991.com
 wm9998.com
 wmads.com
@@ -179807,7 +179805,6 @@ www.51jihua.com
 www.51job.com
 www.51job.com.51jobdns.com
 www.51jsq.net
-www.51nb.com
 www.51testing.org
 www.51wanqiu.net
 www.51xyzp.com

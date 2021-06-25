@@ -6753,7 +6753,6 @@
 3laz.com
 3lbrand.com
 3lgnbe.tdum.alibaba.com
-3li.cc
 3lian.com
 3lift.com
 3lii.com
@@ -42746,7 +42745,6 @@ click-v.com
 click.a-ads.com
 click.aabacosmallbusiness.com
 click.aaptiv.com
-click.abctrack.bid
 click.ad1.ru
 click.admaster.com.cn
 click.adpile.net
@@ -58610,7 +58608,6 @@ e.bilibili.com
 e.bjmu.edu.cn
 e.boc.cn
 e.bsnnk.com
-e.cdfzcz.com
 e.cdntlz.cn
 e.chenyonghua.cn
 e.cl
@@ -102371,6 +102368,7 @@ lightget.com
 lightgx.com
 lighthonestyhrd.org
 lighthouse.dmallcdn.com
+lighthouseapi.dmall.com
 lighti.me
 lighting163.com
 lightingchina.com

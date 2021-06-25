@@ -29212,7 +29212,6 @@ bd-p2p.pull.yximgs.com.a.bcelive.com
 bd-proxy.pull.yximgs.com
 bd-proxy.pull.yximgs.com.a.bcelive.com
 bd-s.baixing.net
-bd.beimap.com
 bd.czxuexi.com
 bd.dk
 bd.flv.huya.com
@@ -44509,7 +44508,6 @@ cnnbfdc.com
 cnnchile.com
 cnnd.vn
 cnndns.com
-cnnerv.com
 cnnews.rti.org.tw
 cnnewss.com
 cnnfootballclub.com
@@ -69454,7 +69452,6 @@ fxgate.baidu.com
 fxian.org
 fxiaoke.com
 fxipreferral.americanexpress.com
-fxjs.2541.com
 fxk8.com
 fxlbb.com
 fxlim.com
@@ -117769,6 +117766,7 @@ netcreators.nl
 netdb.i2p2.de
 netdb.i2p2.no
 netdeal.com.br
+netded.com
 netdna-ssl.com
 netdna.bootstrapcdn.com
 netdna.reporo.net
@@ -143105,6 +143103,7 @@ searchforce.net
 searchfreya.net.daraz.com
 searchftps.net
 searchftps.org
+searchgw.dmall.com
 searchignite.com
 searchiq.co
 searchlove.cc
@@ -145117,6 +145116,7 @@ shaoxianchong.com
 shaoyangxian.baixing.com
 shaoyee.com
 shaozi.info
+shaozimama.com
 shap2zj.zpn.im
 shapach.net
 shapeservices.com

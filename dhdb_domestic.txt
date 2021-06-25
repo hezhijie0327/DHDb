@@ -7387,7 +7387,6 @@ a.epinv.com
 a.eqxiu.com
 a.exam58.com
 a.f-0.cc
-a.fengyx.com
 a.fxltsbl.com
 a.gdt.qq.com
 a.hexuntech.cn
@@ -34110,6 +34109,7 @@ iccidchaxun.com
 iccircle.com
 iccsmart.com
 iccsz.com
+iccwi.net
 icdol.com
 icdream.com
 icdt-conf.com
@@ -59502,6 +59502,7 @@ static.didialift.com
 static.diditaxi.com.cn
 static.dingtalk.com
 static.dingtalk.com.w.cdngslb.com
+static.dmall.com
 static.dmzj.com
 static.dns.iqiyi.com
 static.doubleclick.net

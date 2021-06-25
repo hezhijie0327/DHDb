@@ -31932,6 +31932,7 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -39972,7 +39973,6 @@ kpjushi.com
 kpkpw.com
 kplanet.vip
 kppt.cc
-kpsfloor.com
 kpshx.douguo.com
 kpstaticbj.wx.ckjr001.com
 kpzip.com
@@ -44733,7 +44733,6 @@ mgame.sohu.com
 mgamevideo.serviceproxy.qq.com
 mgate.jd.com
 mgate.jd.com.gslb.qianxun.com
-mgbsdk.matrix.netease.com
 mgc-games.com
 mgc.meituan.com
 mgcdn2.pconline.com.cn
@@ -49623,7 +49622,6 @@ payfinish.m.jd.com.gslb.qianxun.com
 payh5.jd.com
 payh5.jd.com.gslb.qianxun.com
 paymax.cc
-payment-website-pci.ol.epicgames.com
 payment.ishansong.com
 payment2.talkyun.com.cn
 paympay.com

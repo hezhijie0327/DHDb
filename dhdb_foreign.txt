@@ -5061,6 +5061,7 @@
 7cen.com
 7chan.net
 7clink.com
+7cmz.com
 7cow.com
 7cplay.com
 7d2ac988ea1a456c13f9e26c57dda1fb.clo.footprintdns.com
@@ -13130,7 +13131,6 @@ api.rnet.plus
 api.rubic.com.tr
 api.rudderlabs.com
 api.sail-personalize.com
-api.samsungcloud.com
 api.savemedia.website
 api.sbz.vn
 api.sciencemag.org
@@ -20643,7 +20643,6 @@ btcbank.bank
 btcbatman.com
 btcbox.co.jp
 btcc.com
-btcchina.com
 btcherry.net
 btckan.com
 btcside.com
@@ -60076,6 +60075,7 @@ ld.mediaget.com
 ld.za9mnx.com
 ld052.com
 ld068.com
+ld074.com
 ld075.com
 ld11111.com
 ld12.pro
@@ -78626,7 +78626,6 @@ player.cnevids.com
 player.fm
 player.insuranceandhealth.com
 player.ooyala.com
-player.quankan.tv
 player.spotify.com
 player.staging2.crazyegg.com
 player.tenglutg.com

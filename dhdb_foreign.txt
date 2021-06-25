@@ -50518,6 +50518,7 @@ htt5.com
 http-echo-beta-interaction.net.daraz.com
 http3check.net
 httpbaidu.com
+httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
@@ -52434,7 +52435,6 @@ img.shoplineapp.com
 img.stripcdn.com
 img.stripst.com
 img.subhd.la
-img.subhd.tv
 img.subhdtw.com
 img.tapatalk.com
 img.teams.skype.com

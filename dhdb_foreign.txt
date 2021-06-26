@@ -32500,7 +32500,6 @@ dlbooks.to
 dlcdnets.asus.com
 dlcodes.com
 dldl01.com
-dlemba.com
 dler.cloud
 dler.com
 dler.org
@@ -68467,6 +68466,7 @@ mobilecoverage.com.au
 mobiledevsite.co
 mobiledl.adboe.com
 mobilefacebook.com
+mobilegw.alipay.com
 mobilegw.src.alipaydns.com
 mobileinternational.com
 mobileinternational.com.cn
@@ -94788,7 +94788,6 @@ stats.shopify.com
 stats.shoppydoo.com
 stats.shoutout.so
 stats.sim.de
-stats.simplecss.org
 stats.simply-hentai.com
 stats.simplytel.de
 stats.sirdata.com

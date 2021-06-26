@@ -1051,7 +1051,6 @@
 0ab52a539c0c86f89895d6428e905bdc.clo.footprintdns.com
 0ac786cad3734667e0dd3762ddc55a41.dlied1.cdntips.net
 0b6815367c13b0dfdafa91e5f71b6eeb.safeframe.googlesyndication.com
-0b6h.cn
 0b98c74f7366776252700d69af7322b4.safeframe.googlesyndication.com
 0bbe03cec7c3ddf01a6402dbbda1edb5.safeframe.googlesyndication.com
 0bc23768ca192acc133dc7d4ffefbaf1.dl.txcdns.com
@@ -26696,7 +26695,6 @@ awc7.com
 awcapital.ca
 awcas.jd.com
 awcas.jd.com.gslb.qianxun.com
-awcloud.com
 awcn.cc
 aweb.cc
 aweber.com
@@ -51295,7 +51293,6 @@ data.collishop.be
 data.colruyt.be
 data.com
 data.danmu.baofeng.com
-data.dare.deals
 data.decathlon.de
 data.decathlon.es
 data.decathlon.fr
@@ -82884,7 +82881,6 @@ hs13z.net
 hs186.com
 hs2005.net
 hs27772.kro.kr
-hs65.com
 hsabank.com
 hsakyy.com
 hsapi.jd.com
@@ -108250,7 +108246,6 @@ marketing.foxitsoftware1.com
 marketing.foxrehab.org
 marketing.frannet.com
 marketing.ftfnews.com
-marketing.genesiscapital.com
 marketing.geowarehouse.ca
 marketing.getcertain.ca
 marketing.globalcorporateventuring.com
@@ -111326,7 +111321,6 @@ metrics.rochenet.pt
 metrics.rolex.cn
 metrics.rolex.com
 metrics.rottentomatoes.com
-metrics.royalcaribbean.com
 metrics.royalmail.com
 metrics.royalmailgroup.com
 metrics.rtl.nl

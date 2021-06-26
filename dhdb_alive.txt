@@ -6173,6 +6173,7 @@
 36500365.com
 365020.com
 3650258.com
+3650568.com
 365078.com
 365112233.com
 365128.com
@@ -19085,7 +19086,6 @@ afs.googlesyndication.com
 afshanghai.org
 afsusa.org
 aft1v1.com
-aft888.com
 aftenposten.no
 afterdark.tw
 aftermarket.pl
@@ -63581,7 +63581,6 @@ exp.bdstatic.com
 exp.glispa.com
 expai.com
 expat-blog.biz
-expatriate.pw
 expatshield.com
 expaus.in
 expba.com
@@ -75936,7 +75935,6 @@ gotomeeting.com
 gotonav.com
 gotonets.com
 gotoubi.com
-gotourls.bid
 gotovy.com
 gotozhuan.com
 gotporn.com
@@ -109615,7 +109613,6 @@ mds.nipa.co.th
 mds.ricoh.es
 mds.xmgsjd.com
 mdse.com.au
-mdshop.com.tw
 mdskip.m.tmall.com
 mdskip.taobao.com
 mdsmatch.com
@@ -111463,7 +111460,6 @@ metrics.whitepages.com
 metrics.williamhill.com
 metrics.wilson.com
 metrics.wm.com
-metrics.wmg.com
 metrics.wnba.com
 metrics.wns.com
 metrics.womansday.com
@@ -131710,6 +131706,7 @@ pull-flv-l26.douyincdn.com
 pull-flv-l27.douyincdn.com
 pull-flv-l29.douyincdn.com
 pull-flv-l29.douyincdn.com.ucloud.com.cn
+pull-flv-l6-cny.douyincdn.com
 pull-flv-l6-hs.pstatp.com
 pull-flv-l6-source.douyincdn.com
 pull-flv-l6.douyincdn.com

@@ -13024,7 +13024,6 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
-api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.geetest.com

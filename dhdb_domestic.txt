@@ -7031,6 +7031,7 @@
 96sdk.com
 96sir.com
 96ttt.com
+96u.com
 96weixin.com
 96yx.com
 96zxue.com
@@ -22550,7 +22551,6 @@ dm.gucheng.com
 dm.jb51.net
 dm.jsyst.cn
 dm.lianzhixiu.com
-dm.ppzuowen.com
 dm.pstatp.com
 dm.sb580.com
 dm.toutiao.com
@@ -42248,6 +42248,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn

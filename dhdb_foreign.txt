@@ -14405,6 +14405,7 @@ asia.marketo.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
+asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -63285,7 +63286,6 @@ m.media-amazon.com
 m.mfufanj.cn
 m.mhba123.com
 m.miaoxinqipei.com
-m.mightiger.net
 m.milulucn.com
 m.miricommunity.net
 m.moegirl.org
@@ -66869,7 +66869,6 @@ metrics.macquarie.com.au
 metrics.makemytrip.com
 metrics.mamypoko.com
 metrics.manheim.com
-metrics.marcus.com
 metrics.marksandspencer.com
 metrics.marriott.com
 metrics.mastercard.com
@@ -86222,7 +86221,6 @@ sanzang5.net
 sanzei.com
 saohuo7.com
 saon6harz.com
-saoso.com
 sap.com
 sape.ru
 sapikachu.net

@@ -14515,7 +14515,6 @@ aa.avvo.com
 aa.bathandbodyworks.com
 aa.birdgesdk.com
 aa.cbsi.com
-aa.cbssports.com
 aa.com
 aa.db-finanzberatung.de
 aa.deutsche-bank.de
@@ -111167,7 +111166,6 @@ metrics.finishline.com
 metrics.finn.no
 metrics.flyingmag.com
 metrics.fnac.com
-metrics.food-management.com
 metrics.foodmanufacture.co.uk
 metrics.foodnavigator-asia.com
 metrics.foodnavigator-latam.com
@@ -111218,7 +111216,6 @@ metrics.heraldsun.com.au
 metrics.herbalife.com
 metrics.homeadvisor.com
 metrics.homes.com
-metrics.hoovers.com
 metrics.hpe.com
 metrics.hrblock.com
 metrics.hyundaiusa.com
@@ -138182,7 +138179,6 @@ research.lenovo.com
 researchandcare.org
 researchgate.net
 researchintel.com
-researchkit.hk
 researchkit.org
 researchnow.co.uk
 researchnow.com
@@ -140681,7 +140677,6 @@ s2.techweb.com.cn.w.kunlunar.com
 s2.tercabilis.info
 s2.tool.lu
 s2.video2.stream.vidzi.tv
-s2.videos.videos.vidto.me
 s2.vidtod.me
 s2.vip.wpscdn.cn
 s2.web.flashx.co

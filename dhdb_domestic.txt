@@ -666,11 +666,9 @@
 1.92caijing.com
 1.aili.com
 1.arpun.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -31136,6 +31134,7 @@ hcdnw.net163.gslb.c.cdnhwc1.com
 hcdnw.zjtd01.gslb.c.cdnhwc2.com
 hcdnw01.gslb.c.cdnhwc2.com
 hcdnw101.gslb.c.cdnhwc2.com
+hcdnw120.global.c.cdnhwc6.com
 hcdyhr.com
 hcgroup.com
 hch518.com
@@ -57704,6 +57703,7 @@ shuanyue.tech
 shuashuaapp.com
 shuazhibo.com
 shubuzi.com
+shuc-js.ksord.com
 shuc-pc-hamlet.ksord.com
 shucaiguaguo.com
 shuchongread.com

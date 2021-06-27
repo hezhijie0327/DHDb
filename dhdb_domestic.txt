@@ -10573,6 +10573,7 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -42702,7 +42703,6 @@ lsttnews.com
 lsublog.shorelight.com
 lsup.net
 lsw-fast.lenovo.com.cn
-lsxz.org
 lsywtc.com
 lszhibo.com
 lt-uv.com
@@ -48754,6 +48754,7 @@ osx.dpfile.com.s2txipv6.cdntip.com
 osxapps.itunes.apple.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
+osxapps.itunes.g.aaplimg.com
 osyunwei.com
 ot.io.mi.com
 ot.jizy.cn

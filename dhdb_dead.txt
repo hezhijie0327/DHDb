@@ -5428,6 +5428,7 @@ bbc3.azurewebsites.net
 bbc4.azurewebsites.net
 bbc5.azurewebsites.net
 bbc6.azurewebsites.net
+bbcc.yxlady.com
 bbcdn.ad2.ip.ro
 bbcdn.go.adevolution.bbelements.com
 bbcdn.go.arbopl.bbelements.com
@@ -9498,7 +9499,6 @@ data-vp.com
 data.adserve.tomoimg.cn
 data.apn.co.nz
 data.cbsi.com.cn
-data.cdeledu.com
 data.goertz.de
 data.macw.com
 data.marketgid.com
@@ -12945,6 +12945,7 @@ getiantem.org
 getiis.com
 getome.com
 getprivate.eu
+getqujing.com
 getsurfboard.com
 gewala.com
 gf175588.com
@@ -22708,7 +22709,6 @@ profit-smart.com
 program.ilivid.com
 projecth.us
 projeo-finance.fr
-projky.com
 prom.mobile.gome.com.cn
 prom.qbho.kuaibo.com
 prom.x-lime.net

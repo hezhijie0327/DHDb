@@ -1,6 +1,7 @@
 0-courier.push.apple.com
 0-courier2.push.apple.com
 0-gold.net
+0.cn.pool.ntp.org
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
@@ -19781,7 +19782,6 @@ bobobd.com
 bobobra.com
 bobochicparis.com
 bobolink.itpeters.com
-bobosays.com
 bobshop.com
 bobst.com
 bobwills4homes.com
@@ -41660,7 +41660,6 @@ fudezz.kompas.tv
 fudezz.kompasiana.com
 fudezz.kontan.co.id
 fudezz.motorplus-online.com
-fuduoduozy.com
 fuelman.com
 fuertenews.com
 fufoir.aif.ru
@@ -52469,6 +52468,7 @@ img.2ddl.ms
 img.3lift.com
 img.7clink.com
 img.acgjc.com
+img.adnyg.com.w.kunlungr.com
 img.ak.impact-ad.jp
 img.antelopeaudio.com
 img.apnanalytics.com
@@ -63333,7 +63333,6 @@ m.szyuke.cn
 m.t62365.com
 m.themee.cn
 m.tianhaichen.top
-m.tiojk.com
 m.toutou.com
 m.toutoucn.com
 m.travelzoo.com
@@ -89193,7 +89192,6 @@ sieh-an.de
 siemens-energy.com
 siemens-info.com
 siemens.com
-siemens6es7.com
 siemon.com
 siepomaga.pl
 sierra-boa.com

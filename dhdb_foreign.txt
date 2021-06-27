@@ -13031,6 +13031,7 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -16962,6 +16963,7 @@ beaconevents.com
 beaconin2.notinote.me
 beacons.brandads.net
 beacons.mediamelon.com
+beacons2.gvt2.com
 beacons4.gvt2.com
 beacons5.gvt2.com
 beaconsco.com
@@ -24196,7 +24198,6 @@ chengder.com
 chengdulvshi.net
 chengfeilong.com
 chenghuavideo.asia
-chengjie168.com.cn
 chengmingmag.com
 chengshizg.com
 chengtour.com
@@ -50496,7 +50497,6 @@ htt5.com
 http-echo-beta-interaction.net.daraz.com
 http3check.net
 httpbaidu.com
-httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
@@ -56923,6 +56923,7 @@ jollyroom.fi
 jollyroom.no
 jollyroom.se
 jollytime.com
+jom2u.com
 jomblo.asia
 jomego.com
 jomodns.com
@@ -59413,7 +59414,6 @@ kytary.cz
 kytse.com
 kyu.dhcp.biz
 kyuanma.com
-kyun.hk
 kyurem.com
 kyvpze.vidaxl.co.uk
 kyzyhello.com
@@ -70417,7 +70417,6 @@ naigirl.com
 naikanxs.com
 nailedhard.com
 naipartners.com
-naitea.com
 naiyou.cc
 najiaoluo.com
 najlepsiebyvanie.webmerc.eu

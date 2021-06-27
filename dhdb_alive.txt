@@ -1204,7 +1204,6 @@
 1.bashenghuo.com
 1.bb5522.ws
 1.bb6688.ws
-1.bh5.com.cn
 1.car21.net.daraz.com
 1.cjcp.cn
 1.click.com.cn
@@ -1216,7 +1215,6 @@
 1.courier2-push-apple.com.akadns.net
 1.feeddsp.cn
 1.feihua.com
-1.feihua.net.cn
 1.gravatar.com
 1.guyaheng.com
 1.hao123.com
@@ -111192,7 +111190,6 @@ metrics.filemaker.com
 metrics.fingerhut.com
 metrics.finishline.com
 metrics.finn.no
-metrics.flightnetwork.com
 metrics.flyingmag.com
 metrics.fnac.com
 metrics.food-management.com
@@ -111538,7 +111535,6 @@ metrics.ted.com
 metrics.telegraph.co.uk
 metrics.telenet.be
 metrics.telenor.se
-metrics.tesco.com
 metrics.tescobank.com
 metrics.tgw.com
 metrics.theatlantic.com

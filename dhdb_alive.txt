@@ -30,7 +30,6 @@
 000714.xyz
 000787e71a2bcd04fd761663d36deb3c.dlied1.cdntips.net
 00078966.com
-0008887.com
 000951660a6fa250d0386cce40a014e4.clo.footprintdns.com
 000aa.com
 000dn.com
@@ -1255,7 +1254,6 @@
 1.url.cn
 1.url.cn.sched.px-dk.tdnsv6.com
 1.v-x.com.cn
-1.vsimg.com
 1.wenzhangba.cn
 1.win7sky.com
 1.www.s81c.com
@@ -8263,7 +8261,6 @@
 51yjsteel.com
 51ykb.com
 51yonggao.com
-51youcai.cc
 51youcai.com
 51youdian.com
 51yougo.com
@@ -40505,6 +40502,7 @@ chengrengaokaobaoming.com
 chengshidingxiang.com
 chengshiluntan.com
 chengshiw.com
+chengshizg.com
 chengshu.com
 chengsmart.com
 chengtour.com
@@ -79466,7 +79464,6 @@ hbzjzb.com
 hbzknet.com
 hbzkw.com
 hbzkzx.com
-hbzlw.com
 hbzqzx.com
 hbzsb.com
 hbzuojia.com
@@ -109676,7 +109673,6 @@ md-t.org
 md.5.p2l.info
 md.9awi.pw
 md.he9630.com
-md.my03.com
 md.tvzhe.com
 md1618.com
 mdacc.box.com
@@ -111044,7 +111040,6 @@ metrics.boostmobile.com
 metrics.bose.com
 metrics.bostonglobe.com
 metrics.brocade.com
-metrics.bt.com
 metrics.cairnspost.com.au
 metrics.caixabank.es
 metrics.cancer.gov
@@ -111521,7 +111516,6 @@ metrics.thrivent.com
 metrics.ticketmaster.com
 metrics.tienda.telcel.com
 metrics.tim.it
-metrics.time.com
 metrics.timeinc.net
 metrics.timeout.com
 metrics.timewarnercable.com
@@ -119216,6 +119210,7 @@ nipponhd.com
 nipponviolin.com
 niradler.gallerycdn.azure.cn
 nirdjz.revolveclothing.com.au
+nirgame.com
 nis-web-1.net.daraz.com
 nisdtx.org
 nishikawa-gr.com

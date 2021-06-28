@@ -540,7 +540,6 @@
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
-1.feihua.net.cn
 1.gravatar.com
 1.huilv.cc
 1.hysou.com
@@ -43358,7 +43357,6 @@ gg.amblrgg.live
 gg.benbenlong.xyz
 gg.bet
 gg.btnk024.com
-gg.egouz.com
 gg.icad.ae.org
 gg.pl
 gg168.xyz

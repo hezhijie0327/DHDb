@@ -16510,7 +16510,6 @@ adbmetrics.elcomercio.es
 adbmetrics.elcorreo.com
 adbmetrics.hoy.es
 adbmetrics.lasprovincias.es
-adbmetrics.lomejordelvinoderioja.com
 adbmetrics.psicoactiva.com
 adbmetrics.surinenglish.com
 adbmetrics.vidasolidaria.com
@@ -131639,7 +131638,6 @@ public.dm.files.1drv.com
 public.dns.iij.jp
 public.ffquan.cn
 public.fr
-public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.onlyfans.com
 public.popcorn-tracker.org

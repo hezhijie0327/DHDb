@@ -18149,7 +18149,6 @@ adserve.gossipgirls.com
 adserve.jbs.org
 adserve.mizzenmedia.com
 adserve.podaddies.com
-adserve.profit-smart.com
 adserve.shopzilla.com
 adserve.viaarena.com
 adserve2.tom.com
@@ -21742,7 +21741,6 @@ analytics.forgetwp.com
 analytics.freespee.com
 analytics.fs-bdash.com
 analytics.gameforge.de
-analytics.ganji.com
 analytics.gazeta.pl
 analytics.getshogun.com
 analytics.global.sky.com
@@ -21931,7 +21929,6 @@ analytics.sportybet.com
 analytics.spotify.com
 analytics.spotta.nl
 analytics.springboardvideo.com
-analytics.sprint.com
 analytics.staticiv.com
 analytics.stg.springboardvideo.com
 analytics.strangeloopnetworks.com
@@ -101346,7 +101343,6 @@ leiniao.com
 leiniao365.com
 leining-shield.com
 leiouxiong.com
-leipengkai.com
 leiphone.com
 leipi.org
 leipzig.de
@@ -115853,7 +115849,6 @@ mx123.us
 mx175.com
 mx3g.com
 mx981.com
-mxapparc.com
 mxarts.com
 mxc.com
 mxcdn1.now.sh
@@ -130096,6 +130091,7 @@ ppsao.com
 ppshk.net
 ppsimg.com
 ppslsa.com
+ppspain.com
 ppsport.com
 ppsports.suning.com
 ppss.kr

@@ -390,6 +390,7 @@
 0634.com
 06362.com
 065201.com
+0660hf.com
 0663.net
 0663job.com
 0668.com
@@ -15608,7 +15609,6 @@ cdncache.org
 cdncl.net
 cdnczycn.likeshare-tech.com
 cdndata.video.iqiyi.com
-cdndm.com
 cdndm5.com
 cdndm5.net
 cdndo.com
@@ -18178,7 +18178,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -36663,7 +36662,6 @@ iyangcong.com
 iyaou.com
 iyaxi.com
 iyaya.com
-iyaya.info
 iyb.tm
 iycdm.com
 iycsky.com

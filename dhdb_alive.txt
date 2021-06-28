@@ -13710,7 +13710,6 @@ a.diaoyu.cn
 a.dirtyasmr.com
 a.disabledns.emailvision.net.daraz.com
 a.dlads.cn
-a.dmall.com
 a.docs-ns.emailvision.net.daraz.com
 a.dogfood-ns.emailvision.net.daraz.com
 a.dogfood.ns.emailvision.net.daraz.com
@@ -33716,6 +33715,7 @@ bookmark.115.com
 bookmarkinghost.com
 bookmarktrip.com
 bookmybridgestonetyre.com
+bookqi.com
 bookresource.net
 books-analytics-events.apple.com
 books-analytics-events.news.apple-dns.net
@@ -109187,6 +109187,7 @@ matrix.net.daraz.com
 matrix.org
 matrix.to
 matrix.ua
+matrixinfotechsolution.com
 matrixspa.it
 matrixteens.com
 mats.gtimg.com
@@ -110967,7 +110968,6 @@ metrics.americancityandcounty.com
 metrics.americaninno.com
 metrics.americansignaturefurniture.com
 metrics.ancestry.co.uk
-metrics.ancestry.com
 metrics.angara.com
 metrics.angieslist.com
 metrics.apartmentfinder.com
@@ -112508,7 +112508,6 @@ mingbairen.com.au
 mingbaoxinwen.com
 mingbianji.com
 mingcalc.com
-mingchacn.top
 mingchaoonline.com
 mingchaoyouxi.com
 mingcloud.net

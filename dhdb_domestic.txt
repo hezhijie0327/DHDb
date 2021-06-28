@@ -2171,6 +2171,7 @@
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
+2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
 2.pic.pc6.com
@@ -7276,7 +7277,6 @@
 9mhewc7p.sched.sma.tdnsv5.com
 9mi.me
 9miao.com
-9miaoxueyuan.com
 9mic.com
 9n7kda12.sched.sinastatic-dk.tdnsv5.com
 9nali.com
@@ -12892,7 +12892,6 @@ biaoyu168.com
 biaozhun.org
 biaozhun8.com
 biaozhuns.com
-biaozhunyisheng.com
 biask.com
 bibaodao.com
 bibenet.com
@@ -38509,7 +38508,6 @@ jsm.9939.com
 jsmian.com
 jsmjys.com
 jsmov2.a.yximgs.com
-jsmsg.com
 jsncke.com
 jsningyi.com
 jsnol.com

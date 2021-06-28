@@ -17665,6 +17665,7 @@ cliim.com
 cliim.net
 climg.mukewang.com
 climg.mukewang.com.w.kunlunhuf.com
+clin003.com
 clinicmed.net
 cliport.com
 clitotalentr.cli.im
@@ -47960,7 +47961,6 @@ ocsp.digicert.cn.w.cdngslb.com
 ocsp.pki.goog
 ocsp.us.cdnetworks.com
 ocsp2-lb.apple.com.akadns.net
-ocsp2.apple.com
 ocsp2.g.aaplimg.com
 ocsp3.sheca.com
 oct-and.com
@@ -62595,7 +62595,6 @@ tongji.51cto.com
 tongji.baidu.com
 tongji.cackui.com
 tongji.cli.im
-tongji.coccccc.cc
 tongji.dcloud.io
 tongji.dj10.com
 tongji.eastday.com

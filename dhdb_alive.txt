@@ -21967,7 +21967,6 @@ analytics.traderlink.com
 analytics.transmoni.vn
 analytics.tribeca.vidavee.com
 analytics.trust.page
-analytics.trutv.com
 analytics.tuhu.com
 analytics.turn.com
 analytics.twentytwowords.com
@@ -104342,6 +104341,7 @@ logitravel.com
 loglady.publicbroadcasting.net
 loglady.skypicker.com
 logly.co.jp
+logman.dmall.com
 logme.in
 logmein.com
 logmonitor.leiting.com
@@ -110970,7 +110970,6 @@ metrics.ancestry.co.uk
 metrics.ancestry.com
 metrics.angara.com
 metrics.angieslist.com
-metrics.anthem.com
 metrics.apartmentfinder.com
 metrics.apartments.com
 metrics.api.drift.com
@@ -111173,7 +111172,6 @@ metrics.global.nba.com
 metrics.gnc.com
 metrics.goldbook.ca
 metrics.goldcoastbulletin.com.au
-metrics.golfgalaxy.com
 metrics.gomedigap.com
 metrics.govexec.com
 metrics.gq.com.au
@@ -122211,7 +122209,6 @@ omentradinginternationalprivateltd.duckdns.org
 omeo.alipay.com
 omes-sec.heytapmobi.com
 ometal.com
-ometrics.netapp.com
 ometrics.warnerbros.com
 omextemplates.content.office.net
 omfif.org
@@ -137917,7 +137914,6 @@ repaiapp.com
 repaik.com
 repairclinic.com
 repanso.com
-repdata.argusleader.com
 repdata.marshfieldnewsherald.com
 repdata.postcrescent.com
 repdata.usatoday.com

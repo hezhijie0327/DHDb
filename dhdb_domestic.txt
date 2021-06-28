@@ -1224,7 +1224,6 @@
 1339857.b2b.liebiao.com
 1339857.shop.liebiao.com
 133998.com
-133jz.com
 1341512.sched.sma.tdnsv5.com
 1341533.p23.tc.cdntip.com
 1345345.com
@@ -18173,6 +18172,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -18981,7 +18981,6 @@ congyicn.com
 conn.wemeet.tencent.com
 conn1.coloros.com
 conn1.oppomobile.com
-conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com
@@ -29215,7 +29214,6 @@ gp10001.kuaizhan.com
 gp1903.com
 gp1907.com
 gp1909.com
-gp1910.com
 gp241.com
 gp259.com
 gp451.com

@@ -18498,7 +18498,6 @@ adtest.adwo.com
 adtest.theonion.com
 adtg.widerplanet.com
 adthrive.com
-adtidy.net
 adtidy.org
 adtima-common.zadn.vn
 adtima-common.zascdn.me
@@ -65110,7 +65109,6 @@ fanyi100.com.cn
 fanyiapp.cdn.bcebos.com
 fanyibase.com
 fanyiegg-sg.youdao.com
-fanyiegg-us.youdao.com
 fanyiegg.youdao.com
 fanyigou.cn
 fanyigou.com
@@ -74822,7 +74820,6 @@ go.smartdesignworldwide.com
 go.smartenergysolutions.co.nz
 go.smarterhq.com
 go.smartfoodservice.com
-go.smarthr.co.jp
 go.smarthr.jp
 go.smartinsights.com
 go.smartinternz.us
@@ -132020,6 +132017,7 @@ public.dm.files.1drv.com
 public.dns.iij.jp
 public.ffquan.cn
 public.fr
+public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.onlyfans.com
 public.popcorn-tracker.org

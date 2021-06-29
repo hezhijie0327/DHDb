@@ -100932,7 +100932,6 @@ lb.net.daraz.com
 lb.quote01.email-allstate.com
 lb.secureweb24.net
 lb.service01.email-allstate.com
-lb.statsevent.com
 lb.summer.net.daraz.com
 lb.tuhu.cn
 lb.usemaxserver.de
@@ -106841,6 +106840,7 @@ m.xsjjjc.cn
 m.xt2d.cn
 m.xuexila.com
 m.xw294.com
+m.xxjjfs.cn
 m.xxkio.com
 m.xyadaa.com
 m.xyadxia.com
@@ -131999,7 +131999,6 @@ public.dm.files.1drv.com
 public.dns.iij.jp
 public.ffquan.cn
 public.fr
-public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.onlyfans.com
 public.popcorn-tracker.org

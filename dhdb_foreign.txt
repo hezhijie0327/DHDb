@@ -5,6 +5,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -31776,6 +31777,7 @@ dg98q1fqxxogp.cloudfront.net
 dgaoz.com
 dgap.org
 dgg.gg
+dgg.net
 dggaenaawxe8z.cloudfront.net
 dghh888.com
 dgjawt.com
@@ -63569,6 +63571,7 @@ m.malaysiakini.com
 m.mamoru-kun.com
 m.manhuadai.com
 m.manhuaju.com
+m.manhuaniu.com
 m.manmankan.cc
 m.manxhak.com
 m.maopuzw.com
@@ -70462,7 +70465,6 @@ mycyberuniverse.disqus.com
 mydad.info
 mydas.mobi
 mydati.com
-myday.cn
 myddns.com
 mydebook.com
 mydeejayspace.com

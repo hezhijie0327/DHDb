@@ -13989,7 +13989,6 @@ a02342.yeovilexpress.co.uk
 a02342.yourlocalguardian.co.uk
 a0263.com
 a0276a3e45b9e3b85a11bce6052ca8e4.safeframe.googlesyndication.com
-a03.uadexchange.com
 a03674778d27211eabe260a5fac8573f-298900439.eu-central-1.elb.amazonaws.com
 a04.uadexchange.com
 a0415704157.byethost7.com
@@ -39038,6 +39037,7 @@ cdnasset.dantri.com.vn
 cdnassets.115.com
 cdnaws.mobidea.com
 cdnbest.com
+cdnbest.net
 cdnbye.com
 cdncache-a.akamaihd.net
 cdncache.net
@@ -79239,7 +79239,6 @@ hbdfdh.com
 hbdmia.com
 hbdnserror7.wo.com.cn
 hbdthy.com
-hbdtjqj.com
 hbdzcg.com
 hbecsc.com
 hbeducloud.com
@@ -153676,7 +153675,6 @@ static1.ssp.xunlei.com
 static1.sw-cdn.net
 static2-youxi.a.88cdn.com
 static2.51cto.com
-static2.ero2you.com
 static2.freebitco.in
 static2.scloud.letv.com
 static2.sharepointonline.com

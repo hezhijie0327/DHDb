@@ -8070,6 +8070,7 @@ ad.data.lianjia.com
 ad.de.doubleclick.net
 ad.dedecms.com
 ad.dev.360.cn
+ad.doubanio.com
 ad.doubleclick.net
 ad.duapps.com
 ad.duomi.com
@@ -43723,7 +43724,6 @@ maka.mobi
 makaidong.com
 makaiqian.com
 makeapp.co
-makebizeasy.com
 makecn.net
 makeding.com
 makefang.com
@@ -44816,6 +44816,7 @@ miaozao.com
 miaozhen.com
 miaozhen.dns.iqiyi.com
 miaozhen.youku.com
+mibaoge.com
 mibaostore.com
 mibaoxian.com
 mibimibi.com
@@ -50413,7 +50414,6 @@ pjapi.jd.com
 pjapi.jd.com.gslb.qianxun.com
 pjbest.com
 pjf.name
-pjforging.com
 pjhome.net
 pjialin.com
 pjk7ta35.sched.sma.tdnsv5.com

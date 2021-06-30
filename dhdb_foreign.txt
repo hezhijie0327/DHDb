@@ -13129,7 +13129,6 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
-api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -18640,7 +18639,6 @@ bjh10.com
 bjh3.com
 bjh6.com
 bjhj10000.com
-bjhjw.com.cn
 bjiebtc.com
 bjinnovate.com
 bjjap.com
@@ -73319,7 +73317,6 @@ nozakikun.tv
 nozhikov.ru
 nozonedata.com
 np.cpami.gov.tw
-np.updog.co
 np6.com
 np6.fr
 np7dksjwmdp34s29k4ggbs1qu7ybwh.ext-twitch.tv

@@ -16005,6 +16005,7 @@ ad.docer.pl
 ad.doganburda.com
 ad.domainfactory.de
 ad.donanimhaber.com
+ad.doubanio.com
 ad.doubleclick.net
 ad.doublemax.net
 ad.download.cnet.com
@@ -39459,7 +39460,6 @@ cedachina.org
 cedarcrest.edu
 cedarhd.com
 cedars-sinai.org
-cedarsky.com
 cedexis-test.com
 cedexis.com
 cediy.com
@@ -41871,7 +41871,6 @@ chongdeedu.com
 chongdiantou.com
 chongdongshequ.com
 chonghi.com
-chongjianghu.com
 chongli.baixing.com
 chongmingzhuce.com
 chongqing.anjuke.com
@@ -111708,6 +111707,7 @@ metrics.heraldsun.com.au
 metrics.herbalife.com
 metrics.homeadvisor.com
 metrics.homes.com
+metrics.hoovers.com
 metrics.hpe.com
 metrics.hrblock.com
 metrics.hyundaiusa.com
@@ -113985,7 +113985,6 @@ mm-cg.com
 mm-cgnews.com
 mm.365dmp.com
 mm.analytics.blue
-mm.cc
 mm.jbzj.com
 mm.melia.com
 mm.moquanad.com
@@ -144500,6 +144499,7 @@ seen.h01ce.cn
 seentao.com
 seeplaces.com
 seer.61.com
+seer520.com
 seeres.com
 seesaa.jp
 seesaa.net

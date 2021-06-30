@@ -13072,6 +13072,7 @@ api.betterttv.net
 api.bitp.it
 api.bounceexchange.com
 api.breezip.com
+api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.bunzlaucastle.com
@@ -24540,7 +24541,6 @@ china.mintel.com
 china.petaasiapacific.com
 china.resellerclub.com
 china.swissquote.com
-china.tg
 china101.com
 china12365.com
 china17.net
@@ -32736,6 +32736,7 @@ dl.benefits.express-scripts.com
 dl.box.net
 dl.browsermine.com
 dl.crazyporn.xxx
+dl.delivery.mp.microsoft.com
 dl.dell.com
 dl.devmate.com
 dl.discordapp.net
@@ -63668,7 +63669,6 @@ m.d8qu.com
 m.dante2007.com
 m.dceni.com
 m.delltechnologies.com
-m.dfh39.com
 m.dgaoz.com
 m.dj0020.com
 m.dk957.com
@@ -82741,7 +82741,6 @@ r.5207470.com
 r.ad1.ru
 r.akipam.com
 r.bbci.co.uk
-r.browser.miui.com
 r.dir.bg
 r.dlandroid.com
 r.edge.inmobicdn.net
@@ -98417,7 +98416,6 @@ tbplay777.com
 tbr.tangbr.net
 tbrada.pw
 tbrc.org
-tbrum15.com
 tbs-rainbow.org
 tbs.com
 tbsc.apple.com

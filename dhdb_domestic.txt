@@ -3902,7 +3902,6 @@
 500doc.com
 500gm.com
 500px.me
-500px.pro
 500sucai.com
 500talk.com
 500tb.com
@@ -10026,7 +10025,6 @@ apgblogs.com
 apgoview.com
 aphidic.com
 api-20200527.xkspbz.com
-api-a.op-mobile.opera.com
 api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
@@ -10561,7 +10559,6 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -41794,7 +41791,6 @@ lippi-space-sh.oss-cn-shanghai.aliyuncs.com
 lippi-space-sh.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
 liqiang999.com
 liqijt.com
-liqinyi.com
 liqu.com
 liqucn.com
 liqunshop.com
@@ -46092,7 +46088,6 @@ mucfc.com
 muchangqing.com
 muchlab.com
 muchong.com
-muchrank.com
 mudanjiang.baixing.com
 mudongguang.com
 mudoudou.net

@@ -14572,6 +14572,7 @@ assets-email2.unidays.world
 assets-global.viveport.com
 assets-momentum.akamaized.net
 assets-r-dw-1.net.daraz.com
+assets-share.dspunion.com
 assets.adobedtm.com
 assets.analog.com
 assets.applovin.com
@@ -18315,7 +18316,6 @@ biquge99.cc
 biqugeapp.com
 biqugecom.com
 biqugeg.com
-biqugemm.com
 biquger.com
 biquges.com
 biqugeso.com
@@ -64087,6 +64087,7 @@ maigoo.com
 maigv.com
 maiio.net
 maijiaba.com
+maijiabashi.com
 maikelgay.duckdns.org
 maikenu.com
 maikou.com
@@ -72844,7 +72845,6 @@ noneto.com
 nong3bram.com
 nongli.911cha.com
 nongminys.com
-nongzisc.com
 nonozone.net
 nonpaints.com
 nonprofit.foundation
@@ -85839,7 +85839,6 @@ s2.kuaibaopay.com
 s2.play.estream.to
 s2.play.estream.xyz
 s2.play.vidzi.tv
-s2.play1.videos.vidto.me
 s2.reutersmedia.net
 s2.symcb.com
 s2.tdna.me

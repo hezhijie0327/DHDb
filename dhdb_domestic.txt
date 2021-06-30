@@ -2431,6 +2431,7 @@
 2325509.b2b.liebiao.com
 2325509.shop.liebiao.com
 233.com
+233000.com
 2333u.com
 233863.com
 2338758.b2b.liebiao.com
@@ -50992,6 +50993,7 @@ prom.gome.com.cn
 prom.m.gome.com.cn
 prom.m.jd.com
 prom.m.jd.com.gslb.qianxun.com
+prom.mobile.gome.com.cn
 promisingedu.com
 promo.dianping.com
 promote.biz.weibo.cn
@@ -53155,7 +53157,6 @@ qsbank.cc
 qsbbs.net
 qsbdc.com
 qsboy.com
-qschina.com
 qschou.com
 qsdqegevastj9ar48p4clizbx6shm0vs.yundunwaf5.com
 qsebao.com
@@ -59855,7 +59856,6 @@ stv.iqiyi.com
 stv.ptqy.gitv.tv
 stvgame.com
 stvr.yy.com
-stxdgg.com
 styadmin.com
 stylecdn.com
 stylemode.com

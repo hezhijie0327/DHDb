@@ -64430,7 +64430,6 @@ f99.gdsoq.com
 f9e09d749415eeb1b55e2b75b840cdb6.safeframe.googlesyndication.com
 f9e9542dq6tz0v6p.aliyunddos1026.com
 f9nw.4.shop.tm
-fa-today.com
 fa-us-dyn.wal.co
 fa-us.wal.co
 fa.163.com
@@ -111504,6 +111503,7 @@ metrics.asdafinance.com
 metrics.asos.com
 metrics.assurancewireless.com
 metrics.astrogaming.com
+metrics.atresplayer.com
 metrics.att.com
 metrics.au.com
 metrics.autobytel.com
@@ -155918,6 +155918,7 @@ stvid.com
 stvr.yy.com
 stwaracademy.com
 stworld.jp
+stxdgg.com
 stxmosquito.com
 stxmosquitoproject.com
 stxmosquitoproject.net

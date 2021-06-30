@@ -662,6 +662,7 @@
 1.92caijing.com
 1.aili.com
 1.arpun.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
@@ -42132,7 +42133,6 @@ lncld.net
 lncldapi.com
 lncldglobal.com
 lndhdx.com
-lndnserror2.wo.com.cn
 lndnserror4.wo.com.cn
 lndnserror6.wo.com.cn
 lndnserror7.wo.com.cn
@@ -55950,7 +55950,6 @@ sclick.baidu.com
 sclinktech.com
 sclog.moviebox.baofeng.com
 sclog.qiecdn.com
-scmenhu.com
 scmis.suning.com
 scmor.com
 scmroad.com

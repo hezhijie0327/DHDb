@@ -539,6 +539,7 @@
 1.bh5.com.cn
 1.car21.net.daraz.com
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -51683,7 +51684,6 @@ i.sng.link
 i.ssix.io
 i.stack.imgur.com
 i.static.zaplata.bg
-i.tantanapp.com
 i.v2ex.co
 i.vimeocdn.com
 i.w55c.net
@@ -55277,7 +55277,6 @@ ipfsgateway.makersplace.com
 ipge.com
 ipgphotonics.box.com
 ipgphotonics.com
-iphine.com
 iphone-dev.org
 iphone-ld.apple.com
 iphone-ld.apple.com-v1.edgesuite.net
@@ -64783,7 +64782,6 @@ maps.windows.com
 maps.yahoo.com
 maptek.com
 maptu.cn
-maqingxi.com
 maquiabella.com.ar
 maracineanu.ro
 marathon-sports-ec.com

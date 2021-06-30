@@ -1239,7 +1239,6 @@
 1.mgff.com
 1.mm100.com
 1.nanrenwo.net
-1.pic.paopaoche.net
 1.pic.pc6.com
 1.pncdn.cn
 1.proewildfire.cn
@@ -21970,6 +21969,7 @@ analytics.sportybet.com
 analytics.spotify.com
 analytics.spotta.nl
 analytics.springboardvideo.com
+analytics.sprint.com
 analytics.staticiv.com
 analytics.stg.springboardvideo.com
 analytics.strangeloopnetworks.com
@@ -76448,7 +76448,6 @@ gp.zaiyunli.cn
 gp10001.kuaizhan.com
 gp1903.com
 gp1907.com
-gp1909.com
 gp259.com
 gp451.com
 gp51.com

@@ -9257,7 +9257,6 @@
 5article.com
 5atxt.com
 5axxw.com
-5azy.com
 5b.ebb.b0ne.com
 5b0988e595225.cdn.sohucs.com
 5b433c11b449f8cfa735dd5921e1ddf3.clo.footprintdns.com
@@ -35830,7 +35829,6 @@ c.28rv.com
 c.3.cn
 c.3.cn.gslb.qianxun.com
 c.35kds.com
-c.3mon.xyz
 c.51y5.net
 c.58cdn.com.cn
 c.6sc.co
@@ -65216,6 +65214,7 @@ fanyi100.com.cn
 fanyiapp.cdn.bcebos.com
 fanyibase.com
 fanyiegg-sg.youdao.com
+fanyiegg-us.youdao.com
 fanyiegg.youdao.com
 fanyigou.cn
 fanyigou.com
@@ -98921,7 +98920,6 @@ kmjpxj.musement.com
 kmkb.ru
 kmksl.com
 kmlcl.com
-kmlhh.com
 kmmama.com
 kmov.com
 kmpiframe.keepmeposted.com.mt
@@ -144028,7 +144026,6 @@ secure.bali6nora.com
 secure.benn8bord.com
 secure.bidvertiserr.com
 secure.bolt8snap.com
-secure.bred4tula.com
 secure.brie5jiff.com
 secure.burn5tilt.com
 secure.cage6west.com
@@ -145190,6 +145187,7 @@ sf-companion.com
 sf-content.hiber.global
 sf-express.com
 sf-pay.com
+sf-saas.com
 sf-syn.com
 sf-tb-sg.ibytedtos.com
 sf-tech.com.cn

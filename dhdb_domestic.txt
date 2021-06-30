@@ -634,6 +634,7 @@
 0s8s.com
 0t2h1i0.cachenode.cn
 0x0.biz
+0x100.club
 0x3.me
 0x5.me
 0x6.me
@@ -15385,6 +15386,7 @@ cdn-7ll1rrb0.sched.s2.tdnsv5.com
 cdn-80jj16ez.slt.sched.tdnsv8.com
 cdn-9nq48vac.sched.s2.tdnsv5.com
 cdn-9ry8adom.sched.s2.tdnsv5.com
+cdn-adn-https-share.rayjump.com
 cdn-adn-https-share.rayjump.com.wswebcdn.com
 cdn-adn-https.rayjump.com
 cdn-adn-https.rayjump.com.wswebpic.com
@@ -38120,6 +38122,7 @@ jourserv.com
 jouypub.com
 jovcloud.com
 jovetech.com
+jowto.com
 joy9178.com
 joyact.com
 joyami.com

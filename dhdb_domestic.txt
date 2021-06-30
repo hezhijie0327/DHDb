@@ -18061,6 +18061,7 @@ cmz2.stm65i8.com
 cmzd.com
 cmzj.net
 cmzyk.com
+cn-api.samsungcloud.com
 cn-api.samsungosp.com
 cn-api.samsungpositioning.com.cn
 cn-auth.samsungosp.com
@@ -26269,6 +26270,7 @@ fatiao.pro
 fatiaoyun.com
 fatiaoyun.vip
 fatjiong.com
+fatsoon.com
 fatvg.com
 fav.mix.sina.com.cn
 fav.simba.taobao.com
@@ -46368,7 +46370,6 @@ myk3.com
 mykqyy.com
 mylbabao.com
 mylegist.com
-mylibs.org
 mylike.cc
 mylikechat.com
 mylikesz.com
@@ -55340,7 +55341,6 @@ s0.meituan.com
 s0.meituan.net
 s0.pstatp.com
 s0.ssl.qhimg.com
-s0016.com
 s0017.com
 s0025.com
 s03-ml.gslb.ksyuncdn.com

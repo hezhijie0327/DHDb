@@ -10557,6 +10557,7 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -16702,6 +16703,7 @@ chinagiftsfair.com
 chinagoldcoin.net
 chinagoldgroup.com
 chinagolfshow.com
+chinagp.net
 chinagps.cc
 chinagrid.net
 chinagrowthcapital.com
@@ -18803,6 +18805,7 @@ colipu.com
 collab.dingtalk.com
 collapsar.amap.com
 collect.ctc.ximalaya.com
+collect.hupu.com
 collect.ptengine.cn
 collect.tianya.cn
 collect.ux.21cn.com
@@ -28356,7 +28359,6 @@ geedu.com
 geeeu.com
 geejing.com
 geek-docs.com
-geek-era.com
 geek-papa.com
 geek-share.com
 geek-workshop.com
@@ -37380,6 +37382,7 @@ jiedaibao.com
 jiedianqian.com
 jiedong.baixing.com
 jiefadg.com
+jiefangcheng.net
 jiefuku.com
 jiegames.com
 jiegeng.com

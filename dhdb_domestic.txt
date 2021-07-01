@@ -4701,7 +4701,6 @@
 54admin.net
 54ag.com
 54bq0afa.sched.d0.tdnsv5.com
-54daxiang.com
 54doctor.net
 54doctors.net
 54hcz.com
@@ -31994,7 +31993,6 @@ hljdnserror5.wo.com.cn
 hljjjb.com
 hljjytkj.com
 hljnzy.net
-hljpost.com
 hljrcc.com
 hljszjxhw.com
 hljtv.com
@@ -48213,6 +48211,7 @@ oncdp.com
 onceai.com
 onceoa.com
 onche.net
+oncloud.store
 one-all.com
 one-console-adns-new.console.aliyun.com
 one-console-adns.console.aliyun.com

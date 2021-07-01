@@ -16033,7 +16033,6 @@ ad.freecity.de
 ad.funp.com
 ad.funpic.de
 ad.fx168api.com
-ad.g-content.bid
 ad.gameagregator.com
 ad.gamebox.360.cn
 ad.games.ch
@@ -43966,7 +43965,6 @@ cms.tanx.com
 cms.ucweb.com
 cms.v5.juzi.cn
 cms1924.org
-cms1api.dmall.com
 cms2012.bnu.edu.cn
 cmsa.com.ar
 cmsapi.dmall.com
@@ -60475,6 +60473,7 @@ edojia.com
 edojs.com
 edomator.pl
 edong.com
+edongeejiao.com
 edongli.net
 edongyun.com
 edooon.com
@@ -96572,6 +96571,7 @@ jushiwangedu.com
 jushuo.com
 juspay.in
 jussevent.com
+jusstickets.com
 just-album.blogspot.hk
 just-cool.net
 just-do-it.cn
@@ -97507,7 +97507,6 @@ kanghui.com
 kanghui.org
 kanghuwang.com
 kanglaohui.com
-kanglesoft.com
 kangleweb.net
 kanglingjiu.com
 kanglu.com

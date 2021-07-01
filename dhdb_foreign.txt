@@ -12924,7 +12924,6 @@ apac.presence.services.sfb.trafficmanager.net
 apac.presence.teams.microsoft.com
 apac.wf.com
 apac01.safelinks.protection.outlook.com
-apac1.notify.windows.com.akadns.net
 apacautumn.net.daraz.com
 apaccsr31.net.daraz.com
 apacd.ns.emailvision.net.daraz.com
@@ -95822,6 +95821,7 @@ statstat888.com
 statstools.porn.fr
 statstracker.celebrity-gossip.net
 statt-collect.herokuapp.com
+status.blueskyxn.com
 status.david-dm.org
 status.delivup.com
 status.discord.com
@@ -100161,6 +100161,7 @@ tieba.comlu.com
 tieba01.com
 tiebaimg.com
 tiebamm.com
+tiebashop.com
 tiekinetix.com
 tiempodev.com
 tienda-bombillo.000webhostapp.com

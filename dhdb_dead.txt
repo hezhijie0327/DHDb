@@ -1841,7 +1841,6 @@
 672e34b4d9fd1fcb4cd9fcabba5a232b2d7cba117b05ab0b.dlied1.cdntips.net
 674.ddnsking.com
 675df2dac3bc294c-cl2.qcloudcjgj.com
-67712a.com
 677324.com
 678666365.com
 678678365.com
@@ -4492,6 +4491,7 @@ ap.hsyjxzl.cn
 ap.oasfile.aftenposten.no
 ap0le.com
 apac.rel.msn.com
+apac1.notify.windows.com.akadns.net
 apaismafra.sytes.net
 apan.net
 apcats.ddns.net
@@ -15518,6 +15518,7 @@ ipoditouch.com
 ipple.com
 ipple.net
 ippstatic.com
+ippzone.com
 iprefer.com.tw
 iprimo.jp
 iproxysite.com
@@ -26655,7 +26656,6 @@ tibetwomen.cn
 ticketdashi.com
 ticketmars.com
 tid.5yy6.com
-tiebashop.com
 tielu.org
 tiexu.biquge.info
 tieyi.tm

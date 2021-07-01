@@ -16524,6 +16524,7 @@ adbmetrics.blogasturias.com
 adbmetrics.canal10tv.com
 adbmetrics.caravantur.eus
 adbmetrics.diariosur.es
+adbmetrics.diariovasco.com
 adbmetrics.elcomercio.es
 adbmetrics.elcorreo.com
 adbmetrics.hoy.es
@@ -34874,7 +34875,6 @@ btxtv.com
 btxvxv.com
 bty168.com
 btyou.com
-btzhai.eu.org
 btzhijia.com
 bu-shen.com
 bu.edu
@@ -78993,7 +78993,6 @@ hanyuan.baixing.com
 hanyucar.com
 hanyuehui.site
 hanyurumen.com
-hanyutai.com
 hanzhifeng.com
 hanzhong.anjuke.com
 hanzhong.baixing.com
@@ -111927,6 +111926,7 @@ metrics.sbisec.co.jp
 metrics.schooloutfitters.com
 metrics.sciencedirect.com
 metrics.sciencemag.org
+metrics.scottrade.com
 metrics.scotts.com
 metrics.scribblelive.com
 metrics.sdkbox.com
@@ -151932,6 +151932,7 @@ sp667.com
 sp84.com
 sp910.com
 spa-1259460662.cos.accelerate.myqcloud.com
+spa.sspu.edu.cn
 space-18.com
 space-elephant.com
 space.bilibili.com

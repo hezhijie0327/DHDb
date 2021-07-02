@@ -10480,7 +10480,6 @@ apk.shouji.koowo.com
 apk.zhoushengfe.com
 apkevery.com
 apkgu.com
-apkim.w0kzkd.cn
 apkinfo.voole.com
 apkplug.com
 apkrj.com
@@ -33779,6 +33778,7 @@ i.snssdk.com.w.kunluncan.com
 i.sso.sina.com.cn
 i.stat.nearme.com.cn
 i.tansuotv.com
+i.tantanapp.com
 i.taobao.com
 i.tddmp.com
 i.ulmdb.cn

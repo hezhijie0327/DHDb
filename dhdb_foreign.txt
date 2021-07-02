@@ -11927,6 +11927,7 @@ ams2.current.a.prd.aadg.trafficmanager.net
 ams2.next.a.prd.aadg.trafficmanager.net
 ams2.test-ipv6.com
 amsivedigital.com
+amsjsy.com
 amsurg.com
 amtb-taipei.org
 amtron-ic.com

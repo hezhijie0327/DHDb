@@ -18158,7 +18158,6 @@ adserv008.adtech.fr
 adserv008.adtech.us
 adserv2.bravenet.com
 adserve.ams.rhythmxchange.com
-adserve.city-ad.com
 adserve.donanimhaber.com
 adserve.ehpub.com
 adserve.gkeurope.de
@@ -39778,6 +39777,7 @@ cfhks.org.hk
 cfhpc.org
 cfido.com
 cfiec.net
+cfjs.cc
 cfjump.com
 cfkq.net
 cflm.com
@@ -75093,6 +75093,7 @@ go.theexpogroup.com
 go.thefire.org
 go.thefork.com
 go.thehub-amazon.com
+go.theinstillery.com
 go.thelawreviews.co.uk
 go.thelawyer.com
 go.themmrf.org
@@ -86194,7 +86195,6 @@ idccenter.net
 idcconfig.gcloudsdk.com
 idccun.com
 idcfengye.com
-idchh.com
 idchz.com
 idcicp.com
 idcjf.com
@@ -105646,7 +105646,6 @@ ltnnet.com
 ltnschedule.com
 ltou11.com
 ltou178.com
-ltou39.com
 ltou77.com
 ltou811.com
 ltou889.com
@@ -115313,7 +115312,6 @@ moyugroup.com
 moyul.cn
 moyumedia.com
 moyuv5.com
-moyuxiaoshuo.com
 moz.execulink.net
 moz8.com
 mozhan.com
@@ -129455,7 +129453,6 @@ play.pampopholf.com
 play.play.estream.to
 play.play.estream.xyz
 play.play.vidzi.tv
-play.play1.videos.videos.vidto.me
 play.play1.videos.vidto.me
 play.pocketgolf.host
 play.proxy.multikonline.ru
@@ -129473,7 +129470,6 @@ play.traffpartners.com
 play.ulive.ugslb.com
 play.video2.stream.vidzi.tv
 play.videos.videos.vidto.me
-play.videos.vidto.me
 play.vidyard.com
 play.vidzi.tv
 play.web.flashx.co
@@ -130642,7 +130638,6 @@ pppet.net
 pppie.com
 pppoevps.com
 pppoo.com
-ppppgps.com
 pppsong.com
 ppqq.net
 pps-log.op-mobile.opera.com
@@ -131456,6 +131451,7 @@ projectus-grupa.hr
 projekt202.com
 projetoaberto2019.duckdns.org
 projetojr.com.br
+projky.com
 projop.dnsalias.com
 prokher.com
 prokher.me

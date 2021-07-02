@@ -49893,6 +49893,7 @@ hk.mobi.yahoo.com
 hk.myblog.yahoo.com
 hk.napi.ucweb.com
 hk.news.yahoo.com
+hk.pool.ntp.org
 hk.schroders.email
 hk.search.yahoo.com
 hk.tomonews.net
@@ -50886,6 +50887,7 @@ hsqds.com
 hsrd.yahoo.com
 hssdg.com
 hsselite.com
+hsslab.com
 hssv.org
 hst.net.tw
 hst.zone
@@ -51318,6 +51320,7 @@ huyenthoaimu.com
 huynet.com
 huysmanbouw.be
 huzheng.org
+huzhifeng.com
 huzs.net
 huzu.com
 hvdiy.com

@@ -9685,7 +9685,6 @@
 626www.net
 626x.com
 627.flnet.org
-627225.com
 6272aa.com
 6272cc.com
 6272ds.com
@@ -18324,6 +18323,7 @@ adserver.yahoo.com
 adserver1-images.backbeatmedia.com
 adserver1.backbeatmedia.com
 adserver1.hookyouup.com
+adserver1.mediainsight.de
 adserver1.mindshare.de
 adserver1.sonymusiceurope.com
 adserver1.wmads.com
@@ -48046,7 +48046,6 @@ cs.console.aliyun.com
 cs.coopeservidores.fi.cr
 cs.dds.microsoft.com
 cs.emxdgt.com
-cs.ffbtas.com
 cs.hot.net.il
 cs.lianjia.com
 cs.lkqd.net
@@ -56640,7 +56639,6 @@ downpack.bdstatic.com
 downpb.com
 downpp.com
 downsdk.3g.qq.com
-downun.com
 downv.com
 downv6.qq.com
 downv6.qq.com.yyb-dk.sched.dcloudstc.com
@@ -63533,7 +63531,6 @@ evergy.com
 everipedia.com
 everipedia.org
 everlane.com
-everlose.com
 everlywell.com
 evernex.com
 evernote.com

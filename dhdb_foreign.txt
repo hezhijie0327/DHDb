@@ -1018,7 +1018,6 @@
 134.78.116.150.zz.countries.nerd.dk
 135.83.145.119.zz.countries.nerd.dk
 1356net.com
-1357g.com
 135995.com
 1359mh.com
 13636.com
@@ -1814,7 +1813,6 @@
 2-wlan-switch.net.daraz.com
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
-2.android.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru

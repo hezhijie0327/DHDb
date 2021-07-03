@@ -1184,6 +1184,7 @@
 161818.com
 161856.com
 161ee.net
+161gg.com
 161sex.com
 161yyy.net
 162.34.80.117.zz.countries.nerd.dk
@@ -13112,7 +13113,6 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
-api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.geetest.com

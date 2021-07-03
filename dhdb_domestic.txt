@@ -15490,6 +15490,7 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
+cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -33156,7 +33157,6 @@ huiyuandao.com
 huiyuanyy.com
 huize.com
 huizhaofang.com
-huizhekou.net
 huizhijiaxun.com
 huizhimob.com
 huizhou.anjuke.com

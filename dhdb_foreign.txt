@@ -13208,6 +13208,7 @@ api.rnet.plus
 api.rubic.com.tr
 api.rudderlabs.com
 api.sail-personalize.com
+api.samsungcloud.com
 api.savemedia.website
 api.sbz.vn
 api.sciencemag.org
@@ -38165,7 +38166,6 @@ exovametech.dk
 exovoid.ch
 exp.glispa.com
 expat-blog.biz
-expatriate.pw
 expatshield.com
 expaus.in
 expbooster.com

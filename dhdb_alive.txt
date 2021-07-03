@@ -38784,6 +38784,7 @@ cdn.fishtui.com
 cdn.flashtalking.com
 cdn.frankerfacez.com
 cdn.freefarcy.com
+cdn.freehalves.com
 cdn.freehas.com
 cdn.freejars.com
 cdn.freejax.com
@@ -75625,6 +75626,7 @@ goldfish.ellaism.io
 goldfish.shingle.fi
 goldfishdining.com
 goldgrid.com
+goldhoe.com
 goldjizz.com
 goldke.com
 goldlvshi.com
@@ -80439,6 +80441,7 @@ helplinfen.com
 helplocalhost.net.daraz.com
 helpmeng.com
 helpscout.net
+helpscoutdocs.com
 helpshift.com
 helpspace.com
 helpster.de
@@ -92794,7 +92797,6 @@ j.wan.liebao.cn
 j.wit.qq.com
 j.wovn.io
 j.xingshangnet.com
-j.xinshipu.com
 j.youzan.com
 j.zykxjt.com
 j1.58cdn.com.cn
@@ -154807,7 +154809,6 @@ stats.paypal-metrics.com
 stats.paysagistes.pro
 stats.pebkac.io
 stats.pep20.org
-stats.permapeople.org
 stats.persgroep.be
 stats.persgroep.nl
 stats.personalkollen.se
@@ -158343,7 +158344,6 @@ t6k.co
 t6n22s1.cachenode.cn
 t7.baidu.com
 t7.taboola.com
-t75.qyqc4s.com
 t7t71.com
 t7z.cupid.iqiyi.com
 t7z.cupid.ptqy.gitv.tv
@@ -164486,7 +164486,6 @@ tracker.icerocket.com
 tracker.idocdn.com
 tracker.iltrovatore.it
 tracker.imgoingto.icu
-tracker.internetwarriors.net
 tracker.iriseden.eu
 tracker.iriseden.fr
 tracker.istole.it

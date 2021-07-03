@@ -49194,6 +49194,7 @@ helpint.mywebsearch.com
 helplightning.com
 helplocalhost.net.daraz.com
 helpscout.net
+helpscoutdocs.com
 helpshift.com
 helpspace.com
 helpster.de
@@ -89656,6 +89657,7 @@ shuajb.com
 shuajibang.net
 shuanghao-cn.com
 shubao201.com
+shubao95.com
 shubt.net
 shudaizi.org
 shueisha.co.jp
@@ -96065,7 +96067,6 @@ store.sstuan.net
 store.steampowered.com
 store.storeimages.apple.com.akadns.net
 store.storeimages.cdn-apple.com
-store.storevideos.cdn-apple.com
 store.ubi.com
 store.unity.com
 storecatalogrevocation.storequality.microsoft.com

@@ -1812,6 +1812,7 @@
 2-wlan-switch.net.daraz.com
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
+2.android.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -13111,6 +13112,7 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
+api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.geetest.com
@@ -21918,6 +21920,7 @@ ca3.revieworbit.com
 ca4.revieworbit.com
 ca488.com
 ca5066.com
+ca515.com
 ca538.com
 ca5566.com
 ca559.com
@@ -27110,6 +27113,7 @@ congressrental.asia
 congzao.com
 conimicutlighthouse.viessmann-us.com
 conlatatca.vn
+conn2.oppomobile.com
 connaissancesfinancierespratiques.ca
 connatix.com
 connect-in-canada.com
@@ -39027,7 +39031,6 @@ fangjia.911cha.com
 fanglizhi.info
 fangongheike.com
 fangshanzi.com
-fangshuigongcheng.net
 fanguangxin.com
 fangwuzaixian.com
 fangxia979.com
@@ -59374,7 +59377,6 @@ kojima.net
 kok.eroterest.net
 kok1293.com
 kok1367.com
-kokkk2.com
 koko219.hopto.org
 koksanuan.go.th
 kokuz55.ddns.net

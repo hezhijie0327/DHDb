@@ -4726,6 +4726,7 @@
 55188.com
 552283.com
 55344.com
+5548.net
 555yst.com
 5566.net
 5566ua.com
@@ -15488,7 +15489,6 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
-cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -17538,6 +17538,7 @@ class01.com
 classic.39health.com
 classmateer.com
 clayidols.com
+claykessack.com
 claymore.wang
 clb6.net
 clboss.com
@@ -20830,7 +20831,6 @@ daocloud.io
 daocloudapp.com
 daodao.com
 daodaojizhang.com
-daodaoliang.com
 daodian.vip.meituan.com
 daodian100.com
 daoduoduo.com
@@ -31879,6 +31879,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.linkedin.com
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -35895,6 +35896,7 @@ ios.rqd.qq.com
 ios8.app
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
+iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com

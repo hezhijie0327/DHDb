@@ -1902,6 +1902,7 @@
 1201258.shop.liebiao.com
 120181311.xyz
 120185.com
+12031h.com
 120444.com
 1205066.b2b.liebiao.com
 1205992.shop.liebiao.com
@@ -2951,7 +2952,6 @@
 1708131.sched.ap.tdnsv5.com
 1708131.v9.sched.tdnsv2.com
 1708359d3207f3032a9888955ad309a3.dlied1.cdntips.net
-170880.com
 170hi.com
 170mv.com
 170nsb.com
@@ -23393,6 +23393,7 @@ api.naea1.uds.lenovo.com
 api.nas.nct.vn
 api.neixin.cn
 api.netb11.com
+api.netlify.com
 api.newad.ifeng.com
 api.newsfeed.intl.miui.com
 api.nhsoft.cn
@@ -136833,7 +136834,6 @@ r5---sn-a5mekn7d.googlevideo.com
 r5---sn-a5mekn7k.googlevideo.com
 r5---sn-a5mekn7k.gvt1.com
 r5---sn-a5mekn7r.googlevideo.com
-r5---sn-a5mekn7y.googlevideo.com
 r5---sn-a5mekne7.googlevideo.com
 r5---sn-a5mekned.googlevideo.com
 r5---sn-a5meknee.googlevideo.com

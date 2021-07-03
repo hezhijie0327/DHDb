@@ -8157,6 +8157,7 @@ adapi.shouji.360.cn
 adapter.shouji.360.cn
 adaptive.6000.liveplay.myqcloud.com
 adarrive.com
+adas-china.org
 adash-c.m.taobao.com
 adash-c.ut.taobao.com
 adash-emas.cn-hangzhou.aliyuncs.com
@@ -37256,7 +37257,6 @@ jianzhu2008.com
 jiaoben.ganji.cn
 jiaoben.jucanw.com
 jiaoben.net
-jiaoben.webkaka.com
 jiaoben.xinshipu.cn
 jiaobuser.com
 jiaochengzhijia.com

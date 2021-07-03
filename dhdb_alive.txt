@@ -160,6 +160,7 @@
 00sy.com
 00sy.net
 00tera.com
+00txt.com
 01-123.com
 01-all-seed-gc-lx-01.cdn.gaijin.net
 01-all-seed-gc-us-04.cdn.gaijin.net
@@ -12649,7 +12650,6 @@
 9374ttyy.com
 9376afa2a8fa4e63dd406e8063b0de11.nrb.footprintdns.com
 9377.com
-937785.com
 9377a.com
 9377co.com
 9377df.com
@@ -77355,7 +77355,6 @@ guibook.com
 guibuyu.org
 guid.tpns.sh.tencent.com
 guid.tpns.tencent.com
-guidaili.com
 guidance.godaddy.com
 guidantfinancial.com
 guidaye.com
@@ -78888,6 +78887,7 @@ hanleywood.com
 hanmail.net
 hanmaker.com
 hanmanapp.com
+hanmanzj.org
 hanmeilin.com
 hanmi520.com
 hanminzu.org
@@ -111927,6 +111927,7 @@ metrics.theoutnet.com
 metrics.thermia.com
 metrics.thetrainline.com
 metrics.theweathernetwork.com
+metrics.thingspeak.com
 metrics.thinkgeek.com
 metrics.three.co.uk
 metrics.thrivent.com

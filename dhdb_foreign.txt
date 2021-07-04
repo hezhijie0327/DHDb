@@ -13540,7 +13540,6 @@ appcloud.com
 appcloudcdn.com
 appconsent.io
 appcontent.serif.com
-appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appduu.com
@@ -83166,7 +83165,6 @@ r6---sn-5ualdn7r.googlevideo.com
 r6---sn-a5m7lnlz.googlevideo.com
 r6---sn-a5mekn7d.googlevideo.com
 r6---sn-a5mekn7k.googlevideo.com
-r6---sn-a5mekn7r.googlevideo.com
 r6---sn-a5mekn7y.googlevideo.com
 r6---sn-a5mekne7.googlevideo.com
 r6---sn-a5mekned.googlevideo.com
@@ -88897,7 +88895,6 @@ sg.yepdns.com
 sg.yimg.com
 sg01.rayjump.com
 sg0760.com
-sg120.com
 sg138app.com
 sg2p.wns.windows.com
 sg3.notarize.com

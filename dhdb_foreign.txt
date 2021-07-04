@@ -32811,7 +32811,6 @@ dm-h.phncdn.com
 dm.commentcamarche.net
 dm.dmp.net.daraz.com
 dm.fsyzcs.com
-dm.hxzdhn.com
 dm.hybrid.ai
 dm.ishuo.cn
 dm.journaldunet.com
@@ -47931,6 +47930,7 @@ gum.dlbooks.to
 gum.hk5.vip.prod.criteo.com
 gumgum.com
 gumroad.com
+gumroad.helpscoutdocs.com
 gumtree.com
 gumtree.sg
 gun-world.net

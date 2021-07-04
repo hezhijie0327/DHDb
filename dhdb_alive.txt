@@ -51313,7 +51313,6 @@ darkhost.pro
 darkhost.top
 darkmi.com
 darkness-risen.com
-darknight.blog
 darkrat.lh1.in
 darkreading.com
 darkriszty.gallerycdn.azure.cn
@@ -111564,6 +111563,7 @@ metrics.foodnavigator-asia.com
 metrics.foodnavigator-latam.com
 metrics.foodnavigator-usa.com
 metrics.foodnavigator.com
+metrics.ford.com
 metrics.fortinet.com
 metrics.foxnews.com
 metrics.foxsports.com.au

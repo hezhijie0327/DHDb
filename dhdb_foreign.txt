@@ -13118,6 +13118,7 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -26367,7 +26368,6 @@ cnywst.com
 cnzhizhe.com
 cnzol.com
 cnzyffw.org
-cnzz6.com
 cnzzla.cn
 cnzzla.com
 co-medical.com
@@ -79979,7 +79979,6 @@ power97.com
 poweradvertising.co.uk
 powerapple.com
 powerautomate.com
-powerbeatsbydrdre.com
 powerbi.com
 powerblanket.com
 powerbook.eu
@@ -82051,7 +82050,6 @@ qlpe8.com
 qlsngs.paruvendu.fr
 qlsszi.lululemon.co.nz
 qltx.live
-qlxol.com
 qm2017.github.io
 qm2500.com
 qm5656.com

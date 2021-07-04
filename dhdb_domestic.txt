@@ -14072,6 +14072,7 @@ bugreport.huorong.cn
 bugrpt.oss-cn-beijing.aliyuncs.com
 bugscan.net
 bugscaner.com
+bugsevent.com
 bugtags.com
 bugxia.com
 buhuiwan.com
@@ -23986,6 +23987,7 @@ dvzlbwmf.v1d.szbdyd.com
 dvzlfh6o.v1d.szbdyd.com
 dvzlw98j.v1d.szbdyd.com
 dw-collect.ksosoft.com
+dw-online.ksosoft.com
 dw.iask.com.cn
 dw.xcar.com.cn
 dw93s8.tdum.alibaba.com
@@ -32699,6 +32701,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.push.heytapmobi.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
 httpsbaidu.com

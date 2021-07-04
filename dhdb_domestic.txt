@@ -6444,6 +6444,7 @@
 8bb.com
 8bit.xin
 8btc.com
+8btm.com
 8c470e24554e5bfe0881c3c3dc083bea.dlied1.cdntips.net
 8c575hws.v1d.szbdyd.com
 8c5dl8zt.v1d.szbdyd.com
@@ -7457,7 +7458,6 @@ a1.liuxue86.com
 a1.lshou.com
 a1.mingyihui.net
 a1.openxt.cn
-a1.peoplecdn.cn
 a1.q6u.com
 a1.qpic.cn
 a1.qqtn.com
@@ -57406,7 +57406,6 @@ shop987.net
 shopapi.io.mi.com
 shopbop.ink
 shopc.e.shifen.com
-shopchaoren.com
 shopee.cn
 shopeesz.com
 shopin.net

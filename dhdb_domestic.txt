@@ -35872,7 +35872,6 @@ ios.rqd.qq.com
 ios8.app
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
-iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -47936,7 +47935,6 @@ oemresource.com
 oeob.net
 oetsi.com
 oex.com
-oeynet.com
 ofcard.com
 off.vip
 offcn.com

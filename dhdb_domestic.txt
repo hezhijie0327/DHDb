@@ -682,7 +682,6 @@
 1.mgff.com
 1.mm100.com
 1.nanrenwo.net
-1.pic.paopaoche.net
 1.pic.pc6.com
 1.pncdn.cn
 1.proewildfire.cn
@@ -10167,6 +10166,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
@@ -12891,7 +12891,6 @@ bidshmkigxgs.b2b.huangye88.com
 bidu.com
 bidushe.com
 biedoul.com
-biermai.com
 bietongfeng.com
 bieyangapp.com
 bif703890b760z84.aliyunddos1026.com

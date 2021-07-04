@@ -3833,7 +3833,6 @@
 1mushroom.com
 1mwr.ru
 1mxian.com
-1mynews.com
 1n11.com
 1nami.com
 1net.com.tw
@@ -15802,7 +15801,6 @@ ad-apac.doubleclick.net
 ad-api.band.us
 ad-api.cnblogs.com
 ad-api.ehawk.com
-ad-arata.com
 ad-arata.s3.amazonaws.com
 ad-beta.flipboard.com
 ad-bg.adwo.com
@@ -34527,7 +34525,6 @@ bs-offers.konicaminolta.jp
 bs-origin.pull.yximgs.com
 bs.commontools.net
 bs.csshq.com.cn
-bs.forward.douban.com
 bs.lamrd.cn
 bs.mybb.ru
 bs.nakanohito.jp
@@ -48639,7 +48636,6 @@ ctsbw.com
 ctsec.com
 ctshirts.com
 ctsho.com
-ctsoo.com
 ctsscs.com
 ctssr.com
 ctsto.com
@@ -64333,7 +64329,6 @@ f88help.com
 f88yule1.com
 f88yule5.com
 f89df8db52d999348c3dce8454e26ac6.dlied1.cdntips.net
-f8fm.com
 f8phvntohv.tpetry.me
 f96.net
 f989f989.com
@@ -85266,6 +85261,7 @@ i05b.com
 i0746.com
 i075.com
 i0898.org
+i1.17173cdn.com
 i1.chuimg.com
 i1.cmail20.com
 i1.fuimg.com
@@ -103927,7 +103923,6 @@ liyanmobi.com
 liyantushu.suning.com
 liyaochao.com
 liyingfei.com
-liyingkuan.com
 liyipeixun.org
 liyongseo.com
 liyuanheng.com
@@ -112067,7 +112062,6 @@ mfcpx.com
 mfcteda.com
 mfeed.newzfind.com
 mfejs.sina.cn
-mfetu.com
 mfexcel.com
 mffmbv.cabaia.fr
 mfg-inspector.com
@@ -147994,7 +147988,6 @@ sjzkz.com
 sjzlg.com
 sjzlgz.com
 sjzmama.com
-sjznews.com
 sjzptoo.com
 sjzqcrl.com
 sjzsidadianji.com
@@ -155937,6 +155930,7 @@ sudoproxy.net
 sudouest.fr
 sudu-ab6h.com
 sudu-kay6.com
+sudu-pq2y.com
 sudu-q6wk.com
 sudu-r8gh.com
 sudu-tf42.com

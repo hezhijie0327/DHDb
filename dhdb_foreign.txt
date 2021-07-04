@@ -1814,7 +1814,6 @@
 2-wlan-switch.net.daraz.com
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
-2.android.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -48161,7 +48160,6 @@ h0.t.hubspotemail.net
 h00c.sfr.fr
 h00t.ca
 h01ce.cn
-h037xol.yunjidns1.com
 h090909.com
 h0930.com
 h1.elf168.net
@@ -50122,6 +50120,7 @@ hnlungtongzs.com
 hnntube.com
 hnnuaa.willhaben.at
 hnonline.sk
+hnpet.net
 hnpgjp.cyclemarket.jp
 hnqfseed.com
 hnrmb.com
@@ -66353,7 +66352,6 @@ media.funpic.de
 media.garysmithpartnership.com
 media.globalsign.com
 media.itpro.co.uk
-media.jointreport-switch.com
 media.kahoxa.ru
 media.kaspersky.com
 media.lanecrawford.com
@@ -83094,7 +83092,6 @@ r5---sn-a5mekn7d.googlevideo.com
 r5---sn-a5mekn7k.googlevideo.com
 r5---sn-a5mekn7k.gvt1.com
 r5---sn-a5mekn7r.googlevideo.com
-r5---sn-a5mekn7y.googlevideo.com
 r5---sn-a5mekne7.googlevideo.com
 r5---sn-a5mekned.googlevideo.com
 r5---sn-a5meknee.googlevideo.com
@@ -87544,7 +87541,6 @@ sddagongrubber.com
 sddan.mgr.consensu.org
 sddlys.com
 sddxjtss.com
-sde6.com
 sdestar.com
 sdf379.mioler57.cf
 sdfengla.com

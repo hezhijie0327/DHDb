@@ -6903,7 +6903,6 @@
 4.172.63.111.zz.countries.nerd.dk
 4.courier-push-apple.com.akadns.net
 4.every.info.tm
-4.pic.paopaoche.net
 4.pic.pc6.com
 4.shop.tm
 4.top4top.io
@@ -7235,7 +7234,6 @@
 467e4f3ee11cc4a91e08d7c28b036272.safeframe.googlesyndication.com
 468.vologdainfo.ru
 4696dfb0efbfa5a439b5f9a6a72f6611.safeframe.googlesyndication.com
-4699a.com
 4699f.com
 46a3b96943b2710023eb573cc02c2819.dlied1.cdntips.net
 46c24437827ff1de27fa44e04c9b952b.safeframe.googlesyndication.com
@@ -14522,6 +14520,7 @@ aa.scw0.com
 aa.sdo.com
 aa.shgansheng.cn
 aa.slyip.net
+aa.tallink.com
 aa.toponad.com
 aa.tv.com
 aa.tvguide.com
@@ -28197,7 +28196,6 @@ bangzhufu.com
 banik.redigy.cz
 banjiajia.com
 banjiamao.com
-banjuan.net
 banjuanshu.com
 bank-drcn.wallet.hicloud.com
 bank-of-china.com
@@ -52707,6 +52705,7 @@ demo.artesfide.com
 demo.car10.net.daraz.com
 demo.ihs-novation.com
 demo.jellyfin.org
+demo.jointreport-switch.com
 demo.keeper.io
 demo.lib-ln-1.net.daraz.com
 demo.lib-oa-2.net.daraz.com
@@ -79695,7 +79694,6 @@ hbww.org
 hbx.media.net
 hbxdf.com
 hbxhxkj.com
-hbxiyuan.com
 hbxnets.com
 hbxtzy.com
 hbxyairport.com
@@ -102322,7 +102320,6 @@ lhpay.gzcl999.com
 lhrbszb.com
 lhs-arts.org
 lhs11.com
-lhsdad.com
 lhsoso.com
 lhu36lu8.sched.d0.tdnsv5.com
 lhwill.com
@@ -143265,7 +143262,6 @@ sddermyy.com
 sddeznsm.com
 sddh.online
 sddlys.com
-sddnserror2.wo.com.cn
 sddxjtss.com
 sdebank.com
 sdeca.org
@@ -154849,7 +154845,6 @@ stats.sawlive.tv
 stats.scalgo.com
 stats.scastiel.dev
 stats.screenwavemedia.com
-stats.scrt.link
 stats.searchftps.net
 stats.searchftps.org
 stats.sebastiangale.ca

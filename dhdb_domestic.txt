@@ -5907,7 +5907,6 @@
 7cf212f05ce3c304240913b08a53ff5a.safeframe.googlesyndication.com
 7chacha.com
 7colorblog.com
-7cwo.com
 7cxk.com
 7d0d6de04e6cb9adae2597632d22b9fe.dlied1.cdntips.net
 7d32bf4a03a8627631e57a447594fc1d.dlied1.cdntips.net
@@ -10156,7 +10155,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
@@ -57022,6 +57020,7 @@ shengmaofly.com
 shengpay.com
 shengphoto.com
 shengqian51.com
+shengqianlianmeng.net
 shengqugames.com
 shengsci.com
 shengtaireli.com
@@ -59000,7 +58999,6 @@ ssf.cc
 ssgg.chazidian.com
 ssgushi.com
 ssh.dkjdnq.cn
-ssh.egesckx.cn
 ssh.wbdcrmn.cn
 ssimg.cn
 ssine.cc
@@ -60971,7 +60969,6 @@ taiyulink.com
 taizhou.anjuke.com
 tajyw.net
 takefoto.cn
-takeitem.com
 taksh.cn
 takungpao.com
 talangy.com

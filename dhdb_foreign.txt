@@ -13120,7 +13120,6 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
-api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -15987,6 +15986,7 @@ babe.today
 babeasiantube.com
 babefox.com
 babeijiu.com
+babepedia.com
 babes-mansion.s3.amazonaws.com
 babes.com
 babesplanet.xxxlog.co
@@ -16990,7 +16990,6 @@ bd.apps.zing.vn
 bd.dk
 bd01.daqiso.com
 bd1-china.6789.com
-bd1.idgdmg.com.cn
 bd2020.com
 bd4travel.com
 bd835.com
@@ -52542,7 +52541,6 @@ illinicare.com
 illinimedia.com
 illinois.edu
 illinois.gov
-illtaketwo.co.uk
 illumina.com
 illuminatednation.com
 illumpaper.com

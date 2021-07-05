@@ -10538,7 +10538,6 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -25847,7 +25846,6 @@ f.video.weibocdn.com
 f.wps.cn
 f.xuchuang.com
 f.youdao.com
-f.zgbmw.com.cn
 f008.com
 f0173961933140de47d48a60.mdbook.cn
 f030edab.cdn.ucloud.com.cn
@@ -45452,7 +45450,6 @@ modao.com
 modb.pro
 model.sspu.edu.cn
 modeng178.com
-modengfei.com
 modern.tenpay.com
 modernsky.com
 modian.com
@@ -56801,7 +56798,6 @@ shanghaizaojia.com
 shanghang.baixing.com
 shangji998.com
 shangjilian.com
-shanglei.net
 shangliancn.com
 shangluotb.com
 shanglv51.com

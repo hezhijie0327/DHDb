@@ -16611,7 +16611,6 @@ adebis.kose.co.jp
 adebis.koutsujiko.jp
 adebis.livable.co.jp
 adebis.macnica.co.jp
-adebis.nursery.co.jp
 adebis.qeee.jp
 adebis.real-style.co.jp
 adebis.report.clinic
@@ -34940,7 +34939,6 @@ bugs.qbittorrent.org
 bugs3.com
 bugscan.net
 bugscaner.com
-bugsec.org
 bugsevent.com
 bugsnag.com
 bugtags.com
@@ -55214,6 +55212,7 @@ dm.zuowenku.net
 dm004.net
 dm0571.com
 dm0acvguygm9h.cloudfront.net
+dm1.3199.cn
 dm1.3328.cn
 dm1.ddwk8.cn
 dm1.dnpz123.com
@@ -75745,7 +75744,6 @@ goodbaby.com
 goodbabygroup.com
 goodbook100.com
 gooddaychicago.com
-gooddns.xyz
 gooddr.com
 gooddu.com
 goodealwigs.com
@@ -96827,7 +96825,6 @@ jz.c21.com.cn
 jz.cc
 jz.zu.anjuke.com
 jz0045.com
-jz01.vip
 jz048.com
 jz0574.com
 jz08.com
@@ -128058,7 +128055,6 @@ phpstat.net
 phpstattest01.chinacloudapp.cn
 phpstudy.net
 phpstudyimg.com
-phptext.net
 phpv.net
 phpvar.com
 phpvod.com
@@ -131351,6 +131347,7 @@ prom.gome.com.cn
 prom.m.gome.com.cn
 prom.m.jd.com
 prom.m.jd.com.gslb.qianxun.com
+prom.mobile.gome.com.cn
 prom.ua
 promachbuilt.com
 promart.pe
@@ -134943,6 +134940,7 @@ qqxsnew.com
 qqxsw.la
 qqxwf.com
 qqxww.com
+qqxzb-img.com
 qqxzb.com
 qqyewu.com
 qqyjx.com

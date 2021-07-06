@@ -5,6 +5,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -10131,6 +10132,7 @@ adservice.google.nl
 adservice.google.ro
 adservice.tohsoft.com
 adservicemedia.dk
+adserviceretry.kugou.com
 adserving.unibet.com
 adservingfactory.com
 adservingsolutionsinc.com
@@ -71160,7 +71162,6 @@ mx1.outingtravel.com
 mx123.us
 mx3g.com
 mx981.com
-mxappmvx.com
 mxc.com
 mxcdn1.now.sh
 mxcdn2.now.sh

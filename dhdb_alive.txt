@@ -8783,6 +8783,7 @@
 54jkw.com
 54job.com
 54kefu.net
+54lol.com
 54manong.com
 54ncor2.cdnnodedns.cn
 54new.com
@@ -15796,6 +15797,7 @@ act.commercial.shouji.360.cn
 act.convergencetraining.com
 act.cwsglobal.org
 act.daoju.qq.com
+act.dmall.com
 act.guanjia.qq.com
 act.lanap.com
 act.online.engineering.nyu.edu
@@ -23195,6 +23197,7 @@ api-panov2.720yun.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
 api-pl.kdrag0n.dev
+api-pricetag.dmall.com
 api-priconne-redive.cygames.jp
 api-prod.leancloud.cn
 api-public.addthis.com
@@ -62606,7 +62609,6 @@ epetpet.com
 epexpo-asia.com
 epfykmaw.opencagedata.com
 epg.bobo.itvsh.cn
-ephen.me
 ephesoft.com
 ephoton.me
 ephox.com

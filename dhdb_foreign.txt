@@ -541,7 +541,6 @@
 1.bh5.com.cn
 1.car21.net.daraz.com
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -1047,6 +1046,7 @@
 138txt.com
 139.83.103.121.zz.countries.nerd.dk
 139.re
+139018.com
 1392233.com
 13973.com
 139down.com
@@ -5869,7 +5869,6 @@
 942ss.com
 94445.com
 94477.com
-9448x.com
 94695.com
 946vr.com
 9495.com
@@ -80487,6 +80486,7 @@ pool.graft.hashvault.pro
 pool.minexmr.com
 pool.nimiq-network.com
 pool.nimiq.watch
+pool.ntp.org
 pool.supportxmr.com
 pool.tdcoincore.org
 pool.torrent.pw
@@ -83416,7 +83416,6 @@ qyx21.com
 qyzjc.com
 qz.com
 qz100.com
-qzamfz.com
 qzbigstone.com
 qzbxfs.com
 qzcxtm.mango.com

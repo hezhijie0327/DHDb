@@ -8915,7 +8915,6 @@ ainiseo.com
 ainiu.net
 ainiugu6.com
 ainyi.com
-aiodt.com
 aiops.com
 aip.baidubce.com
 aipai.com
@@ -12512,7 +12511,6 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -18146,7 +18144,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -23076,7 +23073,6 @@ download.zhushou.sogou.com
 download.zjsyawqj.cn
 download.zzb6.cn
 download1.xmcdn.com
-download2.ctrip.com
 download2.ctrip.com.a.bdydns.com
 download2.ctrip.com.wswebcdn.com
 download2.xmcdn.com
@@ -23983,7 +23979,6 @@ dwgk.sspu.edu.cn
 dwinput.com
 dwion.com
 dwjq.com.cn
-dwmoniqi.com
 dwntme.com
 dwrh.net
 dwsedu.com
@@ -53853,6 +53848,7 @@ qyer.com
 qyerstatic.com
 qyfwc.com
 qyglzz.com
+qygmgolf.com
 qyham.com
 qyhssd.com
 qyjnxh.com
@@ -58760,6 +58756,7 @@ soyao.me
 soyep.com
 soyim.com
 soyobo.com
+soyohui.com
 soyoung.com
 soyunion.com
 soyunpan.cdn.bcebos.com
@@ -59927,7 +59924,6 @@ sun440.bjmu.edu.cn
 sun66.net
 sunbloger.com
 sunbo.com
-sunbo367.com
 sunboxsoft.com
 suncafe.cc
 suncco.com

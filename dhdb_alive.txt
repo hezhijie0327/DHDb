@@ -23198,7 +23198,6 @@ api-panov2.720yun.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
 api-pl.kdrag0n.dev
-api-pricetag.dmall.com
 api-priconne-redive.cygames.jp
 api-prod.leancloud.cn
 api-public.addthis.com
@@ -55392,7 +55391,6 @@ dlink.com
 dlive.pagesjaunes.fr
 dlive.tv
 dljdgn.e-lens.com.br
-dljhedu.com
 dljrw.com
 dljs.net
 dlkfm8bqz0bpx.cloudfront.net
@@ -72183,7 +72181,6 @@ gf1238.com
 gf2223.com
 gf2224.com
 gf2555.com
-gf300.com
 gf3666.com
 gf4111.com
 gf4444.com

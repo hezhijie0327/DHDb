@@ -17198,6 +17198,7 @@ ado.delfi.ee
 ado.icorp.ro
 adobe-aemassets-value.com
 adobe-audience-finder.com
+adobe-nonsecure.cjone.com
 adobe-secure.cjone.com
 adobe-video-partner-finder.com
 adobe.aeonbank.co.jp
@@ -99176,7 +99177,6 @@ kkk5.com
 kkk633.net
 kkkapk.com
 kkkd.com
-kkkk0021.com
 kkkk0102.com
 kkkk99.net
 kkkkba.com
@@ -141260,6 +141260,7 @@ run.haireig.com
 run.to
 runative-syndicate.com
 runbabyrun.fr
+runbingoo.com
 runbtx.com
 runcome.com
 runde666.net

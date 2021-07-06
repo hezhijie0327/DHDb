@@ -4453,6 +4453,7 @@
 520730.com
 5207758.com
 52091w.com
+520990.com
 520cai.net
 520cfc.com
 520code.cc
@@ -9917,7 +9918,6 @@ aoruszone.cn
 aos-cdn-files.cn-hangzhou.oss.aliyun-inc.com
 aos-cdn-image.amap.com
 aos-cdn-image.amap.com.w.alikunlun.net
-aos.wall.youmi.net
 aoscdn.amap.com
 aoscdn.amap.com.w.kunlunar.com
 aoscdn.com
@@ -10174,6 +10174,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -17989,7 +17990,6 @@ cms.sina.cn
 cms.tanx.com
 cms.v5.juzi.cn
 cms1924.org
-cms1api.dmall.com
 cms2012.bnu.edu.cn
 cmsapi.dmall.com
 cmsapi.wifi8.com
@@ -55847,7 +55847,6 @@ scdzmw.com
 scedu.net
 sceeo.com
 scene.vip.xunlei.com
-scfaying.com
 scflcp.com
 scfzbs.com
 scgckj.com

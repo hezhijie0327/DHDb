@@ -2154,6 +2154,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
+2.asia.pool.ntp.org
 2.bashenghuo.com
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -6322,7 +6323,6 @@
 877325.com
 87794560.com
 878275.p23.tc.cdntip.com
-87870.com
 87913a0d06de623437c752bb701d2f74.v.smtcdns.net
 8794.cn
 87box.com
@@ -6341,7 +6341,6 @@
 880114.com
 880735.com
 88077777.com
-880834.com
 8808808.com
 880sy.com
 880you.com
@@ -10633,6 +10632,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -27280,6 +27280,7 @@ free.advertising.cdn.vip.xunlei.com
 free.mk
 free.sinaimg.cn
 free.sinaimg.cn.w.kunlunea.com
+free1210.com
 free789.com
 freebuf.com
 freecplus.net
@@ -38766,6 +38767,7 @@ jwipc.com
 jwnote.com
 jwshy.com
 jwview.com
+jwwey.com
 jwx365.com
 jwxlschool.com
 jwyun.net
@@ -53096,7 +53098,6 @@ qs.xiangzhuan999.cn
 qs12315.com
 qs7dkolx9nv6nqywzvsvgakfjsgwa9jj.yundunwaf5.com
 qs921.com
-qsb.browser.miui.com
 qsbank.cc
 qsbbs.net
 qsbdc.com

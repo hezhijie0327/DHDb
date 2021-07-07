@@ -2153,7 +2153,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.asia.pool.ntp.org
 2.bashenghuo.com
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -4295,7 +4294,6 @@
 51rc.com
 51rcsl.com
 51read.site
-51readhome.com
 51reboot.com
 51rencai.com
 51render.com
@@ -6374,7 +6372,6 @@
 888zy.cn
 88995799.com
 889xp.com
-88bada.com
 88bank.com
 88bx.com
 88cdn.com
@@ -21417,6 +21414,7 @@ demaxiya.com
 demix.cc
 demlution.com
 demo.adsame.com
+demo.jointreport-switch.com
 demo.zhinengshe.com
 demodashi.com
 demogic.com
@@ -41798,7 +41796,6 @@ liukebao.com
 liulanmi.com
 liulanqi.com
 liulanqi.net
-liuliangbushou.com
 liuliangcanmou.com
 liuliangdada.com
 liulianggo.com

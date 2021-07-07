@@ -21671,7 +21671,6 @@ bvresources.com
 bvubje.leboncoin.fr
 bvz5.destinia.com.tr
 bw1020.com
-bw1199.com
 bw1658.com
 bw3355.com
 bw3785.com
@@ -97481,6 +97480,7 @@ store.sstuan.net
 store.steampowered.com
 store.storeimages.apple.com.akadns.net
 store.storeimages.cdn-apple.com
+store.storevideos.cdn-apple.com
 store.ubi.com
 store.unity.com
 storecatalogrevocation.storequality.microsoft.com

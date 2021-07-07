@@ -25110,7 +25110,6 @@ chromeexperiments.com
 chromefeedcontentsuggestions-pa.googleapis.com
 chromegae.com
 chromeos.dev
-chromes.cn
 chromestatus.com
 chromium.org
 chromium.woolyss.com
@@ -86970,7 +86969,6 @@ s3.us-east-2.amazonaws.com
 s3.us-west-2.amazonaws.com
 s3.video2.stream.vidzi.tv
 s3.videos.videos.vidto.me
-s3.videos.vidto.me
 s3.vidtod.me
 s3.web.flashx.co
 s3.www.applications.net.daraz.com

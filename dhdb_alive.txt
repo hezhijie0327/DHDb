@@ -5888,7 +5888,6 @@
 33dzcp.com
 33fyt.com
 33hei.com
-33hgvip.com
 33ip.com
 33iq.com
 33jianzhi.com
@@ -43809,7 +43808,6 @@ cloudlive-xp2p.kpl.qq.com.livecdn.liveplay.myqcloud.com
 cloudlive.com
 cloudlock.com
 cloudmagic.com
-cloudmap.hk
 cloudmedia-docs.unity3d.com
 cloudmedia.com
 cloudmes.io
@@ -44562,6 +44560,7 @@ cn163.net
 cn168.com
 cn18k.com
 cn1lib.org
+cn2.relay.iplc.pro
 cn2.rti.tw
 cn2.stadiumgoods.com
 cn20.com

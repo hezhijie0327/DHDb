@@ -15471,7 +15471,6 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
-cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -44418,6 +44417,7 @@ meitudata.com
 meitumobile.com
 meitun.com
 meitushop.com
+meitussp.com
 meitustat.com
 meituyun.com
 meituyunji.com
@@ -45876,7 +45876,6 @@ msg.eclicks.cn
 msg.iqiyi.com
 msg.m.jd.com
 msg.m.jd.com.gslb.qianxun.com
-msg.mobile.kugou.com
 msg.ptqy.gitv.tv
 msg.push.51y5.net
 msg.qy.net

@@ -2174,6 +2174,7 @@
 2008php.com
 2008red.com
 200wan.com
+200y.com
 2012.8684.com
 2012.sina.com.cn
 201201.com
@@ -10533,6 +10534,7 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -25304,7 +25306,6 @@ epet.com
 epetbar.com
 epetpet.com
 epg.bobo.itvsh.cn
-ephen.me
 ephoton.me
 epicgames-download1-1251447533.file.myqcloud.com
 epichust.com

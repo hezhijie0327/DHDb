@@ -13356,6 +13356,7 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
+api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.geetest.com
@@ -26691,7 +26692,6 @@ cns.888poker.com
 cnsaw.com
 cnsecer.com
 cnsilkworm.com
-cnskf-bearing.com
 cnsnews.com
 cnsnpj.com
 cnsourcing.org
@@ -31867,7 +31867,6 @@ dengiamerika.com
 dengkanwen.com
 dengmoe.com
 dengshiyuanyi.com
-dengzhr.com
 denic.de
 denic.net
 denik.cz
@@ -83658,6 +83657,7 @@ quelle.de
 quentic.com
 query.ess-apple.com.akadns.net
 query.ess.apple.com
+query.hicloud.com
 query.prod.cms.rt.microsoft.com
 querylist.cc
 queryly.com

@@ -10631,7 +10631,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -57366,6 +57365,7 @@ shop1467306713870.1688.com
 shop163011508.v.weidian.com
 shop18560191h2977.1688.com
 shop1z7c564687567.1688.com
+shop2255.com
 shop244950792.taobao.com
 shop247873988.taobao.com
 shop2cn.com

@@ -13356,7 +13356,6 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
-api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.geetest.com
@@ -14565,7 +14564,6 @@ arvixe.com
 arxibs01.com
 arxiv.org
 arxua.com
-arygames.com
 aryjjg.freeco.com.br
 arysta-na.com
 arz.at
@@ -14612,7 +14610,6 @@ as.welt.de
 as.yomonda.de
 as1.inoventiv.com
 as2.adserverhd.com
-as4888.com
 as5205.com
 asacp.org
 asadis.net
@@ -14836,6 +14833,7 @@ asrockind.com
 asrockrack.com
 asrv-a.akamaihd.net
 assbbs.com
+assdrty.com
 assembla.com
 assemblecommunities.com
 asset-cache.net

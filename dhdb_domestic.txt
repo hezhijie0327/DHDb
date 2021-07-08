@@ -19163,6 +19163,7 @@ cozyee.com
 cp.003store.com
 cp.7y7.com
 cp.eastmoney.com
+cp.efo.cc
 cp.gs307.com
 cp.jfcdns.com
 cp.qbaobei.com
@@ -40798,7 +40799,6 @@ le.wps.cn
 le0000.com
 le1-prod-all-gs-gzlj.bilibiligame.net
 le1-prod-all-gs-gzlj.bilibiligame.net.w.cdngslb.com
-le1111.com
 le166.com
 le3-api.game.bilibili.com
 le5le.com

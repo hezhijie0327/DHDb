@@ -3552,6 +3552,7 @@ ads.battle.net
 ads.bbcworld.com
 ads.beeb.com
 ads.belointeractive.com
+ads.bestads.me
 ads.blogtruyen.com
 ads.bloomberg.com
 ads.bluelithium.com
@@ -5233,7 +5234,6 @@ b.we55.us
 b.whrdch.com
 b.ww2rai.ru
 b.wxga.us
-b.xp0f4cj.cn
 b.yunfanlm.net
 b0.qinsx.cn
 b02977d5193abfe2fd5cc9643b6dd114.jddebug.com
@@ -11222,6 +11222,7 @@ e.thxsqei.cn
 e.tiantianedu.net
 e.tick0.com
 e.tingniubi.cn
+e.tiojk.com
 e.tmjwkdb.cn
 e.tspric.cn
 e.tuoaa.com
@@ -23319,6 +23320,7 @@ pugpig-dev.com
 pugpig-stage.com
 puh.winniepuh.info
 pukeko.tk
+pull-fcdn-douyin3.s.bytefcdn.com
 pull.push.sogou.com
 pulpix.com
 pulsigame.com

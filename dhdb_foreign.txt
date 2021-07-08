@@ -1830,6 +1830,7 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
+2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -28975,7 +28976,6 @@ cs.com
 cs.coopeservidores.fi.cr
 cs.dds.microsoft.com
 cs.emxdgt.com
-cs.ffbtas.com
 cs.hot.net.il
 cs.lkqd.net
 cs.media.net
@@ -49081,6 +49081,7 @@ haitaoing.com
 haitaoqq.com
 haitaoshen.com
 haitaotong.com
+haitl.com
 haitum.com
 haitunwx.com
 haivision.com
@@ -101957,7 +101958,6 @@ tlc151.com
 tlc162.com
 tlc163.com
 tlc173.com
-tlc178.com
 tlc189.com
 tlc231.com
 tlc269.com

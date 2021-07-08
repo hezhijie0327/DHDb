@@ -23616,6 +23616,7 @@ api.netlify.com
 api.newad.ifeng.com
 api.newsfeed.intl.miui.com
 api.nhsoft.cn
+api.no4book.com
 api.nobeta.com.br
 api.node1.systest.ptqy.gitv.tv
 api.node2.systest.ptqy.gitv.tv
@@ -107539,7 +107540,6 @@ m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
-m.jiaochengzhijia.com.cname.yunjiasu-cdn.net
 m.jiedianqian.com
 m.jingxi.com
 m.jinhuizhibo.com
@@ -123818,6 +123818,7 @@ omentradinginternationalprivateltd.duckdns.org
 omeo.alipay.com
 omes-sec.heytapmobi.com
 ometal.com
+ometrics.netapp.com
 ometrics.warnerbros.com
 omextemplates.content.office.net
 omfif.org
@@ -128983,7 +128984,6 @@ pgl-world.com
 pgmustard.com
 pgnan.com
 pgo.sunchemical.com
-pgpolice.com
 pgpro.com
 pgquni.uralairlines.ru
 pgs.aviationweek.com
@@ -137961,7 +137961,6 @@ r4---sn-5ualdn7d.googlevideo.com
 r4---sn-5ualdnl7.googlevideo.com
 r4---sn-8xgp1vo-p5ie.googlevideo.com
 r4---sn-a5m7lnlz.googlevideo.com
-r4---sn-a5mekn7r.googlevideo.com
 r4---sn-a5mekn7y.googlevideo.com
 r4---sn-a5mekne7.googlevideo.com
 r4---sn-a5mekned.googlevideo.com

@@ -1850,7 +1850,6 @@
 1830536.vp.tcdnvod.com
 183me.com
 183post.com
-183read.com
 1847780.shop.liebiao.com
 18488.com
 1849390.p23.tc.cdntip.com
@@ -3383,6 +3382,7 @@
 3975ad.com
 3975ad.xyz
 3975cdn.com
+3977s.com
 397c0.admaster.com.cn
 39913611a04847c675638460.mdbook.cn
 39ask.net
@@ -5449,6 +5449,7 @@
 6d29ec1de4970244abeec958d3516217.dlied1.cdntips.net
 6d4d5.com
 6d4g.com
+6dad.com
 6dafu.com
 6db8d21d5402a0131f4f232a43ef505d.dlied1.cdntips.net
 6ded0k.tdum.alibaba.com
@@ -19424,7 +19425,6 @@ crashlyticsreports-pa.googleapis.com
 crawl.ws.126.net
 crawlersdkapi.msxf.com
 crawlersdkapi.xngslb.msxf.com
-crayon.meishichina.com
 crazyenglish.org
 crazyphper.com
 crbeverage.com
@@ -32130,7 +32130,6 @@ hnxgzg.com
 hnxmxit.com
 hnxuntang.com
 hnxyjt.com
-hnycsk.com
 hnyfkj.com
 hnyjsedu.com
 hnyouneng.com

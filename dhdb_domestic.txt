@@ -37958,7 +37958,6 @@ jnnews.tv
 jnrain.com
 jnrjljc2471.shop.258.com
 jnshu.com
-jnsz.net.cn
 jntinchina.com
 jntjgcjx.51sole.com
 jntyhl.com
@@ -40728,6 +40727,7 @@ lc-cn-e1-egkyx.com
 lc-cn-n1-npxfk.com
 lc-cn-n1-shared.com
 lc-cn-n1-thovg.com
+lc-news.com
 lc-push.zhihu.com
 lc.getui.com
 lc.ishansong.com
@@ -42142,7 +42142,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn

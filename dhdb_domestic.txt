@@ -15811,7 +15811,6 @@ cf.arctime.cn
 cf.duba.net
 cf.zaiyunli.cn
 cf027.com
-cf668.com
 cf865.com
 cf8d.stat.gw.youmi.net
 cfachina.org
@@ -34977,6 +34976,7 @@ img.cnpython.com
 img.contents.m.liebao.cn
 img.crawler.qq.com
 img.cscl.com.cn
+img.ct.youth.cn
 img.d1xz.net
 img.diya1.com
 img.diyifanwen.com

@@ -7825,6 +7825,7 @@ account.youdao.com
 account.youku.com
 account.zhihu.com
 accounts.douban.com
+accounts.epicgames.com
 accounts.firefox.com.cn
 accounts.google.cn
 accounts.nvgs.nvidia.cn
@@ -13848,6 +13849,7 @@ bqq.gtimg.com.cloud.tc.qq.com
 bqq.gtimg.com.x2s.sched.dcloudstc.com
 bqrank.net
 bqteng.com
+br.linkedin.com
 braincf.com
 brand.lenovo.com.cn
 brand.lenovo.com.cn.wswebcdn.com
@@ -43040,7 +43042,6 @@ m.ads.sohu.com
 m.adtiming.com
 m.aihuishou.com
 m.ailezhai.cn
-m.aiyyu.com
 m.ajmide.com
 m.ali213.net
 m.ali213.net.w.kunluncan.com
@@ -51482,7 +51483,6 @@ pzcenter.xueersi.com
 pzclw.cn
 pzds.com
 pzhccb.com
-pzhttaax.cn
 pzjdimg.com
 pzjiadian.com
 pznews.com

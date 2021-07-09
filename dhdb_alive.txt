@@ -38870,7 +38870,6 @@ cdn-content.ampproject.org
 cdn-creatives-akamai-prd.unityads.unity3d.com
 cdn-creatives-highwinds-prd.unityads.unity3d.com
 cdn-creatives-prd.unityads.unity3d.com
-cdn-cvprsg101m01.streaming.mediaservices.windows.net
 cdn-fastly.obsproject.com
 cdn-ffc.oobesaas.adobe.com
 cdn-ffk4psso.sched.s2.tdnsv5.com
@@ -40610,7 +40609,6 @@ chaterbate.com
 chatm.com
 chatnook.com
 chatnos.com
-chatplus.ai
 chatplus.jp
 chatroom.456777.com
 chatroom.dsn201.co
@@ -66975,7 +66973,6 @@ filipino-music.net
 filippa-k.com
 fillersmart.com
 fillthesquare.org
-film.dofkfhv.cn
 film.qq.com
 filmfed.com
 filmifeed.com
@@ -73585,6 +73582,7 @@ go.allcloud.io
 go.alliancelaundry.com
 go.allied-telesis.co.jp
 go.alliedair.net
+go.alliedtelesis.com
 go.alllift.com
 go.almex.jp
 go.alorica.com
@@ -145884,7 +145882,6 @@ sentry.nullrefexcep.com
 sentry01.zerg.rambler.ru
 sentrydiscord.dev
 sentryone.com
-sentsin.com
 senturus.com
 sentuxueyuan.com
 senvangvn.com

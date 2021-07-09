@@ -643,6 +643,7 @@
 1-du.net
 1.01fy.cn
 1.07swz.com
+1.07swz.com.cname756.yjs-cdn.com
 1.1010pic.com
 1.11467.com
 1.32xp.com
@@ -24808,6 +24809,7 @@ ee-lb.bytedns.net
 ee-skin.com
 ee-vip.net
 ee.hx623.cn
+ee.m19ud.cn
 ee.u0r9.cn
 ee.xfya3.cn
 ee.xlhm88.cn
@@ -37665,6 +37667,7 @@ jite.net
 jiub.ren
 jiubuhua.com
 jiucaicaijing.com
+jiucaigongshe.com
 jiuchutong.com
 jiucool.org
 jiuday.com
@@ -41432,6 +41435,7 @@ light-client-log-heiniugo.getapk.cn
 lightget.com
 lightgx.com
 lighthouse.dmallcdn.com
+lighthouseapi.dmall.com
 lightingchina.com
 lightinit.com
 lightky.com

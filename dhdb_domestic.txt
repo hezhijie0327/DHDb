@@ -656,7 +656,6 @@
 1.92caijing.com
 1.aili.com
 1.arpun.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
@@ -41139,7 +41138,6 @@ lezai.com
 lezf.com
 lezhi99.com
 lezhibo.com
-lezhieducation.com
 lezhiot.com
 lezhiweilai.com
 lezhiyun.com

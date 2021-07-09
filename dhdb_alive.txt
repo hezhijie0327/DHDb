@@ -65600,6 +65600,7 @@ fanyi.baidu.com
 fanyi.baiud.com
 fanyi.com
 fanyi.ntes53.netease.com
+fanyi.youdao.com
 fanyi100.com.cn
 fanyiapp.cdn.bcebos.com
 fanyibase.com
@@ -70339,7 +70340,6 @@ fzqcbz.com
 fzqjvw.oakandluna.com
 fzrsrc.com
 fzsjob.com
-fztxylgy.com
 fzu4.bysidecar.com
 fzxjxkb.com
 fzyfan.com
@@ -95379,6 +95379,7 @@ jishuchi.com
 jishukong.com
 jishuqq.com
 jishutuan.com
+jishux.com
 jisi17.com
 jisilu.com
 jisu-edu.com
@@ -102531,7 +102532,6 @@ lelai.com
 lele1688.com
 leleda.com
 leledp.com
-lelefenxi.com
 leleketang.com
 lelelala.net
 lelelove520.com
@@ -104901,7 +104901,6 @@ lls.moe
 llsapp.com
 llsif.moe
 llsops.com
-llsp.gfd80.com
 llss-read.com
 llss.fan
 llss.fun

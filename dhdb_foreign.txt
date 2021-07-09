@@ -14836,6 +14836,7 @@ assets-email2.unidays.world
 assets-global.viveport.com
 assets-momentum.akamaized.net
 assets-r-dw-1.net.daraz.com
+assets-share.dspunion.com
 assets.adobedtm.com
 assets.analog.com
 assets.applovin.com
@@ -60437,6 +60438,7 @@ krutor.eu.org
 krux.com
 krwz.com
 krwzck.sharelytics.co
+kryoniikka.fi
 krypt.com
 krypticon9332.duckdns.org
 kryptnostic.com

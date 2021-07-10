@@ -18031,6 +18031,7 @@ cmz2.stm65i8.com
 cmzd.com
 cmzj.net
 cmzyk.com
+cn-api.samsungcloud.com
 cn-api.samsungosp.com
 cn-api.samsungpositioning.com.cn
 cn-auth.samsungosp.com
@@ -21344,7 +21345,6 @@ deepcloudsdp.com
 deepepg.com
 deepermobile.com
 deepfun.net
-deepin.asia
 deepin.com
 deepin.org
 deepinmind.com
@@ -55742,7 +55742,6 @@ sayabear.com
 sayloving.com
 saywash.com
 sb.firefox.com.cn
-sb580.com
 sbanzu.com
 sbbd1.qulishi.com
 sbc-mcc.com

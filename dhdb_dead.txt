@@ -7165,6 +7165,7 @@ cdn-analytics.ladmedia.fr
 cdn-apple.com
 cdn-baidu.net
 cdn-cdn.net
+cdn-cvprsg101m01.streaming.mediaservices.windows.net
 cdn-data-cloud.com
 cdn-dns-kubo.com
 cdn-files.net
@@ -9930,6 +9931,7 @@ decwhy.com
 dedeeims.com
 dee.uzyid.cn
 deemob.com
+deepin.asia
 deepin.cn
 deepin.io
 deepvision.ai
@@ -27484,6 +27486,7 @@ tracker.cdnbye.com
 tracker.comicat.org
 tracker.cpapath.com
 tracker.cyber-hub.net
+tracker.cyberia.is
 tracker.cypherpunks.ru
 tracker.dmcomic.com
 tracker.dmguo.com

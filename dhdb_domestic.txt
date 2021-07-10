@@ -23063,7 +23063,6 @@ download.qianka.com
 download.sangfor.com.cn
 download.sdk.mob.com
 download.unitychina.cn
-download.visualstudio.microsoft.com
 download.vzuu.com
 download.wan.sohu.com
 download.wegame.qq.com
@@ -27848,7 +27847,6 @@ galaxystore.ad-survey.com
 galend.gallerycdn.azure.cn
 galiaoba.com
 galitv.alicdn.com
-galleon.dmall.com
 galleryapi.micloud.xiaomi.net
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
@@ -33588,7 +33586,6 @@ hzhfzx.com
 hzhr.com
 hzhuanqu.com
 hzins.com
-hzirun.com
 hzjbzg.com
 hzjingxian.com
 hzjinsen.com
@@ -42597,6 +42594,7 @@ lsttnews.com
 lsublog.shorelight.com
 lsup.net
 lsw-fast.lenovo.com.cn
+lsxz.org
 lsywtc.com
 lszhibo.com
 lt-uv.com
@@ -55773,7 +55771,6 @@ sc.alicpb.top
 sc.anhuiry.com
 sc.appvipshop.com
 sc.appvipshop.com.vipgslb.com
-sc.cc
 sc.chinaz.com
 sc.csai.cn
 sc.gg

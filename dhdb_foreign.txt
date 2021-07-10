@@ -61107,7 +61107,6 @@ lamrd.cn
 lamrim.com
 lamyetudiant.fr
 lamyig.com
-lamyig1.com
 lan-gui.com
 lan.datasecu.download
 lanap.com
@@ -84363,7 +84362,6 @@ r4---sn-5ualdn7d.googlevideo.com
 r4---sn-5ualdnl7.googlevideo.com
 r4---sn-8xgp1vo-p5ie.googlevideo.com
 r4---sn-a5m7lnlz.googlevideo.com
-r4---sn-a5mekn7k.googlevideo.com
 r4---sn-a5mekn7r.googlevideo.com
 r4---sn-a5mekn7y.googlevideo.com
 r4---sn-a5mekne7.googlevideo.com
@@ -89719,7 +89717,6 @@ seed-pol-1.inf.nimiq.network
 seed-pol-2.inf.nimiq.network
 seed-pol-3.inf.nimiq.network
 seed-pol-4.inf.nimiq.network
-seed.bitcoin.jonasschnelli.ch
 seed.bitcoin.sipa.be
 seed.bitcoin.sprovoost.nl
 seed.bitcoin.wiz.biz

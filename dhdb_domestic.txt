@@ -10149,6 +10149,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
@@ -10627,6 +10628,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -13223,7 +13225,6 @@ bjdiaoyu.com
 bjdjc.com
 bjdllti.com
 bjdnserror1.wo.com.cn
-bjdnserror3.wo.com.cn
 bjdongxin.com
 bjdsppa.com
 bjeasycom.com
@@ -42144,7 +42145,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -62050,7 +62050,6 @@ timeofdate.com
 timepill.net
 timeread.com
 timeread.net
-times-asia.com
 timesaward.dftoutiao.com
 timesawards.com
 timeserver.cnzz.net

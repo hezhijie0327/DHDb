@@ -33090,7 +33090,6 @@ distroscale-d.openx.net
 distrowatch.com
 dit-inc.us
 dita6jhhqwoiz.cloudfront.net
-ditian-tech.com
 ditu.googleapis.com
 ditu6.com
 diubo.com
@@ -34091,6 +34090,7 @@ download.pdfforge.org
 download.qoo-app.com
 download.sd.baidu.com
 download.synology.com
+download.visualstudio.microsoft.com
 download.weatherblink.com
 download.windowsupdate.com
 download.windowsupdate.nsatc.net

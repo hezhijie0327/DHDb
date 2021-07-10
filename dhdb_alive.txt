@@ -1292,7 +1292,6 @@
 10000.com
 10000.docs.qq.com
 10000.gzcsnt.cn
-10000.gzcsnt.cn.w.kunlungr.com
 10000.pet
 10000.sh
 1000003.hybrid.miniapp.taobao.com
@@ -78753,6 +78752,7 @@ h.sora.yoyi.com.cn
 h.trace.qq.com
 h.txt2017.com
 h.v.gp
+h.yosjob.cn
 h.youdao.com
 h0.ifengimg.com
 h0.t.hubspotemail.net
@@ -81322,6 +81322,7 @@ heyoutz.com
 heyoya.com
 heyplus.com
 heyreport.com
+heyria.com
 heyshopstreet.com
 heytaoge.com
 heytap.com

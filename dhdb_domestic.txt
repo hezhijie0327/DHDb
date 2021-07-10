@@ -47100,6 +47100,7 @@ nhon38wu.sched.d0.tdnsv5.com
 nhsoft-mercury.oss-cn-hangzhou.aliyuncs.com
 nhsoft-mercury.oss-cn-hangzhou.aliyuncs.com.gds.alibabadns.com
 nhsoft.cn
+nhxz.com
 nhygkj.com
 nhz.adwo.com
 nhzedu.com
@@ -55255,7 +55256,6 @@ s0.meituan.net
 s0.pstatp.com
 s0.ssl.qhimg.com
 s0017.com
-s0025.com
 s03-ml.gslb.ksyuncdn.com
 s03-p2p.gslb.ksyuncdn.com
 s03-region.gslb.ksyuncdn.com
@@ -58829,6 +58829,7 @@ splashqqlive.gtimg.com
 splaybow.com
 splcgk.court.gov.cn
 splmcn.com
+spoience.com
 spointdesign.com
 spongeliu.com
 sponsor.segmentfault.com

@@ -17984,6 +17984,7 @@ cms.sina.cn
 cms.tanx.com
 cms.v5.juzi.cn
 cms1924.org
+cms1api.dmall.com
 cms2012.bnu.edu.cn
 cmsapi.dmall.com
 cmsapi.wifi8.com
@@ -54328,7 +54329,6 @@ render.mybank.cn
 renderbus.com
 renderincloud.com
 renderoffice.alipaydns.com
-rendiyu.com
 rendna.com
 renesas.cn
 renew.console.aliyun.com

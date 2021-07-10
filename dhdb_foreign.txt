@@ -1838,6 +1838,7 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
+2.android.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -4991,7 +4992,6 @@
 752899.com
 75367.com
 755.etowns.org
-75522.com
 7555yl.com
 755616.com
 75609597c67078dfe8bab9f294ee9eeb.clo.footprintdns.com

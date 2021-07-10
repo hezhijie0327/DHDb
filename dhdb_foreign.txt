@@ -3171,7 +3171,6 @@
 39meitu.com
 39mo.com
 39sk.com
-39vpn.com
 39ws.com
 39xh.com
 3a5a.com
@@ -18956,7 +18955,6 @@ bj-shouqi.com
 bj1.api.bing.com
 bj100.com
 bj1000e.com
-bj1111.com
 bj173.com
 bj2222.com
 bj499.com
@@ -48362,7 +48360,6 @@ growyourbusiness.rovva.com
 grpc.termius.com
 grrrgraphics.com
 grs.dbankcloud.asia
-grs.dbankcloud.com
 grss-ieee.org
 grtmpr.vertbaudet.fr
 gru14s19-in-f11.1e100.net
@@ -49592,7 +49589,6 @@ hbx.media.net
 hbxnets.com
 hby7.destinia.it
 hbyjfs.com
-hbzhanghe.com
 hbzxr.com
 hbzxtyq.com
 hbzyc0722.com
@@ -50755,7 +50751,6 @@ hkjcfootball.com
 hkjp.org
 hkkk6.com
 hklft.com
-hklongbang.com
 hklts.org.hk
 hkmap.live
 hkmksmsjn.000webhostapp.com
@@ -70292,6 +70287,7 @@ mobilecoverage.com.au
 mobiledevsite.co
 mobiledl.adboe.com
 mobilefacebook.com
+mobilegw.alipay.com
 mobilegw.src.alipaydns.com
 mobilehealth.net
 mobileinternational.com
@@ -80624,7 +80620,6 @@ player.ooyala.com
 player.spotify.com
 player.staging2.crazyegg.com
 player.tenglutg.com
-player.videos.vidto.me
 player.vimeo.com
 playerjs.io
 players.brightcove.net

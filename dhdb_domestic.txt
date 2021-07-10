@@ -3021,7 +3021,6 @@
 33app.net
 33bus.com
 33hei.com
-33hgvip.com
 33ip.com
 33iq.com
 33jianzhi.com
@@ -6732,7 +6731,6 @@
 91sph.com
 91spj.com
 91ssw.com
-91stb.com
 91student.com
 91suan.com
 91suke.com
@@ -34823,6 +34821,7 @@ images.cnblogs.com
 images.cnitblog.com
 images.dayoo.com
 images.dmzj.com
+images.dmzj1.com
 images.enet.com.cn
 images.liqucn.com
 images.lulian.cn

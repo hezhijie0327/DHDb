@@ -59450,6 +59450,7 @@ static.res.qq.com
 static.runoob.com
 static.sensorsdata.cn
 static.shenyou.cn
+static.sinawap.com
 static.sonkwo.com
 static.studygolang.com
 static.sundxs.com

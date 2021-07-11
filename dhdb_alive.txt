@@ -1211,6 +1211,7 @@
 1.800400.net
 1.92caijing.com
 1.aili.com
+1.ajiyuming.com
 1.appexchange.com
 1.arpun.com
 1.asia.pool.ntp.org
@@ -39881,6 +39882,7 @@ cdren.net
 cdronghai.com
 cdrtvu.com
 cdruzhu.com
+cdryny.com
 cds-cdn.v.aaplimg.com
 cds.3.cn
 cds.3.cn.gslb.qianxun.com
@@ -43186,7 +43188,6 @@ civilcn.com
 civilhrfront.org
 civiliangunner.com
 civilmedia.tw
-civilness.com
 civisanalytics.com
 civisec.org
 civiw.com
@@ -86391,7 +86392,6 @@ i2p-projekt.de
 i2p2.de
 i2runner.com
 i2ya.com
-i3.17173cdn.com
 i3.cmail20.com
 i3.go2yd.com
 i3.hoopchina.com.cn
@@ -98444,7 +98444,6 @@ kaifamei.com
 kaifangkecheng.com
 kaifapiao.com
 kaifaxueyuan.com
-kaifenghenan.com
 kaifu.com
 kaifubiao.com
 kaifuzq.com

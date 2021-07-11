@@ -659,7 +659,6 @@
 1.bashenghuo.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -40129,7 +40128,6 @@ kuke.com
 kuke99.com
 kukecloud.com
 kukseo.com
-kuku9.com
 kukupao.com
 kukupig.com
 kukuplay.com

@@ -13763,7 +13763,6 @@ api.vuukle.com
 api.wangrunxin.com
 api.waptest.taobao.com
 api.weather.com
-api.weltevree.eu
 api.wfxll.com
 api.wipmania.com
 api.wootric.com
@@ -15105,7 +15104,6 @@ assets-email2.unidays.world
 assets-global.viveport.com
 assets-momentum.akamaized.net
 assets-r-dw-1.net.daraz.com
-assets-share.dspunion.com
 assets.adobedtm.com
 assets.analog.com
 assets.applovin.com

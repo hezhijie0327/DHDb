@@ -2340,7 +2340,6 @@
 139.re
 139018.com
 1391.com
-13910.com
 139130.com
 1392189.com
 1392233.com
@@ -19864,6 +19863,7 @@ ai.thanhnien.vn
 ai.thermo.com
 ai.voiceads.cn
 ai.xinju.cc
+ai.youdao.com
 ai1.ivy-cdn.com
 ai200808.com
 ai2hao.com

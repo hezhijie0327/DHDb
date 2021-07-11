@@ -57,7 +57,6 @@
 001tech.com
 001union.com
 001www.com
-001xin.com
 002.0x1f4b0.com
 002.com
 002008.com
@@ -10817,7 +10816,6 @@
 751c5172.qc.x.bsgslb.cn
 752516.cc
 752899.com
-75367.com
 754459.s1txipv6.cdntip.com
 754573.s1txipv6.cdntip.com
 754578.s1txipv6.cdntip.com
@@ -29252,6 +29250,7 @@ bat.bing.com
 bat.me
 bat.nfcos.net.cn
 bat.r.msn.com
+bat120.com
 batanga.com
 batch-rgeo.is.autonavi.com
 batch-rgeo.is.autonavi.com.gds.alibabadns.com
@@ -108900,6 +108899,7 @@ maihehd.com
 maiio.net
 maijia.com
 maijiaba.com
+maijiabashi.com
 maijiakan.com
 maijichuang.net
 maijx.com
@@ -119686,6 +119686,7 @@ nesnode.com
 neso.r.niwepa.com
 nesox.com
 nespresso.com
+nessau.dmall.com
 nest.com
 nest.ru.net
 nestlabs.box.com
@@ -138314,7 +138315,6 @@ r3---sn-5hnekn7k.googlevideo.com
 r3---sn-5hnekn7l.googlevideo.com
 r3---sn-a5m7lnlz.googlevideo.com
 r3---sn-a5mekn7k.googlevideo.com
-r3---sn-a5mekn7r.googlevideo.com
 r3---sn-a5mekne7.googlevideo.com
 r3---sn-a5mekned.googlevideo.com
 r3---sn-a5meknee.googlevideo.com

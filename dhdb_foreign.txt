@@ -553,6 +553,7 @@
 1.bh5.com.cn
 1.car21.net.daraz.com
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -26681,7 +26682,6 @@ cms.6up.com
 cms.analytics.yahoo.com
 cms.car13.net.daraz.com
 cms.freya.net.daraz.com
-cms.fx678img.com
 cms.fyndable.online
 cms.gov
 cms.hardloopaanbiedingen.nl
@@ -47677,7 +47677,6 @@ gogole.com
 gogoo.ml
 gogoron.com
 gogotunnel.com
-gogoxtv.com
 gogoxzp.com
 gogreat.com
 goguardian.com
@@ -85614,7 +85613,6 @@ record.affiliatelounge.com
 record.mrwin.com
 record.sportsbetaffiliates.com.au
 recordhistory.org
-recordjapan.net
 recordpoint.com
 recordstands.com
 recovery-transfer.com

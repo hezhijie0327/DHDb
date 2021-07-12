@@ -1,6 +1,5 @@
 0-100.com
 0-6.com
-0.pic.paopaoche.net
 0.pic.pc6.com
 0.up.qingdaonews.com
 00.auto.sohu.com
@@ -235,7 +234,6 @@
 0335wl.com
 0337111.com
 03412.com
-0351data.com
 0351fdc.com
 0352fang.com
 0355fk.com
@@ -41926,6 +41924,7 @@ livinglabs.cc
 liwei.red
 liweijia.com
 liweiliang.com
+liweiyameirong.com
 liwenzhou.com
 liwuhy.com
 liwumaoapp.com
@@ -55770,6 +55769,7 @@ sc666.com
 sc823.com
 scache.node1.systest.ptqy.gitv.tv
 scache.node2.systest.ptqy.gitv.tv
+scaffi.com
 scan.call.f.360.cn
 scanv.com
 scapi.waimai.meituan.com
@@ -59193,7 +59193,6 @@ stat.fyeds9.com
 stat.game.yy.com
 stat.gamedl.qq.com
 stat.guoxinvc.com
-stat.gw.youmi.net
 stat.ijinshan.com
 stat.img-space.com
 stat.it168.com

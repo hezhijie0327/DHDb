@@ -15206,6 +15206,7 @@ aad.actonservice.com
 aad.cs.dds.microsoft.com
 aad.org
 aad.portal.azure.com
+aad.tw
 aadcdn.msauth.net
 aadcdn.msauthimages.net
 aadcdn.msftauth.net
@@ -68271,7 +68272,6 @@ flow.10010.com
 flow.ci
 flow.concord.systems
 flow.dev
-flow.dmall.com
 flow.io
 flow.org
 flow.qq.com
@@ -69253,7 +69253,6 @@ fpb.sohu.com
 fpb1.apple886.com
 fpb1.gxfin.com
 fpb1.tabuzhe.com
-fpb8.esce.fr
 fpbb.aizhan.com
 fpbcode.onlinedown.net
 fpbjiansuo.mn586.com
@@ -76794,7 +76793,6 @@ golf-jalan.net
 golf568.com
 golfasian.com
 golfbreaks.com
-golfchinese.com
 golfdigest.com
 golfgalaxy.com
 golfnews.vn
@@ -92214,6 +92212,7 @@ ip-54-36-185.eu
 ip-91-121-106.eu
 ip-api.com
 ip-cdn.com
+ip-china.org
 ip-guard.net
 ip-label.net
 ip.120ask.com
@@ -96859,7 +96858,6 @@ jp.hao123.com
 jp.moc.gov.tw
 jp.net
 jp.pandora.tv
-jp.pool.ntp.org
 jp.rti.org.tw
 jp.schroders.email
 jp.xinhuanet.com
@@ -109649,6 +109647,7 @@ manhuama.net
 manhuang.org
 manhuaniu.com
 manhuapi.com
+manhuaren.cc
 manhuaren.com
 manhuatai.com
 manhuav.com

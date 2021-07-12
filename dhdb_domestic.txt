@@ -10681,7 +10681,6 @@ applicationloader.net
 applinzi.com
 applog.camera360.com
 applog.ddxq.mobi
-applog.matrix.netease.com
 applog.reader.qq.com
 applog.uc.cn
 applog.ucdns.uc.cn
@@ -38626,6 +38625,7 @@ julucn.com
 julur.com
 julyedu.com
 julysong.com
+jumaicms.com
 jumbobondhk.com
 jumei.com
 jumeiglobal.com

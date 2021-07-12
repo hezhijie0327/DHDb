@@ -1,7 +1,6 @@
 0-courier.push.apple.com
 0-courier2.push.apple.com
 0-gold.net
-0.cn.pool.ntp.org
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
@@ -555,7 +554,6 @@
 1.asia.pool.ntp.org
 1.bb5522.ws
 1.bb6688.ws
-1.bh5.com.cn
 1.car21.net.daraz.com
 1.cms.s81c.com
 1.cn.pool.ntp.org
@@ -34912,7 +34910,6 @@ dt07.net
 dt1pxsve3tgas.cloudfront.net
 dt52hnpu8y71o.cloudfront.net
 dtakdb1z5gq7e.cloudfront.net
-dtch.brunel.nl
 dtci.co
 dtci.technology
 dtcn.com
@@ -48860,7 +48857,6 @@ gsrojm.apothekary.co
 gsrskw.com
 gss-sh.org
 gsscloud.com
-gssdsj.com
 gstarcad-italia.it
 gstatic.com
 gstf.org
@@ -84779,7 +84775,6 @@ r3---sn-5hnekn7k.googlevideo.com
 r3---sn-5hnekn7l.googlevideo.com
 r3---sn-a5m7lnlz.googlevideo.com
 r3---sn-a5mekn7k.googlevideo.com
-r3---sn-a5mekn7r.googlevideo.com
 r3---sn-a5mekne7.googlevideo.com
 r3---sn-a5mekned.googlevideo.com
 r3---sn-a5meknee.googlevideo.com

@@ -706,7 +706,6 @@
 10000.com
 10000.docs.qq.com
 10000.gzcsnt.cn
-10000.gzcsnt.cn.w.kunlungr.com
 10000.pet
 10000.sh
 1000003.hybrid.miniapp.taobao.com
@@ -10966,7 +10965,6 @@ ashj.com
 ashl7t28u9asxjo1.aliyunddos1011.com
 ashma.info
 ashow.pcpop.com
-asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -17160,7 +17158,6 @@ chuangcache.w.samebar.com
 chuangcdn.com
 chuangcifang.com
 chuangen.com
-chuangfeixin.com
 chuangjiangx.com
 chuangke18.com
 chuangkem.com
@@ -35873,7 +35870,6 @@ ios.rqd.qq.com
 ios8.app
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
-iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com

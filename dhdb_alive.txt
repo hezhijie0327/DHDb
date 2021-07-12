@@ -26112,6 +26112,7 @@ askona.ru
 askpanda.cc
 askququ.com
 askstudent.com
+asktao.17173.com
 asktao.com
 askubuntu.com
 askwx.com
@@ -41827,6 +41828,7 @@ chinaceotv.com
 chinacfi.net
 chinacfo.net
 chinacft.org
+chinacg.org
 chinacgv.com
 chinachange.org
 chinachannel.hk
@@ -119459,7 +119461,6 @@ nayao.com
 nayatec.com
 nayax.com
 nayei.com
-nazaki.duckdns.org
 nazari.org
 nazarvitalik.000webhostapp.com
 nazi.net
@@ -143232,7 +143233,6 @@ s3.us-east-1.amazonaws.com
 s3.us-east-2.amazonaws.com
 s3.us-west-2.amazonaws.com
 s3.video2.stream.vidzi.tv
-s3.videos.videos.vidto.me
 s3.vidtod.me
 s3.vip.wpscdn.cn
 s3.web.flashx.co

@@ -2145,6 +2145,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
+2.asia.pool.ntp.org
 2.bashenghuo.com
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -7404,7 +7405,6 @@ a0bi.com
 a0buy.top
 a0c00.com
 a0c77.com
-a1.0s.net.cn
 a1.99933.cn
 a1.99966.cn
 a1.aichagu.com
@@ -33010,7 +33010,6 @@ hui20.com
 hui800.com
 hui800.net
 huian.baixing.com
-huibenbeno.win
 huibo.com
 huicaiba.com
 huicaishui.net

@@ -7044,7 +7044,6 @@
 987app.com
 987jx.net
 987you.com
-988001.com
 9895070.com
 98a.ink
 98dda0a1833b3dd0453f2ec89ca94e9f.safeframe.googlesyndication.com
@@ -12767,7 +12766,6 @@ bfyx.net
 bfzhuce.com
 bg.v4.a.dl.ws.microsoft.com
 bg0.market.xiaomi.com
-bg1.market.xiaomi.com
 bg4.v4.a.dl.ws.microsoft.com
 bg4r2i0.cachenode.cn
 bgbk.org
@@ -42166,6 +42164,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn

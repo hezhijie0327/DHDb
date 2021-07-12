@@ -7479,7 +7479,6 @@ a4sswv.tdum.alibaba.com
 a5.baidupan.com
 a5.net
 a5032fb8c79415d4.qaxcloudwaf.com
-a5595.net
 a565fba3c92c8d295113dc38ac7e9dac.dlied1.cdntips.net
 a57cvn.tdum.alibaba.com
 a5805.com
@@ -35865,6 +35864,7 @@ ios.rqd.qq.com
 ios8.app
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
+iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -43208,6 +43208,7 @@ m.lenovo.com.cn.wscdns.com
 m.lizhi.fm
 m.lousivency.com.cn
 m.lu.sogou.com
+m.m19ud.cn
 m.mafengwo.cn
 m.maiduoer.com
 m.man66966.top

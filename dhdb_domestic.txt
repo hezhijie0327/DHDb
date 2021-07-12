@@ -10618,7 +10618,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -54781,7 +54780,6 @@ rologo.com
 rom100.com
 romanian.cri.cn
 romanting.com
-romgv.com
 romhui.com
 romjd.com
 romleyuan.com
@@ -56003,7 +56001,6 @@ sddermyy.com
 sddeznsm.com
 sddh.online
 sddnserror1.wo.com.cn
-sddnserror2.wo.com.cn
 sddnserror6.wo.com.cn
 sdebank.com
 sdeca.org

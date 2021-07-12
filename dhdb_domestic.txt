@@ -2673,7 +2673,6 @@
 27com.com
 27dt.com
 27ee7cde34e103be2b6a078c700fd292.safeframe.googlesyndication.com
-27hhh.com
 27lmfq.com
 27lvpai.com
 27ws.com
@@ -16946,7 +16945,6 @@ chinauo.com
 chinauos.com
 chinaupa.com
 chinaups.com
-chinaus-maker.org
 chinaus.com
 chinavalin.com
 chinavalue.net
@@ -18144,6 +18142,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc

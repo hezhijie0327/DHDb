@@ -42206,7 +42206,6 @@ log.tpns.tencent.com
 log.trackingio.com
 log.u.wps.cn
 log.umsns.com
-log.uu.163.com
 log.v2.hunantv.com
 log.vcgame.cn
 log.voicecloud.cn

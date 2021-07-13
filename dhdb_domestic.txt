@@ -8338,7 +8338,6 @@ ads.mojicdn.com
 ads.oneway.mobi
 ads.privacy.qq.com
 ads.reader.yueyouxs.com
-ads.service.kugou.com
 ads.serving-sys.cn
 ads.sina.com
 ads.sohu.com
@@ -35864,7 +35863,6 @@ ios.rqd.qq.com
 ios8.app
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
-iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -43332,7 +43330,6 @@ m.youku.com
 m.youlai.cn
 m.youshu.cc
 m.yoyi.com.cn
-m.yqqlm.vip
 m.ys137.com
 m.yxixy.com
 m.yxwoo.com
@@ -61465,7 +61462,6 @@ teddymobile.cn
 teddymobile.net
 tee7.com
 teein.com
-teeker.com
 teemm.com
 teemmm.com
 teencn.com
@@ -63102,7 +63098,6 @@ ttbbss.com
 ttcad.com
 ttdailynews.com
 ttdong.com
-ttf5.net
 tthbw.com
 ttic.cc
 ttime.com

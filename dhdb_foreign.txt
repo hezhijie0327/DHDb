@@ -3738,7 +3738,6 @@
 49w.cc
 4a385673fff4594fe9f0cff8a1e0ae04.clo.footprintdns.com
 4a40.com
-4afcp.com
 4apx.com
 4async.com
 4b2b34ba098d20b821cd62151ad2c82f.clo.footprintdns.com
@@ -34679,7 +34678,6 @@ download.pdfforge.org
 download.qoo-app.com
 download.sd.baidu.com
 download.synology.com
-download.visualstudio.microsoft.com
 download.weatherblink.com
 download.windowsupdate.com
 download.windowsupdate.nsatc.net

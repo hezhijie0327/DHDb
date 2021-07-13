@@ -1914,7 +1914,6 @@
 2.biqle.ru
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
-2.centos.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.courier2-push-apple.com.akadns.net
 2.cr.rs
@@ -27171,6 +27170,7 @@ cncnki.com
 cncoolm.com
 cncrivals.com
 cncszs.com
+cnctui.com
 cncurrent.com
 cncye.com
 cncz360.com
@@ -31563,6 +31563,7 @@ dao6.net
 daoc.net
 daocatdongphuong.com
 daochu66.com
+daodaoliang.com
 daodianfu.com
 daododo.com
 daodu14.jigsy.com
@@ -53582,6 +53583,7 @@ icover.ru
 icp-prodpf-atm.trafficmanager.net
 icp21.com
 icpc-chinesepen.org
+icpdaili.com
 icps.com.ua
 icq.com
 ics.com
@@ -86164,6 +86166,7 @@ rdtcnt.laredoute.fr
 rdtdlv.laredoute.fr
 rdtk.io
 rdwwke.woodlanddirect.com
+rdyjs.com
 re-store.ru
 re-trust.com
 re.etowns.net

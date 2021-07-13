@@ -12505,7 +12505,6 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -18665,6 +18664,7 @@ code.kmf.com
 code.ljwit.com
 code.ts166.net
 code.ttpaper.com
+code.tui80.com
 code4apk.com
 code666.com
 code668.com
@@ -53881,7 +53881,6 @@ qyz6oa7l.v1d.szbdyd.com
 qyz7x.tdum.alibaba.com
 qz.esf.fang.com
 qz123.com
-qz2588.com
 qz828.com
 qz930.com
 qz96811.com

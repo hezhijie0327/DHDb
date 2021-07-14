@@ -1283,6 +1283,7 @@
 1.url.cn
 1.url.cn.sched.px-dk.tdnsv6.com
 1.v-x.com.cn
+1.vsimg.com
 1.wenzhangba.cn
 1.win7sky.com
 1.www.s81c.com
@@ -72000,7 +72001,6 @@ gaore.com
 gaosan.com
 gaosboy.com
 gaoshou.me
-gaoshouvr.com
 gaoshouyou.com
 gaosiedu.com
 gaosivip.com
@@ -103803,7 +103803,6 @@ lengersyachts.com
 lenget.com
 lenggirl.com
 lengow.com
-lengqing.org
 lengxiaohua.com
 lengziyuan.com
 lengzzz.com

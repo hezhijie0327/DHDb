@@ -18127,7 +18127,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -39689,7 +39688,6 @@ kkx.net
 kkyoo.com
 kkyuedu.com
 kkzj.com
-kl.mieyisi.com
 kl321.com
 kl688.com
 klandk.com
@@ -57107,7 +57105,6 @@ shfinancialnews.com
 shfq.com
 shfrp.com
 shfxjy.cn
-shgao.com
 shgaoxin.net
 shgci.com
 shggz.b2b.huangye88.com
@@ -61864,7 +61861,6 @@ tianfusoftwarepark.com
 tianhaohz.com
 tianhejiayi.com
 tianhongdiaosu.com
-tianhongsunshine.com
 tianhuicun.com.cn
 tianhujy.com
 tianjian.cc

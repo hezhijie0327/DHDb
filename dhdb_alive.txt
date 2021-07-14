@@ -17830,7 +17830,6 @@ adobeedu.com
 adobeexchange.com
 adobeexperienceawards.com
 adobegov.com
-adobehiddentreasures.com
 adobeid-na1.services.adobe.com
 adobeid.services.adobe.com
 adobeku.com
@@ -29872,7 +29871,6 @@ bbs.chinaunix.net
 bbs.comefromchina.com
 bbs.csdn.net
 bbs.dedecms.com
-bbs.diaosiqingnian.com
 bbs.dmhy.org
 bbs.dmzj.com
 bbs.ecstart.com
@@ -36651,6 +36649,7 @@ bytereef.github.io
 bytereef.org
 bytes.com
 byteside.com
+bytexns.com
 bytextv.com
 bytick.com
 bytint.com
@@ -97420,6 +97419,7 @@ jp.hao123.com
 jp.moc.gov.tw
 jp.net
 jp.pandora.tv
+jp.pool.ntp.org
 jp.rti.org.tw
 jp.schroders.email
 jp.xinhuanet.com
@@ -104344,7 +104344,6 @@ lhwill.com
 lhwytj.com
 lhycnc.byf.com
 lhzhang.com
-lhzjz.com
 lhzly.com
 lhzq.com
 li-ca.com
@@ -106588,7 +106587,6 @@ log.zongheng.com
 log.zuimeitianqi.com
 log000.goo.ne.jp
 log001.cmpassport.com
-log1.17173.com
 log1.cmpassport.com
 log1.kuwo.cn
 log1.olark.com

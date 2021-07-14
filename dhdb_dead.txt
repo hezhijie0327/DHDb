@@ -257,7 +257,6 @@
 10010ll.com
 10030088.com
 10086.cn.baidu.cdn.yiwk.com
-100ayrc.com
 100bo100.com
 100dangong.com
 100du.us
@@ -3548,6 +3547,7 @@ adnetworks.co.jp
 adnonstop.com
 adnsafe.org
 adobe-identity.com
+adobe.myactivedirectory.com
 adobecc.com
 adobecces.com
 adobeccstatic.com
@@ -25705,6 +25705,7 @@ shouxue001.com
 show-msgch.qq.com
 show.13wnjs.com
 show.findqc.com
+show.kc.taotaosou.com
 show.kuanp.com
 show.ninh.xyz
 show.niqiu99.org

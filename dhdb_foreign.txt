@@ -14125,6 +14125,7 @@ apiserver-freya.net.daraz.com
 apiserver-wlan-switch.net.daraz.com
 apiserver.r-is-1-2.net.daraz.com
 apiserverlib-ht-2.net.daraz.com
+apisnd.heytapmobi.com
 apisof.net
 apisyouwonthate.com
 apitilt.com
@@ -28762,7 +28763,6 @@ cordial.io
 core.ad20.net
 core.adservingfactory.com
 core.arc.io
-core.bruynzeelkeukens.nl
 core.gcp.vip.tantanapp.com
 core.royalads.net
 core.spreedly.com

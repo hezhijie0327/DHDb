@@ -7756,6 +7756,7 @@ ac.jice.io
 ac.mmstat.com
 ac.o2.qq.com
 ac029063571fb6f1f3de5c908b3c3778.safeframe.googlesyndication.com
+ac1.786ip.com
 ac1.pingpingw.com
 ac14f0de04fdcd4a-cl2.qcloudcjgj.com
 ac268.com
@@ -15392,6 +15393,7 @@ cdn-xalbum2.xiaoniangao.cn
 cdn-xphoto2.xiaoniangao.cn
 cdn-xyx.raink.com.cn
 cdn-zjk-trans.dingtalk.com
+cdn.000714.xyz
 cdn.0i-i0.com
 cdn.10bests.com
 cdn.10bests.com.w.kunlungr.com
@@ -16063,6 +16065,7 @@ channel.vaptcha.net
 channel.vaptcha.net.w.cdngslb.com
 channel2-account-ssl.xunlei.com
 channel3-account-ssl.xunlei.com
+channelray.com
 channeltrack.yy.com
 chanpay.com
 chanpin100.com

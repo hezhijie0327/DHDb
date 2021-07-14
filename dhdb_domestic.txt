@@ -10165,6 +10165,7 @@ api.ijunhai.com
 api.ilikemanga.com
 api.im.qcloud.com
 api.im.weibo.cn
+api.imqtyik.com
 api.inews.qq.com
 api.inmeng.net
 api.installer.xiaomi.com
@@ -34676,7 +34677,6 @@ ilovelvxing.com
 ilovematlab.cn
 iloveyou14.com
 iloveyou3412.com
-iloveyouxi.com
 ilovezuan.com
 iloxp.com
 ilqsh.com
@@ -38542,7 +38542,6 @@ juben68.com
 juben98.com
 juc365.com
 jucanw.com
-jucelin.com
 jucheng01.net
 judacdn.com
 judouapp.com

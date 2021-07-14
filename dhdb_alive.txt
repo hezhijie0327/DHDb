@@ -1016,7 +1016,6 @@
 0912app.com
 0913sf.com
 0914cn.com
-0915154.com
 0915home.com
 091601.com
 0916auto.com
@@ -16691,7 +16690,6 @@ ad.docer.pl
 ad.doganburda.com
 ad.domainfactory.de
 ad.donanimhaber.com
-ad.doubanio.com
 ad.doubleclick.net
 ad.doublemax.net
 ad.download.cnet.com
@@ -34358,7 +34356,6 @@ bobcat.com
 bobcat.floriangaechter.com
 bobcat.snapshooter.io
 bobcfc.com
-bobcoder.cc
 bobi.tw
 bobidc.com
 bobik.playflock.com
@@ -53804,6 +53801,7 @@ delivery.thebloggernetwork.com
 delivery.trafficfabrik.com
 delivery.us.myswitchads.com
 delivery.vtc.vn
+delivery.vtcnew.com.vn
 delivery.wasu.cn
 delivery.yeah1media.vn
 delivery.yomedia.vn
@@ -162737,7 +162735,6 @@ tech.douximo.cn
 tech.flexport.com
 tech.hellobya.cn
 tech.ifeng.com
-tech.ifeng.com.lxdns.com
 tech.jiukang.org
 tech.sina.cn
 tech.sina.com.cn

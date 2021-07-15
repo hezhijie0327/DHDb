@@ -1355,7 +1355,6 @@
 1546682.b2b.jinanfa.cn
 1548731.sched.s2.tdnsv5.com
 155.com
-155175.com
 1554369.p23.tc.cdntip.com
 155idc.com
 156zy.com
@@ -2144,7 +2143,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.asia.pool.ntp.org
 2.bashenghuo.com
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -4460,7 +4458,6 @@
 52112.com
 5211game.com
 52177.com
-521che.com
 521g.com
 521g.org
 521logo.com
@@ -26563,7 +26560,6 @@ fengyan.cc
 fengyitong.name
 fengyiyi.com
 fengyuncx.com
-fengyunlive.com
 fengyunpdf.com
 fengyushan.com
 fengyx.com
@@ -34791,6 +34787,7 @@ image2.sina.com.cn
 image3.ccb.com
 image66.top2099.com
 image82.360doc.cn
+imageaccelerate.com
 imageadv.ccb.com
 imagecache.g.pptv.com
 imagecloud.thepaper.cn

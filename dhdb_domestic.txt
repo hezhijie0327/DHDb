@@ -10150,7 +10150,6 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
-api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -23050,6 +23049,7 @@ download.qianka.com
 download.sangfor.com.cn
 download.sdk.mob.com
 download.unitychina.cn
+download.visualstudio.microsoft.com
 download.vzuu.com
 download.wan.sohu.com
 download.wegame.qq.com

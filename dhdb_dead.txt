@@ -710,6 +710,7 @@
 1kapp.co
 1kj.tv
 1lib.cn
+1lib.uk
 1look.tv
 1mall.com
 1mayi.com
@@ -816,6 +817,7 @@
 21mmo.com
 21ou.com
 21tyn.com
+21yinxiang.com
 22-dns.com
 22.3.wwwhost.biz
 22.404.mn
@@ -17225,7 +17227,7 @@ kanfaxing.com
 kanfou.net
 kanggui.com
 kanghuayun.com
-kangle.net
+kangleweb.net
 kangre.com
 kangshijd.com
 kangye.org
@@ -18461,6 +18463,7 @@ logs.datadoghq.eu
 logs.insight.rapid7.com
 logs.newapi.com
 logs.ptable.com
+lohaa.com
 lol.bash.org.ru
 lol.pnhfc.com
 lol35.ddns.net
@@ -22954,7 +22957,6 @@ pf.h5game.cn
 pfr.anistar.ru
 pfujaih.localdomain
 pg-bra.com
-pg-leak.com
 pg.it
 pg0.cn
 pg1212.com
@@ -27593,7 +27595,6 @@ tor.monerise.com
 torcvb.com
 torhea.org
 torrent.gresille.org
-torrent.nwps.ws
 torrent.tdjs.tech
 torrentsmd.me
 torrenty.org

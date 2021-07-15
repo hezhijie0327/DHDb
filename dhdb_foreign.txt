@@ -1826,7 +1826,6 @@
 1lib.net
 1lib.nl
 1lib.org
-1lib.uk
 1lib.us
 1m.net
 1m6.cc
@@ -60299,7 +60298,6 @@ kangdiy.blogspot.in
 kangepian.com
 kanghui.com
 kanglesoft.com
-kangleweb.net
 kangmeigym.com
 kango-roo.com
 kangongyu.com
@@ -91664,6 +91662,7 @@ sfwe4cg41413243tf.com
 sfxl.com.cn
 sfzc.org
 sg-cdn.effectivemeasure.net
+sg-media-usor-01.s3.amazonaws.com
 sg-mg61.mail.yahoo.com
 sg-pls.com
 sg-zxc.serverip.co
@@ -104056,6 +104055,7 @@ torrent-downloads.to
 torrent.arjlover.net
 torrent.eu.org
 torrent.fedoraproject.org
+torrent.nwps.ws
 torrent.pw
 torrent.resonatingmedia.com
 torrent.rexjohannes.repl.co

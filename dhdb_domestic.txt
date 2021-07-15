@@ -23060,6 +23060,7 @@ download.zhushou.sogou.com
 download.zjsyawqj.cn
 download.zzb6.cn
 download1.xmcdn.com
+download2.ctrip.com
 download2.ctrip.com.a.bdydns.com
 download2.ctrip.com.wswebcdn.com
 download2.xmcdn.com
@@ -44872,7 +44873,6 @@ milkiy.com
 million-api.aiclk.com
 millll.net
 millnovel.com
-milo-star.com
 miloktv.com
 miloli.info
 milu.com

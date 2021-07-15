@@ -12498,6 +12498,7 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -23715,7 +23716,6 @@ duost.com
 duotai.co
 duotai.net
 duote.com
-duote.org
 duotegame.com
 duotoupiao.com
 duouoo.com
@@ -37579,7 +37579,6 @@ jinsebook.com
 jinsehuaqin.com
 jinshakemei.com
 jinshangdai.cc
-jinshangdai.com
 jinshanju.com
 jinshare.com
 jinshisoft.com
@@ -53905,7 +53904,6 @@ r-tms.net
 r.99waiyu.com
 r.alicpd.top
 r.alimc1.top
-r.browser.miui.com
 r.bxb.oupeng.com
 r.djsn888.com
 r.dmp.sina.cn

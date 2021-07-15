@@ -10235,7 +10235,6 @@
 668100009.com
 668100010.com
 668100050.com
-6681888.com
 668200000.com
 668200080.com
 668200600.com
@@ -38984,7 +38983,6 @@ cc.hb.omtrdc.net
 cc.m.jd.com
 cc.maotuying.com
 cc.map.qq.com
-cc.moquanad.com
 cc.pennstatehealth.org
 cc.res.netease.com
 cc.st
@@ -144040,7 +144038,6 @@ s4.hy.qcloudcdn.com
 s4.hy.qcloudcdn.com.s4.cdntip.com
 s4.mini.wpscdn.cn
 s4.music.126.net
-s4.parkeren-amsterdam.com
 s4.ssl.qhimg.com
 s4.tool.lu
 s4.url.cn
@@ -149642,7 +149639,6 @@ shqswlgs.com
 shqxp.com
 shrail.com
 shrbank.com
-shrca.org
 shrcdy.com
 shrek.6.cn
 shrenqi.com

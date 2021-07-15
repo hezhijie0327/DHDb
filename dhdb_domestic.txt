@@ -10515,6 +10515,7 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -23035,7 +23036,6 @@ download.effie.co
 download.elemecdn.com
 download.fuyuncc.com
 download.game.yy.com
-download.gfe.nvidia.cn
 download.gmugmu.com
 download.gmugmu.com.w.cdngslb.com
 download.jr.jd.com
@@ -51925,6 +51925,7 @@ qdaeon.com
 qdaiduo.com
 qdaily-test-1014796965.cn-northwest-1.elb.amazonaws.com.cn
 qdaily.com
+qdailyapp.com
 qdall01.baidupcs.com
 qdbdsk.com
 qdcaijing.com

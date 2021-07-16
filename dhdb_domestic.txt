@@ -8022,7 +8022,6 @@ ad.dedecms.com
 ad.dev.360.cn
 ad.doubanio.com
 ad.doubleclick.net
-ad.duapps.com
 ad.duomi.com
 ad.dzwindows.com
 ad.dzwww.com
@@ -33051,7 +33050,6 @@ huilongsen.com
 huilv.ccsw003.com
 huilvwang.com
 huim.com
-huiman.net
 huimee.com
 huimee.net
 huimengya.com
@@ -48634,6 +48632,7 @@ osx.dianping.com
 osx.dianping.com.s2txipv6.cdntip.com
 osx.dpfile.com
 osx.dpfile.com.s2txipv6.cdntip.com
+osxapps.itunes.apple.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
 osxapps.itunes.g.aaplimg.com

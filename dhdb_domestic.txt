@@ -7316,6 +7316,7 @@ a.cnzz.com.gds.alibabadns.com
 a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
+a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -13243,7 +13244,6 @@ bjhzkq.com
 bjiab.com
 bjidc.net
 bjidit.com
-bjilife.com
 bjipwqzx.com
 bjiwex.com
 bjjabc.com
@@ -35010,7 +35010,6 @@ img.huxiucdn.com
 img.huzhi.org.cn
 img.idongde.com
 img.ifeng.com
-img.ifeng.com.lxdns.com
 img.imgdb.cn
 img.imooc.com
 img.iplaysoft.com
@@ -35076,7 +35075,6 @@ img.t.sinajs.cn
 img.t58b.com
 img.taobaocdn.com
 img.taobaocdn.com.danuoyi.tbcache.com
-img.taotaosou.cn
 img.tapimg.com
 img.tencentmusic.com
 img.tenpay.com

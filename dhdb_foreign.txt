@@ -566,7 +566,6 @@
 1.bb6688.ws
 1.car21.net.daraz.com
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -5231,6 +5230,7 @@
 7208853.hitslink.com
 720diving.com
 720pmovie.com
+720wang.com
 720yes.com
 7211.com
 72177.com
@@ -7842,7 +7842,6 @@ ab.adobe-identity.com
 ab.advertiserurl.com
 ab126.com
 ab13.mktossl.com
-ab1988.com
 ab26b7c626fe69b7fa32a5d64b0a8140.clo.footprintdns.com
 ab8998.com
 aba.com
@@ -10057,7 +10056,6 @@ ads.mdchoice.com
 ads.mediamayhemcorp.com
 ads.mediaodyssey.com
 ads.mediasmart.es
-ads.mediaturf.net
 ads.medienhaus.de
 ads.meetcelebs.com
 ads.mefeedia.com
@@ -29008,6 +29006,7 @@ count3.51yes.com
 count31.51yes.com
 count32.51yes.com
 count33.51yes.com
+count35.51yes.com
 count36.51yes.com
 count37.51yes.com
 count38.51yes.com
@@ -54617,7 +54616,6 @@ img.2222.moe
 img.2ddl.ms
 img.3lift.com
 img.7clink.com
-img.acgjc.com
 img.adnyg.com.w.kunlungr.com
 img.ak.impact-ad.jp
 img.antelopeaudio.com
@@ -66754,7 +66752,6 @@ mangareader.net
 mangarock.club
 mangashot.com
 mangasum.com
-mangg.com
 mangguo.com
 mangler1.generals.ea.com
 mangler2.generals.ea.com
@@ -84945,7 +84942,6 @@ qqjlb2.com
 qqjlb3.com
 qqjlb4.com
 qqjlb6.com
-qqjlb7.com
 qqjlb8.com
 qqkeee.com
 qqkw.net

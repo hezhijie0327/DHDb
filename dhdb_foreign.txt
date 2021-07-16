@@ -4,6 +4,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -10277,7 +10278,6 @@ ads.thanhnien.vn
 ads.thecoolhunter.net
 ads.thecrimson.com
 ads.thefrisky.com
-ads.themxua.net
 ads.theolympian.com
 ads.thesaigontimes.vn
 ads.thestar.com
@@ -82781,7 +82781,6 @@ pp51.com
 pp5789.com
 pp59.net
 pp699.net
-pp8d.com
 pp9444.com
 pp9570.com
 ppa18.com
@@ -85961,7 +85960,6 @@ r6---sn-5uaeznkl.googlevideo.com
 r6---sn-5ualdn7r.googlevideo.com
 r6---sn-a5m7lnlz.googlevideo.com
 r6---sn-a5mekn7d.googlevideo.com
-r6---sn-a5mekn7k.googlevideo.com
 r6---sn-a5mekne7.googlevideo.com
 r6---sn-a5mekned.googlevideo.com
 r6---sn-a5meknee.googlevideo.com
@@ -93188,6 +93186,7 @@ sjfkai.com
 sjg007.com
 sjg117.com
 sjg228.com
+sjgnskf.com
 sjhs.pw
 sjhs02.com
 sjhy.net

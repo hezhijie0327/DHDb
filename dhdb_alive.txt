@@ -10203,7 +10203,6 @@
 66460.com
 6655.com
 6655.la
-6656pk.com
 6661309.com
 6661666.net
 66630.com
@@ -23856,6 +23855,7 @@ api-panov2.720yun.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
 api-pl.kdrag0n.dev
+api-pricetag.dmall.com
 api-priconne-redive.cygames.jp
 api-prod.leancloud.cn
 api-public.addthis.com
@@ -32560,6 +32560,7 @@ biz.directenergy.com
 biz.gexing.com
 biz.live.xunlei.com
 biz.locoguide.co.jp
+biz.mkt.global.dnp.co.jp
 biz.optage.co.jp
 biz.paypay.ne.jp
 biz.persol-tech-s.co.jp
@@ -109115,7 +109116,6 @@ m.xt2d.cn
 m.xuexila.com
 m.xw294.com
 m.xxjjfs.cn
-m.xxkio.com
 m.xyadaa.com
 m.xyadxia.com
 m.xylmdm.top
@@ -110079,7 +110079,6 @@ makefang.com
 makefont.com
 makeitopen.com
 makeleaps.com
-makelove.la
 makemymood.com
 makemytrip.com
 makeoffices.com

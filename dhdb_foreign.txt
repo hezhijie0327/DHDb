@@ -2805,7 +2805,6 @@
 319dn.dieti-natura.com
 31a.vip
 31alu.com
-31bear.com
 31bxg.com
 31byq.com
 31bzjx.com
@@ -82377,7 +82376,6 @@ pool.graft.hashvault.pro
 pool.minexmr.com
 pool.nimiq-network.com
 pool.nimiq.watch
-pool.ntp.org
 pool.supportxmr.com
 pool.tdcoincore.org
 pool.torrent.pw

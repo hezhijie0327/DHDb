@@ -11967,7 +11967,6 @@ bansha.com
 banshier.com
 bantangapp.com
 bantangbuy.com
-banwojia.com
 banxuewx.com
 banyou.la
 banyuetan.org
@@ -29468,6 +29467,7 @@ guanaitong.com
 guanchangcun.com
 guanchao.site
 guandan.com
+guandang.net
 guandata.com
 guandian.cn
 guandongphoto.com
@@ -42127,6 +42127,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -47856,7 +47857,6 @@ ocsp.digicert.cn
 ocsp.digicert.cn.w.cdngslb.com
 ocsp.pki.goog
 ocsp.us.cdnetworks.com
-ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
 ocsp2.g.aaplimg.com
 ocsp3.sheca.com
@@ -49602,7 +49602,6 @@ pcmgr-global.com
 pcminitj.dftoutiao.com
 pcmoe.net
 pcmx.autohome.com.cn
-pcnsh.com
 pcoic.com
 pcookie.aliexpress.com
 pcookie.cnzz.com
@@ -50632,7 +50631,6 @@ popup.jointreport-switch.com
 popup2.dftoutiao.com
 poputar.com
 popziti.com
-pork.2tumeng.com
 porschesky.com
 port.sec.miui.com
 portablesoft.org

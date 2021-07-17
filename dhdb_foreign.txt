@@ -6710,7 +6710,6 @@
 99jre.com.stat001.com
 99kav.com
 99kmt.com
-99leto.com
 99letou.com
 99meili.com
 99music.net
@@ -41726,6 +41725,7 @@ flidc.net
 fliggy.hk
 flightb1a4.com
 flightnetwork.com
+flightproxy-asea-02-teams.cloudapp.net
 flightproxy-asse-02-teams.cloudapp.net
 flightproxy-asse-03-teams.cloudapp.net
 flightproxy-asse-05-teams.cloudapp.net
@@ -61232,7 +61232,6 @@ klscdn.com
 klsecurity.com
 klsg.net
 kltdo.com
-klxkc.com
 klxq.icu
 klxsw.com
 km.1024ky.biz
@@ -79426,7 +79425,6 @@ pamdrivingjobs.com
 pampered-chefs.com
 pampling.com
 pampopholf.com
-pampshare.com
 pan.render.com
 pan.tjcloud.tech
 pan58.com

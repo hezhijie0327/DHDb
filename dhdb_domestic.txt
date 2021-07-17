@@ -10510,7 +10510,6 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -39051,7 +39050,6 @@ k9gdbfhl.sched.d0.tdnsv5.com
 ka.18183.com
 ka.m.gamedog.cn
 ka.shwslmz.com
-ka114.net
 kaadas.com
 kaayou.com
 kaayun.com
@@ -40288,7 +40286,6 @@ kyppt.com
 kysec.cn
 kyw4y0s.com
 kyxdloan.com
-kyxnz.cn
 kyy6.com
 kzj365.com
 kzsiee.com
@@ -42324,7 +42321,6 @@ loncin.com
 loncinindustries.com
 london9999.com
 lonery.com
-long-termproperty.com
 long.weixin.qq.com
 long.zu.anjuke.com
 long5.com

@@ -27828,6 +27828,7 @@ galaxystore.ad-survey.com
 galend.gallerycdn.azure.cn
 galiaoba.com
 galitv.alicdn.com
+galleon.dmall.com
 galleryapi.micloud.xiaomi.net
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
@@ -32618,7 +32619,6 @@ htkaoyan.com
 htky365.com
 html.696157.com
 html.atm.youku.com
-html.keran.hl.cn
 html.shibeiou.com
 html2.qktoutiao.com
 html5.mail.10086.cn
@@ -36660,7 +36660,6 @@ j.sousoudus.com
 j.wan.liebao.cn
 j.wit.qq.com
 j.xingshangnet.com
-j.xinshipu.com
 j.youzan.com
 j.zykxjt.com
 j1.58cdn.com.cn
@@ -47021,7 +47020,6 @@ nfc315.com
 nfcmag.com
 nfcws.hicloud.com
 nfdnserror11.wo.com.cn
-nfdnserror15.wo.com.cn
 nfdnserror17.wo.com.cn
 nffair.com
 nffund.com
@@ -53367,6 +53365,7 @@ quanmin110.com
 quanminbagua.com
 quanminbb.com
 quanminyanxuan.com
+quanqiuwa.com
 quanquanapp.net
 quanriai.com
 quanshi.com

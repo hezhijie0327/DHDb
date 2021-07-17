@@ -6690,6 +6690,7 @@
 999wx.com
 999xs.com
 999zclc.com
+99ac-503270-tencent-hongkong-liveperso.d1.teridioncloud.net
 99acres.com
 99afcp.com
 99av.tv
@@ -24270,7 +24271,6 @@ cdn-1.gamecoast.org
 cdn-102.statdynamic.com
 cdn-145.privacy-mgmt.com
 cdn-146.privacy-mgmt.com
-cdn-2.gamecoast.org
 cdn-7n-pt.zbwowo.com
 cdn-adn.rayjump.com
 cdn-ads.thesaigontimes.vn
@@ -71113,7 +71113,6 @@ miv.ububyiw6655.xyz
 mivyyq.safeandfair.com
 mix-collecte-it-prod-1582605754.ap-northeast-2.elb.amazonaws.com
 mix.com
-mix.kinostuff.com
 mix.moe
 mix.tokyo
 mixaton.000webhostapp.com

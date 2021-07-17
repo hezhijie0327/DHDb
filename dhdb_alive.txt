@@ -52650,6 +52650,7 @@ data.bilicdn2.com
 data.bilivideo.com
 data.bizographics.com
 data.blog
+data.campaign.prenatal.com
 data.caroda.io
 data.chinaz.com
 data.choujue.net
@@ -59871,7 +59872,6 @@ dzbapp.com
 dzbarcode.com
 dzbchina.com
 dzblxx.com
-dzbmama.com
 dzboligang.com
 dzcj.tv
 dzcmedu.com
@@ -94764,6 +94764,7 @@ j2j.ru
 j2objc.org
 j32aa.com
 j35.co
+j35897.com
 j3hwmp9uprdrkwnev3npevj7mlt2x1620916487.nuid.imrworldwide.com
 j3l9dp8i.sched.s2-dk.tdnsv5.com
 j3pz.com
@@ -130752,6 +130753,7 @@ php5.idv.tw
 php5.ml
 php7.site
 phpa.ns.emailvision.net.daraz.com
+phpad.cqnews.net
 phpads.astalavista.us
 phpads.foundrymusic.com
 phpadsnew.new.natuurpark.nl

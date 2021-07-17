@@ -454,6 +454,7 @@
 083332.com
 08350c02a8103d54ef66f26d33b157d0.clo.footprintdns.com
 0838.com
+083ld.com
 084ld.com
 0852e.com
 0853rc.com
@@ -1735,6 +1736,7 @@
 195zzzz195.com
 196.169.208.183.zz.countries.nerd.dk
 196.n1g.org
+1961010.com
 197.216.77.120.zz.countries.nerd.dk
 1975blr.com
 197888.com
@@ -12543,7 +12545,6 @@ ambientbp.com
 ambientedirect.com
 ambit.chat
 ambitvpn.com
-ambjl20.com
 amblrgg.co
 amblrgg.live
 ambow.com
@@ -13951,6 +13952,7 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -45317,7 +45319,6 @@ gitlib-oa-1.net.daraz.com
 gitmemory.com
 gitnova.com
 gitos.net
-gitpapa.com
 gitpod.io
 gitstar.com
 gitstar.net

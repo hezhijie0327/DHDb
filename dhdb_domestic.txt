@@ -1912,6 +1912,7 @@
 1905.com
 1905210.s1txipv6.cdntip.com
 1905kk.com
+19119v.com
 19119x.com
 19196.com
 1919game.net
@@ -10134,6 +10135,7 @@ api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -28968,7 +28970,6 @@ goldhoe.com
 goldlvshi.com
 goldmantis.com
 goldmarkrealestate.com
-golfchinese.com
 golfvv.com
 golink.com
 golinksworld.com

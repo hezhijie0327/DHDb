@@ -16861,7 +16861,6 @@ ad.myapple.pl
 ad.myinstashot.com
 ad.mynetreklam.com.streamprovider.net
 ad.nachtagenten.de
-ad.namba.net
 ad.napilapcsoport.hu
 ad.naver.com
 ad.ne.com
@@ -74073,6 +74072,7 @@ glawyer.net
 glaze.ai
 glb-db52c2cf8be544.github.com
 glb.assrt.net
+glbdns.com
 glbdqn.com
 glcanyin.net
 glcct.com

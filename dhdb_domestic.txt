@@ -4911,7 +4911,6 @@
 59706.com
 5976b40368477c0c53f7edc3bc74c3d6.dlied1.cdntips.net
 597rcw.com
-59881.com
 598e28ab2d56060aef2201ec9607985a.safeframe.googlesyndication.com
 598g.com
 598rc.com
@@ -5291,6 +5290,7 @@
 668895.com
 668app.com
 668cp00.com
+668cp77.com
 668cp99.com
 668lw.com
 668map.com
@@ -15445,6 +15445,7 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
+cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -21130,6 +21131,7 @@ dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
+dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -22469,7 +22471,6 @@ dm.jb51.net
 dm.jsyst.cn
 dm.lianzhixiu.com
 dm.pstatp.com
-dm.sanwen8.com
 dm.sb580.com
 dm.taobaojuhuasuan.cn
 dm.toutiao.com
@@ -54135,7 +54136,6 @@ readooapi.youshu.cc
 readtv-assets.oss-cn-qingdao.aliyuncs.com
 readzq.com
 reaer.com
-reai120.com
 realclearprivacy.biz
 realdatamed.com
 realforcechina.com

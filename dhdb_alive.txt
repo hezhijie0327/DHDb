@@ -145,7 +145,6 @@
 009d88.com
 009s4323600.atobo.com
 009y.com
-00afcp.com
 00bx.com
 00c3c50d3b2ce40326f68e9445c7c4d0.dlied1.cdntips.net
 00cdn.com
@@ -12016,6 +12015,7 @@
 8574dnj3yzjace8c8io6zr9u3n.hop.clickbank.net
 8576996.com
 8577511e8b04890436f467749613b1a0.clo.footprintdns.com
+8580368.com
 85814.com
 858244.com
 85843964e6bce16e50e056b6b6c02467.dlied1.cdntips.net
@@ -23952,7 +23952,6 @@ api.browsermine.com
 api.bs.zui.com
 api.btloader.com
 api.btstu.cn
-api.bunzlaucastle.com
 api.bz
 api.callget.cn
 api.cazamba.com
@@ -24337,6 +24336,7 @@ api.viglink.com
 api.vip.miui.com
 api.vitservers.pw
 api.viu.now.com
+api.vlightv.com
 api.vote.cnyw.net
 api.vstsusers.visualstudio.com
 api.vuukle.com

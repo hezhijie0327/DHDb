@@ -26949,7 +26949,6 @@ floor.jd.com.gslb.qianxun.com
 florentiavillage.com
 flow.10010.com
 flow.ci
-flow.dmall.com
 flow.qq.com
 flow.wps.cn
 flowcontroll.dcdn.sandai.net
@@ -40083,6 +40082,7 @@ kubikeji.com
 kuche.com
 kuchuan.com
 kudingyu.com
+kuface.com
 kufangwuyou.com
 kufaxian.com
 kuge.cc

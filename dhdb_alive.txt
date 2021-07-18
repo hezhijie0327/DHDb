@@ -18268,6 +18268,7 @@ ads.horyzon-media.com
 ads.hsoub.com
 ads.huan.tv
 ads.hulu.com.edgesuite.net
+ads.ibest.com.br
 ads.ibryte.com
 ads.icloseli.cn
 ads.icq.com
@@ -32070,7 +32071,6 @@ binance.org
 binance.vision
 binancezh.be
 binancezh.cc
-binancezh.co
 binancezh.com
 binancezh.io
 binaries.templates.cdn.office.net
@@ -53333,6 +53333,7 @@ dd699.net
 dd6zx4ibq538k.cloudfront.net
 dd713.bj.bcebos.com
 dd7474a61d209bac3e80f1d6d5a5b023.safeframe.googlesyndication.com
+dd7q.com
 dd8828.com
 dd935.net
 dd9871.com
@@ -55385,6 +55386,7 @@ dijiu.com
 dijiuban.com
 dijiuke.com
 dijunsm.com
+diketattoo.com
 dikhsb.vividseats.com
 dikudu.com
 dilber.se
@@ -142872,7 +142874,6 @@ rt.com
 rt.flix360.com
 rt.funshion.net
 rt.gsspat.jp
-rt.hxssj.cn
 rt.msk-server.ga
 rt.optizone.ru
 rt.prnewswire.com

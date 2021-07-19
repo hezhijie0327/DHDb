@@ -16336,7 +16336,6 @@ act.commercial.shouji.360.cn
 act.convergencetraining.com
 act.cwsglobal.org
 act.daoju.qq.com
-act.dmall.com
 act.guanjia.qq.com
 act.lanap.com
 act.online.engineering.nyu.edu
@@ -64216,7 +64215,6 @@ esukhia.org
 esun21.com
 esun88.com
 esuniao.com
-esunny.com
 esurance.com
 esw.tymcdn.com
 eswin.com
@@ -102033,7 +102031,6 @@ kyw4y0s.com
 kyxdloan.com
 kyy6.com
 kyzyhello.com
-kz.zf678.com
 kz.zzkoubei.com
 kzeng.info
 kzj365.com
@@ -113258,7 +113255,6 @@ mentadulce.cl
 mentalhealthcommission.ca
 menti.com
 mention.com
-mentono.com
 mentor.com
 menu-live.firebaseio.com
 menu-static.gog-statics.com
@@ -138403,6 +138399,7 @@ quoka.de
 quora.com
 quora.fr
 quora.map.fastly.net
+quora123.com
 quoracdn.net
 quota.com
 quota.fe.apple-dns.cn
@@ -139191,7 +139188,6 @@ r2---sn-a5mekne7.googlevideo.com
 r2---sn-a5mekned.googlevideo.com
 r2---sn-a5meknee.googlevideo.com
 r2---sn-a5meknek.googlevideo.com
-r2---sn-a5meknel.googlevideo.com
 r2---sn-a5mekner.googlevideo.com
 r2---sn-a5mekney.googlevideo.com
 r2---sn-a5mekney.gvt1.com
@@ -147116,7 +147112,6 @@ seed-7.nimiq.network
 seed-8.nimiq-network.com
 seed-8.nimiq.com
 seed-8.nimiq.network
-seed-9.nimiq-network.com
 seed-9.nimiq.com
 seed-9.nimiq.network
 seed-can-1.inf.nimiq.network
@@ -155553,7 +155548,6 @@ ss.freess.org
 ss.he9630.com
 ss.ishadowx.com
 ss.knet.cn
-ss.levyhsu.com
 ss.life
 ss.missyouxi.com
 ss.musthird.com

@@ -10752,7 +10752,6 @@ apusic.com
 aq.qq.com
 aq.zu.anjuke.com
 aqara.com
-aqbxcdn9.com
 aqbz.org
 aqc.gucheng.com
 aqdesk.com
@@ -15652,6 +15651,7 @@ cdzdhx.com
 cdzgh.com
 cdzhinan.com
 cdzikao.com
+cdzimeijia.com
 cdzimo.com
 cdzixun.net
 cdzmn.com
@@ -22461,6 +22461,7 @@ dm.bytedance.com.w.cdngslb.com
 dm.cnbanbao.com
 dm.cqdxun.cn
 dm.gucheng.com
+dm.hxzdhn.com
 dm.jb51.net
 dm.jsyst.cn
 dm.lianzhixiu.com
@@ -26945,6 +26946,7 @@ floor.jd.com.gslb.qianxun.com
 florentiavillage.com
 flow.10010.com
 flow.ci
+flow.dmall.com
 flow.qq.com
 flow.wps.cn
 flowcontroll.dcdn.sandai.net
@@ -31810,6 +31812,7 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -32638,7 +32641,6 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
-httpdns.push.heytapmobi.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
 httpsdns.baidu.com
@@ -41895,7 +41897,6 @@ livinglabs.cc
 liwei.red
 liweijia.com
 liweiliang.com
-liweiyameirong.com
 liwenzhou.com
 liwuhy.com
 liwumaoapp.com
@@ -45986,7 +45987,6 @@ multi-region.kuaishou.com
 multimedia.map.qq.com
 multiopen.cn
 multitv-im-conn.ptqy.gitv.tv
-mulubang.com
 mum.cc
 mum.m.alibaba.com
 mum.m.taobao.com

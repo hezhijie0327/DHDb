@@ -10082,7 +10082,6 @@ api.bigfun.cn
 api.biliapi.net
 api.bilibili.com
 api.biligame.com
-api.browser.miui.com
 api.bs.zui.com
 api.btstu.cn
 api.bz
@@ -13224,7 +13223,6 @@ bjhmedia.jomodns.com
 bjhmedia2.bdstatic.com
 bjhmxx.net
 bjhouse.com
-bjhqs.com
 bjhrkc.com
 bjhtx.com
 bjhtzsgs.com
@@ -16554,7 +16552,6 @@ chinaceotv.com
 chinacfi.net
 chinacfo.net
 chinacft.org
-chinacg.org
 chinachemnet.com
 chinachilun.org
 chinachooses.com
@@ -16644,6 +16641,7 @@ chinagcp.org
 chinagiftsfair.com
 chinagoldcoin.net
 chinagoldgroup.com
+chinagolfindustryexpo.com
 chinagolfshow.com
 chinagp.net
 chinagps.cc
@@ -18112,7 +18110,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -41339,7 +41336,6 @@ license2.bluesoleil.com
 lichangtai.com
 lichengwu.net
 lichenjy.com
-lichensafe.com
 licomsh.com
 licqi.com
 lidazhuang.com
@@ -45184,7 +45180,6 @@ mlyfcyy.com
 mlyric.kuwo.cn
 mm.365dmp.com
 mm.jbzj.com
-mm.moquanad.com
 mm.net
 mm.sfacg.com
 mm.zu.anjuke.com

@@ -23814,7 +23814,6 @@ api-panov2.720yun.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
 api-pl.kdrag0n.dev
-api-pricetag.dmall.com
 api-priconne-redive.cygames.jp
 api-prod.leancloud.cn
 api-public.addthis.com
@@ -26764,7 +26763,6 @@ atos.net
 atown.jp
 atozproxy.com
 atp-autoteile.de
-atp.mxptint.net
 atpanel.com
 atpapapa.com
 atproxy.net
@@ -27347,7 +27345,6 @@ avastin.com
 avatacar.com
 avatar-1254024480.cos.ap-beijing.myqcloud.com
 avatar-static.segmentfault.com
-avatar-txt.quancms.com
 avatar.1point3acres.cn
 avatar.52pojie.cn
 avatar.cdn.gmugmu.com
@@ -69925,7 +69922,6 @@ freedomonthenet.org
 freedomplatform.tv
 freedomsherald.org
 freedota2.wordpress.com
-freedsipoints.co.uk
 freedsn.xyz
 freedur.com
 freefacebook.com
@@ -125694,6 +125690,7 @@ online-prod.zenmxapps.com
 online-verlag-freiburg.de
 online.adservicemedia.dk
 online.aimu-app.com
+online.alexanderforbes.co.za
 online.cnzz.com
 online.euromoney.com
 online.factsmgt.com
@@ -130369,6 +130366,7 @@ pfx.sma-clsystem.info
 pg-ad-b1.nosdn.127.net
 pg-ad-b1.ws.126.net
 pg-ad-b2.ws.126.net
+pg-leak.com
 pg.aty.sohu.com
 pg.sina.cn
 pg.xdrig.com

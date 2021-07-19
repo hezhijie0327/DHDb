@@ -858,7 +858,6 @@
 117.80.252.111.zz.countries.nerd.dk
 11716-45741.ws4.pph-server.de
 1173731.com
-117708.com
 11773885.com
 117show.com
 1180c.ec.azureedge.net
@@ -105292,6 +105291,7 @@ tracker.tntvillage.scambioetico.org
 tracker.torrent.eu.org
 tracker.torrentleech.org
 tracker.torrentsnows.com
+tracker.torrentyorg.pl
 tracker.trackerfix.com
 tracker.trackton.ga
 tracker.tricitytorrents.com

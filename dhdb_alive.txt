@@ -89188,7 +89188,6 @@ images7-content--hci-com.cdn.ampproject.org
 images7.content-hci.com
 images8-content--hci-com.cdn.ampproject.org
 images8.content-hci.com
-images8.gaotie.cn
 images9999.com
 imagescale.gmugmu.com
 imagescale.gmugmu.com.w.cdngslb.com
@@ -97954,6 +97953,7 @@ jskyservices.com
 jskyztc.com
 jsldweb.com
 jslegal.com
+jslog.post.cz
 jslog.zapps.vn
 jslottery.com
 jslwzk.com
@@ -148062,7 +148062,6 @@ sg-pls.com
 sg-zxc.serverip.co
 sg-zxc2.serverip.co
 sg.mmstat.com
-sg.mmstat.com.gds.alibabadns.com
 sg.news.yahoo.com
 sg.pampered-chefs.com
 sg.pool.ntp.org

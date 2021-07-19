@@ -9751,6 +9751,7 @@ antgroup.com
 anti-bot.baidu.com
 anti-bot.n.shifen.com
 antibot.qq.com
+anticheatexpert.com
 antifraud.95516.com
 antifraud.95516.com.wscdns.com
 antileech.cde.letv.com
@@ -18110,6 +18111,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -38993,7 +38995,6 @@ k666.com
 k73.com
 k780.com
 k7u6e0u6.sched.sma-dk.tdnsv5.com
-k8890.com
 k8a39bgn.v1d.szbdyd.com
 k8a7ob5a.v1d.szbdyd.com
 k8c2y2ym.v1d.szbdyd.com
@@ -61332,7 +61333,6 @@ tech.china.com
 tech.ifeng.com
 tech.ifeng.com.lxdns.com
 tech.jiukang.org
-tech.qgdvyvd.cn
 tech.sina.cn
 tech.sina.com.cn
 tech.youku.com

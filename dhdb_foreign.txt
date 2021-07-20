@@ -7809,7 +7809,6 @@ aax-us-west.amazon-adsystem.com
 aax.amazon-adsystem.com
 aaxdetect.com
 aayis.com
-aazao.com
 aazfby.auto.de
 ab-in-den-urlaub.ch
 ab-in-den-urlaub.de
@@ -13877,6 +13876,7 @@ api.betterttv.net
 api.bitp.it
 api.bounceexchange.com
 api.breezip.com
+api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.bunzlaucastle.com
@@ -25714,6 +25714,7 @@ chinatungsten.com
 chinauncensored.com
 chinauncensored.org
 chinauncensored.tv
+chinaupa.com
 chinaview.wordpress.com
 chinavpn.net
 chinawaijiao.com
@@ -38995,6 +38996,7 @@ eugenecascadescoast.org
 eugeny.github.io
 euk.slyip.net
 eulam.com
+eulatracking-public-service-prod06.ol.epicgames.com
 euldnr.rezat.ru
 eule1.pmu.fr
 eulerian.belambra.be
@@ -59463,7 +59465,6 @@ jp.pandora.tv
 jp.rti.org.tw
 jp.schroders.email
 jpaatr.astellas.jp
-jpaifusen.com
 jpbeta.cc
 jpe.a.prd.ags.trafficmanager.net
 jpe.b.prd.ags.trafficmanager.net

@@ -24250,6 +24250,7 @@ api.stacksocial.com
 api.staffhub.office.com
 api.starsmp.com
 api.steampowered.com
+api.sugram.chat
 api.systempartnerski.pl
 api.systest.ptqy.gitv.tv
 api.tabnine.com
@@ -36450,7 +36451,6 @@ bxdlkj.com
 bxgfw.com
 bxgjyc.com
 bxgtd.com
-bxjg.circ.gov.cn
 bxjob.net
 bxjr.com
 bxkejian.com
@@ -104291,6 +104291,7 @@ lhrzel.enterprise.com.tr
 lhs-arts.org
 lhs11.com
 lhsoso.com
+lhtyyt.com
 lhu36lu8.sched.d0.tdnsv5.com
 lhwill.com
 lhwytj.com
@@ -106840,7 +106841,6 @@ loli.help
 loli.net
 lolico.moe
 lolicon.eu
-lolip.net
 lolipop.jp
 lolisb.com
 lolisz.com

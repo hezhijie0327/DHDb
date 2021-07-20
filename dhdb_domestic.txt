@@ -4874,6 +4874,7 @@
 58wangwei.com
 58wanwan.com
 58xinrui.com
+58xs.com
 58xueche.com
 58xuexi.com
 58yuesao.com
@@ -15437,6 +15438,7 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
+cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -21994,7 +21996,6 @@ diemoe.net
 dierkezhan.com
 diershoubing.com
 difanapp.com
-dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digcredit.com
@@ -47810,6 +47811,7 @@ ocrmaker.com
 ocs-cn-north1.heytapcs.com
 ocsp-data.us.cdnetworks.com
 ocsp-lb.apple.com.akadns.net
+ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.cfca.com.cn
 ocsp.crlocsp.cn

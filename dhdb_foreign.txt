@@ -4758,7 +4758,6 @@
 63.effers.com
 63.flnet.org
 63.slyip.net
-630book.cc
 630book.com
 630book.la
 630ksw.com
@@ -24265,6 +24264,7 @@ cdn-lg.line-apps.com
 cdn-main.plus500.com
 cdn-msp.18comic1.one
 cdn-msp.msp-comic1.xyz
+cdn-ng.net
 cdn-osawaris.nutaku.net
 cdn-partners-references.lesoir.be
 cdn-pci.optimizely.com
@@ -50525,6 +50525,7 @@ hcqrdj.anny.gift
 hcqyek.miuz.ru
 hcsmec.decathlon.pt
 hctra.org
+hctxf.org
 hcwiki.com
 hcyacg.com
 hczc.com
@@ -108489,6 +108490,7 @@ uschinapress.com
 uscirf.gov
 uscnpm.com
 uscreditcardguide.com
+uscti.org
 usd.sierra-boa.com
 usdbbx.mmartan.com.br
 usdehua.com

@@ -24220,7 +24220,6 @@ e.sogou.com
 e.t71q.com
 e.tapdb.net
 e.tf.360.cn
-e.uissm.com
 e.weather.com.cn
 e.weibo.com
 e.x.cn.xtgreat.com
@@ -58800,6 +58799,7 @@ sports-idea.com
 sports-qyim.nntisixsixsix.com
 sports.cctv.com
 sports.china.com.cn
+sports.frfujikoll.com
 sports.people.com.cn
 sports.pptv.com
 sports.sina.com.cn
@@ -59361,7 +59361,6 @@ static.inmeng.net
 static.inmeng.net.w.kunlunca.com
 static.iqiyi.com
 static.iqiyi.com.w.alikunlun.com
-static.it1352.com
 static.jebe.renren.com
 static.jiedianqian.com
 static.jstv.com

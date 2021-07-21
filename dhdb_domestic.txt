@@ -10129,7 +10129,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
@@ -45083,6 +45082,7 @@ miutrip.com
 mivideo.g.mi.com
 miwifi.com
 mix.adsame.com
+mix.kinostuff.com
 mixbao.com
 mixdo.net
 mixer.cupid.ptqy.gitv.tv

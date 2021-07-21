@@ -34827,7 +34827,6 @@ images3.c-ctrip.com.a.bdydns.com
 images3.c-ctrip.com.cdn20.com
 images4.c-ctrip.com
 images4.c-ctrip.com.cdn20.com
-images8.gaotie.cn
 imagescale.gmugmu.com
 imagescale.gmugmu.com.w.cdngslb.com
 imageter.com
@@ -44197,6 +44196,7 @@ media-exp1.licdn.com
 media-gxnn-person.gxoss.xstore.ctyun.cn
 media-gzga-person.gzoss.xstore.ctyun.cn
 media-jlcc-person.jloss.xstore.ctyun.cn
+media-static.jointreport-switch.com
 media-tel.hypers.com.cn
 media-tjbh-person.tjoss.xstore.ctyun.cn
 media.17173.com
@@ -51136,6 +51136,7 @@ pull-flv-l13.douyincdn.com
 pull-flv-l26-cny.douyincdn.com
 pull-flv-l26.douyincdn.com
 pull-flv-l27.douyincdn.com
+pull-flv-l29.douyincdn.com.ucloud.com.cn
 pull-flv-l6-cny.douyincdn.com
 pull-flv-l6-hs.pstatp.com
 pull-flv-l6-source.douyincdn.com
@@ -53875,7 +53876,6 @@ r.alicpd.top
 r.alimc1.top
 r.browser.miui.com
 r.bxb.oupeng.com
-r.djsn888.com
 r.dmp.sina.cn
 r.dmp.sina.com.cn
 r.img.cctvpic.com

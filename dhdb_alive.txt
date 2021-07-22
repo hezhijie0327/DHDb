@@ -23854,6 +23854,7 @@ api-panov2.720yun.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
 api-pl.kdrag0n.dev
+api-pricetag.dmall.com
 api-priconne-redive.cygames.jp
 api-prod.leancloud.cn
 api-public.addthis.com
@@ -136420,6 +136421,7 @@ qdaeon.com
 qdaiduo.com
 qdaily-test-1014796965.cn-northwest-1.elb.amazonaws.com.cn
 qdaily.com
+qdailyapp.com
 qdall01.baidupcs.com
 qdbdsk.com
 qdcaijing.com
@@ -160682,7 +160684,6 @@ sympatico.ca
 sympl.tv
 symtc.com
 symuge.com
-syn.verticalacuity.com
 syn0.map.qq.com
 syn029.com
 synacast.com
@@ -164351,7 +164352,6 @@ theonemusic.net
 theonering.net
 theonion.com
 theonionavclub.com
-theonionrouter.com
 theopportunityproject.org
 theory-clinic.com
 theorychina.org
@@ -167934,6 +167934,7 @@ tracker.dler.org
 tracker.dm258.cn
 tracker.dmhy.org
 tracker.downdetector.com
+tracker.ds.is
 tracker.durasite.net
 tracker.dyn.im
 tracker.eddie4.nl
@@ -171648,7 +171649,6 @@ uhpjkt.uv100.com.tw
 uhqunq.tktimport.com
 uhrp.org
 uhrsek.shoemarker.co.kr
-uhtao.com
 uhub.com
 uhuitong.com
 uhytajrtpo-a.akamaihd.net

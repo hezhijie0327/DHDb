@@ -10492,6 +10492,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -13201,6 +13202,7 @@ bjdjc.com
 bjdllti.com
 bjdongxin.com
 bjdsppa.com
+bjdt360.com
 bjeasycom.com
 bjepn.com
 bjewaytek.com
@@ -43154,7 +43156,6 @@ m.kejet.net
 m.kfc.com.cn
 m.kokomh.com
 m.konshan.com
-m.kyxnz.cn
 m.laigame7.net
 m.lanqiuba.com
 m.lanshiwan.cn

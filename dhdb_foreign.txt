@@ -13989,6 +13989,7 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -30282,6 +30283,7 @@ cui95992.com
 cuibulcuvipere.ro
 cuicoterapia.cl
 cuies.com
+cuihu100.com
 cuijunwei.com
 cuipengfei.me
 cuiqingcn.com
@@ -53637,6 +53639,7 @@ i5seo.com
 i6.cmail20.com
 i6.imageban.ru
 i6.liadm.com
+i6.weather.oppomobile.com
 i60702.com
 i6879.com
 i7bg4.5.shop.tm

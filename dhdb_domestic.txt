@@ -2916,6 +2916,7 @@
 3157bac2.qc.x.bsgslb.cn
 3157bac3.qc.x.bsgslb.cn
 3158.cn
+3158.com
 315banzhao.com
 315che.com
 315fangwei.com
@@ -28405,7 +28406,6 @@ geshui.com
 geshui100.com
 geshuishuilvbiao2017.com
 gesuo.com
-get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -31339,7 +31339,6 @@ helperaddress.com
 helpgamebox1.ksmobile.com
 helpkprotect1.ksmobile.com
 helplinfen.com
-helpmeng.com
 helpton.com
 heluo.cc
 hemabt.com

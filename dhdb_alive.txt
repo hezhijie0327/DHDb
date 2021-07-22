@@ -72445,7 +72445,6 @@ gd-linux.com
 gd-stats.jpush.cn
 gd.10086.cn
 gd.gsxt.gov.cn
-gd.king10.com
 gd.sina.com.cn
 gd.sycdn.kuwo.cn
 gd.unicommusic.gtimg.com
@@ -73556,7 +73555,6 @@ gh.caslove.com
 gh.effers.com
 gh.r-ln-2.net.daraz.com
 gh.season.net.daraz.com
-gh0091.com
 gh013.com
 gh5e.vip
 gh6.org
@@ -97435,6 +97433,7 @@ jp.hao123.com
 jp.moc.gov.tw
 jp.net
 jp.pandora.tv
+jp.pool.ntp.org
 jp.rti.org.tw
 jp.schroders.email
 jp.xinhuanet.com
@@ -104863,6 +104862,7 @@ lightget.com
 lightgx.com
 lighthonestyhrd.org
 lighthouse.dmallcdn.com
+lighthouseapi.dmall.com
 lighti.me
 lighting163.com
 lightingchina.com
@@ -144410,7 +144410,6 @@ sadbmetrics.unoauto.com
 sadbmetrics.vamosacorrer.com
 sadbmetrics.vehiculosocasionalava.com
 sadbmetrics.vocento.com
-sadbmetrics.welife.es
 sadbmetrics.wikirioja.com
 sadbmetrics.womennow.es
 sadbmetrics.xlsemanal.com
@@ -164062,7 +164061,6 @@ thenorthernecho-gb.thenorthernecho.co.uk
 thenorthwestern.com
 thenude.eu
 thenudistnetwork.com
-theoccult.bz
 theoceancleanup.com
 theoceannetwork.inttra.com
 theoceanweb.com

@@ -1405,7 +1405,6 @@
 172222.com
 173.232.141.124.zz.countries.nerd.dk
 1731788.com
-1732.net
 17348.com
 173e2546.akstat.io
 173fc.com
@@ -13981,6 +13980,7 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
+api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.gfe.nvidia.com
@@ -31819,6 +31819,7 @@ daomuxiaoshuo.com
 daooda.com
 daoshidianping.com
 daota.info
+daoyouz.com
 daozhao.com
 dap.digitalgov.gov
 dapao888.com

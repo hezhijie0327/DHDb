@@ -42121,7 +42121,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -53046,7 +53045,6 @@ qs.xiangzhuan999.cn
 qs12315.com
 qs7dkolx9nv6nqywzvsvgakfjsgwa9jj.yundunwaf5.com
 qs921.com
-qsb.browser.miui.com
 qsbank.cc
 qsbbs.net
 qsbdc.com
@@ -56078,6 +56076,7 @@ sdlongli.com
 sdly35.com
 sdmic.com
 sdn.geekzu.org
+sdn.kugou.com
 sdnfv.org
 sdnjsbc.com
 sdnlab.com

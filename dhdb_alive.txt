@@ -97603,7 +97603,6 @@ jp.hao123.com
 jp.moc.gov.tw
 jp.net
 jp.pandora.tv
-jp.pool.ntp.org
 jp.rti.org.tw
 jp.schroders.email
 jp.xinhuanet.com
@@ -102106,7 +102105,6 @@ kwaizt.com
 kwak.ml
 kwalnc.vans.co.kr
 kwantum.nl
-kwaranuj.org.ng
 kwcdn.000dn.com
 kwcg.ca
 kwcguangdong.com

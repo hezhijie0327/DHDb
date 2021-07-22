@@ -1612,7 +1612,6 @@
 16boke.com
 16d26733ac7c1e24b338fcf8150df4b7.dl.txcdns.com
 16fan.com
-16fenqi.com
 16game.net
 16hyt.com
 16ker.com
@@ -18910,6 +18909,7 @@ congyicn.com
 conn.wemeet.tencent.com
 conn1.coloros.com
 conn1.oppomobile.com
+conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com
@@ -46747,7 +46747,6 @@ neoease.com
 neofussvr.sslcs.cdngc.net
 neokylinschool.com
 neoremind.com
-nepconchina.com
 nepian.com
 neptcn.com
 neptune.jd.com

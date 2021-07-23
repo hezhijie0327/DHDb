@@ -10130,7 +10130,6 @@ api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -12219,6 +12218,7 @@ bbs.xiuno.com
 bbs.xiuno.com.aocdn.com
 bbs1x.net
 bbsaso.com
+bbse03.com
 bbsheji.com
 bbsimg.maxjia.com
 bbsls.net

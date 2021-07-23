@@ -653,6 +653,7 @@
 1.aili.com
 1.ajiyuming.com
 1.arpun.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.cjcp.cn
@@ -831,7 +832,6 @@
 10639888.com
 1065m.com
 1073.com
-1074.a.dlads.cn
 107788.com
 107cine.com
 107room.com

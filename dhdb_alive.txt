@@ -17358,7 +17358,6 @@ adebis.fenet.jp
 adebis.irobot-jp.com
 adebis.juku.st
 adebis.kaonavi.jp
-adebis.kose.co.jp
 adebis.koutsujiko.jp
 adebis.livable.co.jp
 adebis.macnica.co.jp
@@ -30140,7 +30139,6 @@ bcreat.com
 bcrjl.com
 bcrncdn.com
 bcrvit0.cdnnodedns.cn
-bcsec.org
 bcsecure01-a.akamaihd.net
 bcsjcj.nasdaq.com
 bcsky.pro
@@ -48871,6 +48869,7 @@ crc81.com
 crchina.org
 crcpp.org
 crcrfsp.com
+crct.com
 crd-net.org
 crd.com
 cre-dp.sina.cn
@@ -60721,6 +60720,7 @@ eagle.org
 eagle.safonov.eu
 eagleasp.adsame.com
 eaglebusinesscredit.com
+eaglehosts.net
 eagleplatform.com
 eaglerivercu.com
 eagletribune.com
@@ -97597,7 +97597,6 @@ jpg.cm
 jpg.dog
 jpg.inte.sogoucdn.com
 jpg.macz.com
-jpg.mengbingyuan.com
 jpg1.oss-cn-beijing.aliyuncs.com
 jphot.net
 jpiq.com
@@ -139651,7 +139650,6 @@ r4---sn-8xgp1vo-p5ie.googlevideo.com
 r4---sn-a5m7lnlz.googlevideo.com
 r4---sn-a5mekne7.googlevideo.com
 r4---sn-a5mekned.googlevideo.com
-r4---sn-a5meknee.googlevideo.com
 r4---sn-a5meknek.googlevideo.com
 r4---sn-a5mekner.googlevideo.com
 r4---sn-a5mekney.googlevideo.com

@@ -24031,7 +24031,6 @@ api.e.kuaishou.com
 api.e.mi.com
 api.effie.co
 api.elliehuxtable.com
-api.emotes.ch
 api.epicgames.dev
 api.ets100.com
 api.ettoday.net
@@ -78891,7 +78890,6 @@ gu-global.com
 gu-pix.appspot.com
 gu.5.p2l.info
 gu.com
-gu.dyntrk.com
 gu.twimg.com
 gu166.com
 gu360.net
@@ -126990,7 +126988,6 @@ orz.asia
 orz.moe
 orz123.com
 orz9.com
-orzbd.com
 orzbook.com
 orzdream.com
 orzice.com
@@ -139870,7 +139867,6 @@ r6.mo.baidu.com
 r7.com
 r8877.com
 r8qtou0.cachenode.cn
-r8zov5nsqxay5rbm7mjfpegr6epbrmq3.yundunwaf3.com
 r9---sn-2x3een7d.gvt1.com
 r9---sn-2x3eln7l.gvt1.com
 r9---sn-n8v7kn7d.googlevideo.com

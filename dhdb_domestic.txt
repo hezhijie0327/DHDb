@@ -6257,6 +6257,7 @@
 86kongqi.com
 86mama.com
 86mdo.com
+86nb.com
 86office.com
 86pla.com
 86ps.com
@@ -18102,7 +18103,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -23013,6 +23013,7 @@ download.effie.co
 download.elemecdn.com
 download.fuyuncc.com
 download.game.yy.com
+download.gfe.nvidia.cn
 download.gmugmu.com
 download.gmugmu.com.w.cdngslb.com
 download.jr.jd.com
@@ -25087,7 +25088,6 @@ emogine-config.oss-cn-hangzhou.aliyuncs.com
 emohe.com
 emoji.qpic.cn
 emoji.qpic.cn.download.ks-cdn.com
-emoji.qpic.cn.fastcdn.com
 emoji.qpic.cn.qingcdn.com
 emoji.qpic.cn.sched.px-dk.tdnsv6.com
 emoji.qpic.cn.spdydns.com

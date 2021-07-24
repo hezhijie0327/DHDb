@@ -52347,7 +52347,6 @@ host.io
 host.sk
 host03.net.daraz.com
 host10.hotelissima.fr
-host11.traffic-builders.com
 host11.vrgh-arena.nl
 host163.com
 host1free.com
@@ -70543,7 +70542,6 @@ microsoftiotcentral.com
 microsoftiotinsiderlabs.com
 microsoftlatamaitour.com
 microsoftlatamholiday.com
-microsoftlinc.com
 microsoftmscompoc.tt.omtrdc.net
 microsoftnews.cc
 microsoftnews.cn

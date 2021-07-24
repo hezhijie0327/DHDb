@@ -10000,6 +10000,7 @@ data.macw.com
 data.marketgid.com
 data.mgtv.com
 data.mobclix.com
+data.nexxt.com
 data.permittingnorthlandseamen.info
 data.pplive.com
 data.shipboardserviceberrysiltstone.info
@@ -25711,6 +25712,7 @@ sddnserror2.wo.com.cn
 sddnserror3.wo.com.cn
 sddnserror4.wo.com.cn
 sddnserror5.wo.com.cn
+sddnserror6.wo.com.cn
 sddnserror7.wo.com.cn
 sddnserror8.wo.com.cn
 sddnserror9.wo.com.cn

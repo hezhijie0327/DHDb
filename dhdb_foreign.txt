@@ -13929,6 +13929,7 @@ api.betterttv.net
 api.bitp.it
 api.bounceexchange.com
 api.breezip.com
+api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.bunzlaucastle.com
@@ -85653,7 +85654,6 @@ r1---sn-5hne6nsz.googlevideo.com
 r1---sn-5hnedn7e.googlevideo.com
 r1---sn-a5m7lnlz.googlevideo.com
 r1---sn-a5mekned.googlevideo.com
-r1---sn-a5meknee.googlevideo.com
 r1---sn-a5meknek.googlevideo.com
 r1---sn-a5meknel.googlevideo.com
 r1---sn-a5mekner.googlevideo.com

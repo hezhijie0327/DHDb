@@ -690,6 +690,7 @@
 1.url.cn
 1.url.cn.sched.px-dk.tdnsv6.com
 1.v-x.com.cn
+1.vsimg.com
 1.wenzhangba.cn
 1.xilu.com
 1.xspic.com
@@ -12312,6 +12313,7 @@ bd-p2p.pull.yximgs.com.a.bcelive.com
 bd-proxy.pull.yximgs.com
 bd-proxy.pull.yximgs.com.a.bcelive.com
 bd-s.baixing.net
+bd.beimap.com
 bd.czxuexi.com
 bd.flv.huya.com
 bd.hao224.com
@@ -47605,7 +47607,6 @@ nuecidc.com
 nuedcchina.com
 nuezhilian.com
 nufans.net
-nullice.com
 nullno.com
 nuobeiliao.com
 nuodefund.com
@@ -48503,7 +48504,6 @@ ort.stsdk.vivo.com.cn
 orvibo.com
 orz.asia
 orz123.com
-orzbd.com
 orzbook.com
 orzice.com
 os-easy.com
@@ -55512,7 +55512,6 @@ saihuahong.com
 saihuitong.com
 saike.com
 saikr.com
-sail2world.com
 sailingyun.com
 sailsors.net
 saimogroup.com

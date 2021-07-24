@@ -14408,6 +14408,7 @@ appcloud.com
 appcloudcdn.com
 appconsent.io
 appcontent.serif.com
+appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appduu.com
@@ -24321,7 +24322,6 @@ cdmediaworld.com
 cdmfund.org
 cdmodernenglish.com
 cdmr.rpz.su
-cdn-1.gamecoast.org
 cdn-102.statdynamic.com
 cdn-145.privacy-mgmt.com
 cdn-146.privacy-mgmt.com
@@ -59678,7 +59678,6 @@ jpe.b.prd.ags.trafficmanager.net
 jpeelf.tk
 jpg.cm
 jpg.dog
-jpg.mengbingyuan.com
 jpiq.com
 jpl.nasa.gov
 jpleader.org

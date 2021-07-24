@@ -12210,6 +12210,7 @@ bbs.mumayi.com
 bbs.nga.cn
 bbs.nga.cn.wswebcdn.com
 bbs.pcauto.com.cn
+bbs.pcbeta.com
 bbs.uc.cn
 bbs.ucdns.uc.cn
 bbs.xbiao.com
@@ -35930,6 +35931,7 @@ iphonediule.com
 iphoneqq-70067.njc.vod.tencent-cloud.com
 iphuph98.sched.sma-dk.tdnsv5.com
 ipi.shuzilm.cn
+ipianchang.com
 ipiao.com
 ipin.com
 ipinba.com
@@ -52204,7 +52206,6 @@ qianfan365.com
 qianfangzy.com
 qianfanyun.com
 qiang100.com
-qiangbe.com
 qiangbus.com
 qiangchezu.com
 qiangchuan.com
@@ -58552,7 +58553,6 @@ sopuning.com
 soquair.com
 sorank.aizhan.com
 sorank.aizhan.com.wswebpic.com
-sorazone.com
 sos919.com
 sosdx.com
 sosg.net

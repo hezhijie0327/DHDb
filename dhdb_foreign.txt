@@ -31837,7 +31837,6 @@ dartlang.org
 dartpad.dev
 darty.com
 darwin.com
-darwinex.cn
 darwinex.com
 darwinsource.com
 darwinsource.org
@@ -43521,7 +43520,6 @@ fun605.com
 fun606.com
 fun612.com
 fun6606.com
-fun66996.com
 fun727.com
 fun767.com
 fun78.com
@@ -52813,6 +52811,7 @@ htt5.com
 http-echo-beta-interaction.net.daraz.com
 http3check.net
 httpbaidu.com
+httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
@@ -85137,7 +85136,6 @@ qruq.com
 qrx.cc
 qs.etowns.net
 qs7ly.com
-qsb.browser.miui.com
 qsbr.fs.quoracdn.net
 qsc.fs.quoracdn.net
 qsearch-a.akamaihd.net

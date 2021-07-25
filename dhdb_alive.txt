@@ -108699,7 +108699,6 @@ m.aty.snmsohu.aisee.tv
 m.aty.sohu.com
 m.baidu.com
 m.baidu.com.yiqisee.cn
-m.baidu.com.zhiduo.org
 m.baike.so.com
 m.bailingjiankang.com
 m.bainianx.com
@@ -139795,7 +139794,6 @@ r6---sn-5uaeznkl.googlevideo.com
 r6---sn-5ualdn7r.googlevideo.com
 r6---sn-a5m7lnlz.googlevideo.com
 r6---sn-a5mekned.googlevideo.com
-r6---sn-a5meknee.googlevideo.com
 r6---sn-a5meknek.googlevideo.com
 r6---sn-a5mekner.googlevideo.com
 r6---sn-a5mekney.googlevideo.com
@@ -145616,6 +145614,7 @@ scala.com
 scalatube.com
 scalecomputing.com
 scaledagile.com
+scaleflex.com
 scalematrix.actonservice.com
 scalematrix.com
 scalemonk.com
@@ -162781,7 +162780,6 @@ tdep.mijnonlineloket.nl
 tdep.mijnurgentie.nl
 tdep.sdim.nl
 tdep.suncamp.de
-tdep.suncamp.pl
 tdep.theofficeservice.com
 tdep.vacansoleil.be
 tdep.vacansoleil.co.uk

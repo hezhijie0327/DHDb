@@ -29,7 +29,6 @@
 0061.com.au
 00615.net
 007856.com
-00791.com
 007manhua.com
 007qu.com
 007swz.com
@@ -2704,6 +2703,7 @@
 28ka.com
 28nxuy.tdum.alibaba.com
 28rv.com
+28tlc.com
 28tui.com
 28wxlc.tdum.alibaba.com
 28xl.com
@@ -10096,6 +10096,7 @@ api.cloud.189.cn
 api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cpu.baidu.com
@@ -22324,6 +22325,7 @@ dl0728.com
 dl1.qwp365.cn
 dl10.china.line.qiniudns.com
 dl1023.tcdn.qq.com
+dl1234.com
 dl2.gj.qq.com
 dl211qpe.v1d.szbdyd.com
 dl211rgf.v1d.szbdyd.com
@@ -32382,7 +32384,6 @@ hpstore-china.com
 hpstore.cc
 hpuoj.com
 hpwu.com
-hpwxc.com
 hpx05.com
 hpyk.com
 hq.sinajs.cn
@@ -41104,7 +41105,6 @@ lezf.com
 lezhi99.com
 lezhibo.com
 lezhiot.com
-lezhiweilai.com
 lezhiyun.com
 lezhuan.com
 lezhuan168.com
@@ -45060,6 +45060,7 @@ mivideo.g.mi.com
 miwifi.com
 mix.adsame.com
 mix.kinostuff.com
+mix.linkedin.com
 mixbao.com
 mixdo.net
 mixer.cupid.ptqy.gitv.tv
@@ -48943,6 +48944,7 @@ p31-keyvalueservice.icloud.com.cn
 p31-quota.icloud.com.cn
 p31-sharedstreams.icloud.com.cn
 p31-streams.icloud.com.cn
+p31.net
 p32-caldav.icloud.com.cn
 p32-contacts.icloud.com.cn
 p32-escrowproxy.icloud.com.cn

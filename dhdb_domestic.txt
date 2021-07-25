@@ -1223,7 +1223,6 @@
 1352121.b2b.liebiao.com
 1352121.shop.liebiao.com
 1352365.b2b.liebiao.com
-135309.com
 1353305.shop.liebiao.com
 1356789.com
 1357g.com
@@ -24081,7 +24080,6 @@ dzbake.com
 dzbarcode.com
 dzbchina.com
 dzblxx.com
-dzbmama.com
 dzboligang.com
 dzcj.tv
 dzcmedu.com
@@ -42083,6 +42081,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn

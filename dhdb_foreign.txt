@@ -1918,6 +1918,7 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
+2.android.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -29991,7 +29992,6 @@ csgosteamanalyst.eu.com
 csgosteamanalyst.uk.com
 csgoxxfree.blogspot.com
 csh.ro
-csharpvideoluders.com
 cshkuo.cruise.com
 csi.googleapis.com
 csiaexpo.com
@@ -76610,6 +76610,7 @@ nw-umwatson.events.data.microsoft.com
 nw.realssp.co.kr
 nwafu-mirrors-help.readthedocs.io
 nwajdf.zakzak.co.jp
+nwanime.tv
 nwasoft.com
 nwave.de
 nwbmvq.jockey.com
@@ -85238,7 +85239,6 @@ quangcao.fff.com.vn
 quangcao.thanhnien.vn
 quangcao.tuoitre.vn
 quangcao247.com.vn
-quanji360.com
 quanji456.com
 quanji55.com
 quanlaoda.com

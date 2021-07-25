@@ -2257,7 +2257,6 @@
 1308950.com
 130bf.com
 131.73.100.114.zz.countries.nerd.dk
-131.com
 1313311.shop.liebiao.com
 131391f356c0ec2fce2e4e7ea2a54183.clo.footprintdns.com
 1314.4irc.com
@@ -21284,6 +21283,7 @@ alipay-minip-api.baobeituan.com
 alipay.189.cn
 alipay.cn
 alipay.com
+alipay.hk
 alipay.net
 alipaycs.com
 alipaydev.com
@@ -30337,7 +30337,6 @@ bdqn027.com
 bdqn666.com
 bdqnwh.com
 bdqzcj.micuento.com
-bdr88.com
 bds-cn.com
 bds.haochu.com
 bds.haochu.com.cname4009.yjs-cdn.com
@@ -124054,6 +124053,7 @@ nw-umwatson.events.data.microsoft.com
 nw.realssp.co.kr
 nwafu-mirrors-help.readthedocs.io
 nwajdf.zakzak.co.jp
+nwanime.tv
 nwasoft.com
 nwave.de
 nwbmvq.jockey.com
@@ -142180,7 +142180,6 @@ ripple.com
 rippleos.com
 ripway.com
 rireetchansons.fr
-rirxpqx.cn
 ris.api.iris.microsoft.com
 riscitsolutions.actonservice.com
 riscv-mcu.com
@@ -145494,7 +145493,6 @@ sbucard.com
 sburg.gallerycdn.azure.cn
 sbux.com.my
 sbuxcard.com
-sbvideocdn.com
 sbvxlj.quincaillerie.pro
 sbw.ysjweb.com
 sbwml.net

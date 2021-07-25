@@ -17383,7 +17383,6 @@ cj.qidian.com
 cj.sina.com.cn
 cj.weather.com.cn
 cjavapy.com
-cjcjw.com
 cjcp.cn
 cjdby.net
 cjdcw.com
@@ -32775,6 +32774,7 @@ huanqgigu1.51sole.com
 huanqiu.com
 huanqiuauto.com
 huanqiukexue.com
+huanqiumil.com
 huanqiuyimin.com
 huanqu-tec.com
 huanrong2010.com
@@ -37095,6 +37095,7 @@ jiangwang.net
 jiangweishan.com
 jiangxianli.com
 jiangxindaojia.com
+jiangxindc.com
 jiangxinlingdu.com
 jiangxipiaoliu.com
 jiangzi.com
@@ -46950,7 +46951,6 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
-nex.163.com
 nexstep.zdworks.com
 next-union.com
 next.api.aliyun.com

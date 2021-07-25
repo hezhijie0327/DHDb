@@ -7412,6 +7412,7 @@ a1.sumiaowang.com
 a1.syfj.net
 a1.twtym.com
 a1.xystatic.com
+a1.zhanzhang.net
 a1.zhanzhang.net.cname2958.yjs-cdn.com
 a1010.phobos.apple.com
 a11.gdl.netease.com
@@ -10124,7 +10125,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
@@ -45370,7 +45370,6 @@ mobubt.ctrip.com.tel.rb.ctripgslb.com
 mobvoi.com
 mobwsa.ximalaya.com
 mobyy-sv-tianmu.yy.com
-mocache.com
 mockuai.com
 mocn.cc
 moco.imooc.com

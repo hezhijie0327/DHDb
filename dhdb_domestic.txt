@@ -570,7 +570,6 @@
 0d5a81ff0767b46d82881aa98352577f.dlied1.cdntips.net
 0day.ali213.net
 0dayku.com
-0dj.net
 0duxs.com
 0e2a9eea91f36e35ffe24592f2199e2e.dlied1.cdntips.net
 0e38a78fc2ac1abb211de9ab7874cb6f.dlied1.cdntips.net
@@ -10125,6 +10124,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
@@ -34782,7 +34782,6 @@ images.dmzj1.com
 images.enet.com.cn
 images.liqucn.com
 images.lulian.cn
-images.nvidia.cn
 images.pchome.net
 images.pinduoduo.com
 images.pinduoduo.com.sched.pddlego-dk.tdnsv5.com
@@ -41439,7 +41438,6 @@ limei.com
 limian.com
 limiao.net
 limikeji.com
-limin.com
 liminglight.com
 liminjie714.com
 liminwang.com
@@ -47752,7 +47750,6 @@ oa169.com
 oa25.org
 oa8000.com
 oabg.net
-oachn.net
 oact.net
 oadun.com
 oadz.com

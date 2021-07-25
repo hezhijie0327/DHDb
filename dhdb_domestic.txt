@@ -974,7 +974,6 @@
 1164915.shop.liebiao.com
 1165490.shop.liebiao.com
 1167018.b2b.liebiao.com
-11684.com
 116cd.115.com
 116cd.com
 116yx.com
@@ -4873,6 +4872,7 @@
 58wanwan.com
 58xinrui.com
 58xs.com
+58xs.tw
 58xueche.com
 58xuexi.com
 58yuesao.com
@@ -30093,7 +30093,6 @@ h2.static.yximgs.com
 h2.static.yximgs.com.w.alikunlun.com.qr.uuhimalayanqm.com
 h2.vipstatic.com
 h231.com
-h2ex.com
 h2os.com
 h2s1.web.xlisp.net
 h3c.com

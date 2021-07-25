@@ -34859,6 +34859,7 @@ dowjones.hb-api.omtrdc.net
 dowjones.hb.omtrdc.net
 down.99oi.us
 down.gateswq.net
+down.gotek.com.cn
 down.safe.wegamex.com.hk
 down.timcok.com
 down.tsfsb.com
@@ -35919,7 +35920,6 @@ dzone.com
 dzpu6za66svjl.cloudfront.net
 dzpz6.com
 dzpz8.com
-dzqiche.com
 dzr.org.ro
 dzribao.com
 dzs55b7slwyx.cloudfront.net
@@ -63195,6 +63195,7 @@ let282.com
 let289.com
 let3415.com
 let461.com
+let47.com
 let51.com
 let545.com
 let558.com

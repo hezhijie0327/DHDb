@@ -24317,7 +24317,6 @@ cdmr.rpz.su
 cdn-102.statdynamic.com
 cdn-145.privacy-mgmt.com
 cdn-146.privacy-mgmt.com
-cdn-7n-pt.zbwowo.com
 cdn-adn.rayjump.com
 cdn-ads.thesaigontimes.vn
 cdn-alliancegravity.s3.amazonaws.com
@@ -32222,7 +32221,6 @@ dcapps.disney.go.com
 dcard.cc
 dcard.hk
 dcard.tw
-dcb68.com
 dcb77.com
 dcbooks.com
 dccfog.petco.com
@@ -52798,7 +52796,6 @@ htt5.com
 http-echo-beta-interaction.net.daraz.com
 http3check.net
 httpbaidu.com
-httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com

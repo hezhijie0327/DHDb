@@ -18890,7 +18890,6 @@ congyicn.com
 conn.wemeet.tencent.com
 conn1.coloros.com
 conn1.oppomobile.com
-conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com
@@ -33672,6 +33671,7 @@ i.mid.tdnsv6.com
 i.mmcdn.cn
 i.mooc.chaoxing.com
 i.news.qq.com
+i.pcbeta.com
 i.qianbao.qq.com
 i.qq.com
 i.snssdk.com
@@ -59247,6 +59247,7 @@ static.dingtalk.com
 static.dingtalk.com.w.cdngslb.com
 static.dmall.com
 static.dmzj.com
+static.dmzj1.com
 static.dns.iqiyi.com
 static.doubleclick.net
 static.douxie.com
@@ -59975,7 +59976,6 @@ sv.baidu.com
 sv.bdstatic.com
 sv.cdn.n1q.cn
 sv.map.baidu.com
-sv.vgimer.cn
 svautolife.com
 svda.17173.com
 svenhetin.com

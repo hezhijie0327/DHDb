@@ -7419,6 +7419,7 @@ cdn-0.starsgab.com
 cdn-1.gamecoast.org
 cdn-2.gamecoast.org
 cdn-789.com
+cdn-7n-pt.zbwowo.com
 cdn-analytics.ladmedia.fr
 cdn-apple.com
 cdn-baidu.net
@@ -10132,6 +10133,7 @@ dc9966.com
 dca5d7d5d0c96162a7d8cbebd7bd94be.jddebug.com
 dcard.io
 dcb123.com
+dcb68.com
 dcc.ghrtgf.xyz
 dcc.kdzbg.xyz
 dcc.strbgi.xyz
@@ -27019,7 +27021,6 @@ static.52zzyx.com
 static.88lmimg.com
 static.adtaily.com
 static.comico.tw
-static.dmzj1.com
 static.duoshuo.com
 static.exoclick.com
 static.exosrv.com
@@ -27304,6 +27305,7 @@ sv.freepac.pw
 sv.liangziweixg.com
 sv.ltzvs.ru
 sv.sheego.de
+sv.vgimer.cn
 sv2.arctime.cn
 sv719.dreamdays.cn
 svaeuzh.cn

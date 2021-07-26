@@ -1329,6 +1329,7 @@
 100015380.collect.igodigital.com
 10001wan.com
 1000233333.com
+100024444.com
 1000255555.com
 1000266666.com
 1000277777.com
@@ -22747,7 +22748,6 @@ analytics.tio.ch
 analytics.tmonews.com
 analytics.tnt-tv.pl
 analytics.tntdrama.com
-analytics.tooso.ai
 analytics.tout.com
 analytics.tradedoubler.com
 analytics.traderlink.com
@@ -27663,7 +27663,6 @@ awstaticdn.net
 awsthinkbox.com
 awstrust.com
 awsuvx.lavprisvvs.dk
-awsync.yandex.ru
 awtks.com
 awtmt.com
 awuapj.landwatch.com
@@ -32023,6 +32022,7 @@ bilicraft.com
 bilifuli.com
 biligame.com
 biligo.com
+bilihot.com
 bilimoe.com
 bilingling.com
 bilinmedia.net
@@ -32454,7 +32454,6 @@ bitterliebe.com
 bitterwinter.org
 bittor.pw
 bittorrent-4.hs.llnwd.net
-bittorrent.am
 bittorrent.com
 bittorrent.gongt.net
 bittorrentz.net
@@ -102105,6 +102104,7 @@ kxtoo.com
 kxtry.com
 kxtui.com
 kxtwz.com
+kxvuv.com
 kxxsc.com
 kxzmw.com
 ky-express.com

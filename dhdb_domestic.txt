@@ -9189,7 +9189,6 @@ ali213.com
 ali213.fhyx.com
 ali213.net
 aliagain.com
-alianhome.com
 aliapp.com
 aliariff.gallerycdn.azure.cn
 aliavv.com
@@ -15477,7 +15476,6 @@ cdn.static.txhy888.cn
 cdn.static.txhy888.cn.a.lahuashanbx.com
 cdn.staticfile.org
 cdn.svoice.le.com
-cdn.szjhons.com
 cdn.taboola.com.cn
 cdn.taboola.com.cn.w.kunlungr.com
 cdn.tanx.com
@@ -18096,6 +18094,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -28919,7 +28918,6 @@ gokuai.com
 golang.google.cn
 golang123.com
 golangapi.com
-golangcaff.com
 golangweb.com
 golaravel.com
 gold-v.com

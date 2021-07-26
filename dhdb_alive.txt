@@ -7804,7 +7804,6 @@
 50294.fulixtv.com
 50294.onlextv.com
 50294.umxtv.com
-503118.com
 50331.net
 50344.janxtv.site
 50352.5lxtv.com
@@ -16346,7 +16345,6 @@ act.commercial.shouji.360.cn
 act.convergencetraining.com
 act.cwsglobal.org
 act.daoju.qq.com
-act.dmall.com
 act.guanjia.qq.com
 act.lanap.com
 act.online.engineering.nyu.edu
@@ -18955,7 +18953,6 @@ adserver.ision.de
 adserver.isonews.com
 adserver.janes.com
 adserver.janes.org
-adserver.jolt.co.uk
 adserver.karamco.dk
 adserver.killeraces.com
 adserver.kimia.es
@@ -107499,6 +107496,7 @@ lp.tfd-corp.co.jp
 lp.titanpoker.com
 lp1.nso.nintendo.net
 lp4.onlinecasinoreports.com
+lp7.mobilescaner.today
 lp7n.cy6px.com
 lp8gpow5.sched.s2-dk.tdnsv5.com
 lp99.pw
@@ -113810,6 +113808,7 @@ metrics.bighospitality.co.uk
 metrics.bingle.com.au
 metrics.biocompare.com
 metrics.biopharma-reporter.com
+metrics.bitdefender.com
 metrics.bizjournals.com
 metrics.blockbuster.com
 metrics.bloomberg.com

@@ -244,6 +244,7 @@
 01wb.com
 01yo.com
 01yun.com
+01zhuanche.com
 02-all-seed-gc-us-03.cdn.gaijin.net
 02-all-seed-gc-us-04.cdn.gaijin.net
 02-enlisted-cdnnow.cdn.gaijin.net
@@ -23421,6 +23422,7 @@ anzhitan.com
 anzhixun.com
 anzhuo2.com
 anzhuoapk.com
+anzhuoshangdian.com
 anzhuotan.com
 anzhuowo.com
 anzogame.com
@@ -30397,7 +30399,6 @@ beacon.livefyre.com
 beacon.lycos.com
 beacon.lynx.cognitivlabs.com
 beacon.netflix.com
-beacon.nrholding.net
 beacon.nuskin.com
 beacon.qq.com
 beacon.riskified.com
@@ -68698,7 +68699,6 @@ flow.10010.com
 flow.ci
 flow.concord.systems
 flow.dev
-flow.dmall.com
 flow.io
 flow.org
 flow.qq.com
@@ -87965,7 +87965,6 @@ idc4.com
 idc400.com
 idc45.com
 idc789.com
-idc886.com
 idc96.com
 idc96.net
 idcard.911cha.com
@@ -89681,7 +89680,6 @@ img.wan.sogou.com
 img.wdjky.com
 img.weiyun.com
 img.xa9t.com
-img.xdwww.cn
 img.xgo.com.cn
 img.xiacaidd.com
 img.xiaohongshu.com
@@ -99650,7 +99648,6 @@ kaspersky.ru
 kasscloud.com
 kassir.ru
 kastatic.org
-kasto.shop.258.com
 kasumi.club
 kat.cr
 kat.rip
@@ -108303,7 +108300,6 @@ lxin007.com
 lxixsxa.com
 lxjep.com
 lxjk999.com
-lxjwlt.com
 lxlggo.com
 lxmiyu.com
 lxmnrl.eobuv.sk
@@ -121741,7 +121737,6 @@ ngjjtg.com
 nglantz.com
 ngloom.me
 ngnice.com
-ngnop2506.flxdns.com
 ngo.minigame.qq.com
 ngocn.net
 ngoos.org
@@ -129936,7 +129931,6 @@ pdfxd.com
 pdfzj.com
 pdgzf.com
 pdidc.com
-pdiinfo.com.cn
 pdim.gs
 pdisoftware.com
 pdisp01.c-wss.com

@@ -11945,7 +11945,6 @@
 841529.sched.s2.tdnsv5.com
 8419.com
 841a4b8f5304f8e72e06631e907bb092.nrb.footprintdns.com
-8420785.com
 8421945.com
 8425762.com
 8427468.com
@@ -28206,7 +28205,6 @@ b203.com
 b213917fd468dd2b9b7e2f1217d90e20.clo.footprintdns.com
 b22.top
 b221.photo.store.qq.com
-b2216.com
 b223.photo.store.qq.com
 b2235.com
 b2236.com
@@ -57331,6 +57329,7 @@ doncc.org
 donedeal.ie
 donejty.pl
 donever.com
+donevii.com
 donews.com
 dong-shou.com
 dong-xu.com
@@ -85163,6 +85162,7 @@ hsyyf.me
 hszfgjj.com
 hszhizhen.net
 hszk.org
+hszlcn.com
 hszqxs.com
 hszsfz.com
 hsztbzx.com
@@ -136418,6 +136418,7 @@ qeeniao.com
 qeerd.com
 qefee.com
 qefeng.com
+qefkkm.banabana.com.br
 qeh226.net
 qejrwy.lazienkaplus.pl
 qeo.cn
@@ -146328,7 +146329,6 @@ sdk.conf.getui.com
 sdk.conf.igexin.com
 sdk.congyicn.com
 sdk.congyicn.com.m.alikunlun.com
-sdk.digitalbees.it
 sdk.duihuashijie.com
 sdk.e.qq.com
 sdk.guard.mob.com
@@ -162612,7 +162612,6 @@ tcb-beauty.net
 tcbox.baidu.com
 tcbox.n.shifen.com
 tcc.so
-tccgo.shop.258.com
 tcciod3.cachenode.cn
 tccqb.com
 tccwonline.org

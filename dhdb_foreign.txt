@@ -1276,7 +1276,6 @@
 1637.com
 163cs.com
 163data.net
-163file-a10be10df01.servehttp.com
 163gq.com
 163mu.com
 163pinglun.com
@@ -2043,6 +2042,7 @@
 210080.com
 2100bitcoins.com
 2100coins.com
+2100xs.com
 210166.com
 210ec36e26fa08d6046411db1c9352a7.clo.footprintdns.com
 210z.com
@@ -14404,6 +14404,7 @@ appcloud.com
 appcloudcdn.com
 appconsent.io
 appcontent.serif.com
+appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appduu.com
@@ -50383,7 +50384,6 @@ haoyu.love
 haoyunbaike.com
 haoyuncn.net
 haoyy168.com
-haozhai.com
 haozhuodao.com
 hapax.qc.ca
 haplat.net
@@ -59364,7 +59364,6 @@ jmclaughlin.com
 jmcomic.xyz
 jmdlzx.com
 jmedia360.com
-jmjcqc.com
 jmjinrong.com
 jmjiuchang.com
 jmjkix.tofisa.com

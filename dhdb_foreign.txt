@@ -44636,6 +44636,7 @@ gemius.com
 gemius.dk
 gemius.mgr.consensu.org
 gemius.pl
+gen.alicdn.com
 gen.etherscan.io
 gen.lib.rus.ec
 gen.xxxy.biz
@@ -64827,6 +64828,7 @@ logos.com.hk
 logoslovo.ru
 logotv.com
 logowu.com
+logperf.vnexpress.net
 logping.exblog.jp
 logpoint.com
 logql.yahoo.co.jp
@@ -84883,7 +84885,6 @@ qiyegu.com
 qiyeweixin.com
 qiyexxw.com
 qiyoujiage.com
-qiyouwang.com
 qiyunbook.com
 qiyunworld.com
 qizhanming.com

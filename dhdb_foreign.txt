@@ -386,6 +386,7 @@
 0700sun.com
 070210.com
 07073h5.com
+07073vr.com
 0707cdn.com
 070ld.com
 0710522.com
@@ -6016,6 +6017,7 @@
 888bifa.com
 888cff.com
 888csdc.com
+888dde.com
 888fun-city.com
 888funcity.com
 888funcity.net
@@ -14065,6 +14067,7 @@ api.rongzhouxing.com
 api.rubic.com.tr
 api.rudderlabs.com
 api.sail-personalize.com
+api.samsungcloud.com
 api.savemedia.website
 api.sbz.vn
 api.sciencemag.org
@@ -31863,7 +31866,6 @@ data-a.ns.emailvision.net.daraz.com
 data-beacons.s-onetag.com
 data-cdn.mbamupdates.com
 data-collector.wefi.com
-data-detect.nie.netease.com
 data-failover.eroadvertising.com
 data-id.ads.oppomobile.com
 data-optout-service.uca.cloud.unity3d.com

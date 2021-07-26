@@ -13273,6 +13273,7 @@ fw6.azurewebsites.net
 fw7.azurewebsites.net
 fw8.azurewebsites.net
 fw9.azurewebsites.net
+fwcdn.com
 fwcdn.net
 fwdns.net
 fwdqw.com
@@ -22746,6 +22747,7 @@ onesto.re
 onestore.co.kr
 onestore.ms
 onetag-sys.com
+onetechsa.com.ar
 onetog.com
 onetrust.mgr.consensu.org
 onewsimg.com

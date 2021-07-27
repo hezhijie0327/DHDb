@@ -10080,7 +10080,6 @@ api.cloud.189.cn
 api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
-api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cpu.baidu.com
@@ -13240,7 +13239,6 @@ bjkaihua.net
 bjkgjlu.com
 bjkhzx.com
 bjkix-pay.kuaishoupay.com
-bjkqj.com
 bjkrtwl.com
 bjl06.com
 bjl11.com
@@ -15169,7 +15167,6 @@ cctb.net
 cctbn.com
 cctcce.com
 cctcct.com
-cctiedu.com
 cctime.com
 cction.com
 cctlife.com
@@ -22117,6 +22114,7 @@ display.360totalsecurity.com
 display.adhudong.com
 ditan360.com
 ditan369.com
+ditian-tech.com
 ditietu.com
 ditiewang.net
 ditiezu.net

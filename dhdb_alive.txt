@@ -9165,7 +9165,6 @@
 55hl.com
 55hl.net
 55home.com
-55hyk.com
 55i8.com
 55idc.com
 55jisu.com
@@ -32868,7 +32867,6 @@ bjjzsc.com
 bjjzzpt.com
 bjkaihua.com
 bjkaihua.net
-bjkgjlu.com
 bjkhzx.com
 bjkix-pay.kuaishoupay.com
 bjkqj.com
@@ -44233,6 +44231,7 @@ clickiocdn.com
 clickip.hnol.net
 clickjs.cnzz.com
 clicklog.hd.baofeng.com
+clicklog.moviebox.baofeng.com
 clicklog.moviebox.baofeng.net
 clickm.fang.com
 clickm.soufun.com
@@ -158586,7 +158585,6 @@ stats.garten.schule
 stats.gc-apple.com.akadns.net
 stats.gc.apple.com
 stats.gc.fe.apple-dns.net
-stats.geegain.com
 stats.geobox.app
 stats.getdoks.org
 stats.gethyas.com

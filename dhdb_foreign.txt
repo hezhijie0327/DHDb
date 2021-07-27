@@ -60028,7 +60028,6 @@ jp.hao123.com
 jp.moc.gov.tw
 jp.net
 jp.pandora.tv
-jp.pool.ntp.org
 jp.rti.org.tw
 jp.schroders.email
 jpaatr.astellas.jp
@@ -65308,6 +65307,7 @@ lolco.net
 loldh.com
 loldytt.com
 loldytt.org
+loldytt.tv
 loldyttt.com
 lolespor.com
 lolesports.com

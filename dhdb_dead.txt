@@ -4654,6 +4654,7 @@ analytics.services.distractify.com
 analytics.sonymusic.com
 analytics.thevideo.me
 analytics.tool.lu
+analytics.tooso.ai
 analytics.tv189.cn
 analytics.unister-gmbh.de
 analytics.vadio.com
@@ -19327,6 +19328,7 @@ m.b2fwnu.cn
 m.b5wx1.cn
 m.b6wabb.cn
 m.b93dpn.com
+m.baidu.com.zhiduo.org
 m.bapkt.com
 m.bbei7.com
 m.bbvjs.com

@@ -60040,6 +60040,7 @@ jp.hao123.com
 jp.moc.gov.tw
 jp.net
 jp.pandora.tv
+jp.pool.ntp.org
 jp.rti.org.tw
 jp.schroders.email
 jpaatr.astellas.jp
@@ -104698,7 +104699,6 @@ tlc816.com
 tlc817.com
 tlc820.com
 tlc831.com
-tlc868.com
 tlc878.com
 tlc88.com
 tlc880109.com

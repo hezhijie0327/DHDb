@@ -14255,6 +14255,7 @@ apiserver-freya.net.daraz.com
 apiserver-wlan-switch.net.daraz.com
 apiserver.r-is-1-2.net.daraz.com
 apiserverlib-ht-2.net.daraz.com
+apisnd.heytapmobi.com
 apisof.net
 apisyouwonthate.com
 apitilt.com
@@ -22727,7 +22728,6 @@ c-spanvideo.org
 c-study.net
 c-yl.com
 c.1password.com
-c.3mon.xyz
 c.6sc.co
 c.aaxads.com
 c.accountingns.emailvision.net.daraz.com
@@ -57646,7 +57646,6 @@ iopqct.drogasil.com.br
 ioqq.com
 iorltr.klingel.nl
 ios.gd.ddns.name
-iosapps.itunes.apple.com
 ioshow.com
 iosmu.com
 iot.informaengage.com

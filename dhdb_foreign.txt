@@ -4,6 +4,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -50363,7 +50364,6 @@ h16.ru
 h1665.com
 h1bz.com
 h1insights.com
-h1n1china.org
 h2.etowns.net
 h2.fartit.com
 h2.flnet.org
@@ -60315,7 +60315,6 @@ js3636.cnbole.net
 js3743.yongkang6.com
 js3810.yongkang6.com
 js4163.yongkang6.com
-js436.cnbole.net
 js44444.com
 js4476.hongtaidichan.net
 js453.cnbole.net
@@ -62172,7 +62171,6 @@ kqzvfa.maxitoys.fr
 kr.bt4g.org
 kr.com
 kr.mitsubishi-automation.co.kr
-kr.neoz.club
 kr.promo.skf.com
 kr.ua
 kr1.direct.iplc.pro

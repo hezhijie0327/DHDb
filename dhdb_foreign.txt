@@ -495,7 +495,6 @@
 09635.com
 09685.com
 096da.com
-096hg.com
 0976f392627dc8e28c7d6528a535214a.clo.footprintdns.com
 097f0ea4cce4b0e807c0b70ef5aceea4.clo.footprintdns.com
 098.com
@@ -14060,6 +14059,7 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -78900,6 +78900,7 @@ oo656.net
 oo699.net
 oocl.com
 oodji.com
+ooe.la
 oogami.name
 oogarden.com
 oogate.com

@@ -24442,7 +24442,6 @@ cdmr.rpz.su
 cdn-102.statdynamic.com
 cdn-145.privacy-mgmt.com
 cdn-146.privacy-mgmt.com
-cdn-adn.rayjump.com
 cdn-ads.thesaigontimes.vn
 cdn-alliancegravity.s3.amazonaws.com
 cdn-api.admost.com
@@ -83308,6 +83307,7 @@ pool.graft.hashvault.pro
 pool.minexmr.com
 pool.nimiq-network.com
 pool.nimiq.watch
+pool.ntp.org
 pool.supportxmr.com
 pool.tdcoincore.org
 pool.torrent.pw
@@ -93128,7 +93128,6 @@ shcs2010.com
 shcsdq.com
 shcxzxgs.com
 shd163.com
-shdhej.com
 shdzby168.com
 she.vc
 sheahomes.com

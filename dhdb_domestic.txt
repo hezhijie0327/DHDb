@@ -654,7 +654,6 @@
 1.bh5.com.cn
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -1554,7 +1553,6 @@
 1644633.sched.sma.tdnsv5.com
 164580.com
 16477799cada3.cdn.sohucs.com
-165123.com
 16587.com
 166.com
 166.net
@@ -27994,7 +27992,6 @@ gaopeng.com
 gaoqing.baixing.com
 gaoqing500.com
 gaoqingpai.com
-gaoqiwenda.com
 gaoqixhb.com
 gaore.com
 gaosan.com
@@ -50478,7 +50475,6 @@ poobbs.com
 poocg.com
 poofx.com
 pook.com
-pool.ntp.org
 pool.v6.bt.n0808.com
 poolct.17173.com
 pooldist.shouyou.com

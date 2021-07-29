@@ -4,7 +4,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -72228,6 +72227,7 @@ mobiledevsite.co
 mobiledl.adboe.com
 mobilefacebook.com
 mobileforcesoftware.com
+mobilegw.alipay.com
 mobilegw.src.alipaydns.com
 mobilehealth.net
 mobileinternational.com
@@ -97203,7 +97203,6 @@ soso.youbiyao.net
 soso7778.com
 sosobt.com
 sosody.net
-sosowenwen.com
 sosreader.com
 sostenerip.duckdns.org
 sostibet.com

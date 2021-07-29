@@ -12085,7 +12085,6 @@ bat120.com
 batch-rgeo.is.autonavi.com
 batch-rgeo.is.autonavi.com.gds.alibabadns.com
 bathome.net
-batian.net
 batmanit.com
 batpool.com
 battlenet.com.cn
@@ -34859,6 +34858,7 @@ img.8684.cn
 img.9liuda.com
 img.account.itpub.net
 img.account.itpub.net.w.kunlunca.com
+img.acgjc.com
 img.ad.zhangyue.com
 img.adbox.sina.com.cn
 img.adm.xmfish.com
@@ -36477,7 +36477,6 @@ ixniang.com
 ixpub.net
 ixsch.com
 ixu.me
-ixueshu.com
 ixueyi.com
 ixw.lcloc.com
 ixxm.com
@@ -47687,7 +47686,6 @@ o2yhq.com
 o360.youbo02.com
 o37o.net
 o3ndix.com
-o4p7y.cn
 o51d6rc1.sched.s11t.tdnsv5.com
 o574ou0.cdnnodedns.cn
 o7bwit0rqeewo5o8lorxmpmqkqdg27il.alicloudwaf.com
@@ -49299,6 +49297,7 @@ passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
 passport.lagou.com
+passport.lenovo.com
 passport.lenovo.com.cn
 passport.meituan.com
 passport.mydrivers.com
@@ -57408,7 +57407,6 @@ shuashuaapp.com
 shuazhibo.com
 shubuzi.com
 shuc-android.ksord.com
-shuc-pc-hamlet.ksord.com
 shucaiguaguo.com
 shuchongread.com
 shucong.com

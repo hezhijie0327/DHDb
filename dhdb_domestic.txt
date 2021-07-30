@@ -10066,6 +10066,7 @@ api.cloud.189.cn
 api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cpu.baidu.com
@@ -24729,7 +24730,6 @@ ee-skin.com
 ee-vip.net
 ee.hx623.cn
 ee.m19ud.cn
-ee.u0r9.cn
 ee.xlhm88.cn
 ee6a315087c7ffb1d58d8ae7ce7cf4d7.dl.txcdns.com
 eeb8ea29c0ac4b2ba1bf8960.mdbook.cn

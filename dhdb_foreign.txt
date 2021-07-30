@@ -662,6 +662,7 @@
 100tb.com
 100toutiao.com
 100txt.com
+100xfrc.com
 100xgrc.com
 100xs.com
 100xwrc.com
@@ -14802,6 +14803,7 @@ appmetrics.sprint.com
 appnext-a.akamaihd.net
 appnext.com
 appnext.hs.llnwd.net
+appnovation.com
 appnz.com
 appodeal.com
 appointments.providence.org
@@ -53136,7 +53138,6 @@ hstrck.com
 hstspreload.org
 hstt.net
 hsvrww.plain-me.com
-hsxhr.cc
 hsxiang.com
 hsyjs.com
 hsyyf.me
@@ -53530,7 +53531,6 @@ husky.ca
 huskypro.ca
 husoxn.investors.com
 hust.cc
-hustduyan.com
 hustgroup.net
 hustle.com
 hustler.com
@@ -66964,7 +66964,6 @@ magnamachine.com
 magnanni.com
 magnarider.com
 magnet.crowdcafe.com
-magnet.rayjump.com
 magnetic.is
 magnetoo.io
 magnetrack.klangoo.com

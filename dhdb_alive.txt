@@ -11040,7 +11040,6 @@
 7580.ltd
 758479.p23.tc.cdntip.com
 7585832.com
-7587366.com
 7589330.com
 7589942.com
 759d01cc0c66bd2e1469ed9b63cf764f.safeframe.googlesyndication.com
@@ -12011,7 +12010,6 @@
 8548681.com
 8548965.com
 855090fe541f4f2ad32c601ea7976ff3.clo.footprintdns.com
-855126.com
 85550.com
 8558.org
 8562475.com
@@ -25404,6 +25402,7 @@ appnext-a.akamaihd.net
 appnext.com
 appnext.hs.llnwd.net
 appnode.com
+appnovation.com
 appnz.com
 appodeal.com
 appointments.providence.org
@@ -34777,7 +34776,6 @@ bookdown.net
 bookepub.com
 bookersea.com
 bookforall.ru
-bookforall1.bookforall.ru
 bookgb.bfnn.org
 bookgb.bfnn2.org
 bookhostels.com

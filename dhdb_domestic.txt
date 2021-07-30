@@ -2,6 +2,7 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 00000.host
@@ -10534,7 +10535,6 @@ app17.com
 app178.com
 app2pixel.com
 app2xp.com
-app4cms.net
 app86.com
 app887.com
 appactivity.wmpvp.com
@@ -56287,7 +56287,6 @@ service.danmu.youku.com
 service.dedecms.com
 service.dg.wps.cn
 service.epro.sogou.com
-service.gmugmu.com
 service.jiagu.360.cn
 service.shanghai.gov.cn
 service.urchin.com

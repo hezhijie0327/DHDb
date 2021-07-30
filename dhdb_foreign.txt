@@ -3727,6 +3727,7 @@
 4738.com
 474e1d82841e936c2b2f06d1bd52be22.nrb.footprintdns.com
 4750553.com
+4779.com
 477sblive.com
 479.com
 47club.jp
@@ -4008,7 +4009,6 @@
 51cname.net
 51coolpad.com
 51dayday.com
-51dh.site
 51ebooks.com
 51education.net
 51eim.com
@@ -32650,6 +32650,7 @@ deepdive.zum.com
 deeper.com
 deephack.com
 deepiks.io
+deepin.org
 deepinghost.com
 deepinos.org
 deepintent.com

@@ -2,7 +2,6 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 00000.host
@@ -4429,6 +4428,7 @@
 520shu.com
 520wawa.com
 520wenshen.com
+520xp.com
 520yidui.com
 520z-2.com
 520zg.net

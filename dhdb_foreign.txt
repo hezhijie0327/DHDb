@@ -4,6 +4,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -6705,7 +6706,6 @@
 9996132.com
 9997762.com
 999777.com
-99992000.com
 999988211.com
 99999.suroot.com
 99999xam.com
@@ -16215,7 +16215,6 @@ av2.me
 av234567.com
 av28.com
 av2be.com
-av539.com
 av591.com
 av666.tv
 av6699.com
@@ -17199,7 +17198,6 @@ bakerssecret.com
 bakertilly.com
 bakeru.edu
 bakeryandsnacks.com
-bakuaiwu.com
 bakumon.me
 bal.com
 balabass.peerserver.com
@@ -18978,7 +18976,6 @@ bg508.com
 bg567.com
 bg87.08cdn.com
 bg919.com
-bga11.shlibaosi.cn
 bgc999.com
 bgccan.com
 bgee.cc
@@ -19678,6 +19675,7 @@ bjaodidazhong.com
 bjaokaihua.com
 bjaoyou.cn
 bjc.hrm.healthgrades.com
+bjcifco.net
 bjcluestarvpn.tk
 bjdachi.com
 bjdbrc.com
@@ -33330,7 +33328,6 @@ dgyejia.com
 dgym519.com
 dgynnj.koctas.com.tr
 dgyqr055mfays.cloudfront.net
-dgzhuorui.com
 dgzsgjg.com
 dgzzm.com
 dh005.com
@@ -55556,7 +55553,6 @@ inference.location.live.net
 inferno.demonoid.is
 inferno.demonoid.ooo
 inferno.demonoid.ph
-inferno.demonoid.pw
 infi.net
 inficn.com
 infinario.com
@@ -83636,7 +83632,6 @@ poxiao.com
 poxiaotv.com
 poxywh.majorano.com.br
 poyopara.com
-pozhishi.com
 pp-soc.com
 pp-sp.com
 pp-xxgd.com
@@ -96468,7 +96463,6 @@ sneia.org
 snfda.com
 sng.link
 snh0048.com
-snh48club.com
 sni1gl.wpc.alphacdn.net
 sni1gl.wpc.gammacdn.net
 sni1gl.wpc.kappacdn.net
@@ -99126,7 +99120,6 @@ static01.nyt.com
 static1.freebitco.in
 static1.kewaishu.info
 static1.sw-cdn.net
-static2.ero2you.com
 static2.freebitco.in
 static2.sharepointonline.com
 static2.sharepointonline.com.edgekey.net
@@ -102026,7 +102019,6 @@ t888998.com
 t91y.com
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
-t9kk.com
 ta.fartit.com
 ta.taxslayer.com
 ta.toprework.vn
@@ -106348,7 +106340,6 @@ tracker.gigatorrents.ws
 tracker.gold.org
 tracker.greenbyte.com
 tracker.grepler.com
-tracker.hama3.net
 tracker.hdsky.me
 tracker.icerocket.com
 tracker.idocdn.com
@@ -108727,6 +108718,7 @@ ubt.berlingskemedia.net
 ubuntu.com
 ubuntu.net
 ubuntuforums.org
+ubuntuqa.com
 ubvsjh.pointtown.com
 ubxvdx.accuweather.com
 ubxyz.com
@@ -109435,7 +109427,6 @@ updater-windows.com
 updater.com
 updates-s3.binaryage.com
 updates.aem.org
-updates.cdn-apple.com
 updates.devmate.com
 updates.fda.gov
 updates.gaylordhotels.com

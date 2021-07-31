@@ -32335,7 +32335,6 @@ dc0031.com
 dc0062.com
 dc0063.com
 dc0067.com
-dc0069.com
 dc0071.com
 dc0078.com
 dc08i221b0n8a.cloudfront.net
@@ -53183,6 +53182,7 @@ htt5.com
 http-echo-beta-interaction.net.daraz.com
 http3check.net
 httpbaidu.com
+httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
@@ -102663,7 +102663,6 @@ tcqccn.com
 tcr.tynt.com
 tcs.com
 tcshare.org
-tcshuishou.com
 tcsofbc.org
 tcsovi.org
 tcstudents.org
@@ -108709,6 +108708,7 @@ uber.com
 uberads.com
 uberall.com
 ubereats.com
+ubernihao.com
 uberproxy.net
 ubertags.com
 uberveiculos.com.br

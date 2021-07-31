@@ -1493,7 +1493,6 @@
 17uu.tw
 17weixing.com
 17xgame.com
-17xlm.com
 17xsj.com
 17xtv.com
 18-courier.push.apple.com
@@ -91400,6 +91399,7 @@ sdk-log-inter.youdao.com
 sdk-orion.appboy.com
 sdk.appsflyer.com
 sdk.cferw.com
+sdk.congyicn.com
 sdk.congyicn.com.m.alikunlun.com
 sdk.duihuashijie.com
 sdk.iad-03.braze.com
@@ -93777,7 +93777,6 @@ silverscreen.cc
 silversea.com
 silvervinesoftware.com
 sim-outhouse.com
-sim-solar.ro
 sim.de
 simage2.pubmatic.com
 simage4.pubmatic.com

@@ -16360,6 +16360,7 @@ act.commercial.shouji.360.cn
 act.convergencetraining.com
 act.cwsglobal.org
 act.daoju.qq.com
+act.dmall.com
 act.guanjia.qq.com
 act.lanap.com
 act.online.engineering.nyu.edu
@@ -72185,7 +72186,6 @@ gamesstack.com
 gamestar.de
 gamestlbb.com
 gamestop.com
-gametanzi.com
 gametaptap.com
 gametdd.com
 gametea.com
@@ -77645,7 +77645,6 @@ gokols.com
 gokuai.com
 gol24.pl
 gol777.com
-golang-consa.l.google.com
 golang.com
 golang.google.cn
 golang.net
@@ -100733,7 +100732,6 @@ kguowai.com
 kgw.com
 kgz4.bthetravelbrand.com
 kh.google.com
-kh.tcp4.me
 kha.web.id
 khabdha.com
 khabdha.org
@@ -116324,6 +116322,7 @@ miniitalianjob.com
 minikelowna.ca
 minikelowna.com
 minilangley.ca
+minilangley.com
 minilat.com
 minilaval.ca
 minilaval.com
@@ -134098,7 +134097,6 @@ pp.awmplus.com
 pp.cc
 pp.cn
 pp.free.fr
-pp.greensolutions.ro
 pp.muzofon-online.com
 pp.myapp.com
 pp.myapp.com.sched.ssdv6.tdnsv6.com
@@ -160832,7 +160830,6 @@ sv-api-lottery.headlines.pw
 sv-static-lottery.headlines.pw
 sv-static1-lottery.headlines.pw
 sv-video.play.aiseet.atianqi.com
-sv.allok.in
 sv.baidu.com
 sv.bdstatic.com
 sv.cdn.n1q.cn

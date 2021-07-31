@@ -3652,7 +3652,6 @@ adm.71100.net
 adm.72zx.com
 adm.86wan.com
 adm.baidu.cn
-adm.category5.tv
 adm.cnzz.net
 adm.ps.easou.com
 adm.shinobi.jp
@@ -13721,6 +13720,7 @@ get.766.com
 get.hyperwallet.com
 get.keywordsconnect.com
 get.promofor.me
+get.sogou.com
 getbs.com
 getchu.com
 getdns.xyz

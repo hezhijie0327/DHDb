@@ -3188,7 +3188,6 @@
 363322014.com
 363u.com
 364000.com
-365078.com
 365128.com
 36543.com
 365500.com
@@ -10098,6 +10097,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
@@ -29970,7 +29970,6 @@ gzwanbao.com
 gzwcjs.com
 gzweicai.com
 gzweix.com
-gzwot.com
 gzwrit.com
 gzxdf.com
 gzxf35.com
@@ -37255,7 +37254,6 @@ jigao616.com
 jiguang.cn
 jiguangdaili.com
 jiguangdanci.com
-jiguangkejigongsi.com
 jiguo.com
 jihai8.com
 jihaoba.com
@@ -40972,7 +40970,6 @@ leshuazf.com
 leshuwu.com
 lesoncooking.com
 lesports.com
-lestu.com
 letabc.com
 letaikeji.com
 letfind.com
@@ -47258,7 +47255,6 @@ nn.com
 nn670.com
 nncc626.com
 nncgs.com
-nndims.com
 nnduyi.com
 nngdjt.com
 nngjjx.com
@@ -48489,6 +48485,7 @@ osx.dianping.com
 osx.dianping.com.s2txipv6.cdntip.com
 osx.dpfile.com
 osx.dpfile.com.s2txipv6.cdntip.com
+osxapps.itunes.apple.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
 osxapps.itunes.g.aaplimg.com
@@ -52786,6 +52783,7 @@ qqaiqin.com
 qqbaobao.com
 qqbiaoqing.com
 qqbibile.com
+qqbite.com
 qqcf.com
 qqcjw.com
 qqdaqvad.v1d.szbdyd.com

@@ -18040,7 +18040,6 @@ cn.launcher.battlenet.com.cn
 cn.letou118.net
 cn.linkedin.com
 cn.made-in-china.com
-cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.ntp.org.cn
 cn.pandora.net
@@ -25821,7 +25820,6 @@ f9e09d749415eeb1b55e2b75b840cdb6.safeframe.googlesyndication.com
 f9e9542dq6tz0v6p.aliyunddos1026.com
 fa-today.com
 fa.163.com
-fa.sdxctr.com
 fa597.com
 fa9f73.api1.shuzilm.cn
 fa9f73.d2api.shuzilm.cn
@@ -56657,7 +56655,6 @@ shanzhonglei.com
 shaodaren.com
 shaodts.net
 shaoerbianchengwang.com
-shaoke.com
 shaolintagou.com
 shaolinwy.com
 shaoqun.com
@@ -58593,6 +58590,7 @@ speed.goods123.cn
 speed.ino.qq.com
 speed.tgp.qq.com
 speedeu.warsongmobile.com
+speedfantasybid.com
 speedind.warsongmobile.com
 speednt.com
 speedsz.net

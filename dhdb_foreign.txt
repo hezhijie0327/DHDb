@@ -565,6 +565,7 @@
 1.bb6688.ws
 1.car21.net.daraz.com
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -4297,7 +4298,6 @@
 53900a.com
 5395.com
 5396vvv.com
-539km.com
 53k.cc
 53ll.com
 53miji.com
@@ -4360,6 +4360,7 @@
 550098.com
 5500buyu.com
 5500w.com
+5504k.com
 5504ll.com
 55113885.com
 5511977.com
@@ -8675,6 +8676,7 @@ ad.adfurikun.jp
 ad.admitad.com
 ad.adpon.jp
 ad.adriver.ru
+ad.afy11.net
 ad.agava.tbn.ru
 ad.allboxing.ru
 ad.allstar.cz
@@ -10086,7 +10088,6 @@ ads.linktracking.net
 ads.linuxjournal.com
 ads.live365.com
 ads.livenation.com
-ads.lll5.ir
 ads.lomadee.com
 ads.lycos.com
 ads.ma7.tv
@@ -21795,6 +21796,7 @@ bs6898.com
 bsbchina.com
 bsch.serving-sys.com
 bsdrp.net
+bsdspeclink.com
 bsearchtech.com
 bseas.com
 bsembrani.duckdns.org
@@ -57578,6 +57580,7 @@ iopqct.drogasil.com.br
 ioqq.com
 iorltr.klingel.nl
 ios.gd.ddns.name
+iosapps.itunes.apple.com
 ioshow.com
 iosmu.com
 iot.informaengage.com
@@ -75984,7 +75987,6 @@ njlzhou.com
 njnlih.realitatea.net
 njorya.aosom.de
 njoyn.com
-njruifukang.com
 njrx.cc
 njrylab.com
 njs.reliancevalve.com

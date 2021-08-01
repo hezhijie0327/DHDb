@@ -24861,7 +24861,6 @@ cdnpure.com
 cdnqq.yl89.cn
 cdnr-ch-1.net.daraz.com
 cdnr-es-1.net.daraz.com
-cdnren.com
 cdns.com.tw
 cdns.lodeo.io
 cdns.mydirtyhobby.com
@@ -49741,6 +49740,7 @@ growyourbusiness.rovva.com
 grpc.termius.com
 grrrgraphics.com
 grs.dbankcloud.asia
+grs.dbankcloud.com
 grss-ieee.org
 grtmpr.vertbaudet.fr
 gru14s19-in-f11.1e100.net
@@ -57584,7 +57584,6 @@ iopqct.drogasil.com.br
 ioqq.com
 iorltr.klingel.nl
 ios.gd.ddns.name
-iosapps.itunes.apple.com
 ioshow.com
 iosmu.com
 iot.informaengage.com
@@ -83257,6 +83256,7 @@ pool.graft.hashvault.pro
 pool.minexmr.com
 pool.nimiq-network.com
 pool.nimiq.watch
+pool.ntp.org
 pool.supportxmr.com
 pool.tdcoincore.org
 pool.torrent.pw

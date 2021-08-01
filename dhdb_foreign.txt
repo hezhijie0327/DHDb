@@ -1932,7 +1932,6 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
-2.android.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -5215,7 +5214,6 @@
 7089262.com
 7090853.com
 70911h.com
-70966a.com
 70966b.com
 70966c.com
 70e6d353b77c4cf03b96e4769407d4be.clo.footprintdns.com
@@ -31429,6 +31427,7 @@ d3hitamb7drqut.cloudfront.net
 d3hj4iyx6t1waz.cloudfront.net
 d3hs51abvkuanv.cloudfront.net
 d3hwh14livah35.cloudfront.net
+d3in1te4fdays6.cloudfront.net
 d3iouejux1os58.cloudfront.net
 d3ithbwcmjcxl7.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
@@ -75568,7 +75567,6 @@ ni8.lafuma.com
 niaadia.com
 niagarafallsreview.ca
 niagarathisweek.com
-niancode.com
 nianticlabs.com
 niaobaike.com
 niaxv.cc
@@ -79646,6 +79644,7 @@ oxid.it
 oxifwsabgd.nzz.ch
 oxizwk.livique.ch
 oxlife.co
+oxp.mxptint.net
 oxrm.com
 oxygem.com
 oxygem.it

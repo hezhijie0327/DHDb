@@ -8333,6 +8333,7 @@ cm3-hkg1.cm.steampowered.com
 cm33.cf
 cm4-hkg1.cm.steampowered.com
 cmads.us.publicus.com
+cmatch.idg.se
 cmcigroup.com
 cmdts.ksmobile.com
 cmfu.com
@@ -21555,6 +21556,7 @@ mon-deu-3.inf.nimiq.net
 mon-fra-1.inf.nimiq.net
 mon-fra-2.inf.nimiq.net
 mon-gbr-1.inf.nimiq.net
+mon.majorserving.com
 mon33.us
 monavecorw.net
 mondevis-pro.com

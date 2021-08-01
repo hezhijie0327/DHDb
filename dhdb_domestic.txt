@@ -14294,7 +14294,6 @@ c.sayhi.360.cn
 c.shishishiguixinfangfuzhuangshanghan.cn
 c.ssp.qq.com
 c.sssgao999.com
-c.syooys.com
 c.sysycloud.com
 c.tdm.qq.com
 c.tieba.baidu.com
@@ -18048,6 +18047,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -29153,7 +29153,6 @@ greenlandsc.com
 greenlifegz2011.51sole.com
 greentimes.com
 greentomail.com
-greenxcx.com
 greenxf.cn
 greenxf.com
 greenxf.net

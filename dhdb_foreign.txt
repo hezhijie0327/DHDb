@@ -537,6 +537,7 @@
 0sbm.consobaby.co.uk
 0x0.st
 0x0d.im
+0x100.club
 0x1f4b0.com
 0x3d.lu
 0xff000000.com
@@ -1722,7 +1723,6 @@
 195777777.com
 1957799.com
 195839-ipv4.farm.dprodmgd106.aa-rt.sharepoint.com.spo-0004.spo-msedge.net
-195855.com
 19588.vip
 195888000.com
 195966.cc
@@ -14274,7 +14274,6 @@ apktops.com
 apl.headlines.pw
 aplayer.js.org
 aplbs.dualstack.huanju.cn
-aplbs.yy.com
 aple.com
 aplobv.xexymix.com
 aplus.com
@@ -22515,6 +22514,7 @@ bwaycn.com
 bwb101.goo.ne.jp
 bwbx.io
 bwei228.com
+bwei88.com
 bwh1.net
 bwh8.net
 bwh88.net
@@ -53465,7 +53465,6 @@ hunmagyar.org
 hunnur.com
 hunshitong.net
 hunterindustries.com
-hunterwish.cn
 hunteryvely.com
 huntington.com
 huo360.com
@@ -60071,6 +60070,7 @@ jp.hao123.com
 jp.moc.gov.tw
 jp.net
 jp.pandora.tv
+jp.pool.ntp.org
 jp.rti.org.tw
 jp.schroders.email
 jpaatr.astellas.jp

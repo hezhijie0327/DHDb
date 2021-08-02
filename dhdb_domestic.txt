@@ -10066,7 +10066,6 @@ api.cloud.189.cn
 api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
-api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cpu.baidu.com
@@ -10888,7 +10887,6 @@ as2.binstream.live
 as35q8.cn
 as3f.com
 as5.com
-asa.commerce.apple.com
 asa.commerce.apple.com.cdn20.com
 asap.ad7.com
 asc-wines.com
@@ -62145,7 +62143,6 @@ tmuyun.com
 tmwcn.com
 tmxmall.com
 tmxxw.com
-tn597.com
 tnbz.com
 tnc11-aliec2.bytedance.com
 tnc3-aliec2.snssdk.com

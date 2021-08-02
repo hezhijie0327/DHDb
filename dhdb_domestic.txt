@@ -10571,7 +10571,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -20067,6 +20066,7 @@ d.toutiao.com
 d.union.ijinshan.com
 d.url.cn
 d.webterren.com
+d.xingshangnet.com
 d.yjbys.com
 d.youth.cn
 d.youth.cn.wswebcdn.com
@@ -39057,7 +39057,6 @@ kankancity.com
 kankanews.com
 kankanmi.com
 kankannews.com
-kankantv.cc
 kanketv.com
 kankun-smartplug.com
 kanman.com
@@ -39993,6 +39992,7 @@ kuke.com
 kuke99.com
 kukecloud.com
 kukseo.com
+kuku9.com
 kukupao.com
 kukupig.com
 kukuplay.com

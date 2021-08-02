@@ -3948,7 +3948,6 @@
 1n11.com
 1nami.com
 1net.com.tw
-1news.cc
 1nmob.com
 1nongjing.com
 1nsou.com
@@ -13377,6 +13376,7 @@
 967nd.cn
 96804.com
 96822.com
+96845.com
 9685.net
 9685222.app
 9685333.app
@@ -37764,6 +37764,7 @@ caihong5g.com
 caihongbashi.net
 caihongqi.com
 caihongtang.com
+caihongto.com
 caihuaw.com
 caijing.com.cn
 caijing123.com
@@ -56541,7 +56542,6 @@ dlink.com
 dlive.pagesjaunes.fr
 dlive.tv
 dljdgn.e-lens.com.br
-dljhedu.com
 dljrw.com
 dljs.net
 dlkfm8bqz0bpx.cloudfront.net
@@ -102808,6 +102808,7 @@ labroots.com
 labs.ra.icast.cn
 labster.com
 labtoday.net
+labview.help
 labxing.com
 labyc.com.ar
 lacaixa.es

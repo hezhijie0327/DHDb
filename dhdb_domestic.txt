@@ -649,6 +649,7 @@
 1.aili.com
 1.ajiyuming.com
 1.arpun.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.cjcp.cn
@@ -2654,7 +2655,6 @@
 275st.com
 2776531.sched.d0.tdnsv5.com
 277sy.com
-2785.dlads.cn
 2799web.com
 279d51f0c5d34e2576638460.mdbook.cn
 279wo.com
@@ -6941,7 +6941,6 @@
 96pk.com
 96sdk.com
 96sir.com
-96ttt.com
 96u.com
 96weixin.com
 96yx.com
@@ -51240,7 +51239,6 @@ pwsannong.com
 pwt.zoosnet.net
 pwupdate.cdn.pandora.xiaomi.com
 px.ads.linkedin.cn
-px.ads.linkedin.com
 px.effirst.com
 px.qucaigg.com
 px.ucweb.com

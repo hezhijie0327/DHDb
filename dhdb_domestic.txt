@@ -10306,7 +10306,6 @@ api1.tuisong.baidu.com
 api2.1point3acres.com
 api2.analysys.cn
 api2.ctc.ximalaya.com
-api2.dealmoon.com
 api2.e.kuaishou.com
 api2.kuaishoupay.com
 api2.kwaishop.com
@@ -11068,6 +11067,7 @@ atido.com
 ating.info
 atishay-jain.gallerycdn.azure.cn
 atj-kuaishou.37.com.cn
+atlas.dmall.com
 atlenovo.com
 atm.yoyi.com.cn
 atobo.com
@@ -48455,7 +48455,6 @@ osx.dianping.com
 osx.dianping.com.s2txipv6.cdntip.com
 osx.dpfile.com
 osx.dpfile.com.s2txipv6.cdntip.com
-osxapps.itunes.apple.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
 osxapps.itunes.g.aaplimg.com
@@ -60915,7 +60914,6 @@ taolx.com
 taomanhua.com
 taomee.com
 taomeiju.com
-taomeisi.com
 taoming.com
 taomingyan.com
 taonienie.com
@@ -61372,7 +61370,6 @@ testeast2.blob.core.chinacloudapi.cn
 testeb.com
 testerhome.com
 testplus.cn
-testroad.org
 testrust.com
 testtao.com
 testtest.in.8866.org

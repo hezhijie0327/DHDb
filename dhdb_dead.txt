@@ -8655,6 +8655,7 @@ collecter.frontjs.com
 collection.theaa.com
 collector-axa.cloud.ca.com
 collector-medium.lightstep.com
+collector-steal.ga
 collector.apester.com
 collector.puhutv.com
 collector.shopstream.co
@@ -12817,7 +12818,6 @@ fanzhicai.com
 fanzhiyang.com
 fanzhuang.net.cn
 fapoixihaear.localdomain
-faqwork.com
 far2000.com
 farfetch-apps.com
 farfetch-contents.com

@@ -10096,7 +10096,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
@@ -17890,7 +17889,6 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
-cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -52639,6 +52637,7 @@ qm-dig.wtzw.com
 qm.qq.com
 qm000.com
 qm120.com
+qm989.com
 qmacro.com
 qmai.cn
 qmango.com

@@ -28857,7 +28857,6 @@ baiduzhidao.site
 baiduzjn.com
 baidyanath.net.in
 baietu.com
-baifae.com
 baifan.net
 baifayule.com
 baifendian.com
@@ -30521,7 +30520,6 @@ be-xx.com
 be.cordial.com
 be.dpool.sina.cn
 be.net.daraz.com
-be.sinbinchina.cn
 be4.herokuapp.com
 be5620a65285c0abe8bd197fe366d865.fp.measure.office.com
 be738b60908021c9817b0f021b69f07b.dlied1.cdntips.net
@@ -98324,6 +98322,7 @@ jp.hao123.com
 jp.moc.gov.tw
 jp.net
 jp.pandora.tv
+jp.pool.ntp.org
 jp.promo.skf.com
 jp.rti.org.tw
 jp.schroders.email
@@ -123692,6 +123691,7 @@ nmslzlgbe5xbag6t.onion.ly
 nmszjy.com
 nmtouzi.com
 nmtyxy.com
+nmvps.com
 nmweidian.com
 nmzc02.com
 nmzh.net

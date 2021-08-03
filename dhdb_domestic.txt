@@ -10578,6 +10578,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -43159,7 +43160,6 @@ m.xinhuanet.com
 m.xitongzhijia.net
 m.xm124.com
 m.xuexila.com
-m.xxkio.com
 m.xyadaa.com
 m.xyadxia.com
 m.y195j.cn
@@ -43607,7 +43607,6 @@ manhualang.com
 manhuama.cn
 manhuama.net
 manhuang.org
-manhuaniu.com
 manhuatai.com
 manhuayang.com
 manibnb.com

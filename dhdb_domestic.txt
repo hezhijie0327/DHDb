@@ -418,6 +418,7 @@
 0731i.com
 0731jiaju.com
 0731job.com
+0731rj.com
 0731tg.com
 0731wan.com
 0733news.com
@@ -2824,7 +2825,6 @@
 2zimu.com
 3.39zuoye.com
 3.5646.cn
-3.cn.pool.ntp.org
 3.iscrv.com
 3.pic.pc6.com
 3.ssqzj.com
@@ -18915,7 +18915,6 @@ conversion.pro.cn
 convertlab.com
 convshop.com
 conyedit.com
-coo8.com
 coocaa.com
 coocare.com
 cooch3d.com
@@ -22992,7 +22991,6 @@ download.zhushou.sogou.com
 download.zjsyawqj.cn
 download.zzb6.cn
 download1.xmcdn.com
-download2.ctrip.com
 download2.ctrip.com.a.bdydns.com
 download2.ctrip.com.wswebcdn.com
 download2.xmcdn.com
@@ -41291,7 +41289,6 @@ lieyuncapital.com
 lieyunwang.com
 lif8.com
 lifa.httpcn.com
-lifang88.com
 lifanmy.com
 life.ccb.com
 life.e0575.com
@@ -57314,6 +57311,7 @@ shrcdy.com
 shrek.6.cn
 shrenqi.com
 shrobotpark.com
+shsaic.net
 shsbnu.net
 shsby.com
 shsci.org

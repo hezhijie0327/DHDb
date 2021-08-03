@@ -3610,7 +3610,6 @@
 1924391.shop.liebiao.com
 192ly.com
 193.net.daraz.com
-1931.duowan.com
 1931354.sched.sinastatic-dk.tdnsv5.com
 1933471.com
 1937cn.com
@@ -13735,6 +13734,7 @@
 999wx.com
 999xs.com
 999xy.net
+99ac-503270-tencent-hongkong-liveperso.d1.teridioncloud.net
 99acres.com
 99av.tv
 99bdf.com
@@ -82362,7 +82362,6 @@ hdscg.com
 hdsdyyy.com
 hdsky.me
 hdsky.net
-hdslb.com
 hdslb.net
 hdsupplysolutions.com
 hdthjy.com
@@ -148743,7 +148742,6 @@ seed-pol-4.inf.nimiq.network
 seed.bitcoin.sipa.be
 seed.bitcoin.sprovoost.nl
 seed.bitcoin.wiz.biz
-seed.bitcoinstats.com
 seed.btc.petertodd.org
 seed.nimiqpool.com
 seed1.qiangdong.xyz

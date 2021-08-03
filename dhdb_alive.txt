@@ -49458,7 +49458,6 @@ cs.console.aliyun.com
 cs.coopeservidores.fi.cr
 cs.dds.microsoft.com
 cs.emxdgt.com
-cs.hot.net.il
 cs.lianjia.com
 cs.lkqd.net
 cs.mbgame.gamesafe.qq.com
@@ -83896,7 +83895,6 @@ hj294.com
 hj2966.com
 hj3199.com
 hj3299.com
-hj354.com
 hj398.com
 hj447.com
 hj473.com
@@ -83917,7 +83915,6 @@ hj6855.com
 hj7001.com
 hj7009.com
 hj7738.com
-hj794.com
 hj8058.com
 hj829.com
 hj8383.com
@@ -102136,7 +102133,6 @@ kr.xinhuanet.com
 kr.xinhuanet.com.lxdns.com
 kr01.dns.meo-sub.site
 kr02.dns.meo-sub.site
-kr1.direct.iplc.pro
 kr1.hkts.win
 kr2.000714.xyz
 krabbenspringen.de
@@ -106844,7 +106840,6 @@ livedoor.net
 livedrive.com
 livefyre.com
 livehapp.com
-livein.common.com
 liveinau.com
 liveincy.com
 liveintent.com
@@ -128759,6 +128754,7 @@ p.3.cn
 p.3.cn.gslb.qianxun.com
 p.37see.com
 p.6463.com
+p.7060.la
 p.99mssj.com
 p.abcache.com
 p.ad.gt

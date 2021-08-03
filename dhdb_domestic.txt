@@ -10162,7 +10162,6 @@ api.lequ.ptqy.gitv.tv
 api.lianlianlvyou.com
 api.live.bilibili.com
 api.luffycity.com
-api.lwxs99.com
 api.m.gds.taobao.com
 api.m.huya.com
 api.m.jd.com
@@ -60927,7 +60926,6 @@ taoguaji.com
 taohaobang.com
 taohhui.com
 taohua.com
-taohuazu.pw
 taohui.pub
 taohuichang.com
 taohuizhou.com

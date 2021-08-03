@@ -13984,6 +13984,7 @@ api.cloudmobi.net
 api.codacy.com
 api.codeclimate.com
 api.coinerra.com
+api.comm.miui.com
 api.company-target.com
 api.cookielaw-script.it
 api.cookielaw.eu
@@ -36195,7 +36196,6 @@ e.marketing.dpd.co.uk
 e.marketing.dpdlocal.co.uk
 e.miaoxinqipei.com
 e.nbkbgd.cn
-e.nchet.com
 e.net.daraz.com
 e.nexac.com
 e.oaktreemobility.co.uk
@@ -57794,7 +57794,6 @@ ipolska.pl
 ipoock.com
 ipornia.com
 iporntv.net
-iportal.me
 iposeidongame.com
 ipotd.com
 ipowerweb.com
@@ -59128,7 +59127,6 @@ jbo10.com
 jbo13.com
 jbo25.com
 jbo27.com
-jbo28.com
 jbo53.com
 jbo61.com
 jbo65.com
@@ -82402,6 +82400,7 @@ pixel.advertising.com
 pixel.ampry.com
 pixel.anyclip.com
 pixel.app.returnpath.net
+pixel.archive.is
 pixel.augsburger-allgemeine.de
 pixel.bilinmedia.net
 pixel.blivenyc.com
@@ -85225,6 +85224,7 @@ px.mystakidis.gr
 px.owneriq.net
 px.staticfiles.at
 px.steelhousemedia.com
+px.surveywall-api.survata.com
 px.wayfair.com
 px.wp.pl
 px.za.zalo.me

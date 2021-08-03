@@ -17902,6 +17902,7 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
+cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -55676,7 +55677,6 @@ sciyon.com
 scjgj.gz.gov.cn
 scjjrb.com
 scjtaq.com
-scjyzb.net
 scjzjyjc.com
 sclf.org
 sclick.6rooms.com
@@ -56099,7 +56099,6 @@ security-lq.snssdk.com
 security-v6.ias.tencent-cloud.net
 security-web.cdn-go.cn
 security.bilibili.com
-security.browser.miui.com
 security.cdnetworks.com
 security.gome.com.cn
 security.iqiyi.com

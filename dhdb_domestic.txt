@@ -2136,7 +2136,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.asia.pool.ntp.org
 2.bashenghuo.com
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -7284,6 +7283,7 @@ a.cnzz.com.gds.alibabadns.com
 a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
+a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -9704,7 +9704,6 @@ anquanxia.com
 anquanzhuomian.com
 anrayer.com
 anrenmind.com
-anrip.com
 anruichina.com
 ansgo.com
 anshan.anjuke.com
@@ -21850,7 +21849,6 @@ dianshijia.com
 dianshimo.com
 dianshu119.com
 diantoushi.com
-diantui.net
 dianwanhezi.com
 dianwannan.com
 dianwoba.com
@@ -28515,7 +28513,6 @@ ghostchina.com
 ghostsf.com
 ghostxp2.com
 ghostxx.com
-ghpym.com
 ghrlib.com
 ghs.net
 ghsmpwalmart.com

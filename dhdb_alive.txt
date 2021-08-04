@@ -15607,7 +15607,6 @@ abc.hearst.co.uk
 abc.hkepc.com
 abc.hkepc.net
 abc.hopto.org
-abc.if.qidian.com
 abc.jia.com
 abc.jia.com.wswebcdn.com
 abc.net.au
@@ -60441,6 +60440,7 @@ e-vcdn.anthill.vn
 e-video.billioncart.in
 e-volucion.es
 e-volution.ai
+e-wei.com.cn
 e-wheels.no
 e-wie-einfach.de
 e-wok.tv

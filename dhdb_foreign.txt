@@ -1931,6 +1931,7 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
+2.android.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -4029,6 +4030,7 @@
 51ir.cn
 51jav.org
 51jiarenla.com
+51jiasu.com
 51jingke.com
 51jsq.net
 51juejinjie.com.cn
@@ -66844,7 +66846,6 @@ m.bainianx.com
 m.baiyangzs.com
 m.bellwethercoffee.com
 m.biduo.cc
-m.biquge5200.cc
 m.biqugezw.com
 m.bjaoyou.cn
 m.box.com

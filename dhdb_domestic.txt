@@ -10591,7 +10591,6 @@ appdownload.mail.10086.cn
 appdownload.youku.com
 appdriver.cn
 appdriver.com.cn
-appdump.nie.netease.com
 appeasou.com
 appengine.wmpvp.com
 apperr.log.mgtv.com
@@ -31146,7 +31145,6 @@ hectorstatic.baidu.com.a.bdydns.com
 hedaotang.net
 heduibu.com
 heeeeeh.com
-heekca.com
 heerit.com
 hef6l6ae.v1d.szbdyd.com
 hef6l7dx.v1d.szbdyd.com
@@ -45900,7 +45898,6 @@ murl.tv
 muse100.com
 muses-ugc.iqiyi.com
 mushafa.net
-mushroomchina.com
 music-pics-cn.obs.cn-north-2.myhuaweicloud.cn
 music.163.com
 music.baidu.com
@@ -50817,7 +50814,6 @@ pss.alicdn.com
 pss.alicdn.com.gds.alibabadns.com
 pstatic.xunlei.com
 pstips.net
-pstv.tv
 pstxg.com
 psxiazai.com
 psy-1.com

@@ -12497,7 +12497,6 @@ alqp190.com
 alqp195.com
 alqp24.com
 alqp37.com
-alqp41.com
 alqp49.com
 alqp56.com
 alqp76.com
@@ -86780,7 +86779,6 @@ quelle.de
 quentic.com
 query.ess-apple.com.akadns.net
 query.ess.apple.com
-query.hicloud.com
 query.prod.cms.rt.microsoft.com
 querylist.cc
 queryly.com
@@ -89183,6 +89181,7 @@ rfxcel.actonservice.com
 rfxcel.com
 rg.yottos.com
 rg3.github.io
+rgb128.com
 rgdjfb.avh-outdoor.nl
 rge.com
 rgfc.net

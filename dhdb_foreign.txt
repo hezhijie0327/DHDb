@@ -4,6 +4,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -1488,7 +1489,6 @@
 17uu.tw
 17weixing.com
 17xgame.com
-17xsj.com
 17xtv.com
 17zixue.com
 18-courier.push.apple.com
@@ -52654,7 +52654,6 @@ hkwesi77.xyz
 hkwnnz.selfieroom.pl
 hkxen.com
 hkzh247.wwtta1.com
-hkzlcm.com
 hl-vihannes.fi
 hl.com
 hl168.com
@@ -66973,7 +66972,6 @@ m.nejup.com
 m.nfydd.com
 m.niegg.com
 m.nkjfzq43034.cn
-m.nmtouzi.com
 m.nydjsm.cn
 m.obeip.com
 m.oem-cosmetic.com
@@ -66989,7 +66987,6 @@ m.pieaa.com
 m.pl.pornzone.tv
 m.pncle8.com
 m.poloniex.com
-m.prazpf.cn
 m.premier.info.shutterstock.com
 m.pubgorg.xyz
 m.pufei8.com
@@ -80979,7 +80976,6 @@ panya-realestate.000webhostapp.com
 pao-pao.net
 pao-pao.org
 pao66.com
-pao77.com
 paoche.pw
 paochefang.com
 paodeacucar.com
@@ -87072,6 +87068,7 @@ r.5207470.com
 r.ad1.ru
 r.akipam.com
 r.bbci.co.uk
+r.browser.miui.com
 r.dir.bg
 r.dlandroid.com
 r.edge.inmobicdn.net

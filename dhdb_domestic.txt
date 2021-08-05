@@ -2135,6 +2135,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
+2.asia.pool.ntp.org
 2.bashenghuo.com
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -10630,6 +10631,7 @@ applog.ddxq.mobi
 applog.reader.qq.com
 applog.uc.cn
 applog.ucdns.uc.cn
+applog.yiche.com
 applogapi.autohome.com.cn
 applogios.uc.cn
 applycardbos.allinfinance.com
@@ -12060,7 +12062,6 @@ base.95516.com
 base.95516.com.wscdns.com
 base64.us
 basemu.com
-baseniao.com.cn
 basequan.com
 basestonedata.com
 bashan.com
@@ -24547,7 +24548,6 @@ ecohumanity.org
 ecollision.shareinstall.com.cn
 ecomcbjs.jomodns.com
 ecomgxh.kuwo.cn
-ecommerceintegration-public-service-ecomprod02.ol.epicgames.com
 ecomoter.com
 ecook.cn
 ecoplastech.com
@@ -34498,6 +34498,7 @@ ikea.cn
 ikeguang.com
 ikemeng.com
 ikforums.com
+ikikanan.com
 ikjtao.com
 ikjzd.com
 iknow-base.bj.bcebos.com
@@ -59991,7 +59992,6 @@ sxdanke.cn
 sxdkj.com
 sxdnserror1.wo.com.cn
 sxdnserror3.wo.com.cn
-sxdnserror6.wo.com.cn
 sxdygbjy.com
 sxdzyp.com
 sxemc.com

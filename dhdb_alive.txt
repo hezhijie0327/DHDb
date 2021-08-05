@@ -56257,6 +56257,7 @@ dispatcher.mng-ads.com
 dispatcher.upmc.uc.cn
 dispenser-rtb.sape.ru
 display.360totalsecurity.com
+display.ad.daum.net
 display.ad.g.daum.net
 display.adhudong.com
 display.digitalriver.com
@@ -139350,6 +139351,7 @@ qqweb.qq.com
 qqwechat.com
 qqwmly.com
 qqwmx.com
+qqwtb.com
 qqwwr.com
 qqwxmail.com
 qqxiazai.com
@@ -149424,7 +149426,6 @@ server44.dubhosting.co.uk
 server5319.us.to
 serveraddr.service.kugou.com
 serverbid.com
-serveres-gmail.myftp.biz
 serverfault.com
 serverless.ink
 serverlesslibrary.net

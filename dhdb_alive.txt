@@ -9992,6 +9992,7 @@
 633146.shop.258.com
 63346.com
 633a.com
+633ca.com
 633ct.com
 633jjj.net
 633mmm.net
@@ -41021,6 +41022,7 @@ cfeo.bealge.sogou.com
 cferw.com
 cff888.com
 cffbb4c452e0f480bd203063488c796c.safeframe.googlesyndication.com
+cffw.net
 cfg-1.pddpic.com
 cfg-2.pddpic.com
 cfg-cdn.aiclk.com
@@ -50248,6 +50250,7 @@ cuiauth.lenovo.com.cn
 cuibulcuvipere.ro
 cuicoterapia.cl
 cuies.com
+cuihu100.com
 cuihuan.net
 cuijunwei.com
 cuiniaoedu.com
@@ -53637,6 +53640,7 @@ dcs-live.apis.anvato.net
 dcs.audi.com
 dcs.conac.cn
 dcs.esprit.at
+dcs.esprit.be
 dcs.esprit.co.uk
 dcs.esprit.com
 dcs.esprit.cz
@@ -105913,6 +105917,7 @@ lightget.com
 lightgx.com
 lighthonestyhrd.org
 lighthouse.dmallcdn.com
+lighthouseapi.dmall.com
 lighti.me
 lighting163.com
 lightingchina.com
@@ -126010,6 +126015,7 @@ odysee.com
 odysseylogistics.com
 oe.tredsd.com
 oe24.at
+oe3511.com
 oealy.com
 oeasy.org
 oebuplo.000webhostapp.com
@@ -152964,7 +152970,6 @@ skypedataprdcolneu04.cloudapp.net
 skypedataprdcolneu05.cloudapp.net
 skypedataprdcolneu06.cloudapp.net
 skypedataprdcoluks01.cloudapp.net
-skypedataprdcoluks02.cloudapp.net
 skypedataprdcoluks03.cloudapp.net
 skypedataprdcoluks04.cloudapp.net
 skypedataprdcolweu00.cloudapp.net

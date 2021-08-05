@@ -10097,7 +10097,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
@@ -27166,7 +27165,6 @@ free.advertising.cdn.vip.xunlei.com
 free.mk
 free.sinaimg.cn
 free.sinaimg.cn.w.kunlunea.com
-free1210.com
 free789.com
 freebuf.com
 freecplus.net
@@ -46945,7 +46943,6 @@ nhz.adwo.com
 nhzedu.com
 nhzj.com
 nhzs.com
-ni.hnjls.com.cn
 ni4r5f3.cachenode.cn
 ni8.com
 nian.so

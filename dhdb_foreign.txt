@@ -1,6 +1,5 @@
 0-courier.push.apple.com
 0-courier2.push.apple.com
-0-gold.net
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
@@ -71942,6 +71941,7 @@ mingxinglai.com
 mingxiubgjj.com
 mingyi.com
 mingyuezw.com
+mingzihui.com
 mingzw.net
 minhang.cc
 minhhue.net
@@ -75996,7 +75996,6 @@ newzfind.com
 newzgames.com
 newzit.com
 newzkoo.com
-nex.163.com
 nex4.net
 nexac.com
 nexage.com

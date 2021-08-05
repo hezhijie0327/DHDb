@@ -655,7 +655,6 @@
 100pd.cc
 100pd.com
 100qnrc.com
-100rjrc.com
 100searchengines.com
 100shop.com
 100sihu.com
@@ -24562,6 +24561,7 @@ cdmr.rpz.su
 cdn-102.statdynamic.com
 cdn-145.privacy-mgmt.com
 cdn-146.privacy-mgmt.com
+cdn-adn.rayjump.com
 cdn-ads.thesaigontimes.vn
 cdn-alliancegravity.s3.amazonaws.com
 cdn-api.admost.com
@@ -85547,6 +85547,7 @@ pstatic.net
 pstmrk.it
 pstorage.space
 pstream.net
+pstv.tv
 psu.edu
 pswec.com
 psxsjo.carrano.com.br

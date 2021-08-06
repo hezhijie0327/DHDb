@@ -33724,6 +33724,7 @@ diff.smartadserver.com
 diff2.smartadserver.com
 diff3.smartadserver.com
 diffuser-cdn.app-us1.com
+dig.bdurl.net
 dig.ultimedia.com
 digbo.org
 digbysblog.blogspot.hk
@@ -44019,6 +44020,7 @@ fun612.com
 fun6606.com
 fun727.com
 fun767.com
+fun7733.com
 fun78.com
 fun780.com
 fun8011.com
@@ -83941,6 +83943,7 @@ pool.graft.hashvault.pro
 pool.minexmr.com
 pool.nimiq-network.com
 pool.nimiq.watch
+pool.ntp.org
 pool.supportxmr.com
 pool.tdcoincore.org
 pool.torrent.pw

@@ -2714,6 +2714,7 @@
 29gl.com
 29og5p1.cachenode.cn
 29xf.com
+29yx.com
 2a.com.cn
 2a.zol-img.com.cn
 2a.zol-img.com.cn.wswebpic.com
@@ -10574,7 +10575,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -17896,7 +17896,6 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
-cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net

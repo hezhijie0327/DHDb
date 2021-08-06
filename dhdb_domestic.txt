@@ -10576,6 +10576,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -22990,6 +22991,7 @@ download.zhushou.sogou.com
 download.zjsyawqj.cn
 download.zzb6.cn
 download1.xmcdn.com
+download2.ctrip.com
 download2.ctrip.com.a.bdydns.com
 download2.ctrip.com.wswebcdn.com
 download2.xmcdn.com
@@ -56665,6 +56667,7 @@ shaoyangxian.baixing.com
 shaoyee.com
 shaozi.info
 shaozimama.com
+shaphc.org
 shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 share.api.weibo.cn
 share.baidu.com

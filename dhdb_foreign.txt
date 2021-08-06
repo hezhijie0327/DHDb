@@ -3,7 +3,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -564,7 +563,6 @@
 1.bb6688.ws
 1.car21.net.daraz.com
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -2934,7 +2932,6 @@
 33331.com
 3333144.com
 3333644.com
-33339.com
 3333buyu.com
 3333jinsha.com
 3336637.com
@@ -14518,7 +14515,6 @@ app3.letmacwork.world
 app3.salesmanago.pl
 app365.gq
 app365.ml
-app4.greatmacsoft.tech
 app4.letslowbefast.life
 app5.fastermac.tech
 app55555.com
@@ -59220,7 +59216,6 @@ j3hwmp9uprdrkwnev3npevj7mlt2x1620916487.nuid.imrworldwide.com
 j5756.com
 j60358.com
 j6396.com
-j782e.cn
 j838.com
 j83ad.speedrun.com
 j84248.com
@@ -82872,7 +82867,6 @@ ping.richardtaylor.dev
 ping.staticmoly.me
 ping.ublock.org
 pingan.com.hk
-pingapple.com
 pingback.giphy.com
 pingback.issuu.com
 pingdom.net
@@ -86630,7 +86624,6 @@ qtdebug.com
 qtdkfh.beautywelt.de
 qtfy30.com
 qtfy7.com
-qtlcdn.com
 qto.reprintingstakeholder.com
 qtonghua.com
 qtorzy.mothercare.ae

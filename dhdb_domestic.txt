@@ -17894,6 +17894,7 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
+cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -20414,7 +20415,6 @@ daczgrnt.v1d.szbdyd.com
 daczz56l.v1d.szbdyd.com
 dad7715a6ce9f10f1bab6bfa565c0545.v.smtcdns.net
 dadaabc.com
-dadaabcc.com
 dadabus.com
 dadagame.com
 dadagem.xyz
@@ -40723,7 +40723,6 @@ leanwind.com
 leap-pc.com
 leapmie.com
 leapmotor.com
-learn-abc.com
 learn-quantum.com
 learn.chaoxing.com
 learn.u3d.cn
@@ -53717,7 +53716,6 @@ r.inews.qq.com
 r.juxuyun.com
 r.l.youku.com
 r.mail.163.com
-r.photo.store.qq.com
 r.ppdai.com
 r.sax.sina.com.cn
 r.sinaimg.cn
@@ -53958,7 +53956,6 @@ react-china.org
 react.mobi
 read.qidian.com
 read100.com
-readblocks.com
 readceo.com
 readdsp.com
 readend.net

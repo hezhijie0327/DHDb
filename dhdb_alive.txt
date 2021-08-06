@@ -4777,6 +4777,7 @@
 23job.net
 23ks.com
 23lvxing.com
+23qb.com
 23qb.net
 23txt.com
 23us.cc
@@ -18693,6 +18694,7 @@ ads.us.e-planning.net
 ads.usatoday.com
 ads.uxs.at
 ads.v-lazer.com
+ads.v3.com
 ads.v3exchange.com
 ads.vaildaily.com
 ads.vamaker.com
@@ -27808,6 +27810,7 @@ awstaticdn.net
 awsthinkbox.com
 awstrust.com
 awsuvx.lavprisvvs.dk
+awsync.yandex.ru
 awtks.com
 awtmt.com
 awuapj.landwatch.com
@@ -80755,6 +80758,7 @@ h5.ldvip26.com
 h5.ldvip27.com
 h5.ldvip28.com
 h5.ldvip29.com
+h5.ldvip30.com
 h5.ldvip31.com
 h5.ldvip32.com
 h5.ldvip34.com
@@ -135316,7 +135320,6 @@ privacy.microsoft.com
 privacy.outdoorsg.com
 privacy.selbst.de
 privacy.xboxlive.com
-privacy4browsers.com
 privacybox.de
 privacycollector-prod-evidon-1122372851.us-east-1.elb.amazonaws.com
 privacyflake.com

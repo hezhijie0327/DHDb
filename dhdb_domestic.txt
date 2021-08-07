@@ -10629,6 +10629,7 @@ applicationloader.net
 applinzi.com
 applog.camera360.com
 applog.ddxq.mobi
+applog.matrix.netease.com
 applog.reader.qq.com
 applog.uc.cn
 applog.ucdns.uc.cn
@@ -23198,7 +23199,6 @@ dss3.baidu.com
 dss3.bdstatic.com
 dssz.com
 dsti.net
-dstoutiao.com
 dswjcms.com
 dswzxh.com
 dsxdn.com
@@ -32204,7 +32204,6 @@ hostcto.com
 hostelxian.com
 hostker.com
 hostxen.com
-hot.browser.miui.com
 hot.m.shouji.360tpcdn.com
 hotalk.com
 hotchat-im.iqiyi.com

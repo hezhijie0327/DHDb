@@ -4031,6 +4031,7 @@ ads2.opensubtitles.org
 ads2.revenue.net
 ads2.rp.pl
 ads2.tweetna.ir
+ads2.virtumundo.com
 ads3.adinc.co.kr
 ads3.advance.net
 ads3.mojiva.com
@@ -10214,6 +10215,7 @@ das-rpt-log.ucloud.cn
 das.api.youku.com
 das.biquge3.com
 dashabi6.com
+dashanghaizhuce.com
 dashaqi.ga
 dashboard.inwemo.com
 dashboard.monerise.com

@@ -3,6 +3,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -52627,7 +52628,6 @@ hkwesi66666.xyz
 hkwesi77.xyz
 hkwnnz.selfieroom.pl
 hkxen.com
-hkzh247.wwtta1.com
 hl-vihannes.fi
 hl.com
 hl168.com
@@ -92244,7 +92244,6 @@ search.aol.com
 search.avg.com
 search.avira.com
 search.bg
-search.browser.miui.com
 search.buzzdock.com
 search.ch
 search.com
@@ -103363,7 +103362,6 @@ tb518.com
 tb555.com
 tb58.net
 tb5959.com
-tb6601.cc
 tb6601.com
 tb6605.com
 tb6606.com

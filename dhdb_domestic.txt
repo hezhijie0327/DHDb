@@ -1872,6 +1872,7 @@
 1894896.vp.tcdnvod.com
 1894907.p23.tc.cdntip.com
 1895556.p23.tc.cdntip.com
+1895m.com
 189cube.com
 189ebuy.com
 189key.com
@@ -49738,7 +49739,6 @@ phpkaiyuancms.com
 phpkhbd.com
 phpkoo.com
 phpno.com
-phpok.com
 phpor.net
 phppx.com
 phpsong.com
@@ -57326,6 +57326,7 @@ shuashuaapp.com
 shuazhibo.com
 shubuzi.com
 shuc-android.ksord.com
+shuc-pc-hamlet.ksord.com
 shucaiguaguo.com
 shuchongread.com
 shucong.com

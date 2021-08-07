@@ -6169,7 +6169,6 @@
 9009615.com
 900days.cyaontheroad.com
 900php.com
-901053.cc
 9012372.com
 901jeffersonoakland.com
 9024432.com
@@ -14110,7 +14109,6 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
-api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -14400,6 +14398,7 @@ app-gameplayer.dmm.com
 app-lon07.marketo.com
 app-sales.net
 app-sdylqipai3917.com
+app-site-association.cdn-apple.com
 app-sj05.marketo.com
 app-sj06.marketo.com
 app-sj13.marketo.com
@@ -52470,7 +52469,6 @@ hk.mobi.yahoo.com
 hk.myblog.yahoo.com
 hk.napi.ucweb.com
 hk.news.yahoo.com
-hk.pool.ntp.org
 hk.schroders.email
 hk.search.yahoo.com
 hk.tomonews.net
@@ -58778,6 +58776,7 @@ it.wikipedia.org
 it.zettle.com
 it1.com
 it1069.com
+it1352.com
 it163.com
 it165.net
 it736.com
@@ -60596,7 +60595,6 @@ js.ad-spire.net
 js.ad-stir.com
 js.adsrvr.org
 js.appboycdn.com
-js.avstats.com
 js.bckrono.cn
 js.blozoo.info
 js.braintreegateway.com

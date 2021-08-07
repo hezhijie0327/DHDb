@@ -14305,6 +14305,7 @@ c.uaa.iqiyi.com
 c.v.qq.com
 c.v4dwkcv.com
 c.w.inmobi.cn
+c.wantxt.cc
 c.weizhenwx.com
 c.whbhsoft.cn
 c.wkanx.com
@@ -28321,7 +28322,6 @@ geshui.com
 geshui100.com
 geshuishuilvbiao2017.com
 gesuo.com
-get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -50825,6 +50825,7 @@ ptg.tc.qq.com
 ptg.tcdn.qq.com
 pthxuexi.com
 ptimg.org
+ptisys.com
 ptlogin.qidian.com
 ptlogin.yuewen.com
 ptlogin2.docs.qq.com

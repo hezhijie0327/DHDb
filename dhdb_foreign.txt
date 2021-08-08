@@ -2491,6 +2491,7 @@
 26uuu.com
 26uuu.org
 26wd.com
+26youxi.com
 26yx.com
 27-courier.push.apple.com
 27-courier2.push.apple.com
@@ -26303,7 +26304,6 @@ ci.quickbooks.com
 ci.r-hx-1.net.daraz.com
 ci.r-ln-1.net.daraz.com
 ci.security
-ci170.fafafa3388.com
 ci4s.com
 ci6.googleusercontent.com
 ci77.net
@@ -54117,6 +54117,7 @@ hyzm.cc
 hz-gn.com
 hz1.lanmei80.com
 hzbi.org
+hzcuizhai.com
 hzdaye.m.zwdu.com
 hzdjfb.polskikoszyk.pl
 hzeduask.com
@@ -54267,6 +54268,7 @@ i.sng.link
 i.ssix.io
 i.stack.imgur.com
 i.static.zaplata.bg
+i.tantanapp.com
 i.v2ex.co
 i.vimeocdn.com
 i.w55c.net
@@ -70176,6 +70178,7 @@ mengjiayouxi.com
 menglangroup.com
 mengxi.com
 mengxiangeka.com
+mengzhan.me
 mengzone.com
 menicon.com
 menn.blog
@@ -95663,7 +95666,6 @@ smetrics.boscovs.com
 smetrics.boston.com
 smetrics.bostonglobe.com
 smetrics.bpbusinesssolutions.com
-smetrics.brandsworld.com.sg
 smetrics.braunability.com
 smetrics.brett-robinson.com
 smetrics.brewersfayre.co.uk

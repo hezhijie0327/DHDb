@@ -16386,7 +16386,6 @@ act.commercial.shouji.360.cn
 act.convergencetraining.com
 act.cwsglobal.org
 act.daoju.qq.com
-act.dmall.com
 act.guanjia.qq.com
 act.lanap.com
 act.online.engineering.nyu.edu
@@ -139806,7 +139805,6 @@ quanxiangyun.com
 quanxiaoshuo.com
 quanxs.net
 quanyin.xyz
-quanyouhui.cc
 quanzhanketang.com
 quanzhi.com
 quanzhifu.net

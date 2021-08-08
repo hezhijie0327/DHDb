@@ -651,6 +651,7 @@
 1.bh5.com.cn
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -2878,7 +2879,6 @@
 315003.com
 3150315.com
 315034.com
-315166.com
 315196.com
 31526920.qc.x.bsgslb.cn
 315269b8.qc.x.bsgslb.cn
@@ -29847,7 +29847,6 @@ gzdingyu.com
 gzdsw.com
 gzenxx.com
 gzexpo.com
-gzfga.cc
 gzfilm.com
 gzfsnet.com
 gzfxkwl.com
@@ -31708,7 +31707,6 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
-hk.linkedin.com
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site

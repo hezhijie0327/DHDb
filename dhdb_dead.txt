@@ -1561,6 +1561,7 @@
 51fane.net
 51fanqiang.com
 51fmzg.com
+51fxyh.com
 51golife.com
 51gpb.com
 51haibei.net
@@ -20629,6 +20630,7 @@ m.yuxyz.com
 m.yuyanbaojie.cn
 m.ywbwsm.com
 m.yxcp.me
+m.yxwoo.com
 m.yyeks.com
 m.yyfymj.com
 m.yyjhf.com
@@ -24644,6 +24646,7 @@ py94.com
 pycxjj.com
 pyedu.cc
 pygdzhcs.com
+pyguohai.com
 pylfi.flash.hxh999.com
 pylhotel.com
 pysmei.com
@@ -26753,7 +26756,6 @@ shoubus.com
 shouchengdl.com
 shoudujuchangcn.com
 shoudurc.com
-shougongke.com
 shouji.yd126.com
 shouji56-img.com
 shouker.com
@@ -27654,6 +27656,7 @@ stats.tudou.com
 stats.tvmaze.com
 stats.umsns.com
 stats.unity3d.com
+stats.updown.io
 stats.uswitch.com
 stats.vc.gg
 stats.video.search.yahoo.com
@@ -28903,6 +28906,7 @@ tracker.cyber-hub.net
 tracker.cyberia.is
 tracker.cypherpunks.ru
 tracker.dmcomic.com
+tracker.dmcomic.org
 tracker.dmguo.com
 tracker.doko.moe
 tracker.duola.xyz

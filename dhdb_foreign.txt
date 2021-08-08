@@ -3,6 +3,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -52283,6 +52284,7 @@ hits.top.lv
 hitserver.ibope.com.br
 hitslink.com
 hitsteps.com
+hitsword.org
 hitun.io
 hitunggaji.com
 hitux.com
@@ -54330,7 +54332,6 @@ i5seo.com
 i6.cmail20.com
 i6.imageban.ru
 i6.liadm.com
-i6.weather.oppomobile.com
 i60702.com
 i6879.com
 i7bg4.5.shop.tm
@@ -85941,7 +85942,6 @@ pyddd.com
 pydnsv.ejobs.ro
 pyfunceble.github.io
 pyguanf.com
-pyguohai.com
 pyhapp.com
 pyjsh.com
 pylist.com
@@ -94153,6 +94153,7 @@ shou555.com
 shouchaobao.vip
 shoudian.org
 shoudujuchang.com
+shougongke.com
 shouhome.com
 shouji.911cha.com
 shouji.com
@@ -100545,7 +100546,6 @@ stats.unionleader.com
 stats.united-domains.de
 stats.unox.com
 stats.unwired-i.net
-stats.updown.io
 stats.urban-media.com
 stats.urbanfinn.com
 stats.useeffect.dev
@@ -107151,7 +107151,6 @@ tracker.devil-torrents.pl
 tracker.digitalcamp.co.kr
 tracker.dler.com
 tracker.dler.org
-tracker.dmcomic.org
 tracker.dmhy.org
 tracker.downdetector.com
 tracker.ds.is

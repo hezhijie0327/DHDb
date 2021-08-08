@@ -647,7 +647,6 @@
 1.aili.com
 1.ajiyuming.com
 1.arpun.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.cjcp.cn
@@ -21816,7 +21815,6 @@ dianopen.com
 dianou.com
 dianping.com
 dianpingba.com
-dianpu.ai
 dianpusoft.cn
 dianqiweixiu.net
 dianranart.com
@@ -25333,7 +25331,6 @@ eshangxian.com
 eshenlin.com
 eshimin.com
 eshiyun.info
-eshop-switch.com
 eshopb2c.com
 eshow365.com
 eshufa.com
@@ -32506,7 +32503,6 @@ html.atm.youku.com
 html.shibeiou.com
 html2.qktoutiao.com
 html5.mail.10086.cn
-html5cn.org
 html5code.net
 html5dw.com
 html5plus.org
@@ -60070,6 +60066,7 @@ syhospital.com
 syhpz.com
 syimg.3dmgame.com
 syitgz.com
+syjiancai.com
 sykong.com
 sylixos.com
 symama.com

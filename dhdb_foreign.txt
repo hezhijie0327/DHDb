@@ -1066,7 +1066,6 @@
 13322.com
 1337.abcvg.info
 1337.cx
-1337x.org
 1337x.to
 133a436e197e25793fe8538eb2c69f46.clo.footprintdns.com
 134.78.116.150.zz.countries.nerd.dk
@@ -1484,6 +1483,7 @@
 17uu.tw
 17weixing.com
 17xgame.com
+17xsj.com
 17xtv.com
 17zixue.com
 18-courier.push.apple.com
@@ -26530,7 +26530,6 @@ citrusbits.com
 cits.com.mo
 cits0871.com
 citshq.com
-city-ad.com
 city365.ca
 city9x.com
 citya.com
@@ -52456,6 +52455,7 @@ hk.mobi.yahoo.com
 hk.myblog.yahoo.com
 hk.napi.ucweb.com
 hk.news.yahoo.com
+hk.pool.ntp.org
 hk.schroders.email
 hk.search.yahoo.com
 hk.tomonews.net
@@ -59544,6 +59544,7 @@ jblts.com
 jbo.com
 jbo03.com
 jbo10.com
+jbo101.com
 jbo13.com
 jbo25.com
 jbo27.com
@@ -60562,7 +60563,6 @@ jropij.minelli.fr
 jrpt.jrptweb.org
 jrpxw.com
 jrs.net
-jrsnba.com
 jrsusa.org
 jrszxww.com
 jrucbb.guestreservations.com
@@ -86270,6 +86270,7 @@ qingpeng.org
 qingpingshan.com
 qingpinji.com
 qingqing.freebbs.tw
+qingquwu.net
 qingse.one
 qingsenshuizu.com
 qingsongbar.com
@@ -92840,6 +92841,7 @@ seed-pol-3.inf.nimiq.network
 seed-pol-4.inf.nimiq.network
 seed.bitcoin.sipa.be
 seed.bitcoin.sprovoost.nl
+seed.bitcoin.wiz.biz
 seed.bitcoinstats.com
 seed.btc.petertodd.org
 seed.nimiqpool.com

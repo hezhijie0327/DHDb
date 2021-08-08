@@ -1972,7 +1972,6 @@
 64.wuwho.cn
 6427925.com
 64447a3cb61ae9757ea7e622f9913bd3.jddebug.com
-6446hh.com
 646000.com
 6482020.com
 64deb11d5e7b758a66b8ff4907017a76.jddebug.com
@@ -6624,6 +6623,7 @@ bocvi.com
 bodedu.com
 bodog110.com
 bodog127.com
+bodog18.com
 bodog189.com
 bodog39.com
 bodog73.com
@@ -12645,6 +12645,7 @@ event.vntoday.news
 eventapi.afreecatv.com
 eventlog.inspsearch.com
 events-api.outfit7.net
+events-prod-1-1033355748.us-east-1.elb.amazonaws.com
 events.kaloo.ga
 events.kalooga.com
 events.mobile.optimizely.com
@@ -15386,6 +15387,7 @@ hotkey123.com
 hotmail.co
 hotmail.net
 hotpixel.co.vu
+hotpornshow.com
 hotrank.com.tw
 hottestheadphonesonline.com
 hotwill.cn
@@ -26967,6 +26969,7 @@ skype.pchome.com.tw
 skypeassets.net
 skypedataprdcoljpe01.cloudapp.net
 skypedataprdcoljpe02.cloudapp.net
+skypedataprdcolneu03.cloudapp.net
 skypedataprdcoluks00.cloudapp.net
 skypexbox.skype.com
 skyrover.me

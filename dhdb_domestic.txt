@@ -3871,7 +3871,6 @@
 5010ef08.fyeds5.com
 5015c0hc.sched.sma-dk.tdnsv5.com
 501wan.com
-503118.com
 503error.com
 504pk.com
 505013.vhost251.cnameaddress.top
@@ -4155,6 +4154,7 @@
 51jiuhuo.com
 51job.com
 51jobcdn.com
+51jsq.net
 51jt.com
 51jucaimi.com
 51julebu.com
@@ -28716,7 +28716,6 @@ gmanhua.com
 gmaster-30142.sz.gfp.tencent-cloud.com
 gmb2b.com
 gmcchina.net
-gmecity.com
 gmed.cc
 gmem.site
 gmgc.info
@@ -46859,7 +46858,6 @@ nfs-china.com
 nfschina.com
 nfwin.com
 nfzhouyi.com
-nfzmbrand.com
 ng-alain.com
 ng.shmtu.edu.cn
 nga.178.com
@@ -48427,6 +48425,7 @@ osx.dianping.com
 osx.dianping.com.s2txipv6.cdntip.com
 osx.dpfile.com
 osx.dpfile.com.s2txipv6.cdntip.com
+osxapps.itunes.apple.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
 osxapps.itunes.g.aaplimg.com

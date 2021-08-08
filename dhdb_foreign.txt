@@ -6619,7 +6619,6 @@
 990578.com
 990609.com
 990808.com
-99083.com
 9908qhb.com
 9909788.com
 991.com
@@ -22181,7 +22180,6 @@ bugout.link
 bugs.launchpad.net
 bugs.qbittorrent.org
 bugs3.com
-bugsec.org
 bugsnag.com
 bugtracker.meerai.io
 bugumanhua.com
@@ -69736,6 +69734,7 @@ media-box.co
 media-cdn.epicgames.com
 media-cdn.ipredictive.com
 media-dl.co
+media-exp1.licdn.com
 media-ext.wanarun.net
 media-global.net
 media-proweb.de

@@ -4842,7 +4842,6 @@
 58kaifa.com
 58kasch.com
 58kuaipai.com
-58moneys.com
 58pic.com
 58player.com
 58q8.com
@@ -9963,7 +9962,6 @@ api-cname.growingio.com
 api-crep.ke.com
 api-dd.jd.com
 api-dd.jd.com.gslb.qianxun.com
-api-deal.kechenggezi.com
 api-e189.21cn.com
 api-edge.apps.apple.com.cdn20.com
 api-es.doglobal.net
@@ -12285,6 +12283,7 @@ bd.watu.cn
 bd07322b9d4aa75a140346bd8e933d3f.dlied1.cdntips.net
 bd1-china.6789.com
 bd1-china.xsfaya.com
+bd1-ys.km.com
 bd1.365qilu.com
 bd1.52che.com
 bd1.99danji.com

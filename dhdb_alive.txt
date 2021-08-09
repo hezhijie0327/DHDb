@@ -12104,7 +12104,6 @@
 87080.com
 870818.com
 87121.net
-8714.com
 87188718.com
 872.cc
 8721.com
@@ -23909,7 +23908,6 @@ api-panov2.720yun.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
 api-pl.kdrag0n.dev
-api-pricetag.dmall.com
 api-priconne-redive.cygames.jp
 api-prod.leancloud.cn
 api-public.addthis.com
@@ -55257,6 +55255,7 @@ dial4gwyn.com
 dialer.cdn.cootekservice.com
 dialga.com
 dialog.anderson-negele.com
+dialog.dqs.de
 dialogflow.com
 dialogflow.googleapis.com
 dialogue.co
@@ -152884,7 +152883,6 @@ skypedataprdcolwus08.cloudapp.net
 skypedataprdcolwus09.cloudapp.net
 skypedataprdcolwus10.cloudapp.net
 skypedataprdcolwus11.cloudapp.net
-skypedataprdcolwus12.cloudapp.net
 skypedataprdcolwus13.cloudapp.net
 skypicker.com
 skyplayer.tiscali.it

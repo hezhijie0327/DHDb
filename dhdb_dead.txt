@@ -471,6 +471,7 @@
 135198.net
 135309.com
 135650.com
+135958.com
 135box.com
 135edu.com
 135sihu.com
@@ -6931,7 +6932,6 @@ bx.neolabs.kz
 bx.optimix.asia
 bx01.optimix.asia
 bx1k.com
-bxfaka.com
 bxhaibao.com
 bxjg.circ.gov.cn
 bxjpl.cn
@@ -16299,6 +16299,7 @@ img.tongji.linezing.com
 img.toppr.com.cn
 img.twcczhu.com
 img.users.51.la
+img.vaptcha.net
 img.warron.cn
 img.wuben56.com
 img.wusnz.cn
@@ -24311,6 +24312,7 @@ pool2.coinimp.com
 poolrelay.beeppool.org
 poolshool.com
 poostatamindope.myq-see.com
+poow.ga
 pop.91mangrandi.com
 pop.mmfusheng.com
 pop.mrstiff.com

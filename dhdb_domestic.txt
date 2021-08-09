@@ -1218,7 +1218,6 @@
 1353305.shop.liebiao.com
 1356789.com
 1357g.com
-135958.com
 135bianjiqi.com
 135editor.com
 135fa.com
@@ -14265,7 +14264,6 @@ c.lenovo.com.cn
 c.lenovo.com.cn.wswebcdn.com
 c.lianwangtech.com
 c.lxanimation.cn
-c.lxtvb.cn
 c.m.163.com
 c.mipcdn.com
 c.mp.qq.com
@@ -34937,7 +34935,6 @@ img.upe.net
 img.upe.net.w.kunlungr.com
 img.user.kanimg.com
 img.uwenku.com
-img.vaptcha.net
 img.vaptcha.net.w.cdngslb.com
 img.videocc.net
 img.videocc.net.w.alikunlun.com

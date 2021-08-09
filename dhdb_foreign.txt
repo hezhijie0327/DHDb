@@ -86695,6 +86695,7 @@ quelle.de
 quentic.com
 query.ess-apple.com.akadns.net
 query.ess.apple.com
+query.hicloud.com
 query.prod.cms.rt.microsoft.com
 querylist.cc
 queryly.com
@@ -95045,7 +95046,6 @@ skypedataprdcoleus13.cloudapp.net
 skypedataprdcoleus14.cloudapp.net
 skypedataprdcoljpe00.cloudapp.net
 skypedataprdcoljpe03.cloudapp.net
-skypedataprdcoljpe04.cloudapp.net
 skypedataprdcoljpe05.cloudapp.net
 skypedataprdcoljpw00.cloudapp.net
 skypedataprdcoljpw01.cloudapp.net

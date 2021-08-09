@@ -27001,6 +27001,7 @@ skype.pchome.com.tw
 skypeassets.net
 skypedataprdcoljpe01.cloudapp.net
 skypedataprdcoljpe02.cloudapp.net
+skypedataprdcoljpe04.cloudapp.net
 skypedataprdcolneu00.cloudapp.net
 skypedataprdcolneu03.cloudapp.net
 skypedataprdcoluks00.cloudapp.net

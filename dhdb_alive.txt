@@ -1303,7 +1303,6 @@
 10.client-channel.google.com
 10.courier-push-apple.com.akadns.net
 10.courier2-push-apple.com.akadns.net
-10.eve.dyx.com
 10.im.cz
 10.rarbg.com
 10.rarbg.me
@@ -7810,7 +7809,6 @@
 5068yx.com
 506fhq.com
 507678.com
-507777.cc
 508223012e5a5ff19f30a391b2bdadc0.my.2k.com
 508843.com
 509338.com
@@ -91539,7 +91537,6 @@ info.cpr.org
 info.crasco.jp
 info.crd.com
 info.creativesurvey.com
-info.cresinsurance.com
 info.criticalmention.com
 info.crjobs.co.jp
 info.crowdtap.com
@@ -123430,7 +123427,6 @@ nitropay.com
 nitter.1d4.us
 nitter.42l.fr
 nitter.cc
-nitter.dark.fail
 nitter.fdn.fr
 nitter.net
 nitter.pussthecat.org

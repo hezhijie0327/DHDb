@@ -3,7 +3,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -84394,7 +84393,6 @@ prawo.pl
 pray.com
 prayforchina.net
 prazna.com
-prazpf.cn
 prcappzone.intel.com
 prchistory.org
 prcleader.org

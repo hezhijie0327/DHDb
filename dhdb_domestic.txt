@@ -18033,7 +18033,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -36203,6 +36202,7 @@ itlap.cn
 itlily.com
 itmanbu.com
 itmind.net
+itminus.com
 itmo.com
 itmoocs.com
 itmop.com
@@ -39913,6 +39913,7 @@ kuaizhan.com
 kuaizhang.com
 kuaizhihui.com
 kuaizip.com
+kuaizq.com
 kuaizy.com
 kuajing.com
 kuajing.hk

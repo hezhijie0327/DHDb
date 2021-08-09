@@ -796,7 +796,6 @@
 2.mobixs.cn
 2.ns32.us
 2.rengshu.com
-2.tracker.eu.org
 2.win7china.com
 20.120v.ac
 200.net
@@ -8889,6 +8888,7 @@ comet.sputniknews.com
 comflag.com
 comfortjapangr.com
 comic123.net
+comiclub.com
 comm-bkfs.com
 comment.chinanews.com
 commons.moegirl.org.cn
@@ -24155,6 +24155,7 @@ pk1352.com
 pk2234.com
 pk9294.com
 pkan.com
+pkbmlambefoundation.com
 pkbook.com.cn
 pkdanji.com
 pkdyplayer.com
@@ -27024,6 +27025,7 @@ skypedataprdcoljpe04.cloudapp.net
 skypedataprdcolneu00.cloudapp.net
 skypedataprdcolneu03.cloudapp.net
 skypedataprdcoluks00.cloudapp.net
+skypedataprdcolwus06.cloudapp.net
 skypexbox.skype.com
 skyrover.me
 skywinners.com.cn

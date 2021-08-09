@@ -1934,6 +1934,7 @@
 2.tele2iot.com
 2.tlu.dl.delivery.mp.microsoft.com
 2.top4top.io
+2.tracker.eu.org
 2.tuxi.com.cn
 20-courier.push.apple.com
 20-courier2.push.apple.com
@@ -14525,7 +14526,6 @@ appcloud.com
 appcloudcdn.com
 appconsent.io
 appcontent.serif.com
-appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appduu.com
@@ -25456,6 +25456,7 @@ channelvn.net
 channelvue.com.au
 channelwatcher.panda.tech
 channingsun.bid
+chanpindashi.com
 chanshiyu.com
 chantci.com
 chantelle.com
@@ -28267,7 +28268,6 @@ comicbook.com
 comiccb.com
 comice.net
 comicer.com
-comiclub.com
 comico.jp
 comico.tw
 comics-sanctuary.com
@@ -57984,7 +57984,6 @@ iopqct.drogasil.com.br
 ioqq.com
 iorltr.klingel.nl
 ios.gd.ddns.name
-iosapps.itunes.apple.com
 iosappsworld.com
 ioshow.com
 iosmu.com
@@ -83188,7 +83187,6 @@ pk571.com
 pk8765.com
 pk8n57.fnac.com
 pkbefa.krc.com.tr
-pkbmlambefoundation.com
 pkc5.hardrockhoteltenerife.com
 pkdcure.org
 pkdimy.shoptime.com.br
@@ -95061,7 +95059,6 @@ skypedataprdcolwus02.cloudapp.net
 skypedataprdcolwus03.cloudapp.net
 skypedataprdcolwus04.cloudapp.net
 skypedataprdcolwus05.cloudapp.net
-skypedataprdcolwus06.cloudapp.net
 skypedataprdcolwus08.cloudapp.net
 skypedataprdcolwus09.cloudapp.net
 skypedataprdcolwus10.cloudapp.net

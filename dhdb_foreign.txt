@@ -8501,7 +8501,6 @@ acidcase.com
 acieu.net
 acirno.com
 ack.mynv.jp
-ackeline.com
 ackermann.ch
 acl.wowma.jp
 acloudimages.com
@@ -15476,6 +15475,7 @@ asia.marketo.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
+asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -51503,7 +51503,6 @@ healthquest.hrm.healthgrades.com
 healthreach.hk
 healthsavings.com
 healthsection.xyz
-healthstories.xyz
 healthstream.com
 healthwarehouse.com
 healthwebsite.xyz

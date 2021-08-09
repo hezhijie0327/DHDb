@@ -46696,6 +46696,7 @@ collect.helsana.ch
 collect.hupu.com
 collect.lngtd.com
 collect.meilleurtaux.com
+collect.mxapis.com
 collect.ovp.vn
 collect.ptengine.cn
 collect.rewardstyle.com
@@ -107012,7 +107013,6 @@ liyujn.com
 liyuwiki.com
 lizaike.com
 lizakii.000webhostapp.com
-lizenghai.com
 lizhaoblog.com
 lizhaoxiang.com
 lizhenwang.com
@@ -120680,6 +120680,7 @@ mystakidis.gr
 mysteel.com
 mysteel.net
 mysteelcdn.com
+mysteelcms.com
 mystreet.villaworld.com.au
 mystrikingly.com
 mystrongvpn.com
@@ -132811,7 +132812,6 @@ pinkemi.com
 pinkertech.com
 pinkerton.com
 pinkmilk.de
-pinkmore.cn
 pinko.it
 pinkobaby.com
 pinkpanda.cz
@@ -138522,6 +138522,7 @@ qingyang.anjuke.com
 qingyangmovie.be
 qingyougames.com
 qingyuanxian.baixing.com
+qingyungou.com
 qingzhanshi.com
 qingzhen.baixing.com
 qingzhencai.net
@@ -152858,7 +152859,6 @@ skypedataprdcolneu05.cloudapp.net
 skypedataprdcoluks01.cloudapp.net
 skypedataprdcoluks03.cloudapp.net
 skypedataprdcoluks04.cloudapp.net
-skypedataprdcolweu00.cloudapp.net
 skypedataprdcolweu01.cloudapp.net
 skypedataprdcolweu02.cloudapp.net
 skypedataprdcolweu05.cloudapp.net
@@ -157885,6 +157885,7 @@ sstats.myfidm.fidm.edu
 sstats.nationwidechildrens.org
 sstats.newyorker.com
 sstats.nuon.nl
+sstats.o2tv.cz
 sstats.o2vyhody.cz
 sstats.omahasteaks.com
 sstats.onelambda.com

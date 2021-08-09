@@ -1174,7 +1174,6 @@
 0x3d.lu
 0x5.me
 0x6.me
-0x69qy295aby1k.wscloudcdn.com
 0x7.me
 0x9.me
 0xaa55.com
@@ -1275,6 +1274,7 @@
 1.ttxs123.net
 1.uc129.com
 1.ufc123.com
+1.ufc7.com
 1.up.qingdaonews.com
 1.url.cn
 1.url.cn.sched.px-dk.tdnsv6.com
@@ -35191,6 +35191,7 @@ bphetaomiao.com
 bpi.rtactivate.com
 bplaced.net
 bpost.be
+bpost2.be
 bpqwxsh.com
 bps.jd.com
 bpsemi.com
@@ -44658,7 +44659,6 @@ cloudauth-device.aliyuncs.com
 cloudbackup-drcn.cloud.dbankcloud.cn
 cloudbackup1.hicloud.com
 cloudbility.com
-cloudbilt.com
 cloudboost.io
 cloudburstresearch.com
 cloudc.ns.emailvision.net.daraz.com
@@ -84116,7 +84116,6 @@ hk1lib.org
 hk2.direct.iplc.pro
 hk2.settings.data.microsoft.com.akadns.net
 hk2d.tourismemauricie.com
-hk3.direct.iplc.pro
 hk32168.com
 hk5.cc
 hk515.net

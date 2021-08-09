@@ -680,6 +680,7 @@
 1.ttxs123.net
 1.uc129.com
 1.ufc123.com
+1.ufc7.com
 1.up.qingdaonews.com
 1.url.cn
 1.url.cn.sched.px-dk.tdnsv6.com
@@ -6018,7 +6019,6 @@
 8090vision.com
 8090yx.com
 8090yxs.com
-809635.com
 80982.org
 809ca1299fb13e832f2ee7f25657c760.dl.txcdns.com
 80baicai.biz
@@ -14614,7 +14614,6 @@ caipiaogu.com
 caipintu.com
 caipopo.com
 caipucaipu.com
-caipun.com
 caiqiuba.com
 cairongquan.com
 cairot.com
@@ -32179,6 +32178,7 @@ hostcto.com
 hostelxian.com
 hostker.com
 hostxen.com
+hot.browser.miui.com
 hot.m.shouji.360tpcdn.com
 hotalk.com
 hotchat-im.iqiyi.com

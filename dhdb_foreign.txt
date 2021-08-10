@@ -842,6 +842,7 @@
 11656.com
 1165g.com
 1165p.com
+1165u.com
 1165vip.com
 1166.com
 11665.com
@@ -14152,7 +14153,6 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
-api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -21077,7 +21077,6 @@ bob.com.ar
 bob.dmpxs.com
 bob.gitclear.com
 bob2012.com
-bob301.com
 bob302.com
 bobaow.com
 bobbialbano.com
@@ -31900,6 +31899,7 @@ daichanger.com
 daicuo.co
 daicuo.net
 daicuo.vip
+daicuo.wang
 daidoanket.vn
 daidostup.ru
 daifez.thebay.com

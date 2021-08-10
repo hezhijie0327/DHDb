@@ -10123,7 +10123,6 @@ api.ijunhai.com
 api.ilikemanga.com
 api.im.qcloud.com
 api.im.weibo.cn
-api.imqtyik.com
 api.inews.qq.com
 api.inmeng.net
 api.installer.xiaomi.com
@@ -12237,6 +12236,7 @@ bclsw.com
 bcmcdn.com
 bcmeng.com
 bcnzbi.tdum.alibaba.com
+bcoderss.com
 bcopsp1.cachenode.cn
 bcpcn.com
 bcreat.com
@@ -13426,7 +13426,6 @@ blockdao.net
 blockin.com
 blockmeta.com
 blocksite.cc
-blockvalue.com
 blog-api.i5zhen.com
 blog-img.i5zhen.com
 blog-static.cnblogs.com
@@ -26825,7 +26824,6 @@ flashgoing.com
 flashmemoryworld.com
 flashv8.com
 flashwar.com
-flashyl.com
 flatshare365.com
 flbook.com.cn
 fld.funshion.com
@@ -38443,6 +38441,7 @@ julecn.com
 juliacn.com
 juliang8.com
 julianhd.net
+julihun.com
 julive.com
 julucn.com
 julur.com
@@ -49730,7 +49729,6 @@ phpgen.com
 phpjiami.com
 phpjiayuan.com
 phpkaiyuancms.com
-phpkhbd.com
 phpkoo.com
 phpno.com
 phpor.net
@@ -55970,6 +55968,7 @@ search.51job.com
 search.51job.com.51jobdns.com
 search.appstore.vivo.com.cn
 search.bilibili.com
+search.browser.miui.com
 search.cdn.huya.com
 search.dangdang.com
 search.dpool.sina.com.cn

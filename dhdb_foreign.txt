@@ -715,7 +715,6 @@
 106.24.60.60.zz.countries.nerd.dk
 106.55.197.115.zz.countries.nerd.dk
 106.com
-1060636.com
 10611.com
 106666c.com
 106666d.com
@@ -9917,7 +9916,6 @@ ads.bigfoot.com
 ads.biggerboat.com
 ads.bing.com
 ads.bittorrent.com
-ads.biz.tr
 ads.bizhut.com
 ads.bkitsoftware.com
 ads.bkns.vn
@@ -35330,7 +35328,6 @@ download.qoo-app.com
 download.sd.baidu.com
 download.synology.com
 download.weatherblink.com
-download.windowsupdate.com
 download.windowsupdate.nsatc.net
 download.wondershare.com
 download.yesmessenger.com
@@ -40441,7 +40438,6 @@ f0539063.xsph.ru
 f0539266.xsph.ru
 f0nn.oney.fr
 f1.lutouwang.net
-f11098.privacy4browsers.com
 f13.in
 f1300.com
 f160a722.ap.ngrok.io
@@ -59778,6 +59774,7 @@ jbo830.com
 jbo84.com
 jbo86.com
 jbo87.com
+jbo8822.com
 jbo8877.com
 jbo9.com
 jbo98.com
@@ -81231,6 +81228,7 @@ paper-leaf.com
 paper-replika.com
 paper.li
 paper.stheadline.com
+paper.wenweipo.com
 paperb.us
 paperbus.com
 paperlessparts.com
@@ -86982,7 +86980,6 @@ quelle.de
 quentic.com
 query.ess-apple.com.akadns.net
 query.ess.apple.com
-query.hicloud.com
 query.prod.cms.rt.microsoft.com
 querylist.cc
 queryly.com
@@ -99000,7 +98997,6 @@ squareup.com
 squelch.io
 squid.adart.cc
 squirly.info
-squirrel.dynablogger.com
 squirrel.laravel-mix.com
 squirrels.getsquirrel.co
 squirro.com

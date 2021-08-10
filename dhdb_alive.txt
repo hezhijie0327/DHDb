@@ -10664,7 +10664,6 @@
 7082.com
 7086.in
 708747.p23.tc.cdntip.com
-708870.com
 7089262.com
 7090853.com
 70911h.com
@@ -115047,7 +115046,6 @@ metrics.apartments.com
 metrics.api.drift.com
 metrics.api.yle.fi
 metrics.apple.com
-metrics.argenta.be
 metrics.argos.co.uk
 metrics.ariba.com
 metrics.armstrongceilings.com

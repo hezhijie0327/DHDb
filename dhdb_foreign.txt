@@ -15517,7 +15517,6 @@ asia.marketo.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
-asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -93189,7 +93188,6 @@ seinfeldtv.com
 seisman.info
 seismicinstruments.com
 seiu-uhw.org
-seiyuu.ne.jp
 sejie.com
 sejlguide.dk
 sejuku.net
@@ -95331,7 +95329,6 @@ skypedataprdcoleus12.cloudapp.net
 skypedataprdcoleus13.cloudapp.net
 skypedataprdcoleus14.cloudapp.net
 skypedataprdcoljpe00.cloudapp.net
-skypedataprdcoljpe03.cloudapp.net
 skypedataprdcoljpe05.cloudapp.net
 skypedataprdcoljpw00.cloudapp.net
 skypedataprdcoljpw01.cloudapp.net

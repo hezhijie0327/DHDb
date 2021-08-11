@@ -8077,7 +8077,6 @@ adapi.shouji.360.cn
 adapter.shouji.360.cn
 adaptive.6000.liveplay.myqcloud.com
 adarrive.com
-adas-china.org
 adash-c.m.taobao.com
 adash-c.ut.taobao.com
 adash-emas.cn-hangzhou.aliyuncs.com
@@ -15377,7 +15376,6 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
-cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com

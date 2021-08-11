@@ -16409,6 +16409,7 @@ act.commercial.shouji.360.cn
 act.convergencetraining.com
 act.cwsglobal.org
 act.daoju.qq.com
+act.dmall.com
 act.guanjia.qq.com
 act.lanap.com
 act.online.engineering.nyu.edu
@@ -25026,6 +25027,7 @@ appali.hnlsht.com
 appanalysis.banggood.com
 appao.com
 appapi.17house.com
+appapi.dmall.com
 appapisdk.tanv.com
 apparelsos.com
 appbacklog.dftoutiao.com
@@ -107855,7 +107857,6 @@ log.zongheng.com
 log.zuimeitianqi.com
 log000.goo.ne.jp
 log001.cmpassport.com
-log1.17173.com
 log1.cmpassport.com
 log1.kuwo.cn
 log1.olark.com

@@ -27089,6 +27089,7 @@ skypedataprdcolneu00.cloudapp.net
 skypedataprdcolneu03.cloudapp.net
 skypedataprdcoluks00.cloudapp.net
 skypedataprdcoluks02.cloudapp.net
+skypedataprdcolwus05.cloudapp.net
 skypedataprdcolwus06.cloudapp.net
 skypexbox.skype.com
 skyrover.me

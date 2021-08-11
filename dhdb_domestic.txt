@@ -2,6 +2,7 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 00000.host
@@ -4867,7 +4868,6 @@
 591hx.com
 591master.com
 591moto.com
-591vlog.com
 591vr.com
 591wed.com
 591wsh.com
@@ -18031,6 +18031,7 @@ cn.innity-asia.com
 cn.launcher.battlenet.com.cn
 cn.letou118.net
 cn.made-in-china.com
+cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.ntp.org.cn
 cn.pandora.net
@@ -25577,7 +25578,6 @@ excbio.com
 excean.com
 excel8.com
 excel880.com
-excelpx.com
 exceltip.net
 exceptionlog.kugou.com
 exchangecn.com

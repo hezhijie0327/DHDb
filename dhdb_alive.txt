@@ -18046,6 +18046,7 @@ ads.73dpi.com
 ads.8live.com
 ads.95516.com
 ads.95516.com.wscdns.com
+ads.979799777.com
 ads.a-snag-smartmoney.fyi
 ads.aavv.com
 ads.abovetopsecret.com
@@ -24534,7 +24535,6 @@ api1.kwaishop.com
 api1.mimikko.cn
 api1.nn.com
 api1.origin.com
-api1.sg888.net
 api1.tuisong.baidu.com
 api16-access-sg.pangle.io
 api17tp.apitilt.com
@@ -100693,6 +100693,7 @@ karbon.to
 karbonhq.com
 karbowanec.crypto-webminer.com
 kare11.com
+karelinform.ru
 kareo.com
 kargo.com
 kargocard.com
@@ -121508,7 +121509,6 @@ naobiao.com
 naoda.net
 naoffer.com
 naol.ca
-naolifanghealth.com
 naonaola.com
 naotan020.com
 naoxv.com
@@ -123092,7 +123092,6 @@ nfl.hb-api.omtrdc.net
 nfl.hb.omtrdc.net
 nflchina.com
 nflfan.org
-nfltag.com
 nflxext.com
 nflximg.com
 nflxjp.residences-immobilier.com

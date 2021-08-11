@@ -10640,7 +10640,6 @@
 70202s.com
 70202v.com
 7024411.com
-7024646.com
 702632.cc
 703531862.vws.vegacdn.vn
 703804.com
@@ -18507,6 +18506,7 @@ ads.pennet.com
 ads.people.com.cn
 ads.periodistadigital.com
 ads.persgroep.net
+ads.peteava.ro
 ads.pexi.nl
 ads.pfl.ua
 ads.phim47.com
@@ -75363,7 +75363,6 @@ go.barrettjacksonvip.com
 go.base22.com
 go.baseballamerica.com
 go.basinc.com
-go.basistech.com
 go.bats.com
 go.bayntree.com
 go.bayshoresystems.com
@@ -149177,6 +149176,7 @@ seed-pol-4.inf.nimiq.network
 seed.bitcoin.sipa.be
 seed.bitcoin.sprovoost.nl
 seed.bitcoin.wiz.biz
+seed.bitcoinstats.com
 seed.btc.petertodd.org
 seed.nimiqpool.com
 seed1.qiangdong.xyz

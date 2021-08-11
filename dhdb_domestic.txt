@@ -10568,6 +10568,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -26199,6 +26200,7 @@ fd.3.cn.gslb.qianxun.com
 fd.qchannel03.cn
 fd167.com
 fd597.com
+fd7c.com
 fdc.my0511.com
 fdc067eca18fc666132b7c99f0feb2ba.dlied1.cdntips.net
 fdcyun.com
@@ -28633,7 +28635,6 @@ gl.ewdcloud.com
 gl.lianjia.com
 gl258.com
 glab.online
-glab2018.com
 glabuy.com
 glamever.com
 glamourred.com
@@ -55679,7 +55680,6 @@ scsstjt.com
 sctaixin.com
 sctbc.net
 sctcd.com
-sctcmai.com
 sctobacco.com
 sctrack.sendcloud.net
 sctv.com

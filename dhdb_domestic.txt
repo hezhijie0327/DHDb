@@ -15434,7 +15434,6 @@ cdn.unityads.unity3d.com
 cdn.upthinking.cn
 cdn.ur.qq.com
 cdn.vaptcha.com
-cdn.vaptcha.com.w.cdngslb.com
 cdn.wmpvp.com
 cdn.wtzw.com
 cdn.wtzw.com.wswebpic.com

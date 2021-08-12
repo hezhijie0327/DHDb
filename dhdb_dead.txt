@@ -337,7 +337,6 @@
 10jsq.com
 10kgame.com
 10sihu.com
-10yougame.com
 10zk.com
 11.golang8.com
 11.hydcd.com
@@ -16510,6 +16509,7 @@ indexww.com
 industry.aeconex.com
 indy.fjmu.edu.cn
 ineeke.com
+infamylists.com
 infaphoto.com
 inferno.demonoid.pw
 infineonic.org
@@ -20346,6 +20346,7 @@ m.nanjingmeitian.cn
 m.nanyangqiaoxiang.cn
 m.nbaob.com
 m.nbhaosheng168.com
+m.nchet.com
 m.nduop.com
 m.neijh.com
 m.nernv.com
@@ -27128,6 +27129,7 @@ skypedataprdcolneu00.cloudapp.net
 skypedataprdcolneu03.cloudapp.net
 skypedataprdcoluks00.cloudapp.net
 skypedataprdcoluks02.cloudapp.net
+skypedataprdcolweu03.cloudapp.net
 skypedataprdcolwus01.cloudapp.net
 skypedataprdcolwus05.cloudapp.net
 skypedataprdcolwus06.cloudapp.net

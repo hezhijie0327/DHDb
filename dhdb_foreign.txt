@@ -1687,7 +1687,6 @@
 1950033.com
 1950044.com
 195044-ipv4.farm.dprodmgd106.aa-rt.sharepoint.com.spo-0004.spo-msedge.net
-195155.com
 195172.com
 19522.com
 1952222.com
@@ -1925,6 +1924,7 @@
 2.biqle.ru
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
+2.centos.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.courier2-push-apple.com.akadns.net
 2.cr.rs
@@ -50673,7 +50673,6 @@ gwu.edu
 gwvrel.ny-onlinestore.com
 gwvvgz.borgo.hu
 gwyancancook.net.daraz.com
-gx.a.yximgs.com
 gx.idg.se
 gx08s1635.deflanid.com
 gx6t5wf.timecoss.com

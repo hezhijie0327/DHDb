@@ -14341,6 +14341,7 @@ apiserver-freya.net.daraz.com
 apiserver-wlan-switch.net.daraz.com
 apiserver.r-is-1-2.net.daraz.com
 apiserverlib-ht-2.net.daraz.com
+apisnd.heytapmobi.com
 apisof.net
 apisyouwonthate.com
 apitilt.com
@@ -30752,6 +30753,7 @@ cvscar10.net.daraz.com
 cvslib-ln-1.net.daraz.com
 cvt.mydas.mobi
 cvt1.sibnet.ru
+cvtrust.org
 cvts.ng
 cvtspo.moebel24.de
 cvut.cz

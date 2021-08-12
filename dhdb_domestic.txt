@@ -7771,6 +7771,7 @@ accounts.firefox.com.cn
 accounts.google.cn
 accounts.nvgs.nvidia.cn
 accounts.qq.com
+accounts.tantanapp.com
 accscdn.cp12.ott.cibntv.net
 accscdn.m.taobao.com
 accsh.org
@@ -13586,6 +13587,7 @@ boke8.net
 bokecc.com
 bokee.com
 bokee.net
+bokeren.cc
 bokesoft.com
 bokesoftware.com
 bolaninfo.com
@@ -39503,7 +39505,6 @@ kkmh.com
 kkminer.com
 kkmop.com
 kkr5.com
-kkredian.com
 kkredian.xyz
 kksofts.com
 kktijian.com

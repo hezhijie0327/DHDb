@@ -646,6 +646,7 @@
 1.aili.com
 1.ajiyuming.com
 1.arpun.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.cjcp.cn
@@ -7771,7 +7772,6 @@ accounts.firefox.com.cn
 accounts.google.cn
 accounts.nvgs.nvidia.cn
 accounts.qq.com
-accounts.tantanapp.com
 accscdn.cp12.ott.cibntv.net
 accscdn.m.taobao.com
 accsh.org
@@ -14419,7 +14419,6 @@ c93efd93ffbceebdeed9cb42c6e84cb4.dlied1.cdntips.net
 c97890e1344b7bec968b80aa5c46fc2c.dlied1.cdntips.net
 c9980ec61cab294931591ae0ef4e530f.safeframe.googlesyndication.com
 c9ca25ca52f51c1692224f4e067031cd.v.smtcdns.net
-c9cc.com
 c9d25z51.v1d.szbdyd.com
 c9d25z62.v1d.szbdyd.com
 c9d25z7r.v1d.szbdyd.com
@@ -57782,7 +57781,6 @@ sjrwzz.com
 sjs0.sinajs.cn
 sjs2.sinajs.cn
 sjsydq.com
-sjtiantang.com
 sjtjcn.com
 sjtug-portal-1251836446.file.myqcloud.com
 sjtxt.com

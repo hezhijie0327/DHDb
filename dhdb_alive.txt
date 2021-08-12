@@ -115022,6 +115022,7 @@ metrics.apartments.com
 metrics.api.drift.com
 metrics.api.yle.fi
 metrics.apple.com
+metrics.argenta.be
 metrics.argos.co.uk
 metrics.ariba.com
 metrics.armstrongceilings.com
@@ -143189,7 +143190,6 @@ res.3g.yy.com
 res.3g.yystatic.com
 res.aduu.cn
 res.bid.ljrtb.cn
-res.bk.10010.cn
 res.bk.10010.cn.w.cdngslb.com
 res.cc.cmbimg.com
 res.cc.cmbimg.com.w.alikunlun.com
@@ -153151,7 +153151,6 @@ skypedataprdcolcus11.cloudapp.net
 skypedataprdcolcus12.cloudapp.net
 skypedataprdcolcus13.cloudapp.net
 skypedataprdcolcus14.cloudapp.net
-skypedataprdcoleus00.cloudapp.net
 skypedataprdcoleus01.cloudapp.net
 skypedataprdcoleus02.cloudapp.net
 skypedataprdcoleus03.cloudapp.net

@@ -17938,6 +17938,7 @@ cn-eh.com
 cn-em.com
 cn-ezalter.fengduxiaoshuo.com
 cn-fe.com
+cn-gapis.0cdn.cn
 cn-gapis.0cdn.cn.cname.yunjiasu-cdn.net
 cn-hangzhou-component-gw.cloud.alipay.com
 cn-hangzhou-mgs-gw.cloud.alipay.com
@@ -29329,7 +29330,6 @@ guahao-inc.com
 guahao.com
 guahaowang.com
 guaiguai.com
-guaihaha.net
 guaihou.com
 guaikemov.com
 guailuo.com
@@ -36609,7 +36609,6 @@ jbelf.com
 jbenden.gallerycdn.azure.cn
 jbfoundry.com
 jbo255.com
-jbo443.com
 jbo568.com
 jbo909.com
 jbpbox.com

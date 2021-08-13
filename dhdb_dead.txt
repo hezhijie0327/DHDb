@@ -1729,6 +1729,7 @@
 546990.com
 546995.com
 548041.com
+5482562.com
 549493.com
 549826.com
 54bk.com
@@ -25943,6 +25944,7 @@ s-omniture.yell.com
 s-onetag.com
 s.00oo00.com
 s.051352.com
+s.0594529.com
 s.123juhd.com
 s.23dsf.top
 s.272xb.com
@@ -27131,6 +27133,8 @@ skyoyue.com
 skype.pchome.com.tw
 skypeassets.net
 skypedataprdcolcus11.cloudapp.net
+skypedataprdcoleus02.cloudapp.net
+skypedataprdcoleus08.cloudapp.net
 skypedataprdcoljpe01.cloudapp.net
 skypedataprdcoljpe02.cloudapp.net
 skypedataprdcoljpe03.cloudapp.net
@@ -28545,6 +28549,7 @@ teruide.net
 teser.webakcent.pro
 test-api-explorer.beeppool.org
 test-explorer.beeppool.org
+test-planet.eltima.com
 test.ad.cmvideo.cn
 test.ad.starschina.com
 test.adapi.starschina.com

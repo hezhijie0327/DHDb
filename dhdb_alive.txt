@@ -1660,6 +1660,7 @@
 10xam.com
 10xfotolia.com
 10yan.com
+10yougame.com
 11-courier.push.apple.com
 11-courier2.push.apple.com
 11.102.128.113.zz.countries.nerd.dk
@@ -61840,7 +61841,6 @@ ecoalchina.com
 ecochuse.com
 ecocn.org
 ecodenchi.com
-ecoforme.jp
 ecohumanity.org
 ecoinbroker.com
 ecojur.com
@@ -84284,7 +84284,6 @@ hk1.cdn.web.ctfile.net
 hk1282sec.com
 hk148forum.com
 hk1lib.org
-hk2.direct.iplc.pro
 hk2.settings.data.microsoft.com.akadns.net
 hk2d.tourismemauricie.com
 hk32168.com
@@ -84558,7 +84557,6 @@ hltaxi.hellogslb.com
 hltcy.com
 hltv.org
 hlw599.com
-hlw66.com
 hlwicpfwc.miit.gov.cn
 hlwidc.com
 hlxsykd.com
@@ -95594,7 +95592,6 @@ iwyv.com
 iwyvi.com
 iwzmmb.pampling.com
 iwzwy.com
-iwzxi.com
 ix.co
 ixabot.com
 ixarea.com
@@ -142047,7 +142044,6 @@ rbzygs.com
 rc-au.imrworldwide.com
 rc-fp.sec.wanmei.com
 rc.376zf.com
-rc.andmejs.com
 rc.asci.freenet.de
 rc.cc
 rc.dxsvr.com
@@ -153136,7 +153132,6 @@ skypedataprdcoleus05.cloudapp.net
 skypedataprdcoleus09.cloudapp.net
 skypedataprdcoleus10.cloudapp.net
 skypedataprdcoleus11.cloudapp.net
-skypedataprdcoleus12.cloudapp.net
 skypedataprdcoljpe00.cloudapp.net
 skypedataprdcoljpe05.cloudapp.net
 skypedataprdcolneu01.cloudapp.net

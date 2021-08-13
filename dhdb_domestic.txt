@@ -10448,6 +10448,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -10615,7 +10616,6 @@ applicationloader.net
 applinzi.com
 applog.camera360.com
 applog.ddxq.mobi
-applog.matrix.netease.com
 applog.reader.qq.com
 applog.uc.cn
 applog.ucdns.uc.cn
@@ -14725,6 +14725,7 @@ canyinzixun.com
 canyon-model.com
 canyouchina.com
 canyuanzs.com
+canzhisz.com
 cao.tc600.com
 caobao.com
 caogen.com

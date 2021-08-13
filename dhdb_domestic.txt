@@ -2820,6 +2820,7 @@
 2zimu.com
 3.39zuoye.com
 3.5646.cn
+3.cn.pool.ntp.org
 3.iscrv.com
 3.pic.pc6.com
 3.ssqzj.com
@@ -12886,6 +12887,7 @@ bili2233.cn.w.cdngslb.com
 bili23.cn
 bili33.cn
 bilibili.cc
+bilibili.cn
 bilibili.co
 bilibili.com
 bilibili.tv
@@ -14928,7 +14930,6 @@ cc.co
 cc.m.jd.com
 cc.maotuying.com
 cc.map.qq.com
-cc.moquanad.com
 cc.res.netease.com
 cc.xiaodapei.com
 cc.xtgreat.com
@@ -19630,6 +19631,7 @@ ctdcn.com
 ctdisk.com
 ctdsb.net
 cteaw.com
+ctecdcs.com
 ctex.org
 ctexcel.ca
 ctexcel.com

@@ -15373,6 +15373,7 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
+cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -35399,7 +35400,6 @@ inewya.com
 inf-prdapi.wesure.cn
 inf.ldmnq.com
 inf.vip.meituan.com
-infaq.net
 infarts.net
 infertilitybridge.com
 infineon-autoeco.com
@@ -48404,7 +48404,6 @@ osx.dianping.com
 osx.dianping.com.s2txipv6.cdntip.com
 osx.dpfile.com
 osx.dpfile.com.s2txipv6.cdntip.com
-osxapps.itunes.apple.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
 osxapps.itunes.g.aaplimg.com
@@ -58595,7 +58594,6 @@ spro.so.com
 sprzny.com
 sptcc.com
 sptccn.com
-sptl.ltd
 sptxm.com
 spway.net
 spzs.com

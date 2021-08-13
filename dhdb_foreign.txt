@@ -8696,6 +8696,7 @@ ad-display.wikawika.xyz
 ad-ebis.bookpass.auone.jp
 ad-ebis.mynavi-job20s.jp
 ad-feed.com
+ad-link.jp
 ad-locus.com
 ad-log.dable.io
 ad-loupe.com
@@ -37651,7 +37652,6 @@ edupro.org
 eduqz.net
 eduu.com
 eduvpn.com
-eduwsw.com
 eduy-china.com
 eduyo.com
 eduzhai.net
@@ -95309,7 +95309,6 @@ skypedataprdcolcus12.cloudapp.net
 skypedataprdcolcus13.cloudapp.net
 skypedataprdcolcus14.cloudapp.net
 skypedataprdcoleus00.cloudapp.net
-skypedataprdcoleus01.cloudapp.net
 skypedataprdcoleus03.cloudapp.net
 skypedataprdcoleus04.cloudapp.net
 skypedataprdcoleus05.cloudapp.net

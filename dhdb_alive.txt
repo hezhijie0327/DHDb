@@ -20577,6 +20577,7 @@ airport.brussels
 airport.com
 airport.eu
 airportag.com
+airportrentalcars.com
 airpub.io
 airpush.com
 airpushmarketing.s3.amazonaws.com
@@ -39131,7 +39132,6 @@ cbcnews.ca
 cbcsystems.co.uk
 cbcu.ca
 cbdio.com
-cbdjrsh.org
 cbdm.weathercn.com
 cbdrx4u.com
 cbe.convertlab.com
@@ -78959,7 +78959,6 @@ gputechconf.com.tw
 gputechconf.eu
 gputechconf.in
 gputechconf.jp
-gpxxz.com
 gpxygpfx.com
 gpxz.com
 gpzhcc.lapeyre.fr
@@ -102516,7 +102515,6 @@ ks365.org
 ks42zt.spec.fm
 ks440.com
 ks442.com
-ks4440.com
 ks5111.com
 ks5u.com
 ks662.com
@@ -142598,6 +142596,7 @@ redoop.com
 redou.com
 redpact.com
 redpaper-10006092.cos.myqcloud.com
+redpaperplane.com
 redphon.com
 redpocket.com
 redpoint-msg.m.jd.com
@@ -144845,7 +144844,6 @@ rtb.mfadsrvr.com
 rtb.mts.ru
 rtb.openx.net
 rtb.pclick.yahoo.com
-rtb.platform.glispa.com
 rtb.softcube.com
 rtb0.doubleverify.com
 rtb2.doubleverify.com
@@ -153120,7 +153118,6 @@ skypedataprdcolcus09.cloudapp.net
 skypedataprdcolcus12.cloudapp.net
 skypedataprdcolcus13.cloudapp.net
 skypedataprdcolcus14.cloudapp.net
-skypedataprdcoleus01.cloudapp.net
 skypedataprdcoleus04.cloudapp.net
 skypedataprdcoleus05.cloudapp.net
 skypedataprdcoleus09.cloudapp.net

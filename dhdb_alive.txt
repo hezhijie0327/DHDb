@@ -49551,6 +49551,7 @@ cs.console.aliyun.com
 cs.coopeservidores.fi.cr
 cs.dds.microsoft.com
 cs.emxdgt.com
+cs.ffbtas.com
 cs.hot.net.il
 cs.lianjia.com
 cs.lkqd.net
@@ -60530,7 +60531,6 @@ e.958so.cn
 e.ad.xiaomi.com
 e.aduiz.com
 e.ailix.cn
-e.anmeilai.net
 e.apsalar.com
 e.apxyz.com
 e.baidu.com

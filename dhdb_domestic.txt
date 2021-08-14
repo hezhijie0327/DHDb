@@ -2138,6 +2138,7 @@
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
+2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
 2.pic.pc6.com
@@ -48616,7 +48617,6 @@ p.sspu.edu.cn
 p.store.qq.com
 p.sug.so.com
 p.sug.so.qss-lb.com
-p.szonline.net
 p.tanx.com
 p.tencentmind.com
 p.wts.xinwen.cn
@@ -49666,6 +49666,7 @@ photogz.photo.store.qq.com
 photohn.com
 photoint.net
 photonj.photo.store.qq.com
+photopai.com
 photops.com
 photoshare-drcn.cloud.dbankcloud.cn
 photoshare-drcn.hicloud.com
@@ -51073,7 +51074,6 @@ push.gifshow.com
 push.khd.2345.cc
 push.ksapisrv.com
 push.m.youku.com
-push.mobile.kugou.com
 push.my.tv.sohu.com
 push.pgl.qq.com
 push.res.meizu.com

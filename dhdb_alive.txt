@@ -4094,6 +4094,7 @@
 2.tlu.dl.delivery.mp.microsoft.com
 2.top4top.io
 2.tracker.eu.org
+2.tuxi.com.cn
 2.up.qingdaonews.com
 2.zol-img.com.cn
 20-courier.push.apple.com
@@ -71780,7 +71781,6 @@ fxipreferral.americanexpress.com
 fxjs.2541.com
 fxk8.com
 fxlbb.com
-fxlim.com
 fxltsbl.com
 fxmdjr.mamastar.jp
 fxmdjr.saita-puls.com
@@ -145749,6 +145749,7 @@ s.media-imdb.com
 s.metric.vodacom.co.za
 s.mic.mob.com
 s.mississauga.com
+s.mnet-ad.net
 s.mobileread.com
 s.motrix.app
 s.musicradio.com

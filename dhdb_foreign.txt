@@ -3,6 +3,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -2827,7 +2828,6 @@
 31jiaju.com
 31jmw.com
 31jxw.com
-31kan.com
 31knit.com
 31mada.com
 31metrescarres.fr
@@ -27621,7 +27621,6 @@ cn1069.org
 cn12365.org
 cn163.net
 cn1lib.org
-cn2.relay.iplc.pro
 cn2.rti.tw
 cn2.stadiumgoods.com
 cn21edu.com
@@ -74579,7 +74578,6 @@ my.vultr.com
 my.vultr.com.cdn.cloudflare.net
 my.xtremelashes.com
 my03.com
-my0792.com
 my13la.com
 my1616.net
 my188.com

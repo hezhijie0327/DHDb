@@ -4093,6 +4093,7 @@
 2.tele2iot.com
 2.tlu.dl.delivery.mp.microsoft.com
 2.top4top.io
+2.tracker.eu.org
 2.up.qingdaonews.com
 2.zol-img.com.cn
 20-courier.push.apple.com
@@ -104856,7 +104857,6 @@ ledongzhibo111.com
 ledongzhibo222.com
 ledongzhibo2222.com
 ledongzhibo333.com
-ledongzhibo5555.com
 ledongzhibo7777.com
 ledongzhibo888.com
 ledongzhibo8888.com
@@ -153328,7 +153328,6 @@ skypedataprdcoluks01.cloudapp.net
 skypedataprdcoluks03.cloudapp.net
 skypedataprdcoluks04.cloudapp.net
 skypedataprdcolweu02.cloudapp.net
-skypedataprdcolweu05.cloudapp.net
 skypedataprdcolwus02.cloudapp.net
 skypedataprdcolwus04.cloudapp.net
 skypedataprdcolwus08.cloudapp.net

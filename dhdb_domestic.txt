@@ -1,5 +1,6 @@
 0-100.com
 0-6.com
+0-gold.net
 0.cn.pool.ntp.org
 0.pic.pc6.com
 0.up.qingdaonews.com
@@ -44824,6 +44825,7 @@ mints-id.com
 minxing365.com
 minxue.net
 minzu56.net
+miot-spec.org
 mip-ruiwen-com.sm-tc.cn
 mip.3kr.com
 mip.ali213.net

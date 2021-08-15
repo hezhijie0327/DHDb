@@ -10450,7 +10450,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -13058,6 +13057,7 @@ bizhimi.com
 bizhizj.com
 bizhongchou.com
 biznewscn.com
+bizopsmall.com
 bizotrip.com
 bizport.cn
 bizres.bj.bcebos.com

@@ -14099,6 +14099,7 @@ api.cloudmobi.net
 api.codacy.com
 api.codeclimate.com
 api.coinerra.com
+api.comm.miui.com
 api.company-target.com
 api.cookielaw-script.it
 api.cookielaw.eu
@@ -58978,7 +58979,6 @@ ismart.spsbbtr.com
 ismet.kz
 ismetyaksi.com.tr
 isminc.com
-isming.me
 ismpnb.pureda.co.kr
 ismprofessional.net
 isnao.com

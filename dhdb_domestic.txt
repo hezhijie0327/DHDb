@@ -8688,7 +8688,6 @@ ai-cai.com
 ai-factory.com
 ai-indestry.com
 ai-qingchang.com
-ai-sheji.com
 ai-thinker.com
 ai.alimebot.taobao.com
 ai.baidu.com
@@ -10094,6 +10093,7 @@ api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -14056,7 +14056,6 @@ bw8848.com
 bw8919.com
 bwae.org
 bway83.com
-bway88688.com
 bway889.com
 bway995.com
 bwbot.org
@@ -48712,6 +48711,7 @@ p2pmid.baofeng.com
 p2pmidzj.baofeng.com
 p2pport.yfp2p.net
 p2psdk.wscdns.com
+p2ptouhang.com
 p2pupdate.gamedl.qq.com
 p2pupgrade.gamedl.qq.com
 p2sdmkj6t.bkt.clouddn.com

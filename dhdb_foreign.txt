@@ -4534,6 +4534,7 @@
 599499.com
 59bo.net
 59d319147c99d0010ef0bea9a2827b75.clo.footprintdns.com
+59di.com
 59edu.com
 59ee.net
 59hs.com
@@ -4785,7 +4786,6 @@
 637581.com
 637s.4.shop.tm
 638638638.com
-6386567.com
 6388js.com
 6396a.com
 6396c.com
@@ -7953,7 +7953,6 @@ abbottstore.com
 abbp1.pw
 abbvie.com
 abbywinters.com
-abbyychina.com
 abc-mart.net
 abc-studios.com
 abc.com
@@ -29802,7 +29801,6 @@ cqkdtui1.com
 cqkhg.com
 cqktqf.augustine.co.nz
 cqliao.com
-cqlts.net
 cqpmvc.businessinsider.fr
 cqpmvc.capital.fr
 cqpmvc.cuisineactuelle.fr
@@ -30046,7 +30044,6 @@ crmdynint.com
 crmonline.actonservice.com
 crmpro.news
 crmrj.net
-crnds.com
 cro.fi-tsunagu.com
 crocoguide.com
 crocotube.com
@@ -54525,6 +54522,7 @@ i.static.zaplata.bg
 i.tantanapp.com
 i.v2ex.co
 i.vimeocdn.com
+i.w.inmobi.com
 i.w55c.net
 i.wuw.red
 i.youzipi.net
@@ -84806,6 +84804,7 @@ prd-mfe-front-1224026712.ap-northeast-1.elb.amazonaws.com
 prd-priconne-redive.akamaized.net
 prd-usw2-requestattribution-iad.apple.com
 prd.ags.msidentity.com
+prd.dls.samsung.com.cn
 prd.lib-ln-2.net.daraz.com
 prd.manetore.net
 prd.ns2.viviotech.net.daraz.com

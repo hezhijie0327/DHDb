@@ -6815,6 +6815,7 @@ a-0003.fbs2-a-msedge.net
 a-0014.a-msedge.net
 a-0032.a-msedge.net
 a-ads.com
+a-cn.duoyi.com
 a-counter.kiev.ua
 a-du.net
 a-e-t.org
@@ -66628,7 +66629,6 @@ ltmp.cc
 ltn.com.tw
 ltnibr.ro
 ltnico.fnac.com
-ltnnet.com
 ltnschedule.com
 ltou11.com
 ltou178.com
@@ -82985,6 +82985,7 @@ phplib-oa-2.net.daraz.com
 phpliveregex.com
 phpmarketing.net.daraz.com
 phpmyadmin.gwc.net.daraz.com
+phpok.com
 phppartner.net.daraz.com
 phpr-oa-2.net.daraz.com
 phprcdn.com

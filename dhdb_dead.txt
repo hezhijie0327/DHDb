@@ -5545,7 +5545,6 @@ avct.cloud
 avgchannel.com
 avgle.com.tw
 avia88.com
-avic021.com
 avira-vpn.com
 avlyun.com
 avmask.com
@@ -27228,6 +27227,7 @@ skynet-c.jp
 skyoyue.com
 skype.pchome.com.tw
 skypeassets.net
+skypedataprdcolcus01.cloudapp.net
 skypedataprdcolcus10.cloudapp.net
 skypedataprdcolcus11.cloudapp.net
 skypedataprdcoleus01.cloudapp.net

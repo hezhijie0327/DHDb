@@ -153248,7 +153248,6 @@ skypedataprdcoljpe00.cloudapp.net
 skypedataprdcolneu01.cloudapp.net
 skypedataprdcolneu02.cloudapp.net
 skypedataprdcoluks01.cloudapp.net
-skypedataprdcoluks03.cloudapp.net
 skypedataprdcoluks04.cloudapp.net
 skypedataprdcolwus02.cloudapp.net
 skypedataprdcolwus08.cloudapp.net

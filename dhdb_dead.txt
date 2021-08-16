@@ -8645,6 +8645,7 @@ cncdn.com
 cnchainnet.com
 cnchezhan.com
 cncookernet.com
+cndae.com
 cndetail.com.cn
 cndfjy.com
 cndns5.com
@@ -27265,6 +27266,7 @@ skynet-c.jp
 skyoyue.com
 skype.pchome.com.tw
 skypeassets.net
+skypedataprdcolaus00.cloudapp.net
 skypedataprdcolcus01.cloudapp.net
 skypedataprdcolcus08.cloudapp.net
 skypedataprdcolcus10.cloudapp.net
@@ -27289,6 +27291,7 @@ skypedataprdcoluks02.cloudapp.net
 skypedataprdcolweu03.cloudapp.net
 skypedataprdcolweu05.cloudapp.net
 skypedataprdcolweu06.cloudapp.net
+skypedataprdcolwus00.cloudapp.net
 skypedataprdcolwus01.cloudapp.net
 skypedataprdcolwus05.cloudapp.net
 skypedataprdcolwus06.cloudapp.net

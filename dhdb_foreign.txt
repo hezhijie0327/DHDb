@@ -28272,7 +28272,6 @@ com.autodesk.sync.public.production.s3.amazonaws.com
 com.bo
 com.by
 com.com
-com.cy
 com.de
 com.econa.com
 com.ee
@@ -51107,7 +51106,6 @@ haiwaimoney.com
 haiwaitoutiao.com
 haiwaituiguang.com
 haixia51.com
-haixice.com
 haixunpr.org
 haiyingku.com
 haiyun.me
@@ -53476,7 +53474,6 @@ hp-printing.com
 hp-webplatform.com
 hp.com
 hp.company
-hp.cool
 hp.hacked.jp
 hp.io
 hp.myway.com

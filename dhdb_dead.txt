@@ -5151,6 +5151,7 @@ app.roximity.com
 app.tv333.us
 app.xixiashengdian.com
 app.xyjqy.com
+app.yifutangvip.com.cn
 app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 app0le.com
@@ -14265,6 +14266,7 @@ go.gotourl.xyz
 go.gotourls.bid
 go.gringousa.com
 go.jp
+go.katanazirconia.com
 go.kr
 go.kshks5.site
 go.mega-games.org
@@ -14587,7 +14589,6 @@ guge.ga
 guge.info
 guge.io
 guge163.com
-gugeanzhuangqi.com
 gugeapps.com
 gugu.ws
 guid.guid.tpns.sh.tencent.com

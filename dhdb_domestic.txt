@@ -2,6 +2,7 @@
 0-6.com
 0-gold.net
 0.cn.pool.ntp.org
+0.pic.paopaoche.net
 0.pic.pc6.com
 0.up.qingdaonews.com
 00.auto.sohu.com
@@ -1691,7 +1692,6 @@
 178pt.com
 178rw.com
 178yr.com
-179.com
 17916512.cn
 179179.com
 1794game.com
@@ -1858,6 +1858,7 @@
 187801.com
 188.com
 1886zuche.com
+1888.com.mo
 1888039.b2b.liebiao.com
 188app.xyz
 188cf.net
@@ -11257,6 +11258,7 @@ avideo.ifengcdn.com
 avivaqueen.com
 avivasign.com
 avlsec.com
+avlyun.com
 avoscloud.com
 avq360.com
 avrvi.com
@@ -21896,7 +21898,6 @@ diebian.net
 dieclock.com
 diemameishi.com
 diemoe.net
-dierkezhan.com
 diershoubing.com
 difanapp.com
 dig.bdurl.net
@@ -41256,6 +41257,7 @@ lightky.com
 lightlygame.com
 lightpassport.com
 lightplan.cc
+lightswitch-public-service-prod06.ol.epicgames.com
 lighttp.com
 lightyy.com
 liguda.com

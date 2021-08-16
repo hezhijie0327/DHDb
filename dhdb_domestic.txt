@@ -10088,7 +10088,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
@@ -21324,6 +21323,7 @@ designsketchskill.com
 designuuu.com
 deskcar.com
 deskguanjia.com
+deskier.com
 desktopcal.com
 deskwc.com
 destoon.com

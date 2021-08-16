@@ -30095,7 +30095,6 @@ bbs.tianshi2.com
 bbs.uc.cn
 bbs.ucdns.uc.cn
 bbs.xbiao.com
-bbs.xiuno.com
 bbs.xiuno.com.aocdn.com
 bbs169.com
 bbs1x.net
@@ -88583,6 +88582,7 @@ iccircle.com
 iccsmart.com
 iccsz.com
 iccu.com
+iccwi.net
 icdol.com
 icdream.com
 icdt-conf.com
@@ -95194,6 +95194,7 @@ itemcdn.tmall.com
 itemcdn.tmall.com.w.alikunlun.com
 itemcdn.zcycdn.com
 itemcdn.zcycdn.com.w.kunlungr.com
+itemdb.com
 itensoft.com
 iterable.convoy.com
 iteratehq.com
@@ -138117,7 +138118,6 @@ qdaeon.com
 qdaiduo.com
 qdaily-test-1014796965.cn-northwest-1.elb.amazonaws.com.cn
 qdaily.com
-qdailyapp.com
 qdall01.baidupcs.com
 qdbdsk.com
 qdcaijing.com
@@ -140716,7 +140716,6 @@ qvzkwap3.v1d.szbdyd.com
 qvzrde.eusemfronteiras.com.br
 qvzrde.horoscopovirtual.com.br
 qvzrde.mensagenscomamor.com
-qw.baidu.com
 qw.cc
 qw.su
 qw85.vip

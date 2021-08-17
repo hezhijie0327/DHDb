@@ -7,6 +7,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pic.paopaoche.net
 0.pic.pc6.com
 0.pool.ntp.org
 0.r.msn.com
@@ -19645,7 +19646,6 @@ aem.hb.omtrdc.net
 aem.org
 aemedia.org
 aemitrapulsa.id
-aendc.com
 aenhancers.com
 aent.com
 aeo-cctv.com
@@ -46777,7 +46777,6 @@ col.eum-appdynamics.com
 col.idealista.com
 col.idealista.it
 col.idealista.pt
-col.ink
 col.pagechoice.net
 colaapp.cn
 colabug.com
@@ -48427,7 +48426,6 @@ count16.51yes.com
 count17.51yes.com
 count18.51yes.com
 count19.51yes.com
-count2.51yes.com
 count20.51yes.com
 count21.51yes.com
 count22.51yes.com
@@ -135431,7 +135429,6 @@ pplrec.cnsuning.com
 ppm2.com
 ppmake.com
 ppmakl.oscarcalcados.com.br
-ppme.glb.paypal.com
 ppmoney.com
 ppmoney.net
 ppnad.com

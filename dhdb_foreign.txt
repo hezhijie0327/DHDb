@@ -14163,6 +14163,7 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
+api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.gfe.nvidia.com
@@ -43878,7 +43879,6 @@ friendtuhan.cart.fc2.com
 friendz.sk
 fright-tattoo.com
 frigment.com
-fring.com
 fringe81.com
 fringenetwork.com
 frinkiac.com

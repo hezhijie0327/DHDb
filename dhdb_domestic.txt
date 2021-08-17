@@ -1884,7 +1884,6 @@
 189store.com
 189young.com
 18c4c39dcdac76a79049d98019e3fdf3.v.smtcdns.net
-18caijing.com
 18chonglou.com
 18dao.com
 18dao.org
@@ -10148,6 +10147,7 @@ api.lequ.ptqy.gitv.tv
 api.lianlianlvyou.com
 api.live.bilibili.com
 api.luffycity.com
+api.lwxs99.com
 api.m.gds.taobao.com
 api.m.huya.com
 api.m.jd.com
@@ -44472,6 +44472,7 @@ mi.com
 mi.gdt.qq.com
 mi.gdt.qq.com.nanadao.com
 mi1.cc
+mi550.com
 mi551.com
 mi552.com
 mi557.com

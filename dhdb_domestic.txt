@@ -21947,6 +21947,7 @@ dimg02.c-ctrip.com
 dimg02.c-ctrip.com.wscdns.com
 dimg03.c-ctrip.com
 dimg03.c-ctrip.com.wscdns.com
+dimg04.c-ctrip.com
 dimg04.c-ctrip.com.a.bdydns.com
 dimg04.c-ctrip.com.wscdns.com
 dimg05.c-ctrip.com
@@ -22779,6 +22780,7 @@ dotserver.douyucdn.cn
 dotserver.douyucdn.cn.w.cdngslb.com
 douban.com
 douban.fm
+doubaojf.com
 doubean.com
 doubi.ren
 doubimeizhi.com
@@ -24111,7 +24113,6 @@ e.kuaishou.com
 e.p7wj8.cn
 e.p98ytk.cn
 e.poonscn.com
-e.qj10b.cn
 e.qq.com
 e.so.com
 e.sogou.com
@@ -30659,7 +30660,6 @@ hawkeye.wenjuan.com
 hax18.com
 haxiu.com
 haxiu.org
-haxwx.cc
 hayeen.com
 haygptin.p23.tc.cdntip.com
 hazq.com
@@ -41927,7 +41927,6 @@ locoso.com
 locoy.com
 locoyposter.com
 loctek.com
-locvps.com
 lodashjs.com
 loexu.com
 lof50nlq.sched.sma-dk.tdnsv5.com

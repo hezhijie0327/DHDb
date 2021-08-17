@@ -26393,7 +26393,6 @@ asia.marketo.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
-asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -62255,6 +62254,7 @@ edmunds.com
 edna.bg
 edninfo.com
 ednqjm.magnanni.com
+ednrc.com
 edns.biz
 edns.com
 edodocs.com
@@ -62476,7 +62476,6 @@ eebbk.net
 eebest.com
 eeblog.net
 eeboard.com
-eebqg.com
 eechina.com
 eecnt.com
 eeco-net.actonservice.com

@@ -12165,7 +12165,6 @@ bbs.pcbeta.com
 bbs.uc.cn
 bbs.ucdns.uc.cn
 bbs.xbiao.com
-bbs.xiuno.com
 bbs.xiuno.com.aocdn.com
 bbs1x.net
 bbsaso.com
@@ -24512,6 +24511,7 @@ ecohumanity.org
 ecollision.shareinstall.com.cn
 ecomcbjs.jomodns.com
 ecomgxh.kuwo.cn
+ecommerceintegration-public-service-ecomprod02.ol.epicgames.com
 ecomoter.com
 ecook.cn
 ecoplastech.com
@@ -34902,7 +34902,6 @@ img.nihaodd.com
 img.nihaodd.com.cname.yunjiasu-cdn.net
 img.onlinedown.net
 img.ott.siqiangame.com
-img.pconline.com.cn
 img.pconline.com.cn.cdn20.com
 img.pddpic.com
 img.pddpic.com.sched.pddlego-dk.tdnsv5.com

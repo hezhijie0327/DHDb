@@ -716,6 +716,7 @@
 10000job.com
 10000link.com
 10000shequ.com
+10000tc.com
 10000yao.com
 10001wan.com
 1000360.com
@@ -14810,7 +14811,6 @@ cart.jd.com.gslb.qianxun.com
 cart.taobao.com
 cart.tmall.com
 cartelo.tmall.com
-cartoonb2b.com
 cartooncn.org
 cartoonwin.com
 carutoo.com
@@ -31025,7 +31025,6 @@ hds-api.eqxiu.com
 hdscg.com
 hdsdyyy.com
 hdsky.net
-hdslb.com
 hdthjy.com
 hduofen.cn
 hdurl.me

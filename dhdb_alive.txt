@@ -16406,6 +16406,7 @@ act.commercial.shouji.360.cn
 act.convergencetraining.com
 act.cwsglobal.org
 act.daoju.qq.com
+act.dmall.com
 act.guanjia.qq.com
 act.lanap.com
 act.online.engineering.nyu.edu
@@ -31117,7 +31118,6 @@ beijingfenxiangkeji.com
 beijinghenghua.com
 beijingidc.com
 beijingkbd.com
-beijinglvyou.net.cn
 beijingnike.com
 beijingnorthstar.com
 beijingoperacats.com
@@ -67605,7 +67605,6 @@ fcccdn.qq.com.sched.px-dk.tdnsv6.com
 fcchbj.com
 fcchk.org
 fccinteractive.com
-fccook.com
 fccs.com
 fcczp.com
 fcebook.com

@@ -3349,6 +3349,7 @@
 3975.com
 3975ad.com
 3975ad.xyz
+3975app.com
 3975cdn.com
 3977s.com
 397c0.admaster.com.cn
@@ -41930,6 +41931,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -43065,6 +43067,7 @@ m.wooboo.com.cn
 m.wuxiamh.com
 m.ww.yjbys.com.w.kunlunle.com
 m.xd5s.com
+m.xikedianzi.com.cn
 m.ximalaya.com
 m.xinhuanet.com
 m.xitongzhijia.net
@@ -51217,7 +51220,6 @@ q.cnzz.com
 q.fund.sohu.com
 q.gds.cnzz.com
 q.i.gdt.qq.com
-q.lindanmiaoxiang.cn
 q.ox11.com
 q.qlogo.cn
 q.qq.com

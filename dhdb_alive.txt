@@ -148829,7 +148829,6 @@ search.itunes.apple.com.mwcname.com
 search.jd.com
 search.jd.com.gslb.qianxun.com
 search.jword.jp
-search.jzip.com
 search.lekan.letv.com
 search.map.qq.com
 search.news.cn
@@ -150015,7 +150014,6 @@ server-stockh.imrworldwide.com
 server-ua.imrworldwide.com
 server-uk.imrworldwide.com
 server-us.imrworldwide.com
-server.bossthraed.com
 server.coolhub.top
 server.cpmstar.com
 server.exposebox.com
@@ -157852,7 +157850,6 @@ sprocket-ping.s3.amazonaws.com
 sproutcore.com
 sproutsocial.com
 sprovoost.nl
-sproxy.info
 sproxy.net
 sprzedajemy.pl
 sprzny.com

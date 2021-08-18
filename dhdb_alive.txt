@@ -84243,6 +84243,7 @@ hits.puls.lv
 hits.sys.lv
 hits.theguardian.com
 hits.top.lv
+hitserver.ibope.com.br
 hitslink.com
 hitsteps.com
 hitsword.org
@@ -122487,7 +122488,6 @@ neso.r.niwepa.com
 nesox.com
 nespresso.com
 nespta.com
-nessau.dmall.com
 nest.com
 nest.ru.net
 nestenn.com

@@ -27372,6 +27372,7 @@ skypedataprdcolwus00.cloudapp.net
 skypedataprdcolwus01.cloudapp.net
 skypedataprdcolwus05.cloudapp.net
 skypedataprdcolwus06.cloudapp.net
+skypedataprdcolwus09.cloudapp.net
 skypedataprdcolwus13.cloudapp.net
 skypexbox.skype.com
 skyrover.me
@@ -28026,6 +28027,7 @@ stats.eyeviewdigital.com
 stats.farfetch.com
 stats.fittkaumaass.de
 stats.ft.com
+stats.geegain.com
 stats.geekzone.co.nz
 stats.globesports.com
 stats.happynhealthful.com

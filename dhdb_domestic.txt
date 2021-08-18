@@ -8149,7 +8149,6 @@ adgoo.cn
 adhei.com
 adhhome.com
 adhimalayandi.com
-adhouyi.cn
 adhouyi.com
 adhudong.com
 adi.cnool.net
@@ -9458,6 +9457,7 @@ amberbj.com
 amberedu.com
 ambereduwh.com
 ambition-soft.com
+ambjl20.com
 amchamchina.org
 amdc.alipay.com
 amdc.m.taobao.com
@@ -43165,7 +43165,6 @@ m3.static.yximgs.com.download.ks-cdn.com
 m3avko1.cachenode.cn
 m3guo.com
 m3u8.live.video.ptqy.gitv.tv
-m3ws.kugou.com
 m4.lefile.cn
 m4.lefile.cn.cdn20.com
 m4.mogu66.com
@@ -47601,6 +47600,7 @@ ocri-genomics.org
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
 ocsp-lb.apple.com.akadns.net
+ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.cfca.com.cn
 ocsp.crlocsp.cn
@@ -48372,6 +48372,7 @@ osx.dianping.com
 osx.dianping.com.s2txipv6.cdntip.com
 osx.dpfile.com
 osx.dpfile.com.s2txipv6.cdntip.com
+osxapps.itunes.apple.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
 osxapps.itunes.g.aaplimg.com

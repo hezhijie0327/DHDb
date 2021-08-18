@@ -6659,6 +6659,7 @@
 99kav.com
 99kmt.com
 99letou.com
+99meijutv.com
 99meili.com
 99music.net
 99oi.us
@@ -14583,7 +14584,6 @@ appcloud.com
 appcloudcdn.com
 appconsent.io
 appcontent.serif.com
-appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appduu.com
@@ -16834,6 +16834,7 @@ b-ok.cc
 b-ok.com
 b-ok.lat
 b-ring.msedge.net
+b-seeds.com
 b-talent.com
 b-tops.com
 b-tr-teasc-asse-05.southeastasia.cloudapp.azure.com
@@ -17251,7 +17252,6 @@ baidu.jp
 baidu.marylandbass.com
 baidu.masonic-lodge.ca
 baidu.swmbudokan.com
-baidu.tlssyg.com
 baidu1.com
 baidu123.com
 baiduc.com
@@ -32614,7 +32614,6 @@ dc.applicationinsights.azure.com
 dc.arrivalist.com
 dc.audi.com
 dc.banggood.com
-dc.chillyroom.com
 dc.di.atlas.samsung.com
 dc.glbtls.t.co
 dc.oracleinfinity.io
@@ -63848,7 +63847,6 @@ lapfoxtrax.com
 lapiazzetta-horsham.com
 lapinkids.com
 lapolice.com
-lapolice.net
 lapperre.be
 lapphuong.com.vn
 lapreferente.com
@@ -81969,7 +81967,6 @@ passport.net
 passr-is-1-2.net.daraz.com
 passvpn.com
 password.newzgames.com
-password.thishack.org
 passwordreset.microsoftonline.com
 passwordsleakcheck-pa.googleapis.com
 passworld.cc

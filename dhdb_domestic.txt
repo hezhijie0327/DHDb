@@ -47600,7 +47600,6 @@ ocsp.pki.goog
 ocsp.us.cdnetworks.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
-ocsp2.g.aaplimg.com
 ocsp3.sheca.com
 oct-and.com
 oct-cts.com
@@ -53616,6 +53615,7 @@ r.14244.com
 r.99waiyu.com
 r.alicpd.top
 r.alimc1.top
+r.browser.miui.com
 r.bxb.oupeng.com
 r.dmp.sina.cn
 r.dmp.sina.com.cn
@@ -59086,6 +59086,7 @@ static.iqiyi.com
 static.iqiyi.com.w.alikunlun.com
 static.jebe.renren.com
 static.jiedianqian.com
+static.jointreport-switch.com
 static.jstv.com
 static.kk1.cn
 static.leiting.com

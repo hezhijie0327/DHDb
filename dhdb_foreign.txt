@@ -15537,6 +15537,7 @@ asia.marketo.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
+asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -27563,7 +27564,6 @@ cmxqcv.sundayup.co.kr
 cmys.tv
 cmzaly.gebrueder-goetz.de
 cmzy168.com
-cn-api.samsungcloud.com
 cn-bing-com.cn.a-0001.a-msedge.net
 cn-infinitemd.weebly.com
 cn-java.com

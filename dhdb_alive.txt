@@ -26387,6 +26387,7 @@ asia.marketo.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
+asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -63308,6 +63309,7 @@ email.axisintegrated.ca
 email.bowl.com
 email.boxed.com
 email.clearscore.co.za
+email.clearscore.com
 email.clearscore.com.au
 email.cobsbread.com
 email.collegeplanning.com
@@ -102926,7 +102928,6 @@ ku178.net
 ku18.net
 ku2048.net
 ku25.com
-ku3721.com
 ku6.com
 ku6dj.com
 ku8.tv
@@ -129117,7 +129118,6 @@ ours3care.com
 oursakura.com
 oursec1.com
 oursec2.com
-ourselec.com
 oursketch.com
 oursky.com
 oursmc.com
@@ -141154,6 +141154,7 @@ qzqfud.casamineira.com.br
 qzqstudio.com
 qzrbx.com
 qzrc.com
+qzrx.net
 qzs.qq.com
 qzs.qq.com.x2s-dstack.sched.dcloudstc.com
 qzs.qzone.qq.com

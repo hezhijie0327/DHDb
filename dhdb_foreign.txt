@@ -29470,7 +29470,6 @@ count42.51yes.com
 count43.51yes.com
 count45.51yes.com
 count48.51yes.com
-count49.51yes.com
 count5.51yes.com
 count51.51yes.com
 count6.51yes.com
@@ -95726,7 +95725,6 @@ skypedataprdcolcus14.cloudapp.net
 skypedataprdcoleus00.cloudapp.net
 skypedataprdcoleus03.cloudapp.net
 skypedataprdcoleus04.cloudapp.net
-skypedataprdcoleus06.cloudapp.net
 skypedataprdcoleus10.cloudapp.net
 skypedataprdcoleus11.cloudapp.net
 skypedataprdcoljpe00.cloudapp.net

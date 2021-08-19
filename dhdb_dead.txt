@@ -9148,6 +9148,7 @@ count33.51yes.com
 count44.51yes.com
 count46.51yes.com
 count47.51yes.com
+count49.51yes.com
 countatm.cp12.wasu.tv
 counter.adultcheck.com
 counter.csdn.net
@@ -14893,6 +14894,7 @@ haibian.com
 haibog.com
 haichuangyipin.com
 haidilao.net
+haieruplus.com
 haihaipin.com
 haijincang.com
 haikejx.com
@@ -17995,6 +17997,7 @@ jump.admin6.com
 jump.ewoss.net
 jump.fhoa365.com
 jump.mycctvmedia.com
+jump1.pszyzxh.org
 jump2006.com
 jump2see.net
 jumpe.58xmgys.com
@@ -27400,6 +27403,7 @@ skypedataprdcolcus12.cloudapp.net
 skypedataprdcoleus01.cloudapp.net
 skypedataprdcoleus02.cloudapp.net
 skypedataprdcoleus05.cloudapp.net
+skypedataprdcoleus06.cloudapp.net
 skypedataprdcoleus08.cloudapp.net
 skypedataprdcoleus09.cloudapp.net
 skypedataprdcoleus12.cloudapp.net
@@ -27555,7 +27559,6 @@ socialbits.com.br
 socialeel.com
 societe.mgr.consensu.org
 socvista.com
-sodocs.net
 soeol.com
 sofi-tech.com
 soft.chaomeng8.com

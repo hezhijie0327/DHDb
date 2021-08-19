@@ -15956,6 +15956,7 @@ channel.api.duapp.com
 channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
 channel.kandian.qq.com
+channel.m.163.com
 channel.vaptcha.net
 channel.vaptcha.net.w.cdngslb.com
 channel2-account-ssl.xunlei.com
@@ -30885,7 +30886,6 @@ hcdnw.net163.gslb.c.cdnhwc1.com
 hcdnw.zjtd01.gslb.c.cdnhwc2.com
 hcdnw01.gslb.c.cdnhwc2.com
 hcdnw101.gslb.c.cdnhwc2.com
-hcdnw120.global.c.cdnhwc6.com
 hcdyhr.com
 hcgroup.com
 hch518.com
@@ -38057,7 +38057,6 @@ js.haoxyx.com
 js.icast.cn
 js.idgdmg.com.cn
 js.idgdmgroup.com.cn
-js.jianbihuadq.com
 js.letvcdn.com
 js.maidagu.com.w.cdngslb.com
 js.mgtv.com
@@ -44442,6 +44441,7 @@ mi.com
 mi.gdt.qq.com
 mi.gdt.qq.com.nanadao.com
 mi1.cc
+mi513.com
 mi550.com
 mi551.com
 mi552.com

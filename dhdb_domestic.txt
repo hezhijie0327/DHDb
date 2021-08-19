@@ -2979,6 +2979,7 @@
 3323.com
 3328.cn
 333333.com
+33339.com
 333666999.club
 3339auto.com
 333ck.com
@@ -10091,7 +10092,6 @@ api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -29231,7 +29231,6 @@ gszq.com
 gt-oil.com
 gt-semi.com
 gt-wings.oss-cn-hangzhou.aliyuncs.com
-gt.duowan.com
 gt.yy.com
 gt1.a.shifen.com
 gt1.baidu.com

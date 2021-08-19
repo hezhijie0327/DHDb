@@ -3934,6 +3934,7 @@
 515app.com
 515car.com
 515fa.com
+515ha.com
 515ppt.com
 51658042.com
 51661182.com
@@ -28005,7 +28006,6 @@ gd-linux.com
 gd-stats.jpush.cn
 gd.10086.cn
 gd.gsxt.gov.cn
-gd.king10.com
 gd.sina.com.cn
 gd.sycdn.kuwo.cn
 gd.unicommusic.gtimg.com
@@ -50349,7 +50349,6 @@ popmart.com
 popme.163.com
 popmsg.com
 popoxiu.com
-poppur.b0.aicdn.com
 poppur.com
 popqiu.com
 popsimu.azchcdnk.com
@@ -51040,6 +51039,7 @@ pushapi.lenovomm.com
 pushcfg.com
 pushconn.ztems.com
 pushdata.shangxueba.cn
+pushenbbs.com
 pushgrid.net
 pushmis.cdn.bcebos.com
 pushproxy.ztems.com

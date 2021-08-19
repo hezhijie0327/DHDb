@@ -13756,6 +13756,7 @@ bqq.gtimg.com
 bqq.gtimg.com.cloud.tc.qq.com
 bqq.gtimg.com.x2s.sched.dcloudstc.com
 bqrank.net
+bqruan.com
 bqteng.com
 br.linkedin.com
 braincf.com
@@ -14254,7 +14255,6 @@ c.leankun.com
 c.lenovo.com.cn
 c.lenovo.com.cn.wswebcdn.com
 c.lianwangtech.com
-c.lxanimation.cn
 c.m.163.com
 c.mipcdn.com
 c.mp.qq.com
@@ -25567,6 +25567,7 @@ exmail.qq.com
 exmrw.com
 exness.com
 exntech.com
+exp-lbs.newsmth.net
 exp-picture.cdn.bcebos.com
 exp.3g.ifeng.com
 exp.bdstatic.com

@@ -7696,6 +7696,7 @@ abslw.com
 abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
+abtest.tantanapp.com
 abto.cc
 abuquant.com
 abuyun.com
@@ -16763,7 +16764,6 @@ chinastor.com
 chinasufa.com
 chinasupercloud.com
 chinaswim.com
-chinaswitch.com
 chinasws.com
 chinasydw.org
 chinataiwan.org
@@ -17900,6 +17900,7 @@ cmz2.stm65i8.com
 cmzd.com
 cmzj.net
 cmzyk.com
+cn-api.samsungcloud.com
 cn-api.samsungosp.com
 cn-api.samsungpositioning.com.cn
 cn-auth.samsungosp.com
@@ -22728,7 +22729,6 @@ doors10.com
 doorzo.com
 dopa.com
 dopa.com.cn
-dopic.net
 dopool.com
 doppler.logger.baofeng.com
 dora-control.cdnetworks.com

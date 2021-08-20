@@ -1525,7 +1525,6 @@
 103.34.211.61.zz.countries.nerd.dk
 103.com
 103.hk
-103153.com
 1031freshradio.ca
 10333.com
 1035.mobi
@@ -10959,7 +10958,6 @@
 75733.prohoster.biz
 7574.com
 75757.com
-7578650.com
 7579c3308c830b4855be4621322097df.safeframe.googlesyndication.com
 757aa.net
 757dy.com
@@ -10994,6 +10992,7 @@
 765q.com
 766.com
 7663.com
+766352.com
 76650000.com
 76653300.com
 76653333.com
@@ -12269,6 +12268,7 @@
 888y17.com
 888ylg.com
 888zy.cn
+8898ad.com
 88995799.com
 8899bn.com
 8899buyu.com
@@ -137593,6 +137593,7 @@ public.dm.files.1drv.com
 public.dns.iij.jp
 public.ffquan.cn
 public.fr
+public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.onlyfans.com
 public.popcorn-tracker.org

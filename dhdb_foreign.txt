@@ -7182,7 +7182,6 @@ a14518.actonservice.com
 a1469.d.akamai.net
 a14732.actonservice.com
 a14786.actonservice.com
-a152.cc
 a1531.g2.akamai.net
 a15575.actonservice.com
 a15662.actonservice.com
@@ -11645,7 +11644,6 @@ aidaiz.com
 aidata.io
 aidc.apple.com
 aidc.origin-apple.com.akadns.net
-aidecn.cn
 aidefence.org
 aidlearning.net
 aidma-hd.jp
@@ -61662,6 +61660,7 @@ jsslm.com
 jsss.site
 jsszls.com
 jst.ai
+jstdtncj.com
 jstor.org
 jstvqk.bellisima.mx
 jstyyghyy.com
@@ -77072,7 +77071,6 @@ newzgames.com
 newzit.com
 newzkoo.com
 nex-pro.com
-nex.163.com
 nex4.net
 nexac.com
 nexage.com

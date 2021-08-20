@@ -3677,7 +3677,6 @@ ad1.sportsseoul.com
 ad1.udn.com
 ad1.xiaomi.com
 ad121m.com
-ad12345.com
 ad2.adinfuse.com
 ad2.hotel.com
 ad2.ip.ro
@@ -8919,7 +8918,6 @@ collect.log.ttpod.com
 collect.sas.com
 collect2.sas.com
 collecte.audience.acpm.fr
-collecter.frontjs.com
 collection.theaa.com
 collector-axa.cloud.ca.com
 collector-medium.lightstep.com
@@ -27467,6 +27465,7 @@ skypedataprdcolweu05.cloudapp.net
 skypedataprdcolweu06.cloudapp.net
 skypedataprdcolwus00.cloudapp.net
 skypedataprdcolwus01.cloudapp.net
+skypedataprdcolwus03.cloudapp.net
 skypedataprdcolwus05.cloudapp.net
 skypedataprdcolwus06.cloudapp.net
 skypedataprdcolwus09.cloudapp.net

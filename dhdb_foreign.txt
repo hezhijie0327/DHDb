@@ -3,7 +3,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -14626,6 +14625,7 @@ appcloud.com
 appcloudcdn.com
 appconsent.io
 appcontent.serif.com
+appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appduu.com
@@ -73972,7 +73972,6 @@ mogroup.com
 mogs.com
 mogudong.com
 mogustore.com
-moha.club
 mohawkcollege.ca
 mohawkgroup.com
 mohd.it
@@ -87242,7 +87241,6 @@ q.quora.com
 q.stripe.com
 q1.net.daraz.com
 q10.jp
-q10329.com
 q107.com
 q13.com
 q13fox.com

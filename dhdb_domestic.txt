@@ -1030,6 +1030,7 @@
 1207101.shop.liebiao.com
 120ask.com
 120askimages.com
+120btc.com
 120hpyy.com
 120kaoshi.com
 120kid.com
@@ -13615,7 +13616,6 @@ book1234.com
 book365.net
 bookapka.com
 bookask.com
-bookba.net
 bookbk.img.ireader.com
 bookbook.in
 bookcover.yuewen.com

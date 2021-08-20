@@ -585,7 +585,6 @@
 10.client-channel.google.com
 10.courier-push-apple.com.akadns.net
 10.courier2-push-apple.com.akadns.net
-10.eve.dyx.com
 10.im.cz
 10.rarbg.com
 10.rarbg.me
@@ -96393,7 +96392,6 @@ skypedataprdcolneu04.cloudapp.net
 skypedataprdcoluks01.cloudapp.net
 skypedataprdcoluks03.cloudapp.net
 skypedataprdcoluks04.cloudapp.net
-skypedataprdcolweu04.cloudapp.net
 skypedataprdcolwus02.cloudapp.net
 skypedataprdcolwus03.cloudapp.net
 skypedataprdcolwus04.cloudapp.net

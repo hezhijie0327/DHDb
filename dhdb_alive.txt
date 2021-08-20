@@ -4852,7 +4852,6 @@
 2493944.shop.liebiao.com
 2495289.b2b.liebiao.com
 2495289.shop.liebiao.com
-249581.com
 2498969.b2b.liebiao.com
 2498969.shop.liebiao.com
 2499359.b2b.liebiao.com
@@ -35878,6 +35877,7 @@ btba.cc
 btbat.com
 btbook.net
 btbta.com
+btbtav.com
 btbtdy.com
 btbtdy2.com
 btbtdy3.com
@@ -38562,6 +38562,7 @@ captive.apple.com.edgekey.net
 captive.g.aaplimg.com
 capture.condenastdigital.com
 capture.crutchfield.com
+capture.trackjs.com
 captureage.com
 capuk.org
 capvision.com
@@ -96857,6 +96858,7 @@ jeffersonfrank.com
 jeffersonhealth.hrm.healthgrades.com
 jeffjade.com
 jeffo.net
+jeffstudio.net
 jeglnk.mydeal.com.au
 jegotrip.com
 jegplj.marketb.kr
@@ -170415,7 +170417,6 @@ tracker.secretescapes.com
 tracker.shittyurl.org
 tracker.shkinev.me
 tracker.shopclues.com
-tracker.sigterm.xyz
 tracker.sktorrent.net
 tracker.skyts.cc
 tracker.skyts.cn
@@ -171556,7 +171557,6 @@ trk.gamasutra.com
 trk.gamecareerguide.com
 trk.gdconf.com
 trk.geico.com
-trk.glispa.com
 trk.i0.cz
 trk.informationweek.com
 trk.iotworldtoday.com

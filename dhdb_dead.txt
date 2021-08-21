@@ -12935,6 +12935,7 @@ exotechfm.com.au
 exp-api.beeppool.org
 exp-tas.com
 exp.17wo.cn
+exp.glispa.com
 exp.newsmth.net
 exp.qumi.com
 expasset.com
@@ -16818,7 +16819,6 @@ intelrxt.com
 intent.cbsi.com
 intercomassets.com
 intercomcdn.com
-internal.larian.com
 internal.qtube.com
 internalcheck.apple.com
 international-news.newsmagazine.asia
@@ -17070,6 +17070,7 @@ itruelife.com
 itry.com
 itslighting.kr
 itugo.com
+itunbes.com
 ituneas.com
 itunes-apple.cn
 itunes-apple.com.akadns.net
@@ -27478,6 +27479,7 @@ skypedataprdcoljpe01.cloudapp.net
 skypedataprdcoljpe02.cloudapp.net
 skypedataprdcoljpe03.cloudapp.net
 skypedataprdcoljpe04.cloudapp.net
+skypedataprdcoljpe05.cloudapp.net
 skypedataprdcoljpw00.cloudapp.net
 skypedataprdcoljpw02.cloudapp.net
 skypedataprdcoljpw03.cloudapp.net

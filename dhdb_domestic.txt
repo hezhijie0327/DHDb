@@ -18009,7 +18009,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -27397,6 +27396,7 @@ fview.com
 fvti.com
 fw-biotech.com
 fw4.me
+fwcdn.com
 fwjia.com
 fwone.com
 fwqbdn.com

@@ -32485,7 +32485,6 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
-httpdns.ocloud.heytapmobi.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
 httpsdns.baidu.com
@@ -33779,7 +33778,6 @@ ic9cube.com
 ica-alliance.org
 icafe28.net
 icafe8.com
-icafebolger.com
 icaidao.com
 icaikee.com
 icaile.com
@@ -41598,6 +41596,7 @@ liuyang.com
 liuyangfcw.com
 liuyanzhao.com
 liuyifei.cc
+liuyingqiang.com
 liuzhichao.com
 liuzhuan.oss-accelerate.aliyuncs.com
 liuzk.com
@@ -44704,6 +44703,7 @@ mingtian.com
 mingtrip.com
 mingxiaodai.com
 mingxing.com
+mingxinglai.com
 mingyannet.com
 mingyantong.com
 mingyaohui.com

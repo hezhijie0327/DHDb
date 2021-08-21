@@ -12025,7 +12025,6 @@ bar-i.iqiyi.com
 bar.baidu.com
 bar.i.dns.iqiyi.com
 bar.tmall.com
-barlowarl.com
 barnettarn.com
 baron-bj.com
 barrage.aliyun.com
@@ -18006,6 +18005,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -52365,7 +52365,6 @@ qixing123.com
 qixingcr.com
 qixingquan.com
 qixingtang.com
-qixinqiguan.com
 qixoo.com
 qiye.163.com
 qiye.99114.com

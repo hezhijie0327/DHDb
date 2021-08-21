@@ -15594,7 +15594,6 @@ asia.marketo.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
-asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -67658,7 +67657,6 @@ luointo.com
 luokr.com
 luolaiqiang.top
 luolicloud.com
-luomapan.com
 luoqiu.com
 luoqiuzw.com
 luoqiuzww.com

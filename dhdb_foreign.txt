@@ -3,7 +3,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -49238,7 +49237,6 @@ go.sleepgroupsolutions.com
 go.slgreen.com
 go.slv.cloud
 go.slyip.net
-go.smaato.com
 go.smallbusinessmajority.org
 go.smarg.jp
 go.smartdesignworldwide.com
@@ -51128,6 +51126,7 @@ gu-global.com
 gu-pix.appspot.com
 gu.5.p2l.info
 gu.com
+gu.dyntrk.com
 gu.twimg.com
 gu7socdn.txxx.com
 guabu.com

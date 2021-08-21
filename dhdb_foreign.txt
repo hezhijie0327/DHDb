@@ -3,6 +3,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -39904,7 +39905,6 @@ etl-advision.de
 etl.de
 etnet.com.hk
 etnies.pw
-etnpool.minekitten.io
 eto9.com
 etokki.com
 etonline.com
@@ -53034,7 +53034,6 @@ hikari-tax.com
 hikari.dmm.com
 hikarinokiseki.com
 hikaritv.net
-hikerell.com
 hikinggfw.org
 hikmxb.botovo.cz
 hiknow.com

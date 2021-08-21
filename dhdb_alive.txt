@@ -18426,6 +18426,7 @@ ads.lfstmedia.com
 ads.liberte.pl
 ads.lifethink.net
 ads.linkedin.com
+ads.linksponsor.com
 ads.linktracking.net
 ads.linuxjournal.com
 ads.live365.com
@@ -108665,7 +108666,6 @@ log.ngaynay.vn
 log.nhipcaudautu.vn
 log.nordot.jp
 log.nuomi.com
-log.nvwa.baofeng.com
 log.nxjcwh.com
 log.olark.com
 log.orchidscape.net
@@ -140493,7 +140493,6 @@ qnqcdn.net
 qnqdpy.edreams.net
 qnr.io
 qns.as35q8.cn
-qns.ihuzuan.com
 qnsb.com
 qnsimg.en9fov.cn
 qnssl.com

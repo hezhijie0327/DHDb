@@ -7428,7 +7428,6 @@ a5.net
 a5032fb8c79415d4.qaxcloudwaf.com
 a565fba3c92c8d295113dc38ac7e9dac.dlied1.cdntips.net
 a57cvn.tdum.alibaba.com
-a5805.com
 a5f69f96a90aed270c560e827d1b8e48.dlied1.cdntips.net
 a5idc.net
 a615e890c8748a1b.cdn.jiashule.com
@@ -18936,6 +18935,7 @@ coralsec.com
 core-ucloud.tantanapp.com
 core.bilivideo.com
 core.cloud.unity.cn
+core.tantanapp.com
 corebai.com
 corebug.adsame.com
 coreldrawchina.com
@@ -32135,6 +32135,7 @@ hostcto.com
 hostelxian.com
 hostker.com
 hostxen.com
+hot.browser.miui.com
 hot.m.shouji.360tpcdn.com
 hotalk.com
 hotchat-im.iqiyi.com
@@ -48477,7 +48478,6 @@ owulia.com
 oxbridgedu.org
 oxdfx.com
 oxyry.com
-oy.qthp82.cn
 oyeahgame.com
 oyekeji.com
 oyfmp3adh.bkt.clouddn.com

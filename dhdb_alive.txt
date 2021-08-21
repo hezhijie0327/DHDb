@@ -777,7 +777,6 @@
 0700sun.com
 0701news.com
 070210.com
-0706hjkv.xyz
 07073.com
 07073h5.com
 07073sy.com
@@ -41145,6 +41144,7 @@ cespc.com
 cesses.org
 cet-uk.com
 cetccloud.com
+cetcio.com
 cetcmotor.com
 cetelem.fr
 ceterus.com
@@ -60995,6 +60995,7 @@ e19274.dscx.akamaiedge.net
 e1988.com
 e1c.curtisswrightds.com
 e1fun.com
+e1menjackets.com
 e2.2345.com
 e2.hazeldenbettyford.org
 e2.pr23.eu.org
@@ -69544,6 +69545,7 @@ flightcontrol.dev
 flightnetwork.com
 flightproxy-asea-02-teams.cloudapp.net
 flightproxy-asea-03-teams.cloudapp.net
+flightproxy-asea-06-teams.cloudapp.net
 flightproxy-asse-02-teams.cloudapp.net
 flightproxy-asse-03-teams.cloudapp.net
 flightproxy-asse-05-teams.cloudapp.net
@@ -97650,7 +97652,6 @@ jfstatic.com
 jftnz.com
 jftunj.brosway.com
 jfuwu.com
-jfxc.com
 jfxqczl.com
 jfyecc.machineseeker.com
 jfyiyao.com
@@ -109048,7 +109049,6 @@ lol-data-filter.wegame.com.cn
 lol-europe.com
 lol-ingoutloud.blogspot.in
 lol-wegame-client-1258344700.file.myqcloud.com
-lol.17173.com
 lol.aci.game.qq.com
 lol.ams.game.qq.com
 lol.qq.com
@@ -144460,7 +144460,6 @@ res.cloudinary.com
 res.cocomanhua.com
 res.cocounion.com
 res.doc88.com
-res.douyucdn.cn
 res.douyucdn.cn.w.kunlunar.com
 res.dxpmedia.com
 res.elle.fr

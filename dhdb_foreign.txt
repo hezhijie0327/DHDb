@@ -1368,7 +1368,6 @@
 16xxx.net
 16xz.com
 16yyy.net
-16zhan.com
 17-courier.push.apple.com
 17-courier2.push.apple.com
 17-js.com
@@ -14189,7 +14188,6 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
-api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.gfe.nvidia.com
@@ -76735,6 +76733,7 @@ new.ub8one.com
 new.vipgoma.com
 new.xiongzhangad.com
 new.y248.cc
+new131.com
 new2019.mine.nu
 new4.pipl.ua
 new400.cn
@@ -89274,6 +89273,7 @@ rdoequipment.com
 rdphv.net
 rdr.wargaming.net
 rdrtech.com
+rds.alipay.com
 rds.ca
 rdsa2013.com
 rdstation.com.br
@@ -96360,7 +96360,6 @@ skypeassets.com
 skypedataprdcolaus02.cloudapp.net
 skypedataprdcolcus03.cloudapp.net
 skypedataprdcolcus04.cloudapp.net
-skypedataprdcolcus05.cloudapp.net
 skypedataprdcolcus06.cloudapp.net
 skypedataprdcolcus09.cloudapp.net
 skypedataprdcolcus13.cloudapp.net

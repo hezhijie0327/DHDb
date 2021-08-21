@@ -6614,7 +6614,6 @@
 38856688.com
 38859900.com
 388652.com
-3888298.com
 38884fe6d9f1b568b6d36819118b6025.safeframe.googlesyndication.com
 38889.com
 3892222.com
@@ -78256,6 +78255,7 @@ go.turtle.com
 go.tutor.com
 go.tuv.com
 go.tv-tokyo.co.jp
+go.twg.io
 go.twinprime.com
 go.twistertrimmer.com
 go.twisthink.com
@@ -108625,7 +108625,6 @@ log.kinhdoanhhoinhap.vn
 log.kinhtedouong.vn
 log.krs-ix.ru
 log.kuaigeng.com
-log.kukuplay.com
 log.kuwo.cn
 log.l.ywopt.com
 log.liusha.info
@@ -154450,8 +154449,6 @@ skype.en.softonic.com
 skype.net
 skypeassets.com
 skypedataprdcolcus03.cloudapp.net
-skypedataprdcolcus04.cloudapp.net
-skypedataprdcolcus09.cloudapp.net
 skypedataprdcolcus13.cloudapp.net
 skypedataprdcoleus10.cloudapp.net
 skypedataprdcoleus11.cloudapp.net

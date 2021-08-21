@@ -506,7 +506,6 @@
 086580.com
 086jx.com
 086kd.com
-086mai.com
 0871gc.com
 0890.com
 08946.com
@@ -5347,7 +5346,6 @@
 68youhui.com
 6903.com
 6927.sched.ssdv6.tdnsv6.com
-693836.com
 693975.com
 695157.com
 695175.com
@@ -22323,7 +22321,6 @@ dlnel.com
 dlnel.org
 dlpuwan.com
 dlres.ind9ed.com
-dlrkb.com
 dls2.bigdata.samsung.com.cn
 dlsev.boc.cn
 dlsite-zh.com
@@ -24662,7 +24659,6 @@ ee-skin.com
 ee-vip.net
 ee.hx623.cn
 ee.m19ud.cn
-ee.xlhm88.cn
 ee6a315087c7ffb1d58d8ae7ce7cf4d7.dl.txcdns.com
 eeb8ea29c0ac4b2ba1bf8960.mdbook.cn
 eebbk.com
@@ -31651,6 +31647,7 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -43133,6 +43130,7 @@ m3.static.yximgs.com.download.ks-cdn.com
 m3avko1.cachenode.cn
 m3guo.com
 m3u8.live.video.ptqy.gitv.tv
+m3ws.kugou.com
 m4.lefile.cn
 m4.lefile.cn.cdn20.com
 m4.mogu66.com

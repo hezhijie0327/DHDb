@@ -5142,6 +5142,7 @@
 612.com
 6122.net
 612459.com
+6137.net
 615c.com
 61611.net
 6168511.com
@@ -10443,7 +10444,6 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net

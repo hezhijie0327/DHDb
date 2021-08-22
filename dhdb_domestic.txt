@@ -10098,6 +10098,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -40083,7 +40084,6 @@ l.glrcy.cn
 l.gm.mob.com
 l.huya.com
 l.kscmt.cn
-l.ksxcxb.cn
 l.news.qq.com
 l.qq.com
 l.rcd.dns.iqiyi.com
@@ -41187,7 +41187,6 @@ light-client-log-heiniugo.getapk.cn
 lightget.com
 lightgx.com
 lighthouse.dmallcdn.com
-lighthouseapi.dmall.com
 lightingchina.com
 lightinit.com
 lightky.com
@@ -55547,7 +55546,6 @@ scpic8.com
 scplt.com
 scq1dt0.cachenode.cn
 scqcp.com
-scr.lflable.com
 scratch-edu.com
 screen.api.idotools.com
 screentime.comm.miui.com

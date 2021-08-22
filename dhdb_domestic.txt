@@ -10441,6 +10441,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -14231,7 +14232,6 @@ c.gsc.qq.com
 c.hiphotos.baidu.com
 c.img001.com
 c.jjkk.org
-c.jzdianlan.cn
 c.kanwby.com
 c.kuaiduizuoye.com
 c.kuwo.cn
@@ -48917,7 +48917,6 @@ palmjoys.com
 palmnews.sina.cn
 palmtrends.com
 palmyou.com
-pan-elektron.com
 pan.baidu.com
 pan.diemoe.net
 pan.lanzou.com
@@ -49957,7 +49956,6 @@ pingxuan123.com
 pingxx.com
 pingyao.baixing.com
 pingyin.cc
-pingyou.cc
 pingyumarathon.com
 pinhaohuo.com
 pinhuba.com

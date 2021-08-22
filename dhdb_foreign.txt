@@ -1868,7 +1868,6 @@
 1sthcc.com
 1stopbedrooms.com
 1t.io
-1t.z95666.com
 1textile.com
 1thegioi.vn
 1to1.bbva.com
@@ -14205,7 +14204,6 @@ api.github.com
 api.graphql.imdb.com
 api.grumft.com
 api.hfyhjg.cn
-api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -41217,7 +41215,6 @@ faeclientep-prod.azureedge.net
 faesebook.com
 fafa.com
 fafa168.01801.com
-fafa68.com
 fafa99.com
 fafacebook.com
 fageka.com
@@ -50741,7 +50738,6 @@ graphycalc.com
 grassavoye.com
 grassdoor.com
 gratisjuegos.org
-gratisography.ga
 gratka.pl
 gravatar.cat.net
 gravatar.com
@@ -54455,6 +54451,7 @@ htt5.com
 http-echo-beta-interaction.net.daraz.com
 http3check.net
 httpbaidu.com
+httpdns.push.heytapmobi.com
 httpdns.push.oppomobile.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
@@ -66989,6 +66986,7 @@ loldh.com
 loldytt.com
 loldytt.org
 loldytt.tv
+loldyttt.com
 loldyttw.com
 loldyttw.net
 lolespor.com

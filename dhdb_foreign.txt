@@ -14941,6 +14941,7 @@ appliedprivacy.net
 applift.com
 applink.getbambu.com
 applle.com
+applog.matrix.netease.com
 applog.musical.ly
 applog.zaycev.net
 applogs-v2.pixelfederation.com
@@ -29612,7 +29613,6 @@ count24.51yes.com
 count25.51yes.com
 count26.51yes.com
 count27.51yes.com
-count28.51yes.com
 count29.51yes.com
 count3.51yes.com
 count30.51yes.com
@@ -59875,6 +59875,7 @@ item24.hu
 item24.mx
 item24.pl
 itemdb.com
+itepian.com
 iterable.convoy.com
 iteratehq.com
 iterative.ly

@@ -16989,7 +16989,6 @@ ipv6-publictracker.zooki.xyz
 ipv6-yy-aplbs.service.yy.com
 ipv6.fra.test-ipv6.com
 ipv6.ipv6-test.ch
-ipv6.leechers-paradise.org
 ipv6.login.live.com
 ipv6.lookup.test-ipv6.com
 ipv6.mercax.com

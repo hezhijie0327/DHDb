@@ -59431,6 +59431,7 @@ ipv6-test.pl
 ipv6.adrta.com
 ipv6.freebitco.in
 ipv6.la
+ipv6.leechers-paradise.org
 ipv6.open-internet.nl
 ipv6ready.me
 ipvanish.com
@@ -81009,6 +81010,7 @@ oppd.com
 oppo518.net
 oppodigital.com
 oppofile.duckdns.org
+oppono.com
 opportunity.businessbroker.net
 opportunityfund.actonservice.com
 opportunityfund.org

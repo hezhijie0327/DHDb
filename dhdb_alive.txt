@@ -53864,7 +53864,6 @@ dcits.com
 dcjdj.com
 dcjg1gv1px1h.cloudfront.net
 dcjs.cig.com.cn
-dcjyw.com
 dcldshlupt.alicdn.com
 dclk.themarker.com
 dclk.themarketer.com
@@ -65156,7 +65155,6 @@ etaxcn.com
 etbc.com.hk
 etc.1332vp.com
 etc.6187wo.com
-etc.jiguangzhuisu.com
 etc.lghausysusa.com
 etcanada.com
 etccenter.com
@@ -66482,6 +66480,7 @@ f1zd.com
 f2.info.tm
 f2.market.mi-img.com
 f2.market.xiaomi.com
+f2.p0y.cn
 f2.video.weibocdn.com
 f22.flnet.org
 f236715c6a721452134bc16df671f21a.dlied1.cdntips.net
@@ -99410,6 +99409,7 @@ jp.hao123.com
 jp.moc.gov.tw
 jp.net
 jp.pandora.tv
+jp.pool.ntp.org
 jp.promo.skf.com
 jp.rti.org.tw
 jp.schroders.email

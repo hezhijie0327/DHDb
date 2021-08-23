@@ -10098,6 +10098,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -10593,6 +10594,7 @@ appjiagu.com
 appkaifa.com
 appkefu.com
 appkg.com
+applaudads.com
 appldnld.apple.com
 appldnld.g.aaplimg.com
 apple-www.le.com
@@ -10772,6 +10774,7 @@ ark.cocounion.com
 ark.cp21.ott.cibntv.net
 ark.letv.com
 arkfeng.xyz
+arkn81.com
 arkoo.com
 arkrdigital.com
 arkteam.net
@@ -28065,7 +28068,6 @@ gdrc.com
 gdrc360.com
 gdrcu.com
 gdrfyy.com
-gds-services.com
 gdscse.net
 gdspeedtest.com
 gdsports.net

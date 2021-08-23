@@ -3,6 +3,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -27776,6 +27777,7 @@ cn5.rti.tw
 cn50hz.com
 cn51.com
 cn6.eu
+cn68.com
 cn716.com
 cn8fre.com
 cna.asia
@@ -74193,7 +74195,6 @@ molegu.com
 molenaar.nl
 molhodealface.duckdns.org
 molihua.org
-moliplayer.com
 moliqiji.com
 molizm.com
 mollom.com
@@ -81131,7 +81132,6 @@ order.shadowsocks.ch
 order.shadowsocks.se
 order.webunion.com
 order2cash.com
-orderprocessor-public-service-ecomprod01.ol.epicgames.com
 ordns.he.net
 ordpmx.victorianplumbing.co.uk
 orea.com

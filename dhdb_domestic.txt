@@ -23816,6 +23816,7 @@ dvzlbwmf.v1d.szbdyd.com
 dvzlfh6o.v1d.szbdyd.com
 dvzlw98j.v1d.szbdyd.com
 dw-collect.ksosoft.com
+dw-online.ksosoft.com
 dw.iask.com.cn
 dw.xcar.com.cn
 dw93s8.tdum.alibaba.com
@@ -27922,7 +27923,6 @@ gate.push.x.netease.com
 gateface.com
 gateway-drcn.wallet.dbankcloud.com
 gateway.battlenet.com.cn
-gateway.cdeledu.com
 gateway.fe.apple-dns.cn
 gateway.icloud.com.cn
 gateway.im.weibo.cn
@@ -53623,7 +53623,6 @@ r2---sn-ni57rn7y.googlevideo.com
 r2---sn-ni57rn7y.gvt1.com
 r2---sn-ni5een7s.googlevideo.com
 r2.adwo.com
-r2.tschewang.com
 r2.ykimg.com
 r24d7hrcw5kzo2ydtmlug9bwgk35t2wz.yundunwaf5.com
 r2g.net

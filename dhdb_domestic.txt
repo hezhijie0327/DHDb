@@ -4,7 +4,6 @@
 0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 00000.host
@@ -30363,6 +30362,7 @@ hao24.com
 hao245.com
 hao268.com
 hao3399.com
+hao352.com
 hao360.com
 hao394.com
 hao4k.cn

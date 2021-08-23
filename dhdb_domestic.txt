@@ -5289,6 +5289,7 @@
 66nao.com
 66nh.com
 66play.com
+66rou.com
 66rpg.com
 66rr5v.tdum.alibaba.com
 66ruian.com
@@ -7276,7 +7277,6 @@ a.cnzz.com.gds.alibabadns.com
 a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
-a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -41186,6 +41186,7 @@ light-client-log-heiniugo.getapk.cn
 lightget.com
 lightgx.com
 lighthouse.dmallcdn.com
+lighthouseapi.dmall.com
 lightingchina.com
 lightinit.com
 lightky.com

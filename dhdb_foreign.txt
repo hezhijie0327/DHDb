@@ -1915,7 +1915,6 @@
 2.biqle.ru
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
-2.centos.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.courier2-push-apple.com.akadns.net
 2.cr.rs
@@ -51521,6 +51520,7 @@ h5.069ld.com
 h5.070ld.com
 h5.071ld.com
 h5.072ld.com
+h5.073ld.com
 h5.074ld.com
 h5.076ld.com
 h5.078ld.com
@@ -93053,7 +93053,6 @@ sbttlj.togetter.com
 sbucard.com
 sbux.com.my
 sbuxcard.com
-sbvideocdn.com
 sbvxlj.quincaillerie.pro
 sbx.pagesjaunes.fr
 sbxelb.bonprix.ro

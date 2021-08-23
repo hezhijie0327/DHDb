@@ -10098,7 +10098,6 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
-api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -14255,7 +14254,6 @@ c.oumaite168.com.cn
 c.pc.qq.com
 c.pcs.baidu.com
 c.pcs.n.shifen.com
-c.qhruisen.cn
 c.sayhi.360.cn
 c.shishishiguixinfangfuzhuangshanghan.cn
 c.ssp.qq.com
@@ -16536,7 +16534,6 @@ chinagcp.org
 chinagiftsfair.com
 chinagoldcoin.net
 chinagoldgroup.com
-chinagolfindustryexpo.com
 chinagolfshow.com
 chinagp.net
 chinagps.cc
@@ -16858,6 +16855,7 @@ chinaznyj.com
 chinazov.com
 chinazxt.com
 chinca.org
+chinebuy.com
 chinee.com
 chinese-luxury.com
 chineseacc.com

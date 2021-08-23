@@ -25135,7 +25135,6 @@ appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
-appdl.hicloud.com
 appdl.hicloud.com.sched.s3hw.tdnsv5.com
 appdl.lenovo.com.cn
 appdlc-drcn.hispace.hicloud.com
@@ -42028,6 +42027,7 @@ chengdu.jsq.red
 chengdulvshi.net
 chengdun.com
 chengedeco.com
+chengezhao.com
 chengfeilong.com
 chenggua.com
 chengguw.com
@@ -111141,7 +111141,6 @@ m.wnacg.com
 m.wnacg.org
 m.wonwg.com
 m.wooboo.com.cn
-m.wuqutu.com
 m.wuxiamh.com
 m.ww.yjbys.com.w.kunlunle.com
 m.wywna.cn

@@ -27596,6 +27596,7 @@ skypedataprdcoljpw02.cloudapp.net
 skypedataprdcoljpw03.cloudapp.net
 skypedataprdcolneu00.cloudapp.net
 skypedataprdcolneu03.cloudapp.net
+skypedataprdcolneu04.cloudapp.net
 skypedataprdcolneu05.cloudapp.net
 skypedataprdcolneu06.cloudapp.net
 skypedataprdcoluks00.cloudapp.net
@@ -27988,7 +27989,6 @@ ss.agro.hk
 ss.biquge.la
 ss.gate-project.com
 ss.gfw.host
-ss.gome.com.cn
 ss.hkj.tech
 ss.it
 ss.levyhsu.com

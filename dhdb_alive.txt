@@ -12582,6 +12582,7 @@
 9-courier.push.apple.com
 9-courier2.push.apple.com
 9-marketing.net.daraz.com
+9-qq.com
 9-sun.com
 9-zhuce.com
 9.courier-push-apple.com.akadns.net
@@ -13718,7 +13719,6 @@
 99uaa.com
 99uam.com
 99vu.com
-99waiyu.com
 99wed.com
 99weiqi.com
 99wushu.com
@@ -42198,6 +42198,7 @@ chgcis.com
 chgcw.com
 chgjjzx.com
 chgreenway.com
+chgtmy.com
 chhblog.com
 chhongbi.org
 chhua.com
@@ -57159,6 +57160,7 @@ dmacore.kejet.com
 dmacore.kejet.net
 dmaku.com
 dmall.com
+dmanage.17173.com
 dmapp.youku.com
 dmarcdigests.com
 dmas.com.au
@@ -101735,7 +101737,6 @@ ke.com
 ke.qq.com
 ke.youdao.com
 ke01.com
-ke2.fengherili.cc
 ke6.com
 ke86.com
 keaidian.com
@@ -109174,6 +109175,7 @@ longtermly.net
 longtoes.com
 longtugame.com
 longtuohy.com
+longu.com
 longvideoapi.piaoquantv.com
 longwang.cc
 longwenedu.com
@@ -134446,7 +134448,6 @@ piwik.filecrypt.cc
 piwik.matrix.ua
 piwik.opendesktop.org
 piwik.openstreetmap.org
-piworker.com
 pix.adrta.com
 pix.airbusgroup.com
 pix.eads.com

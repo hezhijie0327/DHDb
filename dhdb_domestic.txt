@@ -38050,6 +38050,7 @@ js.sohu.com
 js.stat.ijinshan.com
 js.static.m1905.cn
 js.t.sinajs.cn
+js.ta80.com
 js.tianjimedia.com
 js.tongji.linezing.com
 js.tv.itc.cn
@@ -50993,6 +50994,7 @@ push.gifshow.com
 push.khd.2345.cc
 push.ksapisrv.com
 push.m.youku.com
+push.mobile.kugou.com
 push.my.tv.sohu.com
 push.pgl.qq.com
 push.res.meizu.com

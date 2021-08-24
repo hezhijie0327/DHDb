@@ -47703,7 +47703,6 @@ connect.content-hub.netapp.com
 connect.customers.netapp.com
 connect.danone.es
 connect.darden.virginia.edu
-connect.datafiletechnologies.com
 connect.digi.com
 connect.ekomi.de
 connect.emby.media
@@ -67592,7 +67591,6 @@ fartit.com
 farumradio.com
 farvd.com
 farwestchina.com
-farxian.com
 fasebokk.com
 fasebook.com
 faseboox.com
@@ -100512,7 +100510,6 @@ jujusky.com
 jujuwan.com
 jukandiannews.com
 jukebao.com
-jukebao123.com
 jukejia.com
 juketool.com
 jukkatalo.fi

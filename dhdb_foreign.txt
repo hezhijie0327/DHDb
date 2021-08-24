@@ -5769,7 +5769,6 @@
 855090fe541f4f2ad32c601ea7976ff3.clo.footprintdns.com
 855126.com
 8558.org
-8562475.com
 8567820.com
 8574dnj3yzjace8c8io6zr9u3n.hop.clickbank.net
 8576996.com
@@ -14199,6 +14198,7 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
+api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.gfe.nvidia.com
@@ -77735,7 +77735,6 @@ nhsb.rjjtf.biz
 nhstu.com
 nhtglobal.com
 nhvrzm.optcorp.com
-nhzy.org
 ni.com
 ni8.lafuma-boutique.com
 ni8.lafuma.com
@@ -95856,7 +95855,6 @@ shihan.exblog.jp
 shihang.org
 shihangwifi.com
 shiid.com
-shijieditu.net
 shijueju.com
 shijuew.com
 shikishima-town.com

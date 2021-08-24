@@ -933,6 +933,7 @@
 1146974.shop.liebiao.com
 11476d9f165b3cc916ced3d14301f70c.safeframe.googlesyndication.com
 1148900.p23.tc.cdntip.com
+114admall.com
 114best.com
 114cbd.com
 114chn.com
@@ -2142,6 +2143,7 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
+2.android.pool.ntp.org
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
@@ -3964,7 +3966,6 @@
 517sc.com
 517tez.com
 517xc.com
-517zp.com
 518.sdinfo.net
 5184.com
 5184edu.com
@@ -4674,6 +4675,7 @@
 54tusi.com
 54yt.net
 54yuqing.com
+54zm.com
 5504.com
 550400.com
 5504z.com
@@ -13054,6 +13056,7 @@ bizconfstreaming.com
 bizgame.com
 bizhao178.com
 bizhi360.com
+bizhidaquan.com
 bizhimi.com
 bizhizj.com
 bizhongchou.com
@@ -25166,6 +25169,7 @@ epet.com
 epetbar.com
 epetpet.com
 epg.bobo.itvsh.cn
+ephen.me
 ephoton.me
 epicgames-download1-1251447533.file.myqcloud.com
 epichust.com
@@ -27966,6 +27970,7 @@ gate.push.x.netease.com
 gateface.com
 gateway-drcn.wallet.dbankcloud.com
 gateway.battlenet.com.cn
+gateway.cdeledu.com
 gateway.fe.apple-dns.cn
 gateway.icloud.com.cn
 gateway.im.weibo.cn
@@ -40317,7 +40322,6 @@ lang.alicdn.com.danuoyi.tbcache.com
 lang8.net
 langchao.com
 langchengzhixin.com
-langegruppe.com
 langfang.anjuke.com
 langfangfc.com
 langfly.com
@@ -49280,6 +49284,7 @@ pb6.sogou.com
 pb6o6q2.cachenode.cn
 pb89.com
 pbcan.com
+pbcdn.com
 pbd.sogou.com
 pbmp.ali213.net
 pbootcms.com

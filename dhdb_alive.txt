@@ -4449,7 +4449,6 @@
 22.biz.tm
 22.courier-push-apple.com.akadns.net
 22.cr.rs
-22.dns2.us
 22.eye.rs
 22.flnet.org
 22.info.tm
@@ -16852,7 +16851,6 @@ ad.huajiao.com
 ad.hutor.ru
 ad.hyena.cz
 ad.hzyoka.com
-ad.ibookstar.com
 ad.icheck.com.vn
 ad.iinfo.cz
 ad.ikonke.com
@@ -24779,7 +24777,6 @@ apk-img.zhoushengfe.com
 apk.10046.mi.com
 apk.360buyimg.com
 apk.91.com
-apk.asso.st
 apk.fr.cr
 apk.shouji.koowo.com
 apk.support
@@ -92082,7 +92079,6 @@ impservice.mail.youdao.com
 impservice.union.youdao.com
 impservice.youdao.com
 impservice2.youdao.com
-impta.com
 impulsoti.com
 imqq.com
 imqueenapp.com

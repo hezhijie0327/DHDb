@@ -28328,6 +28328,7 @@ gf.cc
 gf.com.cn
 gf.fancyapi.com
 gf5225.com
+gfan.com
 gfanstore.com
 gfcvisa.com
 gfd178.com
@@ -59145,7 +59146,6 @@ static.leiting.com
 static.letvcdn.com
 static.liaoxuefeng.com
 static.licdn.cn
-static.licdn.com
 static.liuxuekuaiwen.com
 static.live.nagezan.net
 static.lizhi.io

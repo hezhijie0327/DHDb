@@ -14157,6 +14157,7 @@ api.cloudmobi.net
 api.codacy.com
 api.codeclimate.com
 api.coinerra.com
+api.comm.miui.com
 api.company-target.com
 api.cookielaw-script.it
 api.cookielaw.eu
@@ -60671,7 +60672,6 @@ javamateur.com
 javarchive.com
 javarevisited.blogspot.in
 javascriptcounter.appspot.com
-javaweb.io
 javaweb.org
 javaworld.com
 javbaike.com

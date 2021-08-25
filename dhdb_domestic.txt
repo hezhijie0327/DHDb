@@ -10450,7 +10450,6 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -21913,7 +21912,6 @@ diemameishi.com
 diemoe.net
 diershoubing.com
 difanapp.com
-dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digcredit.com
@@ -36500,7 +36498,6 @@ j.diangon.com
 j.gamersky.com
 j.gamersky.com.cdn20.com
 j.kfd3sm2c.com
-j.qhjrcw.com
 j.qiqivv.com
 j.qiqiww.com
 j.s11.cn

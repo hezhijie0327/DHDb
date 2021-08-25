@@ -25018,6 +25018,7 @@ app.lp1.five.nintendo.net
 app.lz55.cn
 app.m.letv.com
 app.market.xiaomi.com
+app.mcafee.com
 app.mengtuiapp.com
 app.mi.com
 app.mktg.genesys.com
@@ -91585,6 +91586,7 @@ img.oipeirates.pro
 img.onlinedown.net
 img.opentracker.net
 img.ott.siqiangame.com
+img.pconline.com.cn
 img.pconline.com.cn.cdn20.com
 img.pddpic.com
 img.pddpic.com.sched.pddlego-dk.tdnsv5.com
@@ -100973,6 +100975,7 @@ jx.youth.cn
 jx.youth.cn.wswebcdn.com
 jx09.com
 jx118114.net
+jx3.17173.com
 jx3mogu.com
 jx3pve.com
 jx3tong.com
@@ -102455,7 +102458,6 @@ keyvalueservice.icloud.com
 keyvalueservice.icloud.com.cn
 keyvisual.net
 keywee.co
-keywin.org
 keywordintent.com
 keywordsconnect.com
 kezhaozhao.com
@@ -111347,7 +111349,6 @@ m.jm778899.com
 m.jr.jd.com
 m.jrj.com.cn
 m.jrszbz.com
-m.jysbj.cn
 m.jzqyw.com
 m.k.sohu.com
 m.k73.com
@@ -142684,7 +142685,6 @@ r.manage.microsoft.com
 r.mobpartner.mobi
 r.movad.de
 r.msn.com
-r.my.com
 r.myadx.net
 r.net.daraz.com
 r.nikkei.com

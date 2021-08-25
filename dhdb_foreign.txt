@@ -5036,7 +5036,6 @@
 69111.global.siteimproveanalytics.io
 69192.com
 6922000.com
-6934901.com
 694452.cc
 6946942.com
 6949.com
@@ -32861,7 +32860,6 @@ dc.applicationinsights.azure.com
 dc.arrivalist.com
 dc.audi.com
 dc.banggood.com
-dc.chillyroom.com
 dc.di.atlas.samsung.com
 dc.glbtls.t.co
 dc.oracleinfinity.io

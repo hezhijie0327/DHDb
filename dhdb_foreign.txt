@@ -3,7 +3,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -25737,6 +25736,7 @@ chantci.com
 chantelle.com
 chanumber.com
 chanzuckerberg.com
+chaochaojin.com
 chaoex.com
 chaofan86.com
 chaojialin.com
@@ -37841,7 +37841,6 @@ ecovadis.com
 ecp.bdoaustralia.bdo.com.au
 ecpa.fr
 ecparty.net
-ecpm.7742w0.cn
 ecrans.fr
 ecrparty.eu
 ecs-ap-southeast-3.console.aliyun.com
@@ -65943,7 +65942,6 @@ liberapay.org
 liberation.com
 liberation.fr
 libero.it
-libertarianismo.org
 libertatea.ro
 liberte.pl
 libertics.com.ar

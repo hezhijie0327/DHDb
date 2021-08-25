@@ -14205,6 +14205,7 @@ api.funcaptcha.com
 api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
+api.geetest.com
 api.gfe.nvidia.com
 api.gimbal.com
 api.github.com
@@ -66176,6 +66177,7 @@ limetorrents.cc
 limetorrents.info
 limevpn.com
 limewebdevelopment.io
+limin.com
 limnology.org
 limoer.cc
 limone.iltrovatore.it
@@ -68509,6 +68511,7 @@ m.xw294.com
 m.xxjjfs.cn
 m.y48bc.com
 m.yaoboshiks.cn
+m.yg10x.cn
 m.ygblogtag.cn
 m.yitiaoyu.top
 m.ykmh.com

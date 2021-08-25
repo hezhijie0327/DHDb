@@ -42335,7 +42335,6 @@ files.im
 files.pbgiris.com
 files.pythonhosted.org
 files.upscore.com
-files2me.com
 filesdownloader.com
 filesend.jp
 fileserve.com
@@ -95318,7 +95317,6 @@ service.idsync.analytics.yahoo.com
 service.joy2call.com
 service.just.nl
 service.kvbgc.com
-service.mkey.163.com
 service.print-mo.net.daraz.com
 service.sbh.idv.tw
 service.sbpayment.jp

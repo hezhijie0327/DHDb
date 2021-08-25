@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0-gold.net
-0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
 0.up.qingdaonews.com
@@ -59556,6 +59555,7 @@ sudu-q6wk.com
 sudu-r8gh.com
 sudu-sq56.com
 sudu-tf42.com
+sudu-xu9b.com
 sudu123.net
 suducha.com
 sududa.com

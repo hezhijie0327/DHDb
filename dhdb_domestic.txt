@@ -15126,6 +15126,7 @@ cctv.cn
 cctv.com
 cctv4g.com
 cctv886.com
+cctvcaizhi.com
 cctvcnch5ca.v.wscdns.com
 cctvdyt.com
 cctvenchiridion.cctv.com
@@ -36824,7 +36825,6 @@ jfrogchina.com
 jfshare.com
 jfstatic.com
 jfuwu.com
-jfxc.com
 jfyiyao.com
 jfz.com
 jfzhiyao.com
@@ -45191,7 +45191,6 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
-mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com

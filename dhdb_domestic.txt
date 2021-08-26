@@ -1213,6 +1213,7 @@
 1339857.b2b.liebiao.com
 1339857.shop.liebiao.com
 133998.com
+133jz.com
 1341512.sched.sma.tdnsv5.com
 1341533.p23.tc.cdntip.com
 1345345.com
@@ -6504,6 +6505,7 @@
 8zntx.com
 8zy.com
 9-zhuce.com
+9.pic.paopaoche.net
 9.pic.pc6.com
 9.url.cn
 9000.vip
@@ -15362,7 +15364,6 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
-cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -21903,6 +21904,7 @@ dieclock.com
 diemameishi.com
 diershoubing.com
 difanapp.com
+dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digcredit.com
@@ -33128,7 +33130,6 @@ hutusi.com
 huuhoo.com
 huway.com
 huweishen.com
-huxi.cc
 huxiaofan.com
 huxiaoshi.com
 huxinqk.com
@@ -47612,7 +47613,6 @@ ocri-genomics.org
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
 ocsp-lb.apple.com.akadns.net
-ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.cfca.com.cn
 ocsp.crlocsp.cn

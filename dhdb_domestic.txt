@@ -10103,7 +10103,6 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
-api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -10481,7 +10480,6 @@ app.knights.mi.com
 app.kwaixiaodian.com
 app.lz55.cn
 app.m.letv.com
-app.market.xiaomi.com
 app.mengtuiapp.com
 app.mi.com
 app.moji001.com
@@ -10898,7 +10896,6 @@ ashj.com
 ashl7t28u9asxjo1.aliyunddos1011.com
 ashma.info
 ashow.pcpop.com
-asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com

@@ -33512,7 +33512,6 @@ desertfish.be
 desertsun.com
 desertveinspecialists.com
 desgao1zt7irn.cloudfront.net
-deshuangwang.cn
 deshui.wang
 design-solutions.com
 design.carnegiefabrics.com
@@ -35109,7 +35108,6 @@ dnsfilter.com
 dnsforfamily.com
 dnsforge.de
 dnsfre.xyz
-dnsfree.xyz
 dnsget.xyz
 dnshome.de
 dnsimple.com
@@ -97141,10 +97139,8 @@ skypeassets.com
 skypedataprdcolcus03.cloudapp.net
 skypedataprdcolcus06.cloudapp.net
 skypedataprdcolcus09.cloudapp.net
-skypedataprdcolcus13.cloudapp.net
 skypedataprdcolcus14.cloudapp.net
 skypedataprdcoleus00.cloudapp.net
-skypedataprdcoleus03.cloudapp.net
 skypedataprdcoleus10.cloudapp.net
 skypedataprdcoleus11.cloudapp.net
 skypedataprdcolneu01.cloudapp.net
@@ -103191,6 +103187,7 @@ store.sstuan.net
 store.steampowered.com
 store.storeimages.apple.com.akadns.net
 store.storeimages.cdn-apple.com
+store.storevideos.cdn-apple.com
 store.ubi.com
 store.unity.com
 storecatalogrevocation.storequality.microsoft.com

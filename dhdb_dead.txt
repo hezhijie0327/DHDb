@@ -11227,6 +11227,7 @@ dnsdun.com
 dnsdyn.xyz
 dnsece.com
 dnsfamily.com
+dnsfree.xyz
 dnsgood.xyz
 dnsgtm.com
 dnsgulf.net
@@ -27707,8 +27708,10 @@ skypedataprdcolcus08.cloudapp.net
 skypedataprdcolcus10.cloudapp.net
 skypedataprdcolcus11.cloudapp.net
 skypedataprdcolcus12.cloudapp.net
+skypedataprdcolcus13.cloudapp.net
 skypedataprdcoleus01.cloudapp.net
 skypedataprdcoleus02.cloudapp.net
+skypedataprdcoleus03.cloudapp.net
 skypedataprdcoleus04.cloudapp.net
 skypedataprdcoleus05.cloudapp.net
 skypedataprdcoleus06.cloudapp.net

@@ -13665,6 +13665,7 @@ boot-video.xuexi.cn
 boot.cdn.womendwxtaiyhng.top
 bootcdn.cn
 bootcdn.meihaoxiangwang.com
+bootcdn.net
 bootcss.com
 bootstrapmb.com
 booyu-import.com
@@ -21213,7 +21214,6 @@ dede58.com
 dedecms.com
 dedecms51.com
 dededao.com
-dedeeims.com
 dedejs.com
 dedemao.com
 dedesos.com
@@ -59254,7 +59254,6 @@ statics.aizhan.com.wsglb0.com
 statics.haiwainet.cn
 statics.itc.cn
 statics.vaptcha.net
-statics.vaptcha.net.w.cdngslb.com
 statics.woozooo.com
 staticsh.122.gov.cn
 staticsns.cdn.bcebos.com

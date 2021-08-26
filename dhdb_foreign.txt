@@ -1910,6 +1910,7 @@
 2.biqle.ru
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
+2.centos.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.courier2-push-apple.com.akadns.net
 2.cr.rs
@@ -24669,6 +24670,7 @@ ccp.ovh
 ccpa-script.psg.nexstardigital.net
 ccpapk.com
 ccpc02.com
+ccpitqd.org
 ccpolice.com
 ccpsx.com
 ccpxv.com
@@ -29671,7 +29673,6 @@ count23.51yes.com
 count24.51yes.com
 count25.51yes.com
 count26.51yes.com
-count27.51yes.com
 count29.51yes.com
 count3.51yes.com
 count32.51yes.com

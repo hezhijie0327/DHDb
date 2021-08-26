@@ -1649,6 +1649,7 @@
 11-courier.push.apple.com
 11-courier2.push.apple.com
 11.102.128.113.zz.countries.nerd.dk
+11.132.144.223.zz.countries.nerd.dk
 11.181.19.138.zz.countries.nerd.dk
 11.2021fafafa11.com
 11.233txb.com
@@ -154993,7 +154994,6 @@ skype.net
 skypeassets.com
 skypedataprdcoleus10.cloudapp.net
 skypedataprdcoleus11.cloudapp.net
-skypedataprdcolneu01.cloudapp.net
 skypedataprdcolneu02.cloudapp.net
 skypedataprdcoluks04.cloudapp.net
 skypicker.com

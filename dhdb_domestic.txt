@@ -32526,7 +32526,6 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
-httpdns.ocloud.heytapmobi.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
 httpsdns.baidu.com
@@ -38596,6 +38595,7 @@ jxdyf.com
 jxedt.com
 jxeduyun.com
 jxetv.com
+jxf57.com
 jxf75.com
 jxg1.com
 jxgdw.com
@@ -56689,6 +56689,7 @@ shejiye.com
 shejizhaji.com
 sheketiandi.com
 shekou.com
+shellsec.com
 shelter-china.com
 shelterdome.net
 shelwee.com

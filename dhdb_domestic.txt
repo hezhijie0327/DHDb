@@ -59255,7 +59255,6 @@ statics.aizhan.com
 statics.aizhan.com.wsglb0.com
 statics.haiwainet.cn
 statics.itc.cn
-statics.vaptcha.net
 statics.woozooo.com
 staticsh.122.gov.cn
 staticsns.cdn.bcebos.com

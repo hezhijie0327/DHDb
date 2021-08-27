@@ -10166,7 +10166,6 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
-api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -39779,7 +39778,6 @@ koippt.com
 kokkk2.com
 kokojia.com
 kokomh.com
-kokozu.net
 kole8.com
 kolrank.com
 kolstore.com
@@ -57148,7 +57146,6 @@ shidu.com
 shield.hao123.com
 shielday.com
 shifen.com
-shifen1.com
 shifendaojia.com
 shifeng.com
 shifenyuedu.com
@@ -57632,7 +57629,6 @@ shuju.net
 shujubang.com
 shujubo.com
 shukoe.com
-shuland.com
 shulb.com
 shuliao.com
 shulidata.com

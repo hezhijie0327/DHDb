@@ -7302,7 +7302,6 @@ a.jyeoo.com
 a.koudai.com
 a.l.renren.com
 a.lz13.cn
-a.mct01.com
 a.mfcad.net
 a.miyudaquan.top
 a.msstatic.com
@@ -33294,7 +33293,6 @@ hy.huangye88.net
 hy.nacwh.cn
 hy123.com
 hy2046.com
-hy282.com
 hy628.com
 hyahm.com
 hyb2b.com
@@ -47608,6 +47606,7 @@ ocri-genomics.org
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
 ocsp-lb.apple.com.akadns.net
+ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.cfca.com.cn
 ocsp.crlocsp.cn

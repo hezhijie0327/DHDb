@@ -10558,6 +10558,7 @@ app.knights.mi.com
 app.kwaixiaodian.com
 app.lz55.cn
 app.m.letv.com
+app.market.xiaomi.com
 app.mengtuiapp.com
 app.mi.com
 app.moji001.com
@@ -25802,7 +25803,6 @@ ezhangu.com
 ezhicai.com
 ezhijiantuoluo.com
 ezip.awehunt.com
-ezitong.com
 ezjoy.com.my
 ezqhdz.com
 ezrpro.com
@@ -42731,7 +42731,6 @@ luogu.org
 luohanyu.cc
 luohuedu.net
 luojilab.com
-luojituili.com
 luokewan.com
 luokuang.com
 luolai.com

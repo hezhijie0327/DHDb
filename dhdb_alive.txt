@@ -47051,6 +47051,7 @@ collect.tianya.cn
 collect.usefathom.com
 collect.ux.21cn.com
 collectandgo.be
+collecter.frontjs.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
 collection.saga.co.uk
@@ -67560,6 +67561,7 @@ fanyiegg.youdao.com
 fanyigou.cn
 fanyigou.com
 fanyigou.net
+fanyiguan.youdao.com
 fanyijia.com
 fanyilvs.youdao.com
 fanyiqi.net
@@ -75435,6 +75437,7 @@ globalspec.com
 globalstech.com
 globaltm.org
 globaltraffico.com
+globaltransfersecurefilethroughcloud.duckdns.org
 globaltv.com
 globalvision.co
 globalvoices.org
@@ -81327,7 +81330,6 @@ gyatml.piatraonline.ro
 gyatsostudio.com
 gyb086.com
 gybles.shopee.ph
-gyca9f.dahuangcheng.cn
 gycode.com
 gycyms.backmarket.de
 gydongli.com

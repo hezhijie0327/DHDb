@@ -68,6 +68,7 @@
 0110m.com
 01192.ping360.cn
 0123456789.com
+0149.com
 016272.com
 016sf.com
 01c79f75.qc.x.bsgslb.cn
@@ -648,6 +649,7 @@
 1.aili.com
 1.ajiyuming.com
 1.arpun.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.cjcp.cn
@@ -36583,6 +36585,7 @@ jbenden.gallerycdn.azure.cn
 jbfoundry.com
 jbhdq.com
 jbo255.com
+jbo28.com
 jbo568.com
 jbo909.com
 jbpbox.com
@@ -50692,7 +50695,6 @@ proxy.vip.qq.com
 proxy901.juyoufan.net
 proya-group.com
 proya.com
-proyy.com
 prpr-muse-dash.peropero.net
 prt-stsdk.vivo.com.cn
 prt.stsdk.vivo.com.cn

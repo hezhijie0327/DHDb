@@ -942,7 +942,6 @@
 23.ddns.ms
 23.sogou.com
 23014d253fbc47d2724f7a69f0ded365.jddebug.com
-230tm.com
 2311.oadz.com
 233.zyns.com
 2333666.xyz
@@ -4550,6 +4549,7 @@ aipandas.cn
 aipinko.com
 aipinpan.com
 aippi-china.org
+aipz.com
 airav.asia
 airmap.g0v.asper.tw
 airtofly.com
@@ -4893,6 +4893,7 @@ amxj0000.com
 amxj2244.com
 amyl66.com
 amzcaptain.com
+an.biocoop.cn
 an.m.liebao.cn
 an.mainichi.jp
 an.webvisor.org
@@ -11259,6 +11260,7 @@ dnspood.net
 dnsppdd.com
 dnsseed.bitcoin.dashjr.org
 dnsserv.xyz
+dnssite.xyz
 dnstogo.xyz
 dnsurl.net
 dnsv8.net

@@ -72553,7 +72553,6 @@ g.wan.douyu.com
 g.ww3.workers.dev
 g.x.cn.xtgreat.com
 g.xywy.com
-g.yccdn.com
 g.youyou234.com
 g.yuque.com
 g.zmirrordemo.com
@@ -91321,6 +91320,7 @@ imeibian.com
 imeidb.com
 imeihei.com
 imeiju.io
+imeijutt.com
 imeishike.com
 imeitou.com
 imekaku.com
@@ -139730,6 +139730,7 @@ qdjxhz.com
 qdkingst.com
 qdkongtiao.com
 qdkwaz.laredoute.fr
+qdl.duoyi.com
 qdl.duoyi.com.wswebpic.com
 qdlongre.com
 qdmama.net

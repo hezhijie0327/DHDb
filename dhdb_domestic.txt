@@ -10448,7 +10448,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.cdn-apple.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -48760,7 +48759,6 @@ p32-fmfmobile.icloud.com.cn
 p32-fmip.icloud.com.cn
 p32-keyvalueservice.icloud.com.cn
 p32-quota.icloud.com.cn
-p3633.com
 p3dhuydp.dispatch.spcdntip.com
 p3g0xs0e55013uv8.aliyunddos1010.com
 p3k3.com
@@ -51215,7 +51213,6 @@ pyyx.com
 pz3433.com
 pz6623.com
 pz7377.com
-pz7533.com
 pzcenter.xueersi.com
 pzclw.cn
 pzds.com

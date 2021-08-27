@@ -13599,7 +13599,6 @@
 998jx.com
 998letou.com
 999.008ty.com
-999.a88866.cc
 999.cai87.com
 999.df319.com
 999.tc345.com
@@ -24033,6 +24032,7 @@ api-panov2.720yun.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
 api-pl.kdrag0n.dev
+api-pricetag.dmall.com
 api-priconne-redive.cygames.jp
 api-prod.leancloud.cn
 api-public.addthis.com
@@ -24564,7 +24564,6 @@ api.w.inmobi.com
 api.wangrunxin.com
 api.waptest.taobao.com
 api.weather.com
-api.weathercn.com
 api.weibo.cn
 api.weibo.com
 api.weishi.qq.com
@@ -30650,7 +30649,6 @@ bdtjrcv.com
 bdtkba.com
 bdtm.net
 bdu.focus.cn
-bdu1.coozhi.cn
 bdunion1.suxiazai.com
 bduserlog.eastmoney.com
 bdv.bidvertiser.com
@@ -89139,7 +89137,6 @@ i6.weather.oppomobile.com
 i60702.com
 i618.com.cn
 i6879.com
-i7.3conline.com
 i7aot4.com
 i7bg4.5.shop.tm
 i7box.com
@@ -92447,7 +92444,6 @@ ineng.org
 inengyuan.com
 inergizedigitalmedia.com
 ines-papert.com
-inesa-btfq.com
 inesa-it.com
 inese.es
 ineteconomics.org
@@ -100864,7 +100860,6 @@ juzioo.com
 juziseo.com
 juzisy.com
 juzivr.com
-juzix.io
 juziyue.com
 juzizhoutou.net
 juzqsq.finanzcheck.de

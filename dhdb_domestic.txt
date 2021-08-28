@@ -651,6 +651,7 @@
 1.aili.com
 1.ajiyuming.com
 1.arpun.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -24246,7 +24247,6 @@ e.tapdb.net
 e.tf.360.cn
 e.weather.com.cn
 e.weibo.com
-e.x.cn.xtgreat.com
 e046d572e35ae8dbd19dbfe97325411d.safeframe.googlesyndication.com
 e0514.com
 e0575.com
@@ -27739,7 +27739,6 @@ g.w.bilicdn1.com
 g.wan.2345.com
 g.wan.douyu.com
 g.xywy.com
-g.yccdn.com
 g.youyou234.com
 g.yuque.com
 g00gle.pw

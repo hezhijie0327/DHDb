@@ -1,6 +1,7 @@
 0-100.com
 0-6.com
 0-gold.net
+0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
 0.pool.ntp.org
@@ -2154,7 +2155,6 @@
 2.aili.com
 2.android.pool.ntp.org
 2.arpun.com
-2.asia.pool.ntp.org
 2.bashenghuo.com
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -26889,6 +26889,7 @@ fjkqyy.com
 fjly.com
 fjmlh.com
 fjmstc.com
+fjmwjx.com
 fjnet.com
 fjotic.com
 fjpta.com
@@ -27838,6 +27839,7 @@ galaxystore.ad-survey.com
 galend.gallerycdn.azure.cn
 galiaoba.com
 galitv.alicdn.com
+galleon.dmall.com
 galleryapi.micloud.xiaomi.net
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net

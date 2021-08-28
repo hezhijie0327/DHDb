@@ -4084,6 +4084,7 @@
 2.aili.com
 2.android.pool.ntp.org
 2.arpun.com
+2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.bashenghuo.com
@@ -86157,7 +86158,6 @@ hnyingfang.com
 hnyjsedu.com
 hnyouneng.com
 hnytrd.ssfshop.com
-hnyuandian.com
 hnyumantang.com
 hnyunji.com
 hnyunww.com
@@ -141226,7 +141226,6 @@ qiuziyuan.net
 qivahe.abt.com
 qivsod.com
 qivsvu.creedboutique.com
-qiwen.lu
 qiwen001.com
 qiwen8.com
 qiwendi.com

@@ -12592,7 +12592,6 @@ alqp37.com
 alqp49.com
 alqp56.com
 alqp76.com
-alqp84.com
 alqp90.com
 alqp94.com
 alqp95.com
@@ -53770,6 +53769,7 @@ hk.mobi.yahoo.com
 hk.myblog.yahoo.com
 hk.napi.ucweb.com
 hk.news.yahoo.com
+hk.pool.ntp.org
 hk.schroders.email
 hk.search.yahoo.com
 hk.tomonews.net

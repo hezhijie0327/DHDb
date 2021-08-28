@@ -8983,6 +8983,7 @@
 54bq0afa.sched.d0.tdnsv5.com
 54c4e999b90b2eaf3e97e05157d294d6.clo.footprintdns.com
 54chen.com
+54daxiang.com
 54doctor.net
 54doctors.net
 54fcnr.com
@@ -97800,7 +97801,6 @@ jb-hacker.com
 jb.4hw.com.cn
 jb.asqql.com
 jb.ecar168.cn
-jb.mbaidu.top
 jb.wojb.org
 jb1000.com
 jb195.com
@@ -155590,7 +155590,6 @@ skype.en.softonic.com
 skype.net
 skypeassets.com
 skypedataprdcoleus10.cloudapp.net
-skypedataprdcoleus11.cloudapp.net
 skypedataprdcolneu02.cloudapp.net
 skypicker.com
 skyplayer.tiscali.it

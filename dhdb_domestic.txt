@@ -2436,6 +2436,7 @@
 2345.cc
 2345.cn
 2345.com
+2345.gd
 2345.net
 23456v.com
 2345api.dftoutiao.com
@@ -13279,6 +13280,7 @@ bjkaihua.net
 bjkgjlu.com
 bjkhzx.com
 bjkix-pay.kuaishoupay.com
+bjkqj.com
 bjkrtwl.com
 bjl06.com
 bjl11.com
@@ -21446,6 +21448,7 @@ desc.gome.com.cn
 desc.gome.com.cn.cdn20.com
 descnew.taobao.com
 desdev.cn
+deshuangwang.cn
 design.sspu.edu.cn
 design521.com
 designboard.cc
@@ -42146,7 +42149,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn

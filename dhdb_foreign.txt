@@ -14561,7 +14561,6 @@ app-lon07.marketo.com
 app-sales.net
 app-sdylqipai3917.com
 app-site-association.cdn-apple.com
-app-site-association.g.aaplimg.com
 app-sj05.marketo.com
 app-sj06.marketo.com
 app-sj13.marketo.com
@@ -14695,7 +14694,6 @@ appcloud.com
 appcloudcdn.com
 appconsent.io
 appcontent.serif.com
-appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appduu.com

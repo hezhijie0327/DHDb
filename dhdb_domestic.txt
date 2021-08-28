@@ -745,6 +745,7 @@
 1001g.com
 1001hw.com
 1001p.com
+10037.x.adanxing.com
 1004333.shop.liebiao.com
 10044.cn
 100580.com
@@ -17966,7 +17967,6 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
-cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -32337,6 +32337,7 @@ hostcto.com
 hostelxian.com
 hostker.com
 hostxen.com
+hot.browser.miui.com
 hot.m.shouji.360tpcdn.com
 hotchat-im.iqiyi.com
 hotdb.com

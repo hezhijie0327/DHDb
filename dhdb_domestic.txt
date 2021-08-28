@@ -9052,7 +9052,6 @@ ak6tc3dz.v1d.szbdyd.com
 ak6tcm17.v1d.szbdyd.com
 ak6vn67e.v1d.szbdyd.com
 ak7amtyh.v1d.szbdyd.com
-ak9.6895588.com
 akaiwl.com
 akamai.cn
 akamud.gallerycdn.azure.cn
@@ -18633,6 +18632,7 @@ cocos.com
 cocos.org
 cocos2dx.net
 cocounion.com
+cocss.com
 cocustomerservice.alipay-eco.com
 cod.southmoney.com
 code.37cs.com
@@ -25714,6 +25714,7 @@ exp-lbs.newsmth.net
 exp-picture.cdn.bcebos.com
 exp.3g.ifeng.com
 exp.bdstatic.com
+exp.newsmth.net
 expai.com
 expba.com
 expense-invoice.aliyun.com
@@ -54493,7 +54494,6 @@ resource.aldtop.com
 resource.cupid.iqiyi.com
 resource.shqmxx.com
 resource.wesure100.com
-resource.ws.kukuplay.com
 resourcemanager.console.aliyun.com
 resources.dftoutiao.com
 resouxs.com

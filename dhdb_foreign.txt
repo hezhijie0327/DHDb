@@ -1175,7 +1175,6 @@
 1555990.com
 155899.com
 15595.com
-155pu.com
 156.55.173.61.zz.countries.nerd.dk
 156.8.189.107.zz.countries.nerd.dk
 156.n.168810.cn
@@ -6778,6 +6777,7 @@ a-0032.a-msedge.net
 a-ads.com
 a-cc-apac-skype.trafficmanager.net
 a-cn.duoyi.com
+a-cn.duoyi.com.dycdn.com
 a-counter.kiev.ua
 a-du.net
 a-e-t.org
@@ -42952,7 +42952,6 @@ flare.com
 flash-xxx.com
 flash127.com
 flashdemo.net
-flashempire.com
 flashgames247.com
 flashpoint-intel.com
 flashscore.at
@@ -62058,7 +62057,6 @@ jpbeta.cc
 jpe.a.prd.ags.trafficmanager.net
 jpe.b.prd.ags.trafficmanager.net
 jpeelf.tk
-jpegonline.com
 jpg.cm
 jpg.dog
 jpiq.com
@@ -68077,7 +68075,6 @@ luizinhoxd.duckdns.org
 lujun9972.win
 lujunhong2or.com
 luke54.com
-luke54.net
 luke54.org
 lukestert.com
 lukiya.com

@@ -4,7 +4,6 @@
 0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 00000.host
@@ -59432,6 +59431,7 @@ static.sundxs.com
 static.sundxs.com.w.kunlungr.com
 static.t.agrantsem.com
 static.taishan.qq.com
+static.template.pcbeta.com
 static.terminus.io
 static.terminus.io.w.kunlunhuf.com
 static.thefifthera.com
@@ -60704,7 +60704,6 @@ t06img.yangkeduo.com
 t07img.yangkeduo.com
 t086.com
 t08img.yangkeduo.com
-t0vrxtvrkufhz8dcm5avg9chzwjpq7gk.yundunwaf4.com
 t1-dsa-opencdn.a.bdydns.com
 t1.58cdn.com.cn
 t1.612.com

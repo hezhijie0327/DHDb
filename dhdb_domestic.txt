@@ -388,7 +388,6 @@
 0663job.com
 0668.com
 06abc.com
-06bv.com
 06climate.com
 06ef5c4379cb1f553795f0b3e8fd87dd.dlied1.cdntips.net
 06game.com
@@ -20918,7 +20917,6 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
-data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -36009,7 +36007,6 @@ ipr123.com
 ipr66.com
 iprchn.com
 iprdaily.com
-ipreport.yifutangvip.net
 ipresst.com
 iprun.com
 ips.ifeng.com
@@ -43209,7 +43206,6 @@ m.news.cctv.com
 m.newsmth.net
 m.nq37f.cn
 m.nuoqingck.cn
-m.ocenp.com
 m.pinduoduo.net
 m.pizzahut.com.cn
 m.poonscn.com
@@ -56324,6 +56320,7 @@ seentao.com
 seer.61.com
 seer520.com
 seeseed.com
+seeshentech.com
 seetao.com
 seewellintl.net
 seewo.com
@@ -57716,6 +57713,7 @@ shzjwxsns.video.qq.com
 shzq.com
 shzsun.com
 shzzzz.dftoutiao.com
+si-en.com
 si-in.com
 si.geilicdn.com
 si.ptqy.gitv.tv

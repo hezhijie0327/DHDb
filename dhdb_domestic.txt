@@ -4,6 +4,7 @@
 0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 00000.host
@@ -10163,6 +10164,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -14349,7 +14351,6 @@ c.kuaiduizuoye.com
 c.kuwo.cn
 c.l.qq.com
 c.l570mb.cn
-c.lalaxqt.cn
 c.lattebank.com
 c.leankun.com
 c.lenovo.com.cn

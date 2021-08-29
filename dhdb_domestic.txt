@@ -5499,7 +5499,6 @@
 6ye.com.cn
 6yoo.com
 6yuexi.com
-6z1gf.cn
 6zoxt9.tdum.alibaba.com
 7-inc.com
 7-vk.com
@@ -5541,7 +5540,6 @@
 7192.com
 71baomu.com
 71dfd440.qc.x.bsgslb.cn
-71dj.org
 71dm.com
 71f036c2.qc.x.bsgslb.cn
 71f037d3.qc.x.bsgslb.cn
@@ -10542,7 +10540,6 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -38260,7 +38257,6 @@ js.pub.tom.com
 js.qajypx.com
 js.qqsort.com
 js.ruiwen.com
-js.safe524.xyz
 js.shangxueba.com
 js.sohu.com
 js.stat.ijinshan.com
@@ -40074,7 +40070,6 @@ kuaiwan.com
 kuaixun360.com
 kuaiya.cn
 kuaiyan.com
-kuaiyankanshu.net
 kuaiyingxiao88.com
 kuaiyoujia.com
 kuaiyouxi.com
@@ -42539,7 +42534,6 @@ lqzwdj.com
 lr-amm.com
 lrc99.com
 lrcb.net
-lrdgb.cn
 lrdzt.com
 lrfz.com
 lrhold.net
@@ -49392,6 +49386,7 @@ passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
 passport.lagou.com
+passport.lenovo.com
 passport.lenovo.com.cn
 passport.meituan.com
 passport.mydrivers.com

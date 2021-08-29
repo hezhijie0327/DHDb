@@ -829,7 +829,6 @@
 1029304.p23.tc.cdntip.com
 102cw.com
 102pay.com
-103153.com
 10333.com
 1035.mobi
 10561701.fls.doubleclick.net
@@ -13975,7 +13974,6 @@ btbat.com
 btbtav.com
 btc114.com
 btc123.com
-btc126.com
 btc17.com
 btc38.com
 btc5.net
@@ -22581,6 +22579,7 @@ dmyzw.com
 dmzfa.com
 dmzj.com
 dmzj1.com
+dmzx.com
 dn-growing.qbox.me
 dn-mwsl-hosts.qbox.me
 dn-staticdown.qbox.me
@@ -37491,7 +37490,6 @@ jingxuanwang.com
 jingyan.baidu.com
 jingyan.n.shifen.com
 jingyanben.com
-jingyanbus.com
 jingyanshu.com
 jingyeqian.com
 jingyi186.com
@@ -42649,7 +42647,6 @@ lufaxcdn.com
 lufeng.baixing.com
 luffycity.com
 lufuli.com
-lufuli.net
 lufunds.com
 lug.ustc.edu.cn
 lugir.com
@@ -53876,6 +53873,7 @@ r.14244.com
 r.99waiyu.com
 r.alicpd.top
 r.alimc1.top
+r.browser.miui.com
 r.bxb.oupeng.com
 r.dmp.sina.cn
 r.dmp.sina.com.cn

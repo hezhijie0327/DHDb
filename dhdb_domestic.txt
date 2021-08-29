@@ -10520,6 +10520,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -11004,7 +11005,6 @@ ask8088-1251520898.file.myqcloud.com
 askceph.com
 askci.com
 asklib.com
-asklicai.com
 askmaclean.com
 askpanda.cc
 askququ.com
@@ -51382,6 +51382,7 @@ pvx.xcar.com.cn
 pvz2android.intelligent.popcap.com.cn
 pvz2androidtga.talkyun.com.cn
 pvz2logandroid.intelligent.popcap.com.cn
+pw88.com
 pwesports.cn
 pwmis.com
 pwmqr.com

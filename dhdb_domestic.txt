@@ -2150,6 +2150,7 @@
 2.aili.com
 2.android.pool.ntp.org
 2.arpun.com
+2.asia.pool.ntp.org
 2.bashenghuo.com
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -16786,7 +16787,6 @@ chinaore.com
 chinaosx.com
 chinaosx.net
 chinaott.net
-chinaowps.com
 chinapastel.com
 chinapay.com
 chinape168.com
@@ -21618,6 +21618,7 @@ dgchangan.com
 dgd2018.com
 dgddh.xyz
 dgdxs.com
+dgg.net
 dggdf.com
 dggdk.com
 dgggs.com
@@ -50593,7 +50594,6 @@ porschesky.com
 port.sec.miui.com
 portablesoft.org
 portal-portm.meituan.com
-portal.xunyou.mobi
 portalcdn.cdnetworks.com
 portrait.gitee.com
 portrait.jomodns.com

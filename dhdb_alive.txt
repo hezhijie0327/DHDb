@@ -4104,6 +4104,7 @@
 2.tlu.dl.delivery.mp.microsoft.com
 2.top4top.io
 2.tracker.eu.org
+2.tuxi.com.cn
 2.up.qingdaonews.com
 2.zol-img.com.cn
 20-courier.push.apple.com
@@ -44459,6 +44460,7 @@ ckgcjl.com
 ckimg.com
 ckimg.xyz
 ckjr001.com
+ckjyck.qxs.la
 ckkpp.com
 ckl.unetall.com
 ckm.aty.sohu.com
@@ -69976,7 +69978,6 @@ flightb1a4.com
 flightcontrol.dev
 flightnetwork.com
 flightproxy-apac-teams.trafficmanager.net
-flightproxy-asea-02-teams.cloudapp.net
 flightproxy-asea-06-teams.cloudapp.net
 flightproxy-asse-02-teams.cloudapp.net
 flightproxy-asse-03-teams.cloudapp.net
@@ -84661,7 +84662,6 @@ hfashionmall.com
 hfbaogao.com
 hfbeta.com
 hfbz.com
-hfcn.cc
 hfcyh.com
 hfd.bridgetowermedia.com
 hfday.com

@@ -15090,7 +15090,6 @@ apptopia.com
 apptracker.gamedock.io
 apptrailers-ssl.itunes.apple.com
 appule.com
-appurl.cc
 appveyor-ci.cloudapp.net
 appveyor.com
 appving.com
@@ -27394,7 +27393,6 @@ clientconfig.passport.net
 clientflow.apple.com
 clientflow.apple.com.akadns.net
 clientflow.g.aaplimg.com
-clientinfo.phimmoizz.net
 clientlog.midomi.com
 clientlogs.eft-project.com
 clientmetrics-augmentum.kik.com

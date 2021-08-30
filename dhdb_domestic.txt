@@ -9764,6 +9764,7 @@ antifraud.95516.com.wscdns.com
 antileech.cde.letv.com
 antiy.net
 antpedia.com
+antpool.com
 antriver.com
 antrol.com
 antrtb.com
@@ -53720,7 +53721,6 @@ qvzkeo9d.v1d.szbdyd.com
 qvzkephs.v1d.szbdyd.com
 qvzkltqe.v1d.szbdyd.com
 qvzkwap3.v1d.szbdyd.com
-qw.baidu.com
 qw.cc
 qweather.com
 qweather.net
@@ -59422,7 +59422,6 @@ static.taishan.qq.com
 static.template.pcbeta.com
 static.terminus.io
 static.terminus.io.w.kunlunhuf.com
-static.thefifthera.com
 static.tianyancha.com
 static.tieba.baidu.com
 static.tongdun.net

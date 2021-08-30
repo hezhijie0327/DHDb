@@ -9374,6 +9374,7 @@ count30.51yes.com
 count31.51yes.com
 count32.51yes.com
 count33.51yes.com
+count38.51yes.com
 count40.51yes.com
 count42.51yes.com
 count44.51yes.com
@@ -26587,6 +26588,7 @@ req1.appads.com
 req2.appads.com
 req3.appads.com
 requestads.com
+rere-cdn.com
 rererb.com
 rerezy10.com
 rerezy6.com
@@ -28125,6 +28127,7 @@ skypedataprdcolcus10.cloudapp.net
 skypedataprdcolcus11.cloudapp.net
 skypedataprdcolcus12.cloudapp.net
 skypedataprdcolcus13.cloudapp.net
+skypedataprdcolcus14.cloudapp.net
 skypedataprdcoleus01.cloudapp.net
 skypedataprdcoleus02.cloudapp.net
 skypedataprdcoleus03.cloudapp.net

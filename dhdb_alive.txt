@@ -25250,6 +25250,7 @@ appanalysis.banggood.com
 appao.com
 appapi.17house.com
 appapi.dmall.com
+appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
 appbacklog.dftoutiao.com
@@ -124372,7 +124373,6 @@ new1cloud.com
 new2019.mine.nu
 new4.pipl.ua
 new400.cn
-newacademic.net
 newaccountredirectdomain.apple.com
 newadblock.com
 newads.bangbros.com

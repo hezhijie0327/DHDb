@@ -10160,6 +10160,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -14934,6 +14935,7 @@ casvm.com
 casystar.com
 cat.sh.vip.dianping.com
 cat898.com
+catalog-public-service-prod06.ol.epicgames.com
 catalog-tj.com
 catchdata.xiaojukeji.com
 catdot.dianping.com
@@ -23278,7 +23280,6 @@ dsp.simba.taobao.com
 dsp.toutiao.com
 dsp.xiaojukeji.com
 dsp.youdao.com
-dspcm.brand.sogou.com
 dspimg.adsame.com
 dspimg.dftoutiao.com
 dspmnt.autohome.com.cn

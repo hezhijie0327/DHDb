@@ -36120,7 +36120,6 @@ bs-origin.pull.yximgs.com
 bs.commontools.net
 bs.csshq.com.cn
 bs.forward.douban.com
-bs.lamrd.cn
 bs.mybb.ru
 bs.nakanohito.jp
 bs.orsk.ru
@@ -138860,7 +138859,6 @@ ps.map.baidu.com
 ps.res.netease.com
 ps123.net
 ps2.gamedl.qq.com
-ps2.games.wanmei.com
 ps265.com
 ps3.host
 ps3.saiglobal.com
@@ -149988,7 +149986,6 @@ sc2metrics.exacttarget.com
 sc2p.com
 sc2tv.ru
 sc2yun.com
-sc386.com
 sc666.com
 sc823.com
 scabee.com

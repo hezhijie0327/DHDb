@@ -10400,6 +10400,7 @@ apigz1.ksapisrv.com
 apihk.growingio.com
 apihn1.gifshow.com
 apihn1.ksapisrv.com
+apihn3.ksapisrv.com
 apihotel.meituan.com
 apijs-hd-scd.gifshow.com
 apijs-hd-scd.ksapisrv.com
@@ -42260,7 +42261,6 @@ logoaa.com
 logobiaozhi.com
 logodashi.com
 logohhh.com
-logoids.com
 logonext.tv.kuyun.com
 logopay.com
 logoquan.com

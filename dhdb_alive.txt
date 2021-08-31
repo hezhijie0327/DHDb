@@ -2,7 +2,6 @@
 0-6.com
 0-courier.push.apple.com
 0-courier2.push.apple.com
-0-gold.net
 0.cn.pool.ntp.org
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
@@ -7794,7 +7793,6 @@
 501307.shop.cnlist.org
 50153.fulixtv.com
 5015c0hc.sched.sma-dk.tdnsv5.com
-5017.com
 5017002.com
 5017022.com
 501wan.com
@@ -42856,7 +42854,6 @@ chinabug.net
 chinabus.info
 chinabuses.com
 chinabx.com
-chinabyhx.com
 chinabym.com
 chinabyte.com
 chinabzp.com
@@ -70406,6 +70403,7 @@ fnzoo.com
 fnzqoy.sportdepo.ru
 fo.info.tm
 fo.ru
+fo.sina.com.cn
 fo12.com
 fo1k5d3.cachenode.cn
 foampositeshoes.com
@@ -107887,7 +107885,6 @@ lightget.com
 lightgx.com
 lighthonestyhrd.org
 lighthouse.dmallcdn.com
-lighthouseapi.dmall.com
 lighti.me
 lighting163.com
 lightingchina.com
@@ -171333,7 +171330,6 @@ tongmengguo.com
 tongmoe.com
 tongpankt.com
 tongquee.com
-tongshanbank.com
 tongshuai.com
 tongtaiamc.com
 tongtech.com

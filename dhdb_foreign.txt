@@ -14406,7 +14406,6 @@ api.ttkong.com
 api.tvmaze.com
 api.twitch.tv
 api.twitter.com
-api.ujian.cc
 api.unity.com
 api.unthem.com
 api.userstore.skype.com
@@ -75865,7 +75864,6 @@ mth02.com
 mthruf.com
 mtide.net
 mtkdy.com
-mtkgo.com
 mtktk.com
 mtkure.gazin.com.br
 mtm.mo

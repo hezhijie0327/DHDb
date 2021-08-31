@@ -10436,6 +10436,7 @@ apis1.gifshow.com
 apis1.ksapisrv.com
 apis2.gifshow.com
 apis2.ksapisrv.com
+apisnd.heytapmobi.com
 apisoft.df0535.com
 apissl.gifshow.com
 apissl.ksapisrv.com
@@ -26205,7 +26206,6 @@ fatedier.com
 fateqq.com
 fatiao.pro
 fatjiong.com
-fatsoon.com
 fatvg.com
 fav.mix.sina.com.cn
 fav.simba.taobao.com
@@ -34838,7 +34838,6 @@ images.uc.cn
 images2015.cnblogs.com
 images2017.cnblogs.com
 images2018.cnblogs.com
-images3.c-ctrip.com
 images3.c-ctrip.com.a.bdydns.com
 images3.c-ctrip.com.cdn20.com
 images4.c-ctrip.com

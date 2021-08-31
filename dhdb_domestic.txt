@@ -648,7 +648,6 @@
 1.aili.com
 1.ajiyuming.com
 1.arpun.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -12638,7 +12637,6 @@ beizigen.com
 beiziman.com
 bejoin.net
 bejson.com
-belfone.com
 belle8.com
 beltandroadforum.org
 beltxman.com
@@ -17906,7 +17904,6 @@ cmda.net
 cmdb.xyz
 cmdrh.com
 cmdschool.org
-cmdy5.com
 cmechina.net
 cmeimei.top
 cmejob.com
@@ -41779,6 +41776,7 @@ liuliangcanmou.com
 liulianggo.com
 liuliangjie.com
 liulianglf.com
+liuliangzu.com
 liulianyu.com
 liuliguo.com
 liulin.cc
@@ -47816,7 +47814,6 @@ ocri-genomics.org
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
 ocsp-lb.apple.com.akadns.net
-ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.cfca.com.cn
 ocsp.crlocsp.cn
@@ -60098,6 +60095,7 @@ swaqds.com
 swarma.org
 swbbsc.com
 swc.weather.com.cn
+swcdn.apple.com
 swcdn.apple.com.akadns.net
 swcdn.apple.com.w.alikunlun.com
 swcdn.apple.com.w.alikunlun.com.n.num1dns.com

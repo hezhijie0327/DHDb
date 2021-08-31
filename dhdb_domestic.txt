@@ -10759,6 +10759,7 @@ appubang.com
 appublisher.com
 appupgrade.alicdn.com
 appupgrade.cp12.ott.cibntv.net
+appurl.cc
 appurl.me
 appversion.115.com
 appvipshop.com
@@ -17959,6 +17960,7 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
+cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -34825,6 +34827,7 @@ images.dmzj1.com
 images.enet.com.cn
 images.liqucn.com
 images.lulian.cn
+images.newsmth.net
 images.nvidia.cn
 images.pchome.net
 images.pinduoduo.com
@@ -55284,7 +55287,6 @@ s15.cnzz.com
 s163.com
 s188.photo.store.qq.com
 s19.cnzz.com
-s1905.com
 s1b.time.edu.cn
 s1c.time.edu.cn
 s1e.time.edu.cn

@@ -20088,6 +20088,7 @@ czzcm.com
 czzsw.com
 czzy-edu.com
 d-api-m.le.com
+d-ctrip.com
 d-heaven.com
 d-j.me
 d-qc.tapimg.com
@@ -47431,7 +47432,6 @@ nongnet.com
 nongshang.com
 nongshijie.com
 nongxinyin.com
-nongyehu.com
 nonobank.com
 noobcoder.club
 noobyy.com
@@ -56161,6 +56161,7 @@ search.51job.com
 search.51job.com.51jobdns.com
 search.appstore.vivo.com.cn
 search.bilibili.com
+search.browser.miui.com
 search.cdn.huya.com
 search.dangdang.com
 search.dpool.sina.com.cn
@@ -59396,7 +59397,6 @@ static.m.sjzhushou.com
 static.m1905.cn
 static.macflow.net
 static.mcc.miui.com
-static.mct01.com
 static.mediav.com
 static.meishichina.com
 static.meituan.net
@@ -60099,7 +60099,6 @@ swaqds.com
 swarma.org
 swbbsc.com
 swc.weather.com.cn
-swcdn.apple.com
 swcdn.apple.com.akadns.net
 swcdn.apple.com.w.alikunlun.com
 swcdn.apple.com.w.alikunlun.com.n.num1dns.com

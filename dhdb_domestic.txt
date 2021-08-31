@@ -31044,6 +31044,7 @@ hcdnw.net163.gslb.c.cdnhwc1.com
 hcdnw.zjtd01.gslb.c.cdnhwc2.com
 hcdnw01.gslb.c.cdnhwc2.com
 hcdnw101.gslb.c.cdnhwc2.com
+hcdnw120.global.c.cdnhwc6.com
 hcdyhr.com
 hcgroup.com
 hch518.com
@@ -54142,6 +54143,7 @@ realme.com
 realmebbs.com
 realmedy.com
 realor.net
+realsee.com
 realtime.monitor.ppweb.com.cn
 realvoice.ewdcloud.com
 realxen.com
@@ -60145,6 +60147,7 @@ swwlotus.com
 swws10007.taojindi.com
 swws10011.taojindi.com
 swwy.com
+swzzj.com
 sx.c21.com.cn
 sx.gsxt.gov.cn
 sx.ke.com
@@ -61541,7 +61544,6 @@ test-oss.xiaoheiban.cn
 test.ad.xiaomi.com
 test.adsp.xunlei.com
 test.e.ad.xiaomi.com
-test.eduancm.com
 test.entry.cp61msg.cibn.cc
 test.fangzhixinxi.cn
 test.ikuai8.com

@@ -34674,6 +34674,7 @@ bmw-nigeria.com
 bmw-oman.com
 bmw-ottawa.ca
 bmw-pakistan.com
+bmw-plant-munich.com
 bmw-powertrain.com
 bmw-product-highlights.com
 bmw-qatar.com
@@ -73327,7 +73328,6 @@ galgamez.cc
 galgamezd.com
 galiaoba.com
 galitv.alicdn.com
-galleon.dmall.com
 galleries.pimproll.com
 gallery.mailchimp.com
 gallery.ofc-aop.com
@@ -89330,6 +89330,7 @@ hzcekong.com
 hzcnc.com
 hzcopyright.com
 hzcourse.com
+hzcuizhai.com
 hzdajiangdong.com
 hzdaye.m.zwdu.com
 hzdjfb.polskikoszyk.pl
@@ -124033,7 +124034,6 @@ navbar.blizzard.com
 navchina.com
 nave.foone.com.br
 naver.com
-naver.jp
 naver.net
 navercorp.com
 navfja.answear.hu
@@ -162318,6 +162318,7 @@ static.kameleoon.com
 static.karte.io
 static.kibboko.com
 static.kk1.cn
+static.l3.cdn.adsucks.com
 static.lalaping.com
 static.leiting.com
 static.lenovo.com

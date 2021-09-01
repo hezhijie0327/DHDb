@@ -196,7 +196,6 @@
 027zhan.com
 027zpw.com
 0283home.com
-028hema.com
 028hr.org
 028ip.com
 028kingdee.net
@@ -9384,6 +9383,7 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
+all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all.zhihu.com.w.kunluncan.com
 all163-dxospf.split.netease.com
@@ -9597,6 +9597,7 @@ analytics3.starschina.com
 analyticskey.com
 ananas.mooc1.mti100.com
 anandoor.com
+anav.com
 anbang-life.com
 anbanggroup.com
 anchengcn.com

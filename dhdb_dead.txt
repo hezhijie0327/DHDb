@@ -28278,6 +28278,7 @@ skypedataprdcolcus01.cloudapp.net
 skypedataprdcolcus02.cloudapp.net
 skypedataprdcolcus04.cloudapp.net
 skypedataprdcolcus05.cloudapp.net
+skypedataprdcolcus06.cloudapp.net
 skypedataprdcolcus08.cloudapp.net
 skypedataprdcolcus10.cloudapp.net
 skypedataprdcolcus11.cloudapp.net

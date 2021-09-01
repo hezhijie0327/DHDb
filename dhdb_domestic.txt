@@ -7795,7 +7795,6 @@ accounts.firefox.com.cn
 accounts.google.cn
 accounts.nvgs.nvidia.cn
 accounts.qq.com
-accounts.tantanapp.com
 accscdn.cp12.ott.cibntv.net
 accscdn.m.taobao.com
 accsh.org
@@ -37536,7 +37535,6 @@ jinliniuan.com
 jinlishenghuo.com
 jinliyu.cc
 jinlong-jiaxiao.com
-jinmaojie.com
 jinmaopartners.com
 jinmei8.1688.com
 jinmi.com
@@ -46305,6 +46303,7 @@ mypm.net
 myprad.com
 mypscloud.com
 mypsy365.com
+myptpt.com
 myqcloud.net
 myqee.com
 myqiantu.com

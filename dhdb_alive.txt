@@ -73309,7 +73309,6 @@ galaxy.sogoucdn.com
 galaxyappstore.com
 galaxyasset.com
 galaxybuy.net
-galaxyclouds.cn
 galaxyentertainment.com
 galaxyexperte.de
 galaxyfont.com
@@ -80267,6 +80266,7 @@ goosai.com
 goosail.com
 goose.accountsjs.com
 goose.game
+goose.joelclermont.com
 goose.pooltogether.com
 goosedigital.com
 gooseeker.com
@@ -154192,6 +154192,7 @@ shixi.yjbys.com
 shixi.yjbys.com.w.kunlunle.com
 shixian.com
 shixiao.org
+shixiaojin.com
 shixijob.net
 shixingceping.com
 shixinhua.com

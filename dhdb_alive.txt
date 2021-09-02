@@ -21978,6 +21978,7 @@ alog.umengcloud.com
 alog.zjzwfw.gov.cn
 alogs.umeng.com
 alogs.umengcloud.com
+alogus.umeng.com
 aloha-ukulele.com
 alohabrowser.com
 alohafromdeer.com
@@ -74879,7 +74880,6 @@ get.sage.com
 get.siriuscom.com
 get.slotocash.com
 get.sms-magic.com
-get.sogou.com
 get.spell.run
 get.tfiph.com
 get.thefile.me
@@ -171783,7 +171783,6 @@ top2fun.com
 top3.cf
 top3456.com
 top4top.io
-top5.cf
 top5.mail.ru
 top777.ariom.ru
 top99.vip

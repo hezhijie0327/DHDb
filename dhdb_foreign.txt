@@ -3829,7 +3829,6 @@
 5.courier2-push-apple.com.akadns.net
 5.info.tm
 5.top4top.io
-5.zhishangkongjian.com
 50-courier.push.apple.com
 50-courier2.push.apple.com
 50.174.57.59.zz.countries.nerd.dk
@@ -87491,7 +87490,6 @@ prod.balrog.prod.cloudops.mozgcp.net
 prod.car21.net.daraz.com
 prod.configsvc1.live.com.akadns.net
 prod.data-ingestion.prod.dataops.mozgcp.net
-prod.demand.intelsecurity.com
 prod.detectportal.prod.cloudops.mozgcp.net
 prod.disqus.map.fastlylb.net
 prod.entry.video-ads.a2z.com

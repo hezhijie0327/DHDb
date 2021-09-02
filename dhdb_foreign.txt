@@ -12137,7 +12137,6 @@ alacollection.com
 aladdinupdate.blackrock.com
 aladep.com
 alalam.ir
-alalin.me
 alambis.com
 alameinv.com
 alanhou.com
@@ -55135,6 +55134,7 @@ http-echo-beta-interaction.net.daraz.com
 http3check.net
 httpbaidu.com
 httpdns.ocloud.heytapmobi.com
+httpdns.push.heytapmobi.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
 httpool.com
@@ -96817,7 +96817,6 @@ shikoto.com
 shiksha.com
 shiksha.ws
 shile.xyz
-shilian168.cn
 shiliancj.com
 shilton.fr
 shiming.t28.net

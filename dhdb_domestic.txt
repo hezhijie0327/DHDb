@@ -10514,6 +10514,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -24468,7 +24469,6 @@ easytomessage.com
 easytrip.com
 easyzw.com
 eaticket.com
-eatonchn.com
 eavs02.eqifa.com
 eaydu.com
 eayou.com
@@ -34337,6 +34337,7 @@ iface2.iqiyi.com
 ifacelog.dns.iqiyi.com
 ifacelog.iqiyi.com
 ifaclub.com
+ifahao.com
 ifangarden.com
 ifanggo.com
 ifanjian.net
@@ -48586,6 +48587,7 @@ osx.dianping.com
 osx.dianping.com.s2txipv6.cdntip.com
 osx.dpfile.com
 osx.dpfile.com.s2txipv6.cdntip.com
+osxapps.itunes.apple.com
 osxapps.itunes.apple.com.download.ks-cdn.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
@@ -61640,7 +61642,6 @@ tgeydj1j.v1d.szbdyd.com
 tgeydj9m.v1d.szbdyd.com
 tgeydjmv.v1d.szbdyd.com
 tgeydjr5.v1d.szbdyd.com
-tghello.com
 tgjh.com
 tgjkbx.cn
 tgking.net

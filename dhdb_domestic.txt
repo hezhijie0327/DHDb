@@ -2150,6 +2150,7 @@
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
+2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net

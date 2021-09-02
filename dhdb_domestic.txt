@@ -21143,7 +21143,6 @@ dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
-dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -45088,6 +45087,7 @@ mivideo.g.mi.com
 miwifi.com
 mix.adsame.com
 mix.kinostuff.com
+mix.linkedin.com
 mixbao.com
 mixdo.net
 mixer.cupid.ptqy.gitv.tv
@@ -57304,7 +57304,6 @@ shop1467306713870.1688.com
 shop163011508.v.weidian.com
 shop18560191h2977.1688.com
 shop1z7c564687567.1688.com
-shop2255.com
 shop244950792.taobao.com
 shop247873988.taobao.com
 shop2cn.com

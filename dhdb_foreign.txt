@@ -24994,6 +24994,7 @@ cdmediaworld.com
 cdmfund.org
 cdmodernenglish.com
 cdmr.rpz.su
+cdn-0.starsgab.com
 cdn-102.statdynamic.com
 cdn-145.privacy-mgmt.com
 cdn-146.privacy-mgmt.com
@@ -28314,7 +28315,6 @@ cnyuming.com
 cnywst.com
 cnzhizhe.com
 cnzol.com
-cnzyffw.org
 cnzzla.cn
 cnzzla.com
 co-medical.com
@@ -81943,6 +81943,7 @@ open.acgtracker.com
 open.com.hk
 open.delivery.net
 open.demonii.com
+open.demonii.si
 open.facedatabg.net
 open.firstory.me
 open.kickasstracker.com
@@ -96497,7 +96498,6 @@ shabi.com
 shaddockfishing.com
 shadestation.com
 shadetreetechnology.com
-shadow-forum.com
 shadow.ma
 shadowcheap.com
 shadowcomplex.com
@@ -102957,6 +102957,7 @@ statics.plurk.com
 statics.shanzhuo.cc
 statics.teams.cdn.office.net
 statics.vaptcha.net
+statics.vaptcha.net.w.cdngslb.com
 staticspring.net.daraz.com
 staticstuff.net
 statictapcdn-a.akamaihd.net

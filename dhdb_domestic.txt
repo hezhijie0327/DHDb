@@ -10158,7 +10158,6 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
-api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -20691,6 +20690,7 @@ dangjian.com
 dangjianwang.com
 dangran.me
 dangtianle.com
+dangwan.com
 danhw.com
 daniate.com
 danielpinto8zz6.gallerycdn.azure.cn
@@ -38898,6 +38898,7 @@ jzmt.net
 jznqp.net
 jznyjt.com
 jzongguan.com
+jzqyw.com
 jzrb.com
 jzrc.net
 jzsc.mohurd.gov.cn
@@ -45370,6 +45371,7 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
+mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com

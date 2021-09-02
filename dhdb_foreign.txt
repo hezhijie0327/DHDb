@@ -3,7 +3,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -11717,7 +11716,6 @@ aibooks.cc
 aibusy.com
 aic-allianz.com
 aicaike.com
-aichunjing.com
 aicode.cc
 aicontentdojo.com
 aicpastore.com
@@ -73997,6 +73995,7 @@ miloos.com
 milouz.com
 milph.net
 milsurps.com
+milwaukeetool.asia
 mimacom.com
 mimakiusa.actonservice.com
 mimakiusa.com
@@ -83932,6 +83931,7 @@ pat.farvd.com
 pat4.qpoe.com
 patayka.000webhostapp.com
 patch.com
+patchew.org
 patcraft.com
 pate1k.000webhostapp.com
 patelbrothersusa.com

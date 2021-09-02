@@ -10064,7 +10064,6 @@ api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
-api.adv.ott.cibntv.net
 api.adxpand.com
 api.afdback.ppsimg.com
 api.afdback.ptqy.gitv.tv
@@ -33172,7 +33171,6 @@ hunuo.com
 huo-cun.com
 huo119.com
 huoban.com
-huobanjs.com
 huobanmall.com
 huobanxietong.com
 huobaoyx.com

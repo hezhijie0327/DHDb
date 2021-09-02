@@ -138392,7 +138392,6 @@ prod.balrog.prod.cloudops.mozgcp.net
 prod.car21.net.daraz.com
 prod.configsvc1.live.com.akadns.net
 prod.data-ingestion.prod.dataops.mozgcp.net
-prod.demand.intelsecurity.com
 prod.detectportal.prod.cloudops.mozgcp.net
 prod.disqus.map.fastlylb.net
 prod.entry.video-ads.a2z.com
@@ -173149,6 +173148,7 @@ tracker.bestshopping.com
 tracker.bitreactor.to
 tracker.bitsearch.to
 tracker.bittor.pw
+tracker.bittorrent.am
 tracker.blacksparrowmedia.net
 tracker.blutv.com
 tracker.bongngo.store

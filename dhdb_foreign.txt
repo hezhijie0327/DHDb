@@ -16228,7 +16228,6 @@ au-mg5.mail.yahoo.com
 au.arjo.com
 au.bms.maxmara.com
 au.com
-au.download.windowsupdate.com
 au.pool.ntp.org
 au.razerzone.com
 au.ru
@@ -25856,7 +25855,6 @@ ch.sharpmarketing.eu
 ch.shvoong.com
 ch0p.darty.com
 ch1-cor001.api.p001.1drv.com
-ch1-cor002.api.p001.1drv.com
 ch3088.com
 ch318.com
 ch3301.settings.live.net

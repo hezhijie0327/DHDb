@@ -14414,7 +14414,6 @@ api.rongzhouxing.com
 api.rubic.com.tr
 api.rudderlabs.com
 api.sail-personalize.com
-api.samsungcloud.com
 api.savemedia.website
 api.sbz.vn
 api.sciencemag.org
@@ -25951,7 +25950,6 @@ chanumber.com
 chanzuckerberg.com
 chaochaojin.com
 chaoex.com
-chaofan86.com
 chaojialin.com
 chaojideng.com
 chaojifangyu.com
@@ -94765,7 +94763,6 @@ scout.bergfreunde.nl
 scout.bergfreunde.se
 scout.com
 scout.lexisnexis.com
-scout.rollcall.com
 scout.us2.salesloft.com
 scoutbee.com
 scouts.nz
@@ -100389,7 +100386,6 @@ softwareupdates.amazon.com
 softweb.ru
 softwebsolutions.com
 softwelt.com
-softwhy.com
 softyevents.com
 sofu.me
 sofun.com

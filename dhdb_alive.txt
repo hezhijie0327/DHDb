@@ -6431,6 +6431,7 @@
 365jia.com
 365jiating.com
 365jilin.com
+365jq.com
 365jw.com
 365jz.com
 365kan.tv
@@ -56768,6 +56769,7 @@ direct.cedexis.ap-northeast-1.prod.endpoints.ubiquity.aws.a2z.com
 direct.cedexis.us-east-1.prod.endpoints.ubiquity.aws.a2z.com
 direct.quasir.info
 direct.t-mobile.com
+directaclick.com
 directads.mcafee.com
 directadvert.ru
 directbooking.ro
@@ -65121,6 +65123,7 @@ epetpet.com
 epexpo-asia.com
 epfykmaw.opencagedata.com
 epg.bobo.itvsh.cn
+ephen.me
 ephesoft.com
 ephoton.me
 ephox.com
@@ -83537,7 +83540,6 @@ hasegawa.jp
 hash.qualia.id
 hashbase.io
 hashcloud.in
-hashcloud.one
 hashcoding.net
 hashfish.net
 hashicorp.com
@@ -141311,7 +141313,6 @@ qieyou.com
 qieyz.com
 qiezip.com
 qifa002.com
-qifa128.com
 qifa168.net
 qifangw.com
 qifeiye.com
@@ -176498,7 +176499,6 @@ u9un.com
 u9youxi.com
 ua.indianexpress.com
 ua.us.freewww.biz
-ua168.com
 uaaooa.stansberryresearch.com
 uab.cat
 uacollegesavings.com

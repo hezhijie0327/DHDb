@@ -14277,7 +14277,6 @@ api.cloudmobi.net
 api.codacy.com
 api.codeclimate.com
 api.coinerra.com
-api.comm.miui.com
 api.company-target.com
 api.cookielaw-script.it
 api.cookielaw.eu
@@ -28038,6 +28037,7 @@ cn.msi.com
 cn.nikkei.com
 cn.nytstyle.com
 cn.picacomiccn.com
+cn.pool.ntp.org
 cn.pub.vpon.com
 cn.rti.tw
 cn.ru
@@ -57061,7 +57061,6 @@ imd1.qqsexygirl.com
 imdb.com
 imdb.to
 imdeveloper.ml
-imdj.imdj3001pankou.com
 imec.be
 imechyperspectral.com
 imeetcentral.pgi.com
@@ -105577,7 +105576,6 @@ szhdyic.com
 szhmo.com
 szhuangchao.com
 szhulian.net
-szhydp.com
 szjianxin.net
 szjjtg.com
 szjouyi.com

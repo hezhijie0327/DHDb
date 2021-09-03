@@ -4848,7 +4848,6 @@
 58iwan.com
 58jb.com
 58jixie.com
-58jurenqi.com
 58kad.com
 58kaifa.com
 58kuaipai.com
@@ -45367,7 +45366,6 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
-mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com
@@ -50604,7 +50602,6 @@ porschesky.com
 port.sec.miui.com
 portablesoft.org
 portal-portm.meituan.com
-portal.xunyou.mobi
 portalcdn.cdnetworks.com
 portrait.gitee.com
 portrait.jomodns.com
@@ -58765,6 +58762,7 @@ speednt.com
 speedsz.net
 speedv4.m.jd.com
 speedv4.m.jd.com.gslb.qianxun.com
+speedv6.m.jd.com
 speedycloud.cc
 speiyou.com
 spfmc.com

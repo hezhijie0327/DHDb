@@ -17951,7 +17951,6 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
-cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -32112,6 +32111,7 @@ hnxyjt.com
 hnyfkj.com
 hnyjsedu.com
 hnyouneng.com
+hnyuandian.com
 hnyumantang.com
 hnyunji.com
 hnyunww.com
@@ -36526,7 +36526,6 @@ ixigua.com
 ixiguan.com
 iximo.com
 ixingji.com
-ixinglu.com
 ixingmei.com
 ixingpan.com
 ixinmanzhishe.com
@@ -47809,7 +47808,6 @@ ocri-genomics.org
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
 ocsp-lb.apple.com.akadns.net
-ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.cfca.com.cn
 ocsp.crlocsp.cn

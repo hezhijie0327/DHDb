@@ -17457,6 +17457,7 @@ adbsmetrics.kia.com
 adbsmetrics.kiavirtualexperience.com
 adbsmetrics.koreanair.com
 adbutler.costco.com
+adbutler.de
 adbutter.net
 adbuyer3.lycos.com
 adbuzz.com.tr
@@ -59208,7 +59209,6 @@ dppublishinginc.actonservice.com
 dpqct.com
 dpr.info
 dpreview.com
-dprktimes.com
 dps-proxy.amazon.com
 dps.admission.net
 dps.bing.com
@@ -86071,7 +86071,6 @@ hkwesi.com
 hkwesi1.xyz
 hkwesi11.xyz
 hkwesi111.xyz
-hkwesi11111.xyz
 hkwesi2.xyz
 hkwesi22.xyz
 hkwesi22222.xyz
@@ -89996,7 +89995,6 @@ ibeat.indiatimes.com
 ibeats-uk.com
 ibeatsbydre.cc
 ibeatsbydre.com
-ibeifeng.com
 ibeiig.com
 ibeike.com
 ibeiliao.com
@@ -108582,7 +108580,6 @@ links.t.wine.com
 links.thedyrt.com
 links.thetruth.com
 links.theyes.com
-links.vetsource.com
 links.voyeurweb.com
 links.yummly.com
 links2.emails.verishop.com
@@ -117772,7 +117769,6 @@ metrics.readme.io
 metrics.realclearpolitics.com
 metrics.reallymoving.com
 metrics.realtor.com
-metrics.redbull.tv
 metrics.regal.es
 metrics.regions.com
 metrics.remserv.com.au
@@ -120866,7 +120862,6 @@ monitorapim1g.mathpool.cn
 monitorapim2g.mathpool.cn
 monitorchina.org
 monitoring-sdk.experimentation.intuit.com
-monitoring.cn1.modix.biz
 monitoring.youronlinechoices.com
 monitoringservice.co
 monitorus.ru

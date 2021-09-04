@@ -14166,7 +14166,6 @@ api-analytics.rozetka.com.ua
 api-apac.flightproxy.teams.microsoft.com
 api-apac1.staffhub.office.com
 api-apps-lb.itunes-apple.com.akadns.net
-api-backup.viaxmr.com
 api-docs-r-oa-2.net.daraz.com
 api-docs.c.ns.emailvision.net.daraz.com
 api-docs.dns1.freshegg.net.daraz.com
@@ -46123,7 +46122,6 @@ gelirartisi.com
 gelnique.com
 gelsennet.de
 gem.gbc.criteo.com
-gemaco.com.ve
 gemalto.com
 gemchests.net.daraz.com
 gemcitypc.com
@@ -52111,6 +52109,7 @@ gzxcwsp.com
 gzxjzc.com
 gzyct.com
 gzyeah.com
+gzylxixin.com
 gzyszy.com
 gzzswy.com
 gzzt.org

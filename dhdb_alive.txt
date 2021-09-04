@@ -1172,7 +1172,6 @@
 0xffffff.org
 0xsky.com
 0xtracker.com
-0xue.com
 0y856.com
 0zboz55vvkify585hb0akikl0bdxpxgw.aliyunwaf.com
 1-10.fr
@@ -12695,7 +12694,6 @@
 910app.com
 910go.com
 910play.com
-911.x24hr.com
 91122jb.com
 91160.com
 911776.com
@@ -90658,7 +90656,6 @@ idnes.cz
 idnike.com
 ido-love.com
 ido321.com
-ido512.com
 idoacg.com
 idoall.org
 idocbank.com
@@ -100432,7 +100429,6 @@ jp.hao123.com
 jp.moc.gov.tw
 jp.net
 jp.pandora.tv
-jp.pool.ntp.org
 jp.promo.skf.com
 jp.rti.org.tw
 jp.schroders.email
@@ -131794,7 +131790,6 @@ p12345.com
 p12p.com
 p13.zdassets.com
 p138.com
-p13n-swarm-production.eastus.cloudapp.azure.com
 p13n.adobe.io
 p13nlog-1106815646.us-east-1.elb.amazonaws.com
 p16-tiktokcdn-com.akamaized.net

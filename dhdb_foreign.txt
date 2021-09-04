@@ -14643,7 +14643,6 @@ app.box.net
 app.bridgeimpex.org
 app.business.westernunion.com
 app.calag.at
-app.chat.xiaomi.net
 app.cloudcone.com
 app.com
 app.convertflow.co
@@ -89128,7 +89127,6 @@ qq163.cc
 qq163.tv
 qq2009.com
 qq2018.com
-qq214.com
 qq31666.com
 qq404.cf
 qq404.gq
@@ -103120,7 +103118,6 @@ stats.dice.com
 stats.digg.com
 stats.digiexpert.store
 stats.digital-natives.de
-stats.dirtify.me
 stats.discotel.de
 stats.divemap.uk
 stats.dnaindia.com

@@ -93,7 +93,6 @@
 009.0x1f4b0.com
 00934.com
 00950.com
-00991901.com
 0099524.com
 00997708.com
 00999sha.com
@@ -14524,6 +14523,7 @@ apiserver-freya.net.daraz.com
 apiserver-wlan-switch.net.daraz.com
 apiserver.r-is-1-2.net.daraz.com
 apiserverlib-ht-2.net.daraz.com
+apisnd.heytapmobi.com
 apisof.net
 apisyouwonthate.com
 apitilt.com
@@ -24781,6 +24781,7 @@ cc.st
 cc.st123.info
 cc.swiftype.com
 cc.trendmd.co
+cc.xtgreat.com
 cc.zeit.de
 cc123.com
 cc148.com
@@ -93631,7 +93632,6 @@ saffrontech.com
 safie.link
 safonov.eu
 safoodbank.org
-sag88.com
 sagasix.jp
 sage.com
 sage.de

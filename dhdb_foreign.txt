@@ -3,6 +3,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -4824,7 +4825,6 @@
 657565.com
 6575888.com
 657727.com
-657802.com
 6584304.com
 659533.cn
 659595.com
@@ -5192,6 +5192,7 @@
 72724243473.de
 7298.com
 72book.com
+72dj.com
 72dns.net
 72dy.com
 72en.com
@@ -53868,6 +53869,7 @@ hivecn.net
 hiveminds.net
 hiway.actonservice.com
 hiway.org
+hiwifi.com
 hiwit.org
 hiwxcm.clarins.com.hk
 hiy.vidzi.tv
@@ -94219,7 +94221,6 @@ sb.scorecardresearch.com
 sb.voicefive.com
 sb0919.com
 sb1-bob.burubudur.com
-sb1152.com
 sb1202.com
 sb5202.com
 sb580.com

@@ -24764,7 +24764,6 @@ api.userstyles.org
 api.uve.weibo.com
 api.vc.bilibili.com
 api.verify.mob.com
-api.viaxmr.com
 api.viglink.com
 api.vip.miui.com
 api.vitservers.pw
@@ -101776,7 +101775,6 @@ jyqkx.com
 jyqxz2015.com
 jyrd.com
 jyrlzy.com
-jysbj.cn
 jysd.com
 jyshhlxx.com
 jysk.ch

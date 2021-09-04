@@ -44542,7 +44542,6 @@ mgame.sohu.com
 mgamevideo.serviceproxy.qq.com
 mgate.jd.com
 mgate.jd.com.gslb.qianxun.com
-mgbsdk.matrix.netease.com
 mgc-games.com
 mgc.meituan.com
 mgcdn2.pconline.com.cn
@@ -47774,6 +47773,7 @@ ocri-genomics.org
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
 ocsp-lb.apple.com.akadns.net
+ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.cfca.com.cn
 ocsp.crlocsp.cn
@@ -52364,6 +52364,7 @@ qilang.net
 qilanxiaozhu.net
 qile771.com
 qilecms.com
+qilikongjian.com
 qilindao.com
 qiling.org
 qilingames.com

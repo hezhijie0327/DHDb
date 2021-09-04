@@ -756,7 +756,6 @@
 19jan-update13.azurewebsites.net
 19purify.com
 19sihu.com
-19zhan.com
 1a2cdc65ba22b805dbada973015426b72045429d38f355c0.dlied1.cdntips.net
 1a34426b14e03c6d91317c85bdc9ca5e.jddebug.com
 1a725b66bdb5bf3fbedf3136ea05d984ecd80d0c06f6295f.dlied1.cdntips.net
@@ -3834,6 +3833,7 @@ ad4.com.cn
 ad4.sina.com
 ad4.udn.com
 ad41.atlas.cz
+ad4980.kr
 ad4u.drecom.jp
 ad5.ctrmi.com
 ad5.sina.com.cn
@@ -23602,6 +23602,7 @@ newbiefly.com
 newblackpantherparty.org
 newca.org
 newclouddenfender.com
+newdps.com
 newdun.net
 newgame.ag888.com
 newgamer.com
@@ -28356,6 +28357,7 @@ skypedataprdcolaus02.cloudapp.net
 skypedataprdcolcus00.cloudapp.net
 skypedataprdcolcus01.cloudapp.net
 skypedataprdcolcus02.cloudapp.net
+skypedataprdcolcus03.cloudapp.net
 skypedataprdcolcus04.cloudapp.net
 skypedataprdcolcus05.cloudapp.net
 skypedataprdcolcus06.cloudapp.net

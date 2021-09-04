@@ -8751,6 +8751,7 @@ ad-loupe.com
 ad-mediation.tuanguwen.com
 ad-pub.terra.com.br
 ad-report.fcb.com.cn
+ad-rotator.com
 ad-score.com
 ad-server.co.za
 ad-server.gulasidorna.se
@@ -25719,7 +25720,6 @@ cerved.com
 cervetoria.pt
 cescnb.com
 cesco.com
-ceshi.aitaotan.com
 ceshiguang.com
 ceskydomov.alias.ngs.modry.cz
 cet-uk.com
@@ -102864,6 +102864,7 @@ static.subiz.com
 static.techspot.com
 static.terratraf.io
 static.terrhq.ru
+static.thefifthera.com
 static.tradetracker.net
 static.trafficjunky.com
 static.tv508.com

@@ -10508,7 +10508,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.cdn-apple.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -21539,7 +21538,6 @@ dfdfoy.bar
 dfdjy.net
 dfe.mic.mob.com
 dferlian.cn
-dfgzqc.com
 dfh123456.b2b.huangye88.com
 dfh29.com
 dfham.com
@@ -24491,7 +24489,6 @@ ebike.hellobike.cn
 ebike.hellobike.com
 ebingqilin.com
 ebiobuy.com
-ebiogo.com
 ebioweb.com
 ebjfinance.com
 eblockschina.com
@@ -27538,6 +27535,7 @@ fwzjia.com
 fx120.net
 fx168.com
 fx168api.com
+fx168vip.com
 fx3q.com
 fx678.com
 fx678img.com
@@ -48549,6 +48547,7 @@ osx.dianping.com
 osx.dianping.com.s2txipv6.cdntip.com
 osx.dpfile.com
 osx.dpfile.com.s2txipv6.cdntip.com
+osxapps.itunes.apple.com
 osxapps.itunes.apple.com.download.ks-cdn.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com

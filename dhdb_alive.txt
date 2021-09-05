@@ -100430,6 +100430,7 @@ jp.hao123.com
 jp.moc.gov.tw
 jp.net
 jp.pandora.tv
+jp.pool.ntp.org
 jp.promo.skf.com
 jp.rti.org.tw
 jp.schroders.email

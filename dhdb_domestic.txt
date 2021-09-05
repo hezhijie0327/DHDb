@@ -22302,6 +22302,7 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
+dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -48455,7 +48456,6 @@ oriondm.jd.com.gslb.qianxun.com
 oritive.com
 orledsolar.com
 orleto.com
-orpheus.ink
 orsoon.com
 ort-stsdk.vivo.com.cn
 ort.stsdk.vivo.com.cn
@@ -57493,6 +57493,7 @@ shufawu.com
 shufazidian.com
 shufe.com
 shugcup.music.qq.com
+shuge.la
 shugoo.com
 shuguanghuayuan.com
 shuhai.com

@@ -22303,6 +22303,7 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
+dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -30244,7 +30245,6 @@ haguworld.com
 haha33.com
 haha360.com
 haha365.com
-hahacoding.cn
 hahaha365.com
 hahait.com
 hahawen.com
@@ -42070,7 +42070,6 @@ log-api.cli.im
 log-api.huxiu.com
 log-api.pangolin-sdk-toutiao.com
 log-api.pangolin-sdk-toutiao.com.w.cdngslb.com
-log-dd.jd.com
 log-dd.jd.com.gslb.qianxun.com
 log-dmp.suishenyun.cn
 log-hl.snssdk.com
@@ -46561,6 +46560,7 @@ natqs.bealge.sogou.com
 naturali.io
 nature-museum.net
 natywish.com
+nav.cn.ronghub.com
 navchina.com
 navigis.uc.cn
 navimentum.com

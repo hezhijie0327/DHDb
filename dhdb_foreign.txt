@@ -314,7 +314,6 @@
 04647.net
 048-szw-045.mktoresp.com
 049pk.com
-04afcp.com
 05-enlisted-cdnnow.cdn.gaijin.net
 05-enlisted-level3.cdn.gaijin.net
 0500sun.com
@@ -29919,7 +29918,6 @@ count29.51yes.com
 count34.51yes.com
 count35.51yes.com
 count36.51yes.com
-count4.51yes.com
 count41.51yes.com
 count43.51yes.com
 count45.51yes.com
@@ -50625,7 +50623,6 @@ gol777.com
 golang.com
 golang.net
 golang.org
-golang.so
 golanger.com
 golangfoundation.org
 golangtc.com
@@ -53920,7 +53917,6 @@ hj860.com
 hj8686.com
 hj8815.com
 hj906.com
-hj949.com
 hj983.com
 hj985.com
 hj991.com

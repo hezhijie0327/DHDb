@@ -86477,6 +86477,7 @@ pool.graft.hashvault.pro
 pool.minexmr.com
 pool.nimiq-network.com
 pool.nimiq.watch
+pool.ntp.org
 pool.supportxmr.com
 pool.tdcoincore.org
 pool.torrent.pw
@@ -89051,7 +89052,6 @@ qnigncxigkdbhxwptsabeuxvbsdkf1620829972.nuid.imrworldwide.com
 qnmlgb.tech
 qnocnf.bask.ru
 qnqdpy.edreams.net
-qnsimg.en9fov.cn
 qnvod.net
 qochma.pufetto.com.ua
 qoe-1.yottaa.net
@@ -94878,7 +94878,6 @@ sdfsf.freecontent.date
 sdgho.com
 sdglkt.com
 sdguanglu.com
-sdhk2008.com
 sdhtmy.com
 sdhts.com
 sdhuxiji.com

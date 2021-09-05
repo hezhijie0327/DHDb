@@ -14741,7 +14741,6 @@ appcloud.com
 appcloudcdn.com
 appconsent.io
 appcontent.serif.com
-appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appdump.nie.netease.com
@@ -23272,6 +23271,7 @@ c.jsrdn.com
 c.jzdianlan.cn
 c.k8sns.emailvision.net.daraz.com
 c.kyoceradocumentsolutions.eu
+c.l570mb.cn
 c.la3-c2-phx.salesforceliveagent.com
 c.latam.msn.com
 c.loginns.emailvision.net.daraz.com
@@ -77965,7 +77965,6 @@ newisiknowledge.com
 newizv.ru
 newlandchase.com
 newlandmagazine.com.au
-newlifefilm.com
 newline.fi
 newlog.daidoanket.vn
 newlog.overwolf.com
@@ -107255,7 +107254,6 @@ texstudio.org
 text.benefitsatwork.be
 text.benefitsatwork.ch
 text.convenzioniaziendali.it
-text.forge.com
 text.mitarbeiterangebote.at
 text.mitarbeiterangebote.de
 text.rahmenvereinbarungen.de

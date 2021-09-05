@@ -2983,7 +2983,6 @@
 9911.biz
 991yue.com
 9922292.com
-992892.com
 9949469.com
 9951766.com
 9953636.com
@@ -5331,6 +5330,7 @@ api.tongji.today
 api.tumra.com
 api.uom.cn
 api.vasb.cn
+api.viaxmr.com
 api.wapa.taobao.com
 api.weltevree.eu
 api.whizzone.com

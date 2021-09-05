@@ -32043,6 +32043,7 @@ d2sucq8qh4zqzj.cloudfront.net
 d2t15uaqqm1mjb.cloudfront.net
 d2t67iukq9ieyq.cloudfront.net
 d2t77mnxyo7adj.cloudfront.net
+d2t7a3zbo166a9.cloudfront.net
 d2taktuuo4oqx.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
@@ -62445,7 +62446,6 @@ js.ptengine.jp
 js.qsk666.com
 js.sentry-cdn.com
 js.smi2.ru
-js.softreklam.com
 js.sosista.com
 js.start1999.com
 js.stripe.com

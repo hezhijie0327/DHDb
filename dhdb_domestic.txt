@@ -61997,6 +61997,7 @@ tb988.com
 tb9906.com
 tbadc.com
 tbankw.com
+tbaocdn.com
 tbcache.com
 tbcdn.cn
 tbdiy.com
@@ -62063,6 +62064,7 @@ tce.alicdn.com.danuoyi.alicdn.com
 tcgcardgame.com
 tcgzxx.com
 tchbgz.com
+tchkcc.cn
 tchzt.com
 tciplay.com
 tcl.com
@@ -62074,6 +62076,7 @@ tcloud01.qq.com
 tcloudbaseapp.com
 tcloudfamily.com
 tcm100.com
+tcmdz.com
 tcmfrj.com
 tcmygy.com
 tcnews.cc
@@ -62088,6 +62091,7 @@ tcsae.org
 tcsdzz.com
 tcsnake.com
 tcstzg.com
+tctask.com
 tctd.net
 tctip.com
 tctong.com
@@ -62220,6 +62224,7 @@ telidx.m.hub.sandai.net
 telking.com
 tell520.com
 telllove520.com
+tellvi.cn
 telnet404.com
 telunsu.net
 telv6.music.ntes53.netease.com
@@ -62255,9 +62260,16 @@ tencentmind.com
 tencentmusic.com
 tencentwm.com
 tenchii.com
+tendata.cn
+tendata.com
+tendata.net
+tendcloud.cn
+tendcloud.com
 tendcode.com
+tenddata.cn
 tenddata.com
 tenddata.com.cn
+tenddata.net
 tender-bucket.oss-cn-beijing.aliyuncs.com
 tender-bucket.oss-cn-beijing.aliyuncs.com.gds.alibabadns.com
 tenganxinxi.com
@@ -62351,6 +62363,7 @@ testcoo.com
 testeast2.blob.core.chinacloudapi.cn
 testeb.com
 testerhome.com
+testin.cn
 testplus.cn
 testrust.com
 testtao.com
@@ -62376,6 +62389,8 @@ tf.caohua.com
 tf.gzleilin.com
 tf.hftaili.com
 tf.wiki
+tf58.com
+tf639.top
 tf86.com
 tfang.net
 tfax.com

@@ -33829,6 +33829,7 @@ hwmov.a.yximgs.com
 hwmov.a.yximgs.com.c.cdnhwc1.com
 hwrecruit.com
 hwsem.com
+hwt.player888.cn
 hwtelcloud.com
 hwtrip.com
 hwx.h4kdxs.com
@@ -37567,6 +37568,7 @@ jiajia.tv
 jiajiakt.com
 jiajiao114.com
 jiajiaoban.com
+jiajicompany.com
 jiaju.cc
 jiaju.com
 jiaju100.com
@@ -40286,6 +40288,7 @@ kmxkh.com
 kn.qhdfxkj.com
 kn.zhangdujia.com
 kn.zhipinbook.cn
+kn.zzdahan.com
 kn120.com
 kneng.net
 knet.cn
@@ -42715,6 +42718,7 @@ log-api.cli.im
 log-api.huxiu.com
 log-api.pangolin-sdk-toutiao.com
 log-api.pangolin-sdk-toutiao.com.w.cdngslb.com
+log-dd.jd.com
 log-dd.jd.com.gslb.qianxun.com
 log-dmp.suishenyun.cn
 log-hl.snssdk.com
@@ -47654,6 +47658,7 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
+nex.163.com
 nexstep.zdworks.com
 next-union.com
 next.api.aliyun.com
@@ -55861,7 +55866,6 @@ s.c-ctrip.com
 s.cdn.u17t.com
 s.chuimg.com
 s.chusan.com
-s.ciouwap.com
 s.click.taobao.com
 s.click.tmall.com
 s.clkservice.youdao.com
@@ -59168,6 +59172,7 @@ so.m.jd.com.gslb.qianxun.com
 so.qss-lb.com
 so.sina.cn
 so.toutiao.com
+so.tsscnw.cn
 so.youku.com
 so147.com
 soa-dd.jd.com

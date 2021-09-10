@@ -8484,6 +8484,7 @@ ads.oneway.mobi
 ads.privacy.qq.com
 ads.reader.yueyouxs.com
 ads.serving-sys.cn
+ads.shovtvnet.com
 ads.sina.com
 ads.sohu.com
 ads.static.madserving.com
@@ -33344,6 +33345,7 @@ huawenonline.com
 huawenwin.com
 huaxi.net
 huaxi100.com
+huaxia-news.com
 huaxia.com
 huaxia77.com
 huaxiaci.com

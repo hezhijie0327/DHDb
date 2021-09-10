@@ -22648,7 +22648,6 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
-dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -29590,7 +29589,6 @@ gpsoo.net
 gpsspg.com
 gpsuu.com
 gpticket.org
-gpxxz.com
 gpxygpfx.com
 gpxz.com
 gpzbs.com
@@ -30691,6 +30689,7 @@ hacori.com
 hacpai.com
 haczjob.com
 hades.qyer.com
+hadns.net
 hadsky.com
 hadyang.com
 haerbin.baixing.com

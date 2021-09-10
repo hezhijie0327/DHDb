@@ -31715,6 +31715,7 @@ cdni.net
 cdnimg.acgget.com
 cdnis.hyperpromote.com
 cdnjke.com
+cdnjs.cloudflane.com
 cdnjs.cloudflare.com
 cdnjs.com
 cdnle.com
@@ -35159,7 +35160,6 @@ cn.msi.com
 cn.nikkei.com
 cn.nytstyle.com
 cn.picacomiccn.com
-cn.pool.ntp.org
 cn.pub.vpon.com
 cn.rti.tw
 cn.ru
@@ -41688,6 +41688,7 @@ dc.applicationinsights.azure.com
 dc.arrivalist.com
 dc.audi.com
 dc.banggood.com
+dc.chillyroom.com
 dc.di.atlas.samsung.com
 dc.glbtls.t.co
 dc.oracleinfinity.io
@@ -44196,6 +44197,7 @@ dl-wot-cdx.wargaming.net
 dl-wot-gc.wargaming.net
 dl-wows-cdx.wargaming.net
 dl-wows-gc.wargaming.net
+dl.8ox.cn
 dl.airtable.com
 dl.benefits.express-scripts.com
 dl.box.net
@@ -93030,6 +93032,7 @@ mimosamajor.com
 mimpiphy.net
 mims.icbc.com.cn
 min-breeder.com
+min.imageflux.cf
 minaconfli.top
 minaexplorer.com
 minanjiaoyu.com
@@ -93710,7 +93713,6 @@ mixtraff.com
 mixturecloud.com
 mixturehopeful.com
 mixx.com
-miy.cc
 miyabaobei.hk
 miyajimusic.com
 miyakei.com

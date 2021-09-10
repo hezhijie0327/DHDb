@@ -10714,6 +10714,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -10732,6 +10733,7 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -10827,7 +10829,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -21956,7 +21957,6 @@ dgjs123.com
 dgjxmk.com
 dgjyw.com
 dglpool.com
-dglscm.cn
 dgmama.net
 dgn.cc
 dgongxifacai.top
@@ -29599,6 +29599,7 @@ gqrcode.alicdn.com
 gqsoso.com
 gqt168.com
 gqzctsj.com
+gqzzw.com
 gr.a.sohu.com
 grablan.com
 grabsun.com
@@ -34731,6 +34732,7 @@ idm.api.io.mi.com
 idm.bce.baidu.com
 idm.iot.mi.com
 idm.vip
+idmchina.net
 idmgr.ww.taobao.com
 idn100.com
 idname.com
@@ -36332,7 +36334,6 @@ ios.bugly.qq.com
 ios.rqd.qq.com
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
-iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -37366,6 +37367,7 @@ jdluosi.com
 jdlxzx.com
 jdnettv.com
 jdon.com
+jdpavds.com
 jdpay.com
 jdpaycert.jd.com
 jdpaycert.jd.com.gslb.qianxun.com
@@ -42011,6 +42013,7 @@ light-client-log-heiniugo.getapk.cn
 lightget.com
 lightgx.com
 lighthouse.dmallcdn.com
+lighthouseapi.dmall.com
 lightingchina.com
 lightinit.com
 lightky.com
@@ -58305,7 +58308,6 @@ shufafin.com
 shufashibie.com
 shufawu.com
 shufazidian.com
-shufe.com
 shugcup.music.qq.com
 shuge.la
 shugoo.com

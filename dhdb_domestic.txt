@@ -3621,7 +3621,6 @@
 3sfxam.tdum.alibaba.com
 3shuwu.com
 3sjt.com
-3skmv.com
 3snews.net
 3songshu.com
 3stl.com
@@ -10828,6 +10827,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -18389,7 +18389,6 @@ cn.launcher.battlenet.com.cn
 cn.letou118.net
 cn.linkedin.com
 cn.made-in-china.com
-cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.ntp.org.cn
 cn.pandora.net
@@ -19004,7 +19003,6 @@ coindog.com
 coinex.com
 coingogo.com
 coinnice.com
-coinsky.com
 coinvs.com
 col.ink
 col.pagechoice.net
@@ -44357,7 +44355,6 @@ manongs.com
 manparis.cn
 manpianyi.com
 manshen.net
-mansuno.com
 mantutu.com
 manuelu.com
 manwuxian123.com

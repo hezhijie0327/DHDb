@@ -691,6 +691,7 @@
 1.tecbbs.com
 1.tongquee.com
 1.ttxs123.net
+1.tulaoshi.com
 1.uc129.com
 1.ufc123.com
 1.ufc7.com
@@ -12673,6 +12674,7 @@ bds-cn.com
 bds.haochu.com
 bds.haochu.com.cname4009.yjs-cdn.com
 bds.snssdk.com
+bds.soarfi.cn
 bdsearch.2345.com
 bdsgps.com
 bdshuang.com
@@ -22804,6 +22806,7 @@ dm.jb51.net
 dm.jsyst.cn
 dm.lianzhixiu.com
 dm.pstatp.com
+dm.sanwen8.com
 dm.sg92.com
 dm.taobaojuhuasuan.cn
 dm.toutiao.com

@@ -10398,7 +10398,6 @@ api.lwxs99.com
 api.m.gds.taobao.com
 api.m.huya.com
 api.m.jd.com
-api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
 api.m.taobao.com
@@ -26586,7 +26585,6 @@ faxian.youku.com
 faxingchina.com
 faxingcn.com
 faxingshuo.com
-faxingtupian.com
 faxingzhan.com
 faxiufang.com
 faxsun.com
@@ -31250,7 +31248,6 @@ hbcdc.com
 hbcg.cc
 hbchen.com
 hbciqtc.com
-hbcjaq.com
 hbcjh.net
 hbcjlq.com
 hbcjw.com

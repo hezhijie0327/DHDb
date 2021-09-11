@@ -1566,6 +1566,7 @@
 17.153.194.123.zz.countries.nerd.dk
 17.255.240.182.zz.countries.nerd.dk
 17.courier-push-apple.com.akadns.net
+170525.com
 1706316.com
 170hi.com
 170mv.com
@@ -7200,7 +7201,6 @@
 8live.top
 8live.vip
 8livevn.com
-8lk.com
 8lzu.iqi.asu.su
 8mb4qkd74cht.com
 8mdphsb8fm.com
@@ -17868,7 +17868,6 @@ api.cloudmobi.net
 api.codacy.com
 api.codeclimate.com
 api.coinerra.com
-api.comm.miui.com
 api.company-target.com
 api.cookielaw-script.it
 api.cookielaw.eu
@@ -22171,6 +22170,7 @@ banner.elisa.net
 banner.etargeting.mobifone.vn
 banner.eurogrand.com
 banner.europacasino.com
+banner.finzoom.ro
 banner.galabingo.com
 banner.goldenpalace.com
 banner.hpmdnetwork.ru
@@ -45501,6 +45501,7 @@ dprtb.com
 dps-proxy.amazon.com
 dps.admission.net
 dps.bing.com
+dps.shouji56.com
 dpsq2uzakdgqz.cloudfront.net
 dpstack.com
 dptaoci.com
@@ -47228,6 +47229,7 @@ ea.access-moto.com
 ea.armandthiery.fr
 ea.auchantelecom.fr
 ea.audika.com
+ea.aujourdhui.com
 ea.catimini.com
 ea.celio.com
 ea.coffrefortplus.com
@@ -66477,6 +66479,7 @@ hair-express.de
 hair.com
 hairdosslitter.casa
 hairdressercommentarydown.com
+haireig.com
 hairsthoughtfulgovernor.com
 haitang123.vip
 haitao8.com
@@ -72398,6 +72401,7 @@ imdb.com
 imdb.to
 imdbwatch.com
 imdeveloper.ml
+imdj.imdj3001pankou.com
 imec.be
 imechyperspectral.com
 imediaaudiences.com
@@ -87051,6 +87055,7 @@ m.hogyp.com
 m.hot-mob.com
 m.hotmail.com
 m.huancai66.com
+m.i36mf.cn
 m.ihais.com
 m.ilife.cn
 m.irl.com
@@ -108684,6 +108689,7 @@ player.ooyala.com
 player.spotify.com
 player.staging2.crazyegg.com
 player.tenglutg.com
+player.videos.vidto.me
 player.vimeo.com
 playercdn.net
 playerjs.io

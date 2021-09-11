@@ -10547,7 +10547,6 @@ api2.ctc.ximalaya.com
 api2.e.kuaishou.com
 api2.kuaishoupay.com
 api2.kwaishop.com
-api2.mairuan.com
 api2.music.163.com
 api2.music.163.com.w.cdngslb.com
 api2.nn.com
@@ -29156,6 +29155,7 @@ glbdqn.com
 glcanyin.net
 glcct.com
 gleasy.com
+glg.uu.163.com
 glgczk.com
 glike.me
 glinfo.com

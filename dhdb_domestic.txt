@@ -8607,7 +8607,6 @@ adv.jxnews.com.cn
 adv.madserving.com
 adv.sec.miui.com
 adv.zuimeitianqi.com
-adver.qq.com
 advert.api.thejoyrun.com
 advert.mting.info
 advertise.baicizhan.com
@@ -13693,6 +13692,7 @@ blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
+blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
@@ -16577,7 +16577,6 @@ cheshi-img-cdn.b0.aicdn.com
 cheshi-img.com
 cheshi.com
 cheshi18.com
-cheshirex.com
 chestar.net
 chesthospital.com
 chesudi.com
@@ -24510,6 +24509,7 @@ dzzoffice.com
 e-3lue.com
 e-bidding.org
 e-bq.com
+e-bq.org
 e-buychina.com
 e-celap.com
 e-chinalife.com
@@ -43712,6 +43712,7 @@ m.fang.com
 m.fcb.com.cn
 m.fcb.com.cn.w.alikunlun.com
 m.flycua.com
+m.fy4zb.cn
 m.g.pptv.com
 m.game.weibo.cn
 m.gamedog.cn
@@ -45412,7 +45413,6 @@ mifengzhibo.com
 mifile.cn
 mifispark.com
 mig.str.mdt.qq.com
-migantech.com
 migelab.com
 migroom.com
 migu.cn

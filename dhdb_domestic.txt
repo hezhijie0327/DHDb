@@ -36332,7 +36332,6 @@ iosapps.itunes.apple.com.m.alikunlun.net.v.vvpncdn.com
 iosapps.itunes.apple.com.w.alikunlun.com
 iosapps.itunes.g.aaplimg.com
 iosappx.com
-ioschina.cc
 iosfengwo.com
 ioshost.qtlcdn.com
 iosinit.com
@@ -43730,6 +43729,7 @@ m.health.pingan.com
 m.hellobike.com
 m.heygugu.com
 m.hlcnzz.com
+m.hmzsfmjc.com
 m.hpfjy.com
 m.hubpd.com
 m.hupu.com

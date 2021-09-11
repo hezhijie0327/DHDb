@@ -12232,7 +12232,6 @@ baofeng.m.cn.miaozhen.com
 baofeng.net
 baofeng365.com
 baofengcinema.com
-baofengcloud.com
 baofengtuandui.com
 baofengzixun.com
 baofoo.com
@@ -28896,6 +28895,7 @@ gg.blueidea.com
 gg.caixin.com
 gg.cs090.com
 gg.dsxdn.com
+gg.egouz.com
 gg.gao7.com
 gg.huangye88.com
 gg.meitu.com
@@ -39740,7 +39740,6 @@ kanquwen.com
 kansdk.com
 kanshangjie.com
 kanshu.com
-kanshuwangzhan.com
 kantao.net
 kantiantang.com
 kantiantang.net
@@ -58104,7 +58103,6 @@ shopnc.net
 shopping.ele.me
 shoppingcampaigns-api-drcn.ai.dbankcloud.com
 shoprobam.com
-shopxo.net
 short-video.kakamobi.cn
 short-yypush.yy.com
 short.weixin.qq.com

@@ -7486,6 +7486,7 @@ a.wkanx.com
 a.wo.cn
 a.xcar.com.cn
 a.xinxianshilb.com
+a.xixiyishu.com
 a.xizi.com
 a.xue126.com
 a.xuezizhai.com
@@ -10395,6 +10396,7 @@ api.lwxs99.com
 api.m.gds.taobao.com
 api.m.huya.com
 api.m.jd.com
+api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
 api.m.taobao.com
@@ -21446,7 +21448,6 @@ dbzgia.com
 dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
-dc.ads.linkedin.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -25141,7 +25142,6 @@ edv31jyj.v1d.szbdyd.com
 edwiv.com
 edx-cdn.org
 edzhishi.com
-edzx.com
 ee-lb.bytedns.net
 ee-skin.com
 ee-vip.net
@@ -26003,6 +26003,7 @@ ewpeinfo.com
 ewqcxz.com
 ewstudy.com
 ewteacher.com
+ewtyewj.com
 ewuqa.com
 ewwt1j.tdum.alibaba.com
 ewww.com.cn

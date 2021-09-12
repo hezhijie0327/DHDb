@@ -27558,7 +27558,6 @@ fp.czvv.com
 fp.fraudmetrix.cn
 fp.hwwt8.com
 fp.nanrenwo.net
-fp.ps.netease.com
 fp.tongdun.net
 fpb.docin.com
 fpb.sohu.com
@@ -40272,6 +40271,7 @@ kmuldoky.p23.tc.cdntip.com
 kmw.com
 kmway.com
 kmxkh.com
+kn.bjbrtc.com
 kn.qhdfxkj.com
 kn.zhangdujia.com
 kn.zhipinbook.cn
@@ -43897,6 +43897,7 @@ m.youshu.cc
 m.yoyi.com.cn
 m.ys137.com
 m.yxixy.com
+m.z83rj.cn
 m.zcygov.cn
 m.zhangyue.com
 m.zhaokaoti.com
@@ -46146,7 +46147,6 @@ moliplayer.com
 molixiangce.com
 molloc.com
 mollykannn.gallerycdn.azure.cn
-moltentec.com
 moment-cdn.hellobike.com
 moment-video.51downapp.cn
 momentcon-1255653016.file.myqcloud.com
@@ -48743,7 +48743,6 @@ omgid.qq.com
 omgmta.play.aiseet.atianqi.com
 omgmta.play.cp81.ott.cibntv.net
 omgmta.play.ott.video.qq.com
-omgmta.qq.com
 omgmta1.qq.com
 omgup.xiaojukeji.com
 omgup1.xiaojukeji.com

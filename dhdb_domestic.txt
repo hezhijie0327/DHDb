@@ -2886,6 +2886,7 @@
 2zimu.com
 3.39zuoye.com
 3.5646.cn
+3.cn.pool.ntp.org
 3.iscrv.com
 3.pic.pc6.com
 3.ssqzj.com
@@ -6357,6 +6358,7 @@
 86joy.com
 86junshi.com
 86kongqi.com
+86lawyer.com
 86mama.com
 86mdo.com
 86nb.com
@@ -24010,6 +24012,7 @@ duobiji.com
 duocaitou.com
 duochang.cc
 duodaa.com
+duodada.com
 duodian.com
 duoduo.net
 duoduo123.com
@@ -38543,7 +38546,6 @@ jojofx.com
 jojoin.com
 jojoreading.com
 jolimark.com
-jollybuy.com
 jomeinaster.gallerycdn.azure.cn
 jonahome.net
 jonny.vip
@@ -38615,6 +38617,7 @@ jpanj.com
 jpay.jd.com
 jpbeta.net
 jpeen.com
+jpegonline.com
 jperation.com
 jpg.inte.sogoucdn.com
 jpg.macz.com
@@ -48829,6 +48832,7 @@ onezh.com
 onfac.com
 onimg.leshu.com
 onjobedu.com
+onlextv.com
 online-cmcc.cn
 online-edu.org
 online-msgacs.m.taobao.com.gds.alibabadns.com
@@ -51139,7 +51143,6 @@ plutuspay.com
 plycd.com
 plyz.net
 pm-summit.org
-pm.3.cn
 pm.3.cn.gslb.qianxun.com
 pm.aty.sohu.com
 pm.myapp.com

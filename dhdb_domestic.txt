@@ -10482,6 +10482,7 @@ api.tv.sohu.com
 api.tw06.xlmc.sandai.net
 api.tw06.xlmc.sec.miui.com
 api.udache.com
+api.ujian.cc
 api.union.vip.com
 api.unipay.qq.com
 api.uniplayad.com
@@ -11169,7 +11170,6 @@ ashj.com
 ashl7t28u9asxjo1.aliyunddos1011.com
 ashma.info
 ashow.pcpop.com
-asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -17743,7 +17743,6 @@ cl4.webterren.com
 cl5.apple.com.mwcname.com
 cl5.webterren.com
 cl597.com
-clabso.com
 clady.cc
 claiks.com
 clarins.com.cn
@@ -19121,7 +19120,6 @@ comra.org
 comsenz-service.com
 comsenz.com
 comsharp.com
-con.hk
 conac.cn
 conan.yuanfudao.com
 concd.cn
@@ -28107,6 +28105,7 @@ g.x.evolife.cn
 g.xywy.com
 g.youyou234.com
 g.yuque.com
+g.zx-jsp.com
 g00gle.pw
 g0i9vc1c.slt.sched.tdnsv8.com
 g1.08160.cn
@@ -55720,7 +55719,6 @@ ruiyunit.com
 rujiazg.com
 ruketang.com
 rulejianzhan.com
-rum.xundayun.cn
 rum8.perf.linkedin.com
 rumengtushu.suning.com
 runcome.com
@@ -57015,6 +57013,7 @@ secutimes.com
 secvgr2.cachenode.cn
 secwk.com
 secwx.com
+secye.com
 see-far.com
 see-source.com
 seeapp.com

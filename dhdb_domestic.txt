@@ -21198,6 +21198,7 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
+data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -39739,6 +39740,7 @@ kanquwen.com
 kansdk.com
 kanshangjie.com
 kanshu.com
+kanshuwangzhan.com
 kantao.net
 kantiantang.com
 kantiantang.net
@@ -46816,6 +46818,7 @@ myaora.net
 myapp.com
 myarowanas.com
 myauth.us
+myball7.com
 mybank.cn
 mybdqn.com
 mybjx.net

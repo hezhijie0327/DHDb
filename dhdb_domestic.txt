@@ -9657,6 +9657,7 @@ alyms.cn
 alyzq.com
 am.aicdn.com
 am.g.ireader.com
+am.szhome.com
 am.zdmimg.com
 am2212.com
 am5.com
@@ -11974,6 +11975,7 @@ baiduyunpan.net
 baiduyunsousou.com
 baiduyy.com
 baietu.com
+baifen.music.baidu.com
 baifendian.com
 baifumeiba.com
 baigeseo.com
@@ -14874,7 +14876,6 @@ caidaocloud.com
 caidaoli.com
 caifuxingketang.com
 caifuzhongwen.com
-caigaowang.com
 caigou2003.com
 caigoubao.cc
 caigoulu.com
@@ -18219,6 +18220,7 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
+cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -34774,7 +34776,6 @@ ie13.com
 ie2205.com
 ie515.com
 ie525.com
-ie915.com
 ie977.com
 ieche.com
 iecity.com
@@ -36739,7 +36740,6 @@ itaotm.com
 itaotuo.com
 itaoxiaoshuo.com
 itavcn.com
-itb12.com
 itb92.com
 itbbs.pconline.com.cn
 itbbs.pconline.com.cn.cdn20.com

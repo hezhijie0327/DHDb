@@ -45435,7 +45435,6 @@ download.qoo-app.com
 download.sd.baidu.com
 download.synology.com
 download.weatherblink.com
-download.windowsupdate.com
 download.windowsupdate.nsatc.net
 download.wondershare.com
 download.yesmessenger.com
@@ -90768,6 +90767,7 @@ media.vivaclix.com
 media.wired.com
 media01.eu
 media1.s-nbcnews.com
+media2.legacy.com
 media2.tatlerasia.com
 media2.thetatlerbar.com
 media2.travelzoo.com
@@ -108044,7 +108044,6 @@ pinpailun.com
 pinpinnet.net
 pinpoll.com
 pinptg.milleni.com.tr
-pinqupu.com
 pinruan.net
 pins.amazon.com
 pinshan.com

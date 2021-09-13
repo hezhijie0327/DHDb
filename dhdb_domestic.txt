@@ -4431,7 +4431,6 @@
 51wofang.com
 51wp.com
 51wtp.com
-51wuduan.com
 51wxjz.com
 51wxyx.cn
 51wydj.com
@@ -4675,6 +4674,7 @@
 52toys.com
 52tt.com
 52tt.vip
+52tushuo.com
 52udl.com
 52unicode.com
 52vr.com
@@ -5799,7 +5799,6 @@
 76al.com
 76baobao.com
 76dongdong.com
-76e.org
 76jie.com
 76ju.com
 76phtp1.cachenode.cn
@@ -10294,6 +10293,7 @@ api.bigfun.cn
 api.biliapi.net
 api.bilibili.com
 api.biligame.com
+api.browser.miui.com
 api.bs.zui.com
 api.btstu.cn
 api.bz
@@ -12720,7 +12720,6 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -25968,6 +25967,7 @@ evilbinary.org
 evileyesaint.com
 evketang.com
 evlook.com
+evolife.cn
 evotrue.com
 evp.51job.com
 evvfuv.tdum.alibaba.com
@@ -47649,6 +47649,7 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
+nex.163.com
 nexstep.zdworks.com
 next-union.com
 next.api.aliyun.com

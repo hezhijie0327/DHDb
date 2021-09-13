@@ -19240,7 +19240,6 @@ control.aps.amap.com
 control.mna.qq.com
 conuo.com
 conv.youdao.com
-convenice.com
 convergemob.com
 conversion.adpro.cn
 conversion.pro.cn
@@ -21133,7 +21132,6 @@ darczpw.com
 daren-auth.alicdn.com
 daren-auth.alicdn.com.danuoyi.tbcache.com
 dariyu.com
-darkhat.xyz
 darkmi.com
 darkriszty.gallerycdn.azure.cn
 darmao.com
@@ -43908,7 +43906,6 @@ m.zhipin.com
 m.zhuxiaobang.com
 m.zol.com.cn
 m.zs-hospital.sh.cn
-m.zuimh.com
 m.zzchuy.cn
 m.zzcm5.com
 m.zzx.cnklog.com
@@ -47327,6 +47324,7 @@ ncfgroup.com
 ncfwx.com
 ncfz.com
 ncgi.video.qq.com
+nch.xnghmc.com
 nchq.cc
 nciyuan.com
 nclog.mars.baofeng.net

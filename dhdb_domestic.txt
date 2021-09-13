@@ -22324,7 +22324,6 @@ dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digcredit.com
-digforfire.net
 digforfire.org
 digi-wo.com
 digi.china.com
@@ -22360,6 +22359,7 @@ dimeng.net
 dimensionalzone.com
 dimg01.c-ctrip.com
 dimg01.c-ctrip.com.wscdns.com
+dimg02.c-ctrip.com
 dimg02.c-ctrip.com.wscdns.com
 dimg03.c-ctrip.com
 dimg03.c-ctrip.com.wscdns.com
@@ -30270,6 +30270,7 @@ gxsky.com
 gxtodo.com
 gxud2k6.dedit904n21.cname.hosts.topvps.top
 gxwmcu.com
+gxwsxx.com
 gxxgle.com
 gxxiaotutu.com
 gxxmyjs.com
@@ -46910,7 +46911,6 @@ myjhxl.com
 myjianzhu.com
 myjishu.com
 myjob500.com
-myjoit.com
 myjoy777.com
 myjsym.zichenit.com
 myk3.com

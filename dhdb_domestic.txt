@@ -9210,7 +9210,6 @@ ajweishequ.com
 ajxlx.com
 ajzq.com
 ak-conf.hypergryph.com
-ak-fs.hypergryph.com.w.kunluncan.com
 ak-gs-gf.hypergryph.com
 ak-hu.hycdn.cn
 ak-proxy.alibaba-inc.com.gds.alibabadns.com
@@ -36344,7 +36343,6 @@ iot-paas-static.cdn.bcebos.com
 iot101.com
 iotachem.com
 iotc.jr.jd.com
-iotcetc.com
 iotexpo.org
 iotfair.net
 iotku.com
@@ -39396,6 +39394,7 @@ jyss.net
 jysyzk.com
 jyteasy.com
 jyxdyzx.com
+jyz.fjtzjy.com
 jyzpw.vip
 jyzq.cn
 jyzysp.com

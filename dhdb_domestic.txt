@@ -2187,7 +2187,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.asia.pool.ntp.org
 2.bashenghuo.com
 2.centos.pool.ntp.org
 2.cn.pool.ntp.org
@@ -6176,7 +6175,6 @@
 815good.com
 815ybw.com
 81629.com
-81677.com
 8169.com
 817.dopa.com
 818.com
@@ -10298,7 +10296,6 @@ api.bigfun.cn
 api.biliapi.net
 api.bilibili.com
 api.biligame.com
-api.browser.miui.com
 api.bs.zui.com
 api.btstu.cn
 api.bz
@@ -10870,7 +10867,6 @@ appkaifa.com
 appkefu.189.cn
 appkefu.com
 appkg.com
-applaudads.com
 appldnld.apple.com
 appldnld.g.aaplimg.com
 apple-www.le.com
@@ -28691,7 +28687,6 @@ gecko-lq.snssdk.com
 gecko.snssdk.com
 gedoumi.com
 gedu.org
-geebook.com
 geedai.com
 geedu.com
 geeeu.com
@@ -39268,7 +39263,6 @@ jwipc.com
 jwnote.com
 jwshy.com
 jwview.com
-jwwey.com
 jwx365.com
 jwxlschool.com
 jwyun.net

@@ -28483,7 +28483,6 @@ gate.push.x.netease.com
 gateface.com
 gateway-drcn.wallet.dbankcloud.com
 gateway.battlenet.com.cn
-gateway.cdeledu.com
 gateway.fe.apple-dns.cn
 gateway.icloud.com.cn
 gateway.im.weibo.cn
@@ -43637,6 +43636,7 @@ m.acfun.cn.w.kunlunar.com
 m.ad.zhangyue.com
 m.ads.sohu.com
 m.adtiming.com
+m.ahwczn.cn
 m.aihuishou.com
 m.ailezhai.cn
 m.ajmide.com
@@ -46609,7 +46609,6 @@ mtx9j5em.sched.sma.tdnsv5.com
 mtxgx.com
 mtyee.com
 mtyun.com
-mtzc100.com
 mtzcjy.com
 mtzmyjf.com
 mtzuichen.com

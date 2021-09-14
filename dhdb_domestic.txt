@@ -4650,7 +4650,6 @@
 52ra3.com
 52rd.com
 52rental.com
-52saf.com
 52samsung.com
 52shangou.com
 52shici.com
@@ -10714,6 +10713,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -34317,7 +34317,6 @@ i8.meishichina.com
 i8i8i8.com
 i9.org
 i91pv.com
-i999d.cn
 i9iixpx2.sched.pddlego.tdnsv5.com
 i9wang.com
 ia-shenzhen.com

@@ -7753,7 +7753,6 @@
 99.cr.rs
 99.jyg9.eu.org
 9900319.com
-99003606.com
 99003885.com
 990060066.com
 990068866.com
@@ -17950,6 +17949,7 @@ api.decentralize.today
 api.dell.com
 api.demandbase.com
 api.dropboxapi.com
+api.duoben.net
 api.duoduomh.1a3.net
 api.effie.co
 api.elliehuxtable.com
@@ -42082,7 +42082,6 @@ ddnsking.com
 ddo.jp
 ddockslounge.com
 ddomb.com
-ddos.bbos301.com
 ddos.im
 ddownr.com
 ddp5e34airtsp.cloudfront.net
@@ -85946,6 +85945,7 @@ logger.goeuro.com
 logger.ivi.ru
 logger.kataweb.it
 logger.nerdwallet.com
+logger.ntracecloud.com
 logger.rm.uol.com.br
 logger.snackly.co
 logger.tv.nu
@@ -120560,6 +120560,7 @@ sbf181.com
 sbf363.com
 sbf656.com
 sbf67.com
+sbf688.com
 sbf812.com
 sbf821.com
 sbf822.com

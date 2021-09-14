@@ -15176,6 +15176,7 @@ ajur.info
 ajvzis.triumph.com
 ajyg.com
 ak-cdn.placelocal.com
+ak-fs.hypergryph.com.w.kunluncan.com
 ak-s.tripcdn.com
 ak-us-dyn.wal.co
 ak-us.wal.co
@@ -17939,7 +17940,6 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
-api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.gfe.nvidia.com
@@ -66237,7 +66237,6 @@ h5.ldvip19.com
 h5.ldvip20.com
 h5.ldvip21.com
 h5.ldvip23.com
-h5.ldvip24.com
 h5.ldvip25.com
 h5.ldvip26.com
 h5.ldvip27.com
@@ -72241,6 +72240,7 @@ illymithics.fr
 ilm.ee
 ilmeteo.it
 ilmortodelmese.com
+iln.zzjpgqd.com
 ilo134ulih.com
 ilogindustres.carte-gr.total.fr
 iloli.bid
@@ -87364,6 +87364,7 @@ m.xingxd.com
 m.xkqpco.com.com
 m.xl18.run
 m.xmasxtv.com
+m.xmgysweb.com
 m.xsjjjc.cn
 m.xt2d.cn
 m.xw294.com
@@ -96941,7 +96942,6 @@ myq-solution.com
 myq2.com
 myqnapcloud.com
 myquellehuileenstation.carte-gr.total.fr
-myqzd.com
 myradio.hk
 myrdrcts.com
 myreadingmanga.info

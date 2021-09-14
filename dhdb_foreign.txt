@@ -92725,6 +92725,7 @@ metrics.seloger.com
 metrics.sen.com.au
 metrics.sephora.com
 metrics.sfr.fr
+metrics.shangri-la.com
 metrics.sharecare.com
 metrics.shoedazzle.com
 metrics.shop.superstore.ca
@@ -94776,6 +94777,7 @@ mobilefacebook.com
 mobileforcesoftware.com
 mobilefuse.com
 mobilegamehackers.com
+mobilegw.alipay.com
 mobilegw.src.alipaydns.com
 mobilehacks.net
 mobilehacks4u.com

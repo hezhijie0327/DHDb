@@ -808,6 +808,7 @@
 100xhs.com
 100xiao.com
 100xin.com
+100xs.com
 100xuexi.com
 100ye.net
 100yigui.com
@@ -10181,6 +10182,7 @@ apgblogs.com
 apgoview.com
 aphidic.com
 api-20200527.xkspbz.com
+api-a.op-mobile.opera.com
 api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
@@ -15290,6 +15292,7 @@ ccc-x.jd.com
 ccc-x.jd.com.gslb.qianxun.com
 ccc.sys.miui.com
 ccc.x.jd.com
+ccc.xx578.com
 cccbs.net
 cccitu.com
 cccity.cc
@@ -42768,6 +42771,7 @@ log.mix.sina.com.cn
 log.mmstat.com
 log.moviebox.baofeng.com
 log.mpns.hunantv.com
+log.music.baidu.com
 log.nuomi.com
 log.nvwa.baofeng.com
 log.p2p.hunantv.com

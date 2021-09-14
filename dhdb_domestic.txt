@@ -1787,6 +1787,7 @@
 17m3.com
 17maimaimai.com
 17meiwen.com
+17mf.com
 17mqw.com
 17ms.com
 17neo.com
@@ -10337,7 +10338,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.game.letvstore.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -16286,7 +16286,6 @@ changshabdc.com
 changshang.com
 changtu.baixing.com
 changtu.com
-changtu8.com
 changweibo.net
 changxie.com
 changxing.baixing.com
@@ -22317,7 +22316,6 @@ didu86.com
 diducoder.com
 diebaosoft.com
 diebian.net
-dieclock.com
 diemameishi.com
 diershoubing.com
 difanapp.com
@@ -33541,7 +33539,6 @@ huitaoyouhui.com
 huitiankuaiji.com
 huitongqingsuan.com
 huitoubj.com
-huitouyu.com
 huitouzi.com
 huitu.com
 huiun.com
@@ -36308,6 +36305,7 @@ ioffershow.com
 ioffice100.com
 ioio.in
 ioiox.com
+ioiox.net
 iok.la
 iol8.com
 iolh2s1.cachenode.cn
@@ -49210,6 +49208,7 @@ osdsc.alicdn.com
 osechina.com
 osedu.net
 oseminfo.com
+oset-api.open-adx.com
 osfota.cdn.aliyun.com
 osg-apm.sgcc.com.cn
 osg-service.sgcc.com.cn

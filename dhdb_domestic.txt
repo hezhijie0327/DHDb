@@ -10827,6 +10827,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -22768,6 +22769,7 @@ dlnel.org
 dlpifu.com
 dlpuwan.com
 dlres.ind9ed.com
+dlrjtz.com
 dls2.bigdata.samsung.com.cn
 dlsev.boc.cn
 dlsite-zh.com
@@ -32080,7 +32082,6 @@ hifiok.com
 hifishes.com
 hifishuo.com
 hifiveai.com
-hifly.tv
 hifpga.com
 higame123.com
 higeshi.com

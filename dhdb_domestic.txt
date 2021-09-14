@@ -12711,7 +12711,6 @@ be-xx.com
 be.dpool.sina.cn
 be738b60908021c9817b0f021b69f07b.dlied1.cdntips.net
 be90.com
-beaacc.com
 beacon-api.aliyuncs.com
 beacon.ias.tencent-cloud.net
 beacon.qq.com
@@ -18661,7 +18660,6 @@ cnkitop.com
 cnkivip.net
 cnkix.com
 cnkizw.com
-cnkme.com
 cnknowledge.com
 cnkuai.com
 cnlangier.com
@@ -45530,6 +45528,7 @@ mingbianji.com
 mingcalc.com
 mingchaoonline.com
 mingchaoyouxi.com
+mingcidianzi162.cn
 mingcloud.net
 mingczh.com
 mingdao.com

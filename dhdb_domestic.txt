@@ -3495,7 +3495,6 @@
 3dinlife.com
 3dkk.com
 3dkunshan.com
-3dlvyou.com
 3dly.com
 3dmaxvip.com
 3dmgame.com
@@ -15674,6 +15673,7 @@ cdn.experiment.xiaomi.com
 cdn.fds.api.xiaomi.com
 cdn.fishtui.com
 cdn.fun
+cdn.geedarkihr.cn
 cdn.goodq.top
 cdn.goodq.top.w.kunlunso.com
 cdn.hellobike.com
@@ -18216,7 +18216,6 @@ cms.sina.cn
 cms.tanx.com
 cms.v5.juzi.cn
 cms1924.org
-cms1api.dmall.com
 cms2012.bnu.edu.cn
 cmsapi.dmall.com
 cmsapi.wifi8.com
@@ -27807,7 +27806,6 @@ fun223.com
 fun242.com
 fun379.com
 fun501.com
-fun526.com
 fun571.com
 fun702.com
 fun712.com

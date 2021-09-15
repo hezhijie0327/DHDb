@@ -10395,7 +10395,6 @@ api.lwxs99.com
 api.m.gds.taobao.com
 api.m.huya.com
 api.m.jd.com
-api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
 api.m.taobao.com
@@ -18221,6 +18220,7 @@ cms.tanx.com
 cms.v5.juzi.cn
 cms1924.org
 cms2012.bnu.edu.cn
+cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -22870,6 +22870,7 @@ dmr2kjwl.v1d.szbdyd.com
 dmr8nzrh.v1d.szbdyd.com
 dmread.com
 dmrtb.com
+dms.fx678.com
 dms.vancss.com
 dms.xuexxing.com
 dms63.he3kz8.com

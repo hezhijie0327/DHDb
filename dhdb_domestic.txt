@@ -1128,7 +1128,6 @@
 1238038.shop.liebiao.com
 123aoe.com
 123bo.com
-123cha.com
 123cw.cn
 123ems.com
 123fc.com
@@ -1257,7 +1256,6 @@
 1353305.shop.liebiao.com
 1356789.com
 1357902.cn
-1357g.com
 135bianjiqi.com
 135editor.com
 135fa.com
@@ -20107,6 +20105,7 @@ cuour-edu.com
 cuour.com
 cuour.org
 cupdata.com
+cupid.jebe.renren.com
 cupinn.com
 cuplayer.com
 curlc.com
@@ -22358,7 +22357,6 @@ dimg04.c-ctrip.com.a.bdydns.com
 dimg04.c-ctrip.com.wscdns.com
 dimg05.c-ctrip.com
 dimg05.c-ctrip.com.wscdns.com
-dimg06.c-ctrip.com
 dimg06.c-ctrip.com.wscdns.com
 dimg07.c-ctrip.com
 dimg07.c-ctrip.com.wscdns.com
@@ -28535,6 +28533,7 @@ gd-id.com
 gd-linux.com
 gd-stats.jpush.cn
 gd.10086.cn
+gd.cnhange.cn
 gd.gsxt.gov.cn
 gd.sina.com.cn
 gd.sycdn.kuwo.cn
@@ -29527,6 +29526,7 @@ govchengdu.cn
 govchongqing.cn
 govgaungzhou.cn
 govguilin.cn
+govjiangsu.cn
 govjieyang.cn
 govkunming.cn
 govmade.com
@@ -36315,6 +36315,7 @@ ios.bugly.qq.com
 ios.rqd.qq.com
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
+iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -51695,6 +51696,7 @@ ptxz.com
 ptyg.com
 ptyly.com
 ptyqm.com
+pu148.com
 pua.hk
 puaas.com
 puaihospital.net

@@ -11660,6 +11660,7 @@ b-gi.getui.com
 b-gtc.getui.com
 b-img.hoopchina.com.cn
 b.115.com
+b.16vcd.com
 b.19869.com
 b.77shw.com
 b.77vcd.com
@@ -44445,7 +44446,6 @@ market-prd-cnn1.mgmt.aibixby.com.cn
 market-proxy-qcplay.getapk.cn
 market.178.com
 market.21cn.com
-market.52pk.com
 market.console.aliyun.com
 market.ishansong.com
 market.m.qq.com
@@ -48170,7 +48170,6 @@ nr7ia8i9.sched.s2-dk.tdnsv5.com
 nrec.com
 nrsfh.com
 nrz.cc
-ns-atmosphere.com
 ns-strategy.cdn.bcebos.com
 ns-strategy.cdn.bcebos.com.a.bdydns.com
 ns-tj.wlx.tenpay.com

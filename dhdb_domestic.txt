@@ -1741,6 +1741,7 @@
 17bdc.com
 17bianji.com
 17byh.com
+17cai.com
 17caifu.com
 17ce.com
 17chezhan.com
@@ -10825,7 +10826,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-4-drcn.dbankcdn.com
@@ -26503,6 +26503,7 @@ fany-eda.com
 fanya.aichaoxing.com
 fanya.chaoxing.com
 fanyantao.com
+fanyeda.com
 fanyedu.com
 fanyi-app.baidu.com
 fanyi-cdn.cdn.bcebos.com
@@ -46161,7 +46162,6 @@ mon-hl.snssdk.com
 mon-lq.snssdk.com
 mon.ad.xelements.cn
 mon.snssdk.com
-mon.xtgreat.com
 money.163.com
 money.finance.sina.com.cn
 money.qz828.com

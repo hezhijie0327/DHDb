@@ -10395,6 +10395,7 @@ api.lwxs99.com
 api.m.gds.taobao.com
 api.m.huya.com
 api.m.jd.com
+api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
 api.m.taobao.com
@@ -21369,6 +21370,7 @@ dbh123.net
 dblgf.com
 dbmailserver.com
 dbmall.com
+dbmeinv.com
 dbrt051z.sched.sma.tdnsv5.com
 dbscar.com
 dbshop.net
@@ -35592,7 +35594,6 @@ img.yzcdn.cn
 img.zcool.cn
 img.zcool.cn.w.kunlungem.com
 img.zhls.qq.com
-img.zuowen8.com
 img.zuowenwang.net
 img.zuoyebang.cc
 img0-arch.pconline.com.cn

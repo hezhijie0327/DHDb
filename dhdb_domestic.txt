@@ -2185,6 +2185,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
+2.asia.pool.ntp.org
 2.bashenghuo.com
 2.centos.pool.ntp.org
 2.cn.pool.ntp.org
@@ -7430,7 +7431,6 @@ a.cnzz.com.gds.alibabadns.com
 a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
-a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -13565,7 +13565,6 @@ bjsdfz.com
 bjsdr.org
 bjsfrj.com
 bjsfyh.com
-bjsgycsf.com
 bjshcw.com
 bjsheng.com
 bjsjcq.com
@@ -31926,7 +31925,6 @@ hfapp-service.heweather.net
 hfbaogao.com
 hfbeta.com
 hfbz.com
-hfcn.cc
 hfcyh.com
 hffund.com
 hffunds.cn
@@ -34684,7 +34682,6 @@ idcfengye.com
 idchz.com
 idcicp.com
 idcjf.com
-idcjia.net
 idcquan.com
 idcsec.com
 idcser.com

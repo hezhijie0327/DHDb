@@ -12718,6 +12718,7 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -13689,7 +13690,6 @@ blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
-blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
 blackzs.com
@@ -34428,7 +34428,6 @@ ic2china.com
 ic37.com
 ic72.com
 ic7toa8x.sched.sma.tdnsv5.com
-ic98.com
 ic9cube.com
 ica-alliance.org
 icafe28.net

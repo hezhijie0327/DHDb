@@ -5252,6 +5252,7 @@
 6169-aimu-7ggfmae4da13977b-1256594555.tcb.qcloud.la
 6169202292971bdac853cbc88990d4cd.safeframe.googlesyndication.com
 616pic.com
+618112.com
 6187wo.com
 618cj.com
 618day.com
@@ -21501,6 +21502,7 @@ dd.iask.cn
 dd.meituan.com
 dd.mifengxiuchang.com
 dd.myapp.com
+dd.wx16999.com
 dd00c785955f2ef9e3087310b17fdfa9.dlied1.cdntips.net
 dd0ea595.qc.x.bsgslb.cn
 dd1.freep.cn
@@ -36316,7 +36318,6 @@ ios.bugly.qq.com
 ios.rqd.qq.com
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
-iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com

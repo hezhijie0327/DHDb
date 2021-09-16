@@ -672,6 +672,7 @@
 1.salesforce-partners.com
 1.soufy.cn
 1.top4top.io
+1.tuxi.com.cn
 1.win7sky.com
 1.www.s81c.com
 1.zeton.com
@@ -13434,6 +13435,7 @@ adsimilis.com
 adsinimages.com
 adsino24.com
 adsinstant.com
+adsister.com
 adsixmedia.fr
 adsjdy.com
 adsjudo.com
@@ -18013,6 +18015,7 @@ api.funcaptcha.com
 api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
+api.geetest.com
 api.gfe.nvidia.com
 api.gimbal.com
 api.github.com
@@ -23065,7 +23068,6 @@ bccfw.com
 bcchinese.net
 bccp.com
 bccp000.com
-bccp333.com
 bccp6666.com
 bccsolution.co.id
 bccyyc.com
@@ -71732,6 +71734,7 @@ iciernovacods.com
 icij.org
 icilfj.com
 icili.com
+icili.net
 icilix.com
 icis.com
 icisleri.gov.tr
@@ -83984,6 +83987,7 @@ leskins.com
 leslie-cheung.com
 lesmao.com
 lesmills.com
+lesnews.ru
 lesofaka.com
 lesoir.be
 lesoshu.com
@@ -92793,7 +92797,6 @@ metrics.readme.io
 metrics.realclearpolitics.com
 metrics.reallymoving.com
 metrics.realtor.com
-metrics.redbull.tv
 metrics.regal.es
 metrics.regions.com
 metrics.remserv.com.au
@@ -94503,7 +94506,6 @@ mkt.letgo.com
 mkt.lifesciences.neogen.com
 mkt.logi-spot.com
 mkt.marzanoresources.com
-mkt.pushspring.com
 mkt.solutiontree.com
 mkt.sparkjapan.co.jp
 mkt.tecsup.edu.pe

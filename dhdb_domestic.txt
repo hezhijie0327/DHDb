@@ -14484,7 +14484,6 @@ byzp.com
 bz-dc.3g.qq.com
 bz-e.com
 bz163.org
-bz55.com
 bzclk.baidu.com
 bzcm.net
 bzd6688.com
@@ -18380,6 +18379,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -50654,7 +50654,6 @@ pic.alipayobjects.com.danuoyi.tbcache.com
 pic.baike.soso.com
 pic.baike.soso.com.sched.px.tdnsv6.com
 pic.bdyxzx.com
-pic.c-ctrip.com
 pic.c-ctrip.com.cdn20.com
 pic.chinaz.com
 pic.chinaz.com.wscdns.com
@@ -55717,7 +55716,6 @@ ruiyunit.com
 rujiazg.com
 ruketang.com
 rulejianzhan.com
-rum8.perf.linkedin.com
 rumengtushu.suning.com
 runcome.com
 runde666.net

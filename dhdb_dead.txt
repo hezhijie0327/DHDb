@@ -399,7 +399,6 @@
 1024.05et.club
 1024mzs.pw
 1024nic.com
-1024txt.xyz
 102sihu.com
 1030car.com
 103153.com
@@ -2861,6 +2860,7 @@
 720ui.com
 723.epac.to
 723114.com
+7235671.com
 7249k.com
 726033.com
 72755m.com
@@ -14138,6 +14138,7 @@ count30.51yes.com
 count31.51yes.com
 count32.51yes.com
 count33.51yes.com
+count36.51yes.com
 count37.51yes.com
 count38.51yes.com
 count39.51yes.com
@@ -18185,6 +18186,7 @@ dx3303.com
 dx75vdl20lw12.cloudfront.net
 dx7722.com
 dx82u1pulx6jk.cloudfront.net
+dxcssc.cn
 dxg1.cc
 dxias.com
 dxkde5k4indt6.cloudfront.net
@@ -23449,7 +23451,6 @@ global-cdn.online
 global-idc.net
 global-logic-stl.com
 global-promotions.internationalredirects.com
-global-proxy.com
 global-redirect.net
 global-style.jp
 global.crypto.csgocpu.com
@@ -25067,7 +25068,6 @@ hdchd.com
 hdd2.host
 hddhhn.com
 hdggapi.com
-hditers.com
 hdjsdata.com
 hdkal67.cn
 hdketang.cn
@@ -33417,7 +33417,6 @@ m.qingzhencai.net
 m.qiyunmuye.com
 m.qj10b.cn
 m.qjah62.com
-m.qlaot.com
 m.qldua.cn
 m.qlr0d.cn
 m.qlssbq.cn
@@ -34755,7 +34754,6 @@ metric.gstatic.com
 metric.inetcore.com
 metric.print-mo.net..c.ns.emailvision.net.daraz.com
 metric.thenation.com
-metric.vodafone.com.eg
 metricode.com
 metrics-dra.dt.hicloud.com
 metrics-shell.com

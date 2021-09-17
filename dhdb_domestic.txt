@@ -9566,7 +9566,6 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
-all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all.zhihu.com.w.kunluncan.com
 all163-dxospf.split.netease.com
@@ -12680,6 +12679,7 @@ bdshuang.com
 bdsimg.com
 bdsk.a.yximgs.com
 bdskmov.a.yximgs.com
+bdsp.x.jd.com
 bdstatic.com
 bdstatic.eastmoney.com
 bdsye.com
@@ -13445,7 +13445,6 @@ bjdjc.com
 bjdllti.com
 bjdongxin.com
 bjdsppa.com
-bjdt360.com
 bjeasycom.com
 bjexmail.com
 bjexx.com
@@ -46423,6 +46422,7 @@ ms-vsliveshare.gallerycdn.azure.cn
 ms.bdimg.com
 ms.cnbanbao.com
 ms.cnczjy.com
+ms.jr.jd.com
 ms.jr.jd.com.gslb.qianxun.com
 ms.vipstatic.com
 ms.zu.anjuke.com
@@ -47043,7 +47043,6 @@ mzyfz.com
 mzyun.ren
 mzyyun.com
 mzzjw.com
-mzzjyjy.com
 n-bros.net
 n-mobile.com
 n-st.vip.com
@@ -47828,7 +47827,6 @@ niuche.com
 niucodata.com
 niudai120.com
 niudashu.com
-niudingfeng.com
 niug8.com
 niuguwang.com
 niuhudong.com
@@ -55401,7 +55399,6 @@ rnorder.kfc.com.cn
 rnstn-api.samsung.com.cn
 roadjava.com
 roadoor.com
-roadwide.net
 roaming.wps.cn
 roay.cn
 robam.com

@@ -697,7 +697,6 @@
 1.url.cn
 1.url.cn.sched.px-dk.tdnsv6.com
 1.v-x.com.cn
-1.vsimg.com
 1.weiheshidai.com
 1.wenzhangba.cn
 1.xilu.com
@@ -31851,6 +31850,7 @@ herebbs.com
 hermes-server.hupu.com
 hermes.cn
 hermes.hupu.com
+hermes.jd.com
 hermes.jd.com.gslb.qianxun.com
 heroclick.cn
 heroes.nos.netease.com
@@ -40946,6 +40946,7 @@ lai-ai.com
 laibokeji.com
 laichou.com
 laichuanfeng.com
+laidianba.net
 laidiannet.com
 laidingba.com
 laidou.wang
@@ -45156,6 +45157,7 @@ mf.atm.youku.com
 mf01.zybang.com
 mf02.zybang.com
 mf100.org
+mf35.t7wl8.cn
 mf927.com
 mfan.iclick.com.cn
 mfbgz.com

@@ -9567,6 +9567,7 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
+all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all.zhihu.com.w.kunluncan.com
 all163-dxospf.split.netease.com
@@ -13097,6 +13098,7 @@ big-bit.com
 big1.ifengcdn.com
 bigaka.com
 bigan.net
+bigbaicai.com
 bigbaicai.wang
 bigbenmeng.com
 bigbigsun.com
@@ -43701,7 +43703,6 @@ m.gexings.com
 m.gmw.cn
 m.gmw.cn.wscdns.com
 m.gotokeep.com
-m.gxkyl.com
 m.gywlwh.com
 m.haiwainet.cn
 m.hao123.com
@@ -48199,6 +48200,7 @@ nshzpks.com
 nsini.com
 nsl.lenovo.com.cn
 nsoad.com
+nsoft.vip
 nsp-hwassistant-city-drcn.obs.cn-north-2.myhuaweicloud.com
 nsp-logservice-hiview-p41-drcn.obs.cn-north-2.myhuaweicloud.com
 nsrcx.com
@@ -50179,6 +50181,7 @@ pc.wangpan.xycdn.n0808.com
 pc.weixin.qq.com
 pc.xunlei.com
 pc001.download.wh.cmcm.com
+pc0359.cn
 pc1.da.mgtv.com
 pc1.gtimg.com
 pc120.com

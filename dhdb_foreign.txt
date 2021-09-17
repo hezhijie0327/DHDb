@@ -79335,6 +79335,7 @@ jqassets.download
 jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
+jqdns1.com
 jqdnvg.com
 jqgcw.com
 jqk2me2mzf.ru
@@ -87900,6 +87901,7 @@ m2m1.inner-active.mobi
 m2pub.com
 m2track.co
 m2u.376710.com
+m3.cdn-jquery.host
 m3.com
 m32.media
 m365log.com

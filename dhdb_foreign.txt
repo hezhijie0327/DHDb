@@ -1370,7 +1370,6 @@
 155game.com
 156.55.173.61.zz.countries.nerd.dk
 156.8.189.107.zz.countries.nerd.dk
-156.n.168810.cn
 156070.com
 1565000111.com
 15650022.com
@@ -119698,6 +119697,7 @@ s3.us-east-1.amazonaws.com
 s3.us-east-2.amazonaws.com
 s3.us-west-2.amazonaws.com
 s3.video2.stream.vidzi.tv
+s3.videos.videos.vidto.me
 s3.vidtod.me
 s3.web.flashx.co
 s3.www.applications.net.daraz.com

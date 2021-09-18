@@ -11359,7 +11359,6 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
-au.download.windowsupdate.com
 au.umeng.com
 au.w.inmobi.cn
 au.youmi.net
@@ -13691,6 +13690,7 @@ blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
+blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
 blackzs.com
@@ -46945,6 +46945,7 @@ myqcloud.net
 myqee.com
 myqiantu.com
 myqqjd.com
+myqzd.com
 myra2.com
 myrb.net
 myreadme.com

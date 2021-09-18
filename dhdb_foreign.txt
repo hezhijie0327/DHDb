@@ -7477,7 +7477,6 @@
 9299.net
 92ab.playfabapi.com
 92aq.com
-92avday.com
 92byg.com
 92ccav.com
 92cloud.com
@@ -12319,6 +12318,7 @@ ads.adcorps.com
 ads.adfox.ru
 ads.adhall.com
 ads.admarvel.com
+ads.admaximize.com
 ads.administrator.de
 ads.adred.de
 ads.adroar.com
@@ -32434,6 +32434,7 @@ cfasync.ml
 cfasync.tk
 cfblob.com
 cfbond.com
+cfboo.com
 cfbwql.organifishop.com
 cfcd.duckdns.org
 cfceu.duckdns.org
@@ -42527,6 +42528,7 @@ degustalarioja.com
 dehacks.com
 dehainaut.org
 dehner.de
+dehua.ixinfan.com
 dehydratedpredestinationplenty.com
 dei-info.dei.or.jp
 deicemaptwin.com
@@ -53944,6 +53946,7 @@ fengyu.moe
 fengzhenghu.com
 fengzhenghu.net
 fengzhiyuanseal.com
+fenhao.me
 fenixm.com
 fenking.club
 fenliu.net
@@ -108805,6 +108808,7 @@ pioneerlinux.com
 pioneertimes.net
 pionline.com
 piostats.gdcorner.com
+piou.kirkir.xyz
 pip-pip-pop.com
 pipagogmercy.com
 pipe-collect.ebu.io

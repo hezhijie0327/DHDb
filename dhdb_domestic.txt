@@ -2188,7 +2188,6 @@
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
-2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -15965,6 +15964,7 @@ cef114.com
 cefc.co
 cehbh.com
 cehbk.com
+cehbs.com
 cehca.com
 cehome.com
 cehuashen.com
@@ -40263,6 +40263,7 @@ knet.cn
 knewbi.com
 knewone.com
 knewsmart.com
+knicks.jd.com.gslb.qianxun.com
 knja123.top
 knowgive.com
 knownpcb.com
@@ -50647,6 +50648,7 @@ pic.baike.soso.com
 pic.baike.soso.com.sched.px.tdnsv6.com
 pic.bdyxzx.com
 pic.c-ctrip.com.cdn20.com
+pic.casee.cn
 pic.chinaz.com
 pic.chinaz.com.wscdns.com
 pic.cnblogs.com

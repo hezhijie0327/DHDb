@@ -655,6 +655,7 @@
 1.aili.com
 1.ajiyuming.com
 1.arpun.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -3275,7 +3276,6 @@
 365care.com
 365cgw.com
 365chanlun.com
-365che.cc
 365che.net
 365daan.com
 365dhw.com
@@ -8851,6 +8851,7 @@ ahkjksw.com
 ahkjw.com
 ahkrd88.com
 ahkxsoft.com
+ahlib.com
 ahlife.com
 ahljnews.com
 ahmayun.com
@@ -11617,6 +11618,7 @@ aycav.com
 ayfy.com
 ayguge.com
 ayibang.com
+ayidada.com
 ayijx.com
 ayjs.net
 ayqy.net
@@ -13110,6 +13112,7 @@ bigcooa.xyz
 bigcoob.xyz
 bigcooc.xyz
 bigcood.xyz
+bigcooe.xyz
 bigcook.xyz
 bigcoon.xyz
 bigd.gome.com.cn
@@ -28210,7 +28213,6 @@ galaxystore.ad-survey.com
 galend.gallerycdn.azure.cn
 galiaoba.com
 galitv.alicdn.com
-galleon.dmall.com
 galleryapi.micloud.xiaomi.net
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
@@ -29782,7 +29784,6 @@ gsxt.gdgs.gov.cn
 gsxt.gzgs.gov.cn
 gsxt.hlj.gov.cn
 gsxtj.com
-gsyuanquan.com
 gszhuli.com
 gszlyy.com
 gszph.com

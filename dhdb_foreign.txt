@@ -122,6 +122,7 @@
 01-enlisted-level3.cdn.gaijin.net
 01-enlisted-stackpath.cdn.gaijin.net
 01-torte.com
+01.beeppool.org
 01.creativecdn.com
 01.gxso.net
 01001.com
@@ -5650,6 +5651,7 @@
 633ct.com
 633jjj.net
 633mmm.net
+6345345.com
 635-188.com
 6366cc.com
 6366d.com
@@ -47120,7 +47122,6 @@ e-viral.com
 e-volucion.es
 e-volution.ai
 e-webtrack.net
-e-wei.com.cn
 e-wheels.no
 e-wie-einfach.de
 e-wok.tv
@@ -79475,6 +79476,7 @@ js.monitor.azure.com
 js.mtburn.com
 js.nahnoji.cz
 js.njcn888.com
+js.novatizer.com
 js.org
 js.passaro-de-fogo.biz
 js.ptengine.jp
@@ -84802,7 +84804,6 @@ lightspeed.com
 lightspeedcash.com
 lightspeedsystems.com
 lightstream.com
-lightswitch-public-service-prod06.ol.epicgames.com
 lightversionhotel.com
 lightyearvpn.com
 ligmincha.org
@@ -87895,7 +87896,6 @@ m.yuyouge.com
 m.yzc212.com
 m.yzc369.com
 m.z0mh0u.cn
-m.zaoss.com
 m.zdjgj.cn
 m.zenwq.com
 m.zineworm.com

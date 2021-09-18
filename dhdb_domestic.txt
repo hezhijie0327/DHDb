@@ -2201,7 +2201,6 @@
 2000new.com
 200218.com
 2002326.shop.liebiao.com
-2003dns.com
 2004059.b2b.liebiao.com
 2005net.net
 2006q.com
@@ -16051,6 +16050,7 @@ cf.arctime.cn
 cf.duba.net
 cf.zaiyunli.cn
 cf027.com
+cf4w.com
 cf865.com
 cfachina.org
 cfc365.com
@@ -18938,7 +18938,6 @@ coderschool.cn
 coderxing.com
 coderyuan.com
 codesdq.com
-codesec.net
 codesky.me
 codesocang.com
 codesoft.hk
@@ -28382,6 +28381,7 @@ ganxianw.com
 ganzhe.com
 ganzhou.anjuke.com
 ganzhou.baixing.com
+gao.ynet.com
 gao3d.com
 gao4.com
 gao7.com
@@ -50810,7 +50810,6 @@ pig66.com
 pigai.org
 pigcms.com
 pigeon.sina.cn
-pigewang.com.cn
 pigjian.com
 pigqq.com
 pigvideo.cn

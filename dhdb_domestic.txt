@@ -4499,6 +4499,7 @@
 520apk.com
 520cai.net
 520cfc.com
+520code.cc
 520discount.com
 520fx.com
 520hhht.com
@@ -32639,7 +32640,6 @@ homekoo.com
 homekoocdn.com
 homelnns.com
 homenew.console.aliyun.com
-homepage-gw.jd.com
 homepage-gw.jd.com.gslb.qianxun.com
 hometeda.com
 hometex114.com
@@ -42403,7 +42403,6 @@ live-pull-bytedance-sched.jcloudimg.com
 live-pull-sched.jcloudimg.com
 live-pull2-jd-sched.jcloudimg.com
 live-push-sched.jcloud-cdn.com
-live-s3m.mediav.com
 live-s3m.mediav.com.w.alikunlun.com
 live-spare.alicdn.com
 live-spare.alicdn.com.danuoyi.tbcache.com
@@ -51428,7 +51427,6 @@ ppvabs.pplive.com
 ppvi.net
 ppwan.com
 ppxclub.com
-ppxhw.com
 ppys.net
 ppzhan.com
 ppzhilian.com

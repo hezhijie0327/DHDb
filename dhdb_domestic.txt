@@ -8171,6 +8171,7 @@ ad.dzwindows.com
 ad.dzwww.com
 ad.egou.com
 ad.exyws.org
+ad.fglighting.net
 ad.fx168api.com
 ad.gamebox.360.cn
 ad.ganji.com
@@ -15900,6 +15901,7 @@ cdyimei.com
 cdyou.net
 cdyuanhang.com
 cdyushun.com
+cdywgou.com
 cdyzg.com
 cdzdhx.com
 cdzgh.com
@@ -18369,6 +18371,7 @@ cn.launcher.battlenet.com.cn
 cn.letou118.net
 cn.linkedin.com
 cn.made-in-china.com
+cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.ntp.org.cn
 cn.pandora.net
@@ -28038,7 +28041,6 @@ fzrsrc.com
 fzyfan.com
 fzyfan.net
 fzyfs.net
-g-film.com
 g-live.easyliao.com
 g-photography.net
 g-search1.alicdn.com
@@ -51213,6 +51215,7 @@ polayoutu.com
 pole.6rooms.com
 policy-cde.le.com
 policy.jd.com
+policy.jd.com.gslb.qianxun.com
 policy.video.iqiyi.com
 policy.video.ptqy.gitv.tv
 polingba.com

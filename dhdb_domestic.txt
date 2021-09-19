@@ -1996,7 +1996,6 @@
 1999019.com
 1999year.com
 199b60221bf2ecb5c79c07dada18e329.safeframe.googlesyndication.com
-199cjcy.com
 199it.com
 199u2.com
 199yt.com
@@ -46464,6 +46463,7 @@ msdn.itellyou.cn.w.kunluncan.com
 mse.jd.com
 msearch.51job.com
 mseddl.gitee.io
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
@@ -50164,7 +50164,6 @@ pb.i.sogou.com
 pb.jd.com
 pb.sogou.com
 pb.sys.pp8.com
-pb.wang502.com
 pb1.pstatp.com
 pb1.qujishu.com
 pb10.sogou.com

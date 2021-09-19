@@ -1902,7 +1902,6 @@
 1888.com.mo
 1888039.b2b.liebiao.com
 188app.xyz
-188cf.net
 188diaoche.com
 188doc.com
 188lanxi.com
@@ -15564,7 +15563,6 @@ cdlaobing.com
 cdlbyl.com
 cdlfvip.com
 cdlgame.com
-cdlinli.com
 cdlxqn.com
 cdmm.net
 cdmoz.org
@@ -22627,7 +22625,6 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
-dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -25224,7 +25221,6 @@ efashionchina.com
 efb2eacbcf3d4fabf366d149489760cd.dlied1.cdntips.net
 efe-h2.cdn.bcebos.com
 efe25.t7wl8.cn
-efenboo.com
 efengji.org
 efesco.com
 eff-soft.com
@@ -50675,6 +50671,7 @@ pic.chinaz.com.wscdns.com
 pic.cnblogs.com
 pic.cnmo-img.com.cn
 pic.cubejoy.com
+pic.downk.cc
 pic.ea3w.com
 pic.eroacg.com
 pic.fancyapi.com

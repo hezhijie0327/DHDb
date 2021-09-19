@@ -18086,7 +18086,6 @@ api.funcaptcha.com
 api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
-api.geetest.com
 api.gfe.nvidia.com
 api.gimbal.com
 api.github.com
@@ -22026,6 +22025,7 @@ bae5tracker.com
 baesystems.com
 baetrf.com
 bafafafa.com
+bafangka.com
 bafatw.futurumshop.nl
 bag-smoot.v.aaplimg.com
 bag.itunes.apple.com
@@ -25891,6 +25891,7 @@ blog.anank.ke
 blog.anoonclearing.com
 blog.arquitetofabiopalheta.com
 blog.athletehumanity.org
+blog.beeppool.org
 blog.bengmugenr.com
 blog.bestcs.in
 blog.binux.me
@@ -49054,6 +49055,7 @@ eic-av.com
 eicbs.com
 eichwege.net.daraz.com
 eicyds.qoo10.jp
+eid.jd.com
 eidebailly.com
 eider.com
 eieye.cn
@@ -65888,6 +65890,7 @@ grpc.termius.com
 grptrker.com
 grrrgraphics.com
 grs.dbankcloud.asia
+grs.dbankcloud.com
 grss-ieee.org
 grt02.com
 grteab.com
@@ -66054,6 +66057,7 @@ gsxjkn.electronic-star.hu
 gsxzq.com
 gsycdb.com
 gsyegj.shatura.com
+gt000111.com
 gt1111.com
 gt1n.com
 gt4499.com
@@ -77173,6 +77177,7 @@ istanaiklan.com
 istanaimpian1.com
 istanaimpian2.com
 istanaimpian3.com
+istars.co.nz
 istartsurf.com
 istat.biz
 istat24.com
@@ -87894,6 +87899,7 @@ m.maopuzw.com
 m.marketfinance.com
 m.mb.mypop3.net
 m.mbetxapp36.com
+m.mcnnic.com
 m.me
 m.media-amazon.com
 m.mfufanj.cn
@@ -103491,6 +103497,7 @@ oms.todaysparent.com
 oms.travelocity.ca
 oms.travelocity.com
 oms.tsc.ca
+oms.venere.com
 oms.wsj.com
 oms1.sportsnet.ca
 oms6.dhcp.biz

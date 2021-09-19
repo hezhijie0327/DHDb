@@ -10712,7 +10712,6 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -10748,6 +10747,7 @@ app.knights.mi.com
 app.kwaixiaodian.com
 app.lz55.cn
 app.m.letv.com
+app.market.xiaomi.com
 app.mengtuiapp.com
 app.mi.com
 app.moji001.com
@@ -24357,6 +24357,7 @@ dxpmedia.com
 dxqzsw.com
 dxrc.com
 dxrxaw.tdum.alibaba.com
+dxsaxw.com
 dxsbb.com
 dxsckj.com
 dxsclass.com

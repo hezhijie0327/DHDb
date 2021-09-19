@@ -13763,7 +13763,6 @@ blogxuan.com
 bloves.com
 blpack.com
 blqy.com
-blskye.com
 blue-city.com
 blue-zero.com
 bluebeebox.com
@@ -25303,7 +25302,6 @@ ei6nd.com
 eiabbs.net
 eickaopei.com
 eicp.net
-eid.jd.com
 eid.jd.com.gslb.qianxun.com
 eidlink.com
 eidv2.jd.com
@@ -41260,6 +41258,7 @@ lbs.pandora.xiaomi.com
 lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
+lbsgd.m.jd.com.gslb.qianxun.com
 lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com

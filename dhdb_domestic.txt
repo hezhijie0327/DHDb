@@ -22619,6 +22619,7 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
+dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -26392,7 +26393,6 @@ fangjs.com
 fangkebao.cc
 fangkeduo.net
 fangkewang.com
-fangkuaitang.com
 fangkuaiwang.com
 fangkuaiyi.com
 fangle.com
@@ -32266,6 +32266,7 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -41247,7 +41248,6 @@ lbs.pandora.xiaomi.com
 lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
-lbsgd.m.jd.com.gslb.qianxun.com
 lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
@@ -47248,6 +47248,7 @@ natqs.bealge.sogou.com
 naturali.io
 nature-museum.net
 natywish.com
+nav.cn.ronghub.com
 navchina.com
 navigis.uc.cn
 navimentum.com

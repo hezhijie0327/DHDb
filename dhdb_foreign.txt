@@ -13303,6 +13303,7 @@ adserver.isonews.com
 adserver.janes.com
 adserver.janes.org
 adserver.jolt.co.uk
+adserver.juicyads.com
 adserver.karamco.dk
 adserver.killeraces.com
 adserver.kimia.es
@@ -49065,6 +49066,7 @@ ekansovi.com
 ekantipur.com
 ekccu.com
 ekeide.com
+ekfe.tmmjgcp.cn
 ekfwof.finnishdesignshop.fi
 ekg.riotgames.com
 ekglgl.galacentre.ru
@@ -86068,6 +86070,7 @@ log.logrocket.io
 log.ma-jin.jp
 log.mappy.net
 log.medietall.no
+log.molitv.cn
 log.mp3.zing.vn
 log.netsoft2012.com
 log.news.zing.vn
@@ -102525,6 +102528,7 @@ odhavnidhi.org
 odict.net
 odiiibo.intheold.com
 odin.adobe.com
+odin.goo.mx
 odin3.en.lo4d.com
 odinkod.ru
 odinliu.com
@@ -112102,7 +112106,6 @@ protection.mepolice.com
 protection.mnpolice.com
 protection.napolice.com
 protection.ncpolice.com
-protection.nzpolice.com
 protection.papolice.com
 protection.pgpolice.com
 protection.sbpolice.com

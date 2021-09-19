@@ -32645,6 +32645,7 @@ homekoo.com
 homekoocdn.com
 homelnns.com
 homenew.console.aliyun.com
+homepage-gw.jd.com
 homepage-gw.jd.com.gslb.qianxun.com
 hometeda.com
 hometex114.com
@@ -34529,7 +34530,6 @@ ichww.com
 ichzh.com
 iciba.com
 icicicic.com
-icidc.com
 icifit.com
 icignacmb.com
 icinfo.net
@@ -46478,7 +46478,6 @@ msg.csdn.net
 msg.douyu.com
 msg.eclicks.cn
 msg.iqiyi.com
-msg.m.jd.com
 msg.m.jd.com.gslb.qianxun.com
 msg.mobile.kugou.com
 msg.ptqy.gitv.tv

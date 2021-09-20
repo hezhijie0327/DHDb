@@ -399,6 +399,7 @@
 05et.com
 05ia.club
 05tz2e9.com
+05vm.com
 05xam.me
 05yun.cn
 0601824.com
@@ -47425,6 +47426,7 @@ e1875.dscg.akamaiedge.net
 e1875.g.akamaiedge.net
 e1890.dscx.akamaiedge.net
 e18a97eee94d0f2519.com
+e19.entrychat.com
 e19210.b.akamaiedge.net
 e19235.dsca.akamaiedge.net
 e19254.ca.s.tl88.net
@@ -70673,7 +70675,6 @@ httpaccess.com
 httpads.com
 httpbaidu.com
 httpdns.ocloud.heytapmobi.com
-httpdns.push.heytapmobi.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
 httpool.com

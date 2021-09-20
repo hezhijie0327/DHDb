@@ -23374,7 +23374,6 @@ download.visualstudio.microsoft.com
 download.vzuu.com
 download.wan.sohu.com
 download.wegame.qq.com
-download.windowsupdate.com
 download.xmcdn.com
 download.xp666.com
 download.yuelun.com
@@ -43886,6 +43885,7 @@ m.zhangyue.com
 m.zhaokaoti.com
 m.zhipin.com
 m.zhuxiaobang.com
+m.zkwsdf.com
 m.zol.com.cn
 m.zs-hospital.sh.cn
 m.zzchuy.cn

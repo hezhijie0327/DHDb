@@ -35547,6 +35547,7 @@ img.samsungapps.com
 img.scoregg.com
 img.sogoucdn.com
 img.sogoucdn.com.p23.tc.cdntip.com
+img.srxjz.cn
 img.ssl.msdk.qq.com
 img.ssl.msdk.qq.com.x2.sched.dcloudstc.com
 img.sysgeek.cn
@@ -48498,6 +48499,7 @@ ocsp.digicert.cn.w.cdngslb.com
 ocsp.pki.goog
 ocsp.us.cdnetworks.com
 ocsp2-lb.apple.com.akadns.net
+ocsp2.apple.com
 ocsp2.g.aaplimg.com
 ocsp3.sheca.com
 oct-and.com

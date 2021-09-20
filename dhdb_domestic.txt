@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0-gold.net
-0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
 0.up.qingdaonews.com
@@ -7316,6 +7315,7 @@
 9juewu.com
 9juren.com
 9jx.com
+9k51.com
 9k9by.com
 9k9k.com
 9kd.com
@@ -11489,6 +11489,7 @@ av1.xdrig.com
 av1.xdrig.com.td.fusion.iaas.jdcloud.com
 av199.com
 av269.com
+av30.net
 av380.net
 availability.fe.apple-dns.cn
 avanpa.com

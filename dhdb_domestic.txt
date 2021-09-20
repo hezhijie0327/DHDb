@@ -2279,6 +2279,7 @@
 211-95-34-3.ksyungslb.com
 211-95-34-4.ksyungslb.com
 211-95-34-5.ksyungslb.com
+2110000.com
 2110531.b2b.liebiao.com
 2112477.b2b.liebiao.com
 2113754.b2b.liebiao.com
@@ -27299,7 +27300,6 @@ flash.sec.miui.com
 flash2-http.qq.com
 flash8.net
 flash8f.com
-flashgene.com
 flashgoing.com
 flashmemoryworld.com
 flashv8.com
@@ -28214,6 +28214,7 @@ galaxystore.ad-survey.com
 galend.gallerycdn.azure.cn
 galiaoba.com
 galitv.alicdn.com
+galleon.dmall.com
 galleryapi.micloud.xiaomi.net
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
@@ -29182,7 +29183,6 @@ globalcdnweb.qiniu.com.w.kunlunar.com
 globalcompressor.com
 globaldangdang.hk
 globaletrust.com
-globalflyingmagazine.com
 globalhardwares.com
 globalimporter.net
 globalizex.com

@@ -4373,6 +4373,7 @@
 4612.yzc596.com
 4616-1.global1cdn.com
 461683.com
+4619940.com
 4623166.com
 462546.com
 466453.com
@@ -4422,7 +4423,6 @@
 4831519.com
 48331375c351e.com
 484.ddns.ms
-4845035.com
 484512.shop.cnlist.org
 485ka.com
 4862317.com
@@ -33815,6 +33815,7 @@ ci-lib-ln-2.net.daraz.com
 ci-marketing.de
 ci-ns1.viviotech.net.daraz.com
 ci.appveyor.com
+ci.beeppool.org
 ci.etowns.net
 ci.phncdn.com
 ci.phprcdn.com
@@ -45501,6 +45502,7 @@ dontfilter.us
 donttrack.us
 dontwatch.us
 donxtv.site
+doo.idv.tw
 doo6pwib3qngu.cloudfront.net
 dood.watch
 doodlemobile.com
@@ -47254,6 +47256,7 @@ e.e7001.com
 e.e70123.com
 e.ediun.com
 e.enjuk.com
+e.epanr.com
 e.equuscs.com
 e.fcunq.com
 e.fdm.dk
@@ -66401,7 +66404,6 @@ guycarp.com
 guyexl.oogvoororen.nl
 guyuenglish.com
 guzijie.top
-guzoku.net
 gv.com
 gv104.com
 gv520.com
@@ -79579,6 +79581,7 @@ js.ad-stir.com
 js.adlink.net
 js.adsrvr.org
 js.appboycdn.com
+js.blogdaka.cc
 js.blozoo.info
 js.braintreegateway.com
 js.brow.si
@@ -85624,6 +85627,7 @@ liuruiyi.com
 liushuba.com
 liut.xyz
 liuxiaobo.net
+liuxiaoer.com
 liuxiaolingtong.com
 liuxinzhou.com
 liuxue.stellour.com
@@ -122713,6 +122717,7 @@ seed-9.nimiq.network
 seed-can-1.inf.nimiq.network
 seed-can-2.inf.nimiq.network
 seed-city.com
+seed-deu-1.inf.nimiq.network
 seed-deu-4.inf.nimiq.network
 seed-fra-1.inf.nimiq.network
 seed-fra-3.inf.nimiq.network

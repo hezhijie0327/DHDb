@@ -1877,7 +1877,6 @@
 4608.hk
 4616-1.global-cdn.online
 46186911.vtt
-4619940.com
 4641860dccfec2cc655c3aae931481d2.jddebug.com
 4661056.com
 466128.com
@@ -1900,6 +1899,7 @@
 48.2mydns.net
 4828229.com
 482t.com
+4845035.com
 4888jp.com
 4889260.com
 48hrcodes.com
@@ -12766,7 +12766,6 @@ chyatikho.info
 chydomir.ru
 chygam.ru
 ci.25u.com
-ci.beeppool.org
 ci.csefaazc.net
 ci.intuit.com
 ci.nii.ac.jp
@@ -17490,7 +17489,6 @@ dontaxoaf.com
 dontblockme.modaco.com
 dontibar.com
 dontmovetochina.com
-doo.idv.tw
 dood.video
 doogleonduty.com
 dookhub.com
@@ -18432,7 +18430,6 @@ e.enjuw.com
 e.ennmt.com
 e.eoeoev.cn
 e.eozozw.cn
-e.epanr.com
 e.eqiuy.com
 e.eshuy.com
 e.evpywi.cn
@@ -24203,6 +24200,7 @@ guyiyangsd.com
 guyouzhan.com
 guzaosf.com
 guzgame.com
+guzoku.net
 guzzservices.com
 gvahh.top
 gvapp.ru
@@ -29101,7 +29099,6 @@ js.avstats.com
 js.baytorrent.eu.org
 js.bju888.com
 js.blog-daka.com
-js.blogdaka.cc
 js.bxwns.com
 js.bxwxtxt.com
 js.cccrir.com
@@ -39571,7 +39568,6 @@ phgs001.us
 phhitgjxsit.com
 phicdn.net
 phichaus.top
-philanthropy.xin
 philpool.com
 phimmedia03.com
 phinker.ru
@@ -44123,7 +44119,6 @@ seed-9.nimiq.net
 seed-can-1.inf.nimiq.net
 seed-can-2.inf.nimiq.net
 seed-deu-1.inf.nimiq.net
-seed-deu-1.inf.nimiq.network
 seed-deu-2.inf.nimiq.net
 seed-deu-2.inf.nimiq.network
 seed-deu-3.inf.nimiq.net

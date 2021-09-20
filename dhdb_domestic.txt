@@ -10341,6 +10341,7 @@ api.fd.mob.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -10711,6 +10712,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -29016,7 +29018,6 @@ gif.lu.sogoucdn.com
 gif5.net
 gifcool.com
 gifmiao.com
-gifms.com
 gifshow-vod-gd.b0.aicdn.com
 gifshow.b0.aicdn.com
 gifshow.com

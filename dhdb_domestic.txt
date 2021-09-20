@@ -4059,6 +4059,7 @@
 5199658.com
 519rv.com
 51ade.com
+51ads.com
 51aimei.com
 51aiwan.com
 51anidea.com
@@ -7537,6 +7538,7 @@ a1.ifengimg.com
 a1.img.static.youmi.net
 a1.itc.cn
 a1.liuxue86.com
+a1.lmaq.cn
 a1.lshou.com
 a1.mingyihui.net
 a1.openxt.cn
@@ -10710,7 +10712,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -11363,6 +11364,7 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
+au.download.windowsupdate.com
 au.umeng.com
 au.w.inmobi.cn
 au.youmi.net
@@ -47647,6 +47649,7 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
+nex.163.com
 nexstep.zdworks.com
 next-union.com
 next.api.aliyun.com
@@ -47670,6 +47673,7 @@ nfcmag.com
 nfcws.hicloud.com
 nffair.com
 nffund.com
+nfh.cnshef.com
 nfjt.net
 nflchina.com
 nfmedia.com

@@ -29333,7 +29333,6 @@ goke.com
 gokols.com
 gokuai.com
 golang.google.cn
-golang123.com
 golangapi.com
 golangweb.com
 golaravel.com
@@ -43824,6 +43823,7 @@ m.sp.17house.com
 m.static.xitongzhijia.net
 m.suning.com
 m.suofeiyashop.com
+m.sztjdz.com.cn
 m.tansuotv.com
 m.taobao.com
 m.tech.china.com
@@ -48004,6 +48004,7 @@ nmmwz.com
 nmobi.kuwo.cn
 nmpcdn.com
 nmsearch.kuwo.cn
+nmszjy.com
 nmtyxy.com
 nmweidian.com
 nmzh.net

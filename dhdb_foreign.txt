@@ -2245,6 +2245,7 @@
 2.biqle.ru
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
+2.centos.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.courier2-push-apple.com.akadns.net
 2.cr.rs
@@ -22386,7 +22387,6 @@ banicywan.com
 banik.redigy.cz
 banjuanmao.com
 bank-swift-code.info
-bankaiyuan.com
 bankatfirst.com
 bankaustria.at
 bankdirect.com
@@ -31828,7 +31828,6 @@ cdn.fastclick.net
 cdn.flashtalking.com
 cdn.frankerfacez.com
 cdn.freefarcy.com
-cdn.freehas.com
 cdn.freejars.com
 cdn.freejax.com
 cdn.freelac.com
@@ -47337,6 +47336,7 @@ e.60sk.ru
 e.7clink.com
 e.958so.cn
 e.ac56.xyz
+e.acaox.com
 e.aganj.com
 e.apsalar.com
 e.apxyz.com
@@ -66847,7 +66847,6 @@ h.v.gp
 h0.t.hubspotemail.net
 h00c.sfr.fr
 h00t.ca
-h01ce.cn
 h090909.com
 h0930.com
 h1.elf168.net
@@ -78505,7 +78504,6 @@ jbo86.com
 jbo87.com
 jbo8822.com
 jbo8877.com
-jbo9.com
 jboss.org
 jboviet.com
 jbovietnam.com

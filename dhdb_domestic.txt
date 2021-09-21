@@ -10342,7 +10342,6 @@ api.fd.mob.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -11125,7 +11124,6 @@ arup.m.taobao.com
 arvato-ocs.com
 arvinhk.com
 aryasec.com
-arygames.com
 as-doll.com
 as-exchange.com
 as-hitech.com
@@ -28603,7 +28601,6 @@ gdliontech.com
 gdloc.qchannel03.cn
 gdlppow.com
 gdmappress.com
-gdmingshizx.com
 gdmm.com
 gdmoa.org
 gdmschina.com
@@ -40719,6 +40716,7 @@ kupao.com
 kuparts.com
 kupoo.com
 kuqi.com
+kurongdai.com
 kurukurumi.com
 kusdk.com
 kushou.com
@@ -56896,7 +56894,6 @@ search.51job.com
 search.51job.com.51jobdns.com
 search.appstore.vivo.com.cn
 search.bilibili.com
-search.browser.miui.com
 search.cdn.huya.com
 search.dangdang.com
 search.dpool.sina.com.cn

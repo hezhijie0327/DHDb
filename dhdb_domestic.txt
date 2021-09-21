@@ -2186,6 +2186,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
+2.asia.pool.ntp.org
 2.bashenghuo.com
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -28474,6 +28475,7 @@ gate.push.x.netease.com
 gateface.com
 gateway-drcn.wallet.dbankcloud.com
 gateway.battlenet.com.cn
+gateway.cdeledu.com
 gateway.fe.apple-dns.cn
 gateway.icloud.com.cn
 gateway.im.weibo.cn

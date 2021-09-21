@@ -21179,6 +21179,7 @@ data.biancheng.net.w.kunlunno.com
 data.bilibili.com
 data.bilicdn2.com
 data.bilivideo.com
+data.cdeledu.com
 data.chinaz.com
 data.choujue.net
 data.danmu.baofeng.com
@@ -25795,7 +25796,6 @@ esnai.com
 esnai.net
 esoboy.com
 esoogle.com
-esouou.com
 esoyu.com
 espier.mobi
 esports-cdn.namitiyu.com
@@ -27924,7 +27924,6 @@ fw-biotech.com
 fw4.me
 fwcdn.com
 fwcdn.net
-fwdns.net
 fwdq.com
 fwjia.com
 fwone.com
@@ -37893,7 +37892,6 @@ jinbiaohui.com
 jinbifun.com
 jinbilianmeng.com
 jinbitou.net
-jinchaodengji.com
 jinchuan2014.com
 jinchuang.org
 jinchutou.com

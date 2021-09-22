@@ -654,7 +654,6 @@
 1.aili.com
 1.ajiyuming.com
 1.arpun.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -4582,7 +4581,6 @@
 52edy.com
 52enku.com
 52fangzi.com
-52flac.com
 52foto.com
 52fuqing.com
 52fuqu.com
@@ -18380,7 +18378,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -46455,6 +46452,7 @@ msg.csdn.net
 msg.douyu.com
 msg.eclicks.cn
 msg.iqiyi.com
+msg.m.jd.com
 msg.m.jd.com.gslb.qianxun.com
 msg.mobile.kugou.com
 msg.ptqy.gitv.tv

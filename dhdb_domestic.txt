@@ -20402,6 +20402,7 @@ d.ifengimg.com
 d.jd.com
 d.jd.com.gslb.qianxun.com
 d.jjyx.com
+d.kugou.com
 d.mingyihui.net
 d.miwifi.com
 d.mob.com
@@ -23207,7 +23208,6 @@ dotserver.douyucdn.cn.w.cdngslb.com
 dotui.cn
 douban.com
 douban.fm
-doubaojf.com
 doubean.com
 doubi.ren
 doubimeizhi.com
@@ -42814,7 +42814,6 @@ loginserver.kuwo.cn
 loginxian.leiting.com
 logistics-mrd.jd.com
 logistics-mrd.jd.com.gslb.qianxun.com
-logman.dmall.com
 logmonitor.leiting.com
 logo123.net
 logo33.com
@@ -52112,7 +52111,6 @@ py40.com
 py6.com
 pyadx.com
 pyasfunds.com
-pydef.com
 pyer.site
 pyhead.com
 pyjia.com

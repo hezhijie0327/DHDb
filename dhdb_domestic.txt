@@ -2471,6 +2471,7 @@
 233fe74fb3ae83d76629e5e5cd504e89.v.smtcdns.net
 233py.com
 233wo.com
+233xyx.com
 2341879.shop.liebiao.com
 2342877.b2b.liebiao.com
 2345.cc
@@ -10709,6 +10710,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -51958,6 +51960,7 @@ push.khd.2345.cc
 push.ksapisrv.com
 push.kwd.inkuai.com
 push.m.youku.com
+push.mobile.kugou.com
 push.my.tv.sohu.com
 push.pgl.qq.com
 push.res.meizu.com

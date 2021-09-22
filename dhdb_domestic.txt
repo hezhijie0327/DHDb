@@ -654,6 +654,7 @@
 1.aili.com
 1.ajiyuming.com
 1.arpun.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -14557,7 +14558,6 @@ c.ctc.w.ximalaya.com
 c.cyhx98.com
 c.d3iz9md.com
 c.data.mob.com
-c.drawenjoy.cn
 c.dun.163.com
 c.duomai.com
 c.eqxiu.com
@@ -16423,7 +16423,6 @@ cheari.com
 chebaba.com
 chebada.com
 checheboke.com
-chechong.com
 check.shareinstall.com.cn
 checkin.gstatic.com
 checkip.pw
@@ -18378,6 +18377,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -21541,7 +21541,6 @@ ddle.cc
 ddmap.com
 ddmeishi.com
 ddmer.com
-ddms.jd.com
 ddms.jd.com.gslb.qianxun.com
 ddmyapp.wscdn.tcdn.qq.com
 ddmyapp.wscdn.tcdn.qq.com.lxdns.com

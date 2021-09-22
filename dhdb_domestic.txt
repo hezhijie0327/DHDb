@@ -35465,6 +35465,7 @@ img.gmw.cn
 img.guiderank-app.com
 img.gxhxmy88.com
 img.hbxhda.com
+img.hcwifi.cn
 img.hdslb.com
 img.houzi8.com
 img.hunantv.com
@@ -40155,7 +40156,6 @@ kk50.com
 kk520.com
 kkapp.com
 kkazrpqy.sched.ttddy.tdnsv5.com
-kkcache.com
 kkcaicai.com
 kkcapture.com
 kkcodes.com
@@ -42388,6 +42388,7 @@ live-pull-bytedance-sched.jcloudimg.com
 live-pull-sched.jcloudimg.com
 live-pull2-jd-sched.jcloudimg.com
 live-push-sched.jcloud-cdn.com
+live-s3m.mediav.com
 live-s3m.mediav.com.w.alikunlun.com
 live-spare.alicdn.com
 live-spare.alicdn.com.danuoyi.tbcache.com

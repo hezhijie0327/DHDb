@@ -2034,7 +2034,6 @@
 1cmplus.com
 1cnw.com
 1ctc.sfr.fr
-1d18b.com
 1d33f74a26b4b5f26b52929bbbb9e215.clo.footprintdns.com
 1d4.us
 1db96f2d5fce09432b0d584ba678af7a.clo.footprintdns.com
@@ -18139,6 +18138,7 @@ api.funcaptcha.com
 api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
+api.geetest.com
 api.gfe.nvidia.com
 api.gimbal.com
 api.github.com
@@ -68239,7 +68239,6 @@ heartyit.com
 heat6have.com
 heatbeat.de
 heatbook.com.hk
-heathnews.xyz
 heatholders.com
 heathrow.com
 heathrowexpress.com
@@ -72111,6 +72110,7 @@ ibxlink.com
 ic-medical-clinic.com
 ic.ac.uk
 ic.aliyune.xyz
+ic.aliyuni.xyz
 ic.etowns.net
 ic.slyip.net
 ic.tynt.com

@@ -57704,6 +57704,7 @@ ftp.bmp.ovh
 ftp.cc
 ftp.cdn.xcdn.top
 ftp.chromeburner.com
+ftp.coinlab.biz
 ftp.collabvm.ml
 ftp.freecontent.info
 ftp.freecontent.net
@@ -72462,6 +72463,7 @@ idolbucks.com
 idolranking.info
 idom.me
 idomb.com
+idot.cz
 idotools.com
 idou.me
 idouba.net
@@ -91315,6 +91317,7 @@ mc.corel.com
 mc.jling.dev
 mc.mmkkhhnn.cn
 mc.webvisor.com
+mc.webvisor.org
 mc.yandex.com
 mc.yandex.md
 mc.yandex.ru
@@ -110758,6 +110761,7 @@ pool.graft.hashvault.pro
 pool.minexmr.com
 pool.nimiq-network.com
 pool.nimiq.watch
+pool.ntp.org
 pool.supportxmr.com
 pool.tdcoincore.org
 pool.torrent.pw

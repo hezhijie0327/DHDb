@@ -841,7 +841,6 @@
 108-177-122-104.dynamic-ip.hinet.net
 108.46.173.220.zz.countries.nerd.dk
 1080872514.rsc.cdn77.org
-1089827.com
 108cun.com
 109.62.92.106.zz.countries.nerd.dk
 1090ys.com
@@ -13322,7 +13321,6 @@ adserver.developersnetwork.com
 adserver.diariodosertao.com.br
 adserver.digitoday.com
 adserver.directforce.com
-adserver.directforce.net
 adserver.dotmusic.com
 adserver.echdk.pl
 adserver.ekokatu.com
@@ -23816,7 +23814,6 @@ beemrdwn.com
 beemtube.com
 been.com
 beencounter.com
-beenmeekwarmth.casa
 beeopyer.com
 beepartners.vc
 beepool.org
@@ -70921,6 +70918,7 @@ httpaccess.com
 httpads.com
 httpbaidu.com
 httpdns.ocloud.heytapmobi.com
+httpdns.push.heytapmobi.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
 httpool.com
@@ -85712,7 +85710,6 @@ linkscholar.org
 linkshare.com
 linkshekon.co.cc
 linkshighway.com
-linkshowoff.com
 linkslot.ru
 linksmart.com
 linksoftwarellc.com
@@ -89081,7 +89078,6 @@ mailagent.ro
 mailboxmeeting.com
 mailbrew.com
 mailchimp.com
-maildns.xyz
 maileon.com
 mailer.univar.com
 mailer.univarsolutions.com

@@ -10486,7 +10486,6 @@ api.tv.sohu.com
 api.tw06.xlmc.sandai.net
 api.tw06.xlmc.sec.miui.com
 api.udache.com
-api.ujian.cc
 api.union.vip.com
 api.unipay.qq.com
 api.uniplayad.com
@@ -27557,6 +27556,7 @@ fp.czvv.com
 fp.fraudmetrix.cn
 fp.hwwt8.com
 fp.nanrenwo.net
+fp.ps.netease.com
 fp.tongdun.net
 fpb.docin.com
 fpb.sohu.com
@@ -31766,6 +31766,7 @@ helplinfen.com
 helpton.com
 heluo.cc
 hemabt.com
+hemadaili.com
 hemamax.com
 hemaos.com
 hemashare.cn
@@ -37265,7 +37266,6 @@ jcwgk.com
 jcwxiao.com
 jcyes.com
 jcyx2019.com
-jczhijia.com
 jczhiyao.com
 jd-88.com
 jd-app.com
@@ -46154,7 +46154,6 @@ monitor.yigao.com
 monitor2.tgp.qq.com
 monitorapim1g.mathpool.cn
 monitorapim2g.mathpool.cn
-monitoring.cn1.modix.biz
 monph.com
 monseng.com
 monsooncvs.com
@@ -55888,6 +55887,7 @@ s.qhupdate.com
 s.renren.com
 s.search.bilibili.com
 s.share.baidu.com
+s.signstu.top
 s.ssl.qhimg.com
 s.ssl.qhres2.com
 s.taobao.com

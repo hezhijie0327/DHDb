@@ -28472,7 +28472,6 @@ gate.push.x.netease.com
 gateface.com
 gateway-drcn.wallet.dbankcloud.com
 gateway.battlenet.com.cn
-gateway.cdeledu.com
 gateway.fe.apple-dns.cn
 gateway.icloud.com.cn
 gateway.im.weibo.cn
@@ -48101,7 +48100,6 @@ notedeep.com
 noteniu.com
 notetech.org
 noteyd.chaoxing.com
-nothing.la
 notice.chaoxing.com
 notice.iqiyi.com
 notice.wps.cn

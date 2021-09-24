@@ -802,7 +802,6 @@
 100tone.com
 100txy.com
 100wa.com
-100wen.cc
 100wen.com
 100xhs.com
 100xiao.com
@@ -5622,7 +5621,6 @@
 716713d2033bf3ac017a9726ba500531.safeframe.googlesyndication.com
 71714.com
 718e31e8894454e98bf531c997f4e6fb.dlied1.cdntips.net
-7190.cc
 71908.com
 7192.com
 71baomu.com
@@ -15735,7 +15733,6 @@ cdn.sm.cn
 cdn.sptcc.com
 cdn.sspai.com
 cdn.static.txhy888.cn
-cdn.static.txhy888.cn.a.lahuashanbx.com
 cdn.staticfile.org
 cdn.svoice.le.com
 cdn.taboola.com.cn
@@ -28471,6 +28468,7 @@ gate.push.x.netease.com
 gateface.com
 gateway-drcn.wallet.dbankcloud.com
 gateway.battlenet.com.cn
+gateway.cdeledu.com
 gateway.fe.apple-dns.cn
 gateway.icloud.com.cn
 gateway.im.weibo.cn

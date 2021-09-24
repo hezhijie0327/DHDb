@@ -10707,7 +10707,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -11356,6 +11355,7 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
+au.download.windowsupdate.com
 au.umeng.com
 au.w.inmobi.cn
 au.youmi.net
@@ -21531,7 +21531,6 @@ ddk-alink.com
 ddkids.com
 ddkt365.com
 ddky.com
-ddl.3g567.com
 ddl0.dferlian.cn
 ddle.cc
 ddmap.com
@@ -24288,7 +24287,6 @@ dvzlbwmf.v1d.szbdyd.com
 dvzlfh6o.v1d.szbdyd.com
 dvzlw98j.v1d.szbdyd.com
 dw-collect.ksosoft.com
-dw-online.ksosoft.com
 dw.iask.com.cn
 dw.xcar.com.cn
 dw93s8.tdum.alibaba.com

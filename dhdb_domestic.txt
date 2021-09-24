@@ -10707,7 +10707,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -17758,6 +17757,7 @@ clearaki.com
 clearcrane.com
 cleey.com
 clewm.net
+clewx.com
 clf.red
 clfile.com
 clfx05g0.sched.s2.tdnsv5.com
@@ -18884,7 +18884,6 @@ cocos.com
 cocos.org
 cocos2dx.net
 cocounion.com
-cocss.com
 cocustomerservice.alipay-eco.com
 cod.southmoney.com
 code.37cs.com

@@ -538,6 +538,7 @@
 0916auto.com
 0917.com
 0919123.com
+0921vch.xyz
 0931lanzhou.com
 0931qd.com
 0938net.com
@@ -16299,7 +16300,6 @@ channel.api.duapp.com
 channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
 channel.kandian.qq.com
-channel.m.163.com
 channel.vaptcha.net.w.cdngslb.com
 channel2-account-ssl.xunlei.com
 channel3-account-ssl.xunlei.com
@@ -25370,6 +25370,7 @@ elichtmedia.com
 elikeme.com
 elikeme.net
 elitecrm.com
+elitejlb.com
 elkpi.com
 ellechina.com
 ellemen.com
@@ -33102,6 +33103,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.ocloud.heytapmobi.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
 httpsdns.baidu.com
@@ -35976,6 +35978,7 @@ inbilin.com
 inc365.com
 incake.net
 incensechina.com
+inchangling.com
 incloudexpo.com
 include.xs2345.com
 incnjp.com
@@ -43807,6 +43810,7 @@ m.sp.17house.com
 m.static.xitongzhijia.net
 m.suning.com
 m.suofeiyashop.com
+m.szmt18.cn
 m.sztjdz.com.cn
 m.tansuotv.com
 m.taobao.com

@@ -36540,7 +36540,6 @@ ir.mail.163.com
 ir.mail.yeah.net
 ir.youdao.com
 ir3.mail.163.com
-iradwine.com
 iranshao.com
 iraoping.com
 irasia.com
@@ -37251,6 +37250,7 @@ jcloudcs.com
 jcloudec.com
 jcloudstatic.com
 jclps.com
+jcm.jd.com
 jcmob.net
 jcmtxs.com
 jcnk120.com
@@ -47623,7 +47623,6 @@ newyx.net
 newzgc.com
 newzhizao.com
 newzkoo.com
-nex.163.com
 nexstep.zdworks.com
 next-union.com
 next.api.aliyun.com

@@ -34184,6 +34184,7 @@ i.snssdk.com.w.kunluncan.com
 i.sso.sina.com.cn
 i.stat.nearme.com.cn
 i.tansuotv.com
+i.tantanapp.com
 i.taobao.com
 i.tddmp.com
 i.ulmdb.cn
@@ -48759,6 +48760,7 @@ onedns.net
 onefoot365.com
 onegoods.nosdn.127.net
 onegreen.net
+onehome.me
 oneid.mmstat.com
 onein.com
 oneinstack.com

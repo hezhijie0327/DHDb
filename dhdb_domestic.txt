@@ -14189,7 +14189,6 @@ bt.1000.pet
 bt.10000.pet
 bt.3dmgame.com
 bt.ali213.net
-bt.dl1234.com
 bt.jd.com
 bt.popgo.net
 bt.xitongmonitor.com
@@ -20078,7 +20077,6 @@ cui.m.1688.com
 cuiapi.lenovo.com.cn
 cuiauth.lenovo.com.cn
 cuihuan.net
-cuilongsp.cn
 cuiniaoedu.com
 cuiniuhui.com
 cuipixiong.com
@@ -25637,7 +25635,6 @@ eplove.com
 epoch-cn.cdo.heytapmobi.com
 epoos.com
 epp.2polj.top
-epport.com
 eprezi.com
 eprintsw.com
 epro.sogou.com
@@ -38181,6 +38178,7 @@ jiuwan.com
 jiuwei.net
 jiuweike.com
 jiuwu.tech
+jiuwuqiong.com
 jiuxian.com
 jiuxianfeng.com
 jiuxihuan.net

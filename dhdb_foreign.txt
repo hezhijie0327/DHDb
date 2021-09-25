@@ -655,6 +655,7 @@
 1.15.73.106.zz.countries.nerd.dk
 1.231.196.126.zz.countries.nerd.dk
 1.appexchange.com
+1.asia.pool.ntp.org
 1.bb5522.ws
 1.bb6688.ws
 1.car21.net.daraz.com
@@ -8822,6 +8823,7 @@ a26900.actonservice.com
 a26965.actonservice.com
 a26991.actonservice.com
 a26996.actonservice.com
+a26d31d5d6986cbe.com
 a27059.actonservice.com
 a27061.actonservice.com
 a27067.actonservice.com
@@ -88485,6 +88487,7 @@ m001.monerise.com
 m0hcppadsnq8.com
 m0tei.co.uk
 m1.ccc.edu
+m1.darfd.com
 m1.epac.to
 m1.extrutor.org
 m1.fwmrm.net
@@ -95518,7 +95521,6 @@ mo.eeo1h1.cn
 mo.fish
 mo.hc872.cn
 mo.nightlife141.com
-mo.oneshouyou.cn
 mo.pgqoqv.cn
 mo.qitouch.cn
 mo.spaces.ru
@@ -109815,7 +109817,6 @@ pj0188.com
 pj12.tk
 pj155.com
 pj2019.com
-pj22.cc
 pj50.com
 pj550077.com
 pj7997.com

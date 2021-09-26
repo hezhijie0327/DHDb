@@ -14603,7 +14603,6 @@ c.queene.cn
 c.sayhi.360.cn
 c.ssp.qq.com
 c.sssgao999.com
-c.sysycloud.com
 c.tdm.qq.com
 c.tieba.baidu.com
 c.totoc.top
@@ -31575,6 +31574,7 @@ hdscg.com
 hdsdyyy.com
 hdsky.net
 hdthjy.com
+hdtmedia.com
 hduofen.cn
 hdurl.me
 hduzplus.xyz
@@ -31837,7 +31837,6 @@ hercity.com
 hercules-micro.com
 herdsric.com
 here120.com
-herebbs.com
 hermes-server.hupu.com
 hermes.cn
 hermes.hupu.com
@@ -34980,7 +34979,6 @@ iiaq.net
 iibechina.com
 iicp.net
 iidns.com
-iifab.com
 iiiff.com
 iiiimg.com
 iiilab.com
@@ -51529,6 +51527,7 @@ prod-metro-admin.oss-cn-shanghai.aliyuncs.com
 prod-metro-admin.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
 prod-rso.lol.qq.com
 prod.api.xiaomi.cn
+prodev.m.jd.com
 prodev.m.jd.com.gslb.qianxun.com
 product.58che.com
 product.dangdang.com

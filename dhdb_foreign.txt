@@ -59892,6 +59892,7 @@ geo.gorillanation.com
 geo.hltv.org
 geo.homepage-web.com
 geo.jp
+geo.kaloo.ga
 geo.kontagent.net
 geo.lpcdn.livepersonk.akadns.net
 geo.mattel163.com
@@ -71358,6 +71359,7 @@ hukhiz.accentjobs.be
 hukoushanghai.com
 huladai.com
 hulamao.com
+hulemedia.com
 huliangongyu.com
 hulichicken.com
 hulinhong.com
@@ -78245,6 +78247,7 @@ j.fd7c.com
 j.gs
 j.image-ad.jp
 j.joe.dj
+j.ksgfld.com
 j.microad.net
 j.mp
 j.mrpdata.net
@@ -110663,7 +110666,6 @@ plyinsidere.club
 plymouthrock.com
 plyr.io
 plywoodenchant.com
-pm.3.cn.gslb.qianxun.com
 pm.em.viatrisconnect.com
 pm.me
 pm.redbull.com

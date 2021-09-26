@@ -15479,7 +15479,6 @@ ccxcn.com
 ccxcredit.com
 ccxhpipe.cn
 ccxinyuedu.com
-ccymf.com
 ccyts.com
 cczq.com
 ccztv.com
@@ -28668,6 +28667,7 @@ ge-garden.net
 ge.cn
 geakr.com
 gearkr.com
+gearton.com
 geatmap.com
 geautos.com
 gebi1.com
@@ -30630,6 +30630,7 @@ h5s.sinaimg.cn
 h5seeds-open.xycdn.com
 h5seeds-open.xycdn.com.gslb.p2cdn.com
 h5speed.m.jd.com
+h5speed.m.jd.com.gslb.qianxun.com
 h5ssl.1sapp.com
 h5ssl.1sapp.com.wswebpic.com
 h5static.kuwo.cn
@@ -43104,7 +43105,6 @@ ls-gb.com
 ls.funshion.com
 ls3.funshion.com
 ls4278.cn
-lsad.net
 lsbankchina.com
 lsbchina.com
 lsccb.com

@@ -46448,7 +46448,6 @@ msg.eclicks.cn
 msg.iqiyi.com
 msg.m.jd.com
 msg.m.jd.com.gslb.qianxun.com
-msg.mobile.kugou.com
 msg.ptqy.gitv.tv
 msg.push.51y5.net
 msg.qy.net

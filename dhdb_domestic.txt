@@ -20195,6 +20195,7 @@ cxzg.com
 cxzw.com
 cy-cdn.com
 cy-cdn.kuaizhan.com
+cy-ck.top
 cy-email.com
 cy.com
 cy12301.com
@@ -35533,6 +35534,7 @@ img.tencentmusic.com
 img.tenpay.com
 img.tgl.qq.com
 img.tianyancha.com
+img.toppr.com.cn
 img.tudouxy01.com
 img.upe.net
 img.upe.net.w.kunlungr.com
@@ -55063,6 +55065,7 @@ report.qcloud.com
 report.qcloudcdn.qq.com
 report.qqweb.qq.com
 report.samsung.japps.cn
+report.tantanapp.com
 report.taptapdada.com
 report.tga.qq.com
 report.url.cn
@@ -58932,7 +58935,6 @@ slzsxx.com
 sm-check.com
 sm-cq.com
 sm-mfk-com.sm-tc.cn
-sm-tc.cn
 sm.bdimg.com
 sm.cn
 sm.domob.cn

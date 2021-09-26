@@ -18193,7 +18193,6 @@ api.graphql.imdb.com
 api.grumft.com
 api.gxbrowser.net
 api.hfyhjg.cn
-api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.identitynow.com
@@ -22901,6 +22900,7 @@ basicstat.com
 basil.idv.tw
 basildonstandard-gb.basildonstandard.co.uk
 basilic.io
+basilwang.net
 basinc.com
 basinmodelingcolumns.com
 basis.net
@@ -50983,6 +50983,7 @@ epowernetworktrackerimages.s3.amazonaws.com
 epowuxiao.cn
 epp.bih.net.ba
 eppmedia.si
+epport.com
 eprc.com.hk
 epremierwigs.com
 eprice.com.hk
@@ -67083,6 +67084,7 @@ h1.elf168.net
 h1.msn.com
 h1.ripway.com
 h1.ru
+h12-media.com
 h16.ru
 h1665.com
 h1bz.com
@@ -68339,6 +68341,7 @@ healmsuoguurd.eu
 heals.msgfocus.com
 healte.de
 health-club.online
+health-official.com
 health-official.ru
 health.businessweekly.com.tw
 health.com
@@ -79318,7 +79321,6 @@ jing444444.com
 jingallgenio.com
 jingassumptil.club
 jingcai360.net
-jingchengcb.com
 jingcovern.fun
 jingking.net
 jingleverdit.club
@@ -117758,6 +117760,7 @@ reklama.biz
 reklama.mironet.cz
 reklama.onet.pl
 reklama.reflektor.cz
+reklama.warforum.cz
 reklama8.ru
 reklamaction.com
 reklamagaci.com
@@ -118196,6 +118199,7 @@ resetsummer.net.daraz.com
 reshin.de
 residebroadly.com
 residences-immobilier.com
+resideral.com
 resilientsystems.com
 resilienz-kongress.de
 resilio.com
@@ -121839,6 +121843,7 @@ sbf688.com
 sbf812.com
 sbf821.com
 sbf822.com
+sbf827.com
 sbf977.com
 sbf99.com
 sbf9988.com

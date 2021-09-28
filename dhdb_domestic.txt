@@ -32620,7 +32620,6 @@ homekoocdn.com
 homelnns.com
 homenew.console.aliyun.com
 homepage-gw.jd.com
-homepage-gw.jd.com.gslb.qianxun.com
 hometeda.com
 hometex114.com
 hometexjoin.com
@@ -39226,6 +39225,7 @@ jx.renrensousuo.com
 jx.sspu.edu.cn
 jx.youth.cn
 jx.youth.cn.wswebcdn.com
+jx01bv.cdn.media8.cn
 jx09.com
 jx1999.com
 jx3.17173.com
@@ -45377,7 +45377,6 @@ mifangba.com
 mifanli.com
 mifen517.com
 mifengapps.com
-mifengcha.com
 mifengv.com
 mifengvv.com
 mifengxiuchang.com

@@ -36723,6 +36723,7 @@ com.im
 com.kw
 com.kz
 com.mk
+com.ms
 com.mt
 com.ng
 com.ph
@@ -47641,6 +47642,7 @@ e.deployads.com
 e.dlx.addthis.com
 e.dtscout.com
 e.dukangjiu.net.cn
+e.duomeng.org
 e.e.themighty.com
 e.e7001.com
 e.e70123.com
@@ -98083,6 +98085,7 @@ mw-ind.com
 mw.hu
 mw19c3mi5a.com
 mwa.meanwellaustralia.com.au
+mwallet1.beeppool.org
 mwbilx.pisos.com
 mwcvu.com
 mwds.co.za

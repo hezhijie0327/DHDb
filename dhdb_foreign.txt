@@ -14528,7 +14528,6 @@ affiliate.doubleyourdating.com
 affiliate.dtiserv.com
 affiliate.exabytes.com.my
 affiliate.fc2.com
-affiliate.fr.espotting.com
 affiliate.gameladen.com
 affiliate.gamesdeal.com
 affiliate.gamestop.com
@@ -15087,6 +15086,7 @@ aimaoji.com
 aimatch.com
 aimediagroup.com
 aimei133.com
+aimeideni.com
 aimeit.com
 aimementoring.com
 aimerfeel.jp
@@ -45110,6 +45110,7 @@ dlzyc.com
 dlzycf.com
 dm-event.net
 dm-h.phncdn.com
+dm.chalook.net
 dm.commentcamarche.net
 dm.dmp.net.daraz.com
 dm.fsyzcs.com
@@ -47637,7 +47638,6 @@ e.deployads.com
 e.dlx.addthis.com
 e.dtscout.com
 e.dukangjiu.net.cn
-e.duomeng.org
 e.e.themighty.com
 e.e7001.com
 e.e70123.com
@@ -79913,6 +79913,7 @@ jn1.tv
 jn1535.com
 jnb-mvp.trafficmanager.net
 jndczg.com
+jndfrqz.com
 jneurosci.org
 jnffgawh.com
 jnj-group.com
@@ -89718,7 +89719,6 @@ maiya3.com
 maiyadi.com
 maiymai.com
 maizhi.com
-maizhiying.me
 maizijf.com
 maizitime.com
 majdmw.gigasport.at
@@ -110149,6 +110149,7 @@ piratebay.org
 piratebay.tel
 piratebay.to
 piratebayproxies.cc
+piratebayproxy.co
 piratebrowser.com
 piratefm.co.uk
 piratelist.org

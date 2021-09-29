@@ -3466,6 +3466,7 @@
 3d344a3a.qc.x.bsgslb.cn
 3d414.com
 3d4feefaedba36e7540c1a68f3d6a413.safeframe.googlesyndication.com
+3d56.net
 3d5bf54d42668db1bb427d60d.mdbook.cn
 3d66.com
 3d6bced1d4f384469e6d03f6be7437a0.dlied1.cdntips.net
@@ -7426,6 +7427,7 @@ a.cnzz.com.gds.alibabadns.com
 a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
+a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -16036,7 +16038,6 @@ cf.aliyun.com
 cf.arctime.cn
 cf.duba.net
 cf.zaiyunli.cn
-cf027.com
 cf4w.com
 cf865.com
 cfachina.org

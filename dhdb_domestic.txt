@@ -7935,7 +7935,6 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
-account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -15150,6 +15149,7 @@ casic3s.com
 casicloud.com
 casicyber.com
 caslove.com
+casql.com
 casqy.com
 cass.cn
 casszzy.com
@@ -28192,6 +28192,7 @@ galaxystore.ad-survey.com
 galend.gallerycdn.azure.cn
 galiaoba.com
 galitv.alicdn.com
+galleon.dmall.com
 galleryapi.micloud.xiaomi.net
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
@@ -28660,6 +28661,7 @@ gecimi.com
 gecko-hl.snssdk.com
 gecko-lq.snssdk.com
 gecko.snssdk.com
+gedawang.com
 gedoumi.com
 gedu.org
 geedai.com
@@ -40751,6 +40753,7 @@ kwxjh.net
 kx001.com
 kx516.com
 kx7p.com
+kxapp.com
 kxbld.com
 kxbox.com
 kxceping.com
@@ -51707,7 +51710,6 @@ public-v6.sparta.mig.tencent-cloud.net
 public.app.autohome.com.cn
 public.creditchina.gov.cn
 public.ffquan.cn
-public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.sparta.mig.tencent-cloud.net
 public.wlbaike.com
@@ -51799,7 +51801,6 @@ pull-flv-l13.douyincdn.com
 pull-flv-l26-cny.douyincdn.com
 pull-flv-l26.douyincdn.com
 pull-flv-l27.douyincdn.com
-pull-flv-l29.douyincdn.com.ucloud.com.cn
 pull-flv-l6-cny.douyincdn.com
 pull-flv-l6-hs.pstatp.com
 pull-flv-l6-source.douyincdn.com

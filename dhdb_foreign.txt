@@ -20835,6 +20835,7 @@ auth.worldofwarships.eu
 auth.worldofwarships.ru
 auth0.com
 auth1-eng.spankbang.com
+auth2-eng.spankbang.com
 auth40.net.daraz.com
 authallseason.net.daraz.com
 autharmor.com
@@ -58611,7 +58612,6 @@ fyc333.com
 fyc5.com
 fyc666.com
 fyccsw.eobuwie.com.pl
-fychinago.com
 fydisk.com
 fydqw.com
 fyebmf.lifenet-seimei.co.jp

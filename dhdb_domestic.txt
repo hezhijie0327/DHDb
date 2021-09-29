@@ -16363,7 +16363,6 @@ chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
-chat.xbcloud.xyz
 chat1.jd.com
 chataixin59.byf.com
 chatm.com
@@ -36741,6 +36740,7 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
+item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com
@@ -44179,6 +44179,7 @@ maixiaba.com
 maixj.net
 maixuewen.com
 maiya91.com
+maizhiying.me
 maiziedu.com
 maizim.com
 maizuo.com
@@ -47018,6 +47019,7 @@ mzzjw.com
 n-bros.net
 n-mobile.com
 n-st.vip.com
+n.35kds.com
 n.3g.163.com
 n.baminw.com.cn
 n.cg.163.com
@@ -48463,7 +48465,6 @@ ocsp.pki.goog
 ocsp.us.cdnetworks.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
-ocsp2.g.aaplimg.com
 ocsp3.sheca.com
 oct-and.com
 oct-cts.com

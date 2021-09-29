@@ -10137,7 +10137,6 @@ account.splayer.work
 account.synology.com
 account.termius.com
 account.winter.net.daraz.com
-account.xiaomi.com
 accountemporium.com
 accountgiveaway.com
 accounthackers.com
@@ -72238,6 +72237,7 @@ i.ftimg.net
 i.guim.co.uk
 i.haloapps.com
 i.holalauncher.com
+i.huilixieye.net
 i.ilife.cn
 i.image-ad.jp
 i.imedia.cz
@@ -95477,7 +95477,6 @@ minzhuzhongguo.org
 miobt.com
 miokoo.com
 mioler57.cf
-miot-spec.org
 miotracker.com
 miovision.com
 mip-ruiwen-com.sm-tc.cn
@@ -107408,6 +107407,7 @@ panda321.com
 pandadai.com
 pandafan.me
 pandafan.org
+pandafe.com
 pandahall.com
 pandanetwork.club
 pandapiac.hu

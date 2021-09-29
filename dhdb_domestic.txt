@@ -537,6 +537,7 @@
 0917.com
 0919123.com
 0921vch.xyz
+0928vld.xyz
 0931lanzhou.com
 0931qd.com
 0938net.com
@@ -657,7 +658,6 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -5549,7 +5549,6 @@
 6ql3nk.tdum.alibaba.com
 6renyou.com
 6s4qki.com
-6say.com
 6sfg.com
 6sq.net
 6stmmo.com
@@ -5605,6 +5604,7 @@
 70ym.com
 70yx.com
 711pr.com
+712100.com
 71360.com
 715083.com
 715300.com
@@ -7341,7 +7341,6 @@
 9sleep.org
 9stars.cn
 9stor.com
-9subi.com
 9syw.com
 9taobao.com
 9thws.com
@@ -41207,7 +41206,6 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
-lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com
@@ -43548,6 +43546,7 @@ m.10010.com.w.alikunlun.com
 m.163.com
 m.1688.com
 m.168ey.com
+m.1768.com
 m.1905.com
 m.360buyimg.com
 m.360buyimg.com.gslb.qianxun.com
@@ -48469,6 +48468,7 @@ oct-sh.com
 oct.pocoiq.cn
 octbay.com
 octeast.com
+octeshow.com
 octest355.ocjstestdomain.tcdn.qq.com
 octholding.com
 octhotels.com

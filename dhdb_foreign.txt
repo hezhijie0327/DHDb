@@ -18564,7 +18564,6 @@ app-hack.com
 app-lon07.marketo.com
 app-sales.net
 app-sdylqipai3917.com
-app-site-association.cdn-apple.com
 app-sj05.marketo.com
 app-sj06.marketo.com
 app-sj13.marketo.com
@@ -38621,6 +38620,7 @@ cp-839qp1.internet7.vip
 cp-8824js.internet7.cc
 cp-8824js.internet7.vip
 cp-9044xpj.internet7.cc
+cp-9044xpj.internet7.vip
 cp-tyc.internet7.cc
 cp-tyc.internet7.vip
 cp-wnsr.internet7.cc
@@ -92934,6 +92934,7 @@ meirixiaochao.com
 meirong.net
 meisaitu.com
 meishijournal.com
+meituba.com
 meitumq.com
 meiwai.net
 meiwenting.com

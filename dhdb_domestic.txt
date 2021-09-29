@@ -658,6 +658,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -14598,7 +14599,6 @@ c.tvsou.com
 c.uaa.iqiyi.com
 c.v4dwkcv.com
 c.w.inmobi.cn
-c.whbhsoft.cn
 c.wjlzs.cn
 c.wkanx.com
 c.woaiseo.com.cn
@@ -43699,7 +43699,6 @@ m.ithome.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
-m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
@@ -50032,7 +50031,6 @@ passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
 passport.lagou.com
-passport.lenovo.com
 passport.lenovo.com.cn
 passport.meituan.com
 passport.mydrivers.com

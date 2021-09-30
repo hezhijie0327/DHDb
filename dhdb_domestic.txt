@@ -6463,7 +6463,6 @@
 88lan.com
 88lgo.com
 88ming.net
-88ng.com
 88pets.com
 88popo.com
 88tang.com
@@ -11241,6 +11240,7 @@ assets.alicdn.com
 assets.alicdn.com.danuoyi.tbcache.com
 assets.asklib.com
 assets.ckjr001.com
+assets.dspunion.com
 assets.dspunion.com.wswebcdn.com
 assets.easou.com
 assets.giocdn.com
@@ -21334,7 +21334,6 @@ dbbqb.com
 dbc.pkkjxs.cn
 dbccv.com
 dbcsq.com
-dbcxz1.com
 dbd9ec22e522e7271781ef4f0f44949d.dlied1.cdntips.net
 dbdna.com
 dbf01cd1.fyeds3.com

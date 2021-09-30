@@ -6432,6 +6432,7 @@
 8860.net
 8864.org
 8866.org
+8866786.com
 886966.com
 886abc.com
 88765.com
@@ -10703,6 +10704,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -22045,7 +22047,6 @@ dhgdp.cn
 dhhqfw.com
 dhi13t0.cachenode.cn
 dhifi.com
-dhimavision.com
 dhjt.com
 dhkq120.com
 dhkqmz.com
@@ -34631,7 +34632,6 @@ idc021.com
 idc100.com
 idc123.com
 idc180.com
-idc20.com
 idc31.com
 idc4.com
 idc400.com
@@ -49139,7 +49139,6 @@ orihard.com
 oriondm.jd.com
 oriondm.jd.com.gslb.qianxun.com
 oritive.com
-orledsolar.com
 orleto.com
 orsoon.com
 ort-stsdk.vivo.com.cn
@@ -54128,7 +54127,6 @@ qukantoutiao.net
 qukantx.com
 quklive.com
 qukuai.com
-qukuailiant.com
 qukuba.com
 qulishi.com
 qulv.com

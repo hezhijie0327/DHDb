@@ -7936,7 +7936,6 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
-account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -43558,6 +43557,7 @@ m.58xs.tw
 m.5you.com
 m.69o1c.cn
 m.6z1gf.cn
+m.78o5a.cn
 m.8684.cn
 m.8of9hd.cn
 m.937920.com
@@ -44035,7 +44035,6 @@ madserving.com
 madx.flyme.cn
 maf.meituan.com
 mafangwo.com
-mafenggo.com
 mafengs.com
 mafengvwo.com
 mafengwo.cn

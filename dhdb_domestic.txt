@@ -4397,7 +4397,6 @@
 51tvrom.com
 51tyty.com
 51tz.com
-51uc.com
 51ukf.com
 51uyi.com
 51uyun.com
@@ -15682,7 +15681,6 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
-cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -20118,7 +20116,6 @@ cvrobot.net
 cvsi1gqc.slt-dk.sched.tdnsv8.com
 cvte.com
 cvtvcn.com
-cw.guominziben.com
 cw.yyb.sched.dcloudstc.com
 cw100.com
 cwbaike.com
@@ -28459,7 +28456,6 @@ gate.push.x.netease.com
 gateface.com
 gateway-drcn.wallet.dbankcloud.com
 gateway.battlenet.com.cn
-gateway.cdeledu.com
 gateway.fe.apple-dns.cn
 gateway.icloud.com.cn
 gateway.im.weibo.cn
@@ -45688,7 +45684,6 @@ mivideo.g.mi.com
 miwifi.com
 mix.adsame.com
 mix.kinostuff.com
-mix.linkedin.com
 mixbao.com
 mixcapp.com
 mixdo.net

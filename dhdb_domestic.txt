@@ -7936,6 +7936,7 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
+account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -46113,6 +46114,7 @@ moment-cdn.hellobike.com
 moment-video.51downapp.cn
 momentcon-1255653016.file.myqcloud.com
 momhui.com
+momishi.com
 momobako.com
 momocdn.com
 momooyo.com
@@ -47614,7 +47616,6 @@ newyx.net
 newzgc.com
 newzhizao.com
 newzkoo.com
-nex.163.com
 nexstep.zdworks.com
 next-union.com
 next.api.aliyun.com

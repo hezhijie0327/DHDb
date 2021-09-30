@@ -807,6 +807,7 @@
 100xuexi.com
 100ye.net
 100yigui.com
+100yingcai.com
 100yiyao.com
 100yue.com
 100zp.com
@@ -10819,7 +10820,6 @@ appdetailh5.vivo.com.cn
 appdj.xesimg.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
-appdl-4-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
 appdl.hicloud.com.sched.s3hw.tdnsv5.com
 appdl.lenovo.com.cn
@@ -45228,7 +45228,6 @@ mhfm8tel.cdndm5.com
 mhfm9tel.cdndm5.com
 mhhf.net
 mhi-ac.com
-mhi9da.cn
 mhjk.1391.com
 mhsf.com
 mhtclub.com

@@ -11229,6 +11229,7 @@ asr.meituan.com
 asrmicro.com
 asrsingapore.com
 asset.newyx.net
+asset.tantanapp.com
 assets-mayun.b0.aicdn.com
 assets-share.dspunion.com
 assets-share.dspunion.com.wswebcdn.com
@@ -12422,7 +12423,6 @@ bbs.elecfans.com.w.kunlunca.com
 bbs.feng.com
 bbs.gameres.com
 bbs.greendown.cn
-bbs.iapps.im
 bbs.iappstoday.com
 bbs.ikuai8.com
 bbs.ikuai8.com.w.kunluncan.com
@@ -37110,7 +37110,6 @@ ja.uwenku.com
 ja.x9wj2.cn
 ja1.gamersky.com
 ja2.gamersky.com
-jaaas.ivuoyb.7uhwa65.cn
 jaadee.com
 jaadee.net
 jacklm1.com

@@ -36464,7 +36464,6 @@ ipv4-ipv6-phase4.wpt-portm.vip.meituan.com
 ipv4-ipv6.a.sh.vip.dianping.com
 ipv4-ipv6.inf.vip.meituan.com
 ipv4.gdt.qq.com
-ipv4.host
 ipv4.mirrors.ustc.edu.cn
 ipv4.music.163.com
 ipv46.fanyi-bfe.n.shifen.com

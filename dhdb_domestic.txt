@@ -10481,6 +10481,7 @@ api.tv.sohu.com
 api.tw06.xlmc.sandai.net
 api.tw06.xlmc.sec.miui.com
 api.udache.com
+api.ujian.cc
 api.union.vip.com
 api.unipay.qq.com
 api.uniplayad.com
@@ -14549,6 +14550,7 @@ c.cyhx98.com
 c.d3iz9md.com
 c.data.mob.com
 c.dcgwnhk.cn
+c.dokrmob.com
 c.dun.163.com
 c.duomai.com
 c.eqxiu.com
@@ -40950,7 +40952,6 @@ lamabang.com
 lamahui.com
 lamaison-arting.com
 lamajie.com
-lamall.com
 lamaowei.com
 lamaqun.com
 lamaying.com

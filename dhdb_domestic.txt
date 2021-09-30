@@ -3134,7 +3134,6 @@
 36099.com
 360abc.com
 360ads.com
-360aiyi.com
 360biji.com
 360bike.net
 360buy.com
@@ -28457,6 +28456,7 @@ gate.push.x.netease.com
 gateface.com
 gateway-drcn.wallet.dbankcloud.com
 gateway.battlenet.com.cn
+gateway.cdeledu.com
 gateway.fe.apple-dns.cn
 gateway.icloud.com.cn
 gateway.im.weibo.cn
@@ -33085,7 +33085,6 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
-httpdns.ocloud.heytapmobi.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
 httpsdns.baidu.com

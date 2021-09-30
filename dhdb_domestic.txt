@@ -22878,6 +22878,7 @@ dngswin7.com
 dngsxitong.com
 dngz.net
 dnion.com
+dnjishu.com
 dnjsb.com
 dnkeeper.hicloud.com
 dnl-09.geo.kaspersky.com
@@ -32901,7 +32902,6 @@ hrbswx.com
 hrbzdty.com
 hrcfc.com
 hrday.com
-hreport.meituan.com
 hrexam.com
 hrfc.net
 hrflc.com
@@ -34774,6 +34774,7 @@ iface2.iqiyi.com
 ifacelog.dns.iqiyi.com
 ifacelog.iqiyi.com
 ifaclub.com
+ifactz.com
 ifahao.com
 ifangarden.com
 ifanggo.com
@@ -48923,7 +48924,6 @@ open8.cn
 openacs.m.taobao.com
 openacs4uc.m.taobao.com
 openadx.com
-openanolis.org
 openapi-drcn.cloud.dbankcloud.cn
 openapi-iot.baidu.com
 openapi-news.meizu.com
@@ -52775,7 +52775,6 @@ qhlly.com
 qhm1.cnzz.com
 qhm2.cnzz.com
 qhmanhua.com
-qhmhbkj.com
 qhmsg.com
 qhmt1xj5.v1d.szbdyd.com
 qhnadhoe.v1d.szbdyd.com

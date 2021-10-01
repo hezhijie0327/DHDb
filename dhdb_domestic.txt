@@ -15848,7 +15848,6 @@ cdnweb.huya.com
 cdnweixin.haoduoke.cn
 cdnws.api.huya.com
 cdnx.newvfx.com
-cdnyzdjj.com
 cdooc.com
 cdqcnt.com
 cdqcp.com
@@ -42662,6 +42661,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -43698,6 +43698,7 @@ m.ithome.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
+m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
@@ -45437,7 +45438,6 @@ miloktv.com
 miloli.info
 milu.com
 milvzn.com
-milzx.com
 mima.club
 mimaru.me
 mime.baidu.com

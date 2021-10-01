@@ -8352,7 +8352,6 @@ adimg.uve.weibo.com
 adimg.zui.com
 adinall.com
 adinallcdn.com
-adinf.voole.com
 adiu.amap.com
 adiwlbs.gslb.sinaedge.com
 adjb.5nd.com
@@ -15176,6 +15175,7 @@ caup.net
 cauvet.com
 cav-ad.com
 cavca.org
+cavuc.com
 cawae.net
 caxa.com
 cazpw.com
@@ -19750,6 +19750,7 @@ cs0799.com
 cs090.com
 cs1.cqqc3.com
 cs12333.com
+cs170.com
 cs27.com
 cs2ccloud.com
 cs3.ifengcdn.com
@@ -39434,7 +39435,6 @@ k12.vip
 k128-gspe.gslb.ksyuncdn.com
 k128-inapp.gslb.ksyuncdn.com
 k128-iosapps.gslb.ksyuncdn.com
-k128-js007.gslb.js007.jsfycdn3.com
 k128-mzstatic-js007.gslb.js007.jsfycdn3.com
 k128-mzstatic.gslb.ksyuncdn.com
 k128-swcdn.gslb.ksyuncdn.com
@@ -56426,7 +56426,6 @@ sc.csai.cn
 sc.fengjiangqwe.xyz
 sc.gg
 sc.gsxt.gov.cn
-sc.pdss.xyz
 sc.youku.com
 sc0.hao123img.com
 sc02.alicdn.com

@@ -2247,7 +2247,6 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
-2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -3326,6 +3325,7 @@
 31666jj.cc
 31666vv.com
 316ee.net
+316ii.net
 316jj.net
 3178a.com
 3178b.com
@@ -18244,7 +18244,6 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
-api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.geetest.com
@@ -96258,7 +96257,6 @@ mobilefacebook.com
 mobileforcesoftware.com
 mobilefuse.com
 mobilegamehackers.com
-mobilegw.alipay.com
 mobilegw.src.alipaydns.com
 mobilehacks.net
 mobilehacks4u.com
@@ -98678,7 +98676,6 @@ mylibs.org
 mylifetime.com
 mylike.com
 mylink-today.com
-mylink.ink
 mylinkbox.com
 mylnk.pw
 mylocalbeacon.com

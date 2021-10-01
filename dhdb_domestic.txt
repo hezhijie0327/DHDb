@@ -2580,6 +2580,7 @@
 24e4d7191482a3e2283034a6762996f6.safeframe.googlesyndication.com
 24haowan.com
 24hmb.com
+24jz.com
 24maker.com
 24money.com
 24olv2.chinaacc.com
@@ -21702,7 +21703,6 @@ desc.gome.com.cn
 desc.gome.com.cn.cdn20.com
 descnew.taobao.com
 desdev.cn
-deshuangwang.cn
 design.sspu.edu.cn
 design521.com
 designboard.cc

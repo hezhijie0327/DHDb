@@ -2246,7 +2246,6 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
-2.android.pool.ntp.org
 2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
@@ -13470,7 +13469,6 @@ adserver.radio-canada.ca
 adserver.rhombusads.com
 adserver.ro
 adserver.sanomawsoy.fi
-adserver.sbtrustmedia.com
 adserver.sciflicks.com
 adserver.scr.sk
 adserver.shadow.snapads.com
@@ -81557,7 +81555,6 @@ kaspersky.com
 kaspersky.ru
 kassir.ru
 kastatic.org
-kasumi.club
 kat.cr
 kat.rip
 kataduke-kaitori.com
@@ -82343,6 +82340,7 @@ kino.de
 kinoaction.ru
 kinoafisha.info
 kinobox.cz
+kinoclub.org
 kinoclub77.ru
 kinogo.la
 kinohabr.net
@@ -87540,6 +87538,7 @@ look.ichlnk.com
 look.kfiopkln.com
 look.opskln.com
 look.udncoeln.com
+look.ufinkln.com
 look.utndln.com
 lookandfind.me
 lookatgame.ru

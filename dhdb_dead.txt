@@ -5836,6 +5836,7 @@ adserver.ratestar.net
 adserver.revver.com
 adserver.sabc.co.za
 adserver.sabcnews.co.za
+adserver.sbtrustmedia.com
 adserver.scmp.com
 adserver.securityfocus.com
 adserver.singnet.com
@@ -27094,6 +27095,7 @@ img.zsj18.com
 img.zswph.com
 img.zuowen8.com
 img.zx590.com
+img001.com
 img001.microland-design.com
 img01.taotaosou.cn
 img1.3366img.com
@@ -29662,6 +29664,7 @@ kart.nexon.com
 kas.keydot.net
 kascend.com
 kaspi-payment.com
+kasumi.club
 kasumikarate.hanagasumi.net
 katch.ne.jp
 katcin.com
@@ -29974,7 +29977,6 @@ kingstarfintech.com
 kingtoo.vip
 kinlivme.cn
 kinobol.ru
-kinoclub.org
 kinoget.tv
 kinogo.r.worldssl.net
 kinokayf.com
@@ -30406,6 +30408,7 @@ kubo-360-tudou.com
 kubozy-cdn-baidu.com
 kubozy-youku-163-aiqi.com
 kubozy-youku-163.com
+kudasuye.com
 kudrafa.ru
 kudzuphloemgunk.tech
 kuguopush.com
@@ -31918,7 +31921,6 @@ look-outsidenow.com
 look-reklama.ru
 look.fjfiln.com
 look.kfioplkn.com
-look.ufinkln.com
 look.utnldn.com
 look4file.ru
 look8.com

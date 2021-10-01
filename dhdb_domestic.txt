@@ -49487,6 +49487,7 @@ p1.lefile.cn
 p1.lefile.cn.wscdns.com
 p1.meituan.net
 p1.music.126.net
+p1.pl520.com
 p1.pstatp.com
 p1.pstatp.com.wscdns.com
 p1.qxzsw.com
@@ -50318,7 +50319,6 @@ pdvisa.com
 pdwzjs.com
 pdy-public.oss-cn-beijing.aliyuncs.com
 pe.3.cn
-pe.3.cn.gslb.qianxun.com
 pe.pedaily.cn
 pe.sspu.edu.cn
 pe2016.sspu.edu.cn

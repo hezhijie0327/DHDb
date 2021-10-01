@@ -18205,7 +18205,6 @@ api.cloudmobi.net
 api.codacy.com
 api.codeclimate.com
 api.coinerra.com
-api.comm.miui.com
 api.company-target.com
 api.cookielaw-script.it
 api.cookielaw.eu
@@ -21164,6 +21163,7 @@ avenuehuminterpretation.com
 averaladmi.info
 averalist.club
 averoconnector.com
+avertscratch.com
 averydennison.com
 aveva.com
 avexchina.com

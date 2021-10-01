@@ -2183,6 +2183,7 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
+2.android.pool.ntp.org
 2.arpun.com
 2.bashenghuo.com
 2.cn.pool.ntp.org
@@ -5036,6 +5037,7 @@
 5ede337a36c9346ea8f3d14b66f1af38.dlied1.cdntips.net
 5ee1f452c9098ccb7bfc28d490850059.dlied1.cdntips.net
 5eplay.com
+5esc.com
 5etv.com
 5ewin.com
 5f29849c74a59f0f17d534270e3643d2.safeframe.googlesyndication.com
@@ -7941,6 +7943,7 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
+account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -34870,7 +34873,6 @@ igenetech.com
 igengmei.com
 igerun.com
 igeshui.com
-igetget.cn
 igetget.com
 igetui.com
 igevin.info
@@ -45957,6 +45959,7 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
+mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com

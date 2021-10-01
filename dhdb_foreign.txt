@@ -18245,6 +18245,7 @@ api.funcaptcha.com
 api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
+api.geetest.com
 api.gfe.nvidia.com
 api.gimbal.com
 api.github.com
@@ -35978,7 +35979,6 @@ cnhqzb-wx.com
 cnhuadong.net
 cnhv.co
 cnhvacrnet.com
-cniaas.com
 cnil.links-lab.fr
 cnineu.com
 cnisland.com
@@ -39504,7 +39504,6 @@ cs689.com
 cs696.com
 cs77111.com
 cs77444.com
-cs77555.com
 cs780.com
 cs796.wpc.kappacdn.net
 cs848.com
@@ -45409,6 +45408,7 @@ dns2.us
 dns234.net
 dns2go.com
 dns3.danaher.net
+dns7.beeppool.org
 dns9.quad9.net
 dnsabr.com
 dnsalias.com
@@ -49230,6 +49230,7 @@ ee-h.phncdn.com
 ee.0pi84.cn
 ee.1s8pj.cn
 ee.6x53p.cn
+ee.71zrh.cn
 ee.89kvh.cn
 ee.8t5xo.cn
 ee.agc.com
@@ -66837,7 +66838,6 @@ gtinfo.com.ar
 gtjtht.com
 gtk2.com
 gtl.net
-gtlbin.pro
 gtloli.com
 gtloli.net
 gtm-cn-n6w1ucj0e05.ddoswafcdn.xyz
@@ -70160,7 +70160,6 @@ hljhufengling.cn
 hljsfjy.com
 hljys.org
 hlkhxw.ashampoo.com
-hllm.cc
 hlmiq.com
 hlmseo.com
 hlok.qertewrt.com
@@ -80513,6 +80512,7 @@ js1116.cnbole.net
 js1151.yongkang6.com
 js1157.yongkang6.com
 js1210.yongkang6.com
+js1315.cnbole.net
 js17x.com
 js2.hdzog.com
 js2.keywordsconnect.com
@@ -96256,6 +96256,7 @@ mobilefacebook.com
 mobileforcesoftware.com
 mobilefuse.com
 mobilegamehackers.com
+mobilegw.alipay.com
 mobilegw.src.alipaydns.com
 mobilehacks.net
 mobilehacks4u.com

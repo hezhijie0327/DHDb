@@ -46220,7 +46220,6 @@ download.qoo-app.com
 download.sd.baidu.com
 download.synology.com
 download.weatherblink.com
-download.windowsupdate.com
 download.windowsupdate.nsatc.net
 download.wondershare.com
 download.yesmessenger.com
@@ -80483,6 +80482,7 @@ js.ptengine.jp
 js.qsk666.com
 js.rush-member.com
 js.sentry-cdn.com
+js.sghjtc.xyz
 js.smi2.ru
 js.sosista.com
 js.start1999.com
@@ -82669,6 +82669,7 @@ kmzx.org
 kn.archrug.com
 kn.awyys.com
 kn.hnfxty.cn
+kn.qzdaren.com
 kn3.net
 kn899.com
 knackhq.com
@@ -88901,7 +88902,6 @@ m.mxguan.com
 m.myfreecams.com
 m.mysports98.com
 m.mysty.com.cn
-m.nanyangqiaoxiang.cn
 m.nchet.com
 m.nejup.com
 m.nfydd.com
@@ -94944,7 +94944,6 @@ miitomo.com
 miitomo.com.cn
 miiverse.com
 miji8.com
-mijishe.com
 mijnspar.be
 mijnurgentie.nl
 mikandi.com

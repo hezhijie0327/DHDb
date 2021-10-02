@@ -13690,6 +13690,7 @@ blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
+blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
@@ -44439,7 +44440,6 @@ maro6.com
 maroon91.com
 marry5.com
 mars.jd.com
-mars.jd.com.gslb.qianxun.com
 mars.meituan.com
 marstor.com
 marstv.com
@@ -50026,6 +50026,7 @@ passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
 passport.lagou.com
+passport.lenovo.com
 passport.lenovo.com.cn
 passport.meituan.com
 passport.mydrivers.com
@@ -55531,6 +55532,7 @@ rrr.youle55.com
 rrrhteam.com
 rrrrdaimao.com
 rrs.com
+rrsdl.com
 rrswl.com
 rrt365.com
 rrting.net

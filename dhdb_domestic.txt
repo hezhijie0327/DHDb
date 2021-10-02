@@ -10661,7 +10661,6 @@ apk.zhoushengfe.com
 apk3.com
 apkevery.com
 apkgu.com
-apkinfo.voole.com
 apkplug.com
 apkrj.com
 apks.juyoufan.net
@@ -12722,7 +12721,6 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -32619,6 +32617,7 @@ homekoocdn.com
 homelnns.com
 homenew.console.aliyun.com
 homepage-gw.jd.com
+homepage-gw.jd.com.gslb.qianxun.com
 hometeda.com
 hometex114.com
 hometexjoin.com

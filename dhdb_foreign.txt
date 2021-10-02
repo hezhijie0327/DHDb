@@ -3,7 +3,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -290,6 +289,7 @@
 031177.com
 0312of.com
 0313413.com
+0314.online
 0315cct.com
 031v.com
 032006.com
@@ -3620,7 +3620,6 @@
 35.courier-push-apple.com.akadns.net
 35.crazycat.ro
 35.flnet.org
-3500.com
 3500331.com
 350bbs.net
 350media.com
@@ -48189,6 +48188,7 @@ eaassets-a.akamaihd.net
 eabfpf.bijuterii-eshop.ro
 eablackbox.com
 eaboutvth.biz
+eac0823ca94e3c07.com
 eacash.streamplay.to
 eacashcard.com
 eacdn.com
@@ -69200,6 +69200,7 @@ heyreport.com
 heystaks.com
 heytea.com
 heywire.com
+heyzap.com
 heyzo.com
 hezabi.dicksmith.co.nz
 hezhijie0327-my.sharepoint.com
@@ -113642,6 +113643,7 @@ proxify.org
 proximaati.com
 proximic.com
 proximity-pprodkj.carte-gr.total.fr
+proximityads.flipcorp.com
 proximize.me
 proximus.be
 proximus.com
@@ -113947,6 +113949,7 @@ psqsjg.coach.com
 psrcorp.net
 pssa.000webhostapp.com
 pssclub.com
+pssd-ltdgroup.com
 pssvc.iqzone.com
 pstat.akathists.com
 pstatic.datafastguru.info
@@ -115986,6 +115989,7 @@ quwm.com
 quxia.com
 quxiaoyuan.com
 quxizang.com
+quzhuanpan.com
 quziuh.beliani.dk
 qvbxza.stoneberry.com
 qvc.com

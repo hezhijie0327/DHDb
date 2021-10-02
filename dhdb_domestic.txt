@@ -2882,7 +2882,6 @@
 2zimu.com
 3.39zuoye.com
 3.5646.cn
-3.cn.pool.ntp.org
 3.iscrv.com
 3.pic.pc6.com
 3.ssqzj.com
@@ -7086,7 +7085,6 @@
 96app.com
 96bbs.com
 96fbd20ea10c0c4edbb2e71352bb3085.dlied1.cdntips.net
-96go.com
 96jm.com
 96kb.com
 96lh.net
@@ -7364,7 +7362,6 @@
 9wad.com
 9wee.com
 9weihu.com
-9wotuan.com
 9wuli.com
 9x5nh0rg.p23.tc.cdntip.com
 9xgame.com
@@ -10712,6 +10709,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -38386,6 +38384,7 @@ jncyx.com
 jndwyy.com
 jnesc.com
 jnhouse.com
+jnjcxx.com
 jnjj.com
 jnjszl.com
 jnkason.com

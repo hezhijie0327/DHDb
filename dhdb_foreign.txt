@@ -2247,6 +2247,7 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
+2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -2668,7 +2669,6 @@
 23xs.cc
 23xs.tv
 23xsba.cc
-23xsw.cc
 24-7clinic.com
 24-ads.com
 24-courier.push.apple.com
@@ -12411,6 +12411,7 @@ ads-thanhnien-vn.cdn.ampproject.org
 ads-tracking.beop.io
 ads-trk.vidible.tv
 ads-v-darwin.hulustream.com
+ads-website.ytsservice.com
 ads.123net.jp
 ads.1mobile.com
 ads.1thegioi.vn
@@ -23171,7 +23172,6 @@ bb242.net
 bb248.com
 bb2688.com
 bb366.net
-bb475d71fa0b1b2.com
 bb4cf48126aab4.com
 bb5522.ws
 bb59.ru
@@ -27269,6 +27269,7 @@ bobcardjf.com
 bobcat.com
 bobcat.floriangaechter.com
 bobcat.snapshooter.io
+bobcoder.cc
 bobeshehi.com
 bobi-bobi.info
 bobi-mobi.info
@@ -32101,6 +32102,7 @@ cdn.marketplaceimages.windowsphone.com
 cdn.mathjax.org
 cdn.mcauto-images-production.sendgrid.net
 cdn.media.innity.net
+cdn.mega-tags.com
 cdn.memo.co
 cdn.mgid.com
 cdn.midas-network.com
@@ -44391,7 +44393,6 @@ diningprefixmyself.com
 dinlokaleoptiker.dk
 dinomatic.com
 dinos.vn
-dinovala.com
 dintong.com
 dintrateim.top
 dinuojixie.com.cn
@@ -67001,6 +67002,7 @@ guibi.com
 guibuyu.org
 guidance.godaddy.com
 guidantfinancial.com
+guide.allblet.net
 guide2poker.com
 guidedogs.com
 guidehouse.com
@@ -71112,7 +71114,6 @@ hpinc.net
 hpindigopress.com
 hpinkjet.com
 hpinstantink.ca
-hpinstantink.com
 hpirst.b-tops.com
 hpjav.com
 hpjav.tv
@@ -98616,11 +98617,11 @@ myfreemp3player.com
 myfreepaysite.com
 myfreevpn.com
 myfreevpn.org
-myfreshnet.com
 myfrfr.com
 myfsloan.com
 myftp.biz
 myftp.info
+myftp.name
 myftp.org
 myfuncards.com
 myfw.us
@@ -114115,6 +114116,7 @@ pu0039.com
 pu0040.com
 pu2299.com
 pu5hk1n2020.com
+pu6611.com
 pu6633.com
 puansec.com
 pub-fit.com

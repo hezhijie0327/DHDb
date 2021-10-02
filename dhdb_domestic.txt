@@ -23355,7 +23355,6 @@ download.visualstudio.microsoft.com
 download.vzuu.com
 download.wan.sohu.com
 download.wegame.qq.com
-download.windowsupdate.com
 download.xmcdn.com
 download.xp666.com
 download.yuelun.com
@@ -34504,6 +34503,7 @@ icity-sh.2q10.com
 icity-sync.2q10.com
 icity.2q10.com
 icitymobile.com
+icixun.com
 iciyuan.com
 icjiemi.com
 ickeep.com

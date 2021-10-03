@@ -7881,7 +7881,6 @@ abslw.com
 abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
-abtest.tantanapp.com
 abto.cc
 abuquant.com
 abuyun.com
@@ -35384,7 +35383,6 @@ img-tmdetail.alicdn.com
 img-tx-ugcimg.douyucdn2.cn
 img-vip-ssl.a.88cdn.com
 img-vip-ssl.a.88cdn.com.w.kunlungr.com
-img-x.jd.com
 img-x.jd.com.gslb.qianxun.com
 img-ys011.didistatic.com
 img.0279.net
@@ -44271,7 +44269,6 @@ mamecn.com
 mamilist.com
 mamioo.com
 mamsh.org
-man655.com
 man66966.top
 manage.c3edge.com
 manage.ecustmde.com

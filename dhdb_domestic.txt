@@ -392,7 +392,6 @@
 06jm.com
 06peng.com
 0701news.com
-0706hjkv.xyz
 07073.com
 07073sy.com
 0712fang.com
@@ -41220,6 +41219,7 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
+lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com
@@ -51113,6 +51113,7 @@ plycd.com
 plyz.net
 pm-summit.org
 pm.3.cn
+pm.3.cn.gslb.qianxun.com
 pm.aty.sohu.com
 pm.myapp.com
 pm25.com

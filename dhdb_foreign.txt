@@ -18595,7 +18595,6 @@ app-hack.com
 app-lon07.marketo.com
 app-sales.net
 app-sdylqipai3917.com
-app-site-association.cdn-apple.com
 app-sj05.marketo.com
 app-sj06.marketo.com
 app-sj13.marketo.com
@@ -45352,6 +45351,7 @@ dnastar.com
 dnb.com
 dnb99.com
 dnbcw.net
+dnbizcdn.com
 dnbwg.com
 dnckawxatc.com
 dndbeyond.com
@@ -80712,6 +80712,7 @@ jsitel.com
 jsjnxm.scheurich24.de
 jsjs.org
 jsjt-global.com
+jsjxhd.com
 jsksolutions.co.za
 jsku.cc
 jskyservices.com
@@ -85377,7 +85378,6 @@ letou988.com
 letou988.net
 letou99.net
 letou995.com
-letou996.com
 letras.com
 letreach.com
 letro.jp

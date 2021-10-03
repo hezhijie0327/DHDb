@@ -2,6 +2,7 @@
 0-6.com
 0.pic.paopaoche.net
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 00000.host
@@ -758,6 +759,7 @@
 1004333.shop.liebiao.com
 10044.cn
 100580.com
+1005fdh.xyz
 100669.com
 1008011.com
 10086.cn
@@ -3929,7 +3931,6 @@
 4u4v.net
 4vidw8.tdum.alibaba.com
 4vxgrax3.sched.sma.tdnsv5.com
-4wad.com
 4xoss8.tdum.alibaba.com
 4xseo.com
 4y4.net
@@ -39550,7 +39551,6 @@ kabitu.com
 kaboy.net
 kada.com
 kadang.com
-kaesoon.com
 kafan.cn
 kafka.cc
 kagirl.net

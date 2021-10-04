@@ -15303,7 +15303,6 @@ ccen.net
 ccepc.com
 cces2006.org
 ccets.com
-ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com
@@ -15739,7 +15738,6 @@ cdn.tanx.com
 cdn.tgp.qq.com
 cdn.tianmidian.com
 cdn.tianyancha.com
-cdn.tianyancha.com.wswebpic.com
 cdn.ui.porsche.cn
 cdn.unityads.unity3d.com
 cdn.upthinking.cn
@@ -28122,7 +28120,6 @@ g1d.net
 g1es584o.s1txipv6.cdntip.com
 g1f5.com
 g1max.mediav.com
-g1mm3d.cn
 g1xd.mediav.com
 g2.ctc.cctvcdn.net.lxdns.com
 g2.gstatic.com
@@ -32595,7 +32592,6 @@ home.51cto.com
 home.console.aliyun.com
 home.deathgun.cn
 home.httpcn.com
-home.m.jd.com
 home.m.jd.com.gslb.qianxun.com
 home.meishichina.com
 home.mi.com

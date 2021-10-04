@@ -11854,6 +11854,7 @@ cdn.static-cnt.bi
 cdn.static-cnt.bid
 cdn.static.biqudu.la
 cdn.streambeam.io
+cdn.tianyancha.com.wswebpic.com
 cdn.ttkx22n.com
 cdn.ub8.com
 cdn.us.goldspotmedia.com
@@ -22250,6 +22251,7 @@ g1.0573ren.com
 g1.corp.163.com
 g10a.com
 g17ie3l1k7iarm.ru
+g1mm3d.cn
 g1psz5.cn
 g1thub.com
 g2.4pu.com

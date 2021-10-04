@@ -42231,7 +42231,6 @@ data.serverlift.com
 data.stepstone.be
 data.stepstone.fr
 data.stepstone.nl
-data.studybreakmedia.com
 data.tradeville.eu
 data.ubi.com
 data.videonow.ru
@@ -72430,6 +72429,7 @@ i.sng.link
 i.ssix.io
 i.stack.imgur.com
 i.static.zaplata.bg
+i.tantanapp.com
 i.v2ex.co
 i.vimeocdn.com
 i.w55c.net
@@ -88994,6 +88994,7 @@ m.hot-mob.com
 m.hotmail.com
 m.hpcat.cn
 m.huancai66.com
+m.hyzui.com
 m.i36mf.cn
 m.ihais.com
 m.ilife.cn

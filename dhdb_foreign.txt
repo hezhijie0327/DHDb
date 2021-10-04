@@ -10894,7 +10894,6 @@ ad.ntv.co.jp
 ad.ntvmsnbc.com
 ad.nu
 ad.nwi.jp
-ad.nwt.cz
 ad.obuy.tw
 ad.ohmyad.co
 ad.ohmynews.com
@@ -18263,6 +18262,7 @@ api.frankerfacez.com
 api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
+api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.geetest.com
@@ -28813,6 +28813,7 @@ buckridge.link
 buckscountycouriertimes.com
 bucksfreepress-gb.bucksfreepress.co.uk
 buckwild.ca
+bucuo.me
 bucyrustelegraphforum.com
 bud-etc.com.ua
 budaedu.org
@@ -34063,7 +34064,6 @@ chromeexperiments.com
 chromefeedcontentsuggestions-pa.googleapis.com
 chromegae.com
 chromeos.dev
-chromes.cn
 chromestatus.com
 chromium.org
 chromium.woolyss.com
@@ -36094,7 +36094,6 @@ cnnphilippines.com
 cnnpoint.com
 cnnpolitics.com
 cnns.tw
-cnntt.com
 cno.jerkmate.com
 cnobol.com
 cnodejs.org

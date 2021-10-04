@@ -18205,7 +18205,6 @@ api.bonusberry.ru
 api.bounceexchange.com
 api.box.com
 api.breezip.com
-api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.carrottrack.io
@@ -18597,7 +18596,6 @@ app-hack.com
 app-lon07.marketo.com
 app-sales.net
 app-sdylqipai3917.com
-app-site-association.cdn-apple.com
 app-sj05.marketo.com
 app-sj06.marketo.com
 app-sj13.marketo.com
@@ -35954,6 +35952,7 @@ cnbct.org
 cnbeining.com
 cnbetway.com
 cnbluebox.com
+cnbole.net
 cncbinternational.com
 cncc-bingj-com.cn.a-0001.a-msedge.net
 cncc.bingj.com
@@ -36293,6 +36292,7 @@ cod.bitrec.com
 cod.edu
 cod.fotis.xyz
 cod.onemanandhisblog.com
+cod36.com
 cod86.com
 cod98.com
 codacy.com

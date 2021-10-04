@@ -1476,6 +1476,7 @@
 163xxf.com
 16482f75cb.com
 165.113.112.121.zz.countries.nerd.dk
+165.hk
 1653125.com
 16560077.com
 1656211.com
@@ -2244,7 +2245,6 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
-2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -18597,6 +18597,7 @@ app-hack.com
 app-lon07.marketo.com
 app-sales.net
 app-sdylqipai3917.com
+app-site-association.cdn-apple.com
 app-sj05.marketo.com
 app-sj06.marketo.com
 app-sj13.marketo.com

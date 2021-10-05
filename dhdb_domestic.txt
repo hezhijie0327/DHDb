@@ -13109,7 +13109,6 @@ bigcat.com
 bigcooa.xyz
 bigcoob.xyz
 bigcood.xyz
-bigcooe.xyz
 bigcook.xyz
 bigd.gome.com.cn
 bigda.com
@@ -15305,6 +15304,7 @@ ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
+ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -15685,7 +15685,6 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
-cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -34682,6 +34681,7 @@ idmgr.ww.taobao.com
 idn100.com
 idname.com
 ido-love.com
+ido512.com
 idoacg.com
 idoall.org
 idocbank.com

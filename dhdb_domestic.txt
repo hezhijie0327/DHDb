@@ -6494,6 +6494,7 @@
 892055959.sched.s2.tdnsv5.com
 893497.shop.m.liebiao.com
 896691.com
+8979.com
 898.travel
 8988ef7e4489348c49eb9fbf8eb534c3.v.smtcdns.net
 8989118.com
@@ -8487,6 +8488,7 @@ ads.mojicdn.com
 ads.oneway.mobi
 ads.privacy.qq.com
 ads.reader.yueyouxs.com
+ads.service.kugou.com
 ads.serving-sys.cn
 ads.shovtvnet.com
 ads.sina.com
@@ -18148,7 +18150,6 @@ cmcm.com
 cmcmcdn.com
 cmd5.com
 cmd5.la
-cmda.net
 cmdb.xyz
 cmdrh.com
 cmdschool.org
@@ -26832,7 +26833,6 @@ fengbao.com
 fengbaowo.com
 fengbuy.com
 fengcheco.com
-fengchedm.com
 fengchizixun.com
 fengchuanba.com
 fengchusheng.com
@@ -33838,7 +33838,6 @@ hxbt.haha5.cn
 hxbt.haha5.cn.cname3030.yjs-cdn.com
 hxdi.com
 hxdkfp.com
-hxen.com
 hxepawn.com
 hxfilm.com
 hxfjw.com
@@ -51703,6 +51702,7 @@ public-v6.sparta.mig.tencent-cloud.net
 public.app.autohome.com.cn
 public.creditchina.gov.cn
 public.ffquan.cn
+public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.sparta.mig.tencent-cloud.net
 public.wlbaike.com

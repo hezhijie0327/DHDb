@@ -20666,6 +20666,7 @@ au-mg5.mail.yahoo.com
 au.arjo.com
 au.bms.maxmara.com
 au.com
+au.download.windowsupdate.com
 au.engage.genesiscare.com
 au.pool.ntp.org
 au.promo.skf.com
@@ -74144,6 +74145,7 @@ img.3lift.com
 img.7clink.com
 img.adnyg.com
 img.adnyg.com.w.kunlungr.com
+img.ads.huntmad.com
 img.ahri-plus.com
 img.ak.impact-ad.jp
 img.antelopeaudio.com
@@ -79538,6 +79540,7 @@ jdlingyu.moe
 jdnpdn.johnnyseeds.com
 jdoqocy.com
 jdownloader.fr
+jdpavds.com
 jdpomi.dejuri.co.kr
 jdsbyb.webmd.com
 jdsports.at
@@ -106852,6 +106855,7 @@ oursteps.com.au
 ourteeko.com
 ourtherss.top
 ourtoolbar.com
+ourtv.hk
 ourtxt.net
 ourwindsor.ca
 ourworldindata.org
@@ -117826,7 +117830,6 @@ rbmcash.com
 rbnainternational.com
 rbnt.org
 rbp.emea.mxptint.net
-rbp.mxptint.net
 rbplc.com
 rbqq.com
 rbrandlibrary.com

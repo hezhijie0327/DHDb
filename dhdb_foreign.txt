@@ -12813,6 +12813,7 @@ ads.mdchoice.com
 ads.mediamayhemcorp.com
 ads.mediaodyssey.com
 ads.mediasmart.es
+ads.mediaturf.net
 ads.medienhaus.de
 ads.meetcelebs.com
 ads.mefeedia.com
@@ -20002,6 +20003,7 @@ asia.monerise.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
+asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -48109,6 +48111,7 @@ e6265.dscb.akamaiedge.net
 e6265.dscx.akamaiedge.net
 e6449.a.akamaiedge.net
 e6653.dscf.akamaiedge.net
+e66gg.com
 e673.dsce9.akamaiedge.net
 e673.dsce9.akamaiedge.net.0.1.cn.akamaiedge.net
 e673.dscx.akamaiedge.net
@@ -59004,6 +59007,7 @@ g7329120395.co
 g7527204730.co
 g792337340.co
 g8121457735.co
+g8517626405.co
 g8715710740.co
 g8873.com
 g8913795075.co
@@ -89185,7 +89189,6 @@ m.fa9867.com
 m.fcuit.com
 m.fcunq.com
 m.fdoun.com
-m.feipaihehuoren.cn
 m.feisia1.cn
 m.fengwanwl.com
 m.fenrs.com

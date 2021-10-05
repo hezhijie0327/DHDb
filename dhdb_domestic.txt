@@ -10261,7 +10261,6 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
-api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -31829,6 +31828,7 @@ hermes-server.hupu.com
 hermes.cn
 hermes.hupu.com
 hermes.jd.com
+hermes.jd.com.gslb.qianxun.com
 heroclick.cn
 heroes.nos.netease.com
 heroestactics.com
@@ -35275,6 +35275,7 @@ images2018.cnblogs.com
 images3.c-ctrip.com
 images3.c-ctrip.com.a.bdydns.com
 images3.c-ctrip.com.cdn20.com
+images4.c-ctrip.com
 images4.c-ctrip.com.cdn20.com
 imagescale.gmugmu.com
 imagescale.gmugmu.com.w.cdngslb.com

@@ -1820,7 +1820,6 @@
 17u.cn
 17u.com
 17u.net
-17u1u.com
 17u7.com
 17ugo.com
 17uhui.com
@@ -2884,6 +2883,7 @@
 2zimu.com
 3.39zuoye.com
 3.5646.cn
+3.cn.pool.ntp.org
 3.iscrv.com
 3.pic.pc6.com
 3.ssqzj.com
@@ -13928,7 +13928,6 @@ boobooke.com
 booea.com
 boohee.com
 book.img.ireader.com
-book.qidian.com
 book.sina.com.cn
 book118.com
 book1234.com

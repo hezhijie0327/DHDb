@@ -2,7 +2,6 @@
 0-6.com
 0.pic.paopaoche.net
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 00000.host
@@ -26104,6 +26103,7 @@ eyuyan.la
 eyuyao.com
 eywedu.com
 eywedu.org
+eywl.cc
 eyy168.com
 eyy8.vip
 ez-leaf.com
@@ -45690,6 +45690,7 @@ mixin.cc
 mixiong.tv
 mixrnb.com
 mixvvideo.com
+miy.cc
 miyabaobei.com
 miyaboke.com
 miyanlife.com

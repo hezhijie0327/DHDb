@@ -6888,6 +6888,7 @@ alqbyte.com
 alqp37.com
 alqp41.com
 alqp56.com
+alqp76.com
 alqp84.com
 alqp95.com
 alqyzcpqi.danaher.org
@@ -14895,6 +14896,7 @@ cspokemon.com
 csray.cf
 csreaver.com
 csrich.pro
+csrnoney.com
 csrwindows.net
 css.juqingba.cn
 css.network
@@ -16337,7 +16339,6 @@ dc.tremormedia.com
 dc.vmoters.com
 dc0031.com
 dc0067.com
-dc0069.com
 dc0555.com
 dc121677.com
 dc173cc1070c2ab16b1d.date
@@ -37782,7 +37783,6 @@ ocm8.masmovil.es
 ocmhood.com
 ocmoo.net
 ocone.loan
-ocpan.org
 ocslab.com
 ocsp-certum.com
 ocsp-data.us.cdnetworks.com
@@ -43889,7 +43889,6 @@ seed-2.nimiq.net
 seed-20.nimiq.net
 seed-20.nimiq.network
 seed-3.nimiq.net
-seed-3.nimiq.network
 seed-4.nimiq.net
 seed-4.nimiq.network
 seed-5.nimiq.net

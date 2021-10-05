@@ -10231,7 +10231,6 @@ api-news.zhhainiao.com
 api-pan.xunlei.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
-api-pricetag.dmall.com
 api-prod.leancloud.cn
 api-push.meizu.com
 api-sc.wtzw.com
@@ -32779,7 +32778,6 @@ houdao.net
 houdask.com
 houdunwang.com
 houge.biz
-hougonw.com
 houkai.com
 houmags.com
 houpuwang.com
@@ -46820,6 +46818,7 @@ myes.youku.com
 myf6.com
 myfans.cc
 myfcomic.com
+myfreshnet.com
 myfun.com
 myfun7.com
 myfund.com

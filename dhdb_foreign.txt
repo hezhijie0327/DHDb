@@ -18158,6 +18158,7 @@ api-docsprint-mo.net.daraz.com
 api-edge.apps-lb.itunes-apple.com.akadns.net
 api-edge.apps.apple.com
 api-edge.apps.apple.com.edgekey.net
+api-etn.beeppool.org
 api-exponea.o2.cz
 api-exponea.o2.sk
 api-extractor.com
@@ -34142,6 +34143,7 @@ chtntr.com
 chtoumenja.biz
 chuaizhe.com
 chuanbofanyi.com
+chuandaizc.com
 chuang-yen.org
 chuangchangnet.com
 chuangcn.org
@@ -66788,6 +66790,7 @@ griyalestari.com
 grjs02.com
 grjs06.com
 grjs08.com
+grjsq.biz
 grjsq.me
 grmtas.com
 grmtech.net
@@ -72264,7 +72267,6 @@ hx-ss.cc
 hx2.tv
 hx3366.net
 hx399.com
-hx623.cn
 hx627.com
 hx629.com
 hx95.com
@@ -80939,6 +80941,7 @@ jsfeedadsget.com
 jsfiddle.net
 jsfuel.com
 jsfuz.com
+jsfw8.com
 jsh911.com
 jsharer.com
 jshddq.net
@@ -89139,7 +89142,6 @@ m.bookben.com
 m.box.com
 m.boyfriendtv.com
 m.bruceclay.jpn.com
-m.bs641.cn
 m.bsnnk.com
 m.bumrungrad1378.com
 m.ca181.com
@@ -89380,7 +89382,6 @@ m.transfix.io
 m.travelzoo.com
 m.trb.com
 m.ts8577.com
-m.tsgyg.cn
 m.tuhao456.com
 m.tutufu.com
 m.tz605.com
@@ -106489,7 +106490,6 @@ organcare.org.tw
 organharvestinvestigation.net
 organic-growth.biz
 organic-harmony.com
-organicalews.info
 organiccrap.com
 organicflametail.com
 organicindia.com

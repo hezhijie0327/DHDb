@@ -1100,7 +1100,6 @@
 12322app.com
 1232463.shop.liebiao.com
 12333ask.com
-12333sb.com
 12333si.com
 1234.zgxue.com
 1234001.com
@@ -1703,6 +1702,7 @@
 1757233.b2b.liebiao.com
 1758.com
 175club.com
+175game.com
 175ha.com
 175pt.com
 175pt.net
@@ -5207,7 +5207,6 @@
 5ykj.com
 5you.com
 5youchou.com
-5yrra.deshuangwang.cn
 5yun.org
 5zai.com
 5zewin.tdum.alibaba.com
@@ -15620,7 +15619,6 @@ cdn-xalbum2.xiaoniangao.cn
 cdn-xphoto2.xiaoniangao.cn
 cdn-xyx.raink.com.cn
 cdn-zjk-trans.dingtalk.com
-cdn.000714.xyz
 cdn.0i-i0.com
 cdn.10bests.com
 cdn.10bests.com.w.kunlungr.com
@@ -16619,7 +16617,6 @@ chimezi.com
 china-315.com
 china-apt.com
 china-asahi.com
-china-asm.com
 china-b.com
 china-caa.org
 china-cas.org
@@ -43722,6 +43719,7 @@ m.lanqiuba.com
 m.lanshiwan.cn
 m.laxienian888.com
 m.le.com
+m.lengren.com.cn
 m.lenovo.com.cn
 m.lenovo.com.cn.wscdns.com
 m.lizhi.fm

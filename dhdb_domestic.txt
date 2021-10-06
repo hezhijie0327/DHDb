@@ -6336,7 +6336,6 @@
 869v.com
 86a3404a819842866541aa6d4ac76b99.dlied1.cdntips.net
 86amsdy.com
-86campus.com
 86clouds.com
 86ditu.com
 86djw.com
@@ -10262,6 +10261,7 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
+api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -45051,7 +45051,6 @@ mercury.jd.com
 mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com
-merklechina.com
 mermaid.ximalaya.com
 mescroll.com
 meshang.net

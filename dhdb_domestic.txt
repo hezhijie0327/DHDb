@@ -19965,7 +19965,6 @@ ctc.qzonestyle.gtimg.cn
 ctc.qzonestyle.gtimg.cn.sched.px-dk.tdnsv6.com
 ctc.qzs.qq.com
 ctc.weather.com.cn
-ctcdns.com
 ctcefive.com
 ctcmo.com
 ctcnn.com
@@ -20733,6 +20732,7 @@ dach3mnw.v1d.szbdyd.com
 dach665e.v1d.szbdyd.com
 dach7dpq.v1d.szbdyd.com
 dach7qpd.v1d.szbdyd.com
+dachadu.cn
 dache.meituan.com
 dachenglaw.com
 dachengnet.com
@@ -26914,7 +26914,6 @@ fenxi.com
 fenxi.org
 fenxiangdashi.com
 fenxianglife.com
-fenxiaoba.net
 fenxiyi.com
 fenxuekeji.com
 fenyang.baixing.com
@@ -29681,7 +29680,6 @@ growthpic.weishi.qq.com
 grpc.biliapi.net
 grpc.snm0516.aisee.tv
 grs.dbankcloud.cn
-grs.dbankcloud.com
 grs.hicloud.com
 grt-china.com
 grtn.cn

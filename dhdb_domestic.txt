@@ -7879,6 +7879,7 @@ abslw.com
 abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
+abtest.tantanapp.com
 abto.cc
 abuquant.com
 abuyun.com
@@ -8045,7 +8046,6 @@ act-vip-ssl.xunlei.com.w.kunlunca.com
 act.cmcmcdn.com
 act.commercial.shouji.360.cn
 act.daoju.qq.com
-act.dmall.com
 act.guanjia.qq.com
 act.qq.com
 act.qzone.qq.com

@@ -10232,6 +10232,7 @@ api-news.zhhainiao.com
 api-pan.xunlei.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
+api-pricetag.dmall.com
 api-prod.leancloud.cn
 api-push.meizu.com
 api-sc.wtzw.com
@@ -42503,6 +42504,7 @@ ljw012.com
 ljwit.com
 ljxww.com
 ljzfin.com
+lk.4jzl.cn
 lk.brand.sogou.com
 lk.kepuwen.com
 lkcsgo.com
@@ -50139,6 +50141,7 @@ pc.us.sinaimg.cn
 pc.videoclick.baidu.com
 pc.wangpan.xycdn.n0808.com
 pc.weixin.qq.com
+pc.weizhenwx.com
 pc.xunlei.com
 pc001.download.wh.cmcm.com
 pc0359.cn

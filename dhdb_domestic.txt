@@ -659,6 +659,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -8944,7 +8945,6 @@ aidaxing.com
 aidaxue.com
 aideep.com
 aider-res.meizu.com
-aidg.cc
 aidianji.net
 aidiao.com
 aidigger.com

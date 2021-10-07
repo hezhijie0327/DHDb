@@ -39435,7 +39435,6 @@ k12.vip
 k128-gspe.gslb.ksyuncdn.com
 k128-inapp.gslb.ksyuncdn.com
 k128-iosapps.gslb.ksyuncdn.com
-k128-mzstatic-js007.gslb.js007.jsfycdn3.com
 k128-mzstatic.gslb.ksyuncdn.com
 k128-swcdn.gslb.ksyuncdn.com
 k128-updates.gslb.ksyuncdn.com

@@ -11490,6 +11490,7 @@ cartooncn.org
 cartoonslord.com
 cartstick.com
 carutinv.com
+carxzp.com
 cas.pxl.ace.advertising.com
 casa7mares.com.br
 case-csgo.com
@@ -19950,7 +19951,6 @@ events-prod-1-1033355748.us-east-1.elb.amazonaws.com
 events.kalooga.com
 events.mobile.optimizely.com
 events.rti.org.tw
-eventstagr.am
 eventsteam.pro
 eventtracker.elitedaily.com
 eventwisparwil.ru
@@ -39842,7 +39842,6 @@ play.tainiesonline.stream
 play.vb.wearesaudis.net
 play.video.estream.nu
 play.videos.videos.vidto.me
-play.videos.vidto.me
 play.wm.yololike.space
 play.www.intellecthosting.net
 play.xmr.e-libra.ru

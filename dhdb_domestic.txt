@@ -2,6 +2,7 @@
 0-6.com
 0.pic.paopaoche.net
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 00000.host
@@ -48357,6 +48358,7 @@ o.4x25v.cn
 o.alimb.top
 o.phb123.com
 o1.jyjyj.cn
+o2.cdn.t5.work
 o2123.com
 o2ee.com
 o2moment.com
@@ -50118,7 +50120,6 @@ pbd.sogou.com
 pbmp.ali213.net
 pbootcms.com
 pbpay.didistatic.com
-pbsvpn.com
 pbtxt.com
 pc-dvd.com
 pc-fly.com

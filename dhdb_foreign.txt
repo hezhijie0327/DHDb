@@ -660,7 +660,6 @@
 1.15.73.106.zz.countries.nerd.dk
 1.231.196.126.zz.countries.nerd.dk
 1.appexchange.com
-1.asia.pool.ntp.org
 1.bb5522.ws
 1.bb6688.ws
 1.car21.net.daraz.com
@@ -20020,7 +20019,6 @@ asia.monerise.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
-asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -21093,6 +21091,7 @@ autouncle.at
 autouncle.de
 autouncle.it
 autouncle.se
+autoupdate.tantanapp.com
 autoupdate.termius.com
 autovistagroup.com
 autozone.actonservice.com
@@ -23272,6 +23271,7 @@ bbb111.com
 bbb112.net
 bbb2017.duckdns.org
 bbb36.net
+bbb678.com
 bbb916.net
 bbbaaa.com
 bbbb.goace.jp
@@ -24301,7 +24301,6 @@ benjamin-taganga.info
 benjamingolub.com
 benjaminobdyke.com
 benjibot.xyz
-benkejieye.com
 benliton.com
 benn8bord.com
 benniuluntai.cn
@@ -79449,7 +79448,6 @@ jbo03.com
 jbo064.com
 jbo10.com
 jbo101.com
-jbo106.com
 jbo13.com
 jbo25.com
 jbo27.com
@@ -87175,6 +87173,7 @@ lizhi.cowtransfer.com
 lizhi.us12.list-manage.com
 lizhi001.com
 lizhongyi.com
+lizi.com
 lizol.co.in
 lizong888.com
 lizzietolerance.com
@@ -88348,6 +88347,7 @@ lpxtv.com
 lpzxed.em.com.br
 lpzxed.superesportes.com.br
 lpzxed.uai.com.br
+lq1.abcxs.com
 lq2w6jdxh6wdvlcefeufuyienzdap1618680169.nuid.imrworldwide.com
 lq41.vip
 lq580.com
@@ -111852,7 +111852,6 @@ pogledaj.name
 pogo.com
 pogo.tv
 pogobeta.com
-poh.biqumo.com
 poh.xxxy.biz
 pohe.co.nz
 pohill.com
@@ -115711,6 +115710,7 @@ qiaojiang.tv
 qiaomi.com
 qiaopiguniang.com
 qiaoshenghuo.com
+qibang123.com
 qibookw.com
 qibuluo.com
 qidian.ca
@@ -118054,6 +118054,7 @@ read.medium.com
 read01.com
 read678.com
 read8.net
+read8.org
 read9891.github.io
 readaloud.org
 reader.roodo.com
@@ -125336,7 +125337,6 @@ serviporno.com
 servized.com
 servletengine.com
 servote.de
-servserv.generals.ea.com
 servw.bid
 sesame.org
 sesamesoftware.com

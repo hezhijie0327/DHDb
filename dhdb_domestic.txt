@@ -2584,6 +2584,7 @@
 24haowan.com
 24hmb.com
 24jz.com
+24kwx.com
 24maker.com
 24money.com
 24olv2.chinaacc.com
@@ -15682,6 +15683,7 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
+cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -15718,6 +15720,7 @@ cdn.segmentfault.com
 cdn.sencdn.com
 cdn.sencdn.com.w.kunlungr.com
 cdn.shanghai.nyu.edu
+cdn.shopifycdn.net
 cdn.shuidihuzhu.com
 cdn.shuidihuzhu.com.m.alikunlun.com
 cdn.sm.cn

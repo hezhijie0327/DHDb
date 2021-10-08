@@ -1811,7 +1811,6 @@
 17tanwan.com
 17taotaoa.com
 17taotaob.com
-17taotaoba.com
 17taotaoc.com
 17tcw.com
 17tigan.com
@@ -2187,7 +2186,6 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
-2.android.pool.ntp.org
 2.arpun.com
 2.bashenghuo.com
 2.cn.pool.ntp.org
@@ -19157,6 +19155,7 @@ congyicn.com
 conn.wemeet.tencent.com
 conn1.coloros.com
 conn1.oppomobile.com
+conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com

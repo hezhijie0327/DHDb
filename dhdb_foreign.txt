@@ -17161,6 +17161,7 @@ analytics.linuxsupport.tech
 analytics.live.com
 analytics.liveact.cri-mw.jp
 analytics.livestream.com
+analytics.localytics.com
 analytics.logsss.com
 analytics.loop-cloud.de
 analytics.lunge.de
@@ -18648,6 +18649,7 @@ app-hack.com
 app-lon07.marketo.com
 app-sales.net
 app-sdylqipai3917.com
+app-site-association.cdn-apple.com
 app-sj05.marketo.com
 app-sj06.marketo.com
 app-sj13.marketo.com

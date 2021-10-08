@@ -14601,6 +14601,7 @@ c.tvsou.com
 c.uaa.iqiyi.com
 c.v4dwkcv.com
 c.w.inmobi.cn
+c.weizhenwx.com
 c.wjlzs.cn
 c.wkanx.com
 c.woaiseo.com.cn
@@ -32229,7 +32230,6 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -52671,7 +52671,6 @@ qgsydw.com
 qgtql.com
 qgvps.com
 qgwsp.com
-qgxl.org
 qgysj.org
 qgzzz.com
 qh-cdn.com

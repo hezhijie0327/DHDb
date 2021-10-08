@@ -5673,6 +5673,7 @@ ads3.mojiva.com
 ads3.udc.advance.net
 ads3.virtumundo.com
 ads3.zdnet.com
+ads360.cn
 ads4.ad-center.com
 ads4.advance.net
 ads4.canoe.ca
@@ -28175,7 +28176,6 @@ javaweb.io
 javblow.com
 javbus22.com
 javdove2.live
-javdove2.site
 javfinder.is
 javitamedical.com
 javtorrent.xyz
@@ -30580,6 +30580,7 @@ l07m8gu.cn
 l0l.top
 l1.5fh44.cn
 l1.soarfi.cn
+l2-toutiao-onlycn-ml-js007.gslb.js007.jsfycdn3.com
 l2.kouwku.cn
 l2.l.qq.com
 l2.soarfi.cn
@@ -33023,6 +33024,7 @@ m.llaoz.com
 m.llgkyj.cn
 m.llvez.com
 m.log57.top
+m.lolvsdota.cn
 m.longshiwl.com
 m.lovezhishou.com
 m.lpaoz.com
@@ -35294,6 +35296,7 @@ modazx.com
 modelegating.com
 modengfei.com
 modern-deco.jp
+modern.tenpay.com
 modernhacks.net
 modgirtspod.work
 modifiedgames.net

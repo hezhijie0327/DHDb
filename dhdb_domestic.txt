@@ -655,6 +655,7 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -8501,7 +8502,6 @@ ads.weilitoutiao.net
 ads.wepiao.com
 ads.yourfreedvds.com
 ads.yxdown.com
-ads360.cn
 adsage.cn
 adsame.com
 adsame.liba.com
@@ -40809,7 +40809,6 @@ l1.tcdnlive.com
 l1.xfinfr.com
 l2-toutiao-ipv6-ml.gslb.ksyuncdn.com
 l2-toutiao-ml.gslb.ksyuncdn.com
-l2-toutiao-onlycn-ml-js007.gslb.js007.jsfycdn3.com
 l2-toutiao-onlycn-ml.gslb.ksyuncdn.com
 l2.cloudhy.tcdn.qq.com
 l2.liveplay.myqcloud.com
@@ -43713,7 +43712,6 @@ m.lengren.com.cn
 m.lenovo.com.cn
 m.lenovo.com.cn.wscdns.com
 m.lizhi.fm
-m.lolvsdota.cn
 m.lousivency.com.cn
 m.lu.sogou.com
 m.lusrg.cn
@@ -45995,7 +45993,6 @@ modao.cc
 modb.pro
 model.sspu.edu.cn
 modeng178.com
-modern.tenpay.com
 modernsky.com
 modernweekly.com
 modian.com
@@ -48435,6 +48432,7 @@ ocsp.pki.goog
 ocsp.us.cdnetworks.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
+ocsp2.g.aaplimg.com
 ocsp3.sheca.com
 oct-cts.com
 oct-sh.com

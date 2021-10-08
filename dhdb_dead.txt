@@ -5827,7 +5827,6 @@ adserver.newtimes.com
 adserver.omroepzeeland.nl
 adserver.p2pforum.it
 adserver.phillyburbs.com
-adserver.plhb.com
 adserver.pollstar.com
 adserver.portalofevil.com
 adserver.portugalmail.pt
@@ -30014,6 +30013,7 @@ kitchenfurniture.cc
 kithrup.matchlogic.com
 kitkatsoft.net
 kitsjim.com
+kitster.me
 kity.pw
 kiwisouvenirs.com
 kiworeequnasaw.info
@@ -35662,7 +35662,6 @@ ms.yandex.ru
 ms01341.club
 ms014.com
 ms024.com
-ms196.com
 ms378.com
 ms52.ml
 ms88222.com

@@ -457,7 +457,6 @@
 0756idc.com
 0756zx.com
 0757fc.com
-0757kd.cn
 0757p.com
 0757rc.com
 0758net.com
@@ -2189,6 +2188,7 @@
 2.aili.com
 2.arpun.com
 2.bashenghuo.com
+2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -13502,7 +13502,6 @@ bjkgjlu.com
 bjkhzx.com
 bjkix-pay.kuaishoupay.com
 bjkrtwl.com
-bjl06.com
 bjl11.com
 bjl2033.com
 bjl666.com
@@ -15302,7 +15301,6 @@ ccets.com
 ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
-ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
 ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
@@ -25542,6 +25540,7 @@ enroobbs.com
 enrz.com
 enshide.com
 enshijob.com
+ensts.cn
 enstylement.com
 ent.163.com
 ent.china.com
@@ -38256,7 +38255,6 @@ jjsll.com
 jjtfyjy.com
 jjtianshangi.com
 jjtravel.com
-jjunj.com
 jjvod.tv
 jjwxc.com
 jjwxc.net
@@ -49589,7 +49587,6 @@ p31-keyvalueservice.icloud.com.cn
 p31-quota.icloud.com.cn
 p31-sharedstreams.icloud.com.cn
 p31-streams.icloud.com.cn
-p31.net
 p32-caldav.icloud.com.cn
 p32-contacts.icloud.com.cn
 p32-escrowproxy.icloud.com.cn

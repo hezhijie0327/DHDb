@@ -2759,7 +2759,6 @@
 24log.fr
 24log.ru
 24media.gr
-24mk.xyz
 24mx.se
 24network.it
 24newstech.com
@@ -20752,6 +20751,7 @@ audience.standardchartered.com.tw
 audience.systems
 audience.visiblemeasures.com
 audience2media.com
+audienceapi.newsdiscover.com.au
 audiencefuel.com
 audienceinsights.com
 audienceinsights.net
@@ -30160,6 +30160,7 @@ c833.com
 c8763.com
 c88788.com
 c888.net
+c8881.com
 c93b1cd7829ee.com
 c9998.com
 c9ee775cd060169d83e6deb0534463f7.clo.footprintdns.com
@@ -31621,7 +31622,6 @@ cavalierebici.it
 cavelab.dev
 cavello.com
 cavendishmaxwell.com
-cavinessad.com
 cavip111.com
 cavy9soho.com
 cawbarthe.com
@@ -58306,6 +58306,7 @@ ftp.cdn.xcdn.top
 ftp.chromeburner.com
 ftp.coinlab.biz
 ftp.collabvm.ml
+ftp.com
 ftp.freecontent.info
 ftp.freecontent.net
 ftp.iana.org
@@ -74599,6 +74600,7 @@ imycdn.com
 imyip.net
 imyqb.cn
 imysql.com
+imzhide.net.cn
 imzhou.com
 in-appadvertising.com
 in-disguise.com
@@ -84755,7 +84757,6 @@ lawschina.com
 lawschool.colorado.edu
 lawsofhongkong.com
 lawyerlegion.com
-lawyerpu.com
 lawyers.rigbycooke.com.au
 lawyertender.com
 lax-nfreya.net.daraz.com
@@ -85561,7 +85562,6 @@ lescigales.org
 leserservice-tracking.de
 lesfurets.com
 lesgrandsmoyens.org
-leshi123.cc
 lesile.net
 lesinrocks.com
 lesjoforsab.com
@@ -109142,6 +109142,7 @@ pbs.twimg.com
 pbsidc.com
 pbsoftware.org
 pbstats.jpmorgan.com
+pbsvpn.com
 pbteen.com
 pbterra.com
 pbtxt.win
@@ -116782,7 +116783,6 @@ r.5207470.com
 r.ad1.ru
 r.akipam.com
 r.bbci.co.uk
-r.browser.miui.com
 r.dir.bg
 r.dlandroid.com
 r.edge.inmobicdn.net

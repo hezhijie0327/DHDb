@@ -36907,6 +36907,7 @@ com.ru
 com.se
 com.tn
 com.tw
+com.vc
 com.vn
 com126.com
 com21.com
@@ -45611,6 +45612,7 @@ dnsrd.com
 dnssec-df.gexperiments4.com
 dnssec-nd.gexperiments1.com
 dnssec.net
+dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 dnsseed.emzy.de
 dnstool.xyz
@@ -79991,6 +79993,7 @@ jiduu.com
 jie.idv.tw
 jiecao.com
 jiedaibao10g.com
+jiedaibao120.cn
 jiehua.cz
 jiekc.com
 jiekenmould.com
@@ -103362,7 +103365,6 @@ ntcontributio.biz
 ntd.com
 ntd.tv
 ntdca.com
-ntdcantonese.com
 ntdimg.com
 ntdll.top
 ntdoeb.garageclothing.com
@@ -109372,6 +109374,7 @@ pdot.constructbuy.com
 pdproxy.com
 pdri.or.id
 pds-init.ess.apple.com
+pds-midea.com
 pds-prod.v.aaplimg.com
 pds.ess-apple.com.akadns.net
 pds.ess.apple.com
@@ -117936,6 +117939,7 @@ rbrandlibrary.com
 rbromania.com
 rbrxg.com
 rbsaust.com.au
+rbsgr.com
 rbsm.com
 rbspeakup.com
 rbtdcq.x2o.be
@@ -120302,6 +120306,7 @@ robertsoncollege.com
 robertwalters.cn
 robfuscate.com
 robhope.com
+robiaa.com
 robimobi.com
 robinchow.net
 robinhood.com
@@ -124640,6 +124645,7 @@ seed-12.nimiq.com
 seed-12.nimiq.network
 seed-13.nimiq-network.com
 seed-13.nimiq.com
+seed-13.nimiq.network
 seed-14.nimiq-network.com
 seed-14.nimiq.com
 seed-15.nimiq-network.com

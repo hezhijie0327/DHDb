@@ -12721,6 +12721,7 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -15684,7 +15685,6 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
-cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -33886,7 +33886,6 @@ hycfw.com
 hycfxdc.com
 hycgy.com
 hydarts.com
-hydata.cc
 hydbest.com
 hydcd.com
 hydra.alibaba.com
@@ -46384,7 +46383,6 @@ msanjia.com
 msc.jd.com
 msc.jd.com.gslb.qianxun.com
 mscbsc.com
-msch.f.360.cn
 msclick2.kuwo.cn
 mscto.com
 msdn.itellyou.cn
@@ -51110,6 +51108,7 @@ pmptuan.com
 pmquanzi.com
 pms.mb.qq.com
 pmsg.115.com
+pmsra.com
 pmt-origin-cn.battle.net
 pmtalk.club
 pmtown.com

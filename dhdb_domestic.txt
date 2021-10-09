@@ -15685,6 +15685,7 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
+cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -33830,7 +33831,6 @@ hxdkfp.com
 hxepawn.com
 hxfilm.com
 hxfjw.com
-hxgame.net
 hxgqw.com
 hxgs.net
 hxgwott.com
@@ -41857,7 +41857,6 @@ licai18.com
 licaie.com
 licaike.com
 licaimofang.com
-licancan.com
 license.bluesoleil.com
 license.sensetime.com
 license.unity.cn
@@ -56705,7 +56704,6 @@ sdk.xwuad.com
 sdk.xyapi.game.qq.com
 sdk.zsdfm.com
 sdk1xyajs.data.p2cdn.com
-sdk2.youguoquan.com
 sdkapi.douyucdn.cn
 sdkapi1.bizport.cn
 sdkapi10.bizport.cn

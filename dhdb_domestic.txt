@@ -30874,7 +30874,6 @@ hanhaiqikan.com
 hanjianbing.org
 hanjiaying.com
 hanjjl.com
-hanjutv.com
 hanking.com
 hankunlaw.com
 hanlei.org
@@ -32587,6 +32586,7 @@ home.115.com
 home.51cto.com
 home.console.aliyun.com
 home.httpcn.com
+home.m.jd.com
 home.m.jd.com.gslb.qianxun.com
 home.meishichina.com
 home.mi.com
@@ -33084,6 +33084,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.ocloud.heytapmobi.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
 httpsdns.baidu.com
@@ -40206,6 +40207,7 @@ knewbi.com
 knewone.com
 knewsmart.com
 knicks.jd.com
+knicks.jd.com.gslb.qianxun.com
 knja123.top
 knowgive.com
 knownpcb.com

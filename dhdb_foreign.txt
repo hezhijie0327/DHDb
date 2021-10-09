@@ -20694,6 +20694,7 @@ au-mg5.mail.yahoo.com
 au.arjo.com
 au.bms.maxmara.com
 au.com
+au.download.windowsupdate.com
 au.engage.genesiscare.com
 au.pool.ntp.org
 au.promo.skf.com
@@ -58518,7 +58519,6 @@ fun166.com
 fun1738.com
 fun1818.com
 fun216.com
-fun277.com
 fun308.com
 fun315.com
 fun327.com
@@ -89161,7 +89161,6 @@ m.88y4b.com
 m.89kvh.cn
 m.8t5xo.cn
 m.90mh.com
-m.958so.cn
 m.9gag.com
 m.a5188yes.com
 m.aak90.com

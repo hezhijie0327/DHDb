@@ -16359,6 +16359,7 @@ chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
 chat1.jd.com
+chat1.jd.com.gslb.qianxun.com
 chataixin59.byf.com
 chatm.com
 chatnos.com
@@ -32072,7 +32073,6 @@ hiliad.com
 hillstonenet.com
 hillyton.com
 hiloong.com
-hilunwen.com
 himaker.com
 himalayas-ios-xyx-big-svc.beike.cn
 himawari-japan.com
@@ -33409,6 +33409,7 @@ hui.sohu.com
 hui10.com
 hui10.net
 hui20.com
+hui43.com
 hui800.com
 hui800.net
 huian.baixing.com
@@ -35174,7 +35175,6 @@ image.missfresh.cn
 image.missfresh.cn.wswebpic.com
 image.n.shifen.com
 image.newasp.net
-image.p4p.sogou.com
 image.planet.youku.com
 image.ptmind.com
 image.res.hunantv.com

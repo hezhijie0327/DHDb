@@ -10711,6 +10711,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -30000,6 +30001,7 @@ gukaihu.com
 gukun.com
 gulandscape.com
 gulfstream.didistatic.com
+guliw.com
 gullmap.com
 gulltour.com
 gulou120.com
@@ -53233,7 +53235,6 @@ qishu.co
 qishunbao.com
 qisool.com
 qisuu.com
-qitete.com
 qiti88.com
 qitian.biz
 qitoon.com

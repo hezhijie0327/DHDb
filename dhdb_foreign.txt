@@ -2249,6 +2249,7 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
+2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -38460,7 +38461,6 @@ count.webstatistik-bw.de
 count.yandeg.ru
 count24.de
 count25.51yes.com
-count29.51yes.com
 count6.51yes.com
 countante.info
 countar.de
@@ -80788,6 +80788,7 @@ jqsite.com
 jqsrmm.sousou.co.jp
 jquery-cdn.download
 jquery-js.com
+jquery-uim.download
 jquery.com
 jqueryget.com
 jquerymobile.com
@@ -93615,6 +93616,7 @@ mendocash.com
 mendprayer.com
 menepe.com
 menestresser.xyz
+mengbli.com
 mengchenghui.com
 menghuanzhilv.cn
 menghuanzs.com
@@ -114753,7 +114755,6 @@ pubgalaxy.com
 pubgears.com
 pubgenius.io
 pubgorg.xyz
-pubgten.com
 pubguru.com
 pubhtml5.com
 pubimgs.sapo.pt
@@ -116001,6 +116002,7 @@ qndb.net
 qngdju.home24.be
 qnigncxigkdbhxwptsabeuxvbsdkf1620829972.nuid.imrworldwide.com
 qnmlgb.tech
+qnmsq.com
 qnocnf.bask.ru
 qnqdpy.edreams.net
 qnsr.com

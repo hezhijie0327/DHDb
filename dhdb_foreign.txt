@@ -39,7 +39,6 @@
 001union.com
 001www.com
 002.0x1f4b0.com
-002.com
 002008.com
 00223885.com
 0022msc.com
@@ -2249,7 +2248,6 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
-2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -5503,6 +5501,7 @@
 5ll.am
 5lu8.com
 5lxtv.com
+5lzb.com
 5m68.com
 5maodang.com
 5mcwl.pw
@@ -19147,7 +19146,6 @@ applift.com
 applink.getbambu.com
 applle.com
 apploading.mobi
-applog.matrix.netease.com
 applog.musical.ly
 applog.zaycev.net
 applogs-v2.pixelfederation.com
@@ -66982,6 +66980,7 @@ grupticaje.pro
 grursusy.com
 grushashuka.pro
 grutopsathu.pro
+grvape.com
 grvmedia.com
 grxftt.oogarden.com
 grxjgc.com
@@ -118196,6 +118195,7 @@ realblogs.info
 realblogs.name
 realcanadiansuperstore.ca
 realcastmedia.com
+realcelebrityphonenumber.com
 realchemistry.com
 realcities.com
 realclear.com
@@ -124714,6 +124714,7 @@ seed-pol-2.inf.nimiq.network
 seed-pol-3.inf.nimiq.network
 seed-pol-4.inf.nimiq.network
 seed.bitcoin.sipa.be
+seed.bitcoin.sprovoost.nl
 seed.bitcoin.wiz.biz
 seed.bitcoinstats.com
 seed.btc.petertodd.org

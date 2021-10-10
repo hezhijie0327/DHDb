@@ -24543,6 +24543,7 @@ e.sogou.com
 e.tapdb.net
 e.tf.360.cn
 e.vaxyz.com
+e.vchiy.com
 e.weather.com.cn
 e.weibo.com
 e.wsxxu.com
@@ -37645,7 +37646,6 @@ jianzhila.net
 jianzhimao.com
 jianzhiweike.net
 jianzhiyixin.com
-jianzhu2008.com
 jiaoben.ganji.cn
 jiaoben.jucanw.com
 jiaoben.net

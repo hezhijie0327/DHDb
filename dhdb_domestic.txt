@@ -1,5 +1,6 @@
 0-100.com
 0-6.com
+0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
 0.pool.ntp.org
@@ -25000,7 +25001,6 @@ edcba.com
 edd1d412e86361b58929a8d0e4a5ba3d.dlied1.cdntips.net
 eddic.net
 ede35.com
-edenhermosa.com
 edge.ivideo.sina.com.cn
 edhic.com
 edhk9.com

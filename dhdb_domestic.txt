@@ -32287,7 +32287,6 @@ hkrdbdry.v1d.szbdyd.com
 hkslg520.com
 hkstv.tv
 hktheone.com
-hktv8.com
 hktzschool.com
 hku.baidu.com
 hkvwet.com
@@ -36499,7 +36498,6 @@ iqiyipic.com
 iqq-gate.htrj.qq.com
 iqq-login.htrj.qq.com
 iqq.smoba.qq.com
-iqu-operation.com
 iquanba.com
 iquanfen.com
 iquanwai.com
@@ -40408,6 +40406,7 @@ ksaxx.com
 ksbao.com
 ksbdsk.jomodns.com
 kscdn.yishihui.com
+ksdq0514.com
 ksense.com
 ksgnr.com
 kshitachi.com
@@ -41195,7 +41194,6 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
-lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com
@@ -50134,6 +50132,7 @@ pc.pay.youku.com
 pc.poppur.com
 pc.profile.pinyin.sogou.com
 pc.profile.qqpy.sogou.com
+pc.quansj.cn
 pc.suishenyun.net
 pc.us.sinaimg.cn
 pc.videoclick.baidu.com
@@ -51054,7 +51053,6 @@ plesk-cn.com
 plmedia00.live.weibo.com
 plmedia00.live.weibo.com.w.cdngslb.com
 plmedia20.live.weibo.com
-plogin.m.jd.com
 plogin.m.jd.com.gslb.qianxun.com
 plsmspx.com
 plt.data.pplive.com

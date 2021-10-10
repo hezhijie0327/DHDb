@@ -18539,6 +18539,7 @@ apiserver-freya.net.daraz.com
 apiserver-wlan-switch.net.daraz.com
 apiserver.r-is-1-2.net.daraz.com
 apiserverlib-ht-2.net.daraz.com
+apisnd.heytapmobi.com
 apisof.net
 apisyouwonthate.com
 apitilt.com
@@ -25466,6 +25467,7 @@ biqugezw.com
 biqugu.net
 biquguan.com
 biqukan.com
+biquke.com
 biquku.co
 biqulou.net
 biquluo.com
@@ -32220,7 +32222,6 @@ cdn.mobicow.com
 cdn.mobileread.com
 cdn.mountainduck.io
 cdn.mouseflow.com
-cdn.movieads.ru
 cdn.mxpnl.com
 cdn.mysql.com
 cdn.nablabee.com
@@ -70323,6 +70324,7 @@ hk.wagbridge.noncert.alibaba.com.gds.alibabadns.com
 hk.yahoo.com
 hk01.com
 hk08.beeppool.org
+hk1.direct.iplc.pro
 hk1282sec.com
 hk148forum.com
 hk1lib.org
@@ -78438,6 +78440,7 @@ istockphoto.com
 istole.it
 istori.site
 istrack.com
+istreamsche.com
 istripper.com
 isummi.com
 isunaffairs.com
@@ -87721,7 +87724,6 @@ logic-immo.com
 logic.cpm.cm.sandai.net
 logic4.nl
 logicalis.de
-logicalmedia.com
 logicalmodelvisible.com
 logicaloperations.com
 logicielpirater.fr
@@ -98648,6 +98650,7 @@ muviza.su
 muwmedia.com
 muwyib.lettuce.co.jp
 mux.com
+muxingkj.com
 muxrpr.mrgreen.com
 muxufang.com
 muxy.io

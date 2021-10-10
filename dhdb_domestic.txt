@@ -4104,7 +4104,6 @@
 51chaoban.com
 51checai.com
 51chongdian.net
-51chuguo.org
 51chuli.com
 51cir.com
 51cjyy.com
@@ -11240,7 +11239,6 @@ asr.meituan.com
 asrmicro.com
 asrsingapore.com
 asset.newyx.net
-asset.tantanapp.com
 assets-mayun.b0.aicdn.com
 assets-share.dspunion.com
 assets-share.dspunion.com.wswebcdn.com
@@ -22536,7 +22534,6 @@ dk21sebn.v1d.szbdyd.com
 dk21teaa.v1d.szbdyd.com
 dk23w9x5.v1d.szbdyd.com
 dk23wj5h.v1d.szbdyd.com
-dk618.com
 dk93f2cb.v1d.szbdyd.com
 dk93f2fa.v1d.szbdyd.com
 dk93fg5a.v1d.szbdyd.com
@@ -33894,6 +33891,7 @@ hyext.cdn.huya.com
 hyext.com
 hyext.msstatic.com
 hyext.msstatic.com.w.cdngslb.com
+hyfh.benbaisteel.com
 hyfutures.com
 hyfyuan.com
 hygame.cc
@@ -43826,7 +43824,6 @@ m.xitongzhijia.net
 m.xm124.com
 m.xsk5j.cn
 m.xuexila.com
-m.xyadxia.com
 m.yalayi.com
 m.yanjunbo.com
 m.ycai947.com

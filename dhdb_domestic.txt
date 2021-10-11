@@ -10728,7 +10728,6 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -16043,6 +16042,7 @@ cfachina.org
 cfc365.com
 cfca-c.org
 cfcpn.com
+cfcyb.com
 cfd-china.com
 cfd163.com
 cfdp.org
@@ -18360,6 +18360,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc

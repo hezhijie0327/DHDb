@@ -5811,6 +5811,7 @@ adserver.itsfogo.com
 adserver.ixm.co.uk
 adserver.jacotei.com.br
 adserver.janes.net
+adserver.jolt.co.uk
 adserver.journalinteractive.com
 adserver.kcilink.com
 adserver.lanepress.com
@@ -9058,6 +9059,7 @@ bci-eu.beeppool.org
 bcicdn.com
 bckbc.com
 bckmu02.com
+bckrono.cn
 bcn.cpufan.club
 bcode.zhantai.com
 bcontent.life.ru
@@ -12617,7 +12619,6 @@ chitu101.com
 chitu104.com
 chitu107.com
 chitunion.com
-chiyuekj.com
 chjxzk.1555110.cn
 chkddeycjduak.localdomain
 chkfdt.com
@@ -17772,7 +17773,6 @@ driventicket.com
 drkxae.lenovo.com
 drli.group
 drlyy.com
-drm.beeppool.org
 drmcmm.baidu.cn
 drmcmm.baidu.com
 drmhmhi.tokyo
@@ -24625,7 +24625,6 @@ hao1258.com
 hao315.cc
 hao315.com
 hao315.tv
-hao394.com
 hao544.com
 hao753.com
 hao8dai.com
@@ -38567,7 +38566,6 @@ ouh3igaeb.com
 ouhwjdv.cn
 ouliannews.com
 ouloutso.net
-oumazg.com
 ouo.us
 ouou.icu
 oupengcloud.net

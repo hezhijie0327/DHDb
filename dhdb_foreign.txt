@@ -13484,7 +13484,6 @@ adserver.ision.de
 adserver.isonews.com
 adserver.janes.com
 adserver.janes.org
-adserver.jolt.co.uk
 adserver.juicyads.com
 adserver.karamco.dk
 adserver.killeraces.com
@@ -46870,6 +46869,7 @@ drlsf.com
 drm-google-analtyic.com
 drm-server-booking.com
 drm-server13-login-microsoftonline.com
+drm.beeppool.org
 drmario-world.com
 drmartens.com
 drnasre2019.ddns.net
@@ -107069,6 +107069,7 @@ oukruque.com
 oulddothesa.biz
 oulpli.bettybarclay.com
 oultuwee.net
+oumazg.com
 oumma.com
 oumtoujo.net
 ouncialliberte.site

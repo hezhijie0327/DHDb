@@ -13682,7 +13682,6 @@ blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
-blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
@@ -28194,7 +28193,6 @@ galaxy.bjcathay.com
 galaxy.sogoucdn.com
 galaxyappstore.com
 galaxyasset.com
-galaxyclouds.cn
 galaxyentertainment.com
 galaxyinfo.com
 galaxymacau.com
@@ -47728,6 +47726,7 @@ nidongme.com
 nie.io
 nies.org
 niexiaotao.com
+nieyou.com
 nihao.net
 nihaobank.com
 nihaodd.com
@@ -48716,7 +48715,6 @@ onceai.com
 onceoa.com
 onche.net
 oncloud.store
-ondhaq.com
 one-all.com
 one-console-adns-new.console.aliyun.com
 one-console-adns.console.aliyun.com

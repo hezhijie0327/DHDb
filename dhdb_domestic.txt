@@ -10712,7 +10712,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -14613,6 +14612,7 @@ c.wjlzs.cn
 c.wkanx.com
 c.woaiseo.com.cn
 c.wxxljy.net
+c.xbjcgs.cn
 c.xiaobaipan.com
 c.y.qq.com
 c.yes.youku.com
@@ -41695,6 +41695,7 @@ lfungame.com
 lfwin.com
 lfwtc.com
 lfz57739256.51sole.com
+lg.dmall.com
 lg1024.com
 lg2.jointreport-switch.com
 lg4.jointreport-switch.com
@@ -43084,7 +43085,6 @@ ls4278.cn
 lsbankchina.com
 lsbchina.com
 lsccb.com
-lscut.com
 lsfyw.net
 lsg3.com
 lsgrandtheatre.com

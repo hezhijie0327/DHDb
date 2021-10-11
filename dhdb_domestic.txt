@@ -1,6 +1,5 @@
 0-100.com
 0-6.com
-0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
 0.pool.ntp.org
@@ -1396,6 +1395,7 @@
 1573699.b2b.liebiao.com
 1573699.shop.liebiao.com
 157732.shop.liebiao.com
+1586f.com
 1588.tv
 15880.com
 158jixie.com

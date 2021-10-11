@@ -656,7 +656,6 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -41208,6 +41207,7 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
+lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com
@@ -43567,6 +43567,7 @@ m.8684.cn
 m.8of9hd.cn
 m.937920.com
 m.96mob.com
+m.97tuk.cn
 m.99114.com
 m.999sjw.com
 m.99wushu.com
@@ -50103,7 +50104,6 @@ payh5.jd.com
 payh5.jd.com.gslb.qianxun.com
 paylf.com
 paymax.cc
-payment-website-pci.ol.epicgames.com
 payment.ishansong.com
 payment2.talkyun.com.cn
 paympay.com

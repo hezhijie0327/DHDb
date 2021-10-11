@@ -15728,6 +15728,7 @@ cdn.shuidihuzhu.com.m.alikunlun.com
 cdn.sm.cn
 cdn.sptcc.com
 cdn.sspai.com
+cdn.static.txhy888.cn
 cdn.staticfile.org
 cdn.svoice.le.com
 cdn.taboola.com.cn
@@ -23544,7 +23545,6 @@ dsa.iigs9.com
 dsapi.jdy33.cn
 dsblog.net
 dscbs.com
-dsd.dxwpedu.me
 dsfdc.com
 dsfof.com
 dsg.gdggzy.org.cn
@@ -26588,7 +26588,6 @@ fbaba.net
 fbabi.com
 fbapi.guguread.com
 fbel.yymxcx.cn
-fbguxd.cn
 fbih5report.3g.qq.com
 fbit.com
 fblife.com
@@ -58444,7 +58443,6 @@ sigchina.com
 sightp.com
 siglent.com
 siglff.com
-sigma-statistics-push.proxima.nie.netease.com
 sigmachip.com
 sigmamed.net
 sign.dftoutiao.com

@@ -10458,7 +10458,6 @@ api.s.suv666.com
 api.samsungcloudcn.com
 api.sdbao.com
 api.sdk.fmobi.cn
-api.sec.miui.com
 api.share.baidu.com
 api.share.mob.com
 api.share.n.shifen.com
@@ -14858,7 +14857,6 @@ cahuo.com
 cai188.com
 cai8.net
 caian.net
-caibaodi.com
 caibaojian.com
 caibaopay.com
 caibeike.com
@@ -15302,7 +15300,6 @@ ccen.net
 ccepc.com
 cces2006.org
 ccets.com
-ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com
@@ -19155,7 +19152,6 @@ configsvr.openmsf.3g.qq.com
 configuration.apple.com.mwcloudcdn.com
 confinfo.map.qq.com
 conflux.fun
-confuciusinstitute.net
 conghua.baixing.com
 congm.in
 congpeisen.gallerycdn.azure.cn
@@ -30626,6 +30622,7 @@ h5pool.eqxiu.com
 h5s.sinaimg.cn
 h5seeds-open.xycdn.com
 h5seeds-open.xycdn.com.gslb.p2cdn.com
+h5sg.com
 h5speed.m.jd.com
 h5speed.m.jd.com.gslb.qianxun.com
 h5ssl.1sapp.com
@@ -32120,7 +32117,6 @@ hipring.net
 hiqidi.com
 hiram.wang
 hirede.com
-hiregistry.com
 hireye.com
 hiroop.com
 hirosspac.com

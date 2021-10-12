@@ -10338,6 +10338,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -28661,7 +28662,6 @@ geautos.com
 gebi1.com
 gebi1.taobao.com
 gec123.com
-gecidao.com
 gecimi.com
 gecko-hl.snssdk.com
 gecko-lq.snssdk.com
@@ -40830,7 +40830,6 @@ l3s2.hy.qcloudcdn.com
 l4dk40faecw9jp.mwcname.com
 l4elb.cn
 l4scli1.cachenode.cn
-l5-hdslb-js007.gslb.js007.jsfycdn3.com
 l5-hdslb.gslb.ksyuncdn.com
 l574ou0.cdnnodedns.cn
 l6.fancyapi.com
@@ -41197,7 +41196,6 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
-lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com
@@ -42655,7 +42653,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn

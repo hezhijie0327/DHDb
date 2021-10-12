@@ -3,6 +3,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -53153,6 +53154,7 @@ external-promo-metrics.yandex.net
 external-svc-dal.swiftype.net
 external.monerise.com
 external.simpleanalytics.com
+externalprivacy.com
 externos.iw-advertising.com
 exterro.com
 extfiles.net
@@ -80199,7 +80201,6 @@ jghcy.com
 jgigvs.tractive.com
 jgjs.co
 jgjs.pro
-jgjsvip.com
 jgjsvip2.com
 jgjsvip3.com
 jgl.microad.net

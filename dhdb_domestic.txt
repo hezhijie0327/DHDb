@@ -8047,6 +8047,7 @@ act-vip-ssl.xunlei.com.w.kunlunca.com
 act.cmcmcdn.com
 act.commercial.shouji.360.cn
 act.daoju.qq.com
+act.dmall.com
 act.guanjia.qq.com
 act.qq.com
 act.qzone.qq.com
@@ -35990,7 +35991,6 @@ inewya.com
 inf-prdapi.wesure.cn
 inf.ldmnq.com
 inf.vip.meituan.com
-infarts.net
 infertilitybridge.com
 infineon-autoeco.com
 infineon-power-rf.org
@@ -46327,7 +46327,6 @@ mpxiaomi.net
 mpxx.net
 mq.api.unipay.qq.com
 mqant.com
-mqcwr.cn
 mqq-imgcache.gtimg.cn
 mqq-plugin.qq.com
 mqq-plugin.qq.com.sched.dlied1.tdnsv5.com

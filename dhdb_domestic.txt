@@ -10712,6 +10712,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.cdn-apple.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -22293,7 +22294,6 @@ dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digcredit.com
-digforfire.org
 digi-wo.com
 digi.china.com
 digipic.oss-cn-hangzhou.aliyuncs.com
@@ -33737,7 +33737,6 @@ huzhou.baixing.com
 huzhoumuseum.com
 huzicaotang.com
 hv.code.tanwanyx.com
-hvac001.com
 hvtong.com
 hw-adaptive.pull.yximgs.com
 hw-adaptive.pull.yximgs.com.c.cdnhwc3.com
@@ -42299,7 +42298,6 @@ liuliangcanmou.com
 liulianggo.com
 liuliangjie.com
 liulianglf.com
-liuliangzu.com
 liulianyu.com
 liuliguo.com
 liulin.cc

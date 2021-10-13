@@ -10458,7 +10458,6 @@ api.s.suv666.com
 api.samsungcloudcn.com
 api.sdbao.com
 api.sdk.fmobi.cn
-api.sec.miui.com
 api.share.baidu.com
 api.share.mob.com
 api.share.n.shifen.com
@@ -30107,7 +30106,6 @@ guoziyx.com
 gupen.com
 gupiao111.com
 gupiao135.com
-gupiao3.com
 gupiao8.com
 gupiaowajue.com
 gupowang.com
@@ -37024,7 +37022,6 @@ iyouxun.com
 iyuba.cn
 iyuedan.com
 iyuedian.com
-iyumiao.com.cn
 iyunbao.com
 iyunbiao.com
 iyunmai.com
@@ -53020,7 +53017,6 @@ qienews.cn
 qienkuen.org
 qieseo.com
 qieta.com
-qietu6.com
 qieying.com
 qieyou.com
 qiezip.com
@@ -54161,6 +54157,7 @@ ququzhu.com
 qusem.com
 qushiw.com
 qushixi.net
+qusi8.net
 qutanme.com
 qutaojiao.com
 qutaovip.com

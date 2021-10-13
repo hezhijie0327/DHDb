@@ -13551,7 +13551,6 @@ adserver.passion.com
 adserver.phatmax.net
 adserver.pl
 adserver.planet-multiplayer.de
-adserver.plhb.com
 adserver.portal.pl
 adserver.portugalmail.net
 adserver.pressboard.ca
@@ -112479,6 +112478,7 @@ pokerstars.com
 pokerstars.net
 pokerstrategy.com
 pokestats.gg
+poketec.com
 poketraff.com
 pokingintake.com
 pokitom.com

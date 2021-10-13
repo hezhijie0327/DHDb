@@ -10265,6 +10265,7 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
+api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -14609,7 +14610,6 @@ c.tvsou.com
 c.uaa.iqiyi.com
 c.v4dwkcv.com
 c.w.inmobi.cn
-c.weizhenwx.com
 c.wjlzs.cn
 c.wkanx.com
 c.woaiseo.com.cn
@@ -15170,6 +15170,7 @@ casvm.com
 casystar.com
 cat.sh.vip.dianping.com
 cat898.com
+catalog-public-service-prod06.ol.epicgames.com
 catalog-tj.com
 catchdata.xiaojukeji.com
 catdot.dianping.com
@@ -15660,6 +15661,7 @@ cdn.cn.gcloudcs.com
 cdn.cnbj1.fds.api.mi-img.com
 cdn.console.aliyun.com
 cdn.convergemob.com
+cdn.cytivalifesciences.com.cn
 cdn.data.video.iqiyi.com
 cdn.data.video.ptqy.gitv.tv
 cdn.dcloud.net.cn
@@ -51845,6 +51847,7 @@ pull-tsl-l11.douyincdn.com.sched.v1.tdnsv5.com
 pull-tsl-l3.douyincdn.com
 pull-tsl-l3.douyincdn.com.w.alikunlun.net
 pull.free.video.10010.com
+pull.push.sogou.com
 pull.tonhorn.cn
 pullword.com
 pullywood.com
@@ -54437,7 +54440,6 @@ qxw.cc
 qxwl21.com
 qxwz.com
 qxxsjk.com
-qxyaoc.com
 qxzc.net
 qxzsw.com
 qy-office.com

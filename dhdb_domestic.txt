@@ -2187,6 +2187,7 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
+2.android.pool.ntp.org
 2.arpun.com
 2.bashenghuo.com
 2.centos.pool.ntp.org
@@ -10266,7 +10267,6 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
-api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -11177,6 +11177,7 @@ ashj.com
 ashl7t28u9asxjo1.aliyunddos1011.com
 ashma.info
 ashow.pcpop.com
+asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -21168,6 +21169,7 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
+data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -29417,6 +29419,7 @@ gongyingshi.com
 gongyishibao.com
 gongzhongpingtai.cc
 gongzicp.com
+gongzuoshouji.net
 gonsun.com
 gonvvama.net
 gooagoo.com
@@ -33091,7 +33094,6 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
-httpdns.ocloud.heytapmobi.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
 httpsdns.baidu.com
@@ -39403,6 +39405,7 @@ jzyx.com
 jzz.pcauto.com.cn
 jzzx.com
 k-kbox.com
+k.16vcd.com
 k.85wa.cn
 k.autohome.com.cn
 k.innvitor.com
@@ -43863,6 +43866,7 @@ m.zhipin.com
 m.zhuxiaobang.com
 m.zkwsdf.com
 m.zol.com.cn
+m.zougg.com
 m.zs-hospital.sh.cn
 m.zuimh.com
 m.zzchuy.cn

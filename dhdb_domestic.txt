@@ -6125,7 +6125,6 @@
 80714.com
 80800.vip
 8080i.com
-8081.net
 80881.com
 808w.com
 8090-sec.com
@@ -49015,7 +49014,6 @@ openrcv.baidu.com
 openredcloud.com
 openresty.org
 opensc.co
-openserviceauth.ctrip.com
 openspeech.cn
 openstorage.ad.cmvideo.cn
 openstorage.cn
@@ -51205,6 +51203,7 @@ pooban.com
 poocg.com
 poofx.com
 pook.com
+pool.ntp.org
 pool.v6.bt.n0808.com
 poolct.17173.com
 pooldist.shouyou.com

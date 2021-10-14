@@ -1897,7 +1897,6 @@
 1873.img.pp.sohu.com.cn
 1873.img.pp.sohu.com.cn.wsglb0.com
 1874497.p23.tc.cdntip.com
-187801.com
 188.com
 1881296.sched.skalego.tdnsv5.com
 1886zuche.com
@@ -7602,6 +7601,7 @@ a565fba3c92c8d295113dc38ac7e9dac.dlied1.cdntips.net
 a57cvn.tdum.alibaba.com
 a5f69f96a90aed270c560e827d1b8e48.dlied1.cdntips.net
 a5idc.net
+a6.bjdianyue.com
 a615e890c8748a1b.cdn.jiashule.com
 a632079.me
 a646b6a6bf836cb073a5c94ab2f5fb39.safeframe.googlesyndication.com
@@ -14187,7 +14187,6 @@ btbat.com
 btbtav.com
 btc114.com
 btc123.com
-btc126.com
 btc17.com
 btc38.com
 btc5.net
@@ -52600,7 +52599,6 @@ qdsdds.com
 qdsdk.jd.com
 qdserver.jd.com
 qdshitangchengbao.com
-qdswphb.com
 qdsysj.com
 qdtech.ai
 qdtgood.com

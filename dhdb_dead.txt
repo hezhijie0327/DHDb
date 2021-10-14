@@ -9613,6 +9613,7 @@ bid.yahoo.com
 bidadx.com
 bidcode.xyz
 biddingos.com
+bidfilter.com
 bidhead.net
 bidi.net.uk
 bidingxing.com
@@ -31568,7 +31569,6 @@ live.4480.org
 live.net
 live.streamingfast.net
 live.tvpot.daum.net
-live012.com
 live2.rti.org.tw
 live228.com
 livead.jp
@@ -33431,7 +33431,6 @@ m.xikedianzi.com.cn
 m.xingyaoapi.com
 m.xk0x.cn
 m.xkena.com
-m.xkqpco.com
 m.xkunn.com
 m.xlhm88.cn
 m.xlsschina15.net

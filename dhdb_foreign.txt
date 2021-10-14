@@ -32471,7 +32471,6 @@ cdn1.pebx.pl
 cdn1.srv.revdepo.com
 cdn1.tnkfactory.com
 cdn1.tribalfusion.com
-cdn1.xlightmedia.com
 cdn11.contentabc.com
 cdn111222.com
 cdn1d-static-shared.phncdn.com
@@ -43735,7 +43734,6 @@ deskier.com
 desklink.duckdns.org
 deskminkgnu.com
 desknets.com
-deskt.cn
 desktop.docker.com
 desktop.githubusercontent.com
 desktop.parallels.com

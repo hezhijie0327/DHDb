@@ -654,6 +654,7 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -22277,7 +22278,6 @@ diebian.net
 diemameishi.com
 diershoubing.com
 difanapp.com
-dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digcredit.com
@@ -24393,7 +24393,6 @@ dytechnolog.com
 dytt789.com
 dytt7899.com
 dyuadask.com
-dyx0878.cn
 dyxldjy.com
 dyxsdwm.com
 dyxtw.com
@@ -40332,7 +40331,6 @@ kr02.dns.meo-sub.site
 kr02.dns.meo-sub.xyz
 krahag.com
 krcom.cn
-krcs.kugou.com
 krdrama.com
 krmzz.org
 krpano.tech

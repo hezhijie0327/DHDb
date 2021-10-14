@@ -10353,6 +10353,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -40731,7 +40732,6 @@ kwm.com
 kwmiosjump.kuwo.cn
 kwmsg.kuwo.cn
 kwtzn.com
-kwurl.ucweb.com
 kwxjh.net
 kx001.com
 kx516.com

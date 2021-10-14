@@ -21340,6 +21340,7 @@ dbgeek.org
 dbgzqfn5.v1d.szbdyd.com
 dbkdwe1.com
 dblgf.com
+dblpmp.com
 dbmailserver.com
 dbmall.com
 dbmeinv.com
@@ -39436,7 +39437,6 @@ k128-updates.gslb.ksyuncdn.com
 k128.gslb.ksyuncdn.com
 k12zx.com
 k136.gslb.ksyuncdn.com
-k158-v6-js007.gslb.js007.jsfycdn3.com
 k158-v6.gslb.ksyuncdn.com
 k164-azure.gslb.ksyuncdn.com
 k164-js007.gslb.js007.jsfycdn3.com
@@ -49016,6 +49016,7 @@ openrcv.baidu.com
 openredcloud.com
 openresty.org
 opensc.co
+openserviceauth.ctrip.com
 openspeech.cn
 openstorage.ad.cmvideo.cn
 openstorage.cn

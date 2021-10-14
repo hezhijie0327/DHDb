@@ -9569,6 +9569,7 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
+all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all.zhihu.com.w.kunluncan.com
 all163-dxospf.split.netease.com
@@ -13105,7 +13106,6 @@ bigbenmeng.com
 bigbigsun.com
 bigbigwork.com
 bigcat.com
-bigcooa.xyz
 bigcoob.xyz
 bigd.gome.com.cn
 bigda.com
@@ -14178,7 +14178,6 @@ bt.3dmgame.com
 bt.ali213.net
 bt.jd.com
 bt.popgo.net
-bt.xitongmonitor.com
 bt1.patexplorer.com
 bt1.the9.com
 bt95.com
@@ -22988,7 +22987,6 @@ docs.idqqimg.com
 docs.idqqimg.com.x2s-dstack.sched.dcloudstc.com
 docs.qq.com
 docs.wps.cn
-docs4dev.com
 docschina.org
 docteamapi.wps.cn
 doctorcom.com
@@ -50531,7 +50529,6 @@ phpjiami.com
 phpjiayuan.com
 phpkaiyuancms.com
 phpkoo.com
-phpno.com
 phpor.net
 phppx.com
 phpsong.com

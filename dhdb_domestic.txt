@@ -8044,7 +8044,6 @@ act-vip-ssl.xunlei.com.w.kunlunca.com
 act.cmcmcdn.com
 act.commercial.shouji.360.cn
 act.daoju.qq.com
-act.dmall.com
 act.guanjia.qq.com
 act.qq.com
 act.qzone.qq.com
@@ -29143,7 +29142,6 @@ glbdqn.com
 glcanyin.net
 glcct.com
 gleasy.com
-glg.uu.163.com
 glgczk.com
 glike.me
 glinfo.com

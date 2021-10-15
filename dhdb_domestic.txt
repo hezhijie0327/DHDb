@@ -10335,6 +10335,7 @@ api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -28603,7 +28604,6 @@ gdtapishow.tanwan.com.w.cdngslb.com
 gdtex.com
 gdtextbook.com
 gdtimg.com
-gdtnio.com
 gdtrafficad.com
 gdtravel.com
 gdttc.com
@@ -37377,7 +37377,6 @@ jfh.com
 jfinal.com
 jfinfo.com
 jfm4.pop.baofeng.net
-jfocus.net
 jfqkj.com
 jfrogchina.com
 jfshare.com
@@ -43809,6 +43808,7 @@ m.xinhuanet.com
 m.xitongzhijia.net
 m.xm124.com
 m.xsk5j.cn
+m.xuanlimin.top
 m.xuexila.com
 m.yalayi.com
 m.yanjunbo.com

@@ -7940,7 +7940,6 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
-account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -32567,7 +32566,6 @@ home.115.com
 home.51cto.com
 home.console.aliyun.com
 home.httpcn.com
-home.m.jd.com
 home.m.jd.com.gslb.qianxun.com
 home.meishichina.com
 home.mi.com
@@ -37007,6 +37005,7 @@ iyunshu.com
 iyunv.com
 iyunxiao.com
 iyunyue.com
+iyunzk.com
 iyuxy.com
 iyxku.com
 iyyin.com
@@ -38817,6 +38816,7 @@ jsjkx.com
 jsjlzxw.com
 jsjs.jbzj.com
 jsjyrcb.com
+jsjznews.com
 jskaiborui.com
 jskpcg.org
 jskwt.com

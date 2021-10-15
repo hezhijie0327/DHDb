@@ -4894,6 +4894,7 @@
 51ys.com
 51zhujia.com
 51zhuoyu.com
+51zpyc.com
 51zuoti.com
 52-114-45-130.relay.teams.microsoft.com
 52-114-45-132.relay.teams.microsoft.com
@@ -45732,6 +45733,7 @@ dnsforge.de
 dnsfre.xyz
 dnshome.de
 dnsimple.com
+dnsinfo.xyz
 dnsking.ch
 dnskuu.com
 dnslify.com
@@ -81380,7 +81382,6 @@ jsmjmp.com
 jsmo.xin
 jsmobiledev.com
 jsmpsi.com
-jsmsg.com
 jsmwd.com
 jsmxw.com
 jsn.24smi.net

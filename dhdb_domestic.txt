@@ -10196,7 +10196,6 @@ api-cn.store.heytapmobi.com
 api-cn1.mpay.samsung.com.cn
 api-cname.growingio.com
 api-crep.ke.com
-api-dd.jd.com
 api-dd.jd.com.gslb.qianxun.com
 api-e189.21cn.com
 api-edge.apps.apple.com.cdn20.com
@@ -15295,7 +15294,6 @@ ccets.com
 ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
-ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
 ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
@@ -38350,6 +38348,7 @@ jncqj.com
 jncyx.com
 jndwyy.com
 jnesc.com
+jngdg.top
 jnhouse.com
 jnjcxx.com
 jnjj.com
@@ -40596,6 +40595,7 @@ kuman.com
 kumankeji.net
 kumaoyun.com
 kumar-harsh.gallerycdn.azure.cn
+kumi028.com
 kumiao.com
 kumifeng.com
 kungfuenglish.com
@@ -44515,6 +44515,7 @@ maxlv.org
 maxscend.com
 maxsys.adsame.com
 maxthon.cn
+maxthonimg.com
 maxuscloud.com
 maxvinch.com
 maxwealthfund.com
@@ -47406,6 +47407,7 @@ new.qq.com
 new.taobc.com
 new.users.51.la
 new.weibo.cn
+new.yokaunion.com
 new1cloud.com
 newacademic.net
 newadx.com

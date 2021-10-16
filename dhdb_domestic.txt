@@ -7942,6 +7942,7 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
+account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -19419,6 +19420,7 @@ cpihualai.com
 cpitsh.org
 cpjltx.com
 cpk1111.com
+cpk222.com
 cpk444.com
 cpo2o.com
 cpolar.com

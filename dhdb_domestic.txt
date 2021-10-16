@@ -1,5 +1,6 @@
 0-100.com
 0-6.com
+0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
 0.up.qingdaonews.com
@@ -24080,7 +24081,6 @@ duxw.xiaowenweb.com
 duxw.xiaowenweb.com.cname2238.yjs-cdn.com
 duyandb.com
 duyao001.com
-duyixing.com
 duzhanread.cdn.bcebos.com
 duzhe.com
 duzhebao.com
@@ -27800,6 +27800,7 @@ fun606.com
 fun702.com
 fun712.com
 fun7803.com
+fun803.com
 fun809.com
 fun88-i78.com
 fun88.com
@@ -41951,6 +41952,7 @@ lightky.com
 lightlygame.com
 lightpassport.com
 lightplan.cc
+lightswitch-public-service-prod06.ol.epicgames.com
 lighttp.com
 lightyy.com
 liguda.com
@@ -48197,7 +48199,6 @@ nsrfww.com
 nsrjlb.com
 nsshare.com
 nsw88.com
-nsxtob.cn
 nsydt.com
 nszmz.com
 nt.c21.com.cn

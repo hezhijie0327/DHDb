@@ -21412,7 +21412,6 @@ dbzgia.com
 dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
-dc.ads.linkedin.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -31834,7 +31833,6 @@ here120.com
 hermes-server.hupu.com
 hermes.cn
 hermes.hupu.com
-hermes.jd.com
 hermes.jd.com.gslb.qianxun.com
 heroclick.cn
 heroes.nos.netease.com
@@ -34675,7 +34673,6 @@ idgdmgroup.com.cn
 idgvc.com
 idianchou.com
 idianfa.com
-idianfang.com
 idig8.com
 idkaiu.com
 idm-su.baidu.com
@@ -36842,6 +36839,7 @@ itsiwei.com
 itsk.com
 itslaw.com
 itsmephoto.net
+itsogo.net
 itsoku.com
 itss.cn
 itsvse.com
@@ -45305,6 +45303,7 @@ miaowugo.com
 miaowutech.com
 miaoxiakuan.com
 miaoxiala.com
+miaoxiazai.com
 miaozao.com
 miaozhen.com
 miaozhen.dns.iqiyi.com

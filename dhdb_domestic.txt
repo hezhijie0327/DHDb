@@ -9570,7 +9570,6 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
-all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all.zhihu.com.w.kunluncan.com
 all163-dxospf.split.netease.com
@@ -10304,6 +10303,7 @@ api.cloud.189.cn
 api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -28247,7 +28247,6 @@ game.res.meizu.com
 game.rising.cn
 game.str.mdt.qq.com
 game.subway.uu.cc
-game.tgbus.com
 game.tgp.qq.com
 game.vivo.com.cn
 game.vmall.com

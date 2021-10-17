@@ -2192,6 +2192,7 @@
 2.aili.com
 2.android.pool.ntp.org
 2.arpun.com
+2.asia.pool.ntp.org
 2.bashenghuo.com
 2.centos.pool.ntp.org
 2.cn.pool.ntp.org
@@ -7812,7 +7813,6 @@ ab162e78ebd8c7df80ea4df6ff7bec16.dlied1.cdntips.net
 ab173.com
 ab296114f1d94bc775a5522b78f03e78.dlied1.cdntips.net
 ab59.com
-ab95569.com
 abab.com
 abacaipu.com
 abang.com
@@ -32593,6 +32593,7 @@ home.115.com
 home.51cto.com
 home.console.aliyun.com
 home.httpcn.com
+home.m.jd.com
 home.m.jd.com.gslb.qianxun.com
 home.meishichina.com
 home.mi.com
@@ -47200,7 +47201,6 @@ nas.console.aliyun.com
 nas1.cn
 nas66.com
 nas7en42.sched.sma.tdnsv5.com
-nasads.com
 nasgetinfo.com
 nashwork.com
 nasimobi.com

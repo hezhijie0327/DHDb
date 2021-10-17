@@ -18368,6 +18368,7 @@ api.freewebfonts.org
 api.funcaptcha.com
 api.gaijinent.com
 api.gameofwhales.com
+api.geetest.com
 api.gfe.nvidia.com
 api.gimbal.com
 api.github.com
@@ -68470,7 +68471,6 @@ haitl.com
 haitum.com
 haitunwx.com
 haivision.com
-haiwaimoney.com
 haiwaitoutiao.com
 haixia51.com
 haixunpr.org

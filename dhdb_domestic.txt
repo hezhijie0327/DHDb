@@ -660,6 +660,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -10709,6 +10710,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -22825,6 +22827,7 @@ dmhmusic.com
 dmjtxt.com
 dmlei.com
 dmm.aizhan.com
+dmouy.cn
 dmozdir.org
 dmp-data.vip.com
 dmp-data.vip.com.vipgslb.com

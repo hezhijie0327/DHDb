@@ -10823,7 +10823,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -25292,6 +25291,7 @@ ejcop.com
 ejdyin.com
 ejee.com
 ejeegroup.com
+ejfeng.com
 ejiacn.com
 ejianmedia.com
 ejie.me
@@ -31182,7 +31182,6 @@ harrypottermagicawakened.com
 hars.gallerycdn.azure.cn
 harvestcm.com
 harvestpawn.com
-harveysarv.com
 hasary.com
 hasea.com
 hasee.com

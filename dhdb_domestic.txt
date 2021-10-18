@@ -8882,7 +8882,6 @@ ahuyi.com
 ahwczn.cn
 ahydwy.com
 ahyessoft.com
-ahylong.cn
 ahyouan.com
 ahyouth.com
 ahyx.cc
@@ -18357,7 +18356,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -40347,6 +40345,7 @@ kr02.dns.meo-sub.site
 kr02.dns.meo-sub.xyz
 krahag.com
 krcom.cn
+krcs.kugou.com
 krdrama.com
 krmzz.org
 krpano.tech
@@ -44685,7 +44684,6 @@ mcube-prod.oss-cn-hangzhou.aliyuncs.com.gds.alibabadns.com
 mcufan.com
 mcuisp.com
 mcujl.com
-mculover.com
 mcusky.com
 mcuzone.com
 mcuzx.net

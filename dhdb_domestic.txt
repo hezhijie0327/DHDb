@@ -10826,6 +10826,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -11330,6 +11331,7 @@ atianqi.com
 atido.com
 ating.info
 atishay-jain.gallerycdn.azure.cn
+atiws.aipai.com
 atj-kuaishou.37.com.cn
 atlas.dmall.com
 atlenovo.com

@@ -10258,6 +10258,7 @@ api.3839app.com
 api.557400.com
 api.5hte21mz.com
 api.account.xiaomi.com
+api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -44095,6 +44096,7 @@ maihanji.com
 maihaoche.com
 maihehd.com
 maijia.com
+maijiaba.com
 maijiakan.com
 maijichuang.net
 maijx.com

@@ -10316,7 +10316,6 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
-api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -29894,7 +29893,6 @@ guangmingjx.com
 guanguser.com
 guangwaifu.com
 guangwangye.com
-guangweihui.com
 guangxigrc.com
 guangyaguang.com
 guangyinglvxing.com
@@ -38730,7 +38728,6 @@ js.sohu.com
 js.stat.ijinshan.com
 js.static.m1905.cn
 js.t.sinajs.cn
-js.ta80.com
 js.tianjimedia.com
 js.tongji.linezing.com
 js.tv.itc.cn
@@ -43059,6 +43056,7 @@ lqbj66.com
 lqbld.com
 lqbyj.com
 lqbz.junsw.com
+lqgcb.com
 lqgrdj.com
 lqhigo.com
 lqjob88.com
@@ -43996,7 +43994,6 @@ maccura.com
 macd.cn
 macdaxue.com
 macflow.net
-macgg.com
 machaojin.com
 machenike.com
 machine-information.com
@@ -45313,7 +45310,6 @@ mibugs.com
 mic-s.com
 micai.com
 micaiying.com
-micardapi.micloud.xiaomi.net
 micblo.com
 michaelapp.com
 micheal.wang

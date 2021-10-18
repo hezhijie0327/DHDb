@@ -13411,7 +13411,6 @@ adserv006.adtech.us
 adserv007.adtech.fr
 adserv007.adtech.us
 adserv008.adtech.fr
-adserv008.adtech.us
 adserv2.bravenet.com
 adserve.ams.rhythmxchange.com
 adserve.com
@@ -51355,6 +51354,7 @@ enzolifesciences.com
 enzonehypped.com
 eo.aaaw.xyz
 eo.ccch.xyz
+eo.pgqoqv.cn
 eo.pl
 eo.sdajxz.xyz
 eo62cocntx.com
@@ -110818,6 +110818,7 @@ photo-ads.zaloapp.com
 photo-frame.com
 photo.5article.com
 photo.appme.tw
+photo.bjdfhy.cn
 photo.boweineng.cn
 photo.ccjxybj.cn
 photo.dhford.cn
@@ -111004,7 +111005,6 @@ pianopiano.pt
 pianoplanet.app
 pianyim.com
 pianyiyouhui.com
-pianyuan.net
 pianzhui.com
 pianziweb.com
 piao88.net

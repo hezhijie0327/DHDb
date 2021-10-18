@@ -5759,6 +5759,7 @@ adserv.muchosucko.com
 adserv.pitchforkmedia.com
 adserv.qconline.com
 adserv.usps.com
+adserv008.adtech.us
 adservant.guj.de
 adserve.canadawidemagazines.com
 adserve.city-ad.com
@@ -19730,7 +19731,6 @@ eo.nunxi.xyz
 eo.ohthub.com.cn
 eo.osvp2.cn
 eo.ou6d.cn
-eo.pgqoqv.cn
 eo.pyntb.xyz
 eo.qpmue.xyz
 eo.rjfkrzwk.cn
@@ -39583,7 +39583,6 @@ photo.188kc.cn
 photo.789ble.cn
 photo.941ziyuan.cn
 photo.backerbiotech.cn
-photo.bjdfhy.cn
 photo.bscy05.cn
 photo.cjh9.cn
 photo.cxslchkb.cn
@@ -39652,6 +39651,7 @@ pianistrefutationgoose.com
 pianopu.com
 piantou.net
 pianyuan.la
+pianyuan.net
 piao.js
 piaodaren.com
 piaojiaowang.com

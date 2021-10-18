@@ -3,7 +3,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -5372,7 +5371,6 @@
 58bo.com
 58czt.com
 58dm.com
-58f7c1ff30eb.com
 58fangdai.com
 58huoban.com
 58isg.cn
@@ -11521,7 +11519,6 @@ addynamo.net
 addyon.com
 addyoutube.com
 ade.clmbtech.com
-adeal4u.co
 adebis-52667624.wowma.jp
 adebis-morijuku.morijuku.com
 adebis-saimu.vbest.jp
@@ -20581,7 +20578,6 @@ atlasvpn.com
 atlkse.aosom.it
 atlona.com
 atm-fp-direct.office.com
-atmalinks.com
 atman.pl
 atmbox.com
 atmetagrossan.com
@@ -42775,6 +42771,7 @@ dc.audi.com
 dc.banggood.com
 dc.di.atlas.samsung.com
 dc.glbtls.t.co
+dc.ie.027ie.com
 dc.mpapis.xyz
 dc.oracleinfinity.io
 dc.oracleinfinity.io.akadns.net
@@ -57745,6 +57742,7 @@ freecloudserver.net
 freecloudvpn.com
 freecls.com
 freeclubnintendocoins.com
+freecod.xyz
 freecode.live
 freecode.online
 freecodecamp.org
@@ -69441,7 +69439,6 @@ heidrick.com
 heidsiek.net
 heightboost.com
 heighthouseworklizard.com
-heighttrumpetaccordingly.com
 heiguisf.com
 heihachi.pw
 heiistudio.com
@@ -72815,6 +72812,7 @@ hystericalcloth.com
 hystericalhelp.com
 hystq.com
 hyt368.com
+hytcsh.cn
 hytdsm.com
 hytera.com
 hytera.la
@@ -89198,7 +89196,6 @@ lun.ua
 luna.net
 luna.r.lafamo.com
 lunadeacuario.cl
-lunafilms.sg
 lunagyja.xyz
 lunametrics.wpengine.netdna-cdn.com
 lunar2013.com

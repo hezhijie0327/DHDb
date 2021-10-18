@@ -10197,6 +10197,7 @@ api-cn.store.heytapmobi.com
 api-cn1.mpay.samsung.com.cn
 api-cname.growingio.com
 api-crep.ke.com
+api-dd.jd.com
 api-dd.jd.com.gslb.qianxun.com
 api-e189.21cn.com
 api-edge.apps.apple.com.cdn20.com
@@ -16290,7 +16291,6 @@ channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
 channel.kandian.qq.com
 channel.m.163.com
-channel.vaptcha.net.w.cdngslb.com
 channel2-account-ssl.xunlei.com
 channel3-account-ssl.xunlei.com
 channelray.com
@@ -51690,7 +51690,6 @@ public-v6.sparta.mig.tencent-cloud.net
 public.app.autohome.com.cn
 public.creditchina.gov.cn
 public.ffquan.cn
-public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.sparta.mig.tencent-cloud.net
 public.wlbaike.com

@@ -18306,7 +18306,6 @@ api.bitp.it
 api.bounceexchange.com
 api.box.com
 api.breezip.com
-api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.carrottrack.io
@@ -23109,7 +23108,6 @@ baseline.is
 baselinestudy.com
 baselinestudy.org
 basenews7.com
-baseniao.com.cn
 baseofhacks.com
 basepush.com
 basest-rooms.000webhostapp.com
@@ -86323,6 +86321,7 @@ lglady.cn
 lgm.averydennison.com
 lgmjg.com
 lgncal.media.net
+lgole.com
 lgr.visilabs.net
 lgrecyclingprogram.com
 lgrhmd.klook.com

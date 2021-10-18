@@ -662,7 +662,6 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -20317,7 +20316,6 @@ czjdu.com
 czjsy.com
 czkbdq.net
 czkingdee.com
-czlhgz.com
 czodb.com
 czongyi.com
 czopen.com
@@ -41923,7 +41921,6 @@ lifeng.net
 lifeofguangzhou.com
 lifesense.com
 lifetm.com
-lifetmt.com
 lifevc.com
 lifeweeker.com
 lifeweekly.cc

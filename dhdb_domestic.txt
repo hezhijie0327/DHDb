@@ -4529,7 +4529,6 @@
 521tieba.com
 521up.com
 5221.net
-522g.com
 523touzi.com
 525.life
 5252e.com
@@ -10262,6 +10261,7 @@ api.3839app.com
 api.557400.com
 api.5hte21mz.com
 api.account.xiaomi.com
+api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -37345,6 +37345,7 @@ jeagine.com
 jeanphy.online
 jeasyui.net
 jeasyuicn.com
+jebe.renren.com
 jebe.xnimg.cn
 jedi-games.com
 jedoo.com
@@ -47347,7 +47348,6 @@ nebulogy.com
 necaptcha.nosdn.127.net
 necaptcha.nosdn.127.net.w.cdngslb.com
 needexam.com
-needma.com
 needyouknow.com
 neegle.net
 neeq.cc

@@ -2893,7 +2893,6 @@
 2zimu.com
 3.39zuoye.com
 3.5646.cn
-3.cn.pool.ntp.org
 3.iscrv.com
 3.pic.pc6.com
 3.ssqzj.com
@@ -14640,7 +14639,6 @@ c151fb41e1c344b429b2ce741ff0cad9.v.smtcdns.net
 c193264ac500d2b82fdd4f9ea5475a93.dlied1.cdntips.net
 c1dbbffc92e6e53e8fcf8c89037dbe15.safeframe.googlesyndication.com
 c1km4.com
-c1mzbm.shop
 c1wx.lianwangtech.com
 c2.58toto.net
 c2.amap.com
@@ -21409,6 +21407,7 @@ dbzgia.com
 dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
+dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -27807,6 +27806,7 @@ fun809.com
 fun88-i78.com
 fun88.com
 fun8807.com
+fun88113.com
 fun881211.com
 fun88223.com
 fun88316.com
@@ -28882,6 +28882,7 @@ gg.egouz.com
 gg.gao7.com
 gg.huangye88.com
 gg.huolinhe.com
+gg.kkcaicai.com
 gg.meitu.com
 gg.miued.com
 gg.qucaigg.com
@@ -40611,7 +40612,6 @@ kuishiba.com
 kuishuling.com
 kujiale.com
 kujiang.com
-kujingling.com
 kuk8.com
 kukahome.com
 kuke.com
@@ -51018,7 +51018,6 @@ planoi.com
 plantname.xyz
 plantower.com
 plas2006.com
-plasmatium.xyz
 plasset.yaoyl.com
 plastichub.unity.cn
 plat.tgp.qq.com

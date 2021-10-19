@@ -10350,6 +10350,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -25211,7 +25212,6 @@ egainnews.com
 egame.qq.com
 egfcare.com
 eggc111.com
-egoid.me
 egonetworks.org
 egongzheng.com
 egoonet.com
@@ -50035,7 +50035,6 @@ passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
 passport.lagou.com
-passport.lenovo.com
 passport.lenovo.com.cn
 passport.meituan.com
 passport.mydrivers.com

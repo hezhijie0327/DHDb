@@ -9570,6 +9570,7 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
+all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all.zhihu.com.w.kunluncan.com
 all163-dxospf.split.netease.com
@@ -31825,7 +31826,6 @@ here120.com
 hermes-server.hupu.com
 hermes.cn
 hermes.hupu.com
-hermes.jd.com
 hermes.jd.com.gslb.qianxun.com
 heroclick.cn
 heroes.nos.netease.com
@@ -42938,6 +42938,7 @@ longzu.com
 lonlife.org
 lontiumsemi.com
 loocall.com
+loodd.com
 looeen.com
 looeo.com
 loohuo.com

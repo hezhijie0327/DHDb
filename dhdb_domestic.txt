@@ -10260,7 +10260,6 @@ api.3839app.com
 api.557400.com
 api.5hte21mz.com
 api.account.xiaomi.com
-api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -14155,7 +14154,6 @@ bshu.com
 bsida.com
 bsiet.husky.sogou.com
 bsjhhzs.com
-bsjquanwu.com
 bskuav.com
 bsn.console.aliyun.com
 bspeizi.com
@@ -22282,6 +22280,7 @@ diebian.net
 diemameishi.com
 diershoubing.com
 difanapp.com
+dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
 digcredit.com
@@ -41206,6 +41205,7 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
+lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com
@@ -46781,6 +46781,7 @@ mycaigou.com
 mycaijing.com
 mycar168.com
 mycaraok.com
+mychebao.com
 mychemy.com
 mychery.com
 mychery.net

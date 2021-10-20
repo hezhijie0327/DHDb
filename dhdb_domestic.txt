@@ -8166,7 +8166,6 @@ ad.data.lianjia.com
 ad.de.doubleclick.net
 ad.dedecms.com
 ad.dev.360.cn
-ad.dokrmob.com
 ad.doubanio.com
 ad.doubleclick.net
 ad.duomi.com
@@ -34732,6 +34731,7 @@ iecity.com
 ied-tqos-tgp.qq.com
 ied-tqos.qq.com
 ied-tqosweb.qq.com
+ied2k.net
 iedon.com
 ieduchina.com
 ieduw.com

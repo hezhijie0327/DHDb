@@ -18537,6 +18537,7 @@ api.unity.com
 api.unthem.com
 api.userstore.skype.com
 api.userstyles.org
+api.viaxmr.com
 api.viglink.com
 api.vitservers.pw
 api.viu.now.com
@@ -34584,6 +34585,7 @@ cirosantilli.com
 cirrusinsight.com
 cirrusmd.com
 cirs-reach.com
+cirunzhang.com
 cisco-capwap-apiserverler.net.daraz.com
 cisco-capwap-authentication.net.daraz.com
 cisco-capwap-backend.net.daraz.com
@@ -38357,7 +38359,6 @@ coop.nl
 coop.org
 cooperaerobics.com
 cooperatecleave.com
-cooperatehalfyearprobe.com
 cooperhealth.org
 cooperhosting.net
 coople.com

@@ -13917,7 +13917,6 @@ config.adsage.cn
 config.adsage.com
 config.appjolt.com
 config.safedk.com
-conflictmgmtassociates.com
 confuciusinstitute.net
 confusedmachine.com
 congorgetsfree.ml
@@ -30840,6 +30839,7 @@ lailikeji.com
 laily.net
 laishuge.com
 laiwantv.com
+laiye315.top
 laiyihuo.com
 laiyikeji.net
 laji51.com
@@ -34148,7 +34148,6 @@ matesacam.com
 mathable.io
 mathads.com
 matheranalytics.com
-mathfunc.com
 mathiew-badimon.com
 mathskins.com
 matomo.lenovowap.com
@@ -36615,6 +36614,7 @@ ncfstatic.com
 ncgxs.com
 nchte.com
 nckjysyk.com
+nclick.ru
 ncmo.v44i.cn
 ncname.com
 ncrqfpqzdkxbpyo.danaher.org

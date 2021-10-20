@@ -656,7 +656,6 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -18192,6 +18191,7 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
+cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -37504,7 +37504,6 @@ jiakaobaodian.com
 jiakaodashi.com
 jialaxin.cc
 jialebao.cc
-jialeo2o.com
 jialez.com
 jiameng.com
 jiamengdp.com

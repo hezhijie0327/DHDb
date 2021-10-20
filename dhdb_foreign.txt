@@ -36127,6 +36127,7 @@ cn.msi.com
 cn.nikkei.com
 cn.nytstyle.com
 cn.picacomiccn.com
+cn.pool.ntp.org
 cn.pub.vpon.com
 cn.rti.tw
 cn.ru
@@ -53493,7 +53494,6 @@ f0538928.xsph.ru
 f0539063.xsph.ru
 f0539266.xsph.ru
 f0nn.oney.fr
-f1.lutouwang.net
 f1190.com
 f13.in
 f1300.com
@@ -96961,7 +96961,6 @@ missiondues.com
 missionindia.org
 missionrollcall.org
 missions.advancingnativemissions.com
-missiontestamentinterfering.com
 missionwealth.com
 mississauga.com
 mississippimiracleclay.com
@@ -105431,6 +105430,7 @@ ofphanpytor.com
 ofreadingand.biz
 ofreligionrumble.com
 ofseedotom.com
+ofslakotha.com
 ofsoptics.com
 ofsys.com
 ofurl.org
@@ -105662,6 +105662,7 @@ okfun.org
 okgo.xyz
 okgvtr.com
 oki-memorial.org
+okidc.net
 okinfo.org
 okitrust.com
 okk.tw

@@ -10702,6 +10702,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -16458,7 +16459,6 @@ cheng-sen.com
 cheng.xin
 cheng95.com
 cheng95.net
-chengadx.com
 chengchuanren.com
 chengde.anjuke.com
 chengdebank.com
@@ -18780,7 +18780,6 @@ cnutcon.com
 cnuuu.com
 cnv168.com
 cnwa.com
-cnwage.com
 cnwaking.com
 cnwaternews.com
 cnwb.net

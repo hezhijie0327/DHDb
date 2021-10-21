@@ -7965,6 +7965,7 @@ accounts.firefox.com.cn
 accounts.google.cn
 accounts.nvgs.nvidia.cn
 accounts.qq.com
+accounts.tantanapp.com
 accscdn.cp12.ott.cibntv.net
 accscdn.m.taobao.com
 accsh.org
@@ -16064,6 +16065,7 @@ cf865.com
 cfachina.org
 cfc365.com
 cfca-c.org
+cfcglx.com
 cfcpn.com
 cfcyb.com
 cfd-china.com
@@ -21191,6 +21193,7 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
+data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -34748,7 +34751,6 @@ idongte.com
 idosend.com
 idoupiao.com
 idouzi.com
-idown.hk
 idoyun.com
 idphoto-api.camera360.com
 idreamschool.com
@@ -50578,6 +50580,7 @@ phormchina.com
 photo.chaoxing.com
 photo.codefat.cn
 photo.fanya.chaoxing.com
+photo.jingxiangyalvji.cn
 photo.jstv.com
 photo.pic.sohu.com
 photo.sina.com.cn

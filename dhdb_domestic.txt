@@ -3378,7 +3378,6 @@
 3798.com
 37bjw.com
 37cu.com
-37cy6.com
 37dh.com
 37f6f8d802b2bb7ca25cac0f3b4ebf90.dlied1.cdntips.net
 37game2.com
@@ -10407,7 +10406,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -13282,6 +13280,7 @@ biquter.xyz
 biransign.com
 bird4d.com
 birdbro.com
+birdgesdk.com
 birdol.com
 birdpush.com
 birthcaker.cn
@@ -23150,7 +23149,6 @@ dongputech.com
 dongqiudi.com
 dongsenzs.com
 dongshenghuiyang.com
-dongshihao.com
 dongshou.com
 dongsport.com
 dongtaijt.com
@@ -48160,6 +48158,7 @@ nosuchfield.com
 not3.com
 note.youdao.com
 note52.com
+noteapi.micloud.xiaomi.net
 notebook.pconline.com.cn
 notedeep.com
 noteniu.com
@@ -49243,7 +49242,6 @@ oscimg.oschina.net
 oscnet.b0.aicdn.com
 osdsc.alicdn.com
 osechina.com
-osedu.net
 oseminfo.com
 oset-api.open-adx.com
 osfota.cdn.aliyun.com

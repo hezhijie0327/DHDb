@@ -55104,7 +55104,6 @@ report.qcloud.com
 report.qcloudcdn.qq.com
 report.qqweb.qq.com
 report.samsung.japps.cn
-report.tantanapp.com
 report.taptapdada.com
 report.tga.qq.com
 report.url.cn

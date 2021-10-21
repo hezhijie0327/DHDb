@@ -10211,6 +10211,7 @@ api-cn.store.heytapmobi.com
 api-cn1.mpay.samsung.com.cn
 api-cname.growingio.com
 api-crep.ke.com
+api-dd.jd.com
 api-dd.jd.com.gslb.qianxun.com
 api-e189.21cn.com
 api-edge.apps.apple.com.cdn20.com
@@ -10533,6 +10534,7 @@ api.xunyou.mobi
 api.yangkeduo.com
 api.ydl.com
 api.yfscdn.net
+api.yidiansurong.com
 api.youke.co
 api.youku.com
 api.youtu.qq.com
@@ -41992,7 +41994,6 @@ lightky.com
 lightlygame.com
 lightpassport.com
 lightplan.cc
-lightswitch-public-service-prod06.ol.epicgames.com
 lighttp.com
 lightyy.com
 liguda.com

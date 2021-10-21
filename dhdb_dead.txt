@@ -7509,7 +7509,6 @@ api.weltevree.eu
 api.whizzone.com
 api.xc17868.com
 api.y.igexin.com
-api.yidiansurong.com
 api.yp.com
 api.zhy333.com
 api.ztgm17.ru
@@ -14516,6 +14515,7 @@ cs108.com
 cs109.com
 cs1212.xyz
 cs12d.com
+cs193.com
 cs2c.com
 cs345.com
 cs418.com
@@ -34058,6 +34058,7 @@ mangafuna.xyz
 mangafunc.fun
 mangler1.generals.ea.com
 mangler10.generals.ea.com
+mangler2.generals.ea.com
 mangler5.generals.ea.com
 mangler6.generals.ea.com
 mangler7.generals.ea.com

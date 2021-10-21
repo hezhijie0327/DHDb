@@ -664,7 +664,6 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -28672,7 +28671,6 @@ gdysdz.com
 gdyunyin.net
 gdyxc.com
 gdzbs.com
-gdzhishen.com
 gdzhongshan.com
 gdzj8.com
 gdzp.org
@@ -32286,7 +32284,6 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
-hk.linkedin.com
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site

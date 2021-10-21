@@ -10405,6 +10405,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -44376,7 +44377,6 @@ manogk.com
 manong.io
 manonggu.com
 manongs.com
-manparis.cn
 manpianyi.com
 manshen.net
 mantutu.com

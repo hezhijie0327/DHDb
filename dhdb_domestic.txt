@@ -664,6 +664,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -1270,7 +1271,6 @@
 135yuedu.com
 136.com
 1360.com
-13610a.com
 136136.com
 13636.com
 1363602.b2b.liebiao.com
@@ -39644,7 +39644,6 @@ kaiyuanhotels.com
 kaiyuanxian.baixing.com
 kajicam.com
 kaka.com
-kakadm.com
 kakalili.com
 kakamobi.com
 kakayy.com

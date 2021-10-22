@@ -6203,7 +6203,6 @@
 820901.t.hypers.com.cn
 820902.t.hypers.com.cn
 822.cc
-82222919.com
 822644.com
 82326999.com
 82335966.com
@@ -7950,7 +7949,6 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
-account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com

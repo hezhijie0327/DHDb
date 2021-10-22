@@ -10312,6 +10312,7 @@ api.cloud.189.cn
 api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -13794,7 +13795,6 @@ blz.nosdn.127.net
 bm001.com
 bm023.com
 bm2088.com
-bm49.cc
 bm724.com
 bm8.tv
 bmall.camera360.com
@@ -16370,7 +16370,6 @@ chapter.manhualang.com
 chapter.manhualang.com.w.cdngslb.com
 chargerlab.com
 chargerlink.com
-charlotteyeon.com
 charmelady.com
 charmingglobe.com
 chashebao.com
@@ -21191,7 +21190,6 @@ data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
-data.sec.miui.com
 data.snm0516.aisee.tv
 data.sonkwo.com
 data.trendymedia.com.cn
@@ -22555,7 +22553,6 @@ djstg.com
 dju8.com
 djwxw.com
 djwyjszpyxgs473.shop.258.com
-djxww.com
 djye.com
 djyjob.com
 djysx.com
@@ -43619,6 +43616,7 @@ m.99114.com
 m.999sjw.com
 m.99wushu.com
 m.9k9k.com
+m.abfalse.cn
 m.abfirst.cn
 m.ac.qq.com
 m.acc.qq.com
@@ -44911,7 +44909,6 @@ meierbei.com
 meifajie.com
 meifang.com
 meigeinc.com
-meigong8.com
 meigongyun.com
 meiguanjia.net
 meiguiwxw.com

@@ -423,7 +423,6 @@
 06966c.com
 06966d.com
 06966vip.com
-069ld.com
 06bbcc.com
 06dd0894cce50c.com
 06dns.com
@@ -37098,6 +37097,7 @@ com.aq
 com.ar
 com.au
 com.autodesk.sync.public.production.s3.amazonaws.com
+com.bd
 com.bo
 com.by
 com.co
@@ -125093,6 +125093,7 @@ search.aol.com
 search.avg.com
 search.avira.com
 search.bg
+search.browser.miui.com
 search.buzzdock.com
 search.ch
 search.com

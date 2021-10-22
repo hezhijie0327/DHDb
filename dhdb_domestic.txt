@@ -8237,7 +8237,6 @@ ad.winrar.com.cn
 ad.wlanbanlv.com
 ad.ximalaya.com
 ad.xkspbz.com
-ad.xn--3bs795g.link
 ad.yeshitv.com
 ad.yicai.com
 ad.yixin.im
@@ -30830,6 +30829,7 @@ haitunvoice.com
 haituoqi.com
 haitutech.com
 haiwailoushi.com
+haiwaimoney.com
 haiwainet.cn
 haiwaiyoujia.com
 haiwanxinxi.com
@@ -36328,7 +36328,6 @@ ios.bugly.qq.com
 ios.rqd.qq.com
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
-iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -52112,7 +52111,6 @@ pwrd.com
 pwsannong.com
 pwt.zoosnet.net
 pwupdate.cdn.pandora.xiaomi.com
-px.ads.linkedin.cn
 px.effirst.com
 px.nloader.xyz
 px.qucaigg.com

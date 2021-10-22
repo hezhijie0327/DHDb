@@ -4712,6 +4712,7 @@ ad.wurangxian.top
 ad.wx.com
 ad.xiaomi.com
 ad.xigua.com
+ad.xn--3bs795g.link
 ad.xtendmedia.com
 ad.xxguan.cn
 ad.yieldads.com
@@ -13785,7 +13786,6 @@ com.af
 com.al
 com.am
 com.az
-com.bd
 com.bh
 com.bn
 com.br

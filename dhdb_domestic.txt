@@ -10716,7 +10716,6 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -18812,7 +18811,6 @@ cnwaternews.com
 cnwb.net
 cnwdjj.com
 cnwear.com
-cnwebe.com
 cnweblog.com
 cnwebshow.com
 cnweilo.com
@@ -21283,6 +21281,7 @@ dawx.net
 daxi.com
 daxia520.com
 daxiaamu.com
+daxiangdaili.com
 daxiangqun.net
 daxiit.com
 daxiu01.oss-accelerate.aliyuncs.com
@@ -34150,7 +34149,6 @@ i.51job.com
 i.51job.com.51jobdns.com
 i.9le.net
 i.adsame.com
-i.ai.mi.com
 i.ali213.net
 i.alicdn.com
 i.alicdn.com.danuoyi.tbcache.com
@@ -42518,6 +42516,7 @@ lizaike.com
 lizhaoblog.com
 lizhaoxiang.com
 lizhenwang.com
+lizhi.cowtransfer.com
 lizhi.fm
 lizhi.io
 lizhi110.com
@@ -43738,6 +43737,7 @@ m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
 m.jd.com
+m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
 m.jiedianqian.com
@@ -44418,6 +44418,7 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
+mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn

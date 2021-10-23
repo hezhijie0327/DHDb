@@ -9034,7 +9034,6 @@ ailete.com
 ailezhai.cn
 ailinux.net
 ailinzhou.com
-ailix.cn
 ailom.com
 ailongmiao.com
 aim.yoyi.com.cn
@@ -11914,6 +11913,7 @@ bags163.com
 bagtree.com
 bagualu.net
 bahens.com
+bai.com
 baibailai.com
 baibaoyun.com
 baibianwukong.com
@@ -43748,7 +43748,6 @@ m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
 m.jd.com
-m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
 m.jiedianqian.com
@@ -48433,6 +48432,7 @@ o2moment.com
 o2o-ad-clicking.alibaba.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
+o2o.api.xiaomi.com
 o2o.keloop.cn
 o2oexpo.com
 o2osd.com
@@ -51057,7 +51057,6 @@ plaidc.com
 planckled.com
 planet.api.weibo.com
 planetmeican.com
-planoi.com
 plantname.xyz
 plantower.com
 plas2006.com

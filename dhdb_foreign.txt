@@ -32247,6 +32247,7 @@ cdn.adikteev.com
 cdn.adk2.com
 cdn.adnxs.com
 cdn.ads.fotoable.net
+cdn.ads.jlscds.com
 cdn.adsafeprotected.com
 cdn.adservingsolutionsinc.com
 cdn.adsfactor.net
@@ -68255,7 +68256,6 @@ h1.elf168.net
 h1.msn.com
 h1.ripway.com
 h1.ru
-h12-media.com
 h1388.com
 h16.ru
 h1665.com
@@ -72342,6 +72342,7 @@ http3check.net
 httpaccess.com
 httpads.com
 httpbaidu.com
+httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
@@ -122271,6 +122272,7 @@ ruifeng99.com
 ruigra.com
 ruilvtu.com
 ruinedking.com
+ruisky.com
 ruistudio.com
 ruiwant.com
 ruixuesoft.com
@@ -127705,6 +127707,7 @@ shorug.cn
 shostobs.net
 shosyn.com
 shotachan.net
+shotad.com
 shotwithgeforce.com
 shotyfy.com
 shou-tv.firebaseio.com

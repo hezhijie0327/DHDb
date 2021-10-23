@@ -664,6 +664,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -4741,6 +4742,7 @@
 54bq0afa.sched.d0.tdnsv5.com
 54doctor.net
 54doctors.net
+54gj.com
 54hcz.com
 54heb.com
 54im.com
@@ -19191,7 +19193,6 @@ connect-drcn.dbankcloud.cn
 connect-drcn.hispace.hicloud.com
 connect.play.aiseet.atianqi.com
 connect.qq.com
-connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
@@ -44262,7 +44263,6 @@ malabeibei.com
 malacca.inveno.com
 malagis.com
 malait.com
-malaosi.com
 malaysiaairlines.com
 maldiveszh.com
 maldun.com
@@ -47370,6 +47370,7 @@ ndscsoft.com
 ndser.net
 ndstatic.cdn.bcebos.com
 ndtinfo.net
+ndusa.cn
 ne.1rtb.com
 ne189.21cn.com
 ne21.com
@@ -47506,6 +47507,7 @@ newbd.com
 newbe.dpool.sina.cn
 newbe.pro
 newbeebook.com
+newbiefly.com
 newbmiao.com
 newbuz.360buyimg.com
 newcger.com
@@ -48344,7 +48346,6 @@ nvwu.com
 nvzhanshen.com
 nw-host.com
 nwct.me
-nwenxue.com
 nweon.com
 nwtongcheng.com
 nwxzs.com

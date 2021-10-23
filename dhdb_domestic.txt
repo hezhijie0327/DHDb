@@ -3218,6 +3218,7 @@
 360qikan.net
 360qws.com
 360sdn.com
+360shopping.com.cn
 360shouji.com
 360shouzhuan.com
 360sides.com
@@ -32940,6 +32941,7 @@ hrbswx.com
 hrbzdty.com
 hrcfc.com
 hrday.com
+hreport.meituan.com
 hrexam.com
 hrfc.net
 hrflc.com
@@ -42697,7 +42699,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn

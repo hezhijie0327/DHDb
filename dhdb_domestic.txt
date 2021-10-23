@@ -4742,7 +4742,6 @@
 54bq0afa.sched.d0.tdnsv5.com
 54doctor.net
 54doctors.net
-54gj.com
 54hcz.com
 54heb.com
 54im.com
@@ -6852,6 +6851,7 @@
 91wangcai.com
 91watches.com
 91way.com
+91weiwang.com
 91wenmi.com
 91wii.com
 91wllm.com
@@ -10271,7 +10271,6 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
-api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -18215,7 +18214,6 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
-cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -47767,6 +47765,7 @@ nicescale.com
 nicetuan.net
 nicky1605.com
 nicotv.me
+nideu.com
 nidianwobang.com
 nidong.com
 nidongme.com

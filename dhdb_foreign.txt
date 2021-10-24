@@ -10363,7 +10363,6 @@ acgbox.org
 acgbuster.moe
 acgbuster.net
 acgcd.com
-acgdaily.com
 acgface.com
 acgfor.com
 acgft.com
@@ -18318,6 +18317,7 @@ api.accounts.nintendo.com
 api.ad-locus.com
 api.ad-stir.com
 api.ad.intl.xiaomi.com
+api.ad.xiaomi.com
 api.ad.xv555.com
 api.adcalls.nl
 api.addins.omex.office.net
@@ -48818,6 +48818,7 @@ easy-hit-counter.com
 easy-hit-counters.com
 easy-linkholiday.com
 easy-pay.info
+easy-web-stats.com
 easy.ac
 easy.au.ru
 easy.beeppool.org

@@ -8491,7 +8491,6 @@ ads.mojicdn.com
 ads.oneway.mobi
 ads.privacy.qq.com
 ads.reader.yueyouxs.com
-ads.service.kugou.com
 ads.serving-sys.cn
 ads.shovtvnet.com
 ads.sina.com
@@ -21895,6 +21894,7 @@ dg-360lhx.com
 dg-fd.zol-img.com.cn
 dg-fd.zol-img.com.cn.wswebpic.com
 dg-hanxin.com
+dg-hospital.com
 dg-mall.com
 dg.anjuke.com
 dg.esf.fang.com
@@ -24414,7 +24414,6 @@ dyrjjt.com
 dysfz.cc
 dysxxw.com
 dytechnolog.com
-dytt789.com
 dytt7899.com
 dyuadask.com
 dyxldjy.com
@@ -42694,6 +42693,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -51735,6 +51735,7 @@ public-v6.sparta.mig.tencent-cloud.net
 public.app.autohome.com.cn
 public.creditchina.gov.cn
 public.ffquan.cn
+public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.sparta.mig.tencent-cloud.net
 public.wlbaike.com
@@ -53456,7 +53457,6 @@ ql-cellbank.com
 ql.uzuzuz.com
 ql18.mobi
 ql1d.com
-ql1tjbhoeshu.xiahongweishop.com
 ql2otgl6.v1d.szbdyd.com
 ql2otnxg.v1d.szbdyd.com
 ql96fh2y.v1d.szbdyd.com
@@ -54834,6 +54834,7 @@ reachjunction.com
 react-china.org
 react.mobi
 reactor.xingye.work
+read.qidian.com
 read100.com
 readceo.com
 readdsp.com

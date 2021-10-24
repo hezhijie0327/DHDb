@@ -2195,7 +2195,6 @@
 2.android.pool.ntp.org
 2.arpun.com
 2.bashenghuo.com
-2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -17152,7 +17151,6 @@ chinatvc.com
 chinatyco.com
 chinaui.com
 chinauma.com
-chinauma.net
 chinaums.com
 chinaun.net
 chinaunicom-a.com
@@ -35352,6 +35350,7 @@ imedl.sogoucdn.com
 imeibian.com
 imeidb.com
 imeihei.com
+imeijutt.com
 imeishike.com
 imeitou.com
 imeme.tv
@@ -37106,7 +37105,6 @@ j.9136.com
 j.98158.com
 j.appjiagu.com
 j.baminw.cn
-j.biquge520.cc
 j.credit.wwz114.cn
 j.diangon.com
 j.gamersky.com
@@ -52090,6 +52088,7 @@ pwrd.com
 pwsannong.com
 pwt.zoosnet.net
 pwupdate.cdn.pandora.xiaomi.com
+px.ads.linkedin.cn
 px.effirst.com
 px.nloader.xyz
 px.qucaigg.com

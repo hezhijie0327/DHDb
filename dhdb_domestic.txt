@@ -2451,7 +2451,6 @@
 22her6.tdum.alibaba.com
 22lrc.com
 22ntd6yc.sched.s2-dk.tdnsv5.com
-22plc.com
 22vd.com
 22zy.net
 23-14.gz.apigwtencent.com
@@ -48980,7 +48979,6 @@ openapi.alipaydns.com
 openapi.baidu.com
 openapi.boc.cn
 openapi.book118.com
-openapi.guanjia.qq.com
 openapi.huanxi.com
 openapi.inews.qq.com
 openapi.jrj.com.cn

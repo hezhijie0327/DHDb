@@ -10359,6 +10359,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -40659,7 +40660,6 @@ kuman.com
 kumankeji.net
 kumaoyun.com
 kumar-harsh.gallerycdn.azure.cn
-kumi028.com
 kumiao.com
 kumifeng.com
 kungfuenglish.com
@@ -52279,6 +52279,7 @@ q8vqp9ys.v1d.szbdyd.com
 q8vqp9zo.v1d.szbdyd.com
 q8vqpahb.v1d.szbdyd.com
 q8vqpzem.v1d.szbdyd.com
+q9y39.cn
 qa.m.jd.com
 qabot.autohome.com.cn
 qacg1359.v1d.szbdyd.com

@@ -7448,7 +7448,6 @@ api.fusepowered.com
 api.g1.junfull.com
 api.g2.junfull.com
 api.game.letvstore.com
-api.goulegu.com
 api.gzxiongwa.cn
 api.h4game.net
 api.intense.hashvault.pro
@@ -14128,6 +14127,7 @@ count21.51yes.com
 count22.51yes.com
 count23.51yes.com
 count24.51yes.com
+count25.51yes.com
 count26.51yes.com
 count27.51yes.com
 count28.51yes.com
@@ -27238,7 +27238,6 @@ img.chengruide.com
 img.cnsofas.com
 img.cxxyft.com
 img.czywssj.com
-img.dajibai.com
 img.dawenxue.org
 img.dydab.com
 img.ercfh.com

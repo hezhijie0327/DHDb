@@ -18419,6 +18419,7 @@ api.geetest.com
 api.gfe.nvidia.com
 api.gimbal.com
 api.github.com
+api.goulegu.com
 api.graphql.imdb.com
 api.grumft.com
 api.gxbrowser.net
@@ -38710,7 +38711,6 @@ count.rtl.de
 count.webstatistik-bw.de
 count.yandeg.ru
 count24.de
-count25.51yes.com
 count6.51yes.com
 countante.info
 countar.de
@@ -67511,6 +67511,7 @@ grpc.termius.com
 grptrker.com
 grrrgraphics.com
 grs.dbankcloud.asia
+grs.dbankcloud.com
 grss-ieee.org
 grt02.com
 grteab.com
@@ -74877,6 +74878,7 @@ img.bwin.com.mx
 img.bwin.it
 img.c3tag.com
 img.convertflow.co
+img.dajibai.com
 img.directtrack.com
 img.dlads.cn
 img.dlsite.jp
@@ -92705,6 +92707,7 @@ marriott.com
 marriottvacationclub.asia
 marriottvacationclub.com
 marry.vn
+mars.jd.com
 marsads.com
 marsbar.org.uk
 marsfancy.com

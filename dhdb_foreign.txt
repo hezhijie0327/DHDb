@@ -18319,7 +18319,6 @@ api.accounts.nintendo.com
 api.ad-locus.com
 api.ad-stir.com
 api.ad.intl.xiaomi.com
-api.ad.xiaomi.com
 api.ad.xv555.com
 api.adcalls.nl
 api.addins.omex.office.net
@@ -25779,7 +25778,6 @@ bitdefender-cn.com
 bitdefender-my.com
 bitdefender.com
 bitdefendercentral.support
-bitdefendercentrall.com
 bitdefendercentralx.com
 bitdefenderlicense.com
 bitdefenderlogin.com
@@ -32014,7 +32012,6 @@ cchlhb.budgetsport.fi
 cchome.adobe.io
 cchr.org
 cci.fr
-ccian.com
 ccidcyt.com
 ccidjinglue.com
 ccie.lol
@@ -60685,6 +60682,7 @@ genialfun.com
 geniatech.com
 geniee.jp
 genieedmp.com
+genieessp.com
 genishury.pro
 genius-download.itunes-apple.com.akadns.net
 genius-download.itunes.apple.com

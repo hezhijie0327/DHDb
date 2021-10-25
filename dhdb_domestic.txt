@@ -10339,6 +10339,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -26889,6 +26890,7 @@ fengpintech.com
 fengqiu.baixing.com
 fengqiyc.com
 fengqu.com
+fengqucdn.com
 fengread.com
 fengshows.cn
 fengshui22.com

@@ -7478,7 +7478,6 @@ a.qiao024.com
 a.qinghua5.com
 a.quangushi.com
 a.rensheng5.com
-a.sayloving.com
 a.sh.vip.dianping.com
 a.shczz.com
 a.tanx.com
@@ -20402,7 +20401,6 @@ d.union.ijinshan.com
 d.url.cn
 d.webterren.com
 d.xingshangnet.com
-d.yjbys.com
 d.youth.cn
 d.youth.cn.wswebcdn.com
 d.yoyi.tv
@@ -28482,7 +28480,6 @@ gate.push.x.netease.com
 gateface.com
 gateway-drcn.wallet.dbankcloud.com
 gateway.battlenet.com.cn
-gateway.cdeledu.com
 gateway.fe.apple-dns.cn
 gateway.icloud.com.cn
 gateway.im.weibo.cn
@@ -41229,6 +41226,7 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
+lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com

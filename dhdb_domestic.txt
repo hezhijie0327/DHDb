@@ -8976,6 +8976,7 @@ aifcdn.com
 aifengjie.com
 aifenka.cn
 aifont.com
+aifu-pay.com
 aifu10.com
 aifu360.com
 aigame100.com
@@ -16367,7 +16368,6 @@ chashebao.com
 chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
-chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
@@ -19371,6 +19371,7 @@ countly.mail.163.com
 countpage.sznews.com
 countpvn.light.fang.com
 countubn.light.soufun.com
+coupon.m.jd.com
 coupon996.com
 coupons.console.aliyun.com
 covcec.com
@@ -28675,7 +28676,6 @@ gecimi.com
 gecko-hl.snssdk.com
 gecko-lq.snssdk.com
 gecko.snssdk.com
-gedawang.com
 gedoumi.com
 gedu.org
 geedai.com
@@ -38927,7 +38927,6 @@ jssdbmt.com
 jssdk.cnzz.com
 jssdk.rayjump.com
 jssfx.com
-jssjys.com
 jssnrcb.com
 jsswordshop.com
 jssytc.com
@@ -45882,7 +45881,6 @@ mmmono.com
 mmmtea.net
 mmocgame.qpic.cn
 mmocgame.qpic.cn.sched.p2v6.tdnsv6.com
-mmonly.cc
 mms-graph.cdn.bcebos.com
 mms-static.cdn.bcebos.com
 mms-voice.cdn.bcebos.com

@@ -10358,7 +10358,6 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
-api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -20689,7 +20688,6 @@ da.netease.com
 da.qidian.qq.com
 da.qiyukf.com
 da.shuidihuzhu.com
-da.yjbys.com
 da.yjbys.com.cname1426.yjs-cdn.com
 da2uus1.cachenode.cn
 da4358fe.qc.x.bsgslb.cn

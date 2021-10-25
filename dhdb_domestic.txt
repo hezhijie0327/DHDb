@@ -7888,7 +7888,6 @@ abslw.com
 abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
-abtest.tantanapp.com
 abto.cc
 abuquant.com
 abuyun.com
@@ -27814,6 +27813,7 @@ fun183.com
 fun223.com
 fun242.com
 fun277.com
+fun281.com
 fun379.com
 fun501.com
 fun566.com
@@ -43241,7 +43241,6 @@ lumyhouse.com
 luna-imgcache.qq.com.tcdn.qq.com
 luna.58.com
 lunkuokeji.com
-luntanx18.info
 lunwenchachong.org
 lunwendj.com
 lunwengo.net
@@ -48409,7 +48408,6 @@ o2moment.com
 o2o-ad-clicking.alibaba.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
-o2o.api.xiaomi.com
 o2o.keloop.cn
 o2oexpo.com
 o2osd.com

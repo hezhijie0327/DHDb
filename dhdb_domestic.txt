@@ -10710,6 +10710,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -27599,6 +27600,7 @@ frame4img2vid.imtt.qq.com.sched.px.tdnsv6.com
 framework.cdn-go.cn
 francissoung.com
 francochinois.com
+frankorz.com
 franzsandner.com
 fraudmetrix.cn
 frdic.com
@@ -31606,6 +31608,7 @@ he8nvbq7.dayugslb.com
 heacn.net
 head-way.com
 headphoneclub.com
+headwell.cn
 health-api.samsunghealthcn.com
 health.baidu.com
 health.sina.com.cn

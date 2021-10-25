@@ -4422,7 +4422,6 @@
 51web.com
 51weihu.com
 51wendang.com
-51wincai.com
 51windows.net
 51wj.com
 51wjrc.com
@@ -5372,6 +5371,7 @@
 666xinxin.com
 667744.com
 6677493.com
+6677gz.com
 66825.com
 6686693.com
 6686697.com
@@ -32270,6 +32270,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site

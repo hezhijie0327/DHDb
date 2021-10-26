@@ -2269,6 +2269,7 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
+2.android.pool.ntp.org
 2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
@@ -20882,7 +20883,6 @@ attstadium.com
 attsuppliers.com
 atttechcare.000webhostapp.com
 atttvnow.com
-attuverseoffers.com
 attuverseonline.com
 attvoip.com
 attwatchtv.com
@@ -46826,6 +46826,7 @@ down2crazy.com
 downbook.org
 downdetector.com
 downduck.com
+downfeng.com
 downg.com
 downhack.net
 downi9.com
@@ -52552,7 +52553,6 @@ etsc.beeppool.org
 etscju.mens-rize.com
 etsglobal.org
 etsoon.com
-etstock.net
 etsu.edu
 etsy.com
 ettalhap.com
@@ -71630,6 +71630,7 @@ holsterformer.com
 holynuts.xyz
 holyshit.com
 holyspiritspeaks.org
+holysts.com
 holyxiongan.com
 holzher.com
 holzkern.com
@@ -96960,7 +96961,6 @@ minepi.com
 miner-deu-1.inf.nimiq.network
 miner-deu-2.inf.nimiq.network
 miner-deu-4.inf.nimiq.network
-miner-deu-5.inf.nimiq.network
 miner-deu-6.inf.nimiq.network
 miner-deu-7.inf.nimiq.network
 miner-deu-8.inf.nimiq.network

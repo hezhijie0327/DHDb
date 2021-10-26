@@ -9638,7 +9638,6 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
-all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all.zhihu.com.w.kunluncan.com
 all163-dxospf.split.netease.com
@@ -10405,7 +10404,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -44016,6 +44014,7 @@ m.uczzd.cn
 m.umbbs.cn
 m.v.qq.com
 m.vaxyz.com
+m.vchiy.com
 m.video.xiaomi.com
 m.vmall.com
 m.wandoujia.com

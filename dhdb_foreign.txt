@@ -40020,7 +40020,6 @@ cs154.com
 cs154.wac.edgecastcdn.net
 cs155.com
 cs172.com
-cs192.com
 cs194.com
 cs197.com
 cs203.com
@@ -60976,6 +60975,7 @@ geo.privacymanager.io
 geo.prod.do.dsp.mp.microsoft.com
 geo.q5media.net
 geo.query.yahoo.com
+geo.thehindu.com
 geo.tv
 geo.vortex.data.microsoft.com.akadns.net
 geo.xcel.io
@@ -61606,7 +61606,6 @@ ggduev.cobone.com
 ggduzx.potterybarn.com.kw
 ggdydz.com
 ggfwzs.com
-ggg.cool
 ggg112.net
 ggg16.net
 ggg268.com
@@ -90480,7 +90479,6 @@ m.gomev.cn
 m.groupe-fiba.fr
 m.grtnahd.cn
 m.gtask.cn
-m.gtnde.com
 m.guangshiji.cn
 m.guanren11.com
 m.guanren5.com

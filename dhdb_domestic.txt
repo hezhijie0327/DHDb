@@ -16399,7 +16399,6 @@ channel.api.duapp.com
 channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
 channel.kandian.qq.com
-channel.m.163.com
 channel2-account-ssl.xunlei.com
 channel3-account-ssl.xunlei.com
 channelray.com
@@ -34752,7 +34751,6 @@ icws.jb51.net.wswebpic.com
 icxbk.com
 icxinli.com
 icy-capital.com
-icylife.net
 iczhiku.com
 iczhiyu.com
 iczoom.com
@@ -50818,6 +50816,7 @@ piaoliang.com
 piaolianghuay.com
 piaoniu.com
 piaoquantv.com
+piaoreng.cn
 piaoshen.com
 piaotian5.com
 piaotongyun.com

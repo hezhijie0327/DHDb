@@ -10327,6 +10327,7 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
+api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -19410,7 +19411,6 @@ corebug.adsame.com
 coreldrawchina.com
 corner.houyi.baofeng.net
 coro.benbaisteel.com
-coroplastsheet.cn
 corp.google.com
 corp.meitu.com
 corp.sina.com.cn

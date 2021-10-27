@@ -11223,7 +11223,6 @@ as1.wenku.baidu.com
 as2.binstream.live
 as3f.com
 as5.com
-asa.commerce.apple.com
 asa.commerce.apple.com.cdn20.com
 asap.ad7.com
 asc-wines.com
@@ -37365,6 +37364,7 @@ jbfoundry.com
 jbo255.com
 jbo28.com
 jbo568.com
+jbo65.com
 jbo8.com
 jbo8822.com
 jbo909.com
@@ -41053,7 +41053,6 @@ label.wenjuan.com
 labfan.com
 laborlawtime.com
 labs.ra.icast.cn
-labsoft.org
 labtoday.net
 lacesar.com
 lactec.net

@@ -35524,6 +35524,7 @@ img-tmdetail.alicdn.com
 img-tx-ugcimg.douyucdn2.cn
 img-vip-ssl.a.88cdn.com
 img-vip-ssl.a.88cdn.com.w.kunlungr.com
+img-x.jd.com
 img-x.jd.com.gslb.qianxun.com
 img-ys011.didistatic.com
 img.0279.net
@@ -48597,7 +48598,6 @@ o574ou0.cdnnodedns.cn
 o7bwit0rqeewo5o8lorxmpmqkqdg27il.alicloudwaf.com
 o7xs6runw.bkt.clouddn.com
 o8.aus.cc
-o8ak.com
 o8h7d.cn
 oa.sspu.edu.cn
 oa0351.com
@@ -48639,6 +48639,7 @@ oceanengine.com
 oceanol.com
 oceeq.com
 ocfund.cn
+ocimg.com
 oclkj.com
 ocpc.xueersi.com
 ocri-genomics.org

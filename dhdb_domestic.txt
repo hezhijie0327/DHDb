@@ -5041,6 +5041,7 @@
 5djbb.com
 5djiaren.com
 5doodw.tdum.alibaba.com
+5down.net
 5ds.com
 5e3aa5fa5505481d0afa9b60.mdbook.cn
 5e969c7aa80f6957335fc413552b1b48.dlied1.cdntips.net
@@ -5349,7 +5350,6 @@
 65e2e96dd984241c410b7a85c41d6d11.safeframe.googlesyndication.com
 65mhxy.com
 65singapore.com
-65wan.com
 6600.org
 660pp.com
 66123123.com
@@ -43879,6 +43879,7 @@ m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
 m.jiedianqian.com
+m.jingxi.com
 m.jinti.com
 m.joyxv.com
 m.jr.jd.com
@@ -44560,7 +44561,6 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
-mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn

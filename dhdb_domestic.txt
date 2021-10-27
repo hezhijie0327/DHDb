@@ -30685,6 +30685,7 @@ h5-monitor.1sapp.com.w.alikunlun.com
 h5-monitor.1sapp.com.wsglb0.com
 h5-share.com
 h5-x.com
+h5.072ld.com
 h5.082ld.com
 h5.090ld.com
 h5.091ld.com
@@ -34274,7 +34275,6 @@ i.51job.com.51jobdns.com
 i.9le.net
 i.adeaz.com
 i.adsame.com
-i.ai.mi.com
 i.ali213.net
 i.alicdn.com
 i.alicdn.com.danuoyi.tbcache.com
@@ -36965,6 +36965,7 @@ itmanbu.com
 itmian4.com
 itmind.net
 itminus.com
+itmo.com
 itmoocs.com
 itmop.com
 itmsm.com
@@ -38180,7 +38181,6 @@ jinrongren.net
 jinrongwang.net
 jinrui-tech.com
 jins-cn.com
-jinsdk.com
 jinse.com
 jinsebook.com
 jinsehuaqin.com
@@ -40985,6 +40985,7 @@ l.dalemax.cn
 l.fancyapi.com
 l.fastapi.net
 l.glrcy.cn
+l.gm.mob.com
 l.huya.com
 l.kscmt.cn
 l.mamababu.cn
@@ -41375,7 +41376,6 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
-lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com

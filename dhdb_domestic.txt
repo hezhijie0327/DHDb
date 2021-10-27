@@ -1250,6 +1250,7 @@
 133998.com
 133gp.com
 133jz.com
+13400.com
 1341512.sched.sma.tdnsv5.com
 1341533.p23.tc.cdntip.com
 1345345.com
@@ -38849,7 +38850,6 @@ js.ad7.com
 js.admin6.com
 js.aq.qq.com
 js.aq.tc.qq.com
-js.bckrono.cn
 js.ccmeng.com
 js.cdn.aliyun.dcloud.net.cn
 js.cdn.aliyun.dcloud.net.cn.w.kunlungr.com
@@ -42834,6 +42834,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn

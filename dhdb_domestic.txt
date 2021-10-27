@@ -10779,7 +10779,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -14435,6 +14434,7 @@ buycarcn.com
 buychuan.com
 buyertrade.taobao.com
 buyfine.net
+buyihao.com
 buyiju.com
 buyimg.bianxianmao.com
 buyin.jinritemai.com
@@ -15526,6 +15526,7 @@ cctbn.com
 cctc.cc
 cctcce.com
 cctcct.com
+cctiedu.com
 cctime.com
 cction.com
 cctlife.com
@@ -40982,7 +40983,6 @@ l.dalemax.cn
 l.fancyapi.com
 l.fastapi.net
 l.glrcy.cn
-l.gm.mob.com
 l.huya.com
 l.kscmt.cn
 l.mamababu.cn

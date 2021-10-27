@@ -15643,6 +15643,7 @@ ak-us-dyn.wal.co
 ak-us.wal.co
 ak.5.p2l.info
 ak.ad.turn.com
+ak.cdn-jquery.host
 ak.imgaft.com
 ak.sail-horizon.com
 ak.sascdn.com
@@ -18742,7 +18743,6 @@ apiserver-freya.net.daraz.com
 apiserver-wlan-switch.net.daraz.com
 apiserver.r-is-1-2.net.daraz.com
 apiserverlib-ht-2.net.daraz.com
-apisnd.heytapmobi.com
 apisof.net
 apistats-static.propellerads.com
 apistats.propellerads.com
@@ -23571,7 +23571,6 @@ bbercn.com
 bbg.gov
 bbgdirect.com
 bbgevent.com
-bbgomsvyyacndcf.xyz
 bbgwatch.com
 bbgzao.glamira.co.nz
 bbh.com
@@ -26507,6 +26506,7 @@ blockedinchina.net
 blockediniran.com
 blockedonweibo.com
 blockedsiteaccess.com
+blockedsituation.net
 blockflow.net
 blockless.com
 blockleviton.com
@@ -72691,6 +72691,7 @@ huahuaka.com
 huahuo.com
 huaidan1.com
 huaidan1234.com
+huaile.me
 huajiadi.spaces.live.com
 huake-weixin.com
 huake360.com

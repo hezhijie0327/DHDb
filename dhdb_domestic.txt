@@ -49307,7 +49307,6 @@ orcode.com
 order.imooc.com
 order.yystatic.com
 ordercenter.console.aliyun.com
-orderprocessor-public-service-ecomprod01.ol.epicgames.com
 orders-drcn.iap.hicloud.com
 orders.kfc.com.cn
 ordosbank.com
@@ -49684,7 +49683,6 @@ p1.glb6.com
 p1.hoopchina.com.cn
 p1.img.cctvpic.com
 p1.itc.cn
-p1.jj20.com
 p1.lefile.cn
 p1.lefile.cn.wscdns.com
 p1.meituan.net

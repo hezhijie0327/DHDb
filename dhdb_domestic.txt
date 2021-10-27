@@ -2567,7 +2567,6 @@
 24572112-456.hd.webportal.top
 2459551.b2b.liebiao.com
 2459551.shop.liebiao.com
-2463b47a-ws.va.huya.com
 2463b4be-ws.va.huya.com
 246546.com
 2467034.b2b.liebiao.com
@@ -11485,6 +11484,7 @@ austarstudy.com
 australia.people.com.cn
 auth-ai.meituan.com
 auth.api.gitv.tv
+auth.be.sec.miui.com
 auth.sonkwo.com
 auth.wosms.cn
 authlogin.kfc.com.cn
@@ -20178,7 +20178,6 @@ cuishuai.cc
 cuiuc.com
 cuiweijuxing.com
 cuiyongjian.com
-cuizl.com
 cuketest.com
 cul-studies.com
 culaiwan.com
@@ -53356,6 +53355,7 @@ qingliange.com
 qinglin.net
 qinglm.com
 qinglue.net
+qinglvcha.com
 qingmang.mobi
 qingmayun.com
 qingmei.me

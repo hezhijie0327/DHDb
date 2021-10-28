@@ -8090,7 +8090,6 @@ act-vip-ssl.xunlei.com.w.kunlunca.com
 act.cmcmcdn.com
 act.commercial.shouji.360.cn
 act.daoju.qq.com
-act.dmall.com
 act.guanjia.qq.com
 act.qq.com
 act.qzone.qq.com
@@ -12802,7 +12801,6 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -18461,6 +18459,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -30131,6 +30130,7 @@ guilinlife.com
 guilintravel.com
 guimipay.net
 guipp.com
+guisd.com
 guishan.org
 guitarchina.com
 guitarpro.cc
@@ -31397,6 +31397,7 @@ hbeducloud.com
 hbekt.com
 hbepec.com
 hbexqt.com
+hbf23.cn
 hbfire.com
 hbfnnyw.com
 hbfootball.com

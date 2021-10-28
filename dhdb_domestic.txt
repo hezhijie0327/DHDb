@@ -1543,6 +1543,7 @@
 1619915542.572388452.sngdia.imtmp.net
 1619930645.14664336408595985096.sngdia.imtmp.net
 161fc320561014252d5f3e5965ed51ae.dlied1.cdntips.net
+161gg.com
 1620002572.17719829698356123684.sngdia.imtmp.net
 1620017546.1287994492.sngdia.imtmp.net
 1620127887.3885749984.sngdia.imtmp.net
@@ -2586,7 +2587,6 @@
 24e4d7191482a3e2283034a6762996f6.safeframe.googlesyndication.com
 24haowan.com
 24hmb.com
-24jz.com
 24kwx.com
 24maker.com
 24money.com
@@ -12956,7 +12956,6 @@ benghuai.com
 bengku.com
 benhu01.com
 benimg.com
-benkejieye.com
 benlai.com
 benlailife.com
 benmi.com
@@ -18299,6 +18298,7 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
+cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net

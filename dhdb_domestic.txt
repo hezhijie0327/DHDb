@@ -658,6 +658,7 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -1150,7 +1151,6 @@
 123slg.com
 123u.com
 123webgame.com
-123yingyu.com
 123youhuo.com
 1246889.b2b.liebiao.com
 125.la
@@ -10422,7 +10422,6 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.huya.com
-api.hybrid.xiaomi.com
 api.hyhuo.com
 api.iapps.ifeng.com
 api.iimedia.cn
@@ -18815,7 +18814,6 @@ cnqc.com
 cnqiang.com
 cnqichun.com
 cnqjw.com
-cnqlk.com
 cnqr.org
 cnquanjing.com
 cnr.cn
@@ -40959,7 +40957,6 @@ kz.admaster.com.cn
 kzj365.com
 kztpms.com
 kzwr.com
-l-f.pw
 l-rcd.iqiyi.com
 l.bjzsyx.cn
 l.bst.126.net
@@ -46937,7 +46934,6 @@ myapp.com
 myarowanas.com
 myauth.us
 myball7.com
-mybank.cc
 mybank.cn
 mybdqn.com
 mybjx.net

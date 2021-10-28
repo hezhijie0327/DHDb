@@ -21273,7 +21273,6 @@ data.highpin.cn
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
-data.sec.miui.com
 data.snm0516.aisee.tv
 data.sonkwo.com
 data.trendymedia.com.cn
@@ -21820,6 +21819,7 @@ designboard.cc
 designuuu.com
 deskcar.com
 deskguanjia.com
+deskt.cn
 desktopcal.com
 deskwc.com
 destinationurl.com
@@ -41816,7 +41816,6 @@ lf.snssdk.com
 lf1-dycdn-tos.pstatp.com
 lf1-dycdn-tos.pstatp.com.wsglb0.com
 lf127.net
-lf1782.com
 lf26-geckocdn-tos.pstatp.com
 lf3-geckocdn-tos.pstatp.com
 lf3-geckocdn-tos.pstatp.com.w.cdngslb.com

@@ -491,7 +491,6 @@
 07bf02787f85a3bb53d73bf758bb5fbb.safeframe.googlesyndication.com
 07cn.com
 07dfabef10944e746cad4c60.mdbook.cn
-07ren.com
 07swz.com
 07yue.com
 0805d805df7f9dfe73f8e0783e0c7fe1.safeframe.googlesyndication.com
@@ -5408,6 +5407,7 @@
 66rr5v.tdum.alibaba.com
 66ruian.com
 66shouyou.com
+66sj.com
 66team.com
 66tv.tv
 66ui.com
@@ -17765,7 +17765,6 @@ cjrcsc.com
 cjroq.bealge.sogou.com
 cjs556348.spzs.com
 cjsc.com
-cjssy.com
 cjv2gt.cn
 cjveg.com
 cjwxqz.dianpusoft.cn
@@ -41799,6 +41798,7 @@ lezhibo.com
 lezhieducation.com
 lezhiot.com
 lezhiyun.com
+lezhuan.com
 lezhuan168.com
 lezhuan365.com
 lezi.com

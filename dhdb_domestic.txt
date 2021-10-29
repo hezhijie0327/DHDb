@@ -14126,6 +14126,7 @@ boyuonline.com
 bozhihua.com
 bozhong.com
 bp-api.coohua.com
+bp576.com
 bphetaomiao.com
 bps.jd.com
 bpsemi.com
@@ -16445,6 +16446,7 @@ chashebao.com
 chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
+chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
@@ -36922,7 +36924,6 @@ itlily.com
 itmanbu.com
 itmian4.com
 itmind.net
-itminus.com
 itmo.com
 itmoocs.com
 itmop.com

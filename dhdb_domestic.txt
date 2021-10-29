@@ -10382,6 +10382,7 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
+api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -34651,7 +34652,6 @@ icme14.org
 icminer.com
 icms.sina.cn
 icmsdev.com
-icmsms2020.org
 icmyk.cc
 icn.southmoney.com
 icnjob.com
@@ -43909,6 +43909,7 @@ m.mpl.dutils.com
 m.myams.cn
 m.nabeghlavi.com.cn
 m.nb.17house.com
+m.nejup.com
 m.news.cctv.com
 m.newsmth.net
 m.nuoqingck.cn

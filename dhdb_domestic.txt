@@ -10246,7 +10246,6 @@ apgblogs.com
 apgoview.com
 aphidic.com
 api-20200527.xkspbz.com
-api-a.op-mobile.opera.com
 api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
@@ -10461,6 +10460,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -12985,6 +12985,7 @@ bestdjb.com
 bestdo.com
 bestedm.net
 bestfuturevip.com
+besthackingsoftwares.com
 besticity.com
 bestpush.pconline.com.cn
 bestqliang.com
@@ -13252,7 +13253,6 @@ bike.hellobike.com
 bikehome.net
 biketo.com
 biketour-giant.com
-biknow.com
 bilebo.com
 bili-dyn-sched.jcloud-cdn.com
 bili22.cn
@@ -14347,7 +14347,6 @@ budou.com
 buduanwang.vip
 buduobaobao.com
 bufan.com
-buff.163.com
 buff777.com
 buffst.com
 bug-xl9-ssl.xunlei.com
@@ -48768,7 +48767,6 @@ oimagec8.ydstatic.com
 oiuwe.com
 oiwjcsh015.top
 oj3y7wx427mfa02u.aliyunddos1026.com
-ojshdkfjlas.zhixianghuibao.com
 ojskdjkf.mmlala.com
 ojskdkjfsl.jufengputao.com
 ok-meeting.com

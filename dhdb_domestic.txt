@@ -11754,7 +11754,6 @@ b.epinv.com
 b.gushiciju.com
 b.hiphotos.baidu.com
 b.iy.com.cn
-b.jinxiutengzhou.cn
 b.ninebox.cn
 b.nstool.ntes53.netease.com
 b.nvrentao8.com
@@ -22436,6 +22435,7 @@ dimg02.c-ctrip.com
 dimg02.c-ctrip.com.wscdns.com
 dimg03.c-ctrip.com
 dimg03.c-ctrip.com.wscdns.com
+dimg04.c-ctrip.com
 dimg04.c-ctrip.com.a.bdydns.com
 dimg04.c-ctrip.com.wscdns.com
 dimg05.c-ctrip.com
@@ -25905,7 +25905,6 @@ esun88.com
 esuniao.com
 esw.tymcdn.com
 eswin.com
-esyantu.com
 eszmall.com
 esztsg.org
 eszwdx.com

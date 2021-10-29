@@ -8485,7 +8485,6 @@ adplusx.com
 adpolestar.net
 adportion.com
 adpro.pro.cn
-adpron.com
 adproxy.autohome.com.cn
 adpub.yaolan.com
 adpublish.ydstatic.com
@@ -29876,7 +29875,6 @@ gstat.myzaker.com
 gstat.ptmi.gitv.tv
 gstatic.cn
 gstaticadssl.l.google.com
-gstaticcnapps.cn
 gstdt.com
 gstonegames.com
 gsxservice.com
@@ -40493,7 +40491,6 @@ kr02.dns.meo-sub.site
 kr02.dns.meo-sub.xyz
 krahag.com
 krcom.cn
-krcs.kugou.com
 krdrama.com
 krmzz.org
 krpano.tech
@@ -45462,6 +45459,7 @@ mibugs.com
 mic-s.com
 micai.com
 micaiying.com
+micardapi.micloud.xiaomi.net
 micblo.com
 michaelapp.com
 micheal.wang

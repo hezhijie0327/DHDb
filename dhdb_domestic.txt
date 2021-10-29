@@ -10415,6 +10415,7 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.huya.com
+api.hybrid.xiaomi.com
 api.hyhuo.com
 api.iapps.ifeng.com
 api.iimedia.cn
@@ -21510,6 +21511,7 @@ dc.letv.com
 dc.meitustat.com
 dc.sigmob.cn
 dc.so.le.com
+dc0555.com
 dc1.networkbench.com
 dc330.com
 dc4444.com
@@ -46083,7 +46085,6 @@ mobeehome.com
 mobeiwenhua.com
 mobgi.com
 mobi.kuwo.cn
-mobibal.com
 mobibao.com
 mobibrw.com
 mobid.cn
@@ -49020,7 +49021,6 @@ oohdear.com
 oolap.com
 oomake.com
 ooniu.com
-ooomm.com
 ooop.zqwlkj.cn
 ooopic.com
 ooopn.com

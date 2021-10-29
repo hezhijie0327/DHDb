@@ -7337,6 +7337,7 @@
 9ha214li.sched.sma.tdnsv5.com
 9hcom.com
 9he.com
+9ht.com
 9ibbcq2d.sina.cn
 9icode.net
 9icy.com
@@ -10460,7 +10461,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -11742,7 +11742,6 @@ b.alicdn.com
 b.alicdn.com.danuoyi.tbcache.com
 b.appjiagu.com
 b.bdstatic.com
-b.beizhoujt.cn
 b.bshare.cn
 b.cdn02.duolebo.com
 b.cdn03.duolebo.com
@@ -21435,7 +21434,6 @@ dbank.com
 dbankcdn.com
 dbankcloud.com
 dbbqb.com
-dbc.pkkjxs.cn
 dbccv.com
 dbcsq.com
 dbd9ec22e522e7271781ef4f0f44949d.dlied1.cdntips.net
@@ -27276,7 +27274,6 @@ fireclick.jd.com
 fireclick.jd.com.gslb.qianxun.com
 fireemblem.net
 fireemulator.com
-fireflyacg.com
 firefoxbug.com
 firefoxchina.cn
 firemail.wang
@@ -41128,7 +41125,6 @@ landray.com
 landray.dingtalkapps.com
 landtu.com
 landui.com
-landzestate.com
 lanecn.com
 lanecrawford.com
 lanfanapp.com

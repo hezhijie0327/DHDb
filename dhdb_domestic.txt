@@ -10573,7 +10573,6 @@ api.xiaoniangao.cn
 api.xiaoshuo1-sm.com
 api.ximalaya.com
 api.xinyue.qq.com
-api.xitongcheng.com
 api.xitongcheng.com.cname.yunjiasu-cdn.net
 api.xmpush.xiaomi.com
 api.xsj.wasu.tv
@@ -34989,7 +34988,6 @@ igeidao.com
 igelou.com
 igenetech.com
 igengmei.com
-igerun.com
 igeshui.com
 igetget.com
 igetui.com
@@ -46547,6 +46545,7 @@ msanjia.com
 msc.jd.com
 msc.jd.com.gslb.qianxun.com
 mscbsc.com
+msch.f.360.cn
 msclick2.kuwo.cn
 mscto.com
 msdn.itellyou.cn

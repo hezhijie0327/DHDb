@@ -8169,6 +8169,7 @@ ad-h5.fcb.com.cn.w.alikunlun.com
 ad-mex.com
 ad-mob-app.le.com
 ad-plus.cn
+ad-report.fcb.com.cn
 ad-sdk.aiclk.com
 ad-sdk.aiclk.com.m.alikunlun.com
 ad-sh-sz-zb.wagbridge.tanx.alimama.com
@@ -9031,7 +9032,6 @@ aifcdn.com
 aifengjie.com
 aifenka.cn
 aifont.com
-aifu-pay.com
 aifu10.com
 aifu360.com
 aigame100.com

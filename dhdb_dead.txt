@@ -3891,6 +3891,7 @@ a.clipconverter.cc
 a.cn.miaozhen.com
 a.collective-media.net
 a.dianjoy.com
+a.dmall.com
 a.domob.cn
 a.dounanhuahui.com
 a.duanmeiwen.com
@@ -4204,7 +4205,6 @@ aaa.army
 aaaa.ipv6-test.ch
 aaacompany.net
 aaadealstoday.com
-aaalian.com
 aabacosmallbusiness.com
 aabbccddeeffgg.cn
 aaddcount.com
@@ -5917,6 +5917,7 @@ adserver.prodigy.net
 adserver.pubblicitaonline.itadimage.php
 adserver.ratestar.net
 adserver.revver.com
+adserver.rhombusads.com
 adserver.sabc.co.za
 adserver.sabcnews.co.za
 adserver.sbtrustmedia.com
@@ -29915,6 +29916,7 @@ k.wudejia.com
 k.xmtsyg.com
 k0606.com
 k0z09okc.com
+k1-ipv6-js007.gslb.js007.jsfycdn3.com
 k1.wanwenwan.cn
 k112-js007.gslb.js007.jsfycdn3.com
 k11328.com
@@ -40375,7 +40377,6 @@ play.pocketgolf.host
 play.power.tainiesonline.pw
 play.qs01.cn
 play.s01.vidtodo.pro
-play.site.flashx.cc
 play.star.dexim.space
 play.stat.miraben.pw
 play.tainiesonline.pw
@@ -41100,7 +41101,6 @@ proxyit.ga
 proxyit.ml
 proxyness.com
 proxyreducing.com
-proxyshore.org
 proxyzan.pw
 proy.xyz
 proyectoq.cl

@@ -7463,7 +7463,6 @@ a.cnzz.com.gds.alibabadns.com
 a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
-a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -10770,6 +10769,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -32391,7 +32391,6 @@ hkance.com
 hkance.xyz
 hkbchina.com
 hkcts.com
-hkctshotels.com
 hkfc.hk
 hkfljt.com
 hkgcr.com
@@ -39560,7 +39559,6 @@ k0o65wkd.sched.sma.tdnsv5.com
 k1-biligame-migu.gslb.h.ngaacdn.cn
 k1-biligame.gslb.ksyuncdn.com
 k1-global.gslb.ksyuncdn.com
-k1-ipv6-js007.gslb.js007.jsfycdn3.com
 k1-ipv6.gslb.ksyuncdn.com
 k1.dancihu.com
 k1.gslb.ksyuncdn.com
@@ -41238,6 +41236,7 @@ laoqiange.club
 laoren.com
 laosiji.com
 laotiaomao.com
+laowangblog.com
 laowangshengge.com
 laowuxx.com
 laoxiezi.com

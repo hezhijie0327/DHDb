@@ -655,7 +655,6 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -1400,7 +1399,6 @@
 158jixie.com
 1595096.sched.d0-dk.tdnsv5.com
 15daili.com
-15gg.com
 15gift.com
 15hr.com
 15lu.com
@@ -28380,6 +28378,7 @@ game3-center.dftoutiao.com
 game3vs7novel.com
 game5.com
 game5399.com
+game5iw.com
 game798.com
 game900.com
 game9g.com
@@ -41582,7 +41581,6 @@ lei001.com
 leibei.cc
 leicabiosystems.com
 leida310.com
-leidian.com
 leidianip.com
 leifengshi120.com
 leigod.com
@@ -44320,7 +44318,6 @@ maixiaba.com
 maixj.net
 maixuewen.com
 maiya91.com
-maizhiying.me
 maiziedu.com
 maizim.com
 maizuo.com
@@ -48534,6 +48531,7 @@ o2moment.com
 o2o-ad-clicking.alibaba.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
+o2o.api.xiaomi.com
 o2o.keloop.cn
 o2oexpo.com
 o2osd.com

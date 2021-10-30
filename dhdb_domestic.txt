@@ -10320,7 +10320,6 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
-api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -18389,7 +18388,6 @@ cn-roofexpert.com
 cn-sdjn2-cu-v-02.bilivideo.com
 cn-sdjn2-cu-v-03.bilivideo.com
 cn-sdjn2-cu-v-07.bilivideo.com
-cn-sdjn2-cu-v-08.bilivideo.com
 cn-sdjn3-cu-v-03.bilivideo.com
 cn-sdyt-cu-v-01.bilivideo.com
 cn-sdyt-cu-v-02.bilivideo.com
@@ -22854,6 +22852,7 @@ dlxgjy.com
 dlxh81gm.v1d.szbdyd.com
 dlxje36g.v1d.szbdyd.com
 dlxww.com
+dlyeren.com
 dlyestar.com
 dlzb.com
 dlztb.com
@@ -43341,7 +43340,6 @@ lujingtao.com
 lukachen.com
 lukaplayer.com
 lukeer.com
-lukehubei.com
 lukou.com
 lulala.com
 lulaohan.com
@@ -53871,7 +53869,6 @@ qroao65a.v1d.szbdyd.com
 qroao6jx.v1d.szbdyd.com
 qroao6lj.v1d.szbdyd.com
 qrtest.com
-qs.lindanmiaoxiang.cn
 qs.qsmdeyz.cn
 qs.shouji.sogou.com
 qs.xiangzhuan999.cn

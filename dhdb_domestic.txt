@@ -10320,6 +10320,7 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
+api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -18289,7 +18290,6 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
-cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -20586,6 +20586,7 @@ d2cb5ad7002c4066.huaweisafedns.com
 d2fan.com
 d2film.com
 d2kdi2ss.com
+d2mzb.com
 d2oloe26binwxh.cloudfront.cn
 d2robot.com.cn
 d2scdn.com

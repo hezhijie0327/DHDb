@@ -10404,7 +10404,6 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.huya.com
-api.hybrid.xiaomi.com
 api.hyhuo.com
 api.iapps.ifeng.com
 api.iimedia.cn
@@ -33204,6 +33203,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.push.heytapmobi.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
 httpsdns.baidu.com
@@ -44169,7 +44169,6 @@ mafangwo.com
 mafengs.com
 mafengvwo.com
 mafengwo.cn
-mafengwo.com
 mafengwo.ink
 mafengwo.net
 maff.com
@@ -48285,7 +48284,6 @@ nr-op.elemecdn.com.m.alikunlun.com
 nr7ia8i9.sched.s2-dk.tdnsv5.com
 nrec.com
 nrsfh.com
-nrz.cc
 ns-strategy.cdn.bcebos.com
 ns-strategy.cdn.bcebos.com.a.bdydns.com
 ns-tj.wlx.tenpay.com

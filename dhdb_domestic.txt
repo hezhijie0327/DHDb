@@ -15372,7 +15372,6 @@ ccets.com
 ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
-ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
 ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
@@ -27396,7 +27395,6 @@ floor.jd.com
 floor.jd.com.gslb.qianxun.com
 florentiavillage.com
 flow.10010.com
-flow.dmall.com
 flow.qq.com
 flow.wps.cn
 flowcontroll.dcdn.sandai.net
@@ -50643,6 +50641,7 @@ phonegap100.com
 phonekr.com
 phopic.com
 phormchina.com
+photo.941ziyuan.cn
 photo.chaoxing.com
 photo.codefat.cn
 photo.fanya.chaoxing.com

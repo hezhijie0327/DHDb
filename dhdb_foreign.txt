@@ -3260,6 +3260,7 @@
 3.237.119.123.zz.countries.nerd.dk
 3.aa1122.ws
 3.au.download.windowsupdate.com
+3.cn.pool.ntp.org
 3.courier-push-apple.com.akadns.net
 3.courier2-push-apple.com.akadns.net
 3.cr.rs
@@ -3745,7 +3746,6 @@
 360xixi.com
 360yield.com
 360yun.org
-360zimeiti.com
 361.cm
 361315.cc
 361a.com
@@ -12003,7 +12003,6 @@ adlog.molitv.cn
 adlog.shopping.naver.com
 adlogists.com
 adlook.me
-adlook.net
 adloop.co
 adloox.com
 adlooxtracking.com
@@ -41351,6 +41350,7 @@ d.la4-c1-phx.salesforceliveagent.com
 d.ligatus.com
 d.line-scdn.net
 d.login.ns.emailvision.net.daraz.com
+d.moviemeng.com
 d.nativendo.de
 d.newssuite.sony.net
 d.nginx.ns.emailvision.net.daraz.com
@@ -45825,6 +45825,7 @@ dl.benefits.express-scripts.com
 dl.box.net
 dl.browsermine.com
 dl.crazyporn.xxx
+dl.delivery.mp.microsoft.com
 dl.dell.com
 dl.devmate.com
 dl.discordapp.net
@@ -91181,6 +91182,7 @@ m.wkjava.top
 m.wnacg.com
 m.wnacg.org
 m.wonwg.com
+m.wuqutu.com
 m.wywna.cn
 m.wz382.cn
 m.x18mh.com

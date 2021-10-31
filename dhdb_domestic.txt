@@ -10759,7 +10759,6 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -25707,7 +25706,6 @@ epichackz.com
 epichust.com
 epinduo.com
 epinga.com
-epinv.com
 epjike.com
 epjob88.com
 eplove.com
@@ -48515,7 +48513,6 @@ o2moment.com
 o2o-ad-clicking.alibaba.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
-o2o.api.xiaomi.com
 o2o.keloop.cn
 o2oexpo.com
 o2osd.com
@@ -50166,6 +50163,7 @@ passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
 passport.lagou.com
+passport.lenovo.com
 passport.lenovo.com.cn
 passport.meituan.com
 passport.mydrivers.com

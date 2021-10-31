@@ -659,7 +659,6 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -7912,7 +7911,6 @@ abslw.com
 abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
-abto.cc
 abuquant.com
 abuyun.com
 ac-dun.security.ntes53.netease.com
@@ -17882,7 +17880,6 @@ clickc.admaster.com.cn
 clicki.cn
 clickip.hnol.net
 clicklog.hd.baofeng.com
-clicklog.moviebox.baofeng.com
 clickm.fang.com
 clickm.soufun.com
 clickn.fang.com
@@ -30369,7 +30366,6 @@ gxsky.com
 gxtodo.com
 gxud2k6.dedit904n21.cname.hosts.topvps.top
 gxwmcu.com
-gxwsxx.com
 gxxgle.com
 gxxiaotutu.com
 gxxmyjs.com
@@ -39795,7 +39791,6 @@ kanshu.com
 kanshuwangzhan.com
 kantao.net
 kantiantang.com
-kanxsw.com
 kanxue.com
 kanzhun.com
 kao8.cc

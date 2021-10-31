@@ -704,6 +704,7 @@
 10.client-channel.google.com
 10.courier-push-apple.com.akadns.net
 10.courier2-push-apple.com.akadns.net
+10.eve.dyx.com
 10.im.cz
 10.rarbg.com
 10.rarbg.me
@@ -42838,7 +42839,6 @@ data.mediaworld.it
 data.mic.com
 data.minute.ly
 data.mistat.rus.xiaomi.com
-data.mistat.xiaomi.com
 data.namesakeoscilloscopemarquis.com
 data.neosmi.ru
 data.netweaver.uk
@@ -71696,6 +71696,7 @@ hkwesi22222.xyz
 hkwesi5.xyz
 hkwesi666.xyz
 hkwesi66666.xyz
+hkwesi7.xyz
 hkwesi77.xyz
 hkwnnz.selfieroom.pl
 hkxen.com
@@ -102740,6 +102741,7 @@ newbeatsblackfriday.com
 newbestoffers.com
 newbetakey.com
 newbie.com
+newbolunesport.com
 newbrazzers.com
 newbuild.studio
 newburyweather.org.uk

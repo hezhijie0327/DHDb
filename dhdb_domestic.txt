@@ -4413,7 +4413,6 @@
 51web.com
 51weihu.com
 51wendang.com
-51windows.net
 51wj.com
 51wjrc.com
 51wm-pic1.oss-cn-hangzhou.aliyuncs.com
@@ -10883,7 +10882,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -18441,6 +18439,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc

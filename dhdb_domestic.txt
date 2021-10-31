@@ -1255,7 +1255,6 @@
 1352365.b2b.liebiao.com
 1353305.shop.liebiao.com
 1356789.com
-1357902.cn
 135bianjiqi.com
 135editor.com
 135plat.com
@@ -10759,7 +10758,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.cdn-apple.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -42775,7 +42773,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -43821,7 +43818,6 @@ m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
 m.jiedianqian.com
-m.jingxi.com
 m.jinti.com
 m.joyxv.com
 m.jr.jd.com
@@ -44865,7 +44861,6 @@ mdy-edu.com
 mdybk.com
 me-city.com
 me.afp.chinanews.com
-me.com.x9wj2.cn
 me.cpatrk.net
 me.csdn.net
 me.qidian.com
@@ -56328,7 +56323,6 @@ sac-china.com
 sac.sina.cn
 sacc.it168.com
 sacdr.net
-sacg.dmzj1.com
 sact-digital.com
 sad.qeo.cn
 sadataapi.msxf.com
@@ -56923,7 +56917,6 @@ sdlvxing.com
 sdly35.com
 sdmic.com
 sdn.geekzu.org
-sdn.kugou.com
 sdnfv.org
 sdnjsbc.com
 sdnlab.com

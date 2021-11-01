@@ -220,7 +220,6 @@
 07afcp.com
 07dd0b077239d1e6b2b85bc1df6384b6.jddebug.com
 07jm.com
-07ren.com
 080cbfe.cn
 08172.hk
 0817tv.com
@@ -7557,6 +7556,7 @@ api.qianzhi66.cn
 api.rainbow.oa.com
 api.reon.club
 api.rideraid.net
+api.rongzhouxing.com
 api.safedk.com
 api.scelsbql.cn
 api.ssp.adoceans.com
@@ -10951,6 +10951,7 @@ buyu212.com
 buyu213.com
 buyu2288.com
 buyu3388.com
+buyu46.com
 buyu901.com
 buyuninfo.com
 buyvalium.polybuild.ru
@@ -31096,6 +31097,7 @@ la61d.cn
 lab.gracecode.com
 labadon.com
 labbase.biz
+labfrsmdxqj.xyz
 labgabg.com
 labonneforme.net
 labsoft.org

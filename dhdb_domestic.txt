@@ -489,6 +489,7 @@
 07bf02787f85a3bb53d73bf758bb5fbb.safeframe.googlesyndication.com
 07cn.com
 07dfabef10944e746cad4c60.mdbook.cn
+07ren.com
 07swz.com
 07yue.com
 0805d805df7f9dfe73f8e0783e0c7fe1.safeframe.googlesyndication.com
@@ -44487,7 +44488,6 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
-mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn

@@ -5611,7 +5611,6 @@
 715083.com
 715300.com
 715e8dd5.qc.x.bsgslb.cn
-71668.net
 716713d2033bf3ac017a9726ba500531.safeframe.googlesyndication.com
 71714.com
 718e31e8894454e98bf531c997f4e6fb.dlied1.cdntips.net
@@ -7454,7 +7453,6 @@ a.cnzz.com.gds.alibabadns.com
 a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
-a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -19249,6 +19247,7 @@ connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
 connectivitycheck.gstatic.com
+connectivitycheck.platform.hicloud.com
 connector-systems.com
 connpm.gj.qq.com
 connps.gj.qq.com

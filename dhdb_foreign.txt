@@ -3,7 +3,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -61471,7 +61470,6 @@ getcontent.net
 getconversion.net
 getconvey.com
 getcrackedgames.com
-getcrackfile.com
 getcraft.net
 getcryptotab.com
 getdirect.tv
@@ -76054,7 +76052,6 @@ incloak.com
 incloak.es
 incloud.tw
 include.canale.live
-includemodal.com
 includemodal.global.ssl.fastly.net
 includenyc.org
 includepurple.com
@@ -79853,7 +79850,6 @@ islamawareness.net
 islamclick.ru
 islamhk.com
 islamhouse.com
-islamiccenterofnewlondon.com
 islamicchannel.org
 islamicfinder.org
 islamicity.com
@@ -80643,6 +80639,7 @@ jafosachi.pro
 jaftouja.net
 jagex.com
 jaggaer.com
+jagoiklan.com
 jagopromo.com
 jaguar.stevenharman.net
 jaguar.thankbox.com

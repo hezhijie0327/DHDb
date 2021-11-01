@@ -12659,6 +12659,7 @@ bdapark.com
 bdapi.ads.heytapmobi.com
 bdapi.ads.oppomobile.com
 bdasd.chdbook.cn
+bdasd.wmxa.cn
 bdatu.com
 bdbus-turbonet.baidu.com
 bdbus-turbonet.n.shifen.com
@@ -25319,7 +25320,6 @@ egoonet.com
 egotops.com
 egou.com
 egovsum.com
-egozne.cn
 egreatworld.com
 egret-labs.org
 egret.com
@@ -43823,7 +43823,6 @@ m.kfc.com.cn
 m.kokomh.com
 m.konshan.com
 m.kyxnz.cn
-m.laigame7.net
 m.lanqiuba.com
 m.lanseshuba.com
 m.lanshiwan.cn

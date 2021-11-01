@@ -36841,7 +36841,6 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
-item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com
@@ -45796,7 +45795,6 @@ miusi.co
 miutour.com
 miutrip.com
 mivideo.g.mi.com
-miwifi.com
 mix.adsame.com
 mix.kinostuff.com
 mixbao.com
@@ -46509,6 +46507,7 @@ ms-vsliveshare.gallerycdn.azure.cn
 ms.bdimg.com
 ms.cnbanbao.com
 ms.cnczjy.com
+ms.jr.jd.com
 ms.jr.jd.com.gslb.qianxun.com
 ms.vipstatic.com
 ms.zu.anjuke.com

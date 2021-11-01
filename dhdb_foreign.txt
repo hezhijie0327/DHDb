@@ -13219,7 +13219,6 @@ ads.stephensmedia.com
 ads.stickyadstv.com
 ads.stileproject.com
 ads.suckhoegiadinh.com.vn
-ads.sumotorrent.com
 ads.sun.com
 ads.suomiautomaatti.com
 ads.sup.com
@@ -18657,6 +18656,7 @@ api.rubic.com.tr
 api.rudderlabs.com
 api.ryanyao.design
 api.sail-personalize.com
+api.samsungcloud.com
 api.savemedia.website
 api.sbz.vn
 api.sciencemag.org
@@ -40227,7 +40227,6 @@ csdc5555.com
 csdc7777.com
 csdc8888.com
 csdc999.com
-csdc9999.com
 csdeals.pro
 csdh.com
 csdisco.com
@@ -60524,6 +60523,7 @@ gateway-ns1.viviotech.net.daraz.com
 gateway-www.net.daraz.com
 gateway.answerscloud.com
 gateway.arc.io
+gateway.cdeledu.com
 gateway.dev
 gateway.discord.gg
 gateway.ea.com
@@ -72922,7 +72922,6 @@ hspbotdetection.azurewebsites.net
 hsprzf.shinhwaworld.com
 hsr2013.com
 hsrd.yahoo.com
-hssdg.com
 hsselite.com
 hsslx.com
 hssv.org
@@ -81665,7 +81664,6 @@ jinsha578.com
 jinsha579.com
 jinsha977.com
 jinshagt222.com
-jinshagt666.com
 jinshangcaijing.com
 jinshangdai.com
 jinshanjiayuan.com
@@ -102876,6 +102874,7 @@ newipnow.com
 newipvpn.com
 newisiknowledge.com
 newizv.ru
+newjrs.xyz
 newjulads.com
 newlandchase.com
 newlandmagazine.com.au

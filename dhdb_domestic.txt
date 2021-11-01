@@ -10403,6 +10403,7 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.huya.com
+api.hybrid.xiaomi.com
 api.hyhuo.com
 api.iapps.ifeng.com
 api.iimedia.cn
@@ -29978,7 +29979,6 @@ guangdong.sinaimg.cn
 guangfeng.com
 guanggao.com
 guanggaoad.youku.com
-guanggoo.com
 guanggua.com
 guanghe.tv
 guanghuayigou.com
@@ -32347,7 +32347,6 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -38363,7 +38362,6 @@ jjkk.org
 jjklife.com
 jjkucunxie.com
 jjldbk.com
-jjlsd.com
 jjmatch.com
 jjmh.com
 jjmmw.com

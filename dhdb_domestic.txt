@@ -876,7 +876,6 @@
 108sq.com
 108tian.com
 109.com
-1090.h5.zyttx.com
 10906c0205096e21661807951a4d782e.dlied1.cdntips.net
 10909.com
 109876543210.com
@@ -10388,6 +10387,7 @@ api.fd.mob.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -13218,7 +13218,6 @@ biji.com
 biji13.com
 bijiago.com
 bijiao.org
-bijiaocheng.com
 bijiasso.com
 bijiatu.com
 bijienetworks.com

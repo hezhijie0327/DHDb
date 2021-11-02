@@ -19132,6 +19132,7 @@ appcloudcdn.com
 appconsent.io
 appcontent.serif.com
 appdatum.com
+appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appdump.nie.netease.com
@@ -33071,7 +33072,6 @@ cds1287.lon.llnw.net
 cds1289.lon.llnw.net
 cds1293.lon.llnw.net
 cds177.dus.llnw.net
-cds26.ams9.msecn.net
 cds308.lcy.llnw.net
 cds310.lcy.llnw.net
 cds405.lcy.llnw.net
@@ -97926,7 +97926,6 @@ minelli.fr
 minently.com
 minepi.com
 miner-deu-1.inf.nimiq.network
-miner-deu-2.inf.nimiq.network
 miner-deu-4.inf.nimiq.network
 miner-deu-6.inf.nimiq.network
 miner-deu-7.inf.nimiq.network

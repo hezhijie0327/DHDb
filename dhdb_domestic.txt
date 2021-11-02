@@ -4065,7 +4065,6 @@
 51ads.com
 51aimei.com
 51aiwan.com
-51anidea.com
 51ask.org
 51asm.com
 51aspx.com
@@ -10279,7 +10278,6 @@ api-news.zhhainiao.com
 api-pan.xunlei.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
-api-pricetag.dmall.com
 api-prod.leancloud.cn
 api-push.meizu.com
 api-sc.wtzw.com
@@ -15342,7 +15340,6 @@ ccbride.com
 ccbtrust.com.cn
 ccc-x.jd.com
 ccc-x.jd.com.gslb.qianxun.com
-ccc.sys.miui.com
 ccc.x.jd.com
 ccc.xx578.com
 cccbs.net
@@ -21243,7 +21240,6 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
-data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -33434,7 +33430,6 @@ huayoumengze.com
 huayoutianyu.com
 huayuanlcd.com
 huayuannongji.com
-huayuidc.com
 huayun.com
 huayunshuzi.com
 huayunyy.com
@@ -49501,7 +49496,6 @@ oyohyee.com
 oyonyou.com
 oyoozo.com
 oyster.58.com
-oyxdwx.com
 oyyj-oys.org
 ozone.10jqka.com.cn
 p-dragon.com

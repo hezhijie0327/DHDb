@@ -15340,6 +15340,7 @@ ccbride.com
 ccbtrust.com.cn
 ccc-x.jd.com
 ccc-x.jd.com.gslb.qianxun.com
+ccc.sys.miui.com
 ccc.x.jd.com
 ccc.xx578.com
 cccbs.net
@@ -16851,7 +16852,6 @@ chinacache.com
 chinacache.net
 chinacaj.net
 chinacamel.com
-chinacampus.org
 chinacasa.org
 chinaccm.com
 chinaccnet.com
@@ -21244,7 +21244,6 @@ data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
-data.sec.miui.com
 data.snm0516.aisee.tv
 data.sonkwo.com
 data.trendymedia.com.cn
@@ -26072,6 +26071,7 @@ ewww.com.cn
 ewz4ksd98492555o.aliyunddos1026.com
 ex-silver.com
 ex-starch.com
+ex.m.jd.com
 ex.m.jd.com.gslb.qianxun.com
 ex.mobmore.com
 ex.puata.info
@@ -30771,7 +30771,6 @@ hacori.com
 hacpai.com
 haczjob.com
 hades.qyer.com
-hadns.net
 hadsky.com
 hadyang.com
 haerbin.baixing.com
@@ -37464,7 +37463,6 @@ jeesci.com
 jeesite.com
 jeff-hykin.gallerycdn.azure.cn
 jeffdesign.net
-jeffstudio.net
 jegotrip.com
 jelleybrown.com
 jellow.club

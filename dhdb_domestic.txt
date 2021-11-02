@@ -4546,6 +4546,7 @@
 52ai.com
 52ali88.com
 52aoteman.com
+52as.com
 52asus.com
 52audio.com
 52bar.com
@@ -7456,7 +7457,6 @@ a.cnzz.com.gds.alibabadns.com
 a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
-a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -10391,7 +10391,6 @@ api.fd.mob.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -26073,7 +26072,6 @@ ewww.com.cn
 ewz4ksd98492555o.aliyunddos1026.com
 ex-silver.com
 ex-starch.com
-ex.m.jd.com
 ex.m.jd.com.gslb.qianxun.com
 ex.mobmore.com
 ex.puata.info
@@ -42764,6 +42762,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn

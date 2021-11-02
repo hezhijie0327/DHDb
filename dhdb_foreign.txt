@@ -18726,6 +18726,7 @@ api.samsungcloud.com
 api.savemedia.website
 api.sbz.vn
 api.sciencemag.org
+api.sec.miui.com
 api.segment.io
 api.server.net.zooplus.de
 api.share2w.com
@@ -20364,7 +20365,6 @@ asia.monerise.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
-asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -25643,6 +25643,7 @@ bihaipack.com
 bihamcurchef.cam
 bihexoipaomfjie.xyz
 bihongbo.com
+bihutg.com
 bii-erg.com
 biicode.com
 biiquan.com
@@ -60239,7 +60240,6 @@ galfione.com.ar
 galgame.cc
 galgamez.cc
 galgamezd.com
-galgamezs.com
 galkama.info
 gallantoutskirts.com
 gallanttortoiseassemble.com
@@ -85396,7 +85396,6 @@ kproxy.org
 kps.huhuhiiuio.com
 kpsfloor.com
 kpu.samsungelectronics.com
-kpuqwdqsol.xyz
 kpxsjz.com
 kpxvs.com
 kpzip.net

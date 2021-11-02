@@ -10366,7 +10366,6 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
-api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -46964,7 +46963,6 @@ myhuaweicloud.cn
 myhuaweicloud.com
 myhug.cn
 myhuilv.com
-myhuoxingtan.com
 myhwclouds.com
 myicloud.vip
 myie9.com
@@ -50109,7 +50107,6 @@ partner.googleadservices.com
 partner.toutiao.com
 partnerad.l.doubleclick.net
 partnerad.l.google.com
-partnerdownload.xunyou.com
 partners.sina.cn
 partnership.sspu.edu.cn
 pas.suning.com
@@ -55899,6 +55896,7 @@ rzx.me
 s-02.com
 s-china.mzstatic.itunes-apple.com.akadns.net
 s-d2-v6.ugslb.com
+s-mob.com
 s-ns.com
 s-plt01.ugslb.com
 s-reader.com

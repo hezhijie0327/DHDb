@@ -5892,6 +5892,7 @@
 7958.net
 796067.shop.m.liebiao.com
 796623.shop.m.liebiao.com
+7979la.com
 7979u.com
 797sun.com
 798092.com
@@ -11301,7 +11302,6 @@ assets.alicdn.com
 assets.alicdn.com.danuoyi.tbcache.com
 assets.asklib.com
 assets.ckjr001.com
-assets.dspunion.com
 assets.dspunion.com.wswebcdn.com
 assets.easou.com
 assets.giocdn.com
@@ -42542,7 +42542,6 @@ liveupoc.tcdn.qq.com
 liveupoc2.tcdn.qq.com
 livevideostack.com
 livew.l.qq.com
-livewebbs2.msstatic.com
 livewebbs2.msstatic.com.w.kunlunhuf.com
 livinglabs.cc
 liwei.red

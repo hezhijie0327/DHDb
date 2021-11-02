@@ -15630,6 +15630,7 @@ aj1574.online
 aj1602.online
 aj1603.online
 aj1616.online
+aj1713.online
 aj1716.online
 aj1907.online
 aj1913.online
@@ -40319,7 +40320,6 @@ cs897.com
 cs9.wac.phicdn.net
 cs9.wpc.v0cdn.net
 cs9222.com
-cs9444.com
 cs9555.com
 cs9666.com
 cs968.com
@@ -56872,6 +56872,7 @@ flare.com
 flascom.com
 flash-counter.com
 flash-xxx.com
+flash.sec.miui.com
 flash127.com
 flashadengine.com
 flashadtools.com

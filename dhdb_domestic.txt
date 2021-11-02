@@ -661,6 +661,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -2271,6 +2272,7 @@
 20d09bcb218745dd3c697f60.mdbook.cn
 20jbl00.cachenode.cn
 20q.cn
+20z.com
 21-mars.com
 21-sun.com
 21.fh21static.com
@@ -7968,6 +7970,7 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
+account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -22843,7 +22846,6 @@ dlyeren.com
 dlyestar.com
 dlzb.com
 dlztb.com
-dlzww.com
 dm.21hubei.com
 dm.300zi.com
 dm.3454.com
@@ -32800,7 +32802,6 @@ hongyeshuzhai.com
 hongyingfangshui.com
 hongyingtao.net
 hongyue.com
-hongyunlww.com
 hongyunvren.com
 hongze.net
 hongzhoukan.com
@@ -45792,6 +45793,7 @@ miusi.co
 miutour.com
 miutrip.com
 mivideo.g.mi.com
+miwifi.com
 mix.adsame.com
 mix.kinostuff.com
 mixbao.com

@@ -12487,6 +12487,7 @@ adpl.org.hk
 adplans.info
 adplex.co.kr
 adplexmedia.adk2.co
+adplexmedia.adk2x.com
 adplexo.com
 adplugg.com
 adplus.co.id
@@ -27271,6 +27272,7 @@ bmgj7.com
 bmgo.life
 bmh001.com
 bmia.org
+bmicapa.org
 bmitacnz2-my.sharepoint.com
 bmitacnz2.sharepoint.com
 bmjmse.softsurroundings.com
@@ -40760,6 +40762,7 @@ ctl.partner-pay.net.daraz.com
 ctl.static-api.net.zooplus.de
 ctl.winter.net.daraz.com
 ctlayn.talbots.com
+ctldl.windowsupdate.com
 ctlega.elago.co.kr
 ctllib-ln-2.net.daraz.com
 ctm-media.com
@@ -87972,7 +87975,6 @@ liantmartier.info
 liantu.com
 lianwo8.com
 lianyezy.com
-lianyicq.cn
 liaocao.com
 liaocy.net
 liaodanqi.me
@@ -114750,6 +114752,7 @@ pool.admedo.com
 pool.aeon.hashvault.pro
 pool.bmnr.pw
 pool.cloudcoins.co
+pool.coinlab.biz
 pool.cryptoblocks.site
 pool.cryptopay.org.za
 pool.graft.hashvault.pro
@@ -115598,7 +115601,6 @@ prd-collector-anon.playbuzz.com
 prd-collector-auth.playbuzz.com
 prd-collector-platform.ex.co
 prd-info-umamusume.akamaized.net
-prd-lender.cdp.internal.unity3d.com
 prd-mcafee-mosaic-pub.azurewebsites.net
 prd-mfe-front-1224026712.ap-northeast-1.elb.amazonaws.com
 prd-priconne-redive.akamaized.net

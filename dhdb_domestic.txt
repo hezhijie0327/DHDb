@@ -6091,6 +6091,7 @@
 7yun.com
 7zfj6akl.sched.s2-dk.tdnsv5.com
 7zm.com
+7zzy.com
 8-008.com
 8-host.com
 8.jrj.com
@@ -10366,6 +10367,7 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
+api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -11223,7 +11225,6 @@ ashj.com
 ashl7t28u9asxjo1.aliyunddos1011.com
 ashma.info
 ashow.pcpop.com
-asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -15341,7 +15342,6 @@ ccbride.com
 ccbtrust.com.cn
 ccc-x.jd.com
 ccc-x.jd.com.gslb.qianxun.com
-ccc.sys.miui.com
 ccc.x.jd.com
 ccc.xx578.com
 cccbs.net
@@ -29211,7 +29211,6 @@ gkoudai.com
 gkpass.com
 gkrsb42q.s1txipv6.cdntip.com
 gkshuju.com
-gkstk.com
 gktianshanjd.com
 gkwo.net
 gkzhan.com
@@ -31298,7 +31297,6 @@ hawbfa.com
 hawkeye.wenjuan.com
 hax18.com
 haxiu.com
-haxiu.org
 hayeen.com
 haygptin.p23.tc.cdntip.com
 hazq.com
@@ -35639,7 +35637,6 @@ img.xgo.com.cn
 img.xiaohongshu.com
 img.xiaozhuvideo.com
 img.xiaozhuvideo.com.w.kunlungr.com
-img.xitongcheng.com
 img.xitongcheng.com.cname.yunjiasu-cdn.net
 img.xiwnu.cn
 img.xuexila.com
@@ -43648,6 +43645,7 @@ m-zshosapp.zs-hospital.sh.cn
 m.01fy.cn
 m.10010.com
 m.10010.com.w.alikunlun.com
+m.1314sss.top
 m.163.com
 m.1688.com
 m.168ey.com

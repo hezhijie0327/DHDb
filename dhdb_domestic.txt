@@ -7974,7 +7974,6 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
-account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -53359,7 +53358,6 @@ qishixitong.com
 qishu.co
 qishunbao.com
 qisool.com
-qisuu.com
 qiti88.com
 qitian.biz
 qitoon.com

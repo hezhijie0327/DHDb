@@ -18720,7 +18720,6 @@ api.samsungcloud.com
 api.savemedia.website
 api.sbz.vn
 api.sciencemag.org
-api.sec.miui.com
 api.segment.io
 api.server.net.zooplus.de
 api.share2w.com
@@ -25252,6 +25251,7 @@ bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bf4chinarising.dlcodes.com
 bf4codes.dlcodes.com
 bf4secondassault.dlcodes.com
+bf550.com
 bf740.com
 bfafhm.com
 bfast.com
@@ -42240,7 +42240,6 @@ d3pvcolmug0tz6.cloudfront.net
 d3q2aq2sgvnclt.cloudfront.net
 d3q33rbmdkxzj.cloudfront.net
 d3q7vxy7usqoub.cloudfront.net
-d3qfdthu9f51gu.cloudfront.net
 d3qk9u6c2k2cid.cloudfront.net
 d3qp7l4grgxdvb.cloudfront.net
 d3qrbrazsnzdog.cloudfront.net
@@ -69528,6 +69527,7 @@ hackstore.net.daraz.com
 hackszone.com
 hackteam-adreon.com
 hacktelecharger.net
+hackterritory.info
 hackthatphone.net
 hackthedrive.com
 hacktiger.com
@@ -71335,7 +71335,6 @@ highperformancecpmnetwork.com
 highperformancedformats.com
 highperformancedisplaycontent.com
 highprofitnetwork.com
-highqualitycurrenciesanddocuments.com
 highresolutiontechnologies.com
 highrevenuecpm.com
 highrockmedia.com

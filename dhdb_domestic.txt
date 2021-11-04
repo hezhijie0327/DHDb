@@ -22853,7 +22853,6 @@ dm.bytedance.com
 dm.bytedance.com.w.cdngslb.com
 dm.cnbanbao.com
 dm.cqdxun.cn
-dm.gucheng.com
 dm.hxzdhn.com
 dm.ishuo.cn
 dm.jb51.net
@@ -37351,6 +37350,7 @@ jcqzw.com
 jcrb.com
 jcsb.com
 jcsjt.com
+jct.maptu.cn
 jctmj.net
 jctrans.com
 jcwcn.com

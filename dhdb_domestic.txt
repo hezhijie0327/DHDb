@@ -10767,6 +10767,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.cdn-apple.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -30235,6 +30236,7 @@ guzhiwang.com
 guziyy.com
 guzzoni-apple-com.v.aaplimg.com
 guzzoni.apple.com
+guzzservices.com
 gv1.xdrig.com
 gv1.xdrig.com.td.fusion.iaas.jdcloud.com
 gv9c9act.sched.sma.tdnsv5.com
@@ -33550,6 +33552,7 @@ huifuyimin.com
 huigao-magnetics.com
 huigetv.com
 huigezi.org
+huigoushop.com
 huigun.top
 huihaicenter.com
 huihaicn.com
@@ -36512,7 +36515,6 @@ ipinyou.com
 ipinyou.com.cn
 ipip-darwin.xycdn.com
 ipip.net
-ipips.pchome.net
 ipktv.com
 ipku.com
 iplascloud.com
@@ -48192,7 +48194,6 @@ nosuchfield.com
 not3.com
 note.youdao.com
 note52.com
-noteapi.micloud.xiaomi.net
 notebook.pconline.com.cn
 notedeep.com
 noteniu.com

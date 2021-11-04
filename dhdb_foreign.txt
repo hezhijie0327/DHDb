@@ -8316,7 +8316,6 @@ a-ups-presencecore1-prod-azsc.australiaeast.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.japanwest.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.westus2.cloudapp.azure.com
-a-ups-presencecore10-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore11-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore11-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.centralus.cloudapp.azure.com
@@ -18854,6 +18853,7 @@ apiserver-mgmt.docker.net.zooplus.de
 apiserver-wlan-switch.net.daraz.com
 apiserver.r-is-1-2.net.daraz.com
 apiserverlib-ht-2.net.daraz.com
+apisnd.heytapmobi.com
 apisof.net
 apistats-static.propellerads.com
 apistats.propellerads.com
@@ -33414,7 +33414,6 @@ ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
 cevanu.ripley.com.pe
 cevementalc.xyz
-cevin.me
 cevowesty.com
 cewaugaz.net
 cex.io
@@ -42077,7 +42076,6 @@ d3-pr-cu-sb-ns-primary-err.servicebus.windows.net
 d3-pr-cu-sb-ns-primary.servicebus.windows.net
 d3-pr-tm.com
 d3.ru
-d3.zedo.com
 d301cxwfymy227.cloudfront.net
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d30sxnvlkawtwa.cloudfront.net
@@ -74507,7 +74505,6 @@ ibizababes.com
 ibjapan.com
 ibjivrhrflquy.xyz
 ibjjsptlmv.com
-ibkda.com
 ibksturm.synology.me
 ibkups.rci.com
 iblogs.com

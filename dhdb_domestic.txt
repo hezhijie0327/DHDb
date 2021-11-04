@@ -7975,6 +7975,7 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
+account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -10588,6 +10589,7 @@ api.zhihu.com
 api.zhirenzhufu.com
 api.zhuanlan.sina.com.cn
 api.zhuti.xiaomi.com
+api.zhy333.com
 api.zol.com
 api.zone.lixian.vip.xunlei.com
 api1.888zy.cn
@@ -34211,6 +34213,7 @@ i.51job.com.51jobdns.com
 i.9le.net
 i.adeaz.com
 i.adsame.com
+i.ai.mi.com
 i.ali213.net
 i.alicdn.com
 i.alicdn.com.danuoyi.tbcache.com

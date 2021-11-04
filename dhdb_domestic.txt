@@ -2163,6 +2163,7 @@
 1xz.com
 1y.com
 1y0g.com
+1y2y.com
 1yabc.com
 1yd.me
 1year.pcfg.cache.wpscdn.cn
@@ -21241,7 +21242,6 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
-data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com

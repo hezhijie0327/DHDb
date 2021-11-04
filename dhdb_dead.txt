@@ -13549,7 +13549,6 @@ cnglb.com
 cngnu.net
 cngoldres.com
 cnh168.com
-cnhd.com
 cnhdlyfx.localdomain
 cnhsjz.com
 cnhubu.com
@@ -17570,6 +17569,7 @@ dnsorg.xyz
 dnsour.com
 dnspage.xyz
 dnspig.com
+dnsplus.co
 dnspood.net
 dnsppdd.com
 dnsprotector.net
@@ -33775,6 +33775,7 @@ m.sinostoneauction.cn
 m.siwyom.com
 m.sjaidu.com
 m.sjkfe.com
+m.skspt.cn
 m.slandr.net
 m.smsksx.com
 m.snay.top
@@ -41227,7 +41228,6 @@ proxy.googlezip.net
 proxy.mytestminer.xyz
 proxy.yt
 proxy4life.org
-proxyanonimo.es
 proxybig.net
 proxyfl.info
 proxyipa.com

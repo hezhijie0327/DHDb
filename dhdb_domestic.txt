@@ -10411,7 +10411,6 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.huya.com
-api.hybrid.xiaomi.com
 api.hyhuo.com
 api.iapps.ifeng.com
 api.iimedia.cn
@@ -47718,7 +47717,6 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
-nex.163.com
 nexiao.com
 nexstep.zdworks.com
 next.api.aliyun.com

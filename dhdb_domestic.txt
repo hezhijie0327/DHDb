@@ -10283,6 +10283,7 @@ api-news.zhhainiao.com
 api-pan.xunlei.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
+api-pricetag.dmall.com
 api-prod.leancloud.cn
 api-push.meizu.com
 api-sc.wtzw.com
@@ -13728,7 +13729,6 @@ bkvv.video.qq.com
 bkw.cn
 bkwattachment.bkw.cn
 bkweek.com
-bkxkz.com
 bkzs.bjmu.edu.cn
 bkzsw.shu.edu.cn
 bkzzy.com
@@ -48196,6 +48196,7 @@ nosuchfield.com
 not3.com
 note.youdao.com
 note52.com
+noteapi.micloud.xiaomi.net
 notebook.pconline.com.cn
 notedeep.com
 noteniu.com
@@ -51682,6 +51683,7 @@ proxy.vip.qq.com
 proxy901.juyoufan.net
 proya-group.com
 proya.com
+proyy.com
 prpr-muse-dash.peropero.net
 prt-stsdk.vivo.com.cn
 prt.stsdk.vivo.com.cn
@@ -52161,6 +52163,7 @@ pwrd.com
 pwsannong.com
 pwt.zoosnet.net
 pwupdate.cdn.pandora.xiaomi.com
+px.ads.linkedin.com
 px.effirst.com
 px.nloader.xyz
 px.qucaigg.com
@@ -52253,7 +52256,6 @@ q11.cnzz.com
 q14.cnzz.com
 q17.cnzz.com
 q2.qlogo.cn
-q2100.com
 q2d.com
 q3.cnzz.com
 q3.qlogo.cn

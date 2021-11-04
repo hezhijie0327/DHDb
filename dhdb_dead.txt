@@ -7477,7 +7477,6 @@ api-login.kkbox.com.tw
 api-metrics-e2e.nonprod.flurry.com
 api-metrics-smoke.nonprod.flurry.com
 api-p.videomarket.jp
-api-pricetag.dmall.com
 api-zdj.com
 api.1beb2a44.space
 api.1q8h.cn
@@ -10126,6 +10125,7 @@ bkk789.com
 bkn.cc
 bktnrge.localdomain
 bkw998.com
+bkxkz.com
 bkyhq.cn
 bl.impresa.pt
 bl3301-a.1drv.com

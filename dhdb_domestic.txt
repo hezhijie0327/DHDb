@@ -12487,6 +12487,7 @@ bbs.chinadaily.com.cn
 bbs.chinaunix.net
 bbs.csdn.net
 bbs.dedecms.com
+bbs.diaosiqingnian.com
 bbs.dmzj.com
 bbs.elecfans.com
 bbs.elecfans.com.w.kunlunca.com
@@ -13373,7 +13374,6 @@ biubiu.tv
 biubiu001.com
 biwanshequ.com
 biwei6699.com
-biwei8668.com
 bixiaxs.net
 bixinlive.com
 bixishang.com
@@ -15371,7 +15371,6 @@ ccen.net
 ccepc.com
 cces2006.org
 ccets.com
-ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com.gslb.qianxun.com
@@ -30720,6 +30719,7 @@ h5s.sinaimg.cn
 h5seeds-open.xycdn.com
 h5seeds-open.xycdn.com.gslb.p2cdn.com
 h5sg.com
+h5speed.m.jd.com
 h5speed.m.jd.com.gslb.qianxun.com
 h5ssl.1sapp.com
 h5ssl.1sapp.com.wswebpic.com
@@ -30972,7 +30972,6 @@ hanhaiqikan.com
 hanjianbing.org
 hanjiaying.com
 hanjjl.com
-hanjutv.com
 hanking.com
 hankunlaw.com
 hanlei.org

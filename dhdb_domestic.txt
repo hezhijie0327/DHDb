@@ -19913,7 +19913,6 @@ csimg2.qunliao.info
 csisolar.com
 csjcs.com
 csjyzq.com
-cskin.net
 cskule.com
 cskxjk.com
 csl.pptv.com
@@ -29119,6 +29118,7 @@ gimg4.baidu.com
 gimhoy.com
 gimoo.net
 gio-api.fcb.com.cn
+gio.ren
 giocdn.com
 gionee.com
 gionee.net
@@ -39542,7 +39542,6 @@ k12zx.com
 k136.gslb.ksyuncdn.com
 k158-v6.gslb.ksyuncdn.com
 k164-azure.gslb.ksyuncdn.com
-k164-js007.gslb.js007.jsfycdn3.com
 k164.gslb.ksyuncdn.com
 k17-migu-other.gslb.h.ngaacdn.cn
 k17-migu.gslb.h.ngaacdn.cn

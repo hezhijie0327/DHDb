@@ -8787,7 +8787,6 @@ afd6512f81b8b9d5da69eb81a0b844b1.dlied1.cdntips.net
 afdconf.baidu.com
 afdconf.e.shifen.com
 afdian.net
-afdjk.cn
 afengseo.com
 afengsoft.com
 afenxi.com
@@ -12126,7 +12125,6 @@ baitiao.com
 baitugu.com
 baiven.com
 baiwang.com
-baiwanzhan.com
 baiwutong.com
 baiwv.com
 baixing.com
@@ -12682,6 +12680,7 @@ bdcdncmn-gd.inter.71edge.com
 bdcloudapi.com
 bdcm.kandianla.com
 bdcode.2345.com
+bdcode.35d1.com
 bdcode.haochu.com
 bdcode.haochu.com.cname4009.yjs-cdn.com
 bdcode.qinglm.com
@@ -27383,6 +27382,7 @@ fliplus.com
 flmjx.com
 flnet.com
 flomoapp.com
+floor.jd.com
 floor.jd.com.gslb.qianxun.com
 florentiavillage.com
 flow.10010.com
@@ -48482,6 +48482,7 @@ o2moment.com
 o2o-ad-clicking.alibaba.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
+o2o.api.xiaomi.com
 o2o.keloop.cn
 o2oexpo.com
 o2osd.com

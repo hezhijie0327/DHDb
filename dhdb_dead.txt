@@ -4805,6 +4805,7 @@ ad1.xiaomi.com
 ad1.yomiuri.co.jp
 ad1.yourmedia.com
 ad121m.com
+ad12345.com
 ad130m.adpdx.com
 ad132m.adpdx.com
 ad1data.com
@@ -7691,6 +7692,7 @@ app63.cf
 app63.ga
 app88.me
 appads.com
+appapi.dmall.com
 appared.online
 apparel-offer.com
 apparelncs.com
@@ -16199,6 +16201,7 @@ d7mglq142hzrl.cloudfront.net
 d7p9czrvs14ne.cloudfront.net
 d7rme1d99gjjk.cloudfront.net
 d8.mobaders.com
+d8.zedo.com
 d81ffd2404a05c5c504017d81412f367.jddebug.com
 d81pam37egi8w.cloudfront.net
 d82kg0g43e1bu.cloudfront.net
@@ -36154,7 +36157,6 @@ movies20ntvshow.com
 moviesbag.us
 moviescollections.net
 movieset.us
-moviesguy.com
 moviestarplanethack.filesquicky.com
 moviestreamhd.eu
 moviesvk.com

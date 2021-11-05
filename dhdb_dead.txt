@@ -7534,7 +7534,6 @@ api.jcswhg.com
 api.jetlore.com
 api.joybj.com
 api.jsecoin.com
-api.jsfc8.cn
 api.ketedata.com
 api.kolpowered.com
 api.koudaikj.com
@@ -30429,7 +30428,6 @@ khimitsin.ru
 khmusic.com.tw
 kho3au7l4z.me
 khoteris.ru
-khotyn.com
 khrg04h.cn
 khriss.com
 khruqc.com

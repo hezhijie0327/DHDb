@@ -10431,6 +10431,7 @@ api.jits.heytapmobi.com
 api.jobui.com
 api.joomob.com
 api.jr.mi.com
+api.jsfc8.cn
 api.jszbtb.com
 api.k.163.com
 api.kingdata.ksyun.com
@@ -40082,6 +40083,7 @@ kgnop2.kugou.com
 kgogame.com
 khdatasolutions.com
 khlysc.com
+khotyn.com
 khpt.tongdun.cn
 khqihuo.com
 khrtac.xiangha.com

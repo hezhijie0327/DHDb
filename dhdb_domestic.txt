@@ -10314,7 +10314,6 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
-api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -25441,7 +25440,6 @@ elichtmedia.com
 elikeme.com
 elikeme.net
 elitecrm.com
-elitejlb.com
 elkpi.com
 ellechina.com
 ellemen.com
@@ -27387,7 +27385,6 @@ flomoapp.com
 floor.jd.com.gslb.qianxun.com
 florentiavillage.com
 flow.10010.com
-flow.dmall.com
 flow.qq.com
 flow.wps.cn
 flowcontroll.dcdn.sandai.net
@@ -51957,7 +51954,6 @@ pull-tsl-l3.douyincdn.com.w.alikunlun.net
 pull.free.video.10010.com
 pull.ninebox.cn
 pull.push.sogou.com
-pull.tonhorn.cn
 pullword.com
 pullywood.com
 puma-api.iqiyi.com

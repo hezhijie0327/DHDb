@@ -18595,7 +18595,6 @@ api.fw.tv
 api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
-api.geetest.com
 api.getter-priv.net.zooplus.de
 api.gfe.nvidia.com
 api.gimbal.com
@@ -32731,6 +32730,7 @@ cdn.itsup.com
 cdn.izooto.com
 cdn.jotfor.ms
 cdn.jquery-uim.download
+cdn.jsdelivr.net
 cdn.kdkw.jp
 cdn.keywee.co
 cdn.kik.com
@@ -45992,7 +45992,6 @@ dl-canary.discordapp.net
 dl-cdn.alpinelinux.org
 dl-it.net
 dl-laby.jp
-dl-mec.com
 dl-rms.com
 dl-stage.zola.com
 dl-vip.bav.baidu.com
@@ -46849,7 +46848,6 @@ donan.com
 donanimhaber.com
 donate.cfbnj.org
 donate.crypto-webminer.com
-donateabox.co
 donateforislam.com
 donbaird.com
 doncc.org
@@ -52489,7 +52487,6 @@ errors.angularjs.org
 errors.client.optimizely.com
 errors.snackly.co
 errotica-archives.com
-errsensordiscourse.com
 erscausineb.top
 erscdf.com
 ersesunifor.top
@@ -54304,6 +54301,7 @@ facdebook.com
 facdn.com
 face-book.com
 face-geek.com
+face-push.com
 face-woot.com
 face.com
 face2ai.com
@@ -91566,6 +91564,7 @@ m.yuyan.live
 m.yuyouge.com
 m.yzc212.com
 m.yzc369.com
+m.yzjlsb.com
 m.z0mh0u.cn
 m.zdjgj.cn
 m.zenwq.com
@@ -124454,6 +124453,7 @@ s.mississauga.com
 s.mnet-ad.net
 s.mobileread.com
 s.motrix.app
+s.mt145.com
 s.musicradio.com
 s.muskokaregion.com
 s.mxmrt.com

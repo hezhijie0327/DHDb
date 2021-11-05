@@ -7931,7 +7931,6 @@ ac.mmstat.com
 ac.o2.qq.com
 ac029063571fb6f1f3de5c908b3c3778.safeframe.googlesyndication.com
 ac1.786ip.com
-ac1.pingpingw.com
 ac14f0de04fdcd4a-cl2.qcloudcjgj.com
 ac268.com
 ac57.com
@@ -10347,6 +10346,7 @@ api.bigfun.cn
 api.biliapi.net
 api.bilibili.com
 api.biligame.com
+api.browser.miui.com
 api.bs.zui.com
 api.btstu.cn
 api.bz
@@ -13962,6 +13962,7 @@ bolehu.net
 bolejiang.com
 bolelink.com
 bolianpro.com
+bolimen.top
 boll.me
 bolo.me
 bolopp.com
@@ -29917,6 +29918,7 @@ gtms03.alicdn.com.danuoyi.alicdn.com
 gtms04.alicdn.com
 gtms04.alicdn.com.danuoyi.alicdn.com
 gtn9.com
+gtnde.com
 gtnqk.com
 gtobal.com
 gttxidc.com
@@ -47992,7 +47994,6 @@ njzhongyuan.com
 njzhzx.net
 njzq.com.cn
 njzztyl.com
-nk84.com
 nkscdn.com
 nkst5h3v.v1d.szbdyd.com
 nkst5hol.v1d.szbdyd.com

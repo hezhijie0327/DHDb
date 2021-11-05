@@ -8100,7 +8100,6 @@ action.weixin.qq.com
 actionsky.com
 activate-channel-guide.yy.com
 activation.unity.cn
-active.baofeng.com
 active.clewm.net
 active.starbucks.com.cn
 active.starbucks.com.cn.wsglb0.com
@@ -24868,7 +24867,6 @@ easytocn.com
 easytomessage.com
 easytrip.com
 easyzw.com
-eaticket.com
 eavs02.eqifa.com
 eaydu.com
 eayou.com
@@ -34206,7 +34204,6 @@ i.51job.com.51jobdns.com
 i.9le.net
 i.adeaz.com
 i.adsame.com
-i.ai.mi.com
 i.ali213.net
 i.alicdn.com
 i.alicdn.com.danuoyi.tbcache.com
@@ -42847,7 +42844,6 @@ logdu.com
 logger.qingting.fm
 logger.qmai.cn
 logger.qmai.cn.w.kunlunca.com
-logger.treexml.baofeng.com
 loggw-ex.alipay.com
 loggw-exsdk.alipay.com
 loggw-extiny.alipay.com

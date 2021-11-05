@@ -22814,7 +22814,6 @@ dlres.ind9ed.com
 dlrjtz.com
 dls2.bigdata.samsung.com.cn
 dlsev.boc.cn
-dlsite-zh.com
 dlsjcsb.com
 dlsqb.com
 dlssa.com
@@ -28607,6 +28606,7 @@ gd-china.com
 gd-hskj.com
 gd-id.com
 gd-linux.com
+gd-linux.org
 gd-stats.jpush.cn
 gd.10086.cn
 gd.cnhange.cn

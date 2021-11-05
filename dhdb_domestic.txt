@@ -4821,7 +4821,6 @@
 56cj.com
 56clte.org
 56da.com
-56dichan.com
 56dr.com
 56en.com
 56fba.cn
@@ -33183,6 +33182,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
 https-play-g3proxy.lecloud.com
 https.eol.cn

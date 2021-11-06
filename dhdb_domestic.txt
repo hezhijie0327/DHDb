@@ -10536,7 +10536,6 @@ api.tv.sohu.com
 api.tw06.xlmc.sandai.net
 api.tw06.xlmc.sec.miui.com
 api.udache.com
-api.ujian.cc
 api.union.vip.com
 api.unipay.qq.com
 api.uniplayad.com
@@ -22856,7 +22855,6 @@ dm.video.weibocdn.com
 dm.wo.com.cn
 dm.xiazaibao.xunlei.com
 dm.yealink.com
-dm.yjbys.com
 dm.zuowenku.net
 dm004.net
 dm0571.com
@@ -49999,7 +49997,6 @@ pansou.com
 pantrysbest.com
 panyh123456.cn
 panyu.baixing.com
-panyueic.com
 panyun.com
 paoao.net
 paodoo.com
@@ -54977,7 +54974,6 @@ redocn.com
 redou.com
 redpaper-10006092.cos.myqcloud.com
 redphon.com
-redpoint-msg.m.jd.com
 redpoint-msg.m.jd.com.gslb.qianxun.com
 redquan.com
 redream.com

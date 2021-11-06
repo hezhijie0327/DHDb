@@ -3,6 +3,7 @@
 0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 00000.host
@@ -7974,7 +7975,6 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
-account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -8843,7 +8843,6 @@ agn.aty.snmsohu.aisee.tv
 agn.aty.sohu.com
 agnes.www.leyingtt.com
 agneshome.www.leyingtt.com
-agogo.tv
 agoo-report.m.taobao.com
 agoodm.m.taobao.com
 agoodme.com
@@ -9964,7 +9963,6 @@ anqiaoqiao.com
 anqing.anjuke.com
 anqingonline.com
 anqiu.baixing.com
-anqn.com
 anquan.info
 anquan.org
 anquan35.com
@@ -19886,7 +19884,6 @@ csflgg.com
 csfounder.com
 csfqw.com
 csftyy.com
-csgowinbig.com
 csgpc.org
 csgwbn.com
 csharpkit.com

@@ -10780,7 +10780,6 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -12001,6 +12000,7 @@ baidu.hk
 baidu.mobi
 baidu.net
 baidu.new1cloud.com
+baidu.tlssyg.com
 baidu.to
 baidu1.codejie.net
 baidu1.weather.com.cn
@@ -17239,6 +17239,7 @@ chinawebber.com
 chinawebmap.com
 chinaweiyu.com
 chinawenben.com
+chinawenwang.com
 chinawie.com
 chinawiserv.com
 chinawitmedia.com
@@ -42741,6 +42742,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -44951,7 +44953,6 @@ meih5.net
 meihaotoutiao.com
 meihaoxueyuan.com
 meiheups.com
-meihouyun.com
 meihu99.com
 meihua.info
 meihuainfo.com

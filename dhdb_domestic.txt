@@ -187,6 +187,7 @@
 027jsxh.com
 027one.com
 027qyy.com
+027tianle.com
 027tianlong.com
 027tytpf.com
 027wcbyy.com
@@ -14660,6 +14661,7 @@ c.pc.qq.com
 c.pcs.baidu.com
 c.pcs.n.shifen.com
 c.piecoupon.cn
+c.piliangzhuce.cn
 c.queene.cn
 c.sayhi.360.cn
 c.ssp.qq.com
@@ -22924,6 +22926,7 @@ dms.vancss.com
 dms.xuexxing.com
 dms63.he3kz8.com
 dmssc.net
+dmt.qcrx.cn
 dmtg.com
 dmtracking.1688.com
 dmym.aixyy.com
@@ -42865,7 +42868,6 @@ loginserver.kuwo.cn
 loginxian.leiting.com
 logistics-mrd.jd.com
 logistics-mrd.jd.com.gslb.qianxun.com
-logman.dmall.com
 logmonitor.leiting.com
 logo123.net
 logo33.com
@@ -51166,7 +51168,6 @@ plum.metgs.com
 pluosi.com
 plures.net
 plus-static.jd.com
-plus.m.jd.com
 plus.m.jd.com.gslb.qianxun.com
 plus.wps.cn
 plusgantt.com

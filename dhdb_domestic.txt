@@ -13737,6 +13737,7 @@ blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
+blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
@@ -34490,7 +34491,6 @@ icaidao.com
 icaikee.com
 icaile.com
 icandata.com
-icangshu111.com
 icanzc.com
 icaoye.com
 icardfinancial.com
@@ -36070,7 +36070,6 @@ inewoffice.com
 inewpower.com
 inews.gtimg.com
 inews.gtimg.com.sched.px-dk.tdnsv6.com
-inews.tencentipv6.com
 inewya.com
 inf-prdapi.wesure.cn
 inf.ldmnq.com
@@ -40644,6 +40643,7 @@ kuaishouba.com
 kuaishoupay.com
 kuaishouzt.com
 kuaishubao.com
+kuaisubeian.com
 kuaitijian.com
 kuaitu666.com
 kuaiwan.com

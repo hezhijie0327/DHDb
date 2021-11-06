@@ -8309,7 +8309,6 @@ a-ups-presencecore1-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore11-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore11-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.centralus.cloudapp.azure.com
-a-ups-presencecore12-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore13-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore13-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore14-prod-azsc.eastus.cloudapp.azure.com
@@ -9427,6 +9426,7 @@ a9925ac65faaaf45f55bea35d2c93b02.clo.footprintdns.com
 a9av.me
 a9d7c19f0282.com
 a9nf3hg5c2.com
+a9v8.cn
 aa-metrics.ab-road.net
 aa-metrics.aircard.jp
 aa-metrics.airreserve.net
@@ -32719,7 +32719,6 @@ cdn.itsup.com
 cdn.izooto.com
 cdn.jotfor.ms
 cdn.jquery-uim.download
-cdn.jsdelivr.net
 cdn.kdkw.jp
 cdn.keywee.co
 cdn.kik.com
@@ -83100,6 +83099,7 @@ juniper.net
 juniper.starleaf.com
 junjewelry.com
 junjichu.net
+junkucm.com
 junlishaokao.com
 junmidao.com
 junmin.org
@@ -106772,7 +106772,6 @@ odinvzc.azureedge.net
 odiousbunny.com
 odiumdrawlip.com
 odjdpy.jobware.de
-odkbfdck.com
 odkvrg.pedrodelhierro.com
 odm-onead.cdn.hinet.net
 odmarketing.odfl.com
@@ -123924,7 +123923,6 @@ ruefulspanishresolute.com
 ruegenfleisch.de
 rufadses.net
 rufei.ren
-rufengda.com
 rufflycouncil.com
 ruftodru.net
 rufus.ie

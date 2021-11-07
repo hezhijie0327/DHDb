@@ -8092,7 +8092,6 @@ actacams.com
 actamath.com
 actcn.net
 action.chinaedu.net
-action.logger.baofeng.com
 action.weixin.qq.com
 actionsky.com
 activate-channel-guide.yy.com
@@ -10352,6 +10351,7 @@ api.cloud.189.cn
 api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -36362,7 +36362,6 @@ ios.bugly.qq.com
 ios.rqd.qq.com
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
-iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -45330,7 +45329,6 @@ mi582.com
 mi6fx.com
 mia.com
 mian4.net
-mianbaodianying.com
 mianbaoduo.com
 mianbaotou.com
 miandanbx.com

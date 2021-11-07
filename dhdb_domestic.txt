@@ -32463,7 +32463,6 @@ hm16888.net
 hm2.cnzz.com
 hm3.cnzz.com
 hm86.com
-hmailserver.org
 hmcdn.baidu.com
 hmecw.com
 hminvestment.com
@@ -34757,6 +34756,7 @@ idkaiu.com
 idm-su.baidu.com
 idm.api.io.mi.com
 idm.bce.baidu.com
+idm.iot.mi.com
 idm.vip
 idmchina.net
 idmgr.ww.taobao.com

@@ -41273,7 +41273,6 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
-lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com
@@ -51506,7 +51505,6 @@ preimage3.inter.ptqy.gitv.tv
 preludeid.com
 premedglobal.com
 preotheve.beacon.qq.com
-presearchina.com
 prestodb-china.com
 prestolite-bj.com
 preview-lippi-space-zjk.oss-cn-zhangjiakou.aliyuncs.com

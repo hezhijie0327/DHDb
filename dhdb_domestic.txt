@@ -10340,7 +10340,6 @@ api.bigfun.cn
 api.biliapi.net
 api.bilibili.com
 api.biligame.com
-api.browser.miui.com
 api.bs.zui.com
 api.btstu.cn
 api.bz
@@ -50335,6 +50334,7 @@ pcw-api.iqiyi.com.w.alikunlun.com
 pcw-data.video.iqiyi.com
 pcw365.com
 pcweb-v1.log.mgtv.com
+pcweb.api.mgtv.com
 pcweb.v1.mgtv.com
 pcweb2.api.mgtv.com
 pcweb3.api.mgtv.com

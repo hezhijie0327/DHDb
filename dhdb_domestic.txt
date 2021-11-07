@@ -15361,7 +15361,6 @@ ccets.com
 ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
-ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
 ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
@@ -20816,7 +20815,6 @@ dadianstudio.com
 dadicinema.com
 dadijilu.com
 dadipedia.com
-dadiwang.com
 dadizq.com
 dadjia.com
 dadou.com
@@ -36809,6 +36807,7 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
+item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com
@@ -44660,7 +44659,6 @@ mb5u.com
 mb700.com
 mbabycare.com
 mbachina.com
-mbai.cn
 mbaidu.top
 mbajyz.com
 mbalib.com

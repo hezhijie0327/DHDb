@@ -11219,7 +11219,6 @@ asgxsy.com
 ash-prd-cnn1-apigw.mgmt.aibixby.com.cn
 ashan.org
 ashj.com
-ashl7t28u9asxjo1.aliyunddos1011.com
 ashma.info
 ashow.pcpop.com
 asiabt.com
@@ -21222,6 +21221,7 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
+data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -30262,6 +30262,7 @@ gwell.cc
 gwidc.com
 gwj4ii5d.sched.vp.tdnsv5.com
 gwm-global.com
+gwmeinq.cn
 gwmfc.com
 gwname.com
 gworg.com
@@ -30744,7 +30745,6 @@ hackcn.net
 hackdig.com
 hackernews.cc
 hackertalk.net
-hackfbprofile.com
 hackhome.com
 hackhp.com
 hacking8.com
@@ -43655,7 +43655,6 @@ m.adtiming.com
 m.ahinun.cn
 m.ahwczn.cn
 m.aihuishou.com
-m.ailezhai.cn
 m.ailiby.cn
 m.ajmide.com
 m.ali213.net

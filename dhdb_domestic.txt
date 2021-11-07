@@ -10400,7 +10400,6 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
-api.huangye.miui.com
 api.huya.com
 api.hyhuo.com
 api.iapps.ifeng.com
@@ -17540,7 +17539,6 @@ chyangwa.net
 chyb.bjmu.edu.cn
 chyela.tmall.com
 chyfh.com
-chyoukj.com
 chys2.dyuadask.com
 chysoft.net
 chyxx.com
@@ -34962,6 +34960,7 @@ igushuo.com
 iguxuan.com
 igwfmc.com
 igxe.cn
+ih740.cn
 ihacksoft.com
 ihaier.co
 ihaier.com
@@ -44514,7 +44513,6 @@ marksmile.com
 maro6.com
 maroon91.com
 marry5.com
-mars.jd.com
 mars.jd.com.gslb.qianxun.com
 mars.meituan.com
 marstor.com

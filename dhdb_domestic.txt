@@ -7461,7 +7461,6 @@ a.cnzz.com.gds.alibabadns.com
 a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
-a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -27868,6 +27867,7 @@ fun606.com
 fun702.com
 fun712.com
 fun737.com
+fun78.com
 fun7803.com
 fun803.com
 fun809.com

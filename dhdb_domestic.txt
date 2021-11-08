@@ -18411,6 +18411,7 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -25321,6 +25322,7 @@ eicp.net
 eid.jd.com
 eid.jd.com.gslb.qianxun.com
 eidlink.com
+eidsign.com.cn
 eidv2.jd.com
 eigenvr.com
 eightbridge.com
@@ -43503,7 +43505,6 @@ lydezx.net
 lydhb888.com
 lydsy.com
 lyecs.com
-lyfczxw.com
 lyfff.com
 lyg.c21.com.cn
 lyg01.net

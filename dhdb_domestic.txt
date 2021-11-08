@@ -4984,6 +4984,7 @@
 59f660e5b7f1daaa60f12d92f3d426d5.safeframe.googlesyndication.com
 59hi.com
 59iedu.com
+59na.com
 59pk.net
 59store.com
 59w.net
@@ -18405,7 +18406,6 @@ cn.launcher.battlenet.com.cn
 cn.letou118.net
 cn.made-in-china.com
 cn.man484.com
-cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.ntp.org.cn
 cn.pandora.net
@@ -25667,6 +25667,7 @@ eplove.com
 epoch-cn.cdo.heytapmobi.com
 epoos.com
 epp.2polj.top
+epqiming.com
 eprezi.com
 eprintsw.com
 epro.sogou.com
@@ -32309,6 +32310,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -51842,6 +51844,7 @@ pull-flv-l13.douyincdn.com
 pull-flv-l26-cny.douyincdn.com
 pull-flv-l26.douyincdn.com
 pull-flv-l27.douyincdn.com
+pull-flv-l29.douyincdn.com.ucloud.com.cn
 pull-flv-l6-cny.douyincdn.com
 pull-flv-l6-hs.pstatp.com
 pull-flv-l6-source.douyincdn.com

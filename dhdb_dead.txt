@@ -7692,7 +7692,6 @@ app.heywire.com
 app.ibaiducdn.com
 app.linezing.com
 app.marketizator.com
-app.pchome.net
 app.ptleju.com
 app.roximity.com
 app.tv333.us
@@ -8142,6 +8141,7 @@ ashl7t28u9asxjo1.aliyunddos1011.com
 asia-api.yikyakapi.net
 asia-cast.com
 asia-jiasheng.com
+asia.dnscepat.id
 asia1.cpufan.club
 asia1.ocws1.live.com.akadns.net
 asiadancing.com

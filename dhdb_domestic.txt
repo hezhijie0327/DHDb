@@ -42721,6 +42721,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -46450,7 +46451,6 @@ ms-vsliveshare.gallerycdn.azure.cn
 ms.bdimg.com
 ms.cnbanbao.com
 ms.cnczjy.com
-ms.jr.jd.com
 ms.jr.jd.com.gslb.qianxun.com
 ms.vipstatic.com
 ms.zu.anjuke.com
@@ -53666,6 +53666,7 @@ qqhuhu.com
 qqjay.com
 qqje.com
 qqjjsj.com
+qqjlb8.com
 qqju.com
 qqkandian.cdn-go.cn
 qqkqw.com

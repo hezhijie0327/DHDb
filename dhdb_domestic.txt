@@ -10244,7 +10244,6 @@ api-cn.store.heytapmobi.com
 api-cn1.mpay.samsung.com.cn
 api-cname.growingio.com
 api-crep.ke.com
-api-dd.jd.com
 api-dd.jd.com.gslb.qianxun.com
 api-e189.21cn.com
 api-edge.apps.apple.com.cdn20.com
@@ -17368,7 +17367,6 @@ chongbuluo.com
 chongcaojunganbaoyudunshourou.top
 chongchi.com
 chongdiantou.com
-chongdongshequ.com
 chongli.baixing.com
 chongmingzhuce.com
 chongqing.anjuke.com

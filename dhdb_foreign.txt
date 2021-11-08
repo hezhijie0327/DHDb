@@ -8338,7 +8338,6 @@ a-ups-presencecore5-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.eastus2.cloudapp.azure.com
-a-ups-presencecore6-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore7-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.eastus2.cloudapp.azure.com
@@ -10232,7 +10231,6 @@ accentjobs.be
 accenture.com
 acceptable.a-ads.com
 acceptablecolor.com
-acceptancecedehumorous.com
 accertify.com
 acces-contenu.com
 acces-videos.com
@@ -36913,6 +36911,7 @@ cnwcdc.greenfarmparts.com
 cnwebe.com
 cnxiaoyuan.com
 cnxile.com
+cnxmyb.cn
 cnxweb.com
 cny.yoyo.org
 cnyes.com
@@ -39720,6 +39719,7 @@ cqxingyun.com
 cqxxzwj.com
 cqyhd.com
 cqyirsc.com
+cqzk.net
 cr-brands.net
 cr-p16.ladsp.com
 cr.izumigo.co.jp
@@ -52364,7 +52364,6 @@ eqraffle.com
 eqs.intuit.com
 eqtrack.americashomeplace.com
 equabank.cz
-equal-gravity.com
 equalgrid.com
 equantum.com
 equestfood.com
@@ -98400,6 +98399,7 @@ minzhuzhongguo.org
 miobt.com
 miokoo.com
 mioler57.cf
+miot-spec.org
 miotracker.com
 miovision.com
 mip.api.mcafeewebadvisor.com

@@ -3903,6 +3903,7 @@ a-staticwebedia.com
 a-ups-presencecore10-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.eastus2.cloudapp.azure.com
+a-ups-presencecore6-prod-azsc.westus2.cloudapp.azure.com
 a-webapi-prod-asse-shiftsa.southeastasia.cloudapp.azure.com
 a.04ee395e5b8a076c7bd8592851ff8cad.com
 a.0day.kiev.ua
@@ -4421,6 +4422,7 @@ accaount-secure-update.com
 accdab.net
 accepa.com
 acceptableserver.com
+acceptancecedehumorous.com
 access-sngapm.qcloud.com
 access.f3b.work
 access.journal.mycom.co.jp
@@ -12927,6 +12929,7 @@ chograud.com
 choicesurveypanel.com
 cholaga.ru
 chong-wu.net
+chongdongshequ.com
 chongjianghu.com
 chongnikeji.com
 chongnuoji.com
@@ -13699,7 +13702,6 @@ cnxad.com
 cnxhacker.com
 cnxianzai.com
 cnxishui.net
-cnxmyb.cn
 cnyharo.ru
 cnzazhi.net
 cnzhanting.com
@@ -20115,6 +20117,7 @@ eqoqxgqlyjh.localdomain
 eqq.damumu.xyz
 eqrzxkfslmzlitf.localdomain
 eqtaxag.ru
+equal-gravity.com
 equiplube.com
 eqxiu.cn
 eqyn.com

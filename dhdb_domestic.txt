@@ -7239,7 +7239,6 @@
 991726.com
 991kang.com
 9928.tv
-992892.com
 9939.com
 993h.com
 994wan.com
@@ -37141,6 +37140,7 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
+item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com
@@ -39194,7 +39194,6 @@ js2.idgdmgroup.com.cn
 js2.idgdmgroup.com.cn.w.kunluncan.com
 js2.t.sinajs.cn
 js3.org
-js3555.hongtaidichan.net
 js4.eastmoney.com
 js412.yqjxzw.com
 js4476.hongtaidichan.net

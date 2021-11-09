@@ -7974,6 +7974,7 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
+account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -18668,6 +18669,7 @@ cnjdz.net
 cnjiaju.com
 cnjingbu.com
 cnjiwang.com
+cnjiyin.com
 cnjob.com
 cnjoel.com
 cnjournals.com
@@ -28459,7 +28461,6 @@ gaokao.chsi.com.cn
 gaokao.com
 gaokao789.com
 gaokaobaoming.com
-gaokaohelp.com
 gaokaopai.com
 gaokaoq.com
 gaokeyan.com
@@ -48041,6 +48042,7 @@ nmkjxy.com
 nmmwz.com
 nmobi.kuwo.cn
 nmpcdn.com
+nmqbg.com
 nmsearch.kuwo.cn
 nmszjy.com
 nmtyxy.com

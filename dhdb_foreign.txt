@@ -8380,7 +8380,6 @@ a-ups-presence9-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore0-prod-azsc.australiaeast.cloudapp.azure.com
 a-ups-presencecore0-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore0-prod-azsc.southeastasia.cloudapp.azure.com
-a-ups-presencecore0-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.australiaeast.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.japanwest.cloudapp.azure.com
@@ -8405,7 +8404,6 @@ a-ups-presencecore4-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.japaneast.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.southeastasia.cloudapp.azure.com
-a-ups-presencecore4-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.centralus.cloudapp.azure.com
@@ -18722,7 +18720,6 @@ api.help.priv.net.zooplus.de
 api.hfyhjg.cn
 api.hubapi.com
 api.hubspot.com
-api.hybrid.xiaomi.com
 api.identitynow.com
 api.imqtyik.com
 api.infinario.com
@@ -34721,7 +34718,6 @@ chinmedia.vn
 chinmen.cyh.org.tw
 chinookcu.com
 chinookfinancial.com
-chinoxy.com
 chinsnakes.com
 chinyeatoy.com
 chioneflake.com
@@ -42758,7 +42754,6 @@ daikuanfanli.com
 daikynguyen.com
 daikynguyenvn.com
 dailey1.net
-daili.me
 daili.zquanzi.com
 daili666.com
 daili666.net
@@ -60092,6 +60087,7 @@ fuxin-tech.com
 fuxing56.com
 fuxingwang.com
 fuxunb.com
+fuyangseo.com
 fuyin.net
 fuyin.win
 fuyindiantai.org
@@ -84290,6 +84286,7 @@ kanayaresorts.com
 kanboard.meerai.io
 kanbook.net
 kanbooru.com
+kandianla.com
 kandshu.com
 kanebo-cosmetics.jp
 kanebo-global.com
@@ -111086,6 +111083,7 @@ pagerank-ranking.de
 pagerank-suchmaschine.de
 pagerank.fr
 pagerank4you.com
+pagerankfree.com
 pageranking-counter.de
 pageranktop.com
 pagero.com

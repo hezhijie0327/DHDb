@@ -3985,8 +3985,10 @@ a-nagy-alku.com
 a-redirect.com
 a-scrip.org
 a-staticwebedia.com
+a-ups-presencecore0-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore10-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presencecore4-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.westus2.cloudapp.azure.com
 a-webapi-prod-asse-shiftsa.southeastasia.cloudapp.azure.com
@@ -13026,6 +13028,7 @@ chinesedemocracy.com
 chineseembassy.org
 chinesehope.tv
 chingcheong.com
+chinoxy.com
 chinwind.com
 chip-skins.com
 chipleader.com
@@ -16519,6 +16522,7 @@ daigobang.com
 daiichigakuin.jp
 daiichisemi.net
 daikuane.com
+daili.me
 dailibu.com
 dailimao.net
 daily-saver.com
@@ -21752,6 +21756,7 @@ fjfpeqgeyp.com
 fjhongou.com
 fjhuazhou.com
 fjiruslmc.xyz
+fjjmnh.com
 fjjuo.com
 fjkst.com
 fjla37itnf5dpsen.com
@@ -22760,7 +22765,6 @@ fuuuuuck.com
 fuwuhao.cc
 fuxoasim.link
 fuyangno1.top
-fuyangseo.com
 fuycai.com
 fuyin.tv
 fuyinzm.com
@@ -39996,7 +40000,6 @@ pagead.google.com
 pagead.googlesyndication.com
 pagead1.googlesyndication.com
 pagead2.lxms2004.com
-pagerankfree.com
 pageredirect.co
 pages.anandamayiinstituto.com.br
 pagesense.io

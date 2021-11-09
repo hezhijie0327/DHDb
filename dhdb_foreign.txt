@@ -2291,6 +2291,7 @@
 2.4.je
 2.adam.com
 2.android.pool.ntp.org
+2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -99764,7 +99765,6 @@ mobilefacebook.com
 mobileforcesoftware.com
 mobilefuse.com
 mobilegamehackers.com
-mobilegw.alipay.com
 mobilegw.src.alipaydns.com
 mobilehacks.net
 mobilehacks4u.com

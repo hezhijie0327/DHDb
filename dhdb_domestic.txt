@@ -37141,7 +37141,6 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
-item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com
@@ -45797,7 +45796,6 @@ mibugs.com
 mic-s.com
 micai.com
 micaiying.com
-micardapi.micloud.xiaomi.net
 michaelapp.com
 micheal.wang
 michelam.com
@@ -46460,6 +46458,7 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
+mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com

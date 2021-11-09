@@ -6,6 +6,7 @@
 0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
+000.link
 00000.host
 0000gz.com
 0006266.com
@@ -35,6 +36,7 @@
 007swz.com
 008321.com
 0086l.com
+0086org.com
 0088dns.com
 008gj.com
 008ty.com
@@ -52,6 +54,7 @@
 00ic.com
 00it.net
 00tera.com
+00wv.com
 01-cf.com
 010155.net
 0101shop.com
@@ -68,6 +71,7 @@
 0110m.com
 01192.ping360.cn
 0123456789.com
+0135135.com
 0149.com
 016272.com
 016sf.com
@@ -274,6 +278,7 @@
 0470fcw.com
 0471fcw.com
 0472.com
+0476y.com
 0481rv10sh2q42z7.aliyunddos1026.com
 048a51b35f1f453e2d881eb947513973.safeframe.googlesyndication.com
 04fa21680e59644b11d8822fccf600ec.safeframe.googlesyndication.com
@@ -451,6 +456,7 @@
 0752qc.com
 0754news.com
 0755400.com
+075577777.com
 0755888.com
 0755bdqn.com
 0755caibao.com
@@ -841,6 +847,7 @@
 1020m.com
 1024.com
 1024.ink
+1024g.com
 1024ie.com
 1024sj.com
 1024ss.com
@@ -1290,6 +1297,7 @@
 138top.com
 138txt.com
 139.com
+139000.com
 1391.com
 139130.com
 1392189.com
@@ -1407,6 +1415,7 @@
 15lu.com
 15mobi.com
 15solo.com
+15str.com
 15tianqi.com
 15w.com
 15wz.com
@@ -1753,6 +1762,7 @@
 17byh.com
 17caifu.com
 17ce.com
+17chacn.com
 17chezhan.com
 17chuang.cc
 17coding.info
@@ -1868,6 +1878,7 @@
 1807015877.180.160.113.57.46011.wifi.10b4293010.weibo.66.dnssina.com
 1807015877.180.160.119.86.46011.wifi.10b5093010.weibo.66.dnssina.com
 18095.com
+180qt.com
 181230.com
 18183.com
 181839.com
@@ -1925,6 +1936,7 @@
 1895m.com
 189cube.com
 189ebuy.com
+189jxt.com
 189key.com
 189read.com
 189store.com
@@ -1986,6 +1998,7 @@
 198358.com
 198526.com
 198526.net
+1985cd.com
 19869.com
 1987084.p23.tc.cdntip.com
 1988.tv
@@ -2061,6 +2074,7 @@
 1fenda.com
 1ff4a986887b4032770f831d79b5ab57.dlied1.cdntips.net
 1flpl76p.sched.s11t.tdnsv5.com
+1foo.com
 1fqw.com
 1fz56d.tdum.alibaba.com
 1g31.com
@@ -2081,6 +2095,7 @@
 1img.mgtv.com
 1iptv.com
 1j1x.net
+1jduan.com
 1jiajie.com
 1k2k.com
 1ka123.com
@@ -2685,10 +2700,12 @@
 263y.com
 264006.com
 265.com
+2656000.com
 26595.com
 265g.com
 265o.com
 265ps.com
+266.la
 266248.com
 2665718.shop.liebiao.com
 266wan.com
@@ -2886,6 +2903,7 @@
 2xbxtr.tdum.alibaba.com
 2y7gd6.tdum.alibaba.com
 2y9y.com
+2yuanyy.com
 2yun.com
 2yup.com
 2zhk.com
@@ -3064,6 +3082,7 @@
 3366.com
 336688.net
 3367.com
+337000.com
 337516.sched.sma.tdnsv5.com
 338336.com
 3387.com
@@ -3178,6 +3197,7 @@
 360fdc.com
 360fenxi.mediav.com
 360gann.com
+360gogreen.com
 360guanai.com
 360haoyao.com
 360hapi.com
@@ -3319,6 +3339,7 @@
 365xiaoyanzi.com
 365xiazai.com
 365xuet.com
+365xxy.com
 365yg.com
 365you.com
 3663.com
@@ -3685,6 +3706,7 @@
 4008005216.com
 4008060066.com
 4008075595.com
+4008103103.com
 4008107107.com
 4008109886.com
 4008117117.com
@@ -3704,6 +3726,7 @@
 400num.com
 400vv.com
 400web.com
+402333b.com
 404.safedog.cn
 4040001.com
 40407.com
@@ -3920,6 +3943,7 @@
 4kfv18.cn
 4kong.com
 4kptml2.cachenode.cn
+4kya.com
 4l.hk
 4lzx.com
 4name.com
@@ -4016,6 +4040,7 @@
 51386.com
 514193.com
 514200.com
+514949091.com
 51499.com
 514b7b33bc0f72291ad37d70b25ba691.dl.txcdns.com
 51508.com
@@ -4060,6 +4085,7 @@
 5184pass.com
 51864.com
 5187g.com
+5188ab.com
 519332da.rtc.youme.im
 519397.com
 51969.com
@@ -4141,6 +4167,7 @@
 51dingxiao.com
 51ditu.com
 51dlqo.tdum.alibaba.com
+51dmq.com
 51dns.com
 51dojoy.com
 51dongshi.com
@@ -4220,6 +4247,7 @@
 51huanhuan.com
 51huaxin.net
 51hunningtu.com
+51hvac.com
 51hwzy.com
 51ias.com
 51iec.com
@@ -4267,6 +4295,7 @@
 51kywang.com
 51la.net
 51labour.com
+51laizhe.com
 51langtu.com
 51ldb.com
 51ldzx.com
@@ -4376,6 +4405,7 @@
 51spm.com
 51sxue.cn
 51sxue.com
+51syoo.com
 51talk.com
 51taonan.com
 51taoshi.com
@@ -4387,6 +4417,7 @@
 51testing.net
 51testing.org
 51tfb.com
+51tiangou.com
 51tietu.net
 51ting.com
 51tingyi.com
@@ -4696,6 +4727,7 @@
 52zhizuo.com
 52zixue.com
 52zuji.net
+52zx.cc
 52zx.net
 52zxw.com
 52zy.com
@@ -4718,8 +4750,10 @@
 538618.com
 5399.com
 53chewu.com
+53dns.org
 53e55n.tdum.alibaba.com
 53info.com
+53iq.com
 53kf.com
 53kjw.com
 53m.kuk8.com
@@ -4803,6 +4837,7 @@
 5648.cc
 56506666.com
 5654.com
+565880.com
 566.com
 5666.tv
 566855.com
@@ -5131,6 +5166,7 @@
 5khouse.com
 5kupky.tdum.alibaba.com
 5lanren.com
+5lbw.com
 5lkyomomm1ygbps7s1ygqxqyzabatrr1.yundunwaf3.com
 5lux.com
 5lyrysc1.sched.s2-dk.tdnsv5.com
@@ -5316,6 +5352,7 @@
 64gua.com
 64ma.com
 64mv.com
+64pay.com
 651700.com
 6540e46b.qc.x.bsgslb.cn
 6540e648.qc.x.bsgslb.cn
@@ -5424,6 +5461,7 @@
 678edu.net
 678ie.com
 680.com
+68120120.com
 6816.com
 6822.com
 683507.p23.tc.cdntip.com
@@ -5453,6 +5491,7 @@
 68youhui.com
 6903.com
 6927.sched.ssdv6.tdnsv6.com
+6934.net
 693975.com
 695157.com
 695175.com
@@ -5799,6 +5838,7 @@
 76al.com
 76baobao.com
 76dongdong.com
+76irtyrfjyt76y.xyz
 76jie.com
 76ju.com
 76phtp1.cachenode.cn
@@ -6022,6 +6062,7 @@
 7junshi.com
 7k35.com
 7k7k.com
+7ka.co
 7kla.com
 7kww.net
 7kxs.com
@@ -6151,6 +6192,7 @@
 809ca1299fb13e832f2ee7f25657c760.dl.txcdns.com
 80baicai.biz
 80cc1e1d91b3483bee317f19cc50ced7.v.smtcdns.net
+80data.net
 80hman.com
 80iter.com
 80juqing.com
@@ -6219,6 +6261,8 @@
 82ky.com
 8315.cn
 832200.com
+8325.com
+8329607.com
 8339.org
 835850c50f7b02ef26f79d5b5d0d0bd7.safeframe.googlesyndication.com
 836.net
@@ -6300,6 +6344,7 @@
 84zcb.com
 850500.com
 8518.com
+85229666.com
 852aa.com
 8531.cn
 85384.com
@@ -6370,6 +6415,7 @@
 86qc.com
 86sb.com
 86shouji.com
+86tec.com
 86uuu.com
 86wapf9s.v1d.szbdyd.com
 86wfge7o.v1d.szbdyd.com

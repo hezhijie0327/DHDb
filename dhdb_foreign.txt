@@ -12389,6 +12389,7 @@ ado.icorp.ro
 adobe-aemassets-value.com
 adobe-audience-finder.com
 adobe-nonsecure.cjone.com
+adobe-sdk.com
 adobe-secure.cjone.com
 adobe-video-partner-finder.com
 adobe.aeonbank.co.jp
@@ -18408,6 +18409,7 @@ ap.org
 ap.smardroid.com
 ap.tc-forum.co.jp
 ap.tnkfactory.com
+ap0le.com
 ap2.googleusercontent.com
 ap5.ragic.com
 apa.me
@@ -35603,7 +35605,6 @@ claytonhomes.com
 claz.com.cn
 clb.bazzacco.net
 clb.org.hk
-clb0.xyz
 clbanners16.com
 clbjmp.com
 clbu.club
@@ -63321,6 +63322,7 @@ gnowbe-app-2.firebaseio.com
 gnowkn.keessmit.nl
 gnoyvsielusbi.xyz
 gnozmx.locasun.fr
+gnpes.com
 gnpge.com
 gnqgnn.bbongbra.co.kr
 gnreyt.toom.de
@@ -72503,7 +72505,6 @@ hkwesi.com
 hkwesi11.xyz
 hkwesi111.xyz
 hkwesi11111.xyz
-hkwesi2.xyz
 hkwesi22222.xyz
 hkwesi5.xyz
 hkwesi666.xyz
@@ -80087,6 +80088,7 @@ ipify.org
 ipify4.pling.com
 ipinator.com
 ipinfo.io
+ipips.pchome.net
 ipixsi.aboutyou.fi
 ipjetable.net
 ipkasp.nissan.co.jp
@@ -104590,7 +104592,6 @@ ngueja.2ememain.be
 ngui.cc
 nguyentandung.org
 ngvpn.nvidia.com
-ngxdyxhdkx.xyz
 ngxfence.net
 ngxfence.org
 ngyxtr.ripcurl.com

@@ -44155,7 +44155,6 @@ m.ithome.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
-m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
@@ -57228,7 +57227,6 @@ sdk-globalconfig.aiclk.com
 sdk-log-scdn.yfdts.net
 sdk-log.youdao.com
 sdk-open-phone.getui.com
-sdk.adtiming.com
 sdk.ai.wpscdn.cn
 sdk.api.bjshcw.com
 sdk.api.galaxyclouds.cn

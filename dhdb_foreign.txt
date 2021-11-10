@@ -19080,6 +19080,7 @@ app-cheats.net
 app-clicks-corporate.firstrepublic.com
 app-clicks.firstrepublic.com
 app-data.net
+app-department.report
 app-dynamics.com
 app-gameplayer.dmm.co.jp
 app-gameplayer.dmm.com
@@ -39406,7 +39407,6 @@ counter.nope.dk
 counter.nowlinux.com
 counter.ntdvn.com
 counter.nv.ua
-counter.ok.ee
 counter.packa2.cz
 counter.photopulse.ru
 counter.pixplug.in
@@ -39706,6 +39706,7 @@ cpacoreg.com
 cpactions.com
 cpadoom.com
 cpaevent.ru
+cpafornoob.com
 cpagoods.ru
 cpagrip.com
 cpalead.com
@@ -105602,6 +105603,7 @@ nordstromrack.com
 nordvnp.net
 nordvpn.com
 nordvpn.de
+nordvpn.net
 nordvpnteams.com
 nordwebsite.net
 noregon.com

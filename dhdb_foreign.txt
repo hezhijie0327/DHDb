@@ -8017,7 +8017,6 @@
 98tee.com
 98tou.com
 98tt.com
-98vip.com
 99.140.197.113.zz.countries.nerd.dk
 99.47.102.212.zz.countries.nerd.dk
 99.93.224.101.zz.countries.nerd.dk
@@ -79485,6 +79484,7 @@ intelpartneralliance.intel.com
 intelplay.com
 intelquark.com
 intelrealsense.com
+intelrxt.com
 intelsalestraining.com
 intelsecurity.com
 intelserveredge.com
@@ -103334,6 +103334,7 @@ nearbyad.com
 nearestaxe.com
 nearpod.com
 neat-url.com
+neatblogs.com
 neathsmik.top
 neatstats.com
 neattogo.com

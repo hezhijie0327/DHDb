@@ -3,7 +3,6 @@
 0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -31562,6 +31561,7 @@ hb.url.cn
 hb.url.cn.cloud.tc.qq.com
 hb.zcjb.com.cn
 hb.zu.anjuke.com
+hb10000.com
 hb10000sale.com
 hb114.cc
 hb30.com
@@ -44789,7 +44789,6 @@ maobotv.com
 maobugames.com
 maobujie.com
 maodou.com
-maodouapp.com
 maoerduo2018.com
 maohuagong.com
 maohuashiye.com

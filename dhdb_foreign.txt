@@ -2292,7 +2292,6 @@
 2.4.je
 2.adam.com
 2.android.pool.ntp.org
-2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -21598,6 +21597,7 @@ autozone.actonservice.com
 autozone.com
 autozonemecanicos.com
 autozonepro.com
+autozw.com
 autsaubs.net
 autspe.notino.hr
 autumn-waterfall-c3b1.apkipa.workers.dev
@@ -40874,6 +40874,7 @@ cssfz.com
 cssgxmj.com
 cssj.fun
 cssmagic.net
+cssmoban.com
 csspv.com
 cssrvsync.com
 csswgq.com
@@ -48561,6 +48562,7 @@ dvvkov.agrieuro.de
 dvvmvz.tut-prosto.ru
 dvyfpg.netology.ru
 dw-eu.com.com
+dw-online.ksosoft.com
 dw-world.com
 dw-world.de
 dw.com
@@ -59920,6 +59922,7 @@ funav.cc
 funav.co
 funav.me
 funav.tv
+funball78.com
 funcaptcha.com
 funcdn.com
 funcionapage.com

@@ -7540,6 +7540,7 @@ a.qchannel03.cn
 a.qiao024.com
 a.qinghua5.com
 a.quangushi.com
+a.qunzou.com
 a.rensheng5.com
 a.sh.vip.dianping.com
 a.shczz.com
@@ -11797,7 +11798,6 @@ b.cdn03.duolebo.com
 b.cdn04.duolebo.com
 b.clkservice.youdao.com
 b.code.tanwanyx.com
-b.coroplastsheet.cn
 b.epinv.com
 b.gushiciju.com
 b.hiphotos.baidu.com
@@ -31704,7 +31704,6 @@ hbslndx.com
 hbsocar.com
 hbsoft.net
 hbsogdjt.com
-hbspcar.com
 hbsql.com
 hbssfw.com
 hbssspot.com
@@ -43127,6 +43126,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -51143,7 +51143,6 @@ pic.alipayobjects.com.danuoyi.tbcache.com
 pic.baike.soso.com
 pic.baike.soso.com.sched.px.tdnsv6.com
 pic.bdyxzx.com
-pic.c-ctrip.com
 pic.c-ctrip.com.cdn20.com
 pic.casee.cn
 pic.chinaz.com

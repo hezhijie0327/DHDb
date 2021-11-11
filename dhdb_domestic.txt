@@ -10366,7 +10366,6 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
-api.account.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -26904,7 +26903,6 @@ fcyhw.com
 fcz360.com
 fczx.com
 fd-trust.com
-fd.3.cn
 fd.3.cn.gslb.qianxun.com
 fd.qchannel03.cn
 fd167.com
@@ -44139,6 +44137,7 @@ m.huya.com.w.kunlunar.com.v.vvpncdn.com
 m.i2356.com
 m.idongde.com
 m.ienkdaged.cn
+m.ilancc.com
 m.imitui.com
 m.intl.taobao.com
 m.iqiyi.com

@@ -3,6 +3,7 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -5113,7 +5114,6 @@
 52mhw.com
 52moshi.com
 52news.chinatimes.com
-52pachong.com
 52ph.com
 52pi.com
 52playpc.com
@@ -20042,6 +20042,7 @@ aritaum.com
 arithmeticadjustment.com
 arity.com
 aritzcracker.ca
+ariyatv.com
 ariyayin.com
 arizona-friends-of-tibet.org
 arizona-miner.tk
@@ -22532,6 +22533,7 @@ b2.ijquery11.com
 b2.t28.net
 b203.com
 b213917fd468dd2b9b7e2f1217d90e20.clo.footprintdns.com
+b2216.com
 b2235.com
 b2236.com
 b23.biz.tm
@@ -37446,7 +37448,6 @@ coinhive.com
 coinhive.info
 coinhive.net
 coinhive.org
-coinhiveproxy.com
 coinhiver.com
 coinhives.com
 coinhub.win
@@ -52384,6 +52385,7 @@ enzolifesciences.com
 enzonehypped.com
 eo.aaaw.xyz
 eo.ccch.xyz
+eo.eeo1h1.cn
 eo.erkesi.cn
 eo.pgqoqv.cn
 eo.pl

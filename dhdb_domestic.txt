@@ -10596,6 +10596,7 @@ api.tv.sohu.com
 api.tw06.xlmc.sandai.net
 api.tw06.xlmc.sec.miui.com
 api.udache.com
+api.ujian.cc
 api.union.vip.com
 api.unipay.qq.com
 api.uniplayad.com
@@ -35593,7 +35594,6 @@ image.zzd.sm.cn
 image0.lietou-static.com
 image01.joying.com
 image01.joying.com.wswebpic.com
-image1.jzjxmj.com
 image1.yimizhibo.tv
 image100.360doc.com
 image11.m1905.cn
@@ -37726,6 +37726,7 @@ jdzbth.com
 jdzdeyy.com
 jdzeduyun.com
 jdzj.com
+jdzjdz.com
 jdzmc.com
 jdzol.com
 jeacar.com

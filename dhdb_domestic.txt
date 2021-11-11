@@ -21381,7 +21381,6 @@ data.bilicdn2.com
 data.bilivideo.com
 data.chinaz.com
 data.choujue.net
-data.danmu.baofeng.com
 data.eastmoney.com
 data.educoder.net
 data.fengcv.cn
@@ -36321,7 +36320,6 @@ in.jinxiutengzhou.cn
 in.m.jd.com
 in.m.jd.com.gslb.qianxun.com
 in.vipliangmei.com
-in.wxebgpj.cn
 in1.feed.uu.cc
 in1.secure.uu.cc
 in1361482902yshe.trustpass.alibaba.com
@@ -37590,6 +37588,7 @@ jbo28.com
 jbo568.com
 jbo65.com
 jbo8.com
+jbo830.com
 jbo909.com
 jbqipa.com
 jbryun.com
@@ -38201,6 +38200,7 @@ jiguo.com
 jihai8.com
 jihaoba.com
 jihe.datasink.sensorsdata.cn
+jihehuaban.com
 jiheyun.com
 jihone.com
 jihot.com

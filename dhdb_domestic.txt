@@ -9740,7 +9740,6 @@ alogsus.umeng.com
 aloha-ukulele.com
 alonemonkey.com
 alongsky.com
-alookbrowser.com
 alookql.com
 alpaca.run
 alpha-browser.com
@@ -10371,6 +10370,7 @@ api.3839app.com
 api.557400.com
 api.5hte21mz.com
 api.account.xiaomi.com
+api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -10821,7 +10821,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.cdn-apple.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -32176,7 +32175,6 @@ here120.com
 hermes-server.hupu.com
 hermes.cn
 hermes.hupu.com
-hermes.jd.com
 hermes.jd.com.gslb.qianxun.com
 heroclick.cn
 heroes.nos.netease.com
@@ -41208,7 +41206,6 @@ kyhs.me
 kyimg.com
 kyjxy.com
 kyleduo.com
-kylienet.com
 kylin-os.com
 kylin-wan-ys.xiaojukeji.com
 kylin.im.weibo.cn
@@ -43396,7 +43393,6 @@ looktmt.com
 lookvin.com
 loome.net
 loonapp.com
-loongnix.com
 loongshine.com
 loongsin.com
 loongson.org

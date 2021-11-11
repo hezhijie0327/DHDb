@@ -10464,6 +10464,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hyhuo.com
 api.iapps.ifeng.com
@@ -11864,7 +11865,6 @@ b2b168.net
 b2b168.org
 b2b179.com
 b2b5.net
-b2b6.com
 b2baa.com
 b2badmin.lenovo.com.cn
 b2bname.com
@@ -20421,7 +20421,6 @@ cyb800.com
 cyberpolice.cn
 cyberway-china.net
 cybtc.com
-cybtc.info
 cychaiqian.com
 cyclingchina.net
 cyclone-robotics.com
@@ -29769,7 +29768,6 @@ googletagmanager.com
 googletagservices.com
 googletraveladservices.com
 googlevip8.com
-googpc.com
 goolink.org
 gooo8.com
 gooooal.com
@@ -43047,7 +43045,6 @@ lntycp.com
 lntyjjh.org.cn
 lnvsystem.com
 lnyyzyxy.com
-lnzikao.com
 lnzsks.com
 load-page.com
 loading.baofeng5.baofeng.net
@@ -54222,7 +54219,6 @@ qsfcw.com
 qsfmnu1.cachenode.cn
 qshxc.com
 qsj65.com
-qsmdeyz.cn
 qspfw.com
 qss-lb.com
 qssec.com

@@ -1465,7 +1465,6 @@
 15in.com
 15ms.com
 15partner.net.daraz.com
-15pb.cc
 15shu.net
 15tianqi.cn
 15xs.com
@@ -6547,7 +6546,6 @@
 7740935.com
 77417.cn
 77437ee0a17f19c6085.com
-774492.com
 77495.com
 774jj.com
 77520a.com
@@ -15797,6 +15795,7 @@ ak.cdn-jquery.host
 ak.imgaft.com
 ak.sail-horizon.com
 ak.sascdn.com
+ak0.tw
 ak0gsh40.com
 ak1.imgaft.com
 ak47fuli.com
@@ -90046,6 +90045,7 @@ loadlink.ca
 loadlink.transcore.ca
 loadm.exelator.com
 loadpartners.com
+loadserial.ru
 loadthatpage.com
 loadus.exelator.com
 loamauji.com
@@ -120081,6 +120081,7 @@ quledu.net
 qumaef.conects.com
 qumagee.com
 qumingxing.com
+qunale888.com
 qungame.com
 qunniao.com
 qunqun.mobi

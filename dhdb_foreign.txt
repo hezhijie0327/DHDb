@@ -13734,7 +13734,6 @@ adserver.gorillanation.com
 adserver.harktheherald.com
 adserver.hellasnet.gr
 adserver.hg-computer.de
-adserver.hi-m.de
 adserver.home.pl
 adserver.hostinteractive.com
 adserver.html.it
@@ -18713,7 +18712,6 @@ api.gits.net.zooplus.de
 api.goulegu.com
 api.graphql.imdb.com
 api.grumft.com
-api.gxbrowser.net
 api.help.priv.net.zooplus.de
 api.hfyhjg.cn
 api.hubapi.com
@@ -29443,6 +29441,7 @@ btrend.amassly.com
 btrenren.com
 btrsecurity.co.uk
 bts.com
+bts05.site
 bts2dvz.taguiginfo.com
 btsabc.org
 btsaffiliations.com
@@ -36572,6 +36571,7 @@ cmbswissco.com
 cmbuy10086.com
 cmbwinglungbank.com
 cmcaifu.com
+cmcintra.net
 cmcm5.cc
 cmcm5.com
 cmcm55.cc
@@ -40720,7 +40720,6 @@ csgotape.com
 csgotaunt.com
 csgotrade.co
 csgotradefly.com
-csgotradegear.com
 csgotradejet.com
 csgotraders.net
 csgousp.com
@@ -42891,6 +42890,7 @@ dalailamafellows.org
 dalailamafilm.com
 dalailamafoundation.org
 dalailamahindi.com
+dalailamainaustralia.org
 dalailamajapanese.com
 dalailamamatters.com
 dalailamanola.com

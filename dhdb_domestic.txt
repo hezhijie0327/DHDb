@@ -10822,6 +10822,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.cdn-apple.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -42275,7 +42276,6 @@ lib.shuidihuzhu.com
 lib.xinhuanet.com
 lib.xinhuanet.com.w.cdngslb.com
 lib4d.com
-lib520.com
 liba.com
 libaclub.com
 libai.com
@@ -42469,6 +42469,7 @@ lingbao-e.com
 lingd.com
 lingdunwang.com
 lingduohome.com
+lingdz.com
 lingfengyun.com
 lingganjia.com
 linghit.com

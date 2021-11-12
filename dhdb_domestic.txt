@@ -10308,6 +10308,7 @@ api-cn.store.heytapmobi.com
 api-cn1.mpay.samsung.com.cn
 api-cname.growingio.com
 api-crep.ke.com
+api-dd.jd.com
 api-dd.jd.com.gslb.qianxun.com
 api-e189.21cn.com
 api-edge.apps.apple.com.cdn20.com
@@ -10425,7 +10426,6 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
-api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -26907,6 +26907,7 @@ fcyhw.com
 fcz360.com
 fczx.com
 fd-trust.com
+fd.3.cn
 fd.3.cn.gslb.qianxun.com
 fd.qchannel03.cn
 fd167.com
@@ -35686,6 +35687,7 @@ imazingchina.com
 imbackr.com
 imbeer.com
 imblog.in
+imbossdog.com
 imbtk.com
 imbuolq3.s1txipv6.cdntip.com
 imc.l.qq.com
@@ -46428,6 +46430,7 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
+mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com

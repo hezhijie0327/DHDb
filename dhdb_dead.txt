@@ -4003,6 +4003,7 @@ a-staticwebedia.com
 a-ups-presencecore0-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore10-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presencecore3-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.westus2.cloudapp.azure.com
@@ -10350,6 +10351,7 @@ bl33pon6373.com
 bl35.org
 bl8883.com
 blablabla.ac.ug
+blablabla.pp.ua
 black-bricks.net
 black-files.com
 black-roulette.tk
@@ -16913,6 +16915,7 @@ dc0071.com
 dc121677.com
 dc173cc1070c2ab16b1d.date
 dc2.csdn.net
+dc3311.com
 dc44qjwal3p07.cloudfront.net
 dc63bfb069ea522f.com
 dc8465c2d1160cd065a2cdf8dbb9d86e.jddebug.com
@@ -22193,6 +22196,7 @@ frankjoe.uzocoms.eu
 franksvillereddick.com
 frankychamp.com
 frap.site
+fraudjs.io
 frb.io
 frbao.com
 frbcommunications.org
@@ -26008,6 +26012,7 @@ hg67822.com
 hg7799.net
 hg86228.com
 hg87.com
+hg89038.com
 hg9707.com
 hg98089.com
 hga017.com
@@ -26702,6 +26707,7 @@ hq33333.com
 hq898.com
 hqbd.com
 hqcft.com
+hqhacks.com
 hqhot.com
 hqkjfrp.com
 hqmovies.com
@@ -31566,7 +31572,6 @@ kzfwvqylo.com
 kzgame2.com
 kzni.jwhfn.cn
 kzqjwdxxussshe.net
-kzsiee.com
 kzupload.com
 kzvhgpqvmle.com
 kzwsh.cn
@@ -33747,6 +33752,7 @@ m.congcuitang.cn
 m.corocksi.com
 m.couas.com
 m.cpgzh.com
+m.cqbaitong.cn
 m.cqhengnuo.cn
 m.cqolg.cn
 m.cqytjzgc.com
@@ -34492,7 +34498,6 @@ m.xsm98e.cn
 m.xuehelei.com
 m.xuwm6.cn
 m.xw294.com
-m.xxkio.com
 m.xyadaa.com
 m.y0k8h.cn
 m.y195j.cn
@@ -36952,6 +36957,7 @@ mubite.cn
 mubra.ru
 mucai-china.com
 mucaipin.com
+muer.cdn-baidu.fs-sywh.com
 muewudovtlkf.localdomain
 muftyat.com
 mugen-corp.jp
@@ -37606,7 +37612,6 @@ ncedagricul.info
 ncfstatic.com
 ncgxs.com
 nchte.com
-nckjysyk.com
 nckwgmbfdwrj.xyz
 nclick.ru
 ncmo.v44i.cn

@@ -664,7 +664,6 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -41266,6 +41265,7 @@ l4dk40faecw9jp.mwcname.com
 l4elb.cn
 l4scli1.cachenode.cn
 l5-hdslb.gslb.ksyuncdn.com
+l570mb.cn
 l574ou0.cdnnodedns.cn
 l6.fancyapi.com
 l68.net
@@ -44145,6 +44145,7 @@ m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
 m.jiedianqian.com
+m.jingxi.com
 m.jinti.com
 m.joyxv.com
 m.jr.jd.com
@@ -50921,7 +50922,6 @@ pg-ad-b2.ws.126.net
 pg-leak.com
 pg.aty.sohu.com
 pg.sina.cn
-pg.xdrig.com
 pg1.kuwo.cn
 pg114.net
 pgbee.com
@@ -51664,6 +51664,7 @@ polaxiong.com
 polayoutu.com
 pole.6rooms.com
 policy-cde.le.com
+policy.jd.com
 policy.jd.com.gslb.qianxun.com
 policy.video.iqiyi.com
 policy.video.ptqy.gitv.tv

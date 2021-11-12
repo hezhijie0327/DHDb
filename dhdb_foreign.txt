@@ -18640,6 +18640,7 @@ api.bonusberry.ru
 api.bounceexchange.com
 api.box.com
 api.breezip.com
+api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.carrottrack.io
@@ -69906,6 +69907,7 @@ hackfinity.com
 hackfinity.net
 hackfoldr.org
 hackfor.com
+hackforyou.xyz
 hackfree.us
 hackfront.eu
 hackgames.ml

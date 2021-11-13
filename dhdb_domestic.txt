@@ -10857,6 +10857,7 @@ app.knights.mi.com
 app.kwaixiaodian.com
 app.lz55.cn
 app.m.letv.com
+app.market.xiaomi.com
 app.mengtuiapp.com
 app.mi.com
 app.moji001.com
@@ -14173,6 +14174,7 @@ bosshr.com
 bosszhipin.com
 bostonceltics.com.cn
 bosunman.com
+botnet.cc
 botongr.com
 botorange.com
 botusg.com
@@ -44817,7 +44819,6 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
-mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn

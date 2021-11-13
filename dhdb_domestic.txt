@@ -10564,6 +10564,7 @@ api.s.suv666.com
 api.samsungcloudcn.com
 api.sdbao.com
 api.sdk.fmobi.cn
+api.sec.miui.com
 api.share.baidu.com
 api.share.mob.com
 api.share.n.shifen.com
@@ -29823,6 +29824,7 @@ gouso.com
 goutanzi.com
 goutong.baidu.com
 gouwanmei.com
+gouweida.cn
 gouwubang.com
 gouwuke.com
 gouwuyu.com
@@ -44131,6 +44133,7 @@ m.ithome.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
+m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com

@@ -18206,7 +18206,6 @@ cltt.org
 club-img.douyucdn.cn
 club-v4.chinanorth.cloudapp.chinacloudapi.cn
 club.bilibili.com
-club.jd.com
 club.jd.com.gslb.qianxun.com
 club.lenovo.com.cn
 club.m.autohome.com.cn
@@ -32592,7 +32591,6 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -45805,6 +45803,7 @@ miduiedu.com
 miduoke.net
 midureader.com
 midway.run
+midwayjs.org
 mie99.net
 miecod.com
 miejw.com

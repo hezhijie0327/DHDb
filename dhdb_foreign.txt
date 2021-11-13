@@ -2294,6 +2294,7 @@
 2.biqle.ru
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
+2.centos.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.courier2-push-apple.com.akadns.net
 2.cr.rs
@@ -33012,6 +33013,7 @@ cdn.sportlabs.online
 cdn.sports-streams-online.club
 cdn.sports-streams-online.xyz
 cdn.sstatic.net
+cdn.static.txhy888.cn
 cdn.static.txhy888.cn.a.lahuashanbx.com
 cdn.static.zdbb.net
 cdn.statically.io

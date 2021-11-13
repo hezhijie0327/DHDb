@@ -8480,6 +8480,7 @@ a.docs-ns.emailvision.net.daraz.com
 a.dogfood-ns.emailvision.net.daraz.com
 a.dogfood.ns.emailvision.net.daraz.com
 a.doko.moe
+a.dounanhuahui.com
 a.dphunters.com
 a.draugiem.lv
 a.dtprofit.com
@@ -24019,7 +24020,6 @@ bcaeurope.eu
 bcanl.bca-autoveiling.nl
 bcapps.cat
 bcash4you.com
-bcast.co.nz
 bcat-data-lp1.cdn.nintendo.net
 bcat-list-lp1.cdn.nintendo.net
 bcat-topics-lp1.cdn.nintendo.net
@@ -51842,7 +51842,6 @@ enawsu.adzuna.co.uk
 enbar.net
 enbpvt.com
 enbw.com
-encamionnerai.xyz
 encasedandelionhauled.com
 enceansom.club
 enceevenue.club
@@ -84436,7 +84435,6 @@ karat.com
 karat.hu
 karatov.com
 karayou.com
-karbon.to
 karbonhq.com
 karbowanec.crypto-webminer.com
 kare11.com
@@ -92032,6 +92030,7 @@ m.icekr.com
 m.icyrd.com
 m.ihais.com
 m.ilife.cn
+m.infvb.com
 m.irl.com
 m.ishowms.com
 m.iwon88.com
@@ -106424,6 +106423,7 @@ ns38541.ovh.net
 ns389251.ovh.net
 ns5240.com
 ns71-test.net.daraz.com
+ns8.adk2x.com
 ns8.com
 ns8ds.com
 ns8mklpkokrbh3fkafnlydx8kcmsj1620829719.nuid.imrworldwide.com
@@ -107231,7 +107231,6 @@ oarari.miestilo.ru
 oaraunal.com
 oardilin.com
 oaroojie.com
-oas.aurasports.com
 oas.benchmark.fr
 oas.dn.se
 oas.publicitas.ch

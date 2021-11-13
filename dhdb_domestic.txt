@@ -13827,7 +13827,6 @@ blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
-blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
@@ -39528,7 +39527,6 @@ jupiter.sys.miui.com
 jupiter2.bayescom.com
 jupup.com
 juqi.com
-juqingjuqing.com
 juqiwang.net
 jurenqi.com
 jurongfangchan.com
@@ -40718,6 +40716,7 @@ koubei-cateogory.alicdn.com
 koubei-cateogory.alicdn.com.danuoyi.tbcache.com
 koubei.app.autohome.com.cn
 koubei.com
+koubeiblog.com
 koubeikc.com
 kouclo.com
 koudai.com

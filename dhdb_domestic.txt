@@ -12855,7 +12855,6 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -13461,7 +13460,6 @@ biyan8.com
 biyangwang.com
 biyao.com
 biye.net
-biyebi.com
 biyehome.net
 biyele.com
 biyelunwenjiance.com
@@ -29585,6 +29583,7 @@ go2yd.com
 go300.com
 goalan.net
 goalmobi.com
+goaltraffic.com
 goapk.com
 gobanma.com
 gobasearcher.com

@@ -4711,6 +4711,7 @@
 5.courier-push-apple.com.akadns.net
 5.courier2-push-apple.com.akadns.net
 5.info.tm
+5.qqm98.com
 5.top4top.io
 50-50-pool.burst.beeppool.org
 50-courier.push.apple.com
@@ -14801,6 +14802,7 @@ af-ad.co.uk
 af-event-logger.appsflyer.com
 af-next.com
 af-z.jp
+af.1gdz.ru
 af.fukuishimbun.co.jp
 af04fe0ed13c1936a450c6fffb2e19a8.clo.footprintdns.com
 af755b27b5e472.com
@@ -18716,7 +18718,6 @@ api.fw.tv
 api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
-api.geetest.com
 api.getter-priv.net.zooplus.de
 api.gfe.nvidia.com
 api.gimbal.com
@@ -18730,7 +18731,6 @@ api.hfyhjg.cn
 api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
-api.hybrid.xiaomi.com
 api.identitynow.com
 api.imqtyik.com
 api.infinario.com
@@ -73819,7 +73819,6 @@ httpsecurity.org
 httpsfacebook.com
 httpwwwfacebook.com
 htuwenming.com
-htwaplxv.xyz
 htyfmm.com
 htys.cc
 hu-friedy.com
@@ -80013,7 +80012,6 @@ ipchameleon.com
 ipchanging.com
 ipcheck.blogsys.jp
 ipcheck.tmgrup.com.tr
-ipchinatelecom.com
 ipclife.net
 ipconceal.com
 ipcount.net
@@ -83926,7 +83924,6 @@ jxf75.com
 jxfcls.com
 jxfxsw.com
 jxghou.sollumeesthe.com
-jxhcyc.com
 jxiwdw.ufret.jp
 jxjyzy.com
 jxjzny.com

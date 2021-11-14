@@ -4598,7 +4598,6 @@
 52dmtp.com
 52dns.com
 52dr.net
-52ds8.com
 52dtv.com
 52e24c5b9565df938777023b923089b0.safeframe.googlesyndication.com
 52edy.com
@@ -10363,6 +10362,7 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
+api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -27899,7 +27899,6 @@ frishoes.com
 fristlvy.com
 frlh168.com
 frntgq1w.sched.s2-dk.tdnsv5.com
-from.mediaxx.cn
 frombyte.com
 fromgeek.com
 fromwiz.com

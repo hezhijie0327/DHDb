@@ -1835,6 +1835,7 @@
 17uhui.net
 17ukulele.com
 17uoo.com
+17usoft.com
 17usoft.net
 17uxi.com
 17v5.com
@@ -2203,6 +2204,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
+2.asia.pool.ntp.org
 2.bashenghuo.com
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -21747,6 +21749,7 @@ ddnddn.com
 ddnsto.com
 ddooo.com
 ddos-bj2.youzan.com
+ddos.com
 ddosc.com
 ddove.com
 ddpa.com
@@ -55251,6 +55254,7 @@ rdls.bigdata.samsung.com.cn
 rdnsdb.com
 rdplat.com
 rds-buy.aliyun.com
+rds.alipay.com
 rds.console.aliyun.com
 rdsdk.com
 rdstat.tanx.com
@@ -55647,7 +55651,6 @@ retcode.alicdn.com.danuoyi.tbcache.com
 retcode.taobao.com
 retcode.taobao.com.gds.alibabadns.com
 reteng.org
-retey.net
 retouchpics.com
 retow.com
 return.adsame.com

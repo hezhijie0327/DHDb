@@ -1954,7 +1954,6 @@
 18rhbg.tdum.alibaba.com
 18touch.com
 18vps.com
-18xl.biz
 18xl.in
 19.offcn.com
 1905.com
@@ -10498,7 +10497,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -14503,6 +14501,7 @@ buyin.jinritemai.com
 buyjk.com
 buysun.net
 buysweet.com
+buyuninfo.com
 buzhi5.com
 buzhibushi.com
 buzx53.cn
@@ -32163,6 +32162,7 @@ here120.com
 hermes-server.hupu.com
 hermes.cn
 hermes.hupu.com
+hermes.jd.com
 hermes.jd.com.gslb.qianxun.com
 heroclick.cn
 heroes.nos.netease.com
@@ -38868,7 +38868,6 @@ joinusad.com
 joinwee.com
 jojju.com
 jojofx.com
-jojoin.com
 jojoreading.com
 jolimark.com
 jomeinaster.gallerycdn.azure.cn

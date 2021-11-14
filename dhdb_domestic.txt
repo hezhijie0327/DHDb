@@ -5769,6 +5769,7 @@
 751797476.docs.qq.com
 75184.com
 751c5172.qc.x.bsgslb.cn
+75271.com
 7540.com
 754459.s1txipv6.cdntip.com
 754573.s1txipv6.cdntip.com
@@ -15857,6 +15858,7 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
+cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -53473,7 +53475,6 @@ qicp.net
 qicp.vip
 qida100.com
 qidasoft.com
-qidewang.com
 qidian.com
 qidian.gtimg.com
 qidian.qpic.cn

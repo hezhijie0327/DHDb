@@ -8100,7 +8100,6 @@
 9999cn.com
 9999cn.org
 999dns.net
-999kan.com
 999let.com
 999wx.com
 99a29.com
@@ -18727,6 +18726,7 @@ api.graphql.imdb.com
 api.grumft.com
 api.help.priv.net.zooplus.de
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.hybrid.xiaomi.com
@@ -62261,7 +62261,6 @@ getusvpn.com
 getvbuck.online
 getvbucksfree.site
 getvidi.co
-getviously.com
 getvitals.io
 getvy.net
 getwiki.org
@@ -84260,6 +84259,7 @@ kaixinpaopao.com
 kaiyuan.de
 kaiyuan.me
 kaiyuanhi.com
+kaiyuanzg.com
 kaiz.jp
 kaizenplatform.net
 kaizentraffic.com
@@ -87445,6 +87445,7 @@ lbcar10.net.daraz.com
 lbcisco-capwap-controller.net.daraz.com
 lbdsak.lacoste.ua
 lbdyzj.com
+lbgchljyhjmev.com
 lbgfqn.onward.co.jp
 lbn.ru
 lbpolice.com
@@ -92043,7 +92044,6 @@ m.kanbook.net
 m.kankanwu.com
 m.kanshuzw.com
 m.kcai332.com
-m.kcai969.com
 m.kencorp.co.jp
 m.kencorp.com
 m.khuoy.com

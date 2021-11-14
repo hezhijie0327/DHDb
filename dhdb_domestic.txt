@@ -10462,7 +10462,6 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
-api.huangye.miui.com
 api.huya.com
 api.hyhuo.com
 api.iapps.ifeng.com
@@ -30788,7 +30787,6 @@ gzyitop.com
 gzyouai.com
 gzyucai.com
 gzzbgs.com
-gzzena.com
 gzzg.org
 gzzhitu.com
 gzzkzsw.com

@@ -43756,6 +43756,7 @@ dd-cdn.origin-apple.com.akadns.net
 dd.70yst.com
 dd.lendup.com
 dd.nytimes.com
+dd.wx16999.com
 dd0066.com
 dd1.diymianmo.com
 dd20fzx9mj46f.cloudfront.net
@@ -48297,7 +48298,6 @@ duckmovies.net
 duckmylife.com
 ducksear.ch
 duckside.com
-duckspatterncosign.com
 ducksys.duckdns.org
 duclick.baidu.com
 ducmissy.com
@@ -58266,7 +58266,6 @@ foundrymusic.com
 foundtr.com
 founehie.com
 founei.com
-founseezb.cn
 fountainwimp.com
 fouoh.com
 fouptauk.com
@@ -72353,7 +72352,6 @@ hk.mobi.yahoo.com
 hk.myblog.yahoo.com
 hk.napi.ucweb.com
 hk.news.yahoo.com
-hk.pool.ntp.org
 hk.rs
 hk.schroders.email
 hk.search.yahoo.com

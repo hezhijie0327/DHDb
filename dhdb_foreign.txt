@@ -18849,6 +18849,7 @@ api.samsungcloud.com
 api.savemedia.website
 api.sbz.vn
 api.sciencemag.org
+api.sec.miui.com
 api.segment.io
 api.server.net.zooplus.de
 api.share2w.com
@@ -79898,6 +79899,7 @@ ios.gd.ddns.name
 iosandroidworld.com
 iosapphack.com
 iosapphacks.com
+iosapps.itunes.apple.com
 iosapps.itunes.g.aaplimg.com
 iosappsworld.com
 iosgamecheats.com
@@ -123458,6 +123460,7 @@ rhvdsplm.com
 rhvfma2exjudfv.ru
 rhxdsplm.com
 rhxkzd.jane.com
+rhxshop.com
 rhy.com
 rhybey.gap.co.jp
 rhymebiz.com

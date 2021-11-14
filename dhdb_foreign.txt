@@ -8392,7 +8392,6 @@ a-ups-presencecore11-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore11-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore13-prod-azsc.centralus.cloudapp.azure.com
-a-ups-presencecore13-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore14-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore14-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore2-prod-azsc.eastus2.cloudapp.azure.com
@@ -33856,6 +33855,7 @@ changsha-show.com
 changshacsa.com
 changtu8.com
 changyouke.com
+changyueba.com
 chanhtuoi.com
 channel.com
 channel.sovereigncomms.co.nz
@@ -47562,6 +47562,7 @@ downtonpudic.com
 downupfiles.com
 downv.com
 downzeroky.com
+doxyspats.com
 doyoe.com
 doz.pl
 dozer.cc

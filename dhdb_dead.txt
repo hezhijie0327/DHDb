@@ -4001,6 +4001,7 @@ a-staticwebedia.com
 a-ups-presencecore0-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore10-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presencecore13-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.eastus2.cloudapp.azure.com
@@ -23082,7 +23083,6 @@ galaxy-case.com
 galaxy-deals.com
 galaxy-deals.net
 galaxy-skins.com
-galaxyclouds.cn
 galaxydrop.top
 galaxyns.com
 galaxyns.net
@@ -26705,6 +26705,7 @@ hpuvkfbww.com
 hpvnsmexnljia.localdomain
 hpxsw.com
 hpxy.net
+hpyx365.cn
 hpzdwnkb.com
 hq-youporn.net
 hq28g.com
@@ -28920,6 +28921,7 @@ iwin993.com
 iwin996.com
 iwincdn.com
 iwjw.com
+iwodu.com
 iwofkvupfz.com
 iwork.wang
 iwpai.com
@@ -29648,7 +29650,6 @@ jiyu-kobo.co.jp
 jiyuanzhiwensuo.cn
 jiyuqiao.com
 jizhiyingxiao.net
-jizhiyouke.com
 jiztini.com
 jizy.cn
 jj.198dh.cn
@@ -33168,6 +33169,7 @@ lpwre.top
 lq.booktxt.net
 lq.xsbooktxt.com
 lq0s3c.cn
+lqalm.com
 lqart.com
 lqcdn.com
 lqcqhkgoer.com

@@ -2204,7 +2204,6 @@
 2.arpun.com
 2.asia.pool.ntp.org
 2.bashenghuo.com
-2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
 2.pic.pc6.com
@@ -10497,6 +10496,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -13304,7 +13304,6 @@ bike.hellobike.com
 bikehome.net
 biketo.com
 biketour-giant.com
-bilebo.com
 bili-dyn-sched.jcloud-cdn.com
 bili22.cn
 bili22.cn.w.cdngslb.com

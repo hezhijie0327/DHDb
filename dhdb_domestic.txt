@@ -667,7 +667,6 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -1119,7 +1118,6 @@
 12345good.com
 12345good.net
 12345szzx.com
-1234866.com
 12349.net
 1234n.com
 1234wu.com
@@ -22610,7 +22608,6 @@ dingtangzqx.com
 dingteam.com
 dingwei.dftoutiao.com
 dingxiang-inc.com
-dingxinhui.com
 dingyantec.com
 dingyue.ws.126.net
 dingyueads.com
@@ -42544,7 +42541,6 @@ linkingme.com
 linkist.net
 linkjg.cn
 linknewideas.com
-linkpaper.net
 linkpro.tech
 linkresearcher.com
 links.ele.me
@@ -45739,6 +45735,7 @@ mibugs.com
 mic-s.com
 micai.com
 micaiying.com
+micardapi.micloud.xiaomi.net
 michaelapp.com
 micheal.wang
 michelam.com
@@ -51638,7 +51635,6 @@ polaxiong.com
 polayoutu.com
 pole.6rooms.com
 policy-cde.le.com
-policy.jd.com
 policy.jd.com.gslb.qianxun.com
 policy.video.iqiyi.com
 policy.video.ptqy.gitv.tv

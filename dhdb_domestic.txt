@@ -4427,7 +4427,6 @@
 51tour.com
 51touxiang.com
 51tra.com
-51tudd.com
 51tuiyi.com
 51tunhuo.com
 51tvbao.com
@@ -10832,6 +10831,7 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -21077,7 +21077,6 @@ daixingmo.com
 daiyanbao.com
 daiyanmama.com
 daiyoubang.com
-daiyuxia.com
 daji.com
 dajiabao.com
 dajiadaohang.com

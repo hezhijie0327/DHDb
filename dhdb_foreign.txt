@@ -5162,6 +5162,7 @@
 531006.shop.cnlist.org
 531006.shop.m.cnlist.org
 531dns.com
+531mk.com
 5320885.com
 5323169.com
 532xcxypmpnp.com
@@ -68759,7 +68760,6 @@ gritdigitalhealth.com
 gritspera.mobi
 grivupie.net
 griyalestari.com
-grjs02.com
 grjs06.com
 grjs08.com
 grjsq.biz
@@ -83343,6 +83343,7 @@ js.sosista.com
 js.start1999.com
 js.stripe.com
 js.stroeermediabrands.de
+js.ta80.com
 js.theprimead.co.kr
 js.trendmd.com
 js.webklik.nl
@@ -95334,7 +95335,6 @@ mbholicymi.club
 mbhs.hrm.healthgrades.com
 mbicash.nl
 mbid.marfeelrev.com
-mbiizkzics.com
 mbinary.xyz
 mbitiontolearn.com
 mblapi.ssl2.duapps.com
@@ -98636,7 +98636,6 @@ minelli.fr
 minently.com
 minepi.com
 miner-deu-1.inf.nimiq.network
-miner-deu-6.inf.nimiq.network
 miner-deu-7.inf.nimiq.network
 miner-deu-8.inf.nimiq.network
 miner.beeppool.org

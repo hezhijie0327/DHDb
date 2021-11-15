@@ -13816,7 +13816,6 @@ blackbirdsport.com
 blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
-blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
@@ -22987,6 +22986,7 @@ dlyeren.com
 dlyestar.com
 dlzb.com
 dlztb.com
+dm.17xuexiba.com
 dm.21hubei.com
 dm.300zi.com
 dm.3454.com
@@ -24686,6 +24686,7 @@ dzsg.com
 dzshengchi.com
 dzsm.com
 dzsrcw.com
+dzsyxx.com
 dztcbj.com
 dztcfj.com
 dztchun.com
@@ -32581,6 +32582,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -33449,6 +33451,7 @@ htwed.com
 htx.cc
 htxxpx.com
 htxyin.com
+hty.cdn-ng.net
 htyou.com
 htyunwang.com
 htzdj.com
@@ -37154,6 +37157,7 @@ itit.io
 itiyun.com
 itjoy.net
 itjspx.com
+itjuzi.com
 itkeyword.com
 itlap.cn
 itlily.com

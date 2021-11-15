@@ -18713,6 +18713,7 @@ api.fw.tv
 api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
+api.geetest.com
 api.getter-priv.net.zooplus.de
 api.gfe.nvidia.com
 api.gimbal.com
@@ -41671,6 +41672,7 @@ czqfsl.com
 czr.re.cs.quickconnect.to
 czrxw.com
 czse7cxw.xyz
+czsljky.com
 czslstechnology.com
 cztanchao.com
 cztxjk.forallgifts.com
@@ -43284,6 +43286,7 @@ data.mediaworld.it
 data.mic.com
 data.minute.ly
 data.mistat.rus.xiaomi.com
+data.mistat.xiaomi.com
 data.mobile.net.zooplus.de
 data.mobiledocker.net.zooplus.de
 data.namesakeoscilloscopemarquis.com
@@ -59912,7 +59915,6 @@ fun327.com
 fun392.com
 fun505.com
 fun530.com
-fun550.com
 fun5500.com
 fun560.com
 fun573.com

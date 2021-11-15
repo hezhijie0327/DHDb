@@ -10363,7 +10363,6 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
-api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -10409,6 +10408,7 @@ api.cloud.189.cn
 api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -15623,7 +15623,6 @@ ccutu.com
 ccv160.com
 ccv168.com
 ccview.net
-ccvita.com
 ccvnn.com
 ccwcw.com
 ccwcyw.com
@@ -28183,7 +28182,6 @@ fvread.com
 fvti.com
 fw-biotech.com
 fw4.me
-fwcdn.com
 fwdq.com
 fwjia.com
 fwone.com

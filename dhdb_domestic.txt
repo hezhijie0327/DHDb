@@ -5431,6 +5431,7 @@
 66tv.tv
 66ui.com
 66wc.com
+66wen.com
 66wz.com
 66xue.com
 66you.com
@@ -11342,7 +11343,6 @@ asr.meituan.com
 asrmicro.com
 asrsingapore.com
 asset.newyx.net
-asset.tantanapp.com
 assets-mayun.b0.aicdn.com
 assets-share.dspunion.com
 assets-share.dspunion.com.wswebcdn.com
@@ -32091,7 +32091,6 @@ helpgamebox1.ksmobile.com
 helpkprotect1.ksmobile.com
 helplinfen.com
 helpton.com
-heluo.cc
 hemabt.com
 hemadaili.com
 hemamax.com

@@ -13815,6 +13815,7 @@ blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
+blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
@@ -14252,7 +14253,6 @@ broadcastlv.chat.bilibili.com
 broadon.net
 broadskytech.com
 brogiao.com
-broker.mqtt.pandora.xiaomi.com
 broker1.sha1.prod.zpath.net
 broker2.sha1.prod.zpath.net
 broker3.sha1.prod.zpath.net

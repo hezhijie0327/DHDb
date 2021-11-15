@@ -25621,6 +25621,7 @@ bidder.mediams.mb.softbank.jp
 bidderrtb.com
 biddr.brealtime.com
 biddyfungussaps.com
+bidfilter.com
 bidgear-syndication.com
 bidgear.com
 bidio.pl
@@ -87059,6 +87060,7 @@ lantern.kronos.com.au
 lantern.kronos.in
 lantern.kronos.mx
 lanternal.com
+lanterncn.cn
 lanternes-thai.com
 lanternpossibly.com
 lantinglou.com

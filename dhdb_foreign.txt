@@ -715,7 +715,6 @@
 1.ad-locus.com
 1.adidevelopments.com
 1.appexchange.com
-1.asia.pool.ntp.org
 1.bb5522.ws
 1.bb6688.ws
 1.car21.net.daraz.com
@@ -19001,7 +19000,6 @@ api.samsungcloud.com
 api.savemedia.website
 api.sbz.vn
 api.sciencemag.org
-api.sec.miui.com
 api.segment.io
 api.server.net.zooplus.de
 api.share2w.com
@@ -33236,7 +33234,6 @@ cdn.sportlabs.online
 cdn.sports-streams-online.club
 cdn.sports-streams-online.xyz
 cdn.sstatic.net
-cdn.static.txhy888.cn
 cdn.static.txhy888.cn.a.lahuashanbx.com
 cdn.static.zdbb.net
 cdn.statically.io
@@ -40509,7 +40506,6 @@ crmonline.actonservice.com
 crmpilot.it
 crmpro.news
 crmrj.net
-crnds.com
 cro.fi-tsunagu.com
 croakflabbyconsume.com
 crocoads.com
@@ -92154,6 +92150,7 @@ lycos.nl
 lycosu.com
 lycosy.com
 lydct.com
+lydcwl.cn
 lydiantemps.co.uk
 lydiz.com
 lyegyo.bluenile.com
@@ -99471,7 +99468,6 @@ miniso.com.es
 miniso.com.gr
 miniso.com.mx
 miniso.com.pl
-miniso.com.py
 miniso.com.tr
 miniso.ge
 miniso.ie
@@ -122850,6 +122846,7 @@ redwingsafety.com
 redwolfmoon.com
 redwood.asia
 redwoodlogistics.com
+redzonechannel.com
 reebok.ru
 reechokelvin.casa
 reedbusiness.com

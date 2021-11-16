@@ -10363,7 +10363,6 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
-api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -16274,7 +16273,6 @@ cgahz.com
 cgangs.com
 cgartt.com
 cgbchina.com.cn
-cgbolo.com
 cgcountry.com
 cgdown.com
 cgdream.org
@@ -50818,6 +50816,7 @@ pegatroncorp.com
 peidu.com
 peilian.com
 peiluyou.com
+peise.net
 peixun.net
 peixun5.com
 peixune.com

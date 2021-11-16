@@ -18879,7 +18879,6 @@ api.graphql.imdb.com
 api.grumft.com
 api.help.priv.net.zooplus.de
 api.hfyhjg.cn
-api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.hybrid.xiaomi.com
@@ -33124,6 +33123,7 @@ cdn.itsup.com
 cdn.izooto.com
 cdn.jotfor.ms
 cdn.jquery-uim.download
+cdn.jsdelivr.net
 cdn.kdkw.jp
 cdn.keywee.co
 cdn.kik.com
@@ -36510,7 +36510,6 @@ closers.nexon.com
 closerweekly.com
 closestfantasticpoll.com
 closetsbydesign.com
-closiner.com
 closkeyrespond.com
 closureevaporatefume.com
 closuremammalfury.com
@@ -56938,6 +56937,7 @@ filtersneak.com
 filthdump.com
 filthslowlycoolly.com
 fim.adnxs.com
+fime2013.com
 fimfiction.com
 fimg-resp.seznam.cz
 fimserve.com
@@ -74814,6 +74814,7 @@ hxkvm.com
 hxlif.com
 hxlives.com
 hxlsw.com
+hxlswibowjf.com
 hxmrys.com
 hxnxxq.tophifi.pl
 hxpetm.vava.cars

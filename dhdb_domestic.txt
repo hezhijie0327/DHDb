@@ -18025,7 +18025,6 @@ client.map.n.shifen.com
 client.qun.qq.com
 client.show.qq.com
 client.stats.yinyuetai.com
-client.tv.uc.cn
 client.wmpvp.com
 client02.pdl.wow.battlenet.com.cn
 client05.pdl.wow.battlenet.com.cn
@@ -47678,7 +47677,6 @@ nba.cn
 nba.emohe.com
 nbabm.com
 nbahi.com
-nbbiao.com
 nbcache00.baidupcs.com
 nbchao.com
 nbcsgo.com
@@ -52705,6 +52703,7 @@ q8vqpahb.v1d.szbdyd.com
 q8vqpzem.v1d.szbdyd.com
 q9y39.cn
 qa.m.jd.com
+qa7mp9j.cn
 qabot.autohome.com.cn
 qacg1359.v1d.szbdyd.com
 qacg1652.v1d.szbdyd.com

@@ -3679,6 +3679,7 @@
 4001006666.com
 4001113900.com
 4001581581.com
+40017.cn
 4001890001.com
 4001961200.com
 400516.com
@@ -18199,6 +18200,7 @@ cltt.org
 club-img.douyucdn.cn
 club-v4.chinanorth.cloudapp.chinacloudapi.cn
 club.bilibili.com
+club.jd.com
 club.jd.com.gslb.qianxun.com
 club.lenovo.com.cn
 club.m.autohome.com.cn
@@ -26303,7 +26305,6 @@ extfans.com
 exthin.net
 extlog.snssdk.com
 extmail.org
-extralog.olclient.baofeng.com
 extshort.weixin.qq.com
 extstars.com
 exuanfang.cc
@@ -42089,6 +42090,7 @@ lfex.com
 lfhacks.com
 lfidc.net
 lfkjgh.com
+lfksqzj.com
 lfl.gg
 lflucky.com
 lfork.com

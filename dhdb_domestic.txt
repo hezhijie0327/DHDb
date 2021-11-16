@@ -8940,7 +8940,6 @@ ahhanmi.com
 ahhdb.com
 ahhhjx.com
 ahhouse.com
-ahhs10000.com
 ahhtzx.com
 ahhxcm.com
 ahjdq.com
@@ -11343,6 +11342,7 @@ asr.meituan.com
 asrmicro.com
 asrsingapore.com
 asset.newyx.net
+asset.tantanapp.com
 assets-mayun.b0.aicdn.com
 assets-share.dspunion.com
 assets-share.dspunion.com.wswebcdn.com
@@ -19381,6 +19381,7 @@ connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
 connectivitycheck.gstatic.com
+connectivitycheck.platform.hicloud.com
 connector-systems.com
 connpm.gj.qq.com
 connps.gj.qq.com

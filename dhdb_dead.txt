@@ -2361,7 +2361,6 @@
 546908.com
 546990.com
 546995.com
-548041.com
 549493.com
 549826.com
 5499.com
@@ -3485,6 +3484,7 @@
 8b26nu.viqiyi.admaster.com.cn
 8b6fxa.viqiyi.admaster.com.cn
 8b8a4a.viqiyi.admaster.com.cn
+8baf7ae42000024.com
 8baogao.com
 8bcd9.com
 8bef5bb6b351ca5e.com
@@ -5082,7 +5082,6 @@ add.mmyuer.com
 add.sina.com.cn
 add9758e3230f1aed493efbc4ab3d07d.jddebug.com
 addabe3a69732c9e5b28416245ac347a6c19bd1ffe3c26f7.dlied1.cdntips.net
-addan.xyz
 addata.mediacategory.com
 addclips.org
 addcocgems.com
@@ -9596,7 +9595,6 @@ bdxs.playnetx.cn
 bdydns.cn
 bdydns.com
 bdydns.net
-bdyjxghwfbyups.com
 bdysite.com
 bdzhhjnml.pw
 be-mine.ru
@@ -17899,6 +17897,7 @@ dnsapi.info
 dnsapple.com
 dnsapple.net
 dnsceo.net
+dnscepat.id
 dnscheck.adguard.com
 dnsclocknow.com
 dnscom.work

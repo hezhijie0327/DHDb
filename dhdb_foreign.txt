@@ -19253,7 +19253,6 @@ app-hack.com
 app-lon07.marketo.com
 app-sales.net
 app-sdylqipai3917.com
-app-site-association.g.aaplimg.com
 app-sj05.marketo.com
 app-sj06.marketo.com
 app-sj13.marketo.com
@@ -36628,7 +36627,6 @@ cloudflarestream.com
 cloudflarewarp.com
 cloudflareworkers.com
 cloudflight.io
-cloudfoundry.com
 cloudfront-c.ns.emailvision.net.daraz.com
 cloudfront-labs.amazonaws.com
 cloudfront-lib-ln-1.net.daraz.com
@@ -43836,6 +43834,7 @@ db52cc91beabf7e8.com
 db577.com
 db64500e2426cf.com
 db8866.com
+db9db.com
 dba.dk
 dbaeumer.gallery.vsassets.io
 dbaeumer.gallerycdn.vsassets.io

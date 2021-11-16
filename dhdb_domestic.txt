@@ -2200,7 +2200,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.asia.pool.ntp.org
 2.bashenghuo.com
 2.haoxue360.com
 2.nanrenwo.net
@@ -2965,6 +2964,7 @@
 315003.com
 3150315.com
 315034.com
+315166.com
 31526920.qc.x.bsgslb.cn
 315269b8.qc.x.bsgslb.cn
 3152b50a.qc.x.bsgslb.cn
@@ -10627,7 +10627,6 @@ api.xunyou.mobi
 api.yangkeduo.com
 api.ydl.com
 api.yfscdn.net
-api.yidiansurong.com
 api.youke.co
 api.youku.com
 api.youtu.qq.com
@@ -25765,7 +25764,6 @@ english.cctv.com
 english.gov.cn
 english.sina.com
 english.sogou.com
-engliship4u.com
 englishtownpromotion.com
 engz.net
 enhancement.rili.cn
@@ -26607,7 +26605,6 @@ fangdaijisuanqi.net
 fangdd.com
 fangdede.com
 fangdr.com
-fange.icu
 fangfa.net
 fangfanwang.com
 fanghua1.suning.com
@@ -33866,6 +33863,7 @@ huitouzi.com
 huitu.com
 huiun.com
 huiurl.com
+huivo.com
 huiwo.com
 huiword.com
 huixian.anjuke.com
@@ -35438,6 +35436,7 @@ ileedarson.com
 ileehoo.com
 ilego.club
 ilepai.com
+ilewan.com
 iliangcang.com
 ilibrand.com
 ilidubj.net
@@ -43430,6 +43429,7 @@ loveota.com
 lovepd.com
 lovestu.com
 loveteemo.com
+loveunix.net
 lovev.com
 lovewith.me
 lovewj.info

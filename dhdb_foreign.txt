@@ -169,7 +169,6 @@
 01jud3v55z.com
 01ke.com
 01net.com
-01tao.com
 01tingshu.com
 01wb.com
 02-all-seed-gc-us-03.cdn.gaijin.net
@@ -15872,6 +15871,7 @@ aj2142.online
 aj2178.online
 aj2204.online
 aj2208.online
+aj2275.online
 aj2345.online
 aj2373.online
 aj2392.online
@@ -18868,7 +18868,6 @@ api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
 api.fw.tv
-api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.getter-priv.net.zooplus.de
@@ -88614,6 +88613,7 @@ lequxs.com
 lerenzx.cn
 lerian-nti.be
 leroycu.ca
+lerrdoriak.com
 lers.google
 les-experts.com
 les-malins-du-jour.com

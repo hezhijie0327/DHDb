@@ -5319,6 +5319,7 @@
 63hh.net
 63kc.com
 63pe.com
+63pic.com
 63rr.net
 63tl.com
 63yx.com
@@ -21372,6 +21373,7 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
+data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -54172,6 +54174,7 @@ qs.xiangzhuan999.cn
 qs12315.com
 qs7dkolx9nv6nqywzvsvgakfjsgwa9jj.yundunwaf5.com
 qs921.com
+qsb.browser.miui.com
 qsbank.cc
 qsbbs.net
 qsbdc.com

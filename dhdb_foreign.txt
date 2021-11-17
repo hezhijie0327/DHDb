@@ -4,7 +4,6 @@
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
-0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -18679,6 +18678,7 @@ aphookkensidah.pro
 aphycolourses.info
 api-2-0.spot.im
 api-3-0-0.twitter.com
+api-a.op-mobile.opera.com
 api-adservices.apple.com
 api-analytics-bootstrap.metaps.com
 api-analytics.metaps.com
@@ -71687,6 +71687,7 @@ helpuyghursnow.org
 helpx.adobe.com
 helpzhuling.org
 helsana.ch
+heluo.cc
 heluowenhua.net
 helvetia.com
 helvetinus.com
@@ -103879,6 +103880,7 @@ ndtv.com
 ndtv1.com
 ndungndung.com
 nduop.com
+ndusa.cn
 ndyzz.com
 ndz.de
 ne.5.p2l.info

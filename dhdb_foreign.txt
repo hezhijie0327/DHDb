@@ -18870,7 +18870,6 @@ api.fw.tv
 api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
-api.geetest.com
 api.getter-priv.net.zooplus.de
 api.gfe.nvidia.com
 api.gimbal.com
@@ -37940,6 +37939,7 @@ colvk.viki.io
 com-article906773.us
 com-directory.co
 com-host.info
+com-l-qq.com
 com-promotions.us
 com-wkejf32ljd23409system.net
 com.ag
@@ -49026,7 +49026,6 @@ dynamicyield.com
 dynamiteclothing.com
 dynamitedata.com
 dynamitedepressionweapons.com
-dynamitematerialisticwriting.com
 dynamodb.ap-northeast-1.amazonaws.com
 dynarex.com
 dynasys.org
@@ -63465,7 +63464,6 @@ globalxetfs.com
 globant.com
 globase.com
 globat.com
-globeac.com
 globeandmail.ca
 globeandmail.com
 globecartoon.com

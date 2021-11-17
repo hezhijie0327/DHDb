@@ -2903,6 +2903,7 @@
 3.3322722.com
 3.39zuoye.com
 3.5646.cn
+3.cn.pool.ntp.org
 3.iscrv.com
 3.pic.pc6.com
 3.ssqzj.com
@@ -20207,7 +20208,6 @@ ctoclub.com
 ctoutiao.com
 ctr.hd.sohu.com
 ctrack.bxsnews.com
-ctrip-lvyou.com
 ctrip.cn
 ctrip.com
 ctripa.com

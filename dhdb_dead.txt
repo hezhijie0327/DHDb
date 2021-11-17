@@ -14195,7 +14195,6 @@ com-jy-youku.com
 com-l-163.com
 com-l-ifeng.com
 com-l-iqiyi.com
-com-l-qq.com
 com-l-tudou.com
 com-l-youku.com
 com-ml-zyw.com
@@ -18838,6 +18837,7 @@ dynameex.com
 dynamic-advertising.de
 dynamic-ip.xyz
 dynamicdns.biz
+dynamitematerialisticwriting.com
 dynapis.com
 dynatracesaas.com
 dyndns.work
@@ -24134,6 +24134,7 @@ globaltakeoff.net
 globalteaser.com
 globalteaser.ru
 globbiz.cn
+globeac.com
 globeauto.org
 globepv.com
 globire.info

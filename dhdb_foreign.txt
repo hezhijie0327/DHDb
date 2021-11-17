@@ -18880,7 +18880,6 @@ api.help.priv.net.zooplus.de
 api.hfyhjg.cn
 api.hubapi.com
 api.hubspot.com
-api.hybrid.xiaomi.com
 api.identitynow.com
 api.imqtyik.com
 api.infinario.com
@@ -62129,7 +62128,6 @@ geoip.cookieyes.com
 geoip.finanzen.net
 geoip.fotoable.net
 geoip.gulflive.com
-geoip.herewetest.com
 geoip.hmageo.com
 geoip.ifunny.co
 geoip.inquirer.net
@@ -70091,6 +70089,7 @@ h5.069ld.com
 h5.070ld.com
 h5.071ld.com
 h5.073ld.com
+h5.074ld.com
 h5.076ld.com
 h5.078ld.com
 h5.079ld.com
@@ -107711,6 +107710,7 @@ o8.hyatt.com
 o8ak.com
 o8dlu8.com
 o8p5.alan.etowns.org
+o9jfju28l.hualongyichuangkj.com
 oa-stc.zdn.vn
 oa.no
 oa025.com
@@ -117371,6 +117371,7 @@ printeron.com
 printerplasma.com
 printersetupsupport.com
 printfriendly.com
+printmail.biz
 printmeantime.com
 printreact.com
 printscr.com

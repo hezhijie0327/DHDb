@@ -10810,6 +10810,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.cdn-apple.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -27887,7 +27888,6 @@ frhelper.com
 friendeye.com
 fringe-zero.com
 frishoes.com
-fristlvy.com
 frlh168.com
 frntgq1w.sched.s2-dk.tdnsv5.com
 frombyte.com
@@ -31099,6 +31099,7 @@ haitou.cc
 haitoujia.com
 haituie.com
 haituncun.com
+haitundr.com
 haitunshenghuo.com
 haituntui.com
 haitunvoice.com
@@ -40659,7 +40660,6 @@ kongjianjia.com
 kongjie.com
 kongming-inc.com
 kongnar.com
-kongqingquan.com
 kongquecheng.com
 kongqueyuzd.cc
 kongtiao365.com

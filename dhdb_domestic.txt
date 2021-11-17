@@ -10299,7 +10299,6 @@ api-cn.store.heytapmobi.com
 api-cn1.mpay.samsung.com.cn
 api-cname.growingio.com
 api-crep.ke.com
-api-dd.jd.com
 api-dd.jd.com.gslb.qianxun.com
 api-e189.21cn.com
 api-edge.apps.apple.com.cdn20.com
@@ -10404,7 +10403,6 @@ api.cloud.189.cn
 api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
-api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -23004,7 +23002,6 @@ dm.oadz.com
 dm.pstatp.com
 dm.sanwen8.com
 dm.sg92.com
-dm.taobaojuhuasuan.cn
 dm.toutiao.com
 dm.toutiao.com.w.cdngslb.com
 dm.toutiao.com.w.cdngslb.com.c.cdnuyun.cn
@@ -37896,7 +37893,6 @@ jian18.mumu01.com
 jianai360.com
 jianbaizhan.com
 jianbaolife.com
-jianbh.com
 jianbihua.com
 jianbihua.org
 jianbihua360.com
@@ -41396,6 +41392,7 @@ langlang.cc
 langlangjiajiao.com
 langlib.com
 langlive.com
+langlvseo.com
 langmanzg.com
 langren.net
 langren001.com

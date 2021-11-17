@@ -18881,7 +18881,6 @@ api.graphql.imdb.com
 api.grumft.com
 api.help.priv.net.zooplus.de
 api.hfyhjg.cn
-api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.hybrid.xiaomi.com
@@ -81326,6 +81325,7 @@ itechzero.com
 iteedu.com
 itellyou.cn
 item.exchange
+item.m.jd.com
 item24.be
 item24.de
 item24.fr
@@ -92482,7 +92482,6 @@ m.ihais.com
 m.ilife.cn
 m.infvb.com
 m.irl.com
-m.ishowms.com
 m.iwon88.com
 m.j5s9b.cn
 m.jbb006666.com

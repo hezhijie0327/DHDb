@@ -1,6 +1,5 @@
 0-100.com
 0-6.com
-0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
 0.up.qingdaonews.com
@@ -10728,6 +10727,7 @@ apis1.ksapisrv.com
 apis2.gifshow.com
 apis2.ksapisrv.com
 apisgame.iqiyi.com
+apisnd.heytapmobi.com
 apisoft.df0535.com
 apissl.gifshow.com
 apissl.ksapisrv.com
@@ -12458,7 +12458,6 @@ basic-service.baidu.com
 basicfinder.com
 basketball-message.liangle.com
 bat.nfcos.net.cn
-bat120.com
 batch-rgeo.is.autonavi.com
 batch-rgeo.is.autonavi.com.gds.alibabadns.com
 bathome.net
@@ -45904,7 +45903,6 @@ mindmapper.cc
 mindmeters.com
 mindmm.com
 mindpin.com
-mindray.com
 mindstore.io
 minecraft.m.gamedog.cn
 minecraftxz.com
@@ -56045,7 +56043,6 @@ rss.ink
 rss.lizhi.fm
 rsscc.com
 rssmeet.com
-rssmv.com
 rst2.y3600.cn
 rsty77.com
 rsuesely.dispatch.spcdntip.com

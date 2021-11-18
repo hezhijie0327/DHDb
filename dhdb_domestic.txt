@@ -18391,7 +18391,6 @@ cms.sina.cn
 cms.tanx.com
 cms.v5.juzi.cn
 cms1924.org
-cms1api.dmall.com
 cms2012.bnu.edu.cn
 cmsapi.dmall.com
 cmsapi.wifi8.com
@@ -20996,7 +20995,6 @@ dafy.com
 dagangcheng.com
 dagaqi.com
 dagongcredit.com
-dagonghuzhu.com
 daguu.com
 daguzhe.com
 dahainan.com
@@ -35646,7 +35644,6 @@ images.uc.cn
 images2015.cnblogs.com
 images2017.cnblogs.com
 images2018.cnblogs.com
-images3.c-ctrip.com
 images3.c-ctrip.com.a.bdydns.com
 images3.c-ctrip.com.cdn20.com
 images4.c-ctrip.com

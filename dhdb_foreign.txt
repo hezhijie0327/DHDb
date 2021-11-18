@@ -13227,7 +13227,6 @@ ads.linktracking.net
 ads.linuxjournal.com
 ads.live365.com
 ads.livenation.com
-ads.lll5.ir
 ads.lomadee.com
 ads.lycos.com
 ads.ma7.tv
@@ -20656,7 +20655,6 @@ asia.monerise.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
-asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -46216,6 +46214,7 @@ disillusionworn.com
 disinheritacquaintancechop.com
 disinterestedreflectionmuscle.com
 disk.yandex.com
+diskgenius.com
 diskgirl.com
 diskocudc.duckdns.org
 disksing.com

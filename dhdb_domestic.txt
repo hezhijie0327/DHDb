@@ -10815,6 +10815,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -33018,7 +33019,6 @@ hongru.com
 hongsanban.com
 hongsejiqing.com
 hongshi-tech.com
-hongshi33.top
 hongshn.xyz
 hongshu.com
 hongshunet.com

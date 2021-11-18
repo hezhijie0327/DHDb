@@ -8022,6 +8022,7 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
+account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -11418,7 +11419,6 @@ atanx2.alicdn.com
 ataoju.com
 ataozx.com
 atatech.org
-atayt.com
 atcc360.com
 atchip.com
 atcontainer.com
@@ -15920,7 +15920,6 @@ cdn.wup.huya.com
 cdn.wuxiqiangheng.com
 cdn.wwads.cn
 cdn.xianliao.me
-cdn.xiaoz.me
 cdn.ycxjtd.com
 cdn.ynuf.aliapp.org
 cdn.ynuf.aliapp.org.w.alikunlun.com
@@ -16539,7 +16538,6 @@ chashebao.com
 chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
-chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
@@ -42035,6 +42033,7 @@ letyo.com
 leuok.com
 levect.com
 levelup.cn
+levyhsu.com
 lewaimai.com
 lewanduo.com
 lewang.ltd
@@ -44793,6 +44792,7 @@ maoyiwang.com
 maoyouhui.cc
 maoyun.com
 maoyuncloud.com
+maoyundns.com
 maozhuar.com
 maozhuashow.com
 map-mobile-lbsapp.cdn.bcebos.com
@@ -52116,7 +52116,6 @@ pt-starimg.didistatic.com
 pt.5211game.com
 pt.clickdata.37wan.com
 pt.pc6.com
-pt80.net
 ptback.api.autohome.com.cn
 ptc-asia.com
 ptdsh.com

@@ -1364,6 +1364,7 @@
 133a436e197e25793fe8538eb2c69f46.clo.footprintdns.com
 133uu.com
 134.78.116.150.zz.countries.nerd.dk
+135-139.com
 135.83.145.119.zz.countries.nerd.dk
 1356net.com
 135995.com
@@ -7156,7 +7157,6 @@
 8455261.biz
 8462d0b3cc90c90.com
 8466.com
-8473674.com
 849959.com
 84ktv.com
 84lm.com
@@ -8500,7 +8500,6 @@ a-ups-presencecore3-prod-azsc.japaneast.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.southeastasia.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.eastus.cloudapp.azure.com
-a-ups-presencecore4-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.japaneast.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.southeastasia.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.centralus.cloudapp.azure.com
@@ -26515,7 +26514,6 @@ bitwarden.com
 bitx.tv
 bitxtv.site
 bityun.org
-bitz.ai
 bitzad.com
 biubiubiu.org
 bivean.com
@@ -70964,6 +70962,7 @@ hash-hash-tag.com
 hash.minexmr.stream
 hash.qualia.id
 hashbase.io
+hashcloud.cz
 hashcloud.in
 hashcloud.one
 hashcoding.net
@@ -110627,7 +110626,6 @@ osmondards.pro
 osmsg.com
 osmworldwide.com
 osmy.net
-osndy.com
 osniffer.pro
 osorhan.com
 osoujihonpo.com

@@ -14754,7 +14754,6 @@ c.piliangzhuce.cn
 c.queene.cn
 c.sayhi.360.cn
 c.ssp.qq.com
-c.sssgao999.com
 c.sy123888.com
 c.taiquandao1.cn
 c.tdm.qq.com
@@ -18732,7 +18731,6 @@ cnfaxie.org
 cnfczn.com
 cnfdlt.com
 cnfeol.com
-cnfiberhome.com
 cnfina.com
 cnfirst.org
 cnfish.com
@@ -48845,6 +48843,7 @@ o2moment.com
 o2o-ad-clicking.alibaba.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
+o2o.api.xiaomi.com
 o2o.keloop.cn
 o2oexpo.com
 o2osd.com

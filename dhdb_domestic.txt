@@ -14777,6 +14777,7 @@ c.zlongad.com
 c0.3.cn
 c0.3.cn.gslb.qianxun.com
 c0.ifengimg.com
+c01.i01.ctlsh.lv3.cloudglb.com
 c02.3dwwwgame.com
 c0736c2b3516e0d225569220270acced.safeframe.googlesyndication.com
 c0de4fun.com
@@ -21940,6 +21941,7 @@ detail.tmall.com.danuoyi.tbcache.com
 detail.zol.com.cn
 detailskip.taobao.com
 detailskip.taobao.com.danuoyi.tbcache.com
+detatu.com
 detdr2l5.v1d.szbdyd.com
 detect.mb.qq.com
 detian-chem.com
@@ -24762,7 +24764,6 @@ e.fengyx.com
 e.gitee.com
 e.ishansong.com
 e.joyxv.com
-e.k2wx5.cn
 e.kuaishou.com
 e.miaoxinqipei.com
 e.ninebox.cn
@@ -44812,6 +44813,7 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
+mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn

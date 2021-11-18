@@ -25725,6 +25725,7 @@ bi-si11.xyz
 bi-si2.xyz
 bi-si7.xyz
 bi-si777.xyz
+bi-si8.xyz
 bi-si888.xyz
 bi-si9.xyz
 bi-si999.xyz
@@ -41288,6 +41289,7 @@ ctr.nmg.de
 ctrack.trafficjunky.net
 ctrb.jscdndel.com
 ctrhub.com
+ctrip-lvyou.com
 ctrip.co.id
 ctrip.co.kr
 ctrip.co.th
@@ -99217,7 +99219,6 @@ minelli.fr
 minently.com
 minepi.com
 miner-deu-1.inf.nimiq.network
-miner-deu-7.inf.nimiq.network
 miner.beeppool.org
 miner.cryptobara.com
 miner.nablabee.com
@@ -111674,6 +111675,7 @@ padsans.com
 padsanz.com
 padsats.com
 padsatz.com
+padsblue.com
 padsbrown.com
 padsdel2.cdnads.com
 padsdelivery.com

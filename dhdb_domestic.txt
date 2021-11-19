@@ -6500,6 +6500,7 @@
 887w.com
 888.tv.sohu.com
 888.zc9066.com
+88818122.cn
 88845678.com
 8888800000.com
 888lianmeng.com
@@ -10818,7 +10819,6 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -13736,6 +13736,7 @@ bjtyzh.org
 bjunionstar.net
 bjuri.com
 bjuser.jpush.cn
+bjweimob.com
 bjweixindk.com
 bjweizhifu.com
 bjwkzl.com
@@ -24165,6 +24166,7 @@ duer-kids.baidu.com
 duer-music.cdn.bcebos.com
 dueros-h2.baidu.com
 dueros-voice.baidu.com
+dugoogle.com
 duguoxue.com
 duguying.net
 duhao.net
@@ -32933,7 +32935,6 @@ home.115.com
 home.51cto.com
 home.console.aliyun.com
 home.httpcn.com
-home.m.jd.com
 home.m.jd.com.gslb.qianxun.com
 home.meishichina.com
 home.mi.com

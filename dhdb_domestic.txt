@@ -29031,6 +29031,7 @@ genshuixue.com
 gentags.com
 gentags.net
 geo-drcn.platform.hicloud.com
+geo.accdn.livepersonk.akadns.net
 geo.dbankcdn.com
 geo.gridsumdissector.com
 geo.hicloud.com
@@ -32016,7 +32017,6 @@ heimaol.com
 heimaying.com
 heimeiai.com
 heimizhou.com
-heimo.rrsdl.com
 heiniubao.com
 heisha.net
 heishenhua.com
@@ -32578,7 +32578,6 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -38737,6 +38736,7 @@ jmdardu.cn
 jmdedu.com
 jmeii.com
 jmf6.com
+jmfans.com
 jmgle.com
 jmgo.com
 jmhai.com

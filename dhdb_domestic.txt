@@ -8025,7 +8025,6 @@ account.sogou.com
 account.synology.cn
 account.umeng.com
 account.wps.cn
-account.xiaomi.com
 account.youdao.com
 account.youku.com
 account.zhihu.com
@@ -40614,7 +40613,6 @@ knet.cn
 knewbi.com
 knewone.com
 knewsmart.com
-knicks.jd.com
 knicks.jd.com.gslb.qianxun.com
 knja123.top
 know88.com

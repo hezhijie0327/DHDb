@@ -2386,6 +2386,7 @@
 2.4.je
 2.adam.com
 2.android.pool.ntp.org
+2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -44762,7 +44763,6 @@ deguanlighting.manufacturer.globalsources.com
 deguisetoi.fr
 degulesider.dk
 degustalarioja.com
-dehacks.com
 dehainaut.org
 dehner.de
 dehua.ixinfan.com
@@ -49285,6 +49285,7 @@ dwz.mn
 dx.com
 dx.thermofisher.com
 dx00.live
+dx2.cc
 dx2.cc.w.kunluncan.com
 dx6uy6q3udhkj.cloudfront.net
 dx7711.com
@@ -90044,7 +90045,6 @@ liehu.tv
 liejournal.com
 lieliu.com
 liendans.com
-lienew.com
 liepinoverseas.com
 lieqitianxia.cn
 lierenzy.fun
@@ -121091,6 +121091,7 @@ qingtian16265.com
 qingtin.com
 qingtingtrip.com
 qingyangmovie.be
+qingyanmjg.com
 qingyungou.com
 qingzhencai.net
 qingzhouaote.com

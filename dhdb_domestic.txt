@@ -7525,6 +7525,7 @@ a.hecdn.net
 a.hecdn.net.w.kunlunso.com
 a.hexuntech.cn
 a.hiphotos.baidu.com
+a.huocheba.com
 a.img.static.youmi.net
 a.imgso.cn
 a.iy.com.cn
@@ -9863,6 +9864,7 @@ analytics-api.samsunghealthcn.com
 analytics-api.smzdm.com
 analytics-china.com
 analytics.163.com
+analytics.300624.com
 analytics.95516.com
 analytics.95516.com.wscdns.com
 analytics.agoda.com

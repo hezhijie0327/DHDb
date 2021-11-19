@@ -37337,7 +37337,6 @@ ixiaolu.com
 ixiaoyuanzhi.com
 ixiatxt.com
 ixigua.com
-ixiguan.com
 iximo.com
 ixingji.com
 ixingpan.com
@@ -44124,7 +44123,6 @@ m.ithome.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
-m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
@@ -44253,7 +44251,6 @@ m.uczzd.cn
 m.umbbs.cn
 m.v.qq.com
 m.vaxyz.com
-m.vchiy.com
 m.video.xiaomi.com
 m.vmall.com
 m.wandoujia.com
@@ -51016,6 +51013,7 @@ phpcj.org
 phpcn2020.oss-cn-hangzhou.aliyuncs.com
 phpcom.net
 phpcomposer.com
+phpcomposer.net
 phpconchina.com
 phpcoo.com
 phpcto.org

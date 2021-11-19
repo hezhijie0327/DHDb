@@ -10934,7 +10934,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -14098,7 +14097,6 @@ bookingtee.com
 bookinlife.net
 bookkeeper.itunes.apple.com.mwcname.com
 bookmark.115.com
-bookqi.com
 books.studygolang.com
 bookschina.com
 bookshadow.com
@@ -18879,7 +18877,6 @@ cnnfootballclub.com
 cnnmol.com
 cnnpz.com
 cnns.net
-cnoee.com
 cnoenet.com
 cnohd.com
 cnoic.com
@@ -33461,6 +33458,7 @@ huaaosoft.com
 huaaotech.com
 huaat.com
 huabaike.com
+huaban.com
 huabanimg.com
 huabanpro.com
 huabian.com
@@ -48897,7 +48895,6 @@ ocri-genomics.org
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
 ocsp-lb.apple.com.akadns.net
-ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.cfca.com.cn
 ocsp.crlocsp.cn
@@ -49683,7 +49680,6 @@ osx.dianping.com
 osx.dianping.com.s2txipv6.cdntip.com
 osx.dpfile.com
 osx.dpfile.com.s2txipv6.cdntip.com
-osxapps.itunes.apple.com
 osxapps.itunes.apple.com.download.ks-cdn.com
 osxapps.itunes.apple.com.w.alikunlun.com
 osxapps.itunes.apple.com.w.alikunlun.com.qr.uuhimalayanqm.com
@@ -61658,7 +61654,6 @@ syshospital.com
 syshospital.org
 sysight.com
 sysjdjy.com
-sysmk120.com
 sysppc.com
 sysrsksy.com
 systoon.com

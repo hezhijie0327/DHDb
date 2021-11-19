@@ -13244,7 +13244,6 @@ big1.ifengcdn.com
 bigaka.com
 bigan.net
 bigbaicai.com
-bigbaicai.wang
 bigbenmeng.com
 bigbigsun.com
 bigbigwork.com
@@ -14206,6 +14205,7 @@ bozhong.com
 bp-api.coohua.com
 bp576.com
 bphetaomiao.com
+bppstore.com
 bps.jd.com
 bpsemi.com
 bpteach.com
@@ -22564,7 +22564,6 @@ dimg04.c-ctrip.com.a.bdydns.com
 dimg04.c-ctrip.com.wscdns.com
 dimg05.c-ctrip.com
 dimg05.c-ctrip.com.wscdns.com
-dimg06.c-ctrip.com
 dimg06.c-ctrip.com.wscdns.com
 dimg07.c-ctrip.com.wscdns.com
 dimg08.c-ctrip.com
@@ -22821,6 +22820,7 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
+dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -41197,6 +41197,7 @@ kyppt.com
 kypzu.cn
 kyriba.cn
 kysec.cn
+kytijian.com
 kyw4y0s.com
 kyxdloan.com
 kyy6.com
@@ -48435,7 +48436,6 @@ nmhfw.com
 nmkjxy.com
 nmmwz.com
 nmobi.kuwo.cn
-nmpcdn.com
 nmqbg.com
 nmsearch.kuwo.cn
 nmszjy.com
@@ -50678,7 +50678,6 @@ pcgogo.com
 pcgta.cc
 pch.qpic.cn
 pchome.com
-pchome.net
 pcidata.cn
 pciiss.com
 pcitc.com

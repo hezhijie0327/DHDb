@@ -22816,7 +22816,6 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
-dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -24505,6 +24504,7 @@ dwfei.com
 dwgk.sspu.edu.cn
 dwinput.com
 dwjq.com.cn
+dwmoniqi.com
 dwntme.com
 dwq.com
 dwrh.net
@@ -34615,6 +34615,7 @@ i52tt.com
 i574ou0.cdnnodedns.cn
 i5i6.net
 i5zhen.com
+i6.weather.oppomobile.com
 i618.com.cn
 i7.3conline.com
 i7aot4.com

@@ -4028,6 +4028,7 @@ a-ups-presencecore0-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.australiaeast.cloudapp.azure.com
 a-ups-presencecore10-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presencecore13-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore13-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.eastus2.cloudapp.azure.com
@@ -4712,6 +4713,7 @@ ad.accessmediaproductions.com
 ad.aceplanet.co.kr
 ad.ad-arata.com
 ad.ad-ya.net
+ad.ad4989.co.kr
 ad.adfunky.com
 ad.adhouyi.cn
 ad.adinc.kr
@@ -9238,7 +9240,6 @@ banxf.com
 banzaiadv.it
 banzd.com
 banzhuren365.com
-bao-jian.net
 bao100.com
 bao21.com
 bao5858.com
@@ -18799,7 +18800,6 @@ dwabissw.com
 dwarsxej7uvpt.cloudfront.net
 dwepmhhyigfb.com
 dwjoy.com
-dwmoniqi.com
 dwnews.net
 dwnld24.com
 dwnlds.co
@@ -29991,6 +29991,7 @@ jokersick.fun
 jollyac.com
 jollyspring.com
 jomocdn.net
+jonasahalockup.com
 jongta.com
 jonjo.ga
 joolupid.com

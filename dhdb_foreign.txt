@@ -8425,7 +8425,6 @@
 9ywp.com
 9zqhb3hba48m0c382uno7k2t74isfi.ext-twitch.tv
 9zwang.com
-9zx.com
 a-0001.a-afdentry.net.trafficmanager.net
 a-0001.a-msedge.net
 a-0001.dc-msedge.net
@@ -8499,7 +8498,6 @@ a-ups-presencecore1-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore11-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore11-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.centralus.cloudapp.azure.com
-a-ups-presencecore13-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore14-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore14-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore2-prod-azsc.eastus2.cloudapp.azure.com
@@ -11087,7 +11085,6 @@ ad.abum.com
 ad.accesstrade.vn
 ad.activetk.cf
 ad.ad-stir.com
-ad.ad4989.co.kr
 ad.adfurikun.jp
 ad.adition.net
 ad.admitad.com
@@ -23811,6 +23808,7 @@ banyan.com
 banyantreatmentcenter.com
 banzai.it
 banzouku.com
+bao-jian.net
 bao1616.com
 bao369.com
 baobaoshu.com
@@ -84162,7 +84160,6 @@ jomego.com
 jomodns.com
 jomsocial.com
 jomtingi.net
-jonasahalockup.com
 jonasschnelli.ch
 jonathancervantes.me
 jonatin.com

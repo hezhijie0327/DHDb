@@ -1409,7 +1409,6 @@
 15w.com
 15wz.com
 15xdd.com
-15yc.com
 15yl.com
 16.au.download.windowsupdate.com
 16.tlu.dl.delivery.mp.microsoft.com
@@ -21373,7 +21372,6 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
-data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -42307,6 +42305,7 @@ lieluobo.com
 liemingwang.com
 liepin.com
 liepincc.com
+lieqinews.com
 liesauer.net
 lietou-edm.com
 lietou-static.com
@@ -56766,7 +56765,6 @@ sandingtv.com
 sandworld.net
 sandwych.com
 sanen.online
-sanerer.com
 sanfen666.com
 sanfengyun.com
 sanfo.com

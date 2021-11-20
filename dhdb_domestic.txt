@@ -10401,7 +10401,6 @@ api.biliapi.net
 api.bilibili.com
 api.biligame.com
 api.bs.zui.com
-api.btstu.cn
 api.bz
 api.callget.cn
 api.che168.com
@@ -19495,6 +19494,7 @@ coral2.uc.cn
 core-ucloud.tantanapp.com
 core.bilivideo.com
 core.cloud.unity.cn
+core.tantanapp.com
 corebai.com
 corebug.adsame.com
 coreldrawchina.com
@@ -21372,6 +21372,7 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
+data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -45939,7 +45940,6 @@ mingliwenhua.com
 mingluji.com
 minglushaoyafan.top
 mingmen-tech.com
-mingqingxiaoshuo.com
 mingqizhongyi.com
 mingren888.com
 mingrenziliao.com
@@ -48830,6 +48830,7 @@ o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
 o2o.api.xiaomi.com
 o2o.keloop.cn
+o2o4.com
 o2oexpo.com
 o2osd.com
 o2ting.com

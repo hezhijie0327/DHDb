@@ -13294,6 +13294,7 @@ bihoo.com
 bihu-static.com
 bihu.com
 bihubao.com
+bihutg.com
 biikan.com
 bij.fang.anjuke.com
 biji.com
@@ -39184,6 +39185,7 @@ jscode.acg68.com
 jscode.jbzj.com
 jscode.jbzj.com.cname3097.yjs-cdn.com
 jscss.jd.com
+jscssimg.com
 jscts.com
 jsdaima.com
 jsdjt.jschina.com.cn
@@ -41236,6 +41238,7 @@ l3-prod-patch-gzlj.bilibiligame.net
 l3-prod-patch-gzlj.bilibiligame.net.cdntip.com
 l3-prod-patch-gzlj.bilibiligame.net.sched.s7t.tdnsv5.com
 l36h.com
+l3gqgd.cn
 l3s2.hy.qcloudcdn.com
 l4dk40faecw9jp.mwcname.com
 l4elb.cn
@@ -50439,7 +50442,6 @@ partner.googleadservices.com
 partner.toutiao.com
 partnerad.l.doubleclick.net
 partnerad.l.google.com
-partnerdownload.xunyou.com
 partners.sina.cn
 partnership.sspu.edu.cn
 pas.suning.com

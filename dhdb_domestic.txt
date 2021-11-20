@@ -10458,6 +10458,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hyhuo.com
 api.iapps.ifeng.com
@@ -28061,6 +28062,7 @@ fun371.com
 fun379.com
 fun501.com
 fun551.com
+fun562.com
 fun566.com
 fun571.com
 fun606.com
@@ -44969,7 +44971,6 @@ maxlicheng.com
 maxscend.com
 maxsys.adsame.com
 maxthon.cn
-maxthonimg.com
 maxuscloud.com
 maxvinch.com
 maxwealthfund.com

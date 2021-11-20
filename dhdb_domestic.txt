@@ -3271,6 +3271,7 @@
 363.com
 363322014.com
 363u.com
+364000.com
 36500.com
 36500.net
 365128.com
@@ -18101,6 +18102,7 @@ cloudcache.tencentcs.com
 cloudcc.com
 cloudcdn.dopa.com
 cloudcdn.dopa.com.cn
+cloudcdn.net
 cloudcfg.yfp2p.net
 cloudconf.fengkongcloud.com
 cloudconfig.mta.qq.com
@@ -33086,6 +33088,7 @@ hostker.com
 hostkvm.com
 hostproph.com
 hostxen.com
+hot.browser.miui.com
 hot.m.shouji.360tpcdn.com
 hotchat-im.iqiyi.com
 hotdb.com
@@ -37782,7 +37785,6 @@ jfqkj.com
 jfrogchina.com
 jfsm5.top
 jfstatic.com
-jftnz.com
 jfuwu.com
 jfyiyao.com
 jfz.com
@@ -46402,7 +46404,6 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
-mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com

@@ -1,5 +1,6 @@
 0-100.com
 0-6.com
+0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
 0.up.qingdaonews.com
@@ -16988,7 +16989,6 @@ chinaconch.com
 chinacourt.org
 chinacpda.com
 chinacpda.org
-chinacpec.com
 chinacpx.com
 chinacqsb.com
 chinacrane.net
@@ -33089,7 +33089,6 @@ hostker.com
 hostkvm.com
 hostproph.com
 hostxen.com
-hot.browser.miui.com
 hot.m.shouji.360tpcdn.com
 hotchat-im.iqiyi.com
 hotdb.com
@@ -48754,6 +48753,7 @@ nxcells.com
 nxdns.net
 nxecaiji.com
 nxes.mercury.sogou.com
+nxez.com
 nxflv.com
 nxggzyjy.org
 nxgqt.org

@@ -10853,7 +10853,6 @@ app.knights.mi.com
 app.kwaixiaodian.com
 app.lz55.cn
 app.m.letv.com
-app.market.xiaomi.com
 app.mengtuiapp.com
 app.mi.com
 app.moji001.com
@@ -14215,7 +14214,6 @@ bqb12.com
 bqdcdn.allinfinance.com
 bqgimgs1.cdn.bcebos.com
 bqiapp.com
-bql999.com
 bqpoint.com
 bqq.gtimg.com
 bqq.gtimg.com.cloud.tc.qq.com
@@ -26226,6 +26224,7 @@ ewww.com.cn
 ewz4ksd98492555o.aliyunddos1026.com
 ex-silver.com
 ex-starch.com
+ex.m.jd.com
 ex.m.jd.com.gslb.qianxun.com
 ex.mobmore.com
 ex.puata.info
@@ -34470,7 +34469,6 @@ i.51job.com.51jobdns.com
 i.9le.net
 i.adeaz.com
 i.adsame.com
-i.ai.mi.com
 i.ali213.net
 i.alicdn.com
 i.alicdn.com.danuoyi.tbcache.com
@@ -35308,7 +35306,6 @@ ihx.cc
 ihxlife.com
 ihzzy.com
 ii.gdt.qq.com
-ii010.com
 ii090.com
 ii3g.com
 ii4lp.tdum.alibaba.com
@@ -39657,7 +39654,6 @@ jxshangyou.com
 jxslsyy.com
 jxsqw.com
 jxsrfdc.com
-jxsxdp.com
 jxtech.net
 jxtyzx.org
 jxtzw.com
@@ -49963,6 +49959,7 @@ p1.zhumengwl.com
 p10.pstatp.com
 p11.douyinpic.com
 p115.vip
+p18118.com
 p1v6m.tcdn.qq.com
 p1v6mid.tcdn.qq.com
 p2-v6-ml.gslb.ksyuncdn.com

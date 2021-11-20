@@ -13825,7 +13825,6 @@ blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
-blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
@@ -27418,7 +27417,6 @@ firetry.com
 firevent.jd.com
 firevent.jd.com.gslb.qianxun.com
 firmware.kooldns.com
-firmware.koolshare.cn
 firstdrs.com
 firstfood-cn.com
 firstgw.com
@@ -37854,7 +37852,6 @@ jiaapps.com
 jiabangcnc.com
 jiabasha.com
 jiacai001.com
-jiachong.net
 jiadezhixin.com
 jiadingqiang.com
 jiaduijiaoyou.com
@@ -43212,7 +43209,6 @@ loginserver.kuwo.cn
 loginxian.leiting.com
 logistics-mrd.jd.com
 logistics-mrd.jd.com.gslb.qianxun.com
-logman.dmall.com
 logmonitor.leiting.com
 logo123.net
 logo33.com
@@ -49563,6 +49559,7 @@ oraybox.com
 oraycn.com
 orayer.com
 orayimg.com
+orbit.jd.com
 orbit.nfcos.cn
 orbitmes.com
 orcadt.com

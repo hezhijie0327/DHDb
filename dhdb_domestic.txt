@@ -19904,6 +19904,7 @@ cricbigdata.com
 crifst.com
 crimoon.net
 crispstata.com
+crl.apple.com
 crl.kaspersky.com
 crl.pki.goog
 crlcn.com
@@ -32578,6 +32579,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -45416,6 +45418,7 @@ melon.cdnetworks.com
 melove.net
 memacx.com
 member.bilibili.com
+member.chinaacc.com
 member.igoldhk.com
 member.jr.jd.com
 member.jschina.com.cn

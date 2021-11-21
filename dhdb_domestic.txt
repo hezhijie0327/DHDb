@@ -18538,7 +18538,6 @@ cn.launcher.battlenet.com.cn
 cn.letou118.net
 cn.made-in-china.com
 cn.man484.com
-cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.ntp.org.cn
 cn.pandora.net
@@ -40596,6 +40595,7 @@ knet.cn
 knewbi.com
 knewone.com
 knewsmart.com
+knicks.jd.com
 knicks.jd.com.gslb.qianxun.com
 knja123.top
 know88.com
@@ -52983,6 +52983,7 @@ qcsj.com
 qcstudy.com
 qctsw.com
 qcvf.ifeng.com
+qcwan.com
 qcwdpt.com
 qcwlpay.com
 qcwlseo.com

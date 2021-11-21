@@ -2551,7 +2551,6 @@
 23f5f95a745a4b683f697f60.mdbook.cn
 23job.net
 23ks.com
-23lvxing.com
 23uuw3.com
 23yy.com
 240yx.com
@@ -14975,6 +14974,7 @@ cache.video.qiyi.com
 cache.yisu.com
 cache.yisu.com.w.cdngslb.com
 cacheapigo.che168.com
+cachecn.net
 cachekit.com
 cachenode.cn
 cachepro.com
@@ -21364,7 +21364,6 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
-data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -44135,7 +44134,6 @@ m.lu.sogou.com
 m.lulitechnology.cn
 m.lusrg.cn
 m.maiduoer.com
-m.man66966.top
 m.manhua39.com
 m.manhuama.net
 m.manhuatai.com

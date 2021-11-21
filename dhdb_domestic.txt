@@ -4432,6 +4432,7 @@
 51tour.com
 51touxiang.com
 51tra.com
+51tudd.com
 51tuiyi.com
 51tunhuo.com
 51tvbao.com
@@ -10416,6 +10417,7 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
+api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -16528,7 +16530,6 @@ chashebao.com
 chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
-chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
@@ -17857,7 +17858,6 @@ cjyun.org
 cjyyw.com
 cjzkw.com
 cjzx.sspu.edu.cn
-cjzzc.com
 ck.houyi.baofeng.net
 ck.kejet.net
 ck100.com
@@ -34462,6 +34462,7 @@ i.51job.com.51jobdns.com
 i.9le.net
 i.adeaz.com
 i.adsame.com
+i.ai.mi.com
 i.ali213.net
 i.alicdn.com
 i.alicdn.com.danuoyi.tbcache.com

@@ -15459,6 +15459,7 @@ ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
+ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -18537,6 +18538,7 @@ cn.launcher.battlenet.com.cn
 cn.letou118.net
 cn.made-in-china.com
 cn.man484.com
+cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.ntp.org.cn
 cn.pandora.net
@@ -35303,6 +35305,7 @@ iiaq.net
 iibechina.com
 iicp.net
 iidns.com
+iiedns.xyz
 iiiff.com
 iiiimg.com
 iiilab.com

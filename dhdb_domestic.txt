@@ -7695,7 +7695,6 @@ a565fba3c92c8d295113dc38ac7e9dac.dlied1.cdntips.net
 a57cvn.tdum.alibaba.com
 a5f69f96a90aed270c560e827d1b8e48.dlied1.cdntips.net
 a5idc.net
-a6.bjdianyue.com
 a615e890c8748a1b.cdn.jiashule.com
 a632079.me
 a646b6a6bf836cb073a5c94ab2f5fb39.safeframe.googlesyndication.com
@@ -43069,6 +43068,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -49543,7 +49543,6 @@ oraybox.com
 oraycn.com
 orayer.com
 orayimg.com
-orbit.jd.com
 orbit.nfcos.cn
 orbitmes.com
 orcadt.com

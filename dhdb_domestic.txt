@@ -666,6 +666,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -29790,7 +29791,6 @@ gouso.com
 goutanzi.com
 goutong.baidu.com
 gouwanmei.com
-gouweida.cn
 gouwubang.com
 gouwuke.com
 gouwuyu.com

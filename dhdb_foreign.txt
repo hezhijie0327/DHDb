@@ -19105,6 +19105,7 @@ api.samsungcloud.com
 api.savemedia.website
 api.sbz.vn
 api.sciencemag.org
+api.sec.miui.com
 api.segment.io
 api.server-disabled.net.zooplus.de
 api.server.net.zooplus.de
@@ -74102,6 +74103,7 @@ hong.ren
 hongbaosuoping.com
 hongbocheng.com
 hongchalin.com
+hongchenzhilu.com
 hongfeiyang.com
 honghanda.com
 honghaotravel.com
@@ -91481,6 +91483,7 @@ localhost.staging.net.daraz.com
 localhost.test.net.daraz.com
 localhost.train.net.daraz.com
 localiza.com
+localizecdn.com
 localizejs.com
 localizestatus.com
 locallyrivalliberal.com
@@ -104271,6 +104274,7 @@ n.radikal.ru
 n.thestar.com
 n.toyotafinancial.com
 n.vestey.ru
+n.vn-chk777.com
 n.yam.com
 n.yfi8.com
 n.yyhanyu.cn
@@ -105489,6 +105493,7 @@ nettix.fi
 nettoyeur.tk
 nettv.live
 nettvl.com
+nettyinternet.com
 netu.tv
 netu.wiztube.xyz
 netupdater.info
@@ -121183,7 +121188,6 @@ qibuluo.com
 qidian.ca
 qidic.com
 qiditrade.com
-qiduocloud.com
 qiecdn.com
 qiepyp.ascianne.com
 qieyz.com

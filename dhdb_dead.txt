@@ -6033,6 +6033,7 @@ adserv.usps.com
 adserv001.adtech.us
 adserv002.adtech.us
 adserv005.adtech.us
+adserv006.adtech.us
 adserv007.adtech.us
 adserv008.adtech.us
 adservant.guj.de
@@ -11674,6 +11675,7 @@ c2fsd.xyz
 c2i.startappnetwork.com
 c2sw.wbmvohkn.cn
 c3122e7b01d19865661099db74be4fb6.jddebug.com
+c32869.com
 c39f9a360c7988d331c564d5bede94d1.jddebug.com
 c3h5cae95p.ru
 c3p0.top
@@ -21600,7 +21602,6 @@ feelssh.com
 feeltrail.com
 feelway.com
 feemoo.vip
-feerbook.com
 feeyeah.com
 fefbe66c5ba986e8e46c1f11e7004d1f.jddebug.com
 fei232.bhzje7ua9.com
@@ -28038,6 +28039,7 @@ im-img.qq.com
 im-link-server-86.csdn.net
 im-link-server-87.csdn.net
 im.51yaliesha.com
+im.aol.de
 im.mn.ctags.cn
 im.tiodata.com
 im020.com
@@ -30600,6 +30602,7 @@ jw-assoc.com
 jwaiqmifu.com
 jwduahujge.ru
 jwhfn.cn
+jwjocqgh.xyz
 jwlbfrmz.com
 jwpcdn.com
 jwqj.net
@@ -35132,6 +35135,7 @@ make-image.com
 make-skins.com
 make.cohesionapps.com
 make8.com
+makebitcoin.me
 makejinrong.com
 makeloutrjo.pw
 makelove.la

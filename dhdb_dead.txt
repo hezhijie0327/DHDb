@@ -4051,6 +4051,7 @@ a-ups-presencecore4-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presencecore7-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.eastus2.cloudapp.azure.com
 a-webapi-prod-asse-shiftsa.southeastasia.cloudapp.azure.com
 a.04ee395e5b8a076c7bd8592851ff8cad.com
@@ -13667,6 +13668,7 @@ clinkworld.com
 clipserv.adclip.com
 cliushow.com
 clivechia.com
+clixcount.com
 cljkkuqf.com
 clk.aboxdeal.com
 clk.cloudyisland.com
@@ -28119,7 +28121,6 @@ imedjs.info
 imedp.com
 imeete.com
 imeete.net
-imeiju.cc
 imengyoujia.xyz
 imessage.tv
 imever.me

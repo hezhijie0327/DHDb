@@ -6141,7 +6141,6 @@
 8-host.com
 8.jrj.com
 8.jrj.com.cn
-8.pic.paopaoche.net
 8.pic.pc6.com
 80000.cc
 800020308.com
@@ -21380,6 +21379,7 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
+data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com

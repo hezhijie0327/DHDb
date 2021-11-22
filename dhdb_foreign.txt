@@ -8509,7 +8509,6 @@ a-ups-presencecore4-prod-azsc.southeastasia.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.centralus.cloudapp.azure.com
-a-ups-presencecore6-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.westus2.cloudapp.azure.com
@@ -13800,6 +13799,7 @@ adsco.re
 adscok.com
 adscore.com
 adscpm.net
+adscreator.net
 adscreendirect.com
 adscustsrv.com
 adsdaq.com
@@ -19277,6 +19277,7 @@ apkdo.com
 apkdownloadforwindows.com
 apkgk.com
 apkhacks.com
+apkhackz.com
 apkhere.com
 apkjam.com
 apkleecher.com
@@ -33789,7 +33790,6 @@ cec-formation.net.daraz.com
 cecc.gov
 cece-mall.com
 cecive.com
-cecom.cc
 ceconline.com
 ceconlinebbs.com
 cectv.net
@@ -46986,6 +46986,7 @@ dl.benefits.express-scripts.com
 dl.box.net
 dl.browsermine.com
 dl.crazyporn.xxx
+dl.delivery.mp.microsoft.com
 dl.dell.com
 dl.devmate.com
 dl.discordapp.net
@@ -55324,7 +55325,6 @@ f35.flnet.org
 f3551539d6565853.com
 f3555.com
 f35c5dba3b0b5b017.com
-f35ec1cf813.com
 f368.com
 f37555.com
 f37c88082f894b318447253879366eaf.fp.measure.office.com

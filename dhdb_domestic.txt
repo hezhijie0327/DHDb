@@ -2637,6 +2637,7 @@
 2548976.b2b.liebiao.com
 2549073.shop.liebiao.com
 254game.com
+25522jb.com
 2553444.b2b.liebiao.com
 2553444.shop.liebiao.com
 2555238.b2b.liebiao.com
@@ -10579,7 +10580,6 @@ api.tuhu.cn
 api.tuisong.baidu.com
 api.tv.sohu.com
 api.tw06.xlmc.sandai.net
-api.tw06.xlmc.sec.miui.com
 api.udache.com
 api.ujian.cc
 api.union.vip.com
@@ -12171,7 +12171,6 @@ baiteng.org
 baithu.com
 baitianinfo.com
 baitiao.com
-baitugu.com
 baiven.com
 baiwang.com
 baiwb.com
@@ -15648,7 +15647,6 @@ cd.06bv.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
-cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -33236,6 +33234,7 @@ hr987.com
 hran.me
 hrayw.com
 hrb.lianjia.com
+hrbaodian.com
 hrbar.com
 hrbciming.com
 hrbesd.com
@@ -51530,7 +51529,6 @@ plesk-cn.com
 plmedia00.live.weibo.com
 plmedia00.live.weibo.com.w.cdngslb.com
 plmedia20.live.weibo.com
-plogin.m.jd.com
 plogin.m.jd.com.gslb.qianxun.com
 plsmspx.com
 plt.data.pplive.com
@@ -51945,7 +51943,6 @@ pro.heiguang.com
 pro.hoye.letv.com
 pro.iweihai.cn
 pro.letv.com
-pro.m.jd.com
 pro.m.jd.com.gslb.qianxun.com
 pro.pz0.3dn.ie.sogou.com
 pro6e.com

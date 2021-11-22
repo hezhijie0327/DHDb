@@ -10915,7 +10915,6 @@ appcoupon.kfc.com.cn
 appcpa.net
 appcpx.com
 appcup.com
-appdaka.com
 appdao.com
 appdata.q1.com
 appdelivery.4008123123.com
@@ -29627,7 +29626,6 @@ goldenname.com
 goldentom.com
 goldgrid.com
 goldhoe.com
-goldlvshi.com
 goldmantis.com
 goldmarkrealestate.com
 goldstonepack.com
@@ -29889,7 +29887,6 @@ graphmovie.com
 graphqqcom.msf.tencent-cloud.com
 graueneko.xyz
 gravatar.wp-china-yes.net
-gravatar.xiaoz.me
 gray-ad-sdk.aiclk.com
 gray-ad-sdk.aiclk.com.m.alikunlun.com
 gray-ice.com
@@ -39067,6 +39064,7 @@ js.cnmo.com
 js.ctags.cn
 js.data.cctv.com
 js.design
+js.dkqapp.cn
 js.duotegame.com
 js.ea3w.com
 js.fc090.com

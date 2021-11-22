@@ -2,7 +2,6 @@
 0-6.com
 0.pic.paopaoche.net
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -14668,6 +14667,7 @@ c-sta-cn.upltv.com
 c-uaa.if.iqiyi.com
 c.02kdid.com
 c.28rv.com
+c.3.cn
 c.3.cn.gslb.qianxun.com
 c.35kds.com
 c.51y5.net
@@ -24769,7 +24769,6 @@ e.gitee.com
 e.ishansong.com
 e.joyxv.com
 e.kuaishou.com
-e.miaoxinqipei.com
 e.ninebox.cn
 e.nxypz.com
 e.poonscn.com

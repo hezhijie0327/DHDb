@@ -8516,7 +8516,6 @@ a-ups-presencecore6-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore7-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.centralus.cloudapp.azure.com
-a-ups-presencecore8-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore9-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore9-prod-azsc.westus2.cloudapp.azure.com
@@ -32990,6 +32989,7 @@ cchere.com
 cchfjz.com
 cchlhb.budgetsport.fi
 cchome.adobe.io
+cchongjing.com
 cchr.org
 cci.fr
 ccidcyt.com
@@ -75733,7 +75733,6 @@ hz-gn.com
 hz-sllace.com
 hz1.lanmei80.com
 hz1cm.com
-hz3137.com
 hz8801.com
 hz8803.com
 hz8808.com

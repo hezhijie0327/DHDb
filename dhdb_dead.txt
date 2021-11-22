@@ -4051,6 +4051,7 @@ a-ups-presencecore4-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presencecore8-prod-azsc.eastus2.cloudapp.azure.com
 a-webapi-prod-asse-shiftsa.southeastasia.cloudapp.azure.com
 a.04ee395e5b8a076c7bd8592851ff8cad.com
 a.0day.kiev.ua
@@ -27401,6 +27402,7 @@ hz.tbusergw.taobao.net
 hz.youku.com
 hz100msh.com
 hz155.com
+hz3137.com
 hz8804.com
 hzbj.lianjia.com
 hzbrcajp.cn

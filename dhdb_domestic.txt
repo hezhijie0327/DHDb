@@ -11786,7 +11786,6 @@ b.pingan.com.cn
 b.pingan.com.cn.wsglb0.com
 b.qchannel03.cn
 b.qiuyeye.cn
-b.sayloving.com
 b.sh.vip.dianping.com
 b.smartvideo.youku.com
 b.tvsou.com
@@ -15460,7 +15459,6 @@ ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
-ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -27180,7 +27178,6 @@ feverassets.net
 fex.bdstatic.com
 fexclick.baidu.com
 fexhtml5static.jomodns.com
-feydj.com
 ff.dayu.com
 ff.doubleclick.net
 ff.l3gqgd.cn

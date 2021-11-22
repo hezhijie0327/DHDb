@@ -2368,7 +2368,6 @@
 21kunpeng.com
 21maoyi.com
 21mcu.com
-21mob.com
 21na.com
 21our.com
 21qa.net
@@ -35604,7 +35603,6 @@ images.liqucn.com
 images.lulian.cn
 images.newsmth.net
 images.nvidia.cn
-images.pchome.net
 images.pinduoduo.com
 images.pinduoduo.com.sched.pddlego-dk.tdnsv5.com
 images.qiecdn.com
@@ -40732,6 +40730,7 @@ kr02.dns.meo-sub.site
 kr02.dns.meo-sub.xyz
 krahag.com
 krcom.cn
+krcs.kugou.com
 krdrama.com
 krmzz.org
 krpano.tech
@@ -50845,6 +50844,7 @@ peoplerail.com
 peopleselect.cn
 pepresource.com
 pepsico.com.cn
+perf.m.jd.com
 perf.m.jd.com.gslb.qianxun.com
 perfect-input.com
 peropero.net

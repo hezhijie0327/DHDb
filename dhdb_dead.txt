@@ -4044,6 +4044,7 @@ a-ups-presencecore0-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore0-prod-azsc.southeastasia.cloudapp.azure.com
 a-ups-presencecore0-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.australiaeast.cloudapp.azure.com
+a-ups-presencecore1-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore10-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore13-prod-azsc.centralus.cloudapp.azure.com
@@ -13656,7 +13657,6 @@ client51.com
 clientanalysis.cmvideo.cn
 clientlog.portal.office.com
 clientlogger-prod.elasticbeanstalk.com
-clients-access.com
 clients-mediametrie.fr
 clients2.vlcstreamer.com
 clietns-download.com
@@ -22347,6 +22347,7 @@ fpag.w48ge.cn
 fpb.51edu.com
 fpb.kuhou.com
 fpbbdx1.51240.com
+fpbnmoise.com
 fpeiatypfcsthka.xyz
 fperefo.ru
 fpgall.com
@@ -22404,7 +22405,6 @@ free-amazon-gifts.info
 free-amazoncodes.com
 free-amazongift-cards.com
 free-apple-iphone.net
-free-bitcoin-generator.com
 free-bro-lite.ru
 free-clubpenguin.org
 free-counter.5u.com
@@ -23821,7 +23821,6 @@ getfreenow.cf
 getfreeonlinestuffs.com
 getfreepsncodesnow.com
 getfreesteamgames.net
-getfreesteamgames.org
 getfreevbucks.siterubix.com
 getgamegifts.com
 getgiftcardfree.us
@@ -29969,7 +29968,6 @@ jljnh.top
 jljspx.com
 jlkj.cc
 jlkja.com
-jllihua.com
 jlonline.com
 jlopen.com
 jlpz8.com
@@ -34525,6 +34523,7 @@ m.psrkoce.cn
 m.pt05c.cn
 m.ptcff666.com
 m.ptuoa.com
+m.pubbirdf.com
 m.pubgorg.xyz
 m.pwjhg.com
 m.px69z.cn

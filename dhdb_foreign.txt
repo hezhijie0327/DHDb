@@ -8489,7 +8489,6 @@ a-ups-presence4-prod-azsc.japanwest.cloudapp.azure.com
 a-ups-presence8-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presence9-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore0-prod-azsc.australiaeast.cloudapp.azure.com
-a-ups-presencecore1-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.japanwest.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore11-prod-azsc.centralus.cloudapp.azure.com
@@ -36640,6 +36639,7 @@ clientmetrics-augmentum.kik.com
 clientmetrics-pa.googleapis.com
 clientmetrics.kik.com
 clientnotification-userprodscus1-4.servicebus.windows.net
+clients-access.com
 clients-share.com
 clients.config.office.net
 clients.l.google.com
@@ -55978,7 +55978,6 @@ familyfeatures.com
 familyfed.org
 familyhealth.xyz
 familykoloro.com
-familylifemag.com
 familymart.com.my
 familymart.com.ph
 familyradio.com
@@ -59352,7 +59351,6 @@ fpadga.mcruises.ru
 fpb.mn586.com
 fpb8.esce.fr
 fpbjiansuo.mn586.com
-fpbnmoise.com
 fpc.acponline.org
 fpc.attcenter.com
 fpc.austinspurs.com
@@ -59577,6 +59575,7 @@ fredlx.skinnypig.xyz
 free-aa.com
 free-android-hack.com
 free-banners.com
+free-bitcoin-generator.com
 free-china.tech.blog
 free-clubpenguin.com
 free-codes.info
@@ -62961,6 +62960,7 @@ getfreebl.com
 getfreedur.com
 getfreegiftcodes.com
 getfreehack.com
+getfreesteamgames.org
 getfreesteamgamesnow.com
 getfreesteamwalletcodes.com
 getg5.com
@@ -93501,7 +93501,6 @@ m.pl.pornzone.tv
 m.pncle8.com
 m.poloniex.com
 m.premier.info.shutterstock.com
-m.pubbirdf.com
 m.pufei8.com
 m.puooi.com
 m.qcw.com

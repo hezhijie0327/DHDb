@@ -8488,7 +8488,6 @@ a-ups-presence4-prod-azsc.japanwest.cloudapp.azure.com
 a-ups-presence8-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presence9-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore0-prod-azsc.australiaeast.cloudapp.azure.com
-a-ups-presencecore0-prod-azsc.southeastasia.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.japanwest.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.westus2.cloudapp.azure.com
@@ -35221,6 +35220,7 @@ chinesetimes.us
 chineseupress.com
 chinesewinnipeg.com
 chineseypage.com
+chingcheong.com
 chinitnam.com
 chinman.net
 chinmedia.vn
@@ -35939,6 +35939,7 @@ ckaiv.com
 ckck.fun
 ckcsuk.com
 ckernel.org
+ckg.vipyl.com
 ckgcjl.com
 ckgnoy.com
 ckimg.xyz

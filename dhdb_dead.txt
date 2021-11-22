@@ -4042,6 +4042,7 @@ a-redirect.com
 a-scrip.org
 a-staticwebedia.com
 a-ups-presencecore0-prod-azsc.eastus2.cloudapp.azure.com
+a-ups-presencecore0-prod-azsc.southeastasia.cloudapp.azure.com
 a-ups-presencecore0-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.australiaeast.cloudapp.azure.com
 a-ups-presencecore10-prod-azsc.westus2.cloudapp.azure.com
@@ -13193,7 +13194,6 @@ chineseconsulate.org
 chinesedemocracy.com
 chineseembassy.org
 chinesehope.tv
-chingcheong.com
 chinoxy.com
 chinwind.com
 chip-skins.com
@@ -13454,7 +13454,6 @@ ckaim.com
 ckcdn.com
 ckcotjqkpdsjjsd.danaher.org
 cke199.com
-ckg.vipyl.com
 ckjlmqgxy.com
 cklad.xyz
 cklecreditie.info
@@ -18777,6 +18776,7 @@ dupola.com
 dupola.net
 dupontcigar.com
 dupx.xyz
+duration.logger.baofeng.com
 durazopa.com
 durnyi.blog.shinobi.jp
 durofil.ro
@@ -29159,6 +29159,7 @@ iwatch365.net
 iwebxy.com
 iwerechild.com
 iwhha.top
+iwin10.com
 iwin963.com
 iwin993.com
 iwin996.com
@@ -31336,6 +31337,7 @@ kkkiski4u.com
 kkkk0011.com
 kkkk0021.com
 kkkk99.net
+kklishi.com
 kknn.com
 kkpgv.kankan.com
 kkpgv2.kankan.com

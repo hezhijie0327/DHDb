@@ -19372,7 +19372,6 @@ connect-drcn.dbankcloud.cn
 connect-drcn.hispace.hicloud.com
 connect.play.aiseet.atianqi.com
 connect.qq.com
-connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
@@ -48306,7 +48305,6 @@ njdfwb.com
 njgb.com
 njgep.com
 njgjj.com
-njh1688.com
 njhaiwai.com
 njhengyou.com
 njhgame.com

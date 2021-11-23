@@ -10931,6 +10931,7 @@ appdownload.mail.10086.cn
 appdownload.youku.com
 appdriver.cn
 appdriver.com.cn
+appdump.nie.netease.com
 appeasou.com
 appengine.wmpvp.com
 apperr.log.mgtv.com
@@ -15457,7 +15458,6 @@ ccen.net
 ccepc.com
 cces2006.org
 ccets.com
-ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com.gslb.qianxun.com
@@ -25499,7 +25499,6 @@ ei6nd.com
 eiabbs.net
 eickaopei.com
 eicp.net
-eid.jd.com
 eid.jd.com.gslb.qianxun.com
 eidlink.com
 eidsign.com.cn

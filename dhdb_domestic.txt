@@ -15644,6 +15644,7 @@ cd.06bv.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
+cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -19524,7 +19525,6 @@ count.chanet.com.cn
 count.cnblogs.com
 count.ddooo.com
 count.enet.com.cn
-count.game.pps.tv
 count.kandian.com
 count.liqucn.com
 count.mail.163.com
@@ -21621,7 +21621,6 @@ dc.meitustat.com
 dc.sigmob.cn
 dc.so.le.com
 dc0555.com
-dc1.networkbench.com
 dc330.com
 dc4444.com
 dc551.com
@@ -41583,6 +41582,7 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
+lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com
@@ -48032,6 +48032,7 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
+nex.163.com
 nexiao.com
 next.api.aliyun.com
 next.itellyou.cn

@@ -44114,7 +44114,6 @@ data.real.flurry.com
 data.repo.net.zooplus.de
 data.riotgames.com
 data.sandbox.disabled.net.zooplus.de
-data.sec.miui.com
 data.secorg.net.zooplus.de
 data.security-epmdisabled.net.zooplus.de
 data.segugio.it

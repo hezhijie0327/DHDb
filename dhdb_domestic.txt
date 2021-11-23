@@ -15458,7 +15458,6 @@ ccets.com
 ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
-ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
@@ -16372,7 +16371,6 @@ chaicp.com
 chaihezi.com
 chaimage.com
 chain-store.net
-chainhoo.com
 chainknow.com
 chainnode.com
 chainsdir.com
@@ -49999,6 +49997,7 @@ p2plive-ws.douyucdn.cn
 p2plog.douyucdn.cn
 p2pport.yfp2p.net
 p2psdk.wscdns.com
+p2ptouhang.com
 p2pupdate.gamedl.qq.com
 p2pupgrade.gamedl.qq.com
 p2sdmkj6t.bkt.clouddn.com
@@ -55864,7 +55863,6 @@ romhui.com
 romjd.com
 romleyuan.com
 romsdk-mobile.uu.163.com
-romwang.com
 romzhijia.net
 romzhushou.com
 roncoo.com

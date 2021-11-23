@@ -13957,7 +13957,6 @@ bnchina.com
 bncwork.com
 bnet.163.com
 bnhgsb.com
-bnhshiguan.com
 bnmiul.tdum.alibaba.com
 bnnd.net
 bns.17173.com
@@ -27789,6 +27788,7 @@ fp.czvv.com
 fp.fraudmetrix.cn
 fp.hwwt8.com
 fp.nanrenwo.net
+fp.ps.netease.com
 fp.tongdun.net
 fpb.docin.com
 fpb.sohu.com
@@ -30800,7 +30800,6 @@ h07.hxsame.hexun.com
 h0758.net
 h08.hxsame.hexun.com
 h09.hxsame.hexun.com
-h1.cfxinxi.cn
 h1.kukuw.com
 h1.static.yximgs.com
 h1.static.yximgs.com.cdntip.com
@@ -48881,6 +48880,7 @@ ocsp.digicert.cn
 ocsp.digicert.cn.w.cdngslb.com
 ocsp.pki.goog
 ocsp.us.cdnetworks.com
+ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
 ocsp2.g.aaplimg.com
 ocsp3.sheca.com

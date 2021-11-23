@@ -18930,6 +18930,7 @@ api.breezip.com
 api.browser.miui.com
 api.browsermine.com
 api.btloader.com
+api.btstu.cn
 api.carrottrack.io
 api.cazamba.com
 api.cdnjs.com
@@ -19419,6 +19420,7 @@ app-lon07.marketo.com
 app-mgmt.docker.net.zooplus.de
 app-sales.net
 app-sdylqipai3917.com
+app-site-association.g.aaplimg.com
 app-sj05.marketo.com
 app-sj06.marketo.com
 app-sj13.marketo.com
@@ -54500,7 +54502,6 @@ euwmarketing.net.daraz.com
 ev-h.phncdn.com
 ev.kck.st
 ev.tpocdm.com
-ev2cdn.com
 eva-ad.24hstatic.com
 eva.vn
 evaarg61c4lxikb8bgvuvzhuf9ryk1619242132.nuid.imrworldwide.com
@@ -84368,6 +84369,7 @@ jlshayne.info
 jlsjnw.com
 jlssbz.com
 jluol.com
+jlwljym.com
 jlwubi.com
 jlxlbu.lacoste.pl
 jlxzt.com
@@ -84477,7 +84479,6 @@ jobberman.com
 jobbole.com
 jobcloud.ch
 jobdogame.com
-jobduedamson.work
 jobksd.com
 joblessdrum.com
 jobmarket.com.hk
@@ -87487,6 +87488,7 @@ konghq.com
 kongjun.cc
 kongkonglx.com
 konglingxi.com
+kongqingquan.com
 kongressen.com
 kongssew.com
 kongsun-hldgs.com
@@ -98393,6 +98395,7 @@ meizhidi.com
 meizhuli365.cn
 meizu.net
 meizudy.com
+mekadr.com
 mekitec.com
 mekstolande.com
 mekya.com
@@ -109162,6 +109165,7 @@ nyittc.com
 nyjixoco.com
 nyjprod-msevent.applovin.com
 nyjstage-msevent.applovin.com
+nyk688.com
 nykaa.com
 nykaafashion.com
 nykps.com

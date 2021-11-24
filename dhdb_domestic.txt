@@ -13342,6 +13342,7 @@ bim-times.com
 bima.weathercn.com
 bimo.cc
 binaryai.net
+binaryai.tech
 binbinyl.com
 bincailiuxue.com
 bindwpush.58.com
@@ -33000,6 +33001,7 @@ hongshu.com
 hongshunet.com
 hongtastock.com
 hongtu.net
+hongweipeng.com
 hongxiaolong.com
 hongxin18.com
 hongxingzn.com
@@ -50701,7 +50703,6 @@ pcw-api.iqiyi.com.w.alikunlun.com
 pcw-data.video.iqiyi.com
 pcw365.com
 pcweb-v1.log.mgtv.com
-pcweb.api.mgtv.com
 pcweb.v1.mgtv.com
 pcweb2.api.mgtv.com
 pcweb3.api.mgtv.com

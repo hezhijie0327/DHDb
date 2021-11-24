@@ -19255,6 +19255,7 @@ e.hm196.cn
 e.hm203.cn
 e.hmhqp.com
 e.hnhmyc.cn
+e.hpcat.cn
 e.hpg.cn.miaozhen.com
 e.hpzyl.com
 e.hsmbco.cn
@@ -19263,7 +19264,6 @@ e.hun3f.cn
 e.hunpp.com
 e.hurnt.com
 e.hzuic.com
-e.iahids76694.cn
 e.iduob.com
 e.iierq.com
 e.ijuns.com
@@ -37142,6 +37142,7 @@ mppapi.io
 mppmnetwork.com
 mpro.baidu.com
 mps.weekslw.com
+mptri.net
 mpush-api.aliyun.comncs.com
 mpush.qq.com
 mpv.sandai.net

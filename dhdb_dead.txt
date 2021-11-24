@@ -3982,6 +3982,7 @@
 9droom.com
 9dtiny.cn
 9e0u.cn
+9e5420f6be48ccc.com
 9e54f388074253594e6638edb09a1f80.jddebug.com
 9edea59c6582f30242d61de84ee9ecea.jddebug.com
 9egiyiyt1o18.com
@@ -4048,6 +4049,7 @@ a-ups-presencecore0-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.australiaeast.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore10-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presencecore11-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore13-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore13-prod-azsc.westus2.cloudapp.azure.com
@@ -10698,7 +10700,6 @@ bodedu.com
 bodgg.com
 bodog110.com
 bodog127.com
-bodog168.com
 bodog189.com
 bodog39.com
 bodog73.com
@@ -24234,6 +24235,7 @@ gldad.com
 gleechie.net
 gleedaik.net
 gleergie.net
+gleersoo.net
 glenm.mtxcapital.com
 glenoldencedarburg.com
 glenviewexcello.com
@@ -27227,6 +27229,7 @@ huizhan-inc.com
 huizhek.com
 huizheko.com
 huizhekou.net
+huizhijiaxun.com
 huizhonghengxing.com
 huizhongkameng.com
 hulaga.net
@@ -41448,6 +41451,7 @@ pki-post.ch
 pki-posta.ch
 pki-poste.ch
 pkk1.zuimeiniwo.com
+pkkjxs.cn
 pkldrgupis.com
 pkmkkjwknvf.com
 pkndawf.pro

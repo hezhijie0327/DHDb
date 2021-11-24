@@ -10801,6 +10801,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.cdn-apple.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -12270,7 +12271,6 @@ banjuanshu.com
 bank-drcn.wallet.hicloud.com
 bank-of-china.com
 bank.cnfol.com
-bankaiyuan.com
 bankcomm.com
 bankcomm.com.mo
 bankcomm.com.tw
@@ -31312,7 +31312,6 @@ haohanfw.com
 haohanguo.com
 haohanseo.com
 haohaowan.com
-haohaoxiu.com
 haohaozhu.com
 haohead.com
 haohiyou.com
@@ -39655,6 +39654,7 @@ jy0832.com
 jy1.me
 jy135.com
 jy1991.com
+jy3885.com
 jy5bkorz.p23.tc.cdntip.com
 jyacht.com
 jyaochi.com

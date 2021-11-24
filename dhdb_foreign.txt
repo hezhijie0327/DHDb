@@ -18975,6 +18975,7 @@ api.dell.com
 api.demandbase.com
 api.develop.repo.net.zooplus.de
 api.developdisabled.net.zooplus.de
+api.developer.xiaomi.com
 api.disabled.controller.net.zooplus.de
 api.disabled.mail.net.zooplus.de
 api.disabled.paywall.net.zooplus.de
@@ -22485,7 +22486,6 @@ axeptio.eu
 axesslaw.com
 axf8.net
 axfevh.bandab.com.br
-axhntisudyhmxjd.xyz
 axhxa.com
 axi.be
 axia-hakusan.com
@@ -88674,7 +88674,6 @@ landstar.com
 landwatch.com
 landwirt.com
 lanebryant.com
-lanetool.info
 lang.idv.tw
 lang588.com
 langbobrand.com

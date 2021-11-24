@@ -1661,6 +1661,7 @@
 1708131.sched.ap.tdnsv5.com
 1708131.v9.sched.tdnsv2.com
 1708359d3207f3032a9888955ad309a3.dlied1.cdntips.net
+170hi.com
 1713023.b2b.liebiao.com
 1713023.shop.liebiao.com
 1716534.b2b.liebiao.com
@@ -20336,7 +20337,6 @@ cxc233.com
 cxcc.me
 cxcxt.com
 cxcyds.com
-cxdq.com
 cxfuwu.com
 cxgame.net
 cxh99.com
@@ -33412,6 +33412,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.push.oppomobile.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
 httpsdns.baidu.com

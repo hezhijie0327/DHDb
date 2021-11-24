@@ -2,7 +2,6 @@
 0-6.com
 0.pic.paopaoche.net
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -42632,7 +42631,6 @@ lishouhong.com
 lishui.com
 lisp123.com
 list.jd.com
-list.jd.com.gslb.qianxun.com
 list.suning.com
 list.tmall.com
 list.youku.com
@@ -43181,6 +43179,7 @@ loginserver.kuwo.cn
 loginxian.leiting.com
 logistics-mrd.jd.com
 logistics-mrd.jd.com.gslb.qianxun.com
+logman.dmall.com
 logmonitor.leiting.com
 logo123.net
 logo33.com
@@ -46838,7 +46837,6 @@ msg.eclicks.cn
 msg.iqiyi.com
 msg.m.jd.com
 msg.m.jd.com.gslb.qianxun.com
-msg.mobile.kugou.com
 msg.ptqy.gitv.tv
 msg.push.51y5.net
 msg.qy.net

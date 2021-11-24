@@ -662,7 +662,6 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -9459,7 +9458,6 @@ ali.static.yximgs.com
 ali.static.yximgs.com.m.alikunlun.com
 ali.static.yximgs.com.m.alikunlun.com.c.cdnuyun.cn
 ali.static.yximgs.com.m.alikunlun.com.qr.uuhimalayanqm.com
-ali.xmssdn.micloud.mi.com
 ali2-course.video.yximgs.com
 ali2-course.video.yximgs.com.m.alikunlun.com
 ali2.a.kwimgs.com
@@ -35405,7 +35403,6 @@ ilaw66.com
 ilawpress.com
 ilce.alicdn.com
 ilce.alicdn.com.danuoyi.tbcache.com
-ildhy.com
 ileci.com
 ileedarson.com
 ileehoo.com
@@ -48587,6 +48584,7 @@ ns365.net
 ns5n.com
 ns8d.com
 ns96.com
+nsbeta.info
 nsclick.baidu.com
 nsclickvideo.baidu.com
 nscscc.org

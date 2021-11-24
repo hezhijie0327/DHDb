@@ -10408,7 +10408,6 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
-api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -15456,6 +15455,7 @@ ccen.net
 ccepc.com
 cces2006.org
 ccets.com
+ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com.gslb.qianxun.com
@@ -22549,6 +22549,7 @@ dimg05.c-ctrip.com
 dimg05.c-ctrip.com.wscdns.com
 dimg06.c-ctrip.com
 dimg06.c-ctrip.com.wscdns.com
+dimg07.c-ctrip.com
 dimg07.c-ctrip.com.wscdns.com
 dimg08.c-ctrip.com
 dimg08.c-ctrip.com.wscdns.com
@@ -46507,6 +46508,7 @@ molie.com
 molihe.cc
 molinsoft.com
 moliplayer.com
+moliqiji.com
 molixiangce.com
 molloc.com
 mollykannn.gallerycdn.azure.cn

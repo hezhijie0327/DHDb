@@ -19164,7 +19164,6 @@ api.samsungcloud.com
 api.savemedia.website
 api.sbz.vn
 api.sciencemag.org
-api.sec.miui.com
 api.segment.io
 api.server-disabled.net.zooplus.de
 api.server.net.zooplus.de
@@ -22536,6 +22535,7 @@ axxiaoshuo.com
 axxx.com
 axys-consultants.com
 axzsd.pro
+ay.3lga3.cn
 ay.delivery
 aya1.xyz
 ayads.co
@@ -71508,7 +71508,6 @@ haiyun.me
 haiyunimg.com
 haiyunx.com
 haizhangs.com
-haizhixing.net
 haizhlink.com
 haizirv.cn
 hajoopteg.com

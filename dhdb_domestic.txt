@@ -10547,6 +10547,7 @@ api.s.suv666.com
 api.samsungcloudcn.com
 api.sdbao.com
 api.sdk.fmobi.cn
+api.sec.miui.com
 api.share.baidu.com
 api.share.mob.com
 api.share.n.shifen.com
@@ -28949,7 +28950,6 @@ geekniu.com
 geekori.com
 geekotg.com
 geekpark.net
-geekpie.club
 geekpwn.org
 geeks.vc
 geeksblog.cc
@@ -45060,7 +45060,6 @@ mcfuzhu.net
 mcgi.v.qq.com
 mchifi.com
 mcjd.net
-mclean.f.360.cn
 mclick.simba.taobao.com
 mcllroy.world.tmall.com
 mcnqipdujs.com

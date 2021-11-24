@@ -28715,6 +28715,7 @@ gate.push.x.netease.com
 gateface.com
 gateway-drcn.wallet.dbankcloud.com
 gateway.battlenet.com.cn
+gateway.cdeledu.com
 gateway.fe.apple-dns.cn
 gateway.icloud.com.cn
 gateway.im.weibo.cn
@@ -52054,7 +52055,6 @@ pss.alicdn.com.gds.alibabadns.com
 pstatic.xunlei.com
 pstips.net
 pstxg.com
-psxiazai.com
 psy-1.com
 psychcn.com
 psychspace.com
@@ -58687,7 +58687,6 @@ shsaic.net
 shsbnu.net
 shsby.com
 shsci.org
-shscxh.net
 shsee.com
 shshilin.com
 shsipo.com

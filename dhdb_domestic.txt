@@ -9460,7 +9460,6 @@ ali.static.yximgs.com
 ali.static.yximgs.com.m.alikunlun.com
 ali.static.yximgs.com.m.alikunlun.com.c.cdnuyun.cn
 ali.static.yximgs.com.m.alikunlun.com.qr.uuhimalayanqm.com
-ali.xmssdn.micloud.mi.com
 ali2-course.video.yximgs.com
 ali2-course.video.yximgs.com.m.alikunlun.com
 ali2.a.kwimgs.com
@@ -10297,6 +10296,7 @@ api-cn.store.heytapmobi.com
 api-cn1.mpay.samsung.com.cn
 api-cname.growingio.com
 api-crep.ke.com
+api-dd.jd.com
 api-dd.jd.com.gslb.qianxun.com
 api-e189.21cn.com
 api-edge.apps.apple.com.cdn20.com
@@ -45821,7 +45821,6 @@ miku.fm
 miku4567.com
 mikuac.com
 mikuclub.fun
-mil.gbzumh.cn
 mil.news.sina.com.cn
 mil.rfjckj.cn
 mil.youth.cn
@@ -47393,6 +47392,7 @@ myznh.com
 myzte.com
 mz-oneacg.com
 mz-sys.com
+mz-sys.vip
 mz.tanzhouedu.com
 mz.zu.anjuke.com
 mzboss.com
@@ -54488,7 +54488,6 @@ quanquanapp.net
 quanriai.com
 quansheng-group.com
 quanshi.com
-quanshishequ.com
 quanshuge.com
 quant.la
 quantacn.com

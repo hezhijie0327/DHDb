@@ -19006,6 +19006,7 @@ api.freelagu.org
 api.freewebfonts.org
 api.funcaptcha.com
 api.fw.tv
+api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.geetest.com
@@ -33463,6 +33464,7 @@ cdn.itsup.com
 cdn.izooto.com
 cdn.jotfor.ms
 cdn.jquery-uim.download
+cdn.jsdelivr.net
 cdn.kdkw.jp
 cdn.keywee.co
 cdn.kik.com
@@ -56720,7 +56722,6 @@ fc.webmasterpro.de
 fc.yahoo.com
 fc00.io
 fc02.com
-fc0902dc54a19a.com
 fc2.com
 fc2.red
 fc2b9b7ce3165.com
@@ -81498,7 +81499,6 @@ ip-54-36-126.eu
 ip-54-36-185.eu
 ip-91-121-106.eu
 ip-api.com
-ip-cdn.com
 ip-china.org
 ip-guard.net
 ip-label.net
@@ -100238,6 +100238,7 @@ miarroba.es
 miarroba.info
 miaxis.net
 miazhiyou.com
+mibaoge.com
 mibebu.com
 mibet.com
 mibet.mobi
@@ -121915,6 +121916,7 @@ qn-5.com
 qnajplxtvz-a.akamaihd.net
 qnap.com
 qnbskk.oqvestir.com.br
+qnche.com
 qncye.net
 qndb.net
 qngdju.home24.be

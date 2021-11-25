@@ -3112,7 +3112,6 @@
 348849.p23.tc.cdntip.com
 348894.s2txipv6.cdntip.com
 3488a692b2320dd014f8c7e79374995f.dlied1.cdntips.net
-3499.co
 34abf444ceaa441355d09360.mdbook.cn
 34c1cd94f152a18230ee597063399b69.v.smtcdns.net
 34gdcv.tdum.alibaba.com
@@ -8029,6 +8028,7 @@ accounts.firefox.com.cn
 accounts.google.cn
 accounts.nvgs.nvidia.cn
 accounts.qq.com
+accounts.tantanapp.com
 accscdn.cp12.ott.cibntv.net
 accscdn.m.taobao.com
 accsh.org
@@ -8647,7 +8647,6 @@ adsmis.duxiaoman.com
 adsmogo.com
 adsmogo.net
 adsmogo.org
-adsolution.imtt.qq.com
 adsoss.uqualities.com
 adsp.xunlei.com
 adsrvr.cn
@@ -9461,6 +9460,7 @@ ali.static.yximgs.com
 ali.static.yximgs.com.m.alikunlun.com
 ali.static.yximgs.com.m.alikunlun.com.c.cdnuyun.cn
 ali.static.yximgs.com.m.alikunlun.com.qr.uuhimalayanqm.com
+ali.xmssdn.micloud.mi.com
 ali2-course.video.yximgs.com
 ali2-course.video.yximgs.com.m.alikunlun.com
 ali2.a.kwimgs.com
@@ -27543,7 +27543,6 @@ floor.jd.com
 floor.jd.com.gslb.qianxun.com
 florentiavillage.com
 flow.10010.com
-flow.dmall.com
 flow.qq.com
 flow.wps.cn
 flowcontroll.dcdn.sandai.net

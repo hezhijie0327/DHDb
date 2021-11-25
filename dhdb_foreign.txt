@@ -41,7 +41,6 @@
 001union.com
 001www.com
 002.0x1f4b0.com
-002008.com
 00223885.com
 0022msc.com
 0024aaaa.com
@@ -47445,6 +47444,7 @@ dnhfi5nn2dt67.cloudfront.net
 dnhys.com
 dnix.ch
 dnj.com
+dnjishu.com
 dnjs8.com
 dnk2wr2ch6zxa.cloudfront.net
 dnkeyt.svetsochtillbehor.se
@@ -60983,6 +60983,7 @@ fun166.com
 fun1738.com
 fun1818.com
 fun216.com
+fun277.com
 fun308.com
 fun315.com
 fun327.com
@@ -76095,6 +76096,7 @@ i-chi01p-cor001.api.p001.1drv.com
 i-chi01p-cor002.api.p001.1drv.com
 i-click.com
 i-clicks.net
+i-cmg-amlg-prod.appspot.com
 i-cweb.net
 i-db3p-cor001.api.p001.1drv.com
 i-db3p-cor002.api.p001.1drv.com
@@ -108058,6 +108060,7 @@ now-dns.net
 now-dns.org
 now-do.com
 now-ip.net
+now-movie.com
 now-online.net
 now-tv.com
 now.com

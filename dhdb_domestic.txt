@@ -15740,6 +15740,7 @@ cdn-adn-https-share.rayjump.com
 cdn-adn-https-share.rayjump.com.wswebcdn.com
 cdn-adn-https.rayjump.com
 cdn-adn-https.rayjump.com.wswebpic.com
+cdn-adn.rayjump.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 cdn-ali.content.steamchina.com
 cdn-api-my.le.com

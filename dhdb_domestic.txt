@@ -8610,7 +8610,6 @@ adsense.google.cn
 adserve2.tom.com
 adservice.google.com
 adservice.sigmob.cn
-adserviceretry.kugou.com
 adserving.yuewen.com
 adsfile.bssdlbig.kugou.com
 adsfile.qq.com
@@ -38863,7 +38862,6 @@ joyact.com
 joyami.com
 joyany.com
 joyapi.com
-joybuy.com
 joycbd.com
 joydin.com
 joyglue.com
@@ -52375,7 +52373,6 @@ push.res.meizu.com
 push.tv.sohu.com
 push.ulive.ugslb.com
 push.wapx.cn
-push.xdrig.com
 push.yuedu.163.com
 push.zdworks.com
 push.zhangyue.com

@@ -9270,7 +9270,6 @@ aiyou.tv
 aiyoumi.com
 aiyuangong.com
 aiyuke.com
-aiyun.co
 aiyunxiao.com
 aizaoqi.com
 aizhan.com
@@ -10356,6 +10355,7 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
+api.account.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -10576,6 +10576,7 @@ api.tuhu.cn
 api.tuisong.baidu.com
 api.tv.sohu.com
 api.tw06.xlmc.sandai.net
+api.tw06.xlmc.sec.miui.com
 api.udache.com
 api.ujian.cc
 api.union.vip.com
@@ -11510,7 +11511,6 @@ austarstudy.com
 australia.people.com.cn
 auth-ai.meituan.com
 auth.api.gitv.tv
-auth.be.sec.miui.com
 auth.sonkwo.com
 auth.wosms.cn
 authlogin.kfc.com.cn
@@ -26579,7 +26579,6 @@ fang33.com
 fang668.com
 fang99.cc
 fang99.com
-fangbaoqiang.net
 fangbei.org
 fangbianle.com
 fangbx.com
@@ -27471,6 +27470,7 @@ fjsdn.com
 fjsen.com
 fjsfa.org
 fjsfy.com
+fjshxjs.cn
 fjsj.com
 fjsnhd.org
 fjtelecom.com
@@ -28558,6 +28558,7 @@ gameiy.com
 gamejym.com
 gamekee.com
 gamelauncher.samsung.com.cn
+gameoftraffic.com
 gamepf.com
 gameplus-platform.cdn.bcebos.com
 gamept.com
@@ -38354,7 +38355,6 @@ jinrongren.net
 jinrongwang.net
 jinrui-tech.com
 jins-cn.com
-jinse.com
 jinsebook.com
 jinsehuaqin.com
 jinshakemei.com

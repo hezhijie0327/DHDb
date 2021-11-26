@@ -11345,7 +11345,6 @@ assets.alicdn.com
 assets.alicdn.com.danuoyi.tbcache.com
 assets.asklib.com
 assets.ckjr001.com
-assets.dspunion.com
 assets.dspunion.com.wswebcdn.com
 assets.easou.com
 assets.giocdn.com
@@ -17868,6 +17867,7 @@ ckm.aty.sohu.com
 ckm.dns.iqiyi.com
 ckm.iqiyi.com
 ckmap.mediav.com
+ckplayer.com
 cksd888.com
 cksic.com
 cksvbgcb.v1d.szbdyd.com
@@ -43518,7 +43518,6 @@ ltssjy.qq.com
 ltsws.qq.com
 ltswxy.com
 ltsydzd.qq.com
-ltteach.com
 ltwkw.com
 ltxjob.com
 lty.fun
@@ -43794,7 +43793,6 @@ lxw1234.com
 lxway.net
 lxws.net
 lxxh.cc
-lxy520.net
 lxybaike.com
 lxyes.com
 ly-sky.com

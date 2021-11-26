@@ -3923,7 +3923,6 @@
 4fb2ba2fc86746ff24ba841fd4da81ba.safeframe.googlesyndication.com
 4g.youku.com
 4g0.cc
-4ggame8.com
 4ggogo.com
 4gh6.com
 4gqp.com
@@ -14074,7 +14073,6 @@ bookbk.img.ireader.com
 bookbook.in
 bookcover.yuewen.com
 bookdao.com
-bookdown.net
 bookersea.com
 booking.cn
 booking001.com
@@ -18540,7 +18538,6 @@ cn.ntp.org.cn
 cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -28807,6 +28804,7 @@ gdc.hupucdn.com
 gdccsc.com
 gdcic.net
 gdcom.wang
+gdctsvisa.com
 gdcx.net
 gdcyl.org
 gddarf.com
@@ -48546,6 +48544,7 @@ npm.cdn-go.cn
 npodevelopment.org
 npp.cc
 npxsw.com
+nq37f.cn
 nq6.com
 nqfwx.cn
 nr-esc.com

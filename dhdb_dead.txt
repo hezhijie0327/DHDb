@@ -4055,6 +4055,7 @@ a-ups-presencecore12-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore13-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore13-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.centralus.cloudapp.azure.com
+a-ups-presencecore4-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.southeastasia.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.westus2.cloudapp.azure.com
@@ -9800,6 +9801,7 @@ beijingjuyuan.com
 beijinglvyou.net.cn
 beijingtongxin.com
 beijingxuezhi.com
+beijingzx.org
 beike188.com
 beisencorp.com
 beitasi2016.com
@@ -11421,6 +11423,7 @@ by3301-c.1drv.com
 by3301-e.1drv.com
 bybzj.com
 byc88.com
+bycmw.com
 bydowstar.com
 bygoogledotcom.hopto.org
 byhh.cc
@@ -20884,7 +20887,6 @@ evolutionmedia.bbelements.com
 evovasalup.com
 evra0o.myftp.biz
 evrida.ro
-evschool.net
 evzimlox.cn
 evztib.xyz
 ew309amaan.hopto.org
@@ -23715,7 +23717,6 @@ gecapitalrail.com
 gecatikonstantin.ru
 gecidao.com
 gecl.xyz
-gedawang.com
 gedidigital.it
 gedou8.com
 gedus.cn
@@ -25191,7 +25192,6 @@ gxkjbg.com
 gxkjdns.com
 gxmbr.cn
 gxny.imanchu.cn
-gxqrjjcsyh.com
 gxrwc.xyz
 gxsell.com
 gxssgw.com
@@ -43205,7 +43205,6 @@ qqjlb08.app
 qqjlb09.app
 qqjlb3.com
 qqjlb4.com
-qqjlb7.com
 qqjlb9.com
 qqjlbvip1.com
 qqjmbj.com

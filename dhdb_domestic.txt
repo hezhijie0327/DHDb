@@ -44005,7 +44005,6 @@ m.client.10010.com.w.cdngslb.com
 m.clkservice.youdao.com
 m.cnkang.com
 m.cocounion.com
-m.ctrip.com
 m.cudaojia.com
 m.czvv.com
 m.da.mgtv.com
@@ -51616,7 +51615,6 @@ polaxiong.com
 polayoutu.com
 pole.6rooms.com
 policy-cde.le.com
-policy.jd.com
 policy.jd.com.gslb.qianxun.com
 policy.video.iqiyi.com
 policy.video.ptqy.gitv.tv
@@ -58146,6 +58144,7 @@ shengcai.net
 shengcaijinrong.com
 shengdan.com
 shengdaosoft.com
+shengdaoyiliao.com
 shengdaprint.com
 shengdianhuadg.com
 shengdianhuadk.com

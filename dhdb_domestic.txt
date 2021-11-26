@@ -10883,7 +10883,6 @@ appactivity.wmpvp.com
 appadhoc.com
 appadhoc.net
 appapi.17house.com
-appapi.dmall.com
 appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
@@ -14635,7 +14634,6 @@ bzrb.net
 bzshw.com
 bzw315.com
 bzxinwen.com
-bzzss.com
 c-c.com
 c-cnc.com
 c-ctrip.com
@@ -27775,6 +27773,7 @@ foxweixin.com
 foxwho.com
 foxwq.com
 foxzld.com
+foxzw.com
 foyuan.net
 fp-bj.fengkongcloud.com
 fp-dev.webapp.163.com
@@ -37985,6 +37984,7 @@ jianzhila.net
 jianzhimao.com
 jianzhiweike.net
 jianzhiyixin.com
+jianzhu2008.com
 jiaoben.ganji.cn
 jiaoben.jucanw.com
 jiaoben.net
@@ -46781,7 +46781,6 @@ ms.zu.anjuke.com
 ms061.com
 ms211.com
 ms315.com
-ms6666111.com
 msale.vmall.com
 msanjia.com
 msc.jd.com

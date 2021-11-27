@@ -8511,7 +8511,6 @@ a-ups-presencecore6-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore9-prod-azsc.eastus.cloudapp.azure.com
-a-ups-presencecore9-prod-azsc.westus2.cloudapp.azure.com
 a-usw.1rx.io
 a.123porner.com
 a.198banjia.com
@@ -73906,7 +73905,6 @@ hkwesi11.xyz
 hkwesi11111.xyz
 hkwesi22222.xyz
 hkwesi5.xyz
-hkwesi666.xyz
 hkwesi66666.xyz
 hkwesi7.xyz
 hkwesi77.xyz
@@ -117680,7 +117678,6 @@ policester.info
 policityseriod.info
 policy.ccs.mcafee.com
 policy.cookiereports.com
-policy.jd.com
 policylink.org
 policymap.com
 policyorchestration.ccs.mcafee.com

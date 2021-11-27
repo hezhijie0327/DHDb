@@ -5,6 +5,7 @@
 0.gravatar.com
 0.nextyourcontent.com
 0.oldgyhogola.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -24422,7 +24423,6 @@ bc365088.com
 bc365099.com
 bc525.com
 bc5685.com
-bc6005.com
 bc6011.com
 bc6621.com
 bc6888.com
@@ -28433,7 +28433,6 @@ bo-videos.s3.amazonaws.com
 bo.beaconsco.com
 bo.biz.tm
 bo.facesbet.com
-bo2-hack.com
 bo2ffe45ss4gie.com
 bo2seasonpass.com
 bo6y1.duckdns.org
@@ -31257,7 +31256,6 @@ c2.info.tm
 c2.popads.net
 c2.statcounter.com
 c2.thecounter.de
-c2.zedo.com
 c2646.com
 c2af7be64c274bfaa03e98fe933b0ec0.fp.measure.office.com
 c2bit.mu
@@ -72748,6 +72746,7 @@ heptio.cn
 heptio.com
 heqinglian.net
 hequnshebei.com
+her-ber.top
 her2treatment.com
 herald.ie
 herald.loginside.co.kr
@@ -76639,6 +76638,7 @@ icoktb.onygo.com
 icolor8.com
 icomsex.com
 icon256.com
+icon2count.com
 iconaircraft.com
 iconcnd.net
 iconfactory.net
@@ -116095,6 +116095,7 @@ pic.jiasuba.com
 pic1.59wd.com
 pic183025.images9999.com
 pic2.bloggerads.net
+pic2016.ytqmx.com
 pic2pic.site
 pic494036.images9999.com
 pic837013.images9999.com

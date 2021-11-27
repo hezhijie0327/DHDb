@@ -8511,7 +8511,6 @@ a-ups-presencecore5-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.eastus2.cloudapp.azure.com
-a-ups-presencecore8-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore9-prod-azsc.eastus.cloudapp.azure.com
 a-usw.1rx.io
@@ -32842,6 +32841,7 @@ catxpert.dk
 catxpert.se
 catynydy.com
 cauntercanulae.com
+caunuscoagel.com
 causecherry.com
 causlesscauslessswanmidday.com
 causticpunctum.casa
@@ -92980,6 +92980,7 @@ lucker.co
 luckfriend.com
 lucklayed.info
 lucknowfirst.com
+lucky-box.net
 lucky-drop.net
 lucky-print.biz
 lucky.scarabstonemovingmethod.com
@@ -103061,7 +103062,6 @@ mrcatlove.com
 mrcatnb.com
 mrcboy.com
 mrcrackworld.com
-mrddz.xyz
 mrdoors.ru
 mreco0.jp
 mrelectric.com

@@ -4064,6 +4064,7 @@ a-ups-presencecore5-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore7-prod-azsc.centralus.cloudapp.azure.com
+a-ups-presencecore8-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore9-prod-azsc.westus2.cloudapp.azure.com
 a-webapi-prod-asse-shiftsa.southeastasia.cloudapp.azure.com
@@ -33669,7 +33670,6 @@ luckcases.net
 luckfarm.top
 luckincoffeecdn.com
 lucky-blogs.ru
-lucky-box.net
 lucky-cases.org
 lucky-day-uk.com
 lucky-loot.com
@@ -35309,6 +35309,7 @@ man799.com
 man892.com
 man960.com
 man993.com
+manage.c3edge.com
 manage001.adtech.us
 managedcollapsed.in
 managedsnap.com
@@ -37235,6 +37236,7 @@ mrcat68.com
 mrchen.com.tw
 mrclown.cn
 mrcruzx.zapto.org
+mrddz.xyz
 mreco.jp
 mrekatou.beget.tech
 mrffktsdq.localdomain

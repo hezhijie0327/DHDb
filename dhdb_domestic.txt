@@ -51487,6 +51487,7 @@ plesk-cn.com
 plmedia00.live.weibo.com
 plmedia00.live.weibo.com.w.cdngslb.com
 plmedia20.live.weibo.com
+plogin.m.jd.com
 plogin.m.jd.com.gslb.qianxun.com
 plsmspx.com
 plt.data.pplive.com
@@ -51615,7 +51616,6 @@ polycom-jl.com
 polyfill.alicdn.com
 polyfill.alicdn.com.danuoyi.tbcache.com
 polyhotel.com
-polyhz.com
 polytheatre.com
 polytheatresz.com
 polyv.net

@@ -14283,7 +14283,6 @@ bs-adaptive.pull.yximgs.com
 bs-origin.pull.yximgs.com
 bs.5442.com
 bs.csshq.com.cn
-bs.forward.douban.com
 bs008.com
 bs14.9669.cn
 bs56.net
@@ -21616,7 +21615,6 @@ dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
 dc.api.my7v.com
-dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -37539,6 +37537,7 @@ jbo600.com
 jbo65.com
 jbo8.com
 jbo830.com
+jbo8877.com
 jbo909.com
 jbqipa.com
 jbryun.com
@@ -44498,7 +44497,6 @@ maihanji.com
 maihaoche.com
 maihehd.com
 maijia.com
-maijiaba.com
 maijiakan.com
 maijichuang.net
 maijx.com

@@ -2905,7 +2905,6 @@
 3.3322722.com
 3.39zuoye.com
 3.5646.cn
-3.cn.pool.ntp.org
 3.iscrv.com
 3.pic.pc6.com
 3.ssqzj.com
@@ -2913,7 +2912,6 @@
 3000.com
 3000.liveplay.myqcloud.com
 300033.info
-3000588.com
 3000idc.com
 3000soft.net
 3000test.com
@@ -5393,7 +5391,6 @@
 667744.com
 6677gz.com
 66825.com
-6686672.com
 6686693.com
 6686697.com
 6688.com
@@ -44069,7 +44066,6 @@ m.ithome.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
-m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com

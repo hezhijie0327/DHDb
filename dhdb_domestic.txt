@@ -3,6 +3,7 @@
 0.cn.pool.ntp.org
 0.pic.paopaoche.net
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -9094,7 +9095,6 @@ aihuaju.com
 aihuishou-internal.oss-cn-hangzhou.aliyuncs.com
 aihuishou-internal.oss-cn-hangzhou.aliyuncs.com.gds.alibabadns.com
 aihuishou.com
-aihuo.cc
 aii-alliance.org
 aiijournal.com
 aiimg.com
@@ -9829,7 +9829,6 @@ amuren.com
 amwiki.org
 amws5599.com
 amws6666.com
-amx.ltaome.cn
 amz123.com
 amz520.com
 an.biocoop.cn
@@ -26545,7 +26544,6 @@ faiusr.com
 faiusrd.com
 faiww.com
 fajiayun.com
-fajingsi.org
 fajjj.com
 fala114.com
 fallback.signal.xm.meituan.com
@@ -26650,7 +26648,6 @@ fanhaoyue.com
 fanhonghua.net
 fanhougame.com
 fanhuan.com
-fanhuan.org
 fanhui.douxiaotoutiao.com
 faniuwenda.com
 fanjian.net

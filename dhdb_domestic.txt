@@ -11341,6 +11341,7 @@ assets.115.com
 assets.116cd.com
 assets.51downapp.cn
 assets.alicdn.com
+assets.alicdn.com.danuoyi.tbcache.com
 assets.asklib.com
 assets.ckjr001.com
 assets.dspunion.com.wswebcdn.com
@@ -29025,7 +29026,6 @@ genshuixue.com
 gentags.com
 gentags.net
 geo-drcn.platform.hicloud.com
-geo.accdn.livepersonk.akadns.net
 geo.dbankcdn.com
 geo.gridsumdissector.com
 geo.hicloud.com

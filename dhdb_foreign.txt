@@ -4198,7 +4198,6 @@
 3e787c93af8de.com
 3ea9e6b5b344d1ec3bf92a8aaa271629.clo.footprintdns.com
 3edy.com
-3f32172d509aeb0.com
 3f41fcace2f9e3fa225d5deaa203cae2.clo.footprintdns.com
 3f9f440ecad916.com
 3fantizi.com
@@ -37389,6 +37388,7 @@ cn.msi.com
 cn.nikkei.com
 cn.nytstyle.com
 cn.picacomiccn.com
+cn.pool.ntp.org
 cn.pub.vpon.com
 cn.rti.tw
 cn.ru
@@ -61163,7 +61163,6 @@ futhead.com
 futilereposerefreshments.com
 futiry.com
 futpromos.com
-futsoksu.com
 futstation.com
 futterbarowa.net.zooplus.de
 futube.net
@@ -71092,7 +71091,6 @@ h4.elf168.net
 h4.trakx.nibba.trade
 h4399.com
 h4610.com
-h4k5.com
 h5-as.lydcwl.cn
 h5.013ld.com
 h5.069ld.com
@@ -85646,6 +85644,7 @@ k-manga.jp
 k-res.net
 k-ring.msedge.net
 k-xian.com
+k.85wa.cn
 k.campanile.com
 k.cocooncenter.be
 k.cocooncenter.co.uk
@@ -93224,7 +93223,6 @@ lushstories.com
 lusrg.cn
 lussac.net
 lustmanicureput.com
-lustresoonerrecalled.com
 lustron.ru
 lustypuppy.com
 lutachechu.pro
@@ -93955,6 +93953,7 @@ m.yzc212.com
 m.yzc369.com
 m.z0mh0u.cn
 m.z83rj.cn
+m.zcand.com
 m.zdjgj.cn
 m.zenwq.com
 m.zhuanyule.cn
@@ -101869,6 +101868,7 @@ mobilefacebook.com
 mobileforcesoftware.com
 mobilefuse.com
 mobilegamehackers.com
+mobilegw.alipay.com
 mobilegw.src.alipaydns.com
 mobilehacks.net
 mobilehacks4u.com
@@ -117756,6 +117756,7 @@ policester.info
 policityseriod.info
 policy.ccs.mcafee.com
 policy.cookiereports.com
+policy.jd.com
 policylink.org
 policymap.com
 policyorchestration.ccs.mcafee.com

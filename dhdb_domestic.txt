@@ -2865,6 +2865,7 @@
 2jianli.com
 2ktq.com
 2l0dpp.tdum.alibaba.com
+2lian.com
 2liang.net
 2loveyou.com
 2m2j.com
@@ -8700,6 +8701,7 @@ adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.madserving.com
+adv.sec.miui.com
 adv.zuimeitianqi.com
 advbeta.madserving.com
 advert.api.thejoyrun.com
@@ -16523,7 +16525,6 @@ chashebao.com
 chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
-chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com

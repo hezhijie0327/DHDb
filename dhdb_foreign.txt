@@ -18935,6 +18935,7 @@ api.bonusberry.ru
 api.bounceexchange.com
 api.box.com
 api.breezip.com
+api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.btstu.cn
@@ -30639,7 +30640,6 @@ buyu9901.com
 buyu9911.com
 buyu9933.com
 buyu9955.com
-buyu9979.com
 buyukhome.com
 buyvicodinonline.veryweird.com
 buywake.com
@@ -85103,7 +85103,6 @@ jsok147.com
 jsok369.com
 jsok789.com
 jsolmarketing.jp
-json.gewuwen.com
 json.schemastore.org
 json.smotri.com
 jsonline.com

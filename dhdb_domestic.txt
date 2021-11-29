@@ -10542,7 +10542,6 @@ api.s.suv666.com
 api.samsungcloudcn.com
 api.sdbao.com
 api.sdk.fmobi.cn
-api.sec.miui.com
 api.share.baidu.com
 api.share.mob.com
 api.share.n.shifen.com
@@ -25841,7 +25840,6 @@ epichackz.com
 epichust.com
 epinduo.com
 epinga.com
-epjike.com
 epjob88.com
 eplove.com
 epoch-cn.cdo.heytapmobi.com
@@ -27505,7 +27503,6 @@ flamesky.org
 flamingcold.com
 flaredup.com
 flash.cn
-flash.sec.miui.com
 flash2-http.qq.com
 flash8.net
 flash8f.com
@@ -47579,6 +47576,7 @@ nanshanski.com
 nanshifaxing.com
 nantaihu.com
 nantong.anjuke.com
+nantongbike.com
 nanxiong.baixing.com
 nanxueqx.com
 nanxunjob.com

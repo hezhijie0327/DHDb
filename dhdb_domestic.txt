@@ -10402,7 +10402,6 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
-api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -31997,6 +31996,7 @@ heitao2014.com
 heixi.com
 heiyaheiya.com
 heiyan.com
+heiyanwang.com
 heiying.cc
 heiyuege.com
 heiyuewan.com
@@ -35183,7 +35183,6 @@ ifxtx.com
 ifzq.finance.qq.com
 ifzq.gtimg.cn
 igame007.com
-igame58.com
 igao7.com
 igbox.net
 igdmfg.com

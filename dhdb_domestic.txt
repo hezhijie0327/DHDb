@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0.cn.pool.ntp.org
-0.pic.paopaoche.net
 0.pic.pc6.com
 0.pool.ntp.org
 0.up.qingdaonews.com
@@ -8693,7 +8692,6 @@ adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.madserving.com
-adv.sec.miui.com
 adv.zuimeitianqi.com
 advbeta.madserving.com
 advert.api.thejoyrun.com
@@ -29938,6 +29936,7 @@ grouplus.com
 grouptalk.c2c.qq.com
 groupyd.chaoxing.com
 groupyd2.chaoxing.com
+grours.cn
 growingio.cn
 growingio.com
 growthpic.weishi.qq.com

@@ -13009,6 +13009,7 @@ ads.as4x.tmcs.ticketmaster.com
 ads.asiafriendfinder.com
 ads.aspalliance.com
 ads.aspentimes.com
+ads.associatedcontent.com
 ads.astalavista.us
 ads.auctioncity.co.nz
 ads.auctions.yahoo.com
@@ -32898,7 +32899,6 @@ cbjs.ciwei.in
 cbjzw.org
 cbks0.googleapis.com
 cbldc.io
-cbleads.com
 cbmetrics.clickbank.com
 cbmiocw.com
 cbn.com
@@ -44656,7 +44656,6 @@ ddrinformatica.es
 ddrn6tjst80qg.cloudfront.net
 ddrqaq.superkul.no
 ddrrccck.m.qxs.la
-ddrsemxv.com
 dds.info.tm
 ddsnow.dental
 ddsp.jp
@@ -71646,6 +71645,7 @@ hanjie.biz
 hanjudao.com
 hanjumi.net
 hanjutiantang.com
+hanjutv.com
 hankeer.org
 hankewins.com
 hankooki.com
@@ -104893,6 +104893,7 @@ nan6.mrslove.com
 nanang.web.id
 nanapro.org
 nanawall.com
+nancai.net
 nanchao.win
 nanchengru.com
 nancyruspoli.com

@@ -7946,6 +7946,7 @@ abslw.com
 abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
+abtest.tantanapp.com
 abuquant.com
 abuyun.com
 ac-dun.security.ntes53.netease.com
@@ -14040,6 +14041,7 @@ boluoyunyu.com
 bom.ai
 bomanair.com
 bomin-china.com
+bon-top.com
 bon-wine.com
 bondlady.com
 bongmi.com
@@ -15439,6 +15441,7 @@ cces2006.org
 ccets.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
+ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
 ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
@@ -26526,7 +26529,6 @@ fajjj.com
 fala114.com
 fallback.signal.xm.meituan.com
 faloo.com
-famanoder.com
 fameile.net
 famen88.com
 famens.com
@@ -51852,6 +51854,7 @@ pr.x.hub.sandai.net
 prateekmahendrakar.gallerycdn.azure.cn
 prcedu.com
 prcee.org
+prd-lender.cdp.internal.unity3d.com
 pre-ad.alimama.com
 pre-adv.alimama.com
 pre.ra.icast.cn

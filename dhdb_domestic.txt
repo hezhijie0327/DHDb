@@ -5676,7 +5676,6 @@
 727432.com
 7280.com
 728512.p23.tc.cdntip.com
-728wy.com
 72byte.com
 72bz.com
 72ce.com
@@ -14710,6 +14709,7 @@ c.lenovo.com.cn.wswebcdn.com
 c.leslieyu.com.cn
 c.lianjikeji.cn
 c.lianwangtech.com
+c.lucktui.com
 c.m.163.com
 c.mageti.cn
 c.mipcdn.com
@@ -50927,6 +50927,7 @@ phonekr.com
 phopic.com
 phormchina.com
 photo.941ziyuan.cn
+photo.backerbiotech.cn
 photo.chaoxing.com
 photo.codefat.cn
 photo.fanya.chaoxing.com

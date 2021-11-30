@@ -7946,7 +7946,6 @@ abslw.com
 abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
-abtest.tantanapp.com
 abuquant.com
 abuyun.com
 ac-dun.security.ntes53.netease.com
@@ -18514,6 +18513,7 @@ cn.innity-asia.com
 cn.lakdc.top
 cn.launcher.battlenet.com.cn
 cn.letou118.net
+cn.linkedin.com
 cn.made-in-china.com
 cn.man484.com
 cn.mclean.50union.com
@@ -44304,7 +44304,6 @@ m3.static.yximgs.com.download.ks-cdn.com
 m3avko1.cachenode.cn
 m3guo.com
 m3u8.live.video.ptqy.gitv.tv
-m3ws.kugou.com
 m4.lefile.cn
 m4.lefile.cn.cdn20.com
 m4.mogu66.com
@@ -53456,6 +53455,7 @@ qidong.co
 qidong.name
 qidongyx.com
 qidou.com
+qiduocloud.com
 qiduowei.com
 qieerxi.com
 qiekj-web-log.cn-shanghai.log.aliyuncs.com

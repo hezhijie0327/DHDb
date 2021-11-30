@@ -1713,7 +1713,6 @@
 16yyy.net
 17-courier.push.apple.com
 17-courier2.push.apple.com
-17-js.com
 17.153.194.123.zz.countries.nerd.dk
 17.255.240.182.zz.countries.nerd.dk
 17.courier-push-apple.com.akadns.net
@@ -6594,7 +6593,6 @@
 76034.wang
 7611567.com
 76120903e8e7dea2562474d16d90e881.nrb.footprintdns.com
-761a280af77152d.com
 761w.com
 762125.cc
 762ck.com
@@ -8491,7 +8489,6 @@ a-ups-presencecore1-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore11-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore14-prod-azsc.eastus.cloudapp.azure.com
-a-ups-presencecore14-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore2-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore2-prod-azsc.japanwest.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.australiaeast.cloudapp.azure.com
@@ -33353,6 +33350,7 @@ cdn-www.marketing.net.zooplus.es
 cdn-www.partner.net.daraz.com
 cdn.000714.xyz
 cdn.234doo.com
+cdn.5bong.com
 cdn.88-f.net
 cdn.8digits.com
 cdn.91p07.com
@@ -60948,7 +60946,6 @@ ftxgame.com
 ftxzq.com
 ftysya.aboutyou.de
 ftzets.silkfred.com
-ftzulin.com
 fu.golikeus.net
 fu2.club
 fu37.gq
@@ -64170,6 +64167,7 @@ gkksi.com
 gkrsdn.cuoieriashop.com
 gksqdt.reitmans.com
 gksqfw.reverso.net
+gkstk.com
 gkvouu.aktiesport.nl
 gkxaay.tontarellishop.com
 gkxd.com
@@ -88073,7 +88071,6 @@ kt.com
 kt220.com
 kt5850pjz0.com
 ktar.com
-ktautdkiixlunl.com
 ktc-school.com
 ktf5kbl2m4.com
 ktgroup.com.ua
@@ -101817,7 +101814,6 @@ mlbihm.priverevaux.com
 mlcconsulting.it
 mlcool.com
 mldy.rsgbt.cn
-mldy.wttpgq.cn
 mldy.yxxgab.cn
 mlearning.ntue.edu.tw
 mlexmarketinsight.com

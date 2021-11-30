@@ -9848,7 +9848,6 @@ analytics.map.qq.com
 analytics.meituan.net
 analytics.meituan.net.s2txipv6.cdntip.com
 analytics.mpay.netease.com
-analytics.oneplus.cn
 analytics.pointdrive.linkedin.com
 analytics.shop.hisense.com
 analytics.snssdk.com
@@ -21000,7 +20999,6 @@ dai911.com
 daibi.com
 daibini.com
 daichuqu.com
-daicuo.cc
 daidaitong.com
 daidaitv.com
 daidongxi.com

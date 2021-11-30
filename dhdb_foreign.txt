@@ -2385,7 +2385,6 @@
 2.4.je
 2.adam.com
 2.android.pool.ntp.org
-2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -14641,6 +14640,7 @@ advertclickme.com
 advertere.zamunda.net
 adverteren.vakmedianet.nl
 adverterenbijnh.nl
+advertfan.com
 adverti.io
 advertica-cdn.com
 advertica.ae
@@ -32757,6 +32757,7 @@ casoneexchange.com
 casperbeauty.com
 caspion.com
 caspionlog.appspot.com
+casql.com
 casque-fr.com
 casquebeatsbydrdresolohd.com
 casquebeatsdocteurdre.com
@@ -33816,6 +33817,7 @@ cdnvideo.ru
 cdnwa.com
 cdnwidget.com
 cdnx.tribalfusion.com
+cdnzhuji.com
 cdobs.com
 cdp.asia
 cdp.org

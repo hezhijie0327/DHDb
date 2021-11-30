@@ -14262,6 +14262,7 @@ bs-adaptive.pull.yximgs.com
 bs-origin.pull.yximgs.com
 bs.5442.com
 bs.csshq.com.cn
+bs.forward.douban.com
 bs008.com
 bs14.9669.cn
 bs56.net
@@ -15433,6 +15434,7 @@ ccen.net
 ccepc.com
 cces2006.org
 ccets.com
+ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com
@@ -47092,7 +47094,6 @@ mxtronics.com
 mxw3.com
 mxyn.com
 mxzsjt.com
-mxzw.com
 mxzx123.net
 mxzzzs.com
 my-h5news.app.xinhuanet.com
@@ -55605,6 +55606,7 @@ restlbs.map.qq.com
 restsdk.amap.com
 resu8.hjfile.cn
 resuly.me
+retagapp.com
 retargeting.ctrip.com
 retargeting.ctrip.com.tel.rb.ctripgslb.com
 retcode.alicdn.com

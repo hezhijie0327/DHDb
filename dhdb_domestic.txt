@@ -10472,7 +10472,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -27078,7 +27077,6 @@ fengj.com
 fengji.me
 fengji.net
 fengjing.com
-fengjinshuo.com
 fengjr.com
 fengkongcloud.com
 fengkuangzaoren.com
@@ -33443,7 +33441,6 @@ huadonghospital.com
 huadongmedia.com
 huadoo.com
 huaduocai.net
-huadx.com
 huaease.net
 huafans-pics-p04-drcn.club.vmall.com
 huafans-pics-p05-drcn.club.vmall.com
@@ -40163,7 +40160,6 @@ kede.com.hk
 keede.com
 keenonrobot.com
 keensky.com
-keep.city
 keep.com
 keepc.com
 keepcdn.com

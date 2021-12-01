@@ -11226,6 +11226,7 @@ as1.wenku.baidu.com
 as2.binstream.live
 as3f.com
 as5.com
+asa.commerce.apple.com
 asa.commerce.apple.com.cdn20.com
 asap.ad7.com
 asc-wines.com
@@ -16449,7 +16450,6 @@ chanway.net
 chanzhi.org
 chanzuimei.com
 chaoart.com
-chaobaida.com
 chaofan.wang
 chaofanshuma.com
 chaoji.com
@@ -29852,6 +29852,7 @@ grand.ele.me
 grandcloud.cn
 grandlisboa.com
 grandomics.com
+grangorz.org
 grapchina.org
 graph.baidu.com
 graph.qq.com

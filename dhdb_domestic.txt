@@ -728,7 +728,6 @@
 10000.sh
 1000003.hybrid.miniapp.taobao.com
 10000idc.net
-10000ja.net
 10000job.com
 10000link.com
 10000shequ.com
@@ -880,6 +879,7 @@
 108qi.com
 108sq.com
 108tian.com
+108tlc.com
 109.com
 10906c0205096e21661807951a4d782e.dlied1.cdntips.net
 10909.com
@@ -10307,7 +10307,6 @@ api-news.zhhainiao.com
 api-pan.xunlei.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
-api-pricetag.dmall.com
 api-prod.leancloud.cn
 api-push.meizu.com
 api-sc.wtzw.com
@@ -10429,6 +10428,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hyhuo.com
 api.iapps.ifeng.com
@@ -14507,6 +14507,7 @@ bwgongye.com
 bwgrt.com
 bwhgsb.com
 bwie.net
+bwin3099.com
 bwmelon.com
 bwpx.com
 bwsoft.net
@@ -23413,7 +23414,6 @@ douhaosoft.com
 douhua.net
 douhuibuy.com
 doukantv.com
-doukeji.com
 doukekan.cn
 doulai.com
 doulaicha.com

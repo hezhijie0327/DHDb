@@ -2939,6 +2939,7 @@
 308308.com
 30c.org
 30edu.com.cn
+30mksr.cn
 30play.com
 30px.com
 3106tl.tdum.alibaba.com
@@ -18358,6 +18359,7 @@ cms.v5.juzi.cn
 cms1924.org
 cms1api.dmall.com
 cms2012.bnu.edu.cn
+cmsapi.dmall.com
 cmsapi.wifi8.com
 cmsblogs.com
 cmscdn.chinaedu.net
@@ -54900,7 +54902,6 @@ qy.qchannel03.cn
 qy32.vip
 qy435.com
 qy6.com
-qy6.net
 qyaaaa.com
 qyc2008.com
 qycn.com

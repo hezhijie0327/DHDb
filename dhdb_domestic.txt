@@ -660,6 +660,7 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
+1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -10332,6 +10333,7 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
+api.account.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -11223,7 +11225,6 @@ as1.wenku.baidu.com
 as2.binstream.live
 as3f.com
 as5.com
-asa.commerce.apple.com
 asa.commerce.apple.com.cdn20.com
 asap.ad7.com
 asc-wines.com
@@ -38828,7 +38829,6 @@ joozone.com
 joqoo.com
 josephcz.xyz
 joudou.com
-journalmc.com
 jourserv.com
 jouypub.com
 jovcloud.com

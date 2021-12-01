@@ -2,7 +2,6 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -2199,6 +2198,7 @@
 2.aili.com
 2.arpun.com
 2.bashenghuo.com
+2.centos.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
 2.pic.pc6.com
@@ -54023,6 +54023,7 @@ qqdeveloper.com
 qqdiannao.com
 qqdiannaoguanjiadl.com
 qqe2.com
+qqenglish.com
 qqeo.com
 qqf5fj2p.sched.sma.tdnsv5.com
 qqgameappcdn.qq.com
@@ -56854,7 +56855,6 @@ sbkh5.com
 sbkk8.com
 sblunwen.com
 sbpb1.chuiyue.com
-sbpb1.qulishi.com
 sbr-info.com
 sbsjk.com
 sbt123.com

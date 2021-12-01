@@ -817,7 +817,6 @@
 100yigui.com
 100yingcai.com
 100yiyao.com
-100yue.com
 100zp.com
 101.com
 10101111.com
@@ -10468,6 +10467,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -20555,7 +20555,6 @@ d.gionee.com
 d.hexuntech.cn
 d.ifengimg.com
 d.jd.com
-d.jd.com.gslb.qianxun.com
 d.jjyx.com
 d.kugou.com
 d.mingyihui.net
@@ -46734,6 +46733,7 @@ mr.mbd.baidu.com
 mrabit.com
 mrbanana.com
 mrcjcn.com
+mrclown.cn
 mrcrm.com
 mrcuriosity.org
 mrcywang.com
@@ -55274,7 +55274,6 @@ realsee.com
 realtime.monitor.ppweb.com.cn
 realvoice.ewdcloud.com
 realxen.com
-reasew.com
 reasonclub.com
 rebatesme.com
 rebooo.com

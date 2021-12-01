@@ -544,7 +544,6 @@
 0916auto.com
 0917.com
 0919123.com
-0921vch.xyz
 0931lanzhou.com
 0931qd.com
 0938net.com
@@ -3984,7 +3983,6 @@
 5010ef08.fyeds5.com
 5015c0hc.sched.sma-dk.tdnsv5.com
 501wan.com
-50331.net
 503error.com
 504pk.com
 505013.vhost251.cnameaddress.top
@@ -10427,6 +10425,7 @@ api.hengdianfilm.com
 api.home.news.cn
 api.huangye.miui.com
 api.huya.com
+api.hybrid.xiaomi.com
 api.hyhuo.com
 api.iapps.ifeng.com
 api.iimedia.cn
@@ -35723,6 +35722,7 @@ img.cmm.xmfish.com
 img.cmsky.com
 img.contents.m.liebao.cn
 img.crawler.qq.com
+img.cscl.com.cn
 img.ct.youth.cn
 img.d1xz.net
 img.diya1.com
@@ -36595,7 +36595,6 @@ ios.bugly.qq.com
 ios.rqd.qq.com
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
-iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com

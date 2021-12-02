@@ -5,6 +5,7 @@
 0.gravatar.com
 0.nextyourcontent.com
 0.oldgyhogola.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -2382,6 +2383,7 @@
 2.4.je
 2.adam.com
 2.android.pool.ntp.org
+2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -5065,6 +5067,7 @@
 51youcai.cc
 51youcai.com
 51ys.com
+51zbz.com
 51zbz.net
 51zd.net
 51zhujia.com
@@ -7426,6 +7429,7 @@
 88dushu.com
 88e6d961-1520-4b1b-85cb-1a640c1fa3fc.mitdmp.whiteboxdigital.ru
 88eg.cn
+88eq.com
 88gae.com
 88gobet.com
 88hah.com
@@ -9931,7 +9935,6 @@ abacksoda.com
 abacode.com
 abacusdx.com
 abacusnews.com
-abadrease.top
 abaegitim.com
 abakus.freenet.de
 abakys.ru
@@ -13522,7 +13525,6 @@ ads.simtel.com
 ads.simtel.net
 ads.sinhvienit.net
 ads.sjon.info
-ads.skorfikstur.com
 ads.sl.interpals.net
 ads.smartclick.com
 ads.smartclicks.com
@@ -20660,6 +20662,7 @@ arubainstanton.com
 arubaito-ex.jp
 arubamediamarketing.it
 arubanetworks.com
+arukas.io
 arunraghavan.net
 aruoyf.peterhahn.ch
 aruplab.com
@@ -23128,7 +23131,6 @@ b9848.com
 b9855.com
 b997.com
 b9999.tw
-b9ba73f1cd9b6.com
 b9msljkxf96s.ru
 ba-content.de
 ba-sh.com
@@ -63116,6 +63118,7 @@ gers.co
 gertesaevided.xyz
 gertibaldi.com
 geruksom.net
+geryi.com
 geselecteerde-winnaar.nl
 gesgxsj.com
 gesseducation.com
@@ -115379,6 +115382,7 @@ peacehall.com
 peacehillbb.com
 peacehills.com
 peacepowder.com
+peachlandeu.com
 peachring.com
 peachsquat.com
 peachy18.com
@@ -120843,7 +120847,6 @@ ptipsixo.com
 ptipsout.net
 ptirgaux.com
 ptiuod.claudiastrater.com
-ptkhy.com
 ptlaohu.com
 ptlwm.com
 ptmcos.beginning.kr
@@ -128175,6 +128178,7 @@ s.infogram.com
 s.insidehalton.com
 s.insideottawavalley.com
 s.iroby.com
+s.iuuff.com
 s.jghcy.com
 s.jhakie.com
 s.jimdo.com

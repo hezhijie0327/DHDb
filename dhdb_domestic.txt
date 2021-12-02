@@ -2,7 +2,6 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -21590,6 +21589,7 @@ dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
 dc.api.my7v.com
+dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -25472,6 +25472,7 @@ ei6nd.com
 eiabbs.net
 eickaopei.com
 eicp.net
+eid.jd.com
 eid.jd.com.gslb.qianxun.com
 eidlink.com
 eidsign.com.cn
@@ -37177,7 +37178,6 @@ iufida.com
 iuhy.lhy2.xyz
 iuinns.com
 iuiweb.com
-iuliao.com
 iuniware.com
 iuoooo.com
 iupnlpd.cn

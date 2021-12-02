@@ -2196,7 +2196,6 @@
 2.aili.com
 2.arpun.com
 2.bashenghuo.com
-2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -16750,6 +16749,7 @@ chilunyc.com
 chimee.org
 chimelong.com
 chimezi.com
+china-10.com
 china-315.com
 china-ah.com
 china-apt.com

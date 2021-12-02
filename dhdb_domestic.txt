@@ -4437,7 +4437,6 @@
 51web.com
 51weihu.com
 51wendang.com
-51wj.com
 51wjrc.com
 51wm-pic1.oss-cn-hangzhou.aliyuncs.com
 51wm-pic1.oss-cn-hangzhou.aliyuncs.com.gds.alibabadns.com
@@ -10382,6 +10381,7 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
+api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -15433,6 +15433,7 @@ ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com.gslb.qianxun.com
+ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -24736,7 +24737,6 @@ e.t71q.com
 e.tapdb.net
 e.tf.360.cn
 e.vaxyz.com
-e.vchiy.com
 e.weather.com.cn
 e.weibo.com
 e.wsxxu.com
@@ -27756,6 +27756,7 @@ fp.czvv.com
 fp.fraudmetrix.cn
 fp.hwwt8.com
 fp.nanrenwo.net
+fp.ps.netease.com
 fp.tongdun.net
 fpb.docin.com
 fpb.sohu.com
@@ -34566,7 +34567,6 @@ i52tt.com
 i574ou0.cdnnodedns.cn
 i5i6.net
 i5zhen.com
-i6.weather.oppomobile.com
 i618.com.cn
 i7.3conline.com
 i7aot4.com

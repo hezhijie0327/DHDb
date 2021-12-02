@@ -1899,7 +1899,6 @@
 1869165.sched.sma.tdnsv5.com
 1869pa4r.sched.sma-dk.tdnsv5.com
 1870636.sched.v1-dk.tdnsv5.com
-1872.net
 1873.img.pp.sohu.com.cn
 1873.img.pp.sohu.com.cn.wsglb0.com
 1874497.p23.tc.cdntip.com
@@ -4631,6 +4630,7 @@
 52maicong.com
 52mba.com
 52mengdong.com
+52miji.com
 52ml.net
 52mtc.com
 52muyou.com

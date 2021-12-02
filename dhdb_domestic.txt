@@ -10297,6 +10297,7 @@ api-news.zhhainiao.com
 api-pan.xunlei.com
 api-pay-biz.jd.com
 api-pay-biz.jd.com.gslb.qianxun.com
+api-pricetag.dmall.com
 api-prod.leancloud.cn
 api-push.meizu.com
 api-sc.wtzw.com
@@ -31473,6 +31474,7 @@ hayeen.com
 haygptin.p23.tc.cdntip.com
 hazq.com
 hb-green.com
+hb-ly.com
 hb-ws.com
 hb.gsxt.gov.cn
 hb.sina.com.cn
@@ -44393,7 +44395,6 @@ mafangwo.com
 mafengs.com
 mafengwo.cn
 mafengwo.ink
-mafengwo.net
 maff.com
 mag10000.com
 mag998.com
@@ -47677,7 +47678,6 @@ ncvtmi.com
 ncwckj.com
 ncyinghuochong.net
 ncyunqi.com
-nczfj.com
 nd.mdfull.com
 nd090.com
 nd15.com
@@ -52184,7 +52184,6 @@ pull-flv-l13.douyincdn.com
 pull-flv-l26-cny.douyincdn.com
 pull-flv-l26.douyincdn.com
 pull-flv-l27.douyincdn.com
-pull-flv-l29.douyincdn.com.ucloud.com.cn
 pull-flv-l6-cny.douyincdn.com
 pull-flv-l6-hs.pstatp.com
 pull-flv-l6-source.douyincdn.com

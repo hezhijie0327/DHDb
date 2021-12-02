@@ -7810,7 +7810,6 @@ api-login.kkbox.com.tw
 api-metrics-e2e.nonprod.flurry.com
 api-metrics-smoke.nonprod.flurry.com
 api-p.videomarket.jp
-api-pricetag.dmall.com
 api-zdj.com
 api.1beb2a44.space
 api.1q8h.cn
@@ -17341,7 +17340,6 @@ ddnete.com
 ddns-only.xyz
 ddns.ne
 ddns.tokyo
-ddnsddns.com
 ddnslive.com
 ddomb.com
 ddomm.com
@@ -26084,7 +26082,6 @@ haynet.io
 hayseen.com
 hazelcrestcoxsackie.com
 hb-247.com
-hb-ly.com
 hb-wtw.com
 hb1111.com
 hb12333.com
@@ -29463,7 +29460,6 @@ ivchui.cn
 ivcorp.com.ar
 ive04-adapt.pddpic.com
 ivetki.ru
-ivfihumeajjmbc.com
 ivgl.czyiming.club
 ivitrack.com
 ivjtgtjcizwh.com
@@ -35418,6 +35414,7 @@ madsack-native.de
 madyna.ru
 mafenggo.com
 mafengwo.com
+mafengwo.net
 mafenword.com
 mafia-banner.myftp.org
 mafutian.net
@@ -42271,6 +42268,7 @@ potjevleesch.xyz
 potplayer.pro
 potterpetrey.com
 poum.nextinpact.com
+poupheeg.com
 pourcentfilers.com
 povapeba.xyz
 povbdf.cn

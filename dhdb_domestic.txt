@@ -8117,6 +8117,7 @@ action.weixin.qq.com
 actionsky.com
 activate-channel-guide.yy.com
 activation.unity.cn
+active.baofeng.com
 active.clewm.net
 active.starbucks.com.cn
 active.starbucks.com.cn.wsglb0.com
@@ -12620,7 +12621,6 @@ bcrjl.com
 bcrvit0.cdnnodedns.cn
 bcsky.pro
 bcstobos.jomodns.com
-bcsytv.com
 bctest.com
 bctmo.com
 bcty365.com
@@ -22624,6 +22624,7 @@ dispatcher.camera360.com
 dispatcher.is.autonavi.com
 dispatcher.is.autonavi.com.gds.alibabadns.com
 dispatcher.upmc.uc.cn
+display.360totalsecurity.com
 display.adhudong.com
 displink.com
 ditan360.com

@@ -8686,6 +8686,7 @@ adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.madserving.com
+adv.sec.miui.com
 adv.zuimeitianqi.com
 advbeta.madserving.com
 advert.api.thejoyrun.com
@@ -10410,6 +10411,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -14208,7 +14210,6 @@ brandzw.com
 braoa3.tdum.alibaba.com
 brasil.gallerycdn.azure.cn
 breadtrip.com
-breeze.olclient.baofeng.com
 brentron.com
 bricktou.com
 bridge-image.com
@@ -18539,7 +18540,6 @@ cn22.net
 cn2che.com
 cn314.com
 cn357.com
-cn360cn.com
 cn3k5.com
 cn3wm.com
 cn486.com

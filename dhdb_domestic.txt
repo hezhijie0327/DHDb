@@ -10552,7 +10552,6 @@ api.tuhu.cn
 api.tuisong.baidu.com
 api.tv.sohu.com
 api.tw06.xlmc.sandai.net
-api.tw06.xlmc.sec.miui.com
 api.udache.com
 api.ujian.cc
 api.union.vip.com
@@ -21428,7 +21427,6 @@ dawandao.com
 dawaner.net
 daweibro.com
 daweisoft.com
-daweixinke.com
 dawenming.com
 dawenxue.org
 dawx.com
@@ -34809,6 +34807,7 @@ ickey.cn
 iclicash.com
 iclickstatic.com
 icloseli.cn
+icloudnews.net
 iclouds.work
 icme14.org
 icminer.com
@@ -44729,7 +44728,6 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
-mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn

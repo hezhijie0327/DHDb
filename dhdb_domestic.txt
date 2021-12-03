@@ -15817,7 +15817,6 @@ cdn.huaixuejy.com
 cdn.huijiwiki.com
 cdn.iciba.com
 cdn.iclicash.com
-cdn.img.liuxingyul.cn
 cdn.ioiox.com
 cdn.iplaysoft.com
 cdn.ishansong.com
@@ -21694,7 +21693,6 @@ ddmap.com
 ddmeishi.com
 ddmer.com
 ddmogo.com
-ddms.jd.com
 ddms.jd.com.gslb.qianxun.com
 ddmyapp.wscdn.tcdn.qq.com
 ddmyapp.wscdn.tcdn.qq.com.lxdns.com
@@ -45704,6 +45702,7 @@ midday.me
 middle.tgp.qq.com
 midea.com
 midifan.com
+midinfo.baofeng.com
 midiyinyue.com
 midonline.net
 midpf-account.cdn.bcebos.com

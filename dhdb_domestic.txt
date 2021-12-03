@@ -10054,7 +10054,6 @@ anxiu.com
 anxiw.com
 anxjm.com
 anxz.com
-any.broker.prod.zpath.net
 any.cdn-go.cn.cloud.tc.qq.com
 any.cdn-go.x2s-dstack.sched.dcloudstc.com
 any8.com
@@ -46790,6 +46789,7 @@ msg.csdn.net
 msg.douyu.com
 msg.eclicks.cn
 msg.iqiyi.com
+msg.m.jd.com
 msg.m.jd.com.gslb.qianxun.com
 msg.ptqy.gitv.tv
 msg.push.51y5.net

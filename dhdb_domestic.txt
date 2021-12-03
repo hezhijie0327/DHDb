@@ -14354,7 +14354,6 @@ btvcd.net
 btwob.net
 btyou.com
 btzhcc.com
-bu-shen.com
 bu01.zybang.com
 bu02.zybang.com
 bu1.duba.com
@@ -16496,6 +16495,7 @@ chashebao.com
 chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
+chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
@@ -19341,6 +19341,7 @@ connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
 connectivitycheck.gstatic.com
 connector-systems.com
+connectwifi.org
 connpm.gj.qq.com
 connps.gj.qq.com
 conshow.com

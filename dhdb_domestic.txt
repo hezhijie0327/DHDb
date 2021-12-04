@@ -10396,7 +10396,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -11474,6 +11473,7 @@ austarstudy.com
 australia.people.com.cn
 auth-ai.meituan.com
 auth.api.gitv.tv
+auth.be.sec.miui.com
 auth.sonkwo.com
 auth.wosms.cn
 authlogin.kfc.com.cn
@@ -44070,7 +44070,6 @@ m.mpl.dutils.com
 m.myams.cn
 m.nabeghlavi.com.cn
 m.nb.17house.com
-m.nejup.com
 m.news.cctv.com
 m.newsmth.net
 m.nuoqingck.cn
@@ -44451,7 +44450,6 @@ mail.wo.cn
 mail.yeah.net
 mail163.com
 maila88.com
-mailatuan.net
 mailbusinfo.com
 mailehudong.com
 mailejifen.com
@@ -48484,6 +48482,7 @@ nplusgroup.com
 nplusgroup.net
 npm.cdn-go.cn
 npodevelopment.org
+npoll.net
 npp.cc
 npxsw.com
 nq37f.cn

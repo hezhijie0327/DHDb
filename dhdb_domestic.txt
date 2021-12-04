@@ -8675,7 +8675,6 @@ adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.madserving.com
-adv.sec.miui.com
 adv.zuimeitianqi.com
 advbeta.madserving.com
 advert.api.thejoyrun.com
@@ -29605,7 +29604,6 @@ gongheshengshi.com
 gongjianglaile.com
 gongjiao.com
 gongju.com
-gongju5.com
 gongjuji.net
 gongkaoleida.com
 gongkong.com
@@ -34699,7 +34697,6 @@ ic9cube.com
 ica-alliance.org
 icafe8.com
 icafe8.net
-icaidao.com
 icaikee.com
 icaile.com
 icandata.com
@@ -38002,6 +37999,7 @@ jiaxuejiyin.com
 jiayi1.oss-cn-shanghai.aliyuncs.com
 jiayi56.com
 jiayin618.com
+jiayinleasing.com
 jiayongluyou.com
 jiayouhaoche.com
 jiayouxueba.com
@@ -43128,7 +43126,6 @@ loginserver.kuwo.cn
 loginxian.leiting.com
 logistics-mrd.jd.com
 logistics-mrd.jd.com.gslb.qianxun.com
-logman.dmall.com
 logmonitor.leiting.com
 logo123.net
 logo33.com

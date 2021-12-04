@@ -245,7 +245,6 @@
 037201.com
 037398.com
 0376.net
-0376news.com
 0377cw.com
 0378zz.com
 0379city.com
@@ -10902,7 +10901,6 @@ appdownload.mail.10086.cn
 appdownload.youku.com
 appdriver.cn
 appdriver.com.cn
-appdump.nie.netease.com
 appeasou.com
 appengine.wmpvp.com
 apperr.log.mgtv.com
@@ -43037,7 +43035,6 @@ log.mmstat.com
 log.mpns.hunantv.com
 log.music.baidu.com
 log.nuomi.com
-log.nvwa.baofeng.com
 log.p2p.hunantv.com
 log.qchannel03.cn
 log.qvb.qcloud.com

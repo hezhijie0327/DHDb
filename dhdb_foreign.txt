@@ -13894,7 +13894,6 @@ adserver-eu.adtech.advertising.com
 adserver-us.adtech.advertising.com
 adserver.100free.com
 adserver.71i.de
-adserver.a24.com.tr
 adserver.abv.bg
 adserver.ad4link.com
 adserver.adreactor.com
@@ -16439,6 +16438,7 @@ aliyun-cdn.com
 aliyun.org
 aliyuncss.com
 aliyune.xyz
+aliyunf.xyz
 aliyuni.xyz
 aliyunj.com
 aliyunj.xyz
@@ -17007,7 +17007,6 @@ am6777.com
 am728.com
 am730.com.hk
 am738.com
-am77p.cn
 ama.com
 amaando.com
 amaaozn.com
@@ -84640,6 +84639,7 @@ jnsdkjzs.com
 jnsiematcnc.com
 jnsino.com
 jnstdc.com
+jntianjin.club
 jntyhl.com
 jnxkfldio.com
 jnxm2.com
@@ -93427,7 +93427,6 @@ lustypuppy.com
 lutachechu.pro
 lutaigao.snfda.com
 lutaizhang.xlfmguanyin.com
-lutcdiimmeze.com
 lutci.com
 lutong2013.com
 lutouwang.net
@@ -102095,6 +102094,7 @@ mobilead.vn
 mobileads.msn.com
 mobileadspopup.com
 mobileadsserver.com
+mobileadtrading.com
 mobileanalytics.us-east-1.amazonaws.com
 mobileapi.advertising.com
 mobileapp.apple.com

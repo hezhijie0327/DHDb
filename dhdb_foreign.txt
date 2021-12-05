@@ -8489,7 +8489,6 @@ a-ups-presencecore1-prod-azsc.japanwest.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore11-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.centralus.cloudapp.azure.com
-a-ups-presencecore14-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore2-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore2-prod-azsc.japanwest.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.australiaeast.cloudapp.azure.com
@@ -71486,7 +71485,6 @@ hack-free.com
 hack-free.org
 hack-games.info
 hack-guru.com
-hack-machine.com
 hack-market.com
 hack-planet.com
 hack1000.com
@@ -77104,7 +77102,6 @@ identads.com
 identi.ca
 identi.io
 identificationralphrefuel.com
-identifyluckyexactly.com
 identity.ess-apple.com.akadns.net
 identity.ess.apple.com
 identity.nel.measure.office.net
@@ -81013,6 +81010,7 @@ install.sidesearch.lycos.com
 installads.net
 installads.org
 installationtray.com
+installer.zutrack.com
 installerleading.com
 installfaster.com
 installmac.com

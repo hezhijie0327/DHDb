@@ -4136,6 +4136,7 @@ a-ups-presencecore11-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore13-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore13-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presencecore14-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore14-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.centralus.cloudapp.azure.com
@@ -25669,6 +25670,7 @@ hack-freedownload.com
 hack-gems-dragoncity.com
 hack-island.com
 hack-land.info
+hack-machine.com
 hack-mafia.com
 hack-release.com
 hack-team.org
@@ -28136,6 +28138,7 @@ idees-vip.com
 ideesduweb.com
 idemocracy.asia
 identified.cn
+identifyluckyexactly.com
 idevoa.cn
 idg.zone
 idhvbfj.pro
@@ -29004,7 +29007,6 @@ instahookupclub3.com
 install2.kugou.com
 installads2.com
 installbitdefender.org
-installer.zutrack.com
 installerdatauk.info
 installp.com
 instamore.top
@@ -35715,6 +35717,7 @@ maneta.info
 manfen.net
 mangafuna.xyz
 mangafunc.fun
+mangg.net
 manggo.fun
 mangler1.generals.ea.com
 mangler10.generals.ea.com

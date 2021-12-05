@@ -19319,6 +19319,7 @@ congtad.com
 congyicn.com
 conn.wemeet.tencent.com
 conn1.coloros.com
+conn1.oppomobile.com
 conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
@@ -27612,7 +27613,6 @@ fongmong.com
 font.chinaz.com
 fontke.com
 fonts-gstatic.wp-china-yes.net
-fonts.geekzu.org
 fonts.googleapis.com
 fonts.gstatic.com
 fontstar.com.cn
@@ -36884,6 +36884,7 @@ ishici.com
 ishipoffshore.com
 ishoujizhuan.com
 ishowchina.com
+ishowx.com
 ishugui.com
 ishuhui.com
 ishuhui.net
@@ -46556,7 +46557,6 @@ morequick.net
 mores.toponad.com
 moresing.com
 moretickets.com
-moretime.vip
 morevfx.com
 morewis.com
 morewiscloud.com
@@ -55214,7 +55214,6 @@ reabble.cn
 reachace.com
 reachjunction.com
 react-china.org
-react.mobi
 reactor.xingye.work
 read.qidian.com
 read100.com
@@ -56522,7 +56521,6 @@ s4.mini.wpscdn.cn
 s4.music.126.net
 s4.ssl.qhimg.com
 s4.tool.lu
-s4.url.cn
 s4.vip.wpscdn.cn
 s4g5.com
 s4yd.com
@@ -56756,7 +56754,6 @@ sanxiamarathon.com
 sanxiapharm.com
 sanxige.com
 sanxinbook.com
-sanxiw.com
 sanya.anjuke.com
 sanya.esf.fang.com
 sanyachloe.com

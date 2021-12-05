@@ -14265,6 +14265,7 @@ bshu.com
 bsida.com
 bsiet.husky.sogou.com
 bsjhhzs.com
+bsjquanwu.com
 bsn.console.aliyun.com
 bspeizi.com
 bspia.com
@@ -39022,7 +39023,6 @@ js.idgdmg.com.cn
 js.idgdmgroup.com.cn
 js.jialingmm.net
 js.letvcdn.com
-js.maidagu.com.w.cdngslb.com
 js.mgtv.com
 js.mgtv.com.wscdns.com
 js.miaozhen.com
@@ -41981,7 +41981,6 @@ leyvo.com
 lezai.com
 lezhi99.com
 lezhibo.com
-lezhieducation.com
 lezhiot.com
 lezhiyun.com
 lezhuan.com
@@ -49784,6 +49783,7 @@ p.ananas.chaoxing.com.wswebpic.com
 p.appjiagu.com
 p.aty.sohu.com
 p.biligame.com
+p.bnuni.com
 p.clkservice.youdao.com
 p.comments.youku.com
 p.conn.aiseet.atianqi.com
@@ -55574,7 +55574,6 @@ resu8.hjfile.cn
 resuly.me
 retagapp.com
 retargeting.ctrip.com
-retargeting.ctrip.com.tel.rb.ctripgslb.com
 retcode.alicdn.com
 retcode.alicdn.com.danuoyi.tbcache.com
 retcode.taobao.com

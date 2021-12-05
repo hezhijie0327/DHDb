@@ -2,6 +2,7 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -34743,7 +34744,6 @@ icebear.me
 icebound.cc
 iceflowsoft.com
 icefoxgame.com
-icekr.com
 icemf.com
 iceshi.org
 icesimba.com
@@ -55097,6 +55097,7 @@ rankaiyx.com
 rankhit.china.com
 ranking.m.jd.com
 ranknowcn.com
+ranqibio.com
 rantu.com
 ranzhi.net
 ranzhi.org
@@ -57777,7 +57778,6 @@ sh.file.myqcloud.com
 sh.gsxt.gov.cn
 sh.ioiox.net
 sh.ipv6.photo.store.qq.com.tcdn.qq.com
-sh.jd.com
 sh.jd.com.gslb.qianxun.com
 sh.ke.com
 sh.lianjia.com

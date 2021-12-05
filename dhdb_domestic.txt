@@ -6035,6 +6035,7 @@
 7kla.com
 7kww.net
 7kxs.com
+7kzw.com
 7littlemen.com
 7liwu.com
 7lk.com
@@ -11377,7 +11378,6 @@ atcc360.com
 atchip.com
 atcontainer.com
 atcpu.com
-atctest.org
 atf.com
 atfeng.com
 atguigu.com
@@ -11535,7 +11535,6 @@ autoqingdao.com
 autoshanghai.org
 autosmt.net
 autospaceplus.com
-autoupdate.tantanapp.com
 autoupdate7.synology.cn
 auwinner.com
 aux.soperson.com
@@ -43949,6 +43948,7 @@ m.client.10010.com.w.cdngslb.com
 m.clkservice.youdao.com
 m.cnkang.com
 m.cocounion.com
+m.ctrip.com
 m.cudaojia.com
 m.czvv.com
 m.da.mgtv.com
@@ -46742,7 +46742,6 @@ msdn.itellyou.cn.w.kunluncan.com
 mse.jd.com
 msearch.51job.com
 mseddl.gitee.io
-msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net

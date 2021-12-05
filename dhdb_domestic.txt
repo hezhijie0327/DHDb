@@ -2191,7 +2191,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.asia.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -19524,7 +19523,6 @@ countly.mail.163.com
 countpage.sznews.com
 countpvn.light.fang.com
 countubn.light.soufun.com
-coupon.m.jd.com
 coupon996.com
 coupons.console.aliyun.com
 covcec.com
@@ -26950,7 +26948,6 @@ feifeicms.co
 feifeixitong.com
 feiffy.cc
 feige.ee
-feigedaojia.com
 feigesp.com
 feih.com.cn
 feihua.com
@@ -30609,6 +30606,7 @@ gzddbz.byf.com
 gzdhlkj001.b2b.huangye88.com
 gzdingyu.com
 gzdsw.com
+gzduoqicai.cn
 gzdysx.com
 gzenxx.com
 gzesap.com

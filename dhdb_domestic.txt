@@ -691,7 +691,6 @@
 1.sj33.net
 1.snzfj.net
 1.tecbbs.com
-1.tongquee.com
 1.ttxs123.net
 1.tulaoshi.com
 1.uc129.com
@@ -4347,6 +4346,7 @@
 51qtg.com
 51qudao888.com
 51qufx.com
+51qumi.com
 51qupu.com
 51quzhe.com
 51rc.com
@@ -52084,7 +52084,6 @@ public-v6.sparta.mig.tencent-cloud.net
 public.app.autohome.com.cn
 public.creditchina.gov.cn
 public.ffquan.cn
-public.gw.dmall.com
 public.ias.tencent-cloud.net
 public.sparta.mig.tencent-cloud.net
 public.wlbaike.com

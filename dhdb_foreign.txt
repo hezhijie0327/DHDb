@@ -6439,7 +6439,6 @@
 716.itemdb.com
 7160.com
 71668.net
-716703.com
 7167584.com
 71692fai4cc0.com
 7172737.com
@@ -19623,6 +19622,7 @@ appcloudcdn.com
 appconsent.io
 appcontent.serif.com
 appdatum.com
+appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appduu.com
@@ -31379,6 +31379,7 @@ c6-eu-3.algolianet.com
 c6.paypal.com
 c61ec7314ee.com
 c6398976.mgr.gcsp.cddbp.net
+c63d72a4022.com
 c668sz.com
 c68.com
 c7.etowns.org
@@ -38549,7 +38550,6 @@ common-us.onedrive.akadns.net
 common.com
 common.duapps.com
 common.org
-commonafdrk-geo.onedrive.akadns.net
 commonalmanac.com
 commonclaimsmistakesvideo.com
 commondatastorage.googleapis.com
@@ -41275,6 +41275,7 @@ cs1025.wpc.upsiloncdn.net
 cs108.com
 cs1100.wpc.omegacdn.net
 cs1227.wpc.alphacdn.net
+cs12d.com
 cs145.com
 cs148.com
 cs154.com
@@ -101468,7 +101469,6 @@ miovision.com
 mip.api.mcafeewebadvisor.com
 mipagerank.com
 mips.tv
-mipujia.com
 mipwm.com
 miqeuu.timberland.it
 mir-18.ru

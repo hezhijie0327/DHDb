@@ -9427,6 +9427,7 @@ ali.static.yximgs.com
 ali.static.yximgs.com.m.alikunlun.com
 ali.static.yximgs.com.m.alikunlun.com.c.cdnuyun.cn
 ali.static.yximgs.com.m.alikunlun.com.qr.uuhimalayanqm.com
+ali.xmssdn.micloud.mi.com
 ali2-course.video.yximgs.com
 ali2-course.video.yximgs.com.m.alikunlun.com
 ali2.a.kwimgs.com
@@ -10096,7 +10097,6 @@ ao5g1i0.cachenode.cn
 aoaob.com
 aobaishi.com
 aobosoft.com
-aocai2008.com
 aocdn.com
 aoch.com
 aod-cn-lb.itunes-apple.com.akadns.net
@@ -19016,7 +19016,6 @@ co.baifubao.com
 co.dtech.baofeng.com
 co188.com
 co188cdn.com
-coachtech.online
 coalcn.com
 coantec.com
 coapi.51job.com

@@ -10377,7 +10377,6 @@ api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
-api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -10773,6 +10772,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -25648,6 +25648,7 @@ emtx.com
 emuban.com
 emuch.net
 emugif.com
+emuia.com
 emulatedlab.com
 emushroom.net
 emyard.com
@@ -31880,6 +31881,7 @@ hebca.com
 hebcar.com
 hebei.cm
 hebei.sina.com.cn
+hebeidns.com
 hebeifeimeng.com
 hebeigwy.org
 hebeijd.com
@@ -46186,6 +46188,7 @@ mmcomm.qpic.cn
 mmcxu.com
 mmds.suning.com
 mmdspre.cnsuning.com
+mme.ink
 mmfad.com
 mmfbm.com
 mmfj.com

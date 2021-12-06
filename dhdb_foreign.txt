@@ -18988,6 +18988,7 @@ api.dell.com
 api.demandbase.com
 api.develop.repo.net.zooplus.de
 api.developdisabled.net.zooplus.de
+api.developer.xiaomi.com
 api.disabled.controller.net.zooplus.de
 api.disabled.mail.net.zooplus.de
 api.disabled.paywall.net.zooplus.de
@@ -19039,6 +19040,7 @@ api.graphql.imdb.com
 api.grumft.com
 api.help.priv.net.zooplus.de
 api.hfyhjg.cn
+api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
 api.iaddisabled.net.zooplus.de
@@ -23373,7 +23375,6 @@ baidulook.com
 baiduonce.com
 baidusemer.com
 baidut.github.io
-baiduv.com
 baiduvv.com
 baiduyiyi.com
 baiduyoukualiyun.com

@@ -8082,7 +8082,6 @@ acs.m.taobao.com
 acs.m.taopiaopiao.com
 acs.wapa.taobao.com
 acs.youku.com
-acs2.cp12.ott.cibntv.net
 acs4baichuan.m.taobao.com
 acshoes.com
 acsrq.com
@@ -19398,6 +19397,7 @@ coolact.net
 coolaf.com
 coolapk.com
 coolapkmarket.com
+coolapkmarket.net
 coolbook.cc
 coolbuy.com
 coolchuan.com

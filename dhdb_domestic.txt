@@ -8035,7 +8035,6 @@ acg.gd
 acg.gg
 acg.tv
 acg17.com
-acg4.com
 acg6.com
 acgcp.com
 acgdb.com
@@ -32521,6 +32520,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.linkedin.com
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site

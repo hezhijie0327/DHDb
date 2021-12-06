@@ -661,7 +661,6 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
-1.asia.pool.ntp.org
 1.bashenghuo.com
 1.bh5.com.cn
 1.ccutu.com
@@ -4585,6 +4584,7 @@
 52edy.com
 52enku.com
 52fangzi.com
+52flac.com
 52foto.com
 52fuqing.com
 52fuqu.com
@@ -31152,7 +31152,6 @@ hannor.com
 hanpinyuan.com
 hanqiweb.co
 hanqiweb.net
-hanqiweb.red
 hanshow.com
 hansiji.com
 hansme.com

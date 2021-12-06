@@ -54478,7 +54478,6 @@ query-node.yfscdn.net
 query-suggestion.ai.xiaomi.com
 query.aliyun.com
 query.dcdn.baidu.com
-query.hicloud.com
 query.tencent-cloud.com
 queshao.com
 queshu.com
@@ -60341,6 +60340,7 @@ starlott.com
 starlunwen.org
 starming.com
 starmobs.com
+starmoe.xyz
 starpainters.net
 starpiao.com
 starrtc.com

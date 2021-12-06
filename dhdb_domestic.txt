@@ -565,6 +565,7 @@
 0a6862642a69271ae3fb2e68dbed50f2.dlied1.cdntips.net
 0ac786cad3734667e0dd3762ddc55a41.dlied1.cdntips.net
 0b14c44f69c5ed6a4574115a16dea8a7.v.smtcdns.net
+0b2qv7.cn
 0b6815367c13b0dfdafa91e5f71b6eeb.safeframe.googlesyndication.com
 0b98c74f7366776252700d69af7322b4.safeframe.googlesyndication.com
 0bbe03cec7c3ddf01a6402dbbda1edb5.safeframe.googlesyndication.com
@@ -42586,6 +42587,7 @@ lishixinzhi.com
 lishui.com
 lisp123.com
 list.jd.com
+list.jd.com.gslb.qianxun.com
 list.suning.com
 list.tmall.com
 list.youku.com

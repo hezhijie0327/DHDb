@@ -37026,7 +37026,6 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
-item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com
@@ -43095,6 +43094,7 @@ loggw-exsdk.alipay.com
 loggw-extiny.alipay.com
 loggw.alipay.com
 loggw.alipaydns.com
+loghao.com
 logic.content.qq.com
 logicdsp.com
 login.1688.com

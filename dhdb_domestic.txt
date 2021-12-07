@@ -9413,7 +9413,6 @@ ali-p2p.pull.yximgs.com.w.alikunlun.com
 ali-proxy.pull.yximgs.com
 ali-proxy.pull.yximgs.com.w.alikunlun.net
 ali-safety-video.acfun.cn
-ali-safety-video.acfun.cn.w.alikunlun.com
 ali-safety-video.acfun.cn.w.alikunlun.com.qr.uuhimalayanqm.com
 ali-stats.jpush.cn
 ali-xdcmt.static.yximgs.com
@@ -10374,7 +10373,6 @@ api.cpu.baidu.com
 api.crucio.hecdn.com
 api.cupid.dns.iqiyi.com
 api.cupid.iqiyi.com
-api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
 api.device.xiaomi.net
@@ -19807,7 +19805,6 @@ crashes.mo.wps.cn
 crasheye.cn
 crashlytics.163.com
 crashlytics2.l.google.com
-crashlyticsreports-pa.googleapis.com
 crawl.ws.126.net
 crawlersdkapi.msxf.com
 crawlersdkapi.xngslb.msxf.com
@@ -19868,7 +19865,6 @@ crimoon.net
 crispstata.com
 crl.apple.com
 crl.kaspersky.com
-crl.pki.goog
 crlcn.com
 crlf0710.com
 crlg.com
@@ -36439,7 +36435,6 @@ ins-x1gw7ds2.ias.tencent-cloud.net
 ins-y499hqad.ias.tencent-cloud.net
 ins-yud13rmr.ias.tencent-cloud.net
 ins-yvag47w6.ias.tencent-cloud.net
-ins-z2x3wvjw.ias.tencent-cloud.net
 ins.pplive.com
 ins.xfyun.cn
 insarticle.com

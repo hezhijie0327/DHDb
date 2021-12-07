@@ -9434,7 +9434,6 @@ ali.static.yximgs.com.m.alikunlun.com.qr.uuhimalayanqm.com
 ali.xmssdn.micloud.mi.com
 ali2-course.video.yximgs.com
 ali2-course.video.yximgs.com.m.alikunlun.com
-ali2.a.kwimgs.com
 ali2.a.kwimgs.com.w.kunlunhuf.com
 ali2.a.kwimgs.com.w.kunlunhuf.com.qr.uuhimalayanqm.com
 ali2.a.yximgs.com
@@ -22516,7 +22515,6 @@ dimg04.c-ctrip.com.a.bdydns.com
 dimg04.c-ctrip.com.wscdns.com
 dimg05.c-ctrip.com
 dimg05.c-ctrip.com.wscdns.com
-dimg06.c-ctrip.com
 dimg06.c-ctrip.com.wscdns.com
 dimg07.c-ctrip.com
 dimg07.c-ctrip.com.wscdns.com
@@ -29955,7 +29953,6 @@ gslbmgsplive.miguvideo.com
 gslbtx.ximalaya.com
 gsmyi.com
 gsp0.baidu.com
-gsp1.baidu.com
 gsp10-ssl-cn.ls-apple.com.akadns.net
 gsp10-ssl-cn.ls.apple.com
 gsp85-cn-ssl.ls.apple.com

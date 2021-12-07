@@ -7788,7 +7788,6 @@
 9-sun.com
 9.courier-push-apple.com.akadns.net
 9.courier2-push-apple.com.akadns.net
-9.rarbg.com
 9.rarbg.me
 9.rarbg.to
 9.tlu.dl.delivery.mp.microsoft.com
@@ -8917,7 +8916,6 @@ a.pomf.su
 a.pornomixfree.com
 a.pourquoidocteur.fr
 a.prisacom.com
-a.privatelink.msidentity.com
 a.profile-ns.emailvision.net.daraz.com
 a.proxy4.nullrefexcep.com
 a.proxy5.nullrefexcep.com
@@ -35993,7 +35991,6 @@ ci-lib-ln-2.net.daraz.com
 ci-marketing.de
 ci-ns1.viviotech.net.daraz.com
 ci-web.cn
-ci.appveyor.com
 ci.beeppool.org
 ci.etowns.net
 ci.net.zooplus.de
@@ -50958,7 +50955,6 @@ ea.poeleaboismaison.com
 ea.pstmrk.it
 ea.quiksilver.eu
 ea.radiateurplus.com
-ea.rentacar.fr
 ea.reunica.com
 ea.roxy.eu
 ea.smallable.com

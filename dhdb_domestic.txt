@@ -1838,6 +1838,7 @@
 17wanxiao.com
 17wclass.com
 17weike.com
+17wendao.com
 17win.com
 17xie.com
 17xlm.com
@@ -10622,7 +10623,6 @@ api3-normal-c-lf.amemv.com
 api3-normal-c-lf.ixigua.com
 api3-normal-c-lq.amemv.com
 api3-normal-lq.toutiaoapi.com
-api3-normal-lq.toutiaoapi.com.w.cdngslb.com
 api3.gifshow.com
 api3.ksapisrv.com
 api3.mairuan.com
@@ -20523,7 +20523,6 @@ czzy-edu.com
 d-api-m.le.com
 d-ctrip.com
 d-heaven.com
-d-qc.tapimg.com
 d-test.39.net
 d.070790.com
 d.1391.com
@@ -30857,7 +30856,6 @@ h5.vedamobi.com
 h5.vip.qq.com
 h5.wannaplay.cn
 h5.wdjky.com
-h5.weishi.qq.com
 h5.xiaolianhb.com
 h5.yangrongdayipifa.com
 h5.zhongguowangshi.com

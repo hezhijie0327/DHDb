@@ -10677,7 +10677,6 @@ apiquic.kwaixiaodian.com
 apirent.anjuke.com
 apis-samsungyp.dianhua.cn
 apis.gmugmu.com
-apis.map.qq.com
 apis1.gifshow.com
 apis1.ksapisrv.com
 apis2.gifshow.com
@@ -10836,7 +10835,6 @@ app.xunjiepdf.com
 app.yinxiang.com
 app.ymatou.com
 app.zhidian3g.cn
-app.znds.com
 app001.com
 app0js53jjm9680.h5.xiaoeknow.com
 app1.nmpa.gov.cn
@@ -11187,7 +11185,6 @@ as-hitech.com
 as-proxy.rnd.huawei.com
 as-vip.missfresh.cn
 as.61.com
-as.alipayobjects.com
 as.alipayobjects.com.danuoyi.tbcache.com
 as.aplus.pptv.com
 as.aw.mt.mob.com
@@ -17975,7 +17972,6 @@ clientgear.com
 clientlog.music.163.com
 clientlog3.music.163.com
 clientlog3.music.ntes53.netease.com
-clientmap.baidu.com
 clientservices.googleapis.com
 cliim.com
 cliim.net
@@ -29058,7 +29054,6 @@ gfs14.gomein.net.cn
 gfs14.gomein.net.cn.wscdns.com
 gfs17.gomein.net.cn
 gfs17.gomein.net.cn.wswebpic.com
-gfs2.gomein.net.cn
 gfs2.gomein.net.cn.wscdns.com
 gfs4.gomein.net.cn
 gfs4.gomein.net.cn.wscdns.com
@@ -29259,7 +29254,6 @@ gitbook.net
 gitclone.com
 gitcode.net
 gitduck.gallerycdn.azure.cn
-gitee.com
 gitee.io
 github-avatars.oss-cn-hongkong.aliyuncs.com
 github-trending.com
@@ -30732,7 +30726,6 @@ h.m.mpl.dutils.com
 h.myyqxiu.com
 h.pcd.autohome.com.cn
 h.sora.yoyi.com.cn
-h.trace.qq.com
 h.youdao.com
 h0.ifengimg.com
 h01.hxsame.hexun.com
@@ -36220,7 +36213,6 @@ inabr.com
 inad.com
 inadmin.convshop.com
 inapp.1sapp.com
-inapp.1sapp.com.w.kunlunpi.com
 inapp.1sapp.com.wswebcdn.com
 inappcheck-cn.itunes-apple.com.akadns.net
 inappcheck.itunes.apple.com.download.ks-cdn.com

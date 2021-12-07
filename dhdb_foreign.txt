@@ -14404,7 +14404,6 @@ adsoldier.com
 adsolut.in
 adsolutions.nl
 adsomenoise.cdn01.rambla.be
-adsomi.com
 adson.awempire.com
 adsonar.com
 adsonflags.com
@@ -22059,7 +22058,6 @@ aurora-pro.com
 auroracheats.com
 auroramine.com
 aurorapush.cn
-aus5.mozilla.org
 ausa.org
 ausaview.com
 ausbeatsbydrdre.com
@@ -37839,7 +37837,6 @@ cname.jf-d.jp
 cname.kyusai.co.jp
 cname.lions-mansion.jp
 cname.mebiusseiyaku.co.jp
-cname.vercel-dns.com
 cname1.shakenkan.co.jp
 cnamegslb.com
 cnanzhi.com
@@ -42467,7 +42464,6 @@ customer-4876.micpn.com
 customer-allseason.net.daraz.com
 customer-center.baumueller.com
 customer-servicessl.net.zooplus.de
-customer.cludo.com
 customer.cludo.com.cdn.cloudflare.net
 customer.heartinternet.co.uk
 customer.io
@@ -43380,7 +43376,6 @@ d2cpw6kwpff7n5.cloudfront.net
 d2cxg7rthbxl28.cloudfront.net
 d2d04b321ce6f29231148bece599b9b7.clo.footprintdns.com
 d2d8qsxiai9qwj.cloudfront.net
-d2domkqtye5ppe.cloudfront.net
 d2dq2ahtl5zl1z.cloudfront.net
 d2e0sxz09bo7k2.cloudfront.net
 d2e30rravz97d4.cloudfront.net
@@ -45436,7 +45431,6 @@ definebabe.com
 definedlaunching.com
 definefetish.com
 definitial.com
-definitionupdates.microsoft.com
 defiques.com
 defisolutions.com
 defpush.com
@@ -49746,7 +49740,6 @@ duga.jp
 dugesheying.com
 duggarfamilyblog.com
 duginamis.com
-dugothitachan.com
 dugout.com
 dugtor-deer.pw
 dugun.com
@@ -50761,7 +50754,6 @@ e719.net
 e72345b2-dnsotls-ds.metric.gstatic.com
 e7248.dscb.akamaiedge.net
 e7248.dsce9.akamaiedge.net
-e7279.dsce9.akamaiedge.net
 e7279.dsce9.akamaiedge.net.0.1.cn.akamaiedge.net
 e7299b9c-dnsotls-ds.metric.gstatic.com
 e751.dscx.akamaiedge.net
@@ -50832,7 +50824,6 @@ e9030.playfabapi.com
 e9215.x.akamaiedge.net
 e93-apps.com
 e9398.g.akamaiedge.net
-e9412.b.akamaiedge.net
 e94a941778d.com
 e9518.c.akamaiedge.net
 e9590c90a8.com
@@ -63582,7 +63573,6 @@ geofamily.ru
 geoforce.com
 geoinfo.i2w.io
 geoinventory.com
-geoip-alb-nstoolsg-1229339792.ap-southeast-1.elb.amazonaws.com
 geoip-db.com
 geoip-js.com
 geoip-lookup.vice.com

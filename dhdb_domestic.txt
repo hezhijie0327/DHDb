@@ -909,7 +909,6 @@
 11.jiangzi.com.cname3039.yjs-cdn.com
 11.mydrivers.com
 11.yiqig.cn
-110.com
 11000011.com
 1100tk.com
 1101576.sched.sma.tdnsv5.com
@@ -2075,7 +2074,6 @@
 1hkt.com
 1hp3pr2.cachenode.cn
 1hshop.com
-1huamu.com
 1ia9lt.wx.fpoll.net
 1img.hitv.com
 1img.mgtv.com
@@ -11310,7 +11308,6 @@ assets.dspunion.com.wswebcdn.com
 assets.easou.com
 assets.giocdn.com
 assets.giocdn.com.wswebpic.com
-assets.gitee.com
 assets.growingio.com
 assets.growingio.com.wswebpic.com
 assets.taobao.com
@@ -12734,7 +12731,6 @@ bdimg1.qunliao.info.w.alikunlun.com
 bdimg2.qunliao.info
 bdimg2.qunliao.info.download.ks-cdn.com
 bdinfo.net
-bding.net
 bdjiaoben.wmxa.cn
 bdjj.bzr99.com
 bdjs.120askimages.com
@@ -18142,7 +18138,6 @@ cltqs.com
 cltt.org
 club-img.douyucdn.cn
 club-v4.chinanorth.cloudapp.chinacloudapi.cn
-club.jd.com
 club.jd.com.gslb.qianxun.com
 club.lenovo.com.cn
 club.m.autohome.com.cn
@@ -18478,7 +18473,6 @@ cn-zjhz-cu-v-06.bilivideo.com
 cn.actual.battle.net
 cn.aiclean.50union.com
 cn.alicdn.com
-cn.alicdn.com.danuoyi.tbcache.com
 cn.aliyun.com
 cn.app.chat.xiaomi.net
 cn.bidushe.com
@@ -28724,7 +28718,6 @@ gd.gsxt.gov.cn
 gd.sina.com.cn
 gd.sycdn.kuwo.cn
 gd.unicommusic.gtimg.com
-gd1.alicdn.com
 gd1.alicdn.com.danuoyi.alicdn.com
 gd1580.com
 gd165.com
@@ -35340,7 +35333,6 @@ ilanx0.net
 ilaw66.com
 ilawpress.com
 ilce.alicdn.com
-ilce.alicdn.com.danuoyi.tbcache.com
 ileci.com
 ileedarson.com
 ileehoo.com

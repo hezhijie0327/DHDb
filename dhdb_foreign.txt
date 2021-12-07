@@ -4458,7 +4458,6 @@
 40shopping.com
 40tp.com
 40ya.com
-41-courier.push.apple.com
 41-courier2.push.apple.com
 41.courier-push-apple.com.akadns.net
 41.courier2-push-apple.com.akadns.net
@@ -13824,7 +13823,6 @@ ads.uncrate.com
 ads.undertone.com
 ads.unison.bg
 ads.unister-gmbh.de
-ads.uptobox.com
 ads.urbandictionary.com
 ads.us.e-planning.net
 ads.usatoday.com
@@ -21991,7 +21989,6 @@ aufeminin.com
 auforex.americanexpress.com
 aufp.io
 aufsafari.de
-augaufta.com
 augheguw.net
 augloop-prod-001.southeastasia.cloudapp.azure.com
 augloop-prod.trafficmanager.net
@@ -22859,7 +22856,6 @@ az668014.vo.msecnd.net
 az693360.vo.msecnd.net
 az700632.vo.msecnd.net
 az708531.vo.msecnd.net
-az725175.vo.msecnd.net
 az745087.vo.msecnd.net
 az764295.vo.msecnd.net
 az795675.vo.msecnd.net
@@ -34152,7 +34148,6 @@ cdrbenefits.com
 cdrvrs.com
 cdryny.com
 cds-cdn.v.aaplimg.com
-cds.apple.com
 cds.apple.com.akadns.net
 cds.d6n9n7e2.hwcdn.net
 cds.f7f2q8c3.hwcdn.net
@@ -53884,7 +53879,6 @@ entiregraterfurs.com
 entirelyorange.com
 entireweb.com
 entitlement-public-service-prod08.ol.epicgames.com
-entitlement.auth.adobe.com
 entitlement.diagnostics.office.com
 entitlements.api.2kcoretech.online
 entitlements.jwplayer.com
@@ -74144,7 +74138,6 @@ hiitch.com
 hijabilicious.com
 hijacky.com
 hijxfm.gaspedaal.nl
-hik-er.com
 hikari-tax.com
 hikari.dmm.com
 hikarinokiseki.com

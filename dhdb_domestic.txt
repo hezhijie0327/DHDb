@@ -10105,7 +10105,6 @@ aobosoft.com
 aocdn.com
 aoch.com
 aod-cn-lb.itunes-apple.com.akadns.net
-aod-image-material.cdn.bcebos.com
 aod-image-material.cdn.bcebos.com.a.bdydns.com
 aod-image.baidu.com
 aod-image.baidu.com.a.bdydns.com
@@ -14948,7 +14947,6 @@ cache.video.dns.iqiyi.com
 cache.video.iqiyi.com
 cache.video.ptqy.gitv.tv
 cache.video.qiyi.com
-cache.yisu.com
 cache.yisu.com.w.cdngslb.com
 cacheapigo.che168.com
 cachecn.com
@@ -20664,7 +20662,6 @@ d2.sina.com.cn
 d2.sinaimg.cn
 d2.static.yximgs.com
 d2.static.yximgs.com.w.cdngslb.com
-d2.static.yximgs.com.w.cdngslb.com.qr.uuhimalayanqm.com
 d2.ugslb.com
 d2.yiche.com
 d20.net
@@ -30410,7 +30407,6 @@ gw.api.taobao.com
 gw.com.cn
 gw.d.ywopt.com
 gw.innotechx.com
-gw.m.163.com
 gw.wdjky.com
 gw1.alicdn.com
 gw1.alicdn.com.danuoyi.tbcache.com

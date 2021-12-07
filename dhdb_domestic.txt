@@ -9426,7 +9426,6 @@ ali.pull.yximgs.com.w.alikunlun.net
 ali.push.yximgs.com
 ali.push.yximgs.com.w.alikunlun.net
 ali.static.yximgs.com
-ali.static.yximgs.com.m.alikunlun.com
 ali.static.yximgs.com.m.alikunlun.com.c.cdnuyun.cn
 ali.static.yximgs.com.m.alikunlun.com.qr.uuhimalayanqm.com
 ali.xmssdn.micloud.mi.com
@@ -15753,7 +15752,6 @@ cdn-xalbum-mp4.xiaoniangao.cn
 cdn-xalbum2.xiaoniangao.cn
 cdn-xphoto2.xiaoniangao.cn
 cdn-xyx.raink.com.cn
-cdn-zjk-trans.dingtalk.com
 cdn.0i-i0.com
 cdn.10bests.com
 cdn.10bests.com.w.kunlungr.com
@@ -22626,7 +22624,6 @@ diuling.com
 diushouji.com
 div.io
 diviner.jd.com
-diviner.jd.com.gslb.qianxun.com
 division-data.alicdn.com
 diwork.com
 dixintong.com
@@ -27267,6 +27264,7 @@ filez.com
 fillersmart.com
 fillseo.com
 film.qq.com
+films666.com
 filmtv.cdn.ptmi.gitv.tv
 fim34s.com
 fimmu.com
@@ -32805,6 +32803,7 @@ hnxmxit.com
 hnxuntang.com
 hnxxjn.com
 hnxyjt.com
+hnycsk.com
 hnyfkj.com
 hnyjsedu.com
 hnykcs.com
@@ -35619,7 +35618,6 @@ img-cdn-spot.ymcdn.cn
 img-cdn.vlightv.com
 img-community.csdnimg.cn
 img-dsp.oss-cn-beijing.aliyuncs.com
-img-home.csdnimg.cn
 img-hxy021.didistatic.com
 img-my.csdn.net
 img-my.csdn.net.w.cdngslb.com

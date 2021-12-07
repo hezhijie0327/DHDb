@@ -1201,7 +1201,6 @@
 123-mobileclient1.net.daraz.com
 123-tracker.com
 123.20.83.208.zz.countries.nerd.dk
-123.92.32.121.zz.countries.nerd.dk
 123.effers.com
 123.suroot.com
 12301china.com
@@ -1592,7 +1591,6 @@
 15xsw.net
 15yc.com
 16-b.it
-16-courier.push.apple.com
 16-courier2.push.apple.com
 16-marketing.net.daraz.com
 16-partner.net.daraz.com
@@ -7788,7 +7786,6 @@
 9-sun.com
 9.courier-push-apple.com.akadns.net
 9.courier2-push-apple.com.akadns.net
-9.rarbg.me
 9.rarbg.to
 9.tlu.dl.delivery.mp.microsoft.com
 90.207.63.36.zz.countries.nerd.dk
@@ -10108,7 +10105,6 @@ aax-eu-dub.amazon.com
 aax-eu.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
-aax-us-pdx.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
 aax.amazon-adsystem.com
 aaxdetect.com
@@ -15866,7 +15862,6 @@ aicpastore.com
 aicsnet.com
 aicydb.com
 aid-ad.jp
-aid-golf-golfdust-training.tabrays.com
 aidafen.com
 aidaicn.com
 aidaigry.com
@@ -23031,7 +23026,6 @@ azwus2-client-s.msnmessenger.msn.com.akadns.net
 azwxpp.nequittezpas.jp
 azxhnt.uniformadvantage.com
 azxsd.pro
-azygeydluhz.com
 azz.badazz.org
 azzpbn.com
 azzure-it.com
@@ -31445,7 +31439,6 @@ c.mkmp365.com
 c.mnet-ad.net
 c.mobilens.emailvision.net.daraz.com
 c.msn.cn
-c.msn.com
 c.msn.com.cn
 c.my.msn.com
 c.nakanohito.jp
@@ -43706,7 +43699,6 @@ d3l3lkinz3f56t.cloudfront.net
 d3l4g80jp3jxn8.cloudfront.net
 d3l9i1ddlxxv5c.cloudfront.net
 d3lcz8vpax4lo2.cloudfront.net
-d3li6nbiu1ldtm.cloudfront.net
 d3lidvwz6p81oz.cloudfront.net
 d3lu45piikoyqh.cloudfront.net
 d3lvir7538n0oi.cloudfront.net
@@ -57089,7 +57081,6 @@ fassinating.com
 fast-adv.it
 fast-hack.com
 fast-hunter.com
-fast-prod-cluster-loki.australiaeast.cloudapp.azure.com
 fast-prod-cluster-loki.koreasouth.cloudapp.azure.com
 fast-prod-cluster-loki.southeastasia.cloudapp.azure.com
 fast-prod-cluster-loki.westus2.cloudapp.azure.com
@@ -64984,7 +64975,6 @@ globalpingbao.com
 globalpointofcare.abbott
 globalpost.com
 globalr-is-1-2.net.daraz.com
-globalrescue.hopto.org
 globalrescue.net
 globalriskregulator.com
 globalscape.com

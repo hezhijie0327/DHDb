@@ -5136,6 +5136,7 @@
 5jjdw.com
 5joys.com
 5jwl.com
+5kbox.com
 5kcrm.com
 5kcrm.net
 5kda.com
@@ -7460,7 +7461,6 @@ a.ad7.com
 a.alimama.cn
 a.alimama.cn.danuoyi.tbcache.com
 a.alipayobjects.com
-a.alipayobjects.com.danuoyi.tbcache.com
 a.amap.com
 a.amap.com.danuoyi.tbcache.com
 a.amghais.cn
@@ -10193,7 +10193,6 @@ ap-dd2.jd.com
 ap-dd2.jd.com.gslb.qianxun.com
 ap-southeast-my88-a01-vncproxy-ecs.aliyun.com
 ap-static.dongqiudi.com
-ap.cpatrk.net
 ap.dongqiudi.com
 ap.ksrong.com
 ap.nloader.xyz
@@ -11814,6 +11813,7 @@ b2b168.org
 b2b179.com
 b2baa.com
 b2badmin.lenovo.com.cn
+b2bic.com
 b2bname.com
 b2bneican.com
 b2bservice.lenovo.com.cn
@@ -19150,7 +19150,6 @@ collecter.frontjs.com
 collection.sina.com.cn
 collector.51zmt.net
 collector.91fenfa.com
-collector.dcdn.baidu.com
 collector.galaxyclouds.cn
 collector.szlcsc.com
 collector.wasu.cn
@@ -23047,7 +23046,6 @@ dn8188.com
 dnbbn.com
 dnbcw.info
 dndci.com
-dnet.mb.qq.com
 dnf.17173.com
 dnfkong.com
 dnfm.biligame.com

@@ -7992,6 +7992,7 @@ api.tumra.com
 api.uom.cn
 api.vasb.cn
 api.wapa.taobao.com
+api.weathercn.com
 api.weltevree.eu
 api.whizzone.com
 api.xc17868.com
@@ -10521,6 +10522,7 @@ bitcoinxadder.com
 bitcoinzone.cash
 bitdefenderlogin.me
 bitdrop.life
+bitdrop.top
 bitdskins.com
 bitekou.com
 bitf.hopto.org
@@ -18355,6 +18357,7 @@ dns.containerpi.com
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.mercax.com
+dns.msftncsi.com
 dns.whatleaks.com
 dns100.net
 dns102.com
@@ -22656,6 +22659,7 @@ fonrex.com
 font6.com
 fontostudni.club
 fonts.css.network
+fonts.googleapis.com
 food-drink-bonuspath.com
 food-drink-rewardpath.com
 foodforyou.info
@@ -22823,6 +22827,7 @@ fqwffnj.cn
 fqxkrjajxspm.danaher.org
 fqxkrjajxspm.idmnet.org
 fr.apple.com-services-assistance-recuperations-des-comptes.com
+fr2007.com
 fr33dom.h33t.com
 fra-rbx-c1-s1.inf.nimiq.network
 fra-rbx-c1-s2.inf.nimiq.network

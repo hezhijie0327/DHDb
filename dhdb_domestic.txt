@@ -10561,7 +10561,6 @@ api.vip.miui.com
 api.vlightv.com
 api.vuevideo.net
 api.w.inmobi.com
-api.weathercn.com
 api.weibo.cn
 api.weibo.com
 api.weishi.qq.com
@@ -27633,7 +27632,6 @@ fongmong.com
 font.chinaz.com
 fontke.com
 fonts-gstatic.wp-china-yes.net
-fonts.googleapis.com
 fonts.gstatic.com
 fontstar.com.cn
 foodbk.com
@@ -27791,7 +27789,6 @@ fqzww.com
 fr-odc.samsungapps.com
 fr-trading.com
 fr.uwenku.com
-fr2007.com
 fr8npi.com
 fractal-technology.com
 fragment.tmall.com

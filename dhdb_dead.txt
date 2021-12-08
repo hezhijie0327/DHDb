@@ -1681,6 +1681,7 @@
 33portala.ru
 33shalong.com
 33shangyou.com
+34-courier.push.apple.com
 34-courier2.push.apple.com
 3400.org
 340ca71c.space
@@ -5705,6 +5706,7 @@ ads.asp.net
 ads.atlantamotorspeedway.com
 ads.audio.thisisdax.com
 ads.augusta.com
+ads.avct.cloud
 ads.aversion2.com
 ads.avocarrot.com
 ads.aws.sitepoint.com
@@ -5950,6 +5952,7 @@ ads.newcity.com
 ads.newcitynet.com
 ads.newdream.net
 ads.newgrounds.com
+ads.newmedia.cz
 ads.newsbtc.com
 ads.newsquest.co.uk
 ads.newtimes.com
@@ -7713,6 +7716,7 @@ analytics.radiatemedia.com
 analytics.redbubble.com
 analytics.services.distractify.com
 analytics.sonymusic.com
+analytics.sports.ru
 analytics.sqreem.com
 analytics.teamcoco.com
 analytics.techdiary.dev
@@ -8099,6 +8103,7 @@ api.szmhxx.cn
 api.tabnine.com
 api.tinyhoneybee.com
 api.tongji.today
+api.trakt.tv
 api.tumra.com
 api.uom.cn
 api.vasb.cn
@@ -8471,6 +8476,7 @@ aqfy.net
 aqknmbh198dn.com
 aqllq.993726.cn
 aqntswfhpxwlifl.xyz
+aqq.smoba.qq.com
 aqqgli3vle.bid
 aqu.am
 aqua-skins.com
@@ -12047,6 +12053,7 @@ c.sz.gt.igexin.com
 c.t98u8f.com
 c.tctyb.cn
 c.tgslww.cn
+c.tieba.baidu.com
 c.tjmzzk.com
 c.tlscqw.cn
 c.top267.com
@@ -12863,6 +12870,7 @@ cdn.cookiescript.info
 cdn.cpsoft86.com
 cdn.danmu.56.com
 cdn.dl.7.qq.com
+cdn.doubleverify.com
 cdn.dtm.dmm.co.jp
 cdn.dtm.dmm.com
 cdn.dustyorate.com
@@ -12918,6 +12926,7 @@ cdn.pulpix.com
 cdn.qutyan8848.com
 cdn.radiatewheel.info
 cdn.softlayer.net
+cdn.speedcurve.com
 cdn.stat.easydate.biz
 cdn.static-cnt.bi
 cdn.static-cnt.bid
@@ -14802,6 +14811,7 @@ collector-medium.lightstep.com
 collector-steal.ga
 collector.apester.com
 collector.dcdn.baidu.com
+collector.githubapp.com
 collector.hamsterix.cam
 collector.newsx.cc
 collector.puhutv.com
@@ -17224,6 +17234,7 @@ d7mglq142hzrl.cloudfront.net
 d7p9czrvs14ne.cloudfront.net
 d7rme1d99gjjk.cloudfront.net
 d8.mobaders.com
+d8.sinaimg.cn
 d8.zedo.com
 d81ffd2404a05c5c504017d81412f367.jddebug.com
 d81pam37egi8w.cloudfront.net

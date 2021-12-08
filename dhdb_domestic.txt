@@ -12755,7 +12755,6 @@ bdqnwh.com
 bds-cn.com
 bds.haochu.com
 bds.haochu.com.cname4009.yjs-cdn.com
-bds.snssdk.com
 bdsearch.2345.com
 bdsgps.com
 bdshuang.com
@@ -17962,7 +17961,6 @@ clientlog3.music.ntes53.netease.com
 clientservices.googleapis.com
 cliim.com
 cliim.net
-climg.mukewang.com
 climg.mukewang.com.w.kunlunhuf.com
 clinicmed.net
 cliport.com
@@ -18533,7 +18531,6 @@ cnaifm.com
 cnair.com
 cnal.com
 cname-cdn.com
-cname.dingtalk.com.gds.alibabadns.com
 cname.fanyi.ntes53.netease.com
 cname.xiaomiyoupin.com
 cname1.qywww.net
@@ -19175,7 +19172,6 @@ comlbs.com
 comm.app.autohome.com.cn
 commchina.net
 commdata.v.qq.com
-commdata6.v.qq.com
 commendyd.chaoxing.com
 comment-api.huxiu.com
 comment-card.iqiyi.com
@@ -25597,7 +25593,6 @@ ems517.com
 emsym.com
 emtana.com
 emtronix.com
-emtx.com
 emuban.com
 emuch.net
 emugif.com
@@ -26627,7 +26622,6 @@ fanyedu.com
 fanyi-app.baidu.com
 fanyi-cdn.cdn.bcebos.com
 fanyi-cdn.cdn.bcebos.com.a.bdydns.com
-fanyi.baidu.com
 fanyi.ntes53.netease.com
 fanyi.youdao.com
 fanyi1.fanyi100.com.cn
@@ -27675,7 +27669,6 @@ foundertech.com
 foundertype.com
 founpad.com
 fountask.com
-fourier.alibaba.com
 fourier.taobao.com
 fovmy.com
 fox-studio.net
@@ -28707,7 +28700,6 @@ gd3.alicdn.com
 gd3.alicdn.com.danuoyi.alicdn.com
 gd32.com
 gd3n.com
-gd4.alicdn.com
 gd4.alicdn.com.danuoyi.alicdn.com
 gd563.com
 gda086.com
@@ -33863,7 +33855,6 @@ huodong.m.taobao.com
 huodong.m.taobao.com.danuoyi.tbcache.com
 huodong.mobilem.360.cn
 huodong.org
-huodong.taobao.com
 huodong.taobao.com.danuoyi.tbcache.com
 huodonghezi.cn
 huodonghezi.com
@@ -34434,7 +34425,6 @@ i.yy.com
 i.zzb6.cn
 i0-prosmall-fd.zol-img.com.cn
 i0.article.fd.zol-img.com.cn
-i0.hdslb.com
 i0.hdslb.com.cdn20.com
 i0.letvimg.com
 i0.sinaimg.cn

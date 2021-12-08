@@ -495,7 +495,6 @@
 074ld.com
 0755man.cn
 0755pr.com
-0756hhr.com
 07634.com
 0763zuche.com
 07678.com
@@ -15849,7 +15848,6 @@ aidaiz.com
 aidata.io
 aidbaronice.casa
 aidc.apple.com
-aidc.origin-apple.com.akadns.net
 aidgiltreef.casa
 aidiao.com
 aidigua.com
@@ -18027,7 +18025,6 @@ analytics.metro.de
 analytics.metro.pk
 analytics.metro.ua
 analytics.mfocus.vn
-analytics.mhpod.gov.au
 analytics.midwesternmac.com
 analytics.mindjolt.com
 analytics.mlstatic.com
@@ -29979,7 +29976,6 @@ browser-update.org
 browser-updater.yandex.net
 browser.events.data.microsoft.com
 browser.events.data.msn.cn
-browser.events.data.msn.com
 browser.events.data.trafficmanager.net
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
@@ -33279,7 +33275,6 @@ cbuacategic.xyz
 cbviho.easyvols.fr
 cbvjddh.23txt.com
 cby.me
-cc-api-behance.adobe.io
 cc-api-data.adobe.io
 cc-api-teamprojects-ue1.adobe.io
 cc-asse-05-skype.cloudapp.net
@@ -38026,7 +38021,6 @@ cntagore.com
 cntdy.mobi
 cntmc.com
 cntopgear.com
-cntourwh.com
 cntr-di7.com
 cntrack.madserving.com
 cntrafficpro.com
@@ -39268,7 +39262,6 @@ connect.clariant.com
 connect.cloud.netapp.com
 connect.cognex.com
 connect.content-hub.netapp.com
-connect.customers.netapp.com
 connect.danone.es
 connect.darden.virginia.edu
 connect.digi.com
@@ -42353,7 +42346,6 @@ cureduchenne.org
 cureedit.com
 curel.com
 curiosityprobablyarbitrary.com
-curiousblogs.com
 curiouscat.club
 curiouschalk.com
 curioustore.com
@@ -44553,7 +44545,6 @@ data.wlan-switch.net.daraz.com
 data.woosmap.com
 data.wptag.net
 data.wunderman-email.cjm.adobe.com
-data.younow.com
 data0.bell.ca
 data1.bell.ca
 data1.jp.msn.com
@@ -58502,7 +58493,6 @@ fireflyacg.com
 fireflyengagement.com
 firefox-settings-attachments.cdn.mozilla.net
 firefox.com
-firefox.settings.services.mozilla.com
 firefoxcn.com
 firefoxfan.com
 firefoxusercontent.com
@@ -61402,7 +61392,6 @@ ftvin.com
 ftvnews.com.tw
 ftwork.co.uk
 ftx.com
-ftxgame.com
 ftxzq.com
 ftysya.aboutyou.de
 ftzets.silkfred.com
@@ -71121,7 +71110,6 @@ grzmz.com
 gs-discuss.com
 gs-loc.apple.com
 gs.apple.com
-gs.apple.com.akadns.net
 gs.jf3377.com
 gs.sandstorm.game
 gs.ww.np.dl.playstation.net
@@ -74664,7 +74652,6 @@ hkfreezone.com
 hkfront.org
 hkfs.com
 hkfuy.com
-hkg-efz.ms-acdc.office.com
 hkg-mvp.trafficmanager.net
 hkg12s09-in-f17.1e100.net
 hkg12s09-in-f4.1e100.net
@@ -75583,7 +75570,6 @@ houqun.me
 houropoo.net
 houruitouzi.com
 house.ifeng.com
-houseads-prod.elasticbeanstalk.com
 houseads.ttpsdk.info
 housecallpro.com
 housecanary.com

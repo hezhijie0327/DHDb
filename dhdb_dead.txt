@@ -6260,6 +6260,7 @@ adserve.io
 adserve.mizzenmedia.com
 adserve.splicetoday.com
 adserve5.nikkeibp.co.jp
+adserver-2.ig.com.br
 adserver-3.ig.com.br
 adserver.163.com
 adserver.20below.eu
@@ -8035,6 +8036,7 @@ api.fosshub.com
 api.g1.junfull.com
 api.g2.junfull.com
 api.game.letvstore.com
+api.geetest.com
 api.gunify-turbinedefs.vonage.com
 api.gxbrowser.net
 api.gzxiongwa.cn
@@ -8707,6 +8709,7 @@ assets-yammer.com
 assets.210189.com
 assets.2343sdxs.com
 assets.258pcf.com
+assets.adobedtm.com
 assets.adtaily.com
 assets.cookieconsent.silktide.com
 assets.fanart.tv
@@ -11698,6 +11701,7 @@ buy-vicodin.dd.vu
 buy-xanax-online.amovoce.net
 buy-xanax.aztecaonline.net
 buy-zyban.all.at
+buy.itunes.apple.com
 buyandfun.review
 buyaor.cc
 buycialisonline.bigsitecity.com
@@ -12385,6 +12389,7 @@ caminixws.com
 camlibertines.com
 camlol.com
 campaign.iitech.dk
+campaigncdn.m.taobao.com
 campaignseries-gb.campaignseries.co.uk
 campect.com
 camptrck.com
@@ -12791,6 +12796,7 @@ cdjjtzoi.danaher.org
 cdjkngs.cn
 cdjs.online
 cdkjx.com
+cdl-lb-1356093980.us-east-1.elb.amazonaws.com
 cdm.unnoticeablegangrene.com
 cdmcgw.cn
 cdmlrs.com
@@ -14993,6 +14999,7 @@ conference-ballroom.com
 config.adsage.cn
 config.adsage.com
 config.appjolt.com
+config.me.apple-dns.net
 config.safedk.com
 conflictmgmtassociates.com
 confuciusinstitute.net
@@ -15658,6 +15665,7 @@ csdnim.qtmojo.com
 csdnxiazai.xyz
 csdope.com
 csdxcw.com
+cse.google.com
 csehms.com
 cserver.mii.instacontent.net
 csetournament.info
@@ -16172,6 +16180,7 @@ csxnews.com
 csxpot.com
 csyangsheng.com
 csyngxtkifrh.com
+csyqts.tmon.co.kr
 cszb556.com
 cszlks.com
 ct.210189.com
@@ -17059,6 +17068,7 @@ d3al52d8cojds7.cloudfront.net
 d3alijertxiv6b.cloudfront.net
 d3alqb8vzo7fun.cloudfront.net
 d3anogn3pbtk4v.cloudfront.net
+d3aqoihi2n8ty8.cloudfront.net
 d3avqv6zaxegeu.cloudfront.net
 d3ax1ung5itt9v.cloudfront.net
 d3axbhddqqtnzn.cloudfront.net
@@ -18865,6 +18875,7 @@ dostavka.ru
 dosugcz.in
 dosugcz.net
 dosveggietotem.casa
+dot-stat.radikal.ru
 dota-crit.com
 dota-dream.com
 dota-fun.com
@@ -19012,6 +19023,7 @@ download-hack-tool.com
 download-hack.net
 download-hack.org
 download-hacks.us
+download.adguard.com
 download.apkplz.com
 download.cdn.ilivid.com
 download.ilivid.com
@@ -19356,6 +19368,7 @@ du3ghxbmxci1k.cloudfront.net
 du7.org
 du8.com
 duagzscxqwejvk.com
+dualstack-arestapi.amap.com
 dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 duanat.com
 duanxin321.com

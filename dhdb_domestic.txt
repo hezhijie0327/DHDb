@@ -15063,7 +15063,6 @@ camera360.com
 camgle.com
 caminorshort.weixin.qq.com
 camnpr.com
-campaigncdn.m.taobao.com
 campaigncdn.m.taobao.com.w.alikunlun.com
 campanilechina.com
 campingcn.com
@@ -23985,7 +23984,6 @@ duai.com
 dualaid.com
 dualstack-a.apilocate.amap.com
 dualstack-adiu.amap.com
-dualstack-arestapi.amap.com
 dualstack-cgicol.amap.com
 dualstack-logs.amap.com
 dualstack-mps.amap.com.gds.alibabadns.com

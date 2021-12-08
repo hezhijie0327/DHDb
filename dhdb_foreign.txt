@@ -118,7 +118,6 @@
 009d88.com
 00a1e8d2-dnsotls-ds.metric.gstatic.com
 00aaa2d81c1d174.com
-00bloggers.ru
 00ecf6c319796cc7005d0ade55e520be.clo.footprintdns.com
 00lewen.com
 00oo00.com
@@ -1442,7 +1441,6 @@
 13vm73vbmp.com
 13wmaz.com
 13xiaoshuoa.com
-14-courier.push.apple.com
 14-courier2.push.apple.com
 14-tage-wettervorhersage.de
 14.199.27.183.zz.countries.nerd.dk
@@ -20781,7 +20779,6 @@ array503.prod.do.dsp.mp.microsoft.com
 array504.prod.do.dsp.mp.microsoft.com
 array505.prod.do.dsp.mp.microsoft.com
 array506.prod.do.dsp.mp.microsoft.com
-array507.prod.do.dsp.mp.microsoft.com
 array508.prod.do.dsp.mp.microsoft.com
 array509.prod.do.dsp.mp.microsoft.com
 array510.prod.do.dsp.mp.microsoft.com
@@ -24349,7 +24346,6 @@ basevie.fr
 basf.com
 bash-hackers.org
 basheighthnumerous.com
-bashirian.biz
 bashnya.ru
 bashtel.ru
 basic-enroll.ccs.mcafee.com
@@ -29645,7 +29641,6 @@ brat.gq
 brauclub.ch
 brauereibaar-shop.ch
 braumeister.org
-braun634.com
 braunability.com
 bravarooftile.com
 brave.com
@@ -31328,7 +31323,6 @@ c.am15.net
 c.amazon-adsystem.com
 c.apple.com
 c.apple.news
-c.ar.msn.com
 c.at.msn.com
 c.atdmt.com
 c.atinternet-solutions.com
@@ -40770,7 +40764,6 @@ cp455.com
 cp501.prod.do.dsp.mp.microsoft.com
 cp52-4.trixbox.com
 cp601.prod.do.dsp.mp.microsoft.com
-cp801.prod.do.dsp.mp.microsoft.com
 cp839qp1.internet7.cc
 cp839qp1.internet7.vip
 cp9044xpj2.internet7.cc
@@ -41667,7 +41660,6 @@ cscp.me
 cscp804.com
 cscp820.com
 csdata1.com
-csdc0000.com
 csdc1111.com
 csdc2.com
 csdc2222.com
@@ -50713,7 +50705,6 @@ e643f152-dnsotls-ds.metric.gstatic.com
 e6449.a.akamaiedge.net
 e6653.dscf.akamaiedge.net
 e66gg.com
-e673.dsce9.akamaiedge.net
 e673.dsce9.akamaiedge.net.0.1.cn.akamaiedge.net
 e673.dscx.akamaiedge.net
 e6816.com

@@ -8577,7 +8577,6 @@ adsehera.ximalaya.com
 adsence.sogou.com
 adsense.google.cn
 adserve2.tom.com
-adservice.google.com
 adservice.sigmob.cn
 adserving.yuewen.com
 adsfile.bssdlbig.kugou.com
@@ -9218,6 +9217,7 @@ aixinbaomu.com
 aixinwu.org
 aixq.com
 aixuedai.com
+aixuefu.com
 aixuetang.com
 aixuexi.com
 aixyy.com
@@ -9516,7 +9516,6 @@ alime-pic.oss-cn-hangzhou.aliyuncs.com
 alimebot.com
 alimecard.alicdn.com
 alimecard.alicdn.com.danuoyi.tbcache.com
-alimei-api.alibaba.com
 alimei-auth.alibaba.com
 alimei.com
 alimelog.taobao.com
@@ -20617,7 +20616,6 @@ d2.showself.com
 d2.sina.com.cn
 d2.sinaimg.cn
 d2.static.yximgs.com
-d2.static.yximgs.com.w.cdngslb.com
 d2.ugslb.com
 d2.yiche.com
 d20.net
@@ -22899,7 +22897,6 @@ dm.300zi.com
 dm.3454.com
 dm.519397.com
 dm.bytedance.com
-dm.bytedance.com.w.cdngslb.com
 dm.cnbanbao.com
 dm.cqdxun.cn
 dm.hxzdhn.com
@@ -22912,7 +22909,6 @@ dm.oadz.com
 dm.pstatp.com
 dm.sanwen8.com
 dm.sg92.com
-dm.toutiao.com
 dm.toutiao.com.w.cdngslb.com.c.cdnuyun.cn
 dm.toutiao.com.w.cdngslb.com.qr.uuhimalayanqm.com
 dm.video.weibocdn.com
@@ -26849,7 +26845,6 @@ feedback.cn.ronghub.com
 feedback.zhangle.com
 feeddsp.cn
 feedflpc.jomodns.com
-feedfreev6.jomodns.com
 feedou.com
 feeds-drcn.cloud.huawei.com.cn
 feeds-drcn.dbankcdn.cn
@@ -30792,7 +30787,6 @@ h5ds.com
 h5eco.com
 h5gamecdn.club
 h5hosting-dbankcdn-com-global.staticcdn.dbankedge.net
-h5hosting-drcn.dbankcdn.cn
 h5hosting.dbankcdn.com
 h5hosting.dbankcdn.com.c.cdnhwc1.com
 h5hosting.dbankcdn.com.cdn.dnsv1.com

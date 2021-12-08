@@ -887,6 +887,7 @@
 18844a.com
 188522ee081a1596a25779b9d4dc5d78.jddebug.com
 1885888.com
+1888810.com
 188982.com
 188af188.com
 188aff188.com
@@ -6394,6 +6395,7 @@ adserverb.conjelco.com
 adserversolutions.com
 adservhere.com
 adservice.google.cn
+adservice.google.com
 adserviceretry.kglink.cn
 adservices.google.com
 adservices.picadmedia.com
@@ -7259,6 +7261,7 @@ alignmentdisabled.net
 alikmd.com
 aliliying.com
 alimama.cn
+alimei-api.alibaba.com
 alimmdn.com
 alinos.xyz
 alinxc.com
@@ -7585,6 +7588,7 @@ ampush.io
 ams-ic.com
 ams.51junpin.net
 ams.fx678.com
+ams2.current.a.prd.aadg.trafficmanager.net
 amsoveasea.com
 amsthr.com
 amsvts.com
@@ -9541,6 +9545,7 @@ banners.itunes.apple.com
 banners.japantoday.com
 banners.kfmb.com
 banners.leadingedgecash.com
+banners.mobile.yandex.net
 banners.netcraft.com
 banners.newsru.com
 banners.partypartners.com
@@ -12963,6 +12968,7 @@ cdnyoyun.com
 cdnyt69.com
 cdnyzdjj.com
 cdovasori.danaher.org
+cdp.cloud.unity3d.com
 cdpa.url.tw
 cdpstudents.com
 cdpusa.org
@@ -16666,6 +16672,7 @@ d2-magic.static.yximgs.com.w.cdngslb.com
 d2-roulette.com
 d2.dhcp.biz
 d2.maohetrade.com
+d2.static.yximgs.com.w.cdngslb.com
 d2.static.yximgs.com.w.cdngslb.com.qr.uuhimalayanqm.com
 d205y6qjd5u38f.cloudfront.net
 d20cawbzduqk25.cloudfront.net
@@ -18420,6 +18427,7 @@ dm.66qw.net
 dm.66wenshen.com
 dm.92to.com
 dm.aizhan.com
+dm.bytedance.com.w.cdngslb.com
 dm.city.sina.com.cn
 dm.ddns.ms
 dm.gbeik.com
@@ -18432,6 +18440,7 @@ dm.riji.cn
 dm.sanwen.net
 dm.sb580.com
 dm.taobaojuhuasuan.cn
+dm.toutiao.com
 dm.toutiao.com.w.cdngslb.com
 dm.wenshenxiu.com
 dm.ws8.org
@@ -18682,6 +18691,7 @@ domed.shenbimall.com
 domen4ikdlyaplagina.ru
 domendlyadopoln.ru
 domentino.ru
+domep.news.apple-dns.net
 domesticwindow.com
 domftrcwqk9w3.cloudfront.net
 dominas.femdomina.ru
@@ -20156,6 +20166,7 @@ e730b80ab5e30a7ad96233ae0d6debbc.jddebug.com
 e7393e33565ce805.com
 e7560.net
 e76.opengtspro.com
+e7808.dscg.akamaiedge.net
 e7e7e7.com
 e7free.allyes.com
 e7ly.com
@@ -22219,6 +22230,7 @@ feedback.whalecloud.com
 feedback.youmi.net
 feedbackcensus.com
 feeder.store.mail.ne1-8.yahoo.com
+feedfreev6.jomodns.com
 feedjit.com
 feedkim.com
 feeds.logicbuy.com
@@ -22997,6 +23009,7 @@ foxtvdvd.com
 foxuv.com
 foyvizvujsor.com
 fozescetgcxogs.localdomain
+fp-as.azureedge.net
 fp-vp-nocache.azureedge.net
 fp.jj59.com
 fp.oneshotdate.com
@@ -25417,6 +25430,7 @@ grandtheftautogangsters.com
 granodiorite.com
 grant-skins.com
 grapefruitlifestyle.com
+graph.microsoft.com
 graphli.net
 grate-skin.com
 graterfleeconduct.com
@@ -26001,6 +26015,7 @@ h5abc.com
 h5api.m.tmall.com
 h5ay.com
 h5data.com
+h5hosting-drcn.dbankcdn.cn
 h5jw.com
 h5vv.video.qq.com
 h6.x0b9x4w.cn

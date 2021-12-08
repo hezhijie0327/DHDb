@@ -1910,7 +1910,6 @@
 188628.com
 188685.com
 1888789.com
-1888810.com
 1888pro.com
 188963.com
 1889bet.com
@@ -5201,7 +5200,6 @@
 520tingshu.com
 520xbw.com
 520xiaojin.com
-520xiazai.com
 520xiehou.com
 52115211.com
 521360.com
@@ -17634,7 +17632,6 @@ ams.ux-dev.com.my
 ams02.space
 ams1.a.f.prd.aadg.trafficmanager.net
 ams1.racingvpn.com
-ams2.current.a.prd.aadg.trafficmanager.net
 ams2.next.a.prd.aadg.trafficmanager.net
 ams2.test-ipv6.com
 ams900.goo.ne.jp
@@ -19523,7 +19520,6 @@ apigame.yunbo11.com
 apigame.yunbo333.com
 apigee.com
 apigz3.ksapisrv.com
-apihn3.ksapisrv.com
 apiion.weather.com.edgekey.net
 apikozakanet-a.akamaihd.net
 apimail.net.zooplus.es
@@ -24085,7 +24081,6 @@ banners.kinoafisha.info
 banners.ksl.com
 banners.linkbuddies.com
 banners.mellowads.com
-banners.mobile.yandex.net
 banners.myads.ge
 banners.nbcupromotes.com
 banners.news1.co.il
@@ -27182,7 +27177,6 @@ bj-bytsk.com
 bj-dianxintong.net
 bj-ins.com
 bj-sagtar.com
-bj-saite.com
 bj-shouqi.com
 bj1.api.bing.com
 bj100.com
@@ -34093,7 +34087,6 @@ cdnx.tribalfusion.com
 cdnzhuji.com
 cdobs.com
 cdp.asia
-cdp.cloud.unity3d.com
 cdp.org
 cdp.vemt.com
 cdp1989.org
@@ -48434,7 +48427,6 @@ domankeyan.com
 dombnrs.com
 dombosco.com.br
 domeleco.top
-domep.news.apple-dns.net
 domertb.com
 domeus.com
 domicileperil.com
@@ -50697,7 +50689,6 @@ e763.b.akamaiedge.net
 e7741.x.akamaiedge.net
 e7797.ca2.s.tl88.net
 e77lmzbqou0n-a.akamaihd.net
-e7808.dscg.akamaiedge.net
 e7842.ca.s.tl88.net
 e7933.ca.s.tl88.net
 e7933.dscd.akamaiedge.net
@@ -60108,7 +60099,6 @@ fp-afd.azureedge.us
 fp-afd.azurefd.net
 fp-afd.azurefd.us
 fp-as-nocache.azureedge.net
-fp-as.azureedge.net
 fp-cdn.azureedge.net
 fp-vp.azureedge.net
 fp-vs-nocache.azureedge.net
@@ -70634,7 +70624,6 @@ grapecartoons.com
 grapeshot.co.uk
 graph.facebook.com
 graph.instagram.com
-graph.microsoft.com
 graph.org
 graph.windows.net
 grapheffect.com

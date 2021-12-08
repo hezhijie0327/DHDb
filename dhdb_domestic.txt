@@ -10411,7 +10411,6 @@ api.iplay.163.com
 api.iqiyi.com
 api.ishansong.com
 api.itaoxiaoshuo.com
-api.ithome.com
 api.ivideo.sina.com.cn
 api.jits.heytapmobi.com
 api.jobui.com
@@ -12781,7 +12780,6 @@ beacon.sparta.mig.tencent-cloud.net
 beacon.tingyun.com
 beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
-beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
@@ -18333,7 +18331,6 @@ cmt178.com
 cmt7.com
 cmta.yangkeduo.com
 cmtdi.com
-cmts.iqiyi.com
 cmts.iqiyi.com.w.alikunlun.com
 cmtw.pinduoduo.com
 cmtw.yangkeduo.com
@@ -21624,7 +21621,6 @@ ddmeishi.com
 ddmer.com
 ddmogo.com
 ddms.jd.com.gslb.qianxun.com
-ddmyapp.wscdn.tcdn.qq.com
 ddmyapp.wscdn.tcdn.qq.com.lxdns.com
 ddnddn.com
 ddnsto.com
@@ -23255,7 +23251,6 @@ doppler.logger.baofeng.com
 dora-control.cdnetworks.com
 dora-family.com
 dorangesource.alicdn.com
-dorangesource.alicdn.com.danuoyi.tbcache.com
 doraunion.com
 dorrr.com
 doserv.com
@@ -24619,7 +24614,6 @@ e.ad.xiaomi.com
 e.ayues.com
 e.baidu.com
 e.banmamedia.com
-e.bentengcn.com
 e.bilibili.com
 e.bjmu.edu.cn
 e.bnc66.com
@@ -26801,7 +26795,6 @@ feeclouds.com
 feed-image.baidu.com
 feed-image.baidu.com.a.bdydns.com
 feed-navi.cdn.bcebos.com
-feed.baidu.com
 feed.mix.sina.com.cn
 feed.op.wpscdn.cn
 feed.theta.sogou.com
@@ -30737,7 +30730,6 @@ h5aiwan.com
 h5anli.com
 h5api-intl.m.taobao.com
 h5api.m.1688.com
-h5api.m.taobao.com
 h5avu.com
 h5conf-open.darwin.p2cdn.com
 h5conf-open.xycdn.com
@@ -35432,7 +35424,6 @@ images.pinduoduo.com
 images.pinduoduo.com.sched.pddlego-dk.tdnsv5.com
 images.qiecdn.com
 images.seebug.org
-images.sohu.com
 images.taboola.com.cn
 images.taboola.com.cn.w.kunlungr.com
 images.uc.cn

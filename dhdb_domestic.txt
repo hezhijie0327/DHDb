@@ -1774,7 +1774,6 @@
 17haibao.com
 17heli.com
 17house.com
-17hpl.com
 17huang.com
 17ivr.com
 17k.com
@@ -9549,7 +9548,6 @@ aliqcmmov.a.etoote.com.w.alikunlun.com
 aliqiche.com
 aliresearch.com
 alisitecdn.m.taobao.com
-alisitecdn.m.taobao.com.w.alikunlun.com
 alisoft.com
 alisports.com
 alissl.ucdl.pp.uc.cn
@@ -10535,7 +10533,6 @@ api.verify.mob.com
 api.vip.miui.com
 api.vlightv.com
 api.vuevideo.net
-api.w.inmobi.com
 api.weibo.cn
 api.weibo.com
 api.weishi.qq.com
@@ -10832,7 +10829,6 @@ appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
 appbacklog.dftoutiao.com
-appbackupapi.micloud.xiaomi.net
 appbi.com
 appbocai.com
 appbox.qq.com
@@ -21741,7 +21737,6 @@ dehua.net
 dehuaca.com
 deifei.com
 deikuo.com
-dejavu.apple.com
 dejin88.com
 dekeego.com
 dektw.com
@@ -29734,7 +29729,6 @@ grandlisboa.com
 grandomics.com
 grangorz.org
 grapchina.org
-graph.baidu.com
 graph.qq.com
 graphmovie.com
 graphqqcom.msf.tencent-cloud.com

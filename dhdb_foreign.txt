@@ -1127,7 +1127,6 @@
 11sebb.com
 11xotn7p.com
 12-123pago.net.daraz.com
-12-courier.push.apple.com
 12-courier2.push.apple.com
 12.8.80.101.zz.countries.nerd.dk
 12.beautifulero.com
@@ -19026,7 +19025,6 @@ api-fra.livechatinc.com
 api-gameplayer.dmm.com
 api-geetest-com-886580015.ap-southeast-1.elb.amazonaws.com
 api-iam.intercom.io
-api-js.mixpanel.com
 api-localhost.net.daraz.com
 api-lp1.znc.srv.nintendo.net
 api-lytics.macpaw.com
@@ -24713,7 +24711,6 @@ bcorporation.net
 bcove.video
 bcovery.com
 bcovlive-a.akamaihd.net
-bcp.crwdcntrl.net
 bcpp.org
 bcprm.com
 bcrncdn.com
@@ -34635,7 +34632,6 @@ changeip.name
 changeip.net
 changeip.org
 changelog.com
-changelogs.ubuntu.com
 changement.pro
 changhehengqi.com
 changhuapower.com
@@ -40941,7 +40937,6 @@ cravedelibar.com
 craveonline.com
 cravo.com
 crawco.com
-crawdad.internetassociation.org
 crawfordstevehypothetically.com
 crawfordtech.com
 crawlability.com
@@ -43555,7 +43550,6 @@ d3rp5jatom3eyn.cloudfront.net
 d3rpajgr3c5p5n.cloudfront.net
 d3rxaij56vjege.cloudfront.net
 d3rxqouo2bn71j.cloudfront.net
-d3s7hvut1nzgl4.cloudfront.net
 d3sbxpiag177w8.cloudfront.net
 d3sh1r2u9ujvd.cloudfront.net
 d3skg.com
@@ -48923,7 +48917,6 @@ dragxon.com
 dragzebra.com
 draiveda.lt
 drakeesh.com
-drakeet.me
 drako2sha8de09.com
 drakorindo.club
 drama321.com
@@ -50508,7 +50501,6 @@ e5308.x.akamaiedge.net
 e5439.x.akamaiedge.net
 e55.dspb.akamaiedge.net
 e584.g.akamaiedge.net
-e5871.e9.akamaiedge.net
 e59440e6-dnsotls-ds.metric.gstatic.com
 e5977.dsce9.akamaiedge.net
 e5d93014837520f11db57538aa67fb2f.clo.footprintdns.com
@@ -54942,7 +54934,6 @@ event.webcollage.net
 event1.io
 event1.thermofisher.com
 event1.thermoscientific.com
-event3.thermofisher.com
 eventano.com
 eventapi.afreecatv.com
 eventapi.libring.com
@@ -59034,7 +59025,6 @@ flycast.com
 flycheapen.com
 flycode.co
 flyerca.com
-flyertea.com
 flyextensions.com
 flyfish8.com
 flyflot.it

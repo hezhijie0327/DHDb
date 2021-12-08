@@ -570,6 +570,7 @@
 11my.net
 11x5home.com
 11yuanma.com
+12-courier.push.apple.com
 12.from-ga.com
 120dxb.com
 120gz.com
@@ -7998,6 +7999,7 @@ api-access.pangolin-sdk-toutiao.com
 api-ddebian-example-production.mapbox.com
 api-deal.kechenggezi.com
 api-ds.kkbox.com.tw
+api-js.mixpanel.com
 api-keks.com
 api-login.kkbox.com.tw
 api-metrics-e2e.nonprod.flurry.com
@@ -9924,6 +9926,7 @@ bcontent.life.ru
 bcoolandjustrelax.org
 bcooljs.info
 bcovlive.io
+bcp.crwdcntrl.net
 bcprn.club
 bcsytv.com
 bct09.com
@@ -12717,6 +12720,7 @@ ccdidzuq.danaher.org
 ccdidzuq.idmnet.org
 ccdtr.org
 ccfa.vip
+ccflbs.m.jd.com.gslb.qianxun.com
 ccgateway.net
 ccgoufang.com
 ccgst.org
@@ -13359,6 +13363,7 @@ changbaimg.com
 changbalive.com
 changduk26.com
 changechickens.com
+changelogs.ubuntu.com
 changesstarted.net
 changfubai.com
 changheng-pcb.com
@@ -15519,6 +15524,7 @@ crashlyticsreports-pa.googleapis.com
 craterbuild.pw
 craveforcheats.com
 cravenherald-gb.cravenherald.co.uk
+crawdad.internetassociation.org
 crayon.meishichina.com
 crazy-files.com
 crazy-jackpots.com
@@ -17203,6 +17209,7 @@ d3rnjxpkwf3le1.cloudfront.net
 d3rt8kdbxi1g81.cloudfront.net
 d3s6xpomh6soe4.cloudfront.net
 d3s7ggfq1s6jlj.cloudfront.net
+d3s7hvut1nzgl4.cloudfront.net
 d3svuyn6awh7rq.cloudfront.net
 d3sw8he2kp6367.cloudfront.net
 d3t0mlgw2eg7ef.cloudfront.net
@@ -20309,6 +20316,7 @@ e4fd10b57ad588a521244ee12a75dd9d.00018217000024.kindle-perf.com
 e521d17fa185a2.com
 e553bcf717698d33.com
 e578d08636706fcaf057c95c436b5fa9.jddebug.com
+e5871.e9.akamaiedge.net
 e5b93f83bc6b3a9f0bf47f6ebf84c877.jddebug.com
 e5mbjzv.com
 e5o28q264rbh.www.cybernetman.com
@@ -21586,6 +21594,7 @@ event.ksosoft.com
 event.prod.bidr.io
 event.trove.com
 event.vntoday.news
+event3.thermofisher.com
 eventcsgo.pro
 eventlittrecet.ru
 eventlog.hd.baofeng.com
@@ -24861,6 +24870,7 @@ gg-esea.com
 gg-tournament.com
 gg.4kdy.net
 gg.5173.com
+gg.51cto.com
 gg.amblrgg.live
 gg.anqu.com
 gg.btnk024.com
@@ -25006,6 +25016,7 @@ gigle.net
 gigolimpet.ac.ug
 gilfordboyers.com
 gillheapsyears.icu
+gimg0.baidu.com
 gimmehacks.us
 gimmethatreward.com
 gimmgimm.com
@@ -29550,6 +29561,7 @@ info.inamo.ru
 info.invacare.com.au
 info.invistionik.ru
 info.meyerandassocketing.access2dayhealth.com
+info.zb.qq.com
 info1park.ru
 info24.live
 info33.info

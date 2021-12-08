@@ -1,3 +1,4 @@
+0-courier.push.apple.com
 0.pic.paopaoche.net
 00-gov.cn
 00.mercax.com
@@ -45,6 +46,7 @@
 00h10.com
 00ksw.net
 00xvppy.cn
+01-enlisted-cdnnow.cdn.gaijin.net
 01.bit.ddns.ms
 01.buyshouses.net
 01.yd-jun.com
@@ -477,6 +479,7 @@
 10zk.com
 11.golang8.com
 11.hydcd.com
+11.tlu.dl.delivery.mp.microsoft.com
 11.yiqig.com
 110.com
 110.kuaibo.com
@@ -4852,6 +4855,7 @@ activefollowerz.xyz
 activemetering.com
 actives.youku.com
 activity.frequency.com
+activity.hdslb.com
 activity.hdslb.comm
 actld.org.tw
 actonel.about-tabs.com
@@ -7998,6 +8002,7 @@ api.emotes.ch
 api.ethereum.hashvault.pro
 api.fczbl.vip
 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
+api.fosshub.com
 api.g1.junfull.com
 api.g2.junfull.com
 api.game.letvstore.com
@@ -8012,6 +8017,7 @@ api.jetlore.com
 api.joybj.com
 api.jsecoin.com
 api.ketedata.com
+api.kingdata.ksyun.com
 api.kolpowered.com
 api.koudaikj.com
 api.l33tsite.info
@@ -12565,6 +12571,7 @@ cbsivideo.com
 cbsrc.com
 cbssvideo.com
 cbtrk.net
+cbu01.alicdn.com
 cbvwouv.localdomain
 cbw111.com
 cbyckdf.cn
@@ -13227,6 +13234,7 @@ ch933.com
 chabg.top
 chacha.design
 chachaqu.com
+chachors.net
 chadegongxiao.com
 chadianshang2.com
 chadown.com
@@ -14309,6 +14317,7 @@ cn.cf.gs
 cn.chosun.com
 cn.dayabook.com
 cn.ec21.com
+cn.ekg.riotgames.com
 cn.hiroseuk.com
 cn.hwazan.org
 cn.ibtimes.com
@@ -15518,6 +15527,7 @@ cs-trader.pro
 cs.ar.fartit.com
 cs.cc.st
 cs.cncn.eu.org
+cs.dds.microsoft.com
 cs.dqwjzm.com
 cs052.com
 cs054.com
@@ -15739,6 +15749,7 @@ csgodrain.net
 csgodrone.net
 csgodropbet.com
 csgodrugs.com
+csgoduck.com
 csgoeasy.money
 csgoegg.win
 csgoelect.com
@@ -18157,6 +18168,7 @@ dilcdn.com
 dilidd.com
 dilidili.tv
 dilimania.net
+dilvehoammp.com
 dimds.com
 dimedontisar.cam
 dimeprice.com
@@ -19240,6 +19252,7 @@ dtcstcltwzuno.com
 dtd999.com
 dtdxcw.com
 dtlgalleryint.cloudapp.net
+dtmall-tel.alicdn.com
 dtmpub.com
 dtmvdvtzf8rz0.cloudfront.net
 dtnnetwork.be
@@ -20124,11 +20137,13 @@ e0acdc93c0708c208901d7147383aa88.jddebug.com
 e0hkzk2.cn
 e127f.azurewebsites.net
 e13678.dscg.akamaiedge.net
+e1723.ca.s.tl88.net
 e17437.dscb.akamaiedge.net
 e1ed050f62.com
 e2068b07cca87c8f36eb4eb89d544fa2.jddebug.com
 e2455960318fe97fd66bfe3e2f89981a.jddebug.com
 e2666e32efe2f1647b07da4af01e2a2b.jddebug.com
+e2682.g.akamaiedge.net
 e2b9jbowv7.com
 e2c3a7a2cbf229bd25f6a7a2b64decff.jddebug.com
 e2clock.gcp.gvt2.com
@@ -23988,6 +24003,7 @@ game.ky195.com
 game.letvstore.com
 game.mop.com
 game.pvz.qq.com
+game.tgbus.com
 game.vulcan-casino.com
 game.weibo.com.cn
 game0516.cdn8-traffic68-server10.top
@@ -25822,6 +25838,7 @@ gvt9.com
 gw-dv.net
 gw.m.163.com
 gw.poscointl.com
+gw2.alicdn.com.danuoyi.tbcache.com
 gw6c.com
 gw7eez7b7fa3.com
 gwaaz.cn
@@ -29763,6 +29780,7 @@ isafe-software.com
 isanook.com
 isaohao.com
 isaonian.com
+isatice.com
 iscreen.top
 isdbjvok.xyz
 isdox.com

@@ -1,5 +1,4 @@
 0-132.net.daraz.com
-0-courier.push.apple.com
 0-courier2.push.apple.com
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
@@ -127,7 +126,6 @@
 01-123.com
 01-all-seed-gc-lx-01.cdn.gaijin.net
 01-all-seed-gc-us-04.cdn.gaijin.net
-01-enlisted-cdnnow.cdn.gaijin.net
 01-enlisted-level3.cdn.gaijin.net
 01-enlisted-stackpath.cdn.gaijin.net
 01-torte.com
@@ -998,7 +996,6 @@
 11.courier-push-apple.com.akadns.net
 11.courier2-push-apple.com.akadns.net
 11.rarbg.com
-11.tlu.dl.delivery.mp.microsoft.com
 1100ad.com
 1100i.com
 110380d053f716c4.com
@@ -19232,7 +19229,6 @@ api.flightproxy.teams.trafficmanager.net
 api.flocktory.com
 api.flurry.com
 api.flygame.io
-api.fosshub.com
 api.fouanalytics.com
 api.frankerfacez.com
 api.freelagu.org
@@ -34644,7 +34640,6 @@ ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 ch9.ms
 cha001.com
 chacha.com
-chachors.net
 chackscheats.com
 chacos.com
 chadly.net
@@ -37700,7 +37695,6 @@ cn.computersm.com
 cn.dap.dmm.co.jp
 cn.dematic.cn
 cn.depositphotos.com
-cn.ekg.riotgames.com
 cn.epac.to
 cn.flnet.org
 cn.fmnnow.com
@@ -37860,7 +37854,6 @@ cngui.com
 cnhange.cn
 cnhangpaiw.com
 cnhaskell.com
-cnhbgt.com
 cnhbxx.com
 cnhelloavgirls.com
 cnhot.cc
@@ -41506,7 +41499,6 @@ cs.cloudsign.jp
 cs.co
 cs.com
 cs.coopeservidores.fi.cr
-cs.dds.microsoft.com
 cs.emxdgt.com
 cs.ffbtas.com
 cs.gssprt.jp
@@ -41685,7 +41677,6 @@ csgodear.com
 csgodicegame.com
 csgodices.com
 csgodouble.com
-csgoduck.com
 csgoduty.com
 csgoeasylot.com
 csgoegg.com
@@ -46840,7 +46831,6 @@ dilqdiw.cn
 dilruwha.net
 dilutecellar.com
 dilutionjavelinexterminator.com
-dilvehoammp.com
 dimassatrio.web.id
 dimcab.com
 dimehouse.de
@@ -50522,7 +50512,6 @@ e16624.dscb.akamaiedge.net
 e166cc4890caf457b36fe9f2aacc5100.clo.footprintdns.com
 e1699.dscca.s.tl88.net
 e170af9be3bef5fbce2410a7a78b7e45.nrb.footprintdns.com
-e1723.ca.s.tl88.net
 e1780.g.akamaiedge.net
 e17c65c0b9f2e261097e4d.b-cdn.net
 e1875.c.akamaiedge.net
@@ -50561,7 +50550,6 @@ e26130.dsca.akamaiedge.net
 e264.dsca.akamaiedge.net
 e2646.com
 e26769.b.akamaiedge.net
-e2682.g.akamaiedge.net
 e2699.dspg.akamaiedge.net
 e28.ca.s.tl88.net
 e28.ca2.s.tl88.net
@@ -62151,7 +62139,6 @@ gacela.eu
 gachinco.com
 gachoplatvietnam.com
 gaclib.net
-gacmotor.com
 gaconnector.com
 gad5.fartit.com
 gadfaros.com
@@ -83083,7 +83070,6 @@ isanalyze.com
 isapplesiliconready.com
 isasecret.com
 isat-tech.com
-isatice.com
 isawaalphol.casa
 isawitfirst.com
 isbamic.actonservice.com

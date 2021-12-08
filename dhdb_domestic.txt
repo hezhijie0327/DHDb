@@ -10451,7 +10451,6 @@ api.meishesdk.com
 api.meituan.com
 api.mengtuiapp.com
 api.merro.xyz
-api.micloud.xiaomi.net
 api.microyan.com
 api.middle.transfer.search.miui.com
 api.mini.wps.cn
@@ -15710,7 +15709,6 @@ cdn-x-w.momentcdn.net
 cdn-x-w.momentcdn.net.cname.yunjiasu-cdn.net
 cdn-xalbum-compress.xiaoniangao.cn
 cdn-xalbum-mp4.xiaoniangao.cn
-cdn-xalbum2.xiaoniangao.cn
 cdn-xphoto2.xiaoniangao.cn
 cdn-xyx.raink.com.cn
 cdn.0i-i0.com
@@ -15833,7 +15831,6 @@ cdn.ur.qq.com
 cdn.viccscxz.cn
 cdn.wenzhangba.cn
 cdn.wmpvp.com
-cdn.wtzw.com
 cdn.wtzw.com.wswebpic.com
 cdn.wup.huya.com
 cdn.wuxiqiangheng.com
@@ -17666,7 +17663,6 @@ cipv6gn.v.trpcdn.net
 ciqinghui.com
 cirk9veg.dispatch.spcdntip.com
 cirmall.com
-cis.sohu.com
 cismag.net
 cismef.com
 cisskwt.com
@@ -22440,7 +22436,6 @@ dimg04.c-ctrip.com.wscdns.com
 dimg05.c-ctrip.com
 dimg05.c-ctrip.com.wscdns.com
 dimg06.c-ctrip.com.wscdns.com
-dimg07.c-ctrip.com
 dimg07.c-ctrip.com.wscdns.com
 dimg08.c-ctrip.com
 dimg08.c-ctrip.com.wscdns.com
@@ -23868,7 +23863,6 @@ dtjl5kx3.v1d.szbdyd.com
 dtjl5no3.v1d.szbdyd.com
 dtk.qunaermai.com
 dtlog.szy.cn
-dtmall-tel.alicdn.com.danuoyi.tbcache.com
 dtmall-tel.alicdn.com.danuoyi.tbcache.com.x.xipushuju.net
 dtmao.cc
 dtmuban.com
@@ -25510,7 +25504,6 @@ emc77.com
 emcbj.com
 emcsosin.com
 emdcadvertise.eastmoney.com
-emdl.ws.microsoft.com
 emea.cdnetworks.com
 emeixs.com
 emeor.com
@@ -25803,7 +25796,6 @@ err.tmall.com
 errlog.umeng.com
 error.alibaba.com
 error.taobao.com
-error.taobao.com.danuoyi.tbcache.com
 ers.baidu.com
 ershicimi.com
 ershou.taobao.com
@@ -28001,6 +27993,7 @@ fview.com
 fvread.com
 fvti.com
 fw-biotech.com
+fw.qq.com
 fw4.me
 fwdq.com
 fwjia.com
@@ -30999,6 +30992,7 @@ hangpu-topsys.com
 hanguangbaihuo.com
 hanguopai.com
 hanguoyou.org
+hanguozongyi.com
 hanguu.com
 hangxinyiqi.xin
 hangyjx.com
@@ -33872,7 +33866,6 @@ huway.com
 huweishen.com
 huxiaofan.com
 huxiaoshi.com
-huxinqk.com
 huxiu.com
 huxiu.link
 huxiucdn.com

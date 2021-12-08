@@ -8917,7 +8917,6 @@ a.thefreethoughtproject.com
 a.thexfactorusa.com
 a.toolbar-ns.emailvision.net.daraz.com
 a.tovarro.com
-a.trend-online.it
 a.tribalfusion.com
 a.trk-imps.com
 a.ucoz.net
@@ -13200,7 +13199,6 @@ ads.aroundtherings.com
 ads.arto.dk
 ads.as4x.tmcs.net
 ads.as4x.tmcs.ticketmaster.com
-ads.asiafriendfinder.com
 ads.aspalliance.com
 ads.aspentimes.com
 ads.associatedcontent.com
@@ -22029,7 +22027,6 @@ auth.lib-ln-1.net.daraz.com
 auth.newworldinteractive.com
 auth.r-ln-2.net.daraz.com
 auth.split.io
-auth.worldofwarships.asia
 auth.worldofwarships.com
 auth.worldofwarships.eu
 auth.worldofwarships.ru
@@ -22321,7 +22318,6 @@ avatar.games.dmm.com
 avatargarenanow-a.akamaihd.net
 avatarify.ai
 avatarmobi.com
-avatars.discourse-cdn.com
 avatars.github.com
 avatars.githubusercontent.com
 avatars0.githubusercontent.com
@@ -36985,7 +36981,6 @@ clientnotification-userprodscus1-4.servicebus.windows.net
 clients-access.com
 clients-share.com
 clients.config.office.net
-clients.l.google.com
 clients1.google.com
 clients2.google.com
 clients2.googleusercontent.com
@@ -41180,7 +41175,6 @@ crl.quovadisglobal.com
 crl.thawte.com
 crl.trust-provider.com
 crl.usertrust.com
-crl.verisign.com
 crl3.digicert.com
 crl4.digicert.com
 crlog-crcn.adobe.com
@@ -42985,7 +42979,6 @@ d1cr9zxt7u0sgu.cloudfront.net
 d1crt12zco2cvf.cloudfront.net
 d1cw0c50l8jv65.cloudfront.net
 d1cykymlllue3h.cloudfront.net
-d1czd1q73kbu32.cloudfront.net
 d1diqetif5itzx.cloudfront.net
 d1dli2tyorled9.cloudfront.net
 d1dqwj4dc78lwy.cloudfront.net
@@ -55760,7 +55753,6 @@ eyefuneve.com
 eyein.com
 eyemed.com
 eyenewton.ru
-eyenider.com
 eyenox.eschuhe.de
 eyeota.net
 eyere.com
@@ -61113,7 +61105,6 @@ fs-bdash.com
 fs-client-logger.herokuapp.com
 fs-sywh.com
 fs.com
-fs.microsoft.com
 fs008.net
 fs1.app
 fs18.formsite.com
@@ -71669,7 +71660,6 @@ h00t.ca
 h090909.com
 h0930.com
 h1.elf168.net
-h1.msn.com
 h1.ripway.com
 h1.ru
 h12-media.com
@@ -78562,7 +78552,6 @@ img.theepochtimes.com
 img.twcczhu.com
 img.uu1001.cn
 img.vaptcha.net.w.cdngslb.com
-img.vim-cn.com
 img.warron.cn
 img.xiacaidd.com
 img.youtube.com

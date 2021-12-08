@@ -9400,7 +9400,6 @@ ali-p2p.pull.yximgs.com
 ali-p2p.pull.yximgs.com.w.alikunlun.com
 ali-proxy.pull.yximgs.com
 ali-proxy.pull.yximgs.com.w.alikunlun.net
-ali-safety-video.acfun.cn
 ali-safety-video.acfun.cn.w.alikunlun.com.qr.uuhimalayanqm.com
 ali-stats.jpush.cn
 ali-xdcmt.static.yximgs.com
@@ -12491,6 +12490,7 @@ bbs.bfgho.com
 bbs.chinadaily.com.cn
 bbs.chinaunix.net
 bbs.csdn.net
+bbs.dedecms.com
 bbs.diaosiqingnian.com
 bbs.dmzj.com
 bbs.elecfans.com
@@ -20001,7 +20001,6 @@ css.asitend.com
 css.gomein.net.cn
 css.letvcdn.com
 css.mgtv.com
-css.mgtv.com.wscdns.com
 css.static.m1905.cn
 css.tv.itc.cn
 css.xuexila.com
@@ -22881,7 +22880,6 @@ dm.21hubei.com
 dm.300zi.com
 dm.3454.com
 dm.519397.com
-dm.bytedance.com
 dm.cnbanbao.com
 dm.cqdxun.cn
 dm.hxzdhn.com
@@ -29883,6 +29881,7 @@ gspe21-ssl.ls.apple.com.mwcname.com
 gspe35-cn-ssl.ls-apple.com.akadns.net
 gspe35-ssl.ls.apple.com.mwcname.com
 gspe35-ssl.ls.apple.com.w.alikunlun.com
+gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls.apple.com.cdn20.com
 gspe85-cn-ssl.ls.apple.com
 gspe85-cn-ssl.ls.apple.com.cdn20.com

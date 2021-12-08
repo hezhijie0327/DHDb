@@ -3174,7 +3174,6 @@
 360doc33.net
 360doc35.net
 360doc7.net
-360docs.net
 360doo.com
 360drm.com
 360dy.wang
@@ -11929,7 +11928,6 @@ badjs.m.jd.com.gslb.qianxun.com
 badjs.qidian.qq.com
 badjs.qq.com
 badjs.weixinbridge.com
-badjs2.qq.com
 badls.com
 badmintoncn.com
 badouxueyuan.com
@@ -19308,7 +19306,6 @@ console.cdnetworks.com
 consolebench.cn-hangzhou.log.aliyuncs.com
 consolecgi.qidian.qq.com
 consumeweb.alipay.com
-contactapi.micloud.xiaomi.net
 contacts.163.com
 contacts.fe.apple-dns.cn
 content.1688.com
@@ -25689,7 +25686,6 @@ enterprise.fanyigou.com
 entphz.alipay.com
 entpsz.alipay.com
 entrust.download.lixian.vip.xunlei.com
-entry.baidu.com
 enunix.com
 envisioncn.com
 eo.yun-pdm2000.cn
@@ -27200,7 +27196,6 @@ files.jb51.net
 files.nasyun.com
 files.nasyun.com.w.kunlunca.com
 files.porsche.cn
-files.zuhaohao.com
 files.zuhaohao.com.w.kunlungr.com
 files2.sogou.com
 filetender.net
@@ -28473,7 +28468,6 @@ gamfe.com
 gammatimes.com
 gamutsoft.com
 gamux.org
-gan.doubleclick.net
 ganggeban123.com
 ganggg.com
 ganghaowang.com
@@ -28676,7 +28670,6 @@ gd165.com
 gd2.alicdn.com
 gd2.alicdn.com.danuoyi.alicdn.com
 gd3.alicdn.com
-gd3.alicdn.com.danuoyi.alicdn.com
 gd32.com
 gd3n.com
 gd4.alicdn.com.danuoyi.alicdn.com
@@ -34375,7 +34368,6 @@ i.news.qq.com
 i.pcbeta.com
 i.qianbao.qq.com
 i.qq.com
-i.snssdk.com
 i.snssdk.com.w.kunluncan.com
 i.sso.sina.com.cn
 i.stat.nearme.com.cn
@@ -35711,7 +35703,6 @@ img.srxjz.cn
 img.ssl.msdk.qq.com
 img.ssl.msdk.qq.com.x2.sched.dcloudstc.com
 img.sysgeek.cn
-img.t.sinajs.cn
 img.t58b.com
 img.taobaocdn.com
 img.taobaocdn.com.danuoyi.tbcache.com
@@ -36077,7 +36068,6 @@ impk.cc
 impnails.com
 impng.com
 impopper.com
-importantglobalcdnweb.qiniu.com.w.cdngslb.com
 importnew.com
 impression.gridsumdissector.com
 improving.wuzhuiso.com

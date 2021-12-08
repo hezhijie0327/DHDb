@@ -9176,7 +9176,6 @@ a1778.g2.akamai.net
 a17788.actonservice.com
 a17803.actonservice.com
 a1784.g2.akamai.net
-a17869.actonservice.com
 a17870.actonservice.com
 a17883.actonservice.com
 a17916.actonservice.com
@@ -12729,7 +12728,6 @@ adn-tksetting-se-1712159248.ap-northeast-2.elb.amazonaws.com
 adn-tksetting-sg-604808523.ap-southeast-1.elb.amazonaws.com
 adn.atdmt.com
 adn.bursadabugun.com
-adn.ebay.com
 adn.fuckshow.org
 adn.insight.ucweb.com
 adn.inven.co.kr
@@ -13245,7 +13243,6 @@ ads.bb59.ru
 ads.bcnewsgroup.com
 ads.beliefnet.com
 ads.betfair.com
-ads.betweendigital.com
 ads.bianca.com
 ads.bid
 ads.bidstreamserver.com
@@ -16198,7 +16195,6 @@ ajbtv.net
 ajcclassifieds.com
 ajcheng.com
 ajcryptominer.com
-ajdivotdelbloab24.jio.com
 aje.io
 ajebw.com
 ajestigie.com
@@ -23150,7 +23146,6 @@ b.recwwcc5.info
 b.regionns.emailvision.net.daraz.com
 b.rmgserving.com
 b.rwjf.org
-b.scorecardresearch.com
 b.snow.com
 b.staff-ns.emailvision.net.daraz.com
 b.stats.paypal.com
@@ -28146,7 +28141,6 @@ bm1108.vip
 bm20000.com
 bm23.com
 bm30000.com
-bm324.com
 bm501.vip
 bm502.cc
 bm502.vip
@@ -36077,7 +36071,6 @@ circulate.com
 circumferencefurfavour.com
 circumferencemissionary.com
 circumscribevetofurther.com
-circumstantialobtrusive.com
 circusbreadth.com
 cirium.com
 cirno9.net
@@ -42386,7 +42379,6 @@ customer-4876.micpn.com
 customer-allseason.net.daraz.com
 customer-center.baumueller.com
 customer-servicessl.net.zooplus.de
-customer.cludo.com.cdn.cloudflare.net
 customer.heartinternet.co.uk
 customer.io
 customer.living-life.co.jp
@@ -43489,7 +43481,6 @@ d355vwft2pa8h6.cloudfront.net
 d3591q3cwzbtxd.cloudfront.net
 d359wjs9dpy12d.cloudfront.net
 d35il16r2p726m.cloudfront.net
-d35r45qhjmgs3g.cloudfront.net
 d35tca7vmefkrc.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d362ghbo0d90w7.cloudfront.net
@@ -52776,7 +52767,6 @@ elqtrk.thailand.intel.com
 elqtrk.tw.morningstar.com
 elqtrkstg.intel.com
 elqview.uclahealth.org
-elqview2.uclahealth.org
 elr.sfr.fr
 elrepo.org
 els-jbs-prod-cdn.jbs.elsevierhealth.com
@@ -57893,7 +57883,6 @@ fidelity.com
 fidelitycharitable.org
 fidelizador.com
 fideo.com
-fides-pol.apple.com
 fides.org
 fidh.org
 fidm.edu
@@ -62417,7 +62406,6 @@ gamer-cds.cdn.hinet.net
 gamer-evolution.com
 gamer-network.net
 gamer.com.tw
-gamer.mmohuts.com
 gamer2-cds.cdn.hinet.net
 gamer4eva.com
 gameraidz.com
@@ -71000,7 +70988,6 @@ growyourbusiness.rovva.com
 grpc.termius.com
 grptrker.com
 grrrgraphics.com
-grs.dbankcloud.asia
 grs.dbankcloud.com
 grss-ieee.org
 grt01.com
@@ -71074,7 +71061,6 @@ gs2.ww.prod.dl.playstation.net
 gs24.pl
 gsa.apple.com.akadns.net
 gsa.gov
-gsa.idms-apple.com.akadns.net
 gsajigsaw-pa.googleapis.com
 gsas.idms-apple.com.akadns.net
 gsasd.info
@@ -74365,7 +74351,6 @@ hizestusti.com
 hizliizlefilm.net
 hizlireklam.com
 hizvevxvi.com
-hj0028.com
 hj0050.com
 hj0070.com
 hj0073.com
@@ -80038,7 +80023,6 @@ info.intellimagic.com
 info.interface.com
 info.interfacesystems.com
 info.interworks.cloud
-info.invacare.com.au
 info.invast.jp
 info.investblue.com.au
 info.iongeo.com

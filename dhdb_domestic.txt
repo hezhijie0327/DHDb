@@ -993,6 +993,7 @@
 1160440.b2b.jinanfa.cn
 1162954.b2b.liebiao.com
 1162954.shop.liebiao.com
+1163.com
 1164915.shop.liebiao.com
 1165490.shop.liebiao.com
 1167018.b2b.liebiao.com
@@ -7941,7 +7942,6 @@ ac.csdn.net
 ac.dun.163.com
 ac.dun.163yun.com
 ac.jice.io
-ac.mmstat.com
 ac.o2.qq.com
 ac029063571fb6f1f3de5c908b3c3778.safeframe.googlesyndication.com
 ac1.786ip.com
@@ -11065,6 +11065,7 @@ archgo.com
 archi-motive.com
 archiant.com
 archidead.net
+archina.com
 archio.pro
 architbang.com
 archive.biliimg.com
@@ -22880,7 +22881,6 @@ dm.jinshasi.cn
 dm.jsyst.cn
 dm.lianzhixiu.com
 dm.oadz.com
-dm.pstatp.com
 dm.sanwen8.com
 dm.sg92.com
 dm.toutiao.com.w.cdngslb.com.c.cdnuyun.cn
@@ -27144,13 +27144,11 @@ file.elecfans.com
 file.elecfans.com.wswebcdn.com
 file.ipinyou.com.cn
 file.ishansong.com
-file.market.xiaomi.com
 file.mengtuiapp.com
 file.mengtuiapp.com.w.kunlunar.com
 file.mysmth.net
 file.neixin.cn
 file.service.qq.com
-file.thepaper.cn
 file.youlai.cn
 file0.assrt.net
 file01.mengtuiapp.com
@@ -27187,7 +27185,6 @@ fillersmart.com
 fillseo.com
 film.qq.com
 films666.com
-filmtv.cdn.ptmi.gitv.tv
 fim34s.com
 fimmu.com
 fimvisual.com
@@ -29318,7 +29315,6 @@ glxlawyer.com
 glzhuang.com
 glzj88.com
 glzy8.com
-gm.gds.mmstat.com
 gm.hpe.cn
 gm.mmstat.com
 gm193.com

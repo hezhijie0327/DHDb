@@ -8219,7 +8219,6 @@ ad.dedecms.com
 ad.dev.360.cn
 ad.dongdong.madserving.com
 ad.doubanio.com
-ad.doubleclick.net
 ad.duomi.com
 ad.dzwindows.com
 ad.dzwww.com
@@ -10284,7 +10283,6 @@ api-sc.wtzw.com
 api-service.chanmama.com
 api-sh.django.t.taobao.com.gds.alibabadns.com
 api-shoulei-ssl.xunlei.com
-api-skytone-2.vmall.com
 api-skytone-4.vmall.com
 api-skytone-6.vmall.com
 api-svoice.le.com
@@ -13899,7 +13897,6 @@ bnet.163.com
 bnhgsb.com
 bnmiul.tdum.alibaba.com
 bnnd.net
-bns.17173.com
 bnu2bnmn.sched.s3hw.tdnsv5.com
 bnuni.com
 bnupg.com
@@ -19422,7 +19419,6 @@ corner.houyi.baofeng.net
 coro.benbaisteel.com
 corp.google.com
 corp.meitu.com
-corp.sina.com.cn
 corp.sogou.com
 corp.sohu.com
 corp.youdao.com
@@ -22968,7 +22964,6 @@ dmr2kjwl.v1d.szbdyd.com
 dmr8nzrh.v1d.szbdyd.com
 dmread.com
 dmrtb.com
-dms.fx678.com
 dms.vancss.com
 dms.xuexxing.com
 dms63.he3kz8.com
@@ -27854,7 +27849,6 @@ fudaiapp.com
 fudanglp.com
 fudanmed.com
 fudanpress.com
-fudao.biancheng.net
 fudao.biancheng.net.w.kunlunca.com
 fudata.cn
 fudian-bank.com

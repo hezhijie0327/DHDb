@@ -9623,7 +9623,6 @@ all.rising.com.cn
 all.splayer.org.w.cdngslb.com
 all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
-all.zhihu.com.w.kunluncan.com
 all163-dxospf.split.netease.com
 all163-ltospf.split.netease.com
 all3c.com
@@ -22841,7 +22840,6 @@ dlsqb.com
 dlssa.com
 dlsstax.com
 dlsunworld.com
-dlswbr.baidu.com
 dlswbr.baidu.com.cname3920.yjs-cdn.com
 dlszywz.com
 dltobacco.com
@@ -29861,7 +29859,6 @@ gsrcu.com
 gsrecv.com
 gss-cn.game.hicloud.com
 gss0.baidu.com
-gss0.bdstatic.com
 gss3.bdstatic.com
 gssdlv.com
 gsstaf.com
@@ -30271,7 +30268,6 @@ gw-pchdcz-08.cg.163.com
 gw.365you.com
 gw.aihuishou.com
 gw.alicdn.com
-gw.alicdn.com.danuoyi.tbcache.com
 gw.alipayobjects.com
 gw.alipayobjects.com.danuoyi.tbcache.com
 gw.api.taobao.com

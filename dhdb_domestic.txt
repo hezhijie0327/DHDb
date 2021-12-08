@@ -8275,7 +8275,6 @@ ad.sohu.com
 ad.tatatimes.com
 ad.tencentmusic.com
 ad.thsi.cn
-ad.toutiao.com
 ad.us.sinaimg.cn
 ad.video.51togic.com
 ad.weixin.qq.com
@@ -8810,7 +8809,6 @@ afjk.com
 afjob88.com
 afm.pipi.cn
 afmqtii.cn
-afp.alicdn.com
 afp.m1905.com
 afp.zol-img.com.cn
 afpeng.alimama.com
@@ -10763,7 +10761,6 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -14368,7 +14365,6 @@ bug-xl9-ssl.xunlei.com
 bug.im
 bughd.com
 bugku.com
-bugly.qq.com
 bugreport.huorong.cn
 bugrpt.oss-cn-beijing.aliyuncs.com
 bugscan.net
@@ -15216,7 +15212,6 @@ career.gench.edu.cn
 career.sina.com.cn
 career.sspu.edu.cn
 career.youth.cn
-career.youth.cn.wswebcdn.com
 careerqihang.com
 careersky.org
 careuc.com
@@ -15912,7 +15907,6 @@ cdndm5.com
 cdndm5.net
 cdndo.com
 cdndownload.liehu.ijinshan.com
-cdnet-dn.gw.samsungapps.com
 cdnet110.com
 cdnetworks.cedexis-test.com
 cdnfhn05.115.com
@@ -20480,7 +20474,6 @@ cztv.tv
 cztvcloud.com
 czur.com
 czvv.com
-czwlzx.com
 czwsg5.com
 czxixi.com
 czxuexi.com
@@ -20626,7 +20619,6 @@ d1xz.net
 d1ye.com
 d2-m.ugslb.com
 d2-magic.static.yximgs.com
-d2-magic.static.yximgs.com.w.cdngslb.com
 d2-magic.static.yximgs.com.w.cdngslb.com.qr.uuhimalayanqm.com
 d2-push.static.yximgs.com
 d2-push.static.yximgs.com.w.cdngslb.com
@@ -22935,7 +22927,6 @@ dm.pstatp.com
 dm.sanwen8.com
 dm.sg92.com
 dm.toutiao.com
-dm.toutiao.com.w.cdngslb.com
 dm.toutiao.com.w.cdngslb.com.c.cdnuyun.cn
 dm.toutiao.com.w.cdngslb.com.qr.uuhimalayanqm.com
 dm.video.weibocdn.com
@@ -24085,7 +24076,6 @@ dudumeijia.com
 duer-kids.baidu.com
 duer-music.cdn.bcebos.com
 dueros-h2.baidu.com
-dueros-voice.baidu.com
 dugoogle.com
 duguoxue.com
 duguying.net
@@ -26150,7 +26140,6 @@ ewz4ksd98492555o.aliyunddos1026.com
 ex-silver.com
 ex-starch.com
 ex.m.jd.com
-ex.m.jd.com.gslb.qianxun.com
 ex.mobmore.com
 ex.puata.info
 ex.tanx.com
@@ -30816,7 +30805,6 @@ h5anli.com
 h5api-intl.m.taobao.com
 h5api.m.1688.com
 h5api.m.taobao.com
-h5api.m.tmall.com
 h5avu.com
 h5conf-open.darwin.p2cdn.com
 h5conf-open.xycdn.com
@@ -39145,7 +39133,6 @@ jsonatm.broker.tplay.qq.com
 jsonin.com
 jsososo.com
 jspang.com
-jspassport.ssl.qhimg.com
 jspatch.com
 jspay.qq.com
 jspcn.net

@@ -16459,7 +16459,6 @@ chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
 chat.jd.com
 chat.jd.com.gslb.qianxun.com
-chat.qidian.qq.com
 chat.sobot.com
 chat1.jd.com
 chat1.jd.com.gslb.qianxun.com
@@ -16506,7 +16505,6 @@ chebaba.com
 chebada.com
 checheboke.com
 check.shareinstall.com.cn
-checkin.gstatic.com
 checkip.pw
 checkoo.com
 checkpass.net
@@ -17368,7 +17366,6 @@ chmecc.org
 chmed.net
 chmia.org
 chn-feedback.adsrvr.cn
-chn.chinamil.com.cn
 chn112.com
 chn168.com
 chnart.com
@@ -25828,7 +25825,6 @@ ershou.taobao.com
 ershouhui.com
 ersjk.com
 ert7.com
-ertongjiaju360.com
 ertongkongjian.com
 ertongtuku.com
 erun360.com

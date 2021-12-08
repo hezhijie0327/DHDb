@@ -7545,7 +7545,6 @@ a.xzzsjz.com
 a.yellowurl.cn
 a.yixie8.com
 a.youdao.com
-a.zdmimg.com
 a.zhidian3g.cn
 a.zuowenxuan.cn
 a0.app.xiaomi.com
@@ -7921,7 +7920,6 @@ aboilgame.com
 abooky.com
 abot.pos.baidu.com
 abot.pos1.n.shifen.com
-about.17173.com
 aboutcg.com
 aboutcg.net
 aboutcg.org
@@ -13162,7 +13160,6 @@ bibitie.com
 bibuzhengxing.com
 bid-view.com
 bid.adview.cn
-bid.g.doubleclick.net
 bidchance.com
 biddingx.com
 bidemi.com
@@ -17942,7 +17939,6 @@ client.map.n.shifen.com
 client.qun.qq.com
 client.show.qq.com
 client.stats.yinyuetai.com
-client.wmpvp.com
 client02.pdl.wow.battlenet.com.cn
 client05.pdl.wow.battlenet.com.cn
 clientflow.apple.com.cdn20.com
@@ -20601,7 +20597,6 @@ d1xz.net
 d1ye.com
 d2-m.ugslb.com
 d2-magic.static.yximgs.com
-d2-magic.static.yximgs.com.w.cdngslb.com.qr.uuhimalayanqm.com
 d2-push.static.yximgs.com
 d2-push.static.yximgs.com.w.cdngslb.com
 d2-toutiao-ml.gslb.ksyuncdn.com
@@ -29844,7 +29839,6 @@ growthpic.weishi.qq.com
 grpc.biliapi.net
 grpc.snm0516.aisee.tv
 grs.dbankcloud.cn
-grs.hicloud.com
 grt-china.com
 grtn.cn
 gruntjs.net

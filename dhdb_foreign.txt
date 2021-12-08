@@ -2446,7 +2446,6 @@
 20-fahrten-bahn.de
 20.117.66.222.zz.countries.nerd.dk
 20.courier-push-apple.com.akadns.net
-200.240.250.183.zz.countries.nerd.dk
 200.75.134.223.zz.countries.nerd.dk
 200.sh
 2000200.com
@@ -5077,7 +5076,6 @@
 51jyzs.com
 51kanke.com
 51ktbyte.com
-51lexing.com
 51ljms.com
 51lolo.com
 51lovo.com
@@ -18672,7 +18670,6 @@ answers.microsoft.com
 answers.teradata.com
 answers.teradata.pl
 answerscloud.com
-answersstaticfilecdnv2.azureedge.net
 ansys.com
 ant-top.ru
 ant.comm.ccu.edu.tw
@@ -32413,7 +32410,6 @@ canvasopedia.org
 canvassblanketjar.com
 canview.com
 canwi.mobi
-canyboysho.info
 canyin.com
 canyincha.com
 canyincy.net
@@ -33819,7 +33815,6 @@ cdn.opencmp.net
 cdn.opensourcefonts.org
 cdn.optimizely.com
 cdn.optmd.com
-cdn.paddle.com
 cdn.panelbear.com
 cdn.parsely.com
 cdn.pbgrd.com
@@ -34096,7 +34091,6 @@ cdpwu.org
 cdrbenefits.com
 cdrvrs.com
 cdryny.com
-cds-cdn.v.aaplimg.com
 cds.apple.com.akadns.net
 cds.d6n9n7e2.hwcdn.net
 cds.f7f2q8c3.hwcdn.net
@@ -37004,7 +36998,6 @@ client-analytics.braintreegateway.com
 client-api-cdn.itunes-apple.com.akadns.net
 client-api.arkoselabs.com
 client-api.itunes.apple.com
-client-api.itunes.apple.com.edgesuite.net
 client-applications.net.daraz.com
 client-log.box.com
 client-logs.warthunder.com
@@ -47073,7 +47066,6 @@ disavowmigration.com
 disavowtwelve.com
 disbandcrumena.com
 disc501.prod.do.dsp.mp.microsoft.com
-disc601.prod.do.dsp.mp.microsoft.com
 disc801.prod.do.dsp.mp.microsoft.com
 discaredforftp.000webhostapp.com
 discernhealth.com
@@ -51608,7 +51600,6 @@ ecrans.fr
 ecrparty.eu
 ecs-ap-southeast-3.console.aliyun.com
 ecs-buy-ap-northeast-1.aliyun.com
-ecs-buy-ap-south-1.aliyun.com
 ecs-buy-ap-southeast-2.aliyun.com
 ecs-buy-ap-southeast-3.aliyun.com
 ecs-buy-ap-southeast-5.aliyun.com
@@ -55169,7 +55160,6 @@ events.sk.ht
 events.splash-screen.net
 events.split.io
 events.steelhousemedia.com
-events.strategic-i.com
 events.streamrail.net
 events.textme-app.com
 events.tremorhub.com
@@ -63480,7 +63470,6 @@ geoip.al.com
 geoip.ativo.com
 geoip.boredpanda.com
 geoip.cleveland.com
-geoip.cookieyes.com
 geoip.finanzen.net
 geoip.fotoable.net
 geoip.gulflive.com
@@ -71871,7 +71860,6 @@ h5.ld999.tv
 h5.ldsp66.com
 h5.ldvip19.com
 h5.ldvip20.com
-h5.ldvip21.com
 h5.ldvip23.com
 h5.ldvip24.com
 h5.ldvip25.com
@@ -77531,7 +77519,6 @@ id.schroders.email
 id.sharedid.org
 id.sputniknews.com
 id.st
-id.sv.rkdms.com
 id.t28.net
 id.unity.com
 id.wikipedia.org

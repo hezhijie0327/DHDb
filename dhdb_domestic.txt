@@ -8408,7 +8408,6 @@ adimg.ad-survey.com
 adimg.ce.cn
 adimg.cqnews.net
 adimg.mobile.sina.cn
-adimg.uve.weibo.com
 adimg.zui.com
 adinall.com
 adinallcdn.com
@@ -9689,7 +9688,6 @@ alog-default.umeng.com
 alog.umeng.com
 alog.umengcloud.com
 alog.zjzwfw.gov.cn
-alogs.umeng.com
 alogs.umengcloud.com
 alogsus.umeng.com
 aloha-ukulele.com
@@ -10624,7 +10622,6 @@ api721.analysys.cn
 api888.vip
 apiadmin.org
 apiauth.quickconnect.to
-apic.douyucdn.cn
 apic.douyucdn.cn.w.kunlunar.com
 apicase.io
 apicdn.face.pptv.com
@@ -10651,7 +10648,6 @@ apijs1.ksapisrv.com
 apijs2.gifshow.com
 apijs2.ksapisrv.com
 apikey.map.qq.com
-apilocate.amap.com
 apilog-web.acfun.cn
 apilog.app.acfun.cn
 apim1g.mathpool.cn
@@ -20266,7 +20262,6 @@ cwhsmgs1.cn
 cwq.com
 cwqu.com
 cwroom.com
-cws.alicdn.com
 cws.alicdn.com.danuoyi.tbcache.com
 cwx.lianwangtech.com
 cwx.qlogo.cn
@@ -23708,7 +23703,6 @@ dspmy.ge95.com
 dspwin.adsame.com
 dsr-rate.tmall.com
 dsre.jdy33.cn
-dss0.baidu.com
 dss0.bdstatic.com
 dss1.baidu.com
 dss1.bdstatic.com
@@ -26847,7 +26841,6 @@ feed.mix.sina.com.cn
 feed.op.wpscdn.cn
 feed.theta.sogou.com
 feed.youshu.cc
-feed.youshu.cc.w.kunlunle.com
 feedads.g.doubleclick.net
 feedback-system.webapp.163.com
 feedback.aliexpress.com
@@ -26994,6 +26987,7 @@ fengeini.com
 fengex.com
 fengfeng.cc
 fenggeba.com
+fenghuaju.cc
 fenghui.tv
 fenghuidongman.com
 fenghuoyunji.com
@@ -29699,7 +29693,6 @@ govgaungzhou.cn
 govguangxi.cn
 govguilin.cn
 govhechi.cn
-govjiangsu.cn
 govjieyang.cn
 govkunming.cn
 govmade.com
@@ -30156,7 +30149,6 @@ gui66.com
 guibook.com
 guid.tpns.sh.tencent.com
 guid.tpns.tencent.com
-guide-acs.m.taobao.com
 guide-acs4miniapp-inner.m.taobao.com
 guidechem.com
 guiderank-app.com

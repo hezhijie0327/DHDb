@@ -1414,7 +1414,6 @@
 138lm.com
 138nh.com
 138vps.com
-139.83.103.121.zz.countries.nerd.dk
 139.re
 139018.com
 1392233.com
@@ -3822,7 +3821,6 @@
 34ms.com
 34pavouhj7.com
 34xiaoshuo.com
-35-courier.push.apple.com
 35-courier2.push.apple.com
 35.202.107.223.zz.countries.nerd.dk
 35.68.74.223.zz.countries.nerd.dk
@@ -16420,7 +16418,6 @@ albawaba.com
 albbzjx.com
 albeats.com
 albeitinflame.com
-albert.apple.com
 albert.gcsis-apple.com.akadns.net
 albert.v.aaplimg.com
 albertonne.com
@@ -17572,7 +17569,6 @@ amp-api-music-lb.itunes-apple.com.akadns.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api-search-edge.apps.apple.com
 amp-api.apps-lb.itunes-apple.com.akadns.net
-amp-api.apps.apple.com
 amp-api.media.apple.com
 amp-api.music-akam.apple.com.akadns.net
 amp-api.music.apple.com
@@ -18934,7 +18930,6 @@ apabox.com
 apac-ads.flurry.com
 apac-afsprod.trafficmanager.net
 apac-asia-courier-4.push-apple.com.akadns.net
-apac-asia-courier-vs.push-apple.com.akadns.net
 apac-china-courier-4.push-apple.com.akadns.net
 apac-china-courier-vs.push-apple.com.akadns.net
 apac-csr12.net.daraz.com
@@ -19122,7 +19117,6 @@ api.ad-locus.com
 api.ad-stir.com
 api.ad.ad-stir.com
 api.ad.intl.xiaomi.com
-api.ad.xiaomi.com
 api.ad.xv555.com
 api.ad4game.com
 api.adcalls.nl
@@ -19147,7 +19141,6 @@ api.americanphysician.com
 api.ampiri.com
 api.amplitude.com
 api.analytics.omgpop.com
-api.andapp.jp
 api.api861861.com
 api.apidocs-repo.net.zooplus.de
 api.apiluiza.com.br
@@ -28208,7 +28201,6 @@ bmgo.life
 bmh001.com
 bmia.org
 bmicapa.org
-bmitacnz2-my.sharepoint.com
 bmitacnz2.sharepoint.com
 bmjmse.softsurroundings.com
 bmkz57b79pxk.com
@@ -34160,7 +34152,6 @@ cds489.lcy.llnw.net
 cds493.lcy.llnw.net
 cds494.lcy.llnw.net
 cds54.ory.llnw.net
-cds812.lon.llnw.net
 cds818.lon.llnw.net
 cds832.lon.llnw.net
 cds836.lon.llnw.net
@@ -50540,7 +50531,6 @@ e166cc4890caf457b36fe9f2aacc5100.clo.footprintdns.com
 e1699.dscca.s.tl88.net
 e170af9be3bef5fbce2410a7a78b7e45.nrb.footprintdns.com
 e1723.ca.s.tl88.net
-e17437.dscb.akamaiedge.net
 e1780.g.akamaiedge.net
 e17c65c0b9f2e261097e4d.b-cdn.net
 e1875.c.akamaiedge.net
@@ -50786,7 +50776,6 @@ e9935.x.akamaiedge.net
 e9946.g.akamaiedge.net
 e9957.d.akamaiedge.net
 e9957.e4.akamaiedge.net
-e9959.dsce9.akamaiedge.net
 e9959.dsce9.akamaiedge.net.0.1.cn.akamaiedge.net
 e99c7f41-dnsotls-ds.metric.gstatic.com
 e9c1khhwn4uf.com
@@ -52119,7 +52108,6 @@ efficaciousart.com
 efficaciouscactus.com
 efficiency.nl.visma.com
 efficiency.visma.com
-efficient.hk
 efficientadvisors.com
 efficientapplesimulator.com
 efficientscale.efscle.com
@@ -52804,7 +52792,6 @@ elqtrk.morningstar.fi
 elqtrk.morningstar.fr
 elqtrk.morningstar.hk
 elqtrk.morningstar.it
-elqtrk.morningstar.nl
 elqtrk.morningstar.no
 elqtrk.morningstar.pt
 elqtrk.morningstar.se
@@ -76536,7 +76523,6 @@ huysmanbouw.be
 huzheng.org
 huzhifeng.com
 huzs.net
-huzu.com
 hvac001.com
 hvacstar.com
 hvato.info

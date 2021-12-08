@@ -13678,7 +13678,6 @@ ads.program3.com
 ads.prospect.org
 ads.pruc.org
 ads.psd2html.com
-ads.pubmatic.com
 ads.quasaraffiliates.com
 ads.queendom.com
 ads.quoka.de
@@ -21384,7 +21383,6 @@ assets.cntdy.mobi
 assets.codingdojo.com
 assets.contentstack.io
 assets.digitalocean.com
-assets.fanart.tv
 assets.fastgit.org
 assets.garron.blog
 assets.garron.me
@@ -43685,7 +43683,6 @@ d3nwkf71d204sn.cloudfront.net
 d3ob1ij0bi7kwz.cloudfront.net
 d3oep4gb91kpuv.cloudfront.net
 d3ohh9b4v3oawh.cloudfront.net
-d3ohl9vojs9vzl.cloudfront.net
 d3oltyb66oj2v8.cloudfront.net
 d3otp6i141k5zo.cloudfront.net
 d3ou4areduq72f.cloudfront.net
@@ -48173,7 +48170,6 @@ docs-patner.net.daraz.com
 docs-ssl.net.zooplus.it
 docs.autodesk.com
 docs.azure.cn
-docs.brew.sh
 docs.cfw.lbyczf.com
 docs.com
 docs.crackforest.com
@@ -48819,7 +48815,6 @@ down.tsfsb.com
 down.xiazai2.net
 down.xzwd.360eus.cn
 down0.com
-down123.cc
 down1oads.com
 down2crazy.com
 downbook.org
@@ -49348,7 +49343,6 @@ droopingballisticscenario.com
 droopingmore.com
 dropbbase.com
 dropbooks.tv
-dropbox-cdnn.com
 dropbox-dns.com
 dropbox-download-eu.com
 dropbox-download.com
@@ -63217,7 +63211,6 @@ gdrtrc.marenostrumresort.com
 gdrvwsqlikh.com
 gds-services.com
 gds1.steampowered.com
-gds2.steampowered.com
 gds3.steampowered.com
 gds4.steampowered.com
 gds66f.com
@@ -71244,7 +71237,6 @@ gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 gsp5-cn.ls.apple.com
 gsp64-ssl.ls-apple.com.akadns.net
 gsp64-ssl.ls.apple.com
-gspe1-ssl.ls.apple.com
 gspe11-ssl.ls.apple.com.edgekey.net
 gspe21-ssl.ls-apple.com.akadns.net
 gspe21-ssl.ls.apple.com

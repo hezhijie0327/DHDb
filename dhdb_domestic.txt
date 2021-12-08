@@ -27270,7 +27270,6 @@ finance.jstv.com
 finance.people.com.cn
 finance.sina.cn
 finance.youku.com
-finance.youth.cn
 finance.youth.cn.wswebcdn.com
 financeprod.alipay.com
 financeun.com
@@ -29948,7 +29947,6 @@ gspe21-ssl.ls.apple.com.mwcname.com
 gspe35-cn-ssl.ls-apple.com.akadns.net
 gspe35-ssl.ls.apple.com.mwcname.com
 gspe35-ssl.ls.apple.com.w.alikunlun.com
-gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls.apple.com.cdn20.com
 gspe85-cn-ssl.ls.apple.com
 gspe85-cn-ssl.ls.apple.com.cdn20.com
@@ -34459,7 +34457,6 @@ i0-prosmall-fd.zol-img.com.cn
 i0.article.fd.zol-img.com.cn
 i0.hdslb.com
 i0.hdslb.com.cdn20.com
-i0.hdslb.com.download.ks-cdn.com
 i0.letvimg.com
 i0.sinaimg.cn
 i0349.com

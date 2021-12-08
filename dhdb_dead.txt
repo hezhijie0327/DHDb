@@ -5953,6 +5953,7 @@ ads.priel.co.kr
 ads.primaryclick.com
 ads.primeinteractive.net
 ads.programattik.com
+ads.pubmatic.com
 ads.pushplay.com
 ads.quicken.com
 ads.rackshack.net
@@ -8630,6 +8631,7 @@ assets.2343sdxs.com
 assets.258pcf.com
 assets.adtaily.com
 assets.cookieconsent.silktide.com
+assets.fanart.tv
 assets.gitee.com
 assets.ps.easou.com
 assets.uxengine.net
@@ -16963,6 +16965,7 @@ d3nkhhtdsbru8g.cloudfront.net
 d3nslu0hdya83q.cloudfront.net
 d3nw6kcmyopsns.cloudfront.net
 d3obcr2u6lxl5q.cloudfront.net
+d3ohl9vojs9vzl.cloudfront.net
 d3ojzyhbolvoi5.cloudfront.net
 d3or87wg8f69ex.cloudfront.net
 d3osdf9ihj16qb.cloudfront.net
@@ -18542,6 +18545,7 @@ docketupload.com
 docols.net
 docqacvwhgbxv.com
 docs-downloading.com
+docs.brew.sh
 docsou.com
 docsworking.com
 doctorsh.ru
@@ -19022,6 +19026,7 @@ drop-pubg.xyz
 drop-s-aweme-lq.snssdk.com
 drop-xbest.com
 drop-xgood.com
+dropbox-cdnn.com
 dropbox-cdns.com
 dropbox-cdnt.com
 dropbox-cnd.com
@@ -22417,6 +22422,7 @@ finalid.com
 finalworkportfolio.ml
 finance-ecolo.com
 finance.sina.com.cn
+finance.youth.cn
 financecomments.net
 financefindonline.com
 financial-trading-platform.com
@@ -24205,6 +24211,7 @@ gdpr.prisa.com
 gdpycy02.com
 gdrc365.com
 gdrtgroyhtqsx.xyz
+gds2.steampowered.com
 gdshuotai.cn
 gdsoq.com
 gdtnio.com
@@ -25459,6 +25466,8 @@ gso.hk
 gso0.com
 gsp.cnzz.kld666.com
 gsp1.baidu.com
+gspe1-ssl.ls.apple.com
+gspe79-cn-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com
 gsportsgroup.co.kr
 gssdsj.com
@@ -28146,6 +28155,7 @@ i.uzhiv.com
 i.xdywlw.cn
 i.xx.openx.com
 i.youzipi.net
+i0.hdslb.com.download.ks-cdn.com
 i000o.com
 i027m.top
 i05h.cn

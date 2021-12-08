@@ -8321,7 +8321,6 @@ adash-c.ut.taobao.com
 adash-emas.cn-hangzhou.aliyuncs.com
 adash-new.man.aliyuncs.com.gds.alibabadns.com
 adash.m.gds.taobao.com
-adash.m.taobao.com
 adash.man.aliyuncs.com
 adashbc.m.taobao.com
 adashbc.m.taobao.com.gds.alibabadns.com
@@ -11194,7 +11193,6 @@ as.nidongme.com
 as.qunliao.info
 as.weixin.qq.com
 as.xiaojukeji.com
-as1.binstream.live
 as1.m.hao123.com
 as1.wenku.baidu.com
 as2.binstream.live
@@ -18218,7 +18216,6 @@ cm.e.qq.com
 cm.emarbox.com
 cm.fancyapi.com
 cm.fastapi.net
-cm.g.doubleclick.net
 cm.gamersky.com
 cm.gtags.net
 cm.he2d.com
@@ -19973,7 +19970,6 @@ cshnkj.com
 cshu360.com
 cshxdc.com
 csi-china.l.google.com
-csi.gstatic.com
 csic-711.com
 csic-ljtech.com
 csic612.com
@@ -30138,6 +30134,7 @@ guba.com.cn
 guba.eastmoney.com
 gubgonx.cn
 gucci.cn
+gucciblog.net
 gucheng.com
 gucn.com
 gucun.info

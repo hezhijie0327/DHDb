@@ -3787,7 +3787,6 @@
 33xs.com
 33yq.com
 34-courier.push.apple.com
-34-courier2.push.apple.com
 34.76.102.223.zz.countries.nerd.dk
 34.76.33.183.zz.countries.nerd.dk
 34.77.133.223.zz.countries.nerd.dk
@@ -9707,7 +9706,6 @@ a8.eonet.jp
 a8.erasutamo.onlinestaff.jp
 a8.fit-theme.com
 a8.geo-online.co.jp
-a8.haptic.co.jp
 a8.hitohana.tokyo
 a8.i-netservice.net
 a8.instokyo.com
@@ -17723,7 +17721,6 @@ an.reflektion.com
 an.webvisor.org
 an.wikigifth.com
 an.worldbaseballclassic.com
-an.xemvtv.net
 an.yandex.ru
 ana.mediable.info
 ana.tunnl.com
@@ -19744,7 +19741,6 @@ app.hytdsm.com
 app.icon256.com
 app.info.coopenae.fi.cr
 app.information.maileva.com
-app.insight.heidrick.com
 app.jgyee.com
 app.launchdarkly.com
 app.leg.wa.gov
@@ -38200,7 +38196,6 @@ code.etracker.com
 code.fastclick.net
 code.giraff.io
 code.hot-mob.com
-code.jquery.com
 code.kinofactor.ru
 code.org
 code.randomhouse.com
@@ -41235,7 +41230,6 @@ crest.hk
 crestedbuttejobs.com
 crestfallenwall.com
 crestgps.com
-crestv.com
 cresus.fr
 crete-crete.com
 cretgate.com
@@ -48940,7 +48934,6 @@ dpd.be
 dpd.com
 dpd.ie
 dpd9yiocsyy6p.cloudfront.net
-dpdb.webvr.rocks
 dpdety.jingus.com
 dpf-support.com
 dpgawov.com
@@ -51782,7 +51775,6 @@ edge.g.yimg.jp
 edge.gycpi.b.yahoodns.net
 edge.itunes.apple.com
 edge.legacy.net.zooplus.com
-edge.microsoft.com
 edge.quantserve.com
 edge.r-es-1.net.daraz.com
 edge.r-oa-1.net.daraz.com
@@ -79355,7 +79347,6 @@ inf.clickpay.com
 inf.wqa.ru
 infamousstream.com
 infamylists.com
-infarts.net
 infectiousmedia.com
 infercapture.com
 inference.location.live.net

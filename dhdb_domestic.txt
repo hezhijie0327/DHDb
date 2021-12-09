@@ -8131,7 +8131,6 @@ activity.clotfun.xyz
 activity.cubejoy.com
 activity.erdfgj.com
 activity.gtimg.cn
-activity.hdslb.com.w.kunlungr.com
 activity.hnhnmg.com
 activity.kugou.com.wswebcdn.com
 activity.m.kuaishou.com
@@ -9573,7 +9572,6 @@ aliyun-adns.aliyun.com.gds.alibabadns.com
 aliyun-inc.com
 aliyun-iot-share.com
 aliyun-page.cn-hangzhou.log.aliyuncs.com
-aliyun-pcdnts.douyucdn.cn
 aliyun-stream.kksmg.com
 aliyun-web-tracker.cn-zhangjiakou.log.aliyuncs.com
 aliyun-youhui.com
@@ -11256,7 +11254,6 @@ assets.easou.com
 assets.giocdn.com
 assets.giocdn.com.wswebpic.com
 assets.growingio.com
-assets.growingio.com.wswebpic.com
 assets.taobao.com
 assets.taobao.com.w.cdngslb.com
 assets.tapimg.com
@@ -19220,7 +19217,6 @@ connect.qq.com
 connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
-connectivitycheck.cbg-app.huawei.com
 connector-systems.com
 connectwifi.org
 connpm.gj.qq.com
@@ -19502,7 +19498,6 @@ cpu-admin.baidu.com
 cpu-baidu-com-block.cdn.bcebos.com
 cpu.baidu.com
 cpu668.com
-cpucdn.baidu.com
 cpupack.com
 cpush.ctrip.com
 cpush.ctrip.com.tel.oy.ctripgslb.com
@@ -25775,7 +25770,6 @@ esk365.com
 eskgn.com
 eskysky.com
 eslosity.com
-esmapi.dangbei.net
 esmartwave.com
 esnai.com
 esnai.net
@@ -28087,7 +28081,6 @@ g.mnw.cn
 g.nga.cn
 g.ousns.net
 g.pconline.com.cn
-g.pconline.com.cn.wscdns.com
 g.pptv.com
 g.qucaigg.com
 g.rs.yoyi.com.cn
@@ -28229,7 +28222,6 @@ game.61.com
 game.adwo.com
 game.ali213.net
 game.baichuanhd.cn
-game.bilibili.com.w.cdngslb.com
 game.chillyroom.com
 game.china.com
 game.eve.mdt.qq.com
@@ -28429,6 +28421,7 @@ gaopi.net
 gaoqing.baixing.com
 gaoqing500.com
 gaoqingpai.com
+gaoqiwenda.com
 gaoqixhb.com
 gaore.com
 gaosan.com
@@ -28612,7 +28605,6 @@ gdmxjy.com
 gdou.com
 gdown.baidu.com
 gdp.alicdn.com
-gdp.alicdn.com.danuoyi.tbcache.com
 gdpanshi.com
 gdqou2nm.sched.s2.tdnsv5.com
 gdqynews.com
@@ -28871,7 +28863,6 @@ gfs2.gomein.net.cn.wscdns.com
 gfs4.gomein.net.cn
 gfs4.gomein.net.cn.wscdns.com
 gfs5.gomein.net.cn
-gfs6.gomein.net.cn
 gfs7.gomein.net.cn
 gfs8.gomein.net.cn
 gftuan.com
@@ -30159,7 +30150,6 @@ guzhangting.com
 guzhifengds.com
 guzhiwang.com
 guziyy.com
-guzzoni.apple.com
 guzzservices.com
 gv1.xdrig.com
 gv1.xdrig.com.td.fusion.iaas.jdcloud.com
@@ -30946,7 +30936,6 @@ hanyu.sogou.com
 hanyuan.baixing.com
 hanyucar.com
 hanyuehui.site
-hanzgrp.com
 hanzhifeng.com
 hanzhixin.cn
 hanzhong.anjuke.com

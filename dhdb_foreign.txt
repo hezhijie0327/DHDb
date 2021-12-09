@@ -9950,7 +9950,6 @@ aad.portal.azure.com
 aad73c550c.se
 aad91.com
 aadata.april-international.com
-aadata.april.fr
 aadcdn.msauth.net
 aadcdn.msauthimages.net
 aadcdn.msftauth.net
@@ -10733,7 +10732,6 @@ accounts.dmm.com
 accounts.ea.com
 accounts.firefox.com
 accounts.google.co.jp
-accounts.google.com
 accounts.livechatinc.com
 accounts.mx
 accounts.nintendo.com
@@ -17497,7 +17495,6 @@ amos5lynn.com
 amothersheart.net
 amothg.bigam.ru
 amoweb.fr
-amp-api-edge.music.apple.com
 amp-api-music-lb.itunes-apple.com.akadns.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api-search-edge.apps.apple.com
@@ -19068,7 +19065,6 @@ api.apple-cloudkit.com
 api.applovefrom.com
 api.appnxt.net
 api.appodeal.com
-api.apps.apple.com
 api.appsflyer.com
 api.apptentive.com
 api.arcadia.pncle8.com
@@ -19107,7 +19103,6 @@ api.cloudmobi.net
 api.codacy.com
 api.codeclimate.com
 api.coinerra.com
-api.company-target.com
 api.container.net.zooplus.de
 api.cookielaw-script.it
 api.cookielaw.eu
@@ -21269,7 +21264,6 @@ assets.hcaptcha.com
 assets.igapi.com
 assets.klick.com
 assets.medicalnewstoday.com
-assets.msn.cn
 assets.net.zooplus.com
 assets.net.zooplus.fr
 assets.netizen.co
@@ -28600,7 +28594,6 @@ bnr.bg
 bnr.playmagazines.com
 bnr.sys.lv
 bnr901.com
-bnr902.com
 bnr903.com
 bnrdom.com
 bnrmetal.com
@@ -30449,7 +30442,6 @@ burdadigital.pl
 burdaffi.burdadigital.pl
 bureau-vallee.fr
 bureaucracyambiguousfellow.com
-bureaucracycrutch.com
 bureauveritas.com
 buresova-obrazy.wz.cz
 burgerbrush.com
@@ -31869,7 +31861,6 @@ calculatingtoothbrush.com
 calculatorcamera.com
 calculatorconceivenonetheless.com
 calculatorstatement.com
-caldav.fe.apple-dns.net
 caldav.icloud.com
 caldwellpartners.com
 calebelston.com
@@ -58232,7 +58223,6 @@ firefang.cn
 firefly.daroncreative.co
 fireflyacg.com
 fireflyengagement.com
-firefox-settings-attachments.cdn.mozilla.net
 firefox.com
 firefoxcn.com
 firefoxfan.com

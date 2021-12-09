@@ -4265,6 +4265,7 @@ a-ups-presencecore6-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore7-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.eastus2.cloudapp.azure.com
+a-ups-presencecore8-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore9-prod-azsc.westus2.cloudapp.azure.com
 a-webapi-prod-asse-shiftsa.southeastasia.cloudapp.azure.com
 a.04ee395e5b8a076c7bd8592851ff8cad.com
@@ -4343,6 +4344,7 @@ a.nanhuwang.com
 a.navi-gaming.com
 a.net-bt32.stream
 a.oix.net
+a.overlay.top
 a.oyksoft.com
 a.predictvideo.com
 a.privatelink.msidentity.com
@@ -4485,6 +4487,7 @@ a0shop.top
 a1.0s.net.cn
 a1.7down.com
 a1.aichagu.com
+a1.alicdn.com
 a1.aluntan.com
 a1.bestopview.com
 a1.gexing.me
@@ -4664,6 +4667,7 @@ aamsitecertifier.com
 aan.amazon-adsystem.com
 aanaan.com
 aanqylta.com
+aapl-maps.qtlcdn.com
 aapl.tw
 aapy38.com
 aaqiycetqwx.com
@@ -6365,6 +6369,7 @@ adserver.artempireindustries.com
 adserver.arttoday.com
 adserver.atari.net
 adserver.backbeatmedia.com
+adserver.betandwin.de
 adserver.billiger-surfen.de
 adserver.billiger-telefonieren.de
 adserver.bizhat.com
@@ -6825,6 +6830,7 @@ aeros11.tk
 aeros12.tk
 aestivator.com
 aetejxolo.com
+aeu.alicdn.com.danuoyi.alicdn.com
 aeweb.xyz
 af05da6dbac71a8a42a37f1140a3e8b4.jddebug.com
 afairweb.com
@@ -8550,6 +8556,7 @@ approvedhacks.com
 apps-hacks.com
 apps-stats.com
 apps.cacafly.com
+apps.corel.com
 apps.identrust.com
 apps.mzstatic.com
 apps.poln.co
@@ -8574,6 +8581,7 @@ appstore.pandora.xiaomi.com
 appstoreapple.cn
 appstreets.com
 appsunlocker.com
+appsupport.qq.com
 appusage.intel.com
 appving.com
 appx.91.com
@@ -8711,6 +8719,7 @@ arrariedcra.club
 arrassley.info
 array501.prod.do.dsp.mp.microsoft.com
 array507.prod.do.dsp.mp.microsoft.com
+array608.prod.do.dsp.mp.microsoft.com
 array614.prod.do.dsp.mp.microsoft.com
 array803.prod.do.dsp.mp.microsoft.com
 array806.prod.do.dsp.mp.microsoft.com
@@ -8877,6 +8886,7 @@ assets.258pcf.com
 assets.adobedtm.com
 assets.adtaily.com
 assets.alicdn.com
+assets.alicdn.com.danuoyi.tbcache.com
 assets.cookieconsent.silktide.com
 assets.fanart.tv
 assets.gitee.com
@@ -8886,6 +8896,7 @@ assets.msn.com
 assets.onestore.ms
 assets.ps.easou.com
 assets.uxengine.net
+assets01.thebigknow.com
 assetscdn.stream
 assigned.cn
 associates-amazon.com
@@ -10603,6 +10614,7 @@ bfttiao.com
 bfwifidhhnl.danaher.org
 bfypvmnytobqyn.xyz
 bg.ctripatm.cn
+bg4.v4.a.dl.ws.microsoft.com
 bg919.com
 bg9444.com
 bga11.shlibaosi.cn
@@ -14426,6 +14438,7 @@ clickstrip.6wav.es
 clicktale.pantherssl.com
 clicktalecdn.sslcs.cdngc.net
 clickthrunet.net
+clicktime.symantec.com
 clicktoclick.ru
 clicktorrent.info
 clicktrack.savings-foryou.net
@@ -15074,6 +15087,7 @@ collector.shorte.st
 collector.snplow.net
 collector.xhwide1.com
 collectorautoupdate7.synology.com
+collectorupdate7.synology.com
 colleduny.info
 college.kay-tech.info
 colnhive.com
@@ -15326,6 +15340,7 @@ containerpi.com
 contemporaryceremonies.ca
 contemposhop.eu
 content-blocking.net
+content-signature-2.cdn.mozilla.net
 content-square.net
 content.adserverplus.com
 content.cloudflare.com
@@ -16845,6 +16860,7 @@ d.yjbys.com
 d.ynjk120.com
 d.yoyi.com.cn
 d.yyjsbz.cn
+d.zhangle.com
 d03165aacb.com
 d038.dygod.org
 d03jd.com
@@ -17833,6 +17849,7 @@ data.mistat.xiaomi.com
 data.mobclix.com
 data.netweaver.uk
 data.nexxt.com
+data.paddle.com
 data.permittingnorthlandseamen.info
 data.pplive.com
 data.shipboardserviceberrysiltstone.info
@@ -18334,6 +18351,7 @@ devatics.io
 devaxi.org
 develenv.com
 developer-advisor.com
+developers.cloudflare.com
 devemi.com
 device-manager.us
 device-shell-breach-alert.us
@@ -19391,6 +19409,7 @@ download.ithome.com.tw
 download.parallels.com.cdn.cloudflare.net
 download.shuzilm.cn
 download.synology.com
+download.visualstudio.microsoft.com
 download.wholestuff.win
 download.zhushou.sogou.com
 download05.com
@@ -19650,6 +19669,7 @@ dsdydk.com
 dserver.adad.ir
 dsfhgfuyh.com
 dsgy521.com
+dsh1ct2zrfakt.cloudfront.net
 dshrc.com
 dsjdbuydggd46rg7vd.xyz
 dsjre.com
@@ -21878,6 +21898,7 @@ eu1.cpufan.club
 eu1.recompenses.win
 eu2.cfcnet.gdn
 eu2.cpufan.club
+eu2.thunderhead.com
 eucsgo.com
 eucsoft.com
 eudcqm.uihdlx.xyz
@@ -23276,6 +23297,7 @@ flexlinks.com
 flexlinkspro.com
 flexxrl.com
 flgg.us
+flightproxy-asea-02-teams.cloudapp.net
 flights-report.com
 flights-todays.com
 flightsy.bi
@@ -24388,6 +24410,7 @@ g.5q63n.cn
 g.ad8.cc
 g.aisouk.cn
 g.alexyang.me
+g.alicdn.com
 g.aliguojw.com
 g.buka9.com
 g.chuiyao.com
@@ -25899,6 +25922,7 @@ googlearth.com
 googledrive-download.com
 googledrive-eu.com
 googledrive-gb.com
+googlehosted.l.googleusercontent.com
 googlelabs.com
 googleplay-store.com
 googleplaycodes.com
@@ -26681,6 +26705,7 @@ h5.076ld.com
 h5.ld052.com
 h5.ldvip21.com
 h5.pk1179.com
+h5.sinaimg.cn
 h5.sll16.com
 h5.super-dreamers.com
 h5.weishi.qq.com

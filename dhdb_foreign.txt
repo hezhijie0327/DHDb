@@ -8623,7 +8623,6 @@ a-ups-presencecore5-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.eastus2.cloudapp.azure.com
-a-ups-presencecore8-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore9-prod-azsc.eastus.cloudapp.azure.com
 a-usw.1rx.io
 a.123porner.com
@@ -8831,7 +8830,6 @@ a.o2u.jp
 a.o333o.com
 a.omappapi.com
 a.opmnstr.com
-a.overlay.top
 a.page.link
 a.partner-versicherung.de
 a.pass-ns.emailvision.net.daraz.com
@@ -14025,7 +14023,6 @@ adserver.aol.fr
 adserver.archant.co.uk
 adserver.ariase.org
 adserver.bdoce.cl
-adserver.betandwin.de
 adserver.bidsxchange.com
 adserver.bing.com
 adserver.bizedge.com
@@ -20114,7 +20111,6 @@ apps.bazaarvoice.com
 apps.box.com
 apps.buzzcity.net
 apps.car21.net.daraz.com
-apps.corel.com
 apps.data.net.zooplus.de
 apps.digsigtrust.com
 apps.education2020.com
@@ -20619,7 +20615,6 @@ array601.prod.do.dsp.mp.microsoft.com
 array605.prod.do.dsp.mp.microsoft.com
 array606.prod.do.dsp.mp.microsoft.com
 array607.prod.do.dsp.mp.microsoft.com
-array608.prod.do.dsp.mp.microsoft.com
 array609.prod.do.dsp.mp.microsoft.com
 array611.prod.do.dsp.mp.microsoft.com
 array612.prod.do.dsp.mp.microsoft.com
@@ -21239,7 +21234,6 @@ assets.volvocars.com
 assets.website-files.com
 assets.www.cloudflare.com
 assets.zendesk.com
-assets01.thebigknow.com
 assets1.exgfnetwork.com
 assets1.freshdesk.com
 assets1.unidays.world
@@ -36740,7 +36734,6 @@ clickthru.lefbc.com
 clickthru.net
 clickthruserver.com
 clickthrutraffic.com
-clicktime.symantec.com
 clicktrace.info
 clicktraceclick.com
 clicktrack.onlineemailmarketing.com
@@ -38326,7 +38319,6 @@ collector1.afreecatv.com
 collector1.xhamster.com
 collectorearnammonia.com
 collectorj.tvsquared.com
-collectorupdate7.synology.com
 collectrom.com
 collectrum.com
 collegclub.com
@@ -39347,7 +39339,6 @@ content-hci.com
 content-lump.net
 content-p.telsi.fr
 content-recommendation.net
-content-signature-2.cdn.mozilla.net
 content-strl.courses-en-ligne.carrefour.fr
 content.360resourcing.co.uk
 content.6wind.com
@@ -44207,7 +44198,6 @@ data.org.tr
 data.origin.docker.net.zooplus.de
 data.osdknw.com
 data.ouigo.com
-data.paddle.com
 data.pass.net.zooplus.de
 data.podwatch.io
 data.queryly.com
@@ -45775,7 +45765,6 @@ developerlibrary.com
 developermedia.com
 developers.box.com
 developers.box.net
-developers.cloudflare.com
 developers.facebook.com
 developers.google.com
 developerservices2.apple.com
@@ -49095,7 +49084,6 @@ dsg.interia.pl
 dsg.sc.omtrdc.net
 dsgho.com
 dsh111.com
-dsh1ct2zrfakt.cloudfront.net
 dsh7ky7308k4b.cloudfront.net
 dshjfh.com
 dshmama.com
@@ -54431,7 +54419,6 @@ eu1l.trackdota.com
 eu1l.valorbuff.com
 eu2.cdn.thunderhead.com
 eu2.monerise.com
-eu2.thunderhead.com
 eu49.com
 eu4cn.com
 eu6.beeppool.org
@@ -58570,7 +58557,6 @@ flightb1a4.com
 flightcontrol.dev
 flightnetwork.com
 flightproxy-apac-teams.trafficmanager.net
-flightproxy-asea-02-teams.cloudapp.net
 flightproxy-asea-03-teams.cloudapp.net
 flightproxy-asea-06-teams.cloudapp.net
 flightproxy-asse-02-teams.cloudapp.net
@@ -69765,7 +69751,6 @@ googleforchina.com
 googlegroups.com
 googlehelper.net
 googlehosted.com
-googlehosted.l.googleusercontent.com
 googlehosted1.googleusercontent.com
 googleideas.com
 googleinsidesearch.com

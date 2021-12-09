@@ -7574,7 +7574,6 @@ a1.99933.cn
 a1.99966.cn
 a1.alibabausercontent.com
 a1.alibabausercontent.com.w.cdngslb.com
-a1.alicdn.com
 a1.alicdn.com.danuoyi.tbcache.com
 a1.azg168.cn
 a1.baidupan.com
@@ -7840,7 +7839,6 @@ aaid.amap.com
 aaid.umeng.com
 aaid.uyunad.com
 aaniao.com
-aapl-maps.qtlcdn.com
 aardio.com
 aaspt.net
 aatccn.com
@@ -8750,7 +8748,6 @@ aes01.com
 aesdrink.com
 aessoft.gallerycdn.azure.cn
 aeu.alicdn.com
-aeu.alicdn.com.danuoyi.alicdn.com
 aeventlog.beacon.qq.com
 aevit.xyz
 aew3k3jd.v1d.szbdyd.com
@@ -10948,7 +10945,6 @@ appstore.ldmnq.com
 appstore.ptmi.gitv.tv
 appstoreisvpic.alipayobjects.com
 appstoreisvpic.alipayobjects.com.danuoyi.tbcache.com
-appsupport.qq.com
 appsupport.stargame.com
 apptao.com
 apptrack.cn
@@ -11245,7 +11241,6 @@ assets-share.dspunion.com.wswebcdn.com
 assets.115.com
 assets.116cd.com
 assets.51downapp.cn
-assets.alicdn.com.danuoyi.tbcache.com
 assets.asklib.com
 assets.ckjr001.com
 assets.dspunion.com
@@ -13019,7 +13014,6 @@ bfzhuce.com
 bg.v4.a.dl.ws.microsoft.com
 bg0.market.xiaomi.com
 bg1.market.xiaomi.com
-bg4.v4.a.dl.ws.microsoft.com
 bg4r2i0.cachenode.cn
 bgbk.org
 bgctv.com
@@ -20434,7 +20428,6 @@ d.youth.cn
 d.youth.cn.wswebcdn.com
 d.yoyi.tv
 d.yypbao.com
-d.zhangle.com
 d.zhidian3g.cn
 d.ziyuanm.com
 d0.ananas.chaoxing.com
@@ -23360,7 +23353,6 @@ download.qianka.com
 download.sangfor.com.cn
 download.sdk.mob.com
 download.unitychina.cn
-download.visualstudio.microsoft.com
 download.vzuu.com
 download.wan.sohu.com
 download.wegame.qq.com
@@ -28041,7 +28033,6 @@ g.168.it168.com
 g.6sfg.com
 g.711983.com
 g.ads.cn.miaozhen.com
-g.alicdn.com
 g.alicdn.com.danuoyi.alicdn.com
 g.aligames.com
 g.baidu.com
@@ -30592,7 +30583,6 @@ h5.qianbao.qq.com
 h5.qzone.qq.com
 h5.showapp.xunlei.com
 h5.shqmxx.com
-h5.sinaimg.cn
 h5.sm.cn
 h5.ssp.qq.com
 h5.ssp.qq.com.sched.px-dk.tdnsv6.com

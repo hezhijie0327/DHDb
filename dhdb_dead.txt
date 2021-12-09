@@ -4821,6 +4821,7 @@ access-sngapm.qcloud.com
 access.f3b.work
 access.journal.mycom.co.jp
 access.njherald.com
+access.speech.ai.xiaomi.com
 access1.tpns.sh.tencent.com
 accessful.info
 accessgenerator.club
@@ -6759,6 +6760,7 @@ ae7c783736eb2ff.com
 ae88625f96.com
 aeasyshop.com
 aec.shjk123.net
+aecpm.alicdn.com
 aecpm.alicdn.com.danuoyi.alicdn.com
 aedrvt.majordomo.ru
 aefd.nelreports.net
@@ -8332,6 +8334,7 @@ appdaka.com
 appdl-4-drcn.dbankcdn.com
 appdl.hicloud.com
 appdomain.cloud
+appdownload.alicdn.com.danuoyi.tbcache.com
 appdp.com
 appe-store.com
 appelamule.com
@@ -8496,6 +8499,7 @@ appmyass.com
 appnxt.net
 apppush.ztems.com
 apprcn.com
+approped.club
 approvedhacks.com
 apps-hacks.com
 apps-stats.com
@@ -8823,6 +8827,7 @@ assets.2343sdxs.com
 assets.258pcf.com
 assets.adobedtm.com
 assets.adtaily.com
+assets.alicdn.com
 assets.cookieconsent.silktide.com
 assets.fanart.tv
 assets.gitee.com
@@ -9020,6 +9025,7 @@ authorinsights.com
 auto.obozrevatel.com
 auto.sina.com.cn
 auto000.com
+auto2.sinaimg.cn
 autocsdn.xyz
 autodg.com
 autodiscount.info
@@ -10673,6 +10679,7 @@ bikecool.com
 biknow.com
 bilandgo.com
 bilderfest.ru
+bili23.cn
 biliapi.com
 biliapi.net
 bilibili.ru
@@ -11472,6 +11479,7 @@ brakefluid.website
 brameriez.xyz
 branagedjoy.com
 branchstaging.com
+brand.lenovo.com.cn
 brand.sogou.com
 brandarium.ru
 brandeuse.jp
@@ -14014,6 +14022,7 @@ ci.appveyor.com
 ci.csefaazc.net
 ci.intuit.com
 ci.nii.ac.jp
+ci.xiaohongshu.com
 ci0s.i4h7md.cn
 ci170.fafafa3388.com
 ci3ixee8.com
@@ -15216,6 +15225,7 @@ conseil-rencontre.com
 conseils-pret.com
 consensu.org
 consent.theneweuropean.co.uk
+consent.trustarc.com
 consentedimpunity.com
 constellation.vertu.com
 constituteshy.com
@@ -16805,6 +16815,7 @@ d1af165twk0zgn.cloudfront.net
 d1ani98g6ik72n.cloudfront.net
 d1ate9io4mqkko.cloudfront.net
 d1az0m14mjvs40.cloudfront.net
+d1azc1qln24ryf.cloudfront.net
 d1b183sg0nvnuh.cloudfront.net
 d1b3gtspywx8mw.cloudfront.net
 d1bdz086ztl2x6.cloudfront.net
@@ -17078,6 +17089,7 @@ d2gxp14gfgh0mu.cloudfront.net
 d2gxuddufi23dd.cloudfront.net
 d2h49uasc4f4l7.cloudfront.net
 d2h5dkhxvxyg97.cloudfront.net
+d2h67oheeuigaw.cloudfront.net
 d2hiddpkp3wlza.cloudfront.net
 d2hit.com
 d2hmder3sb33g4.cloudfront.net
@@ -17975,6 +17987,7 @@ ddlequ.com
 ddli.jp
 ddlives.com
 ddm.nctu.me
+ddms.jd.com.gslb.qianxun.com
 ddmyapp.wscdn.tcdn.qq.com
 ddnete.com
 ddns-only.xyz
@@ -18817,6 +18830,7 @@ dmtry.com
 dmtt.fun
 dmtu.0m31a.cn
 dmvbonnha.com
+dmxalb.winni.in
 dmxftmoqz.com
 dmxleo.com
 dmzj1.com
@@ -18987,6 +19001,7 @@ dogfoodstorage.net
 doghauky.net
 dogopics.com
 dogus-ads-cdn.dygdigital.com
+doh-de.blahdns.com
 doh.doh.my.id
 dohs95d6tfj19.cloudfront.net
 dohsbq9npz1a9.cloudfront.net
@@ -19436,6 +19451,7 @@ drhze47qtq2xs.cloudfront.net
 drikova.ru
 driv-analytics.com
 drive.nimiq.com
+driveapis.cloud.huawei.com
 driventicket.com
 drkxae.lenovo.com
 drli.group
@@ -19535,6 +19551,7 @@ dskfv.de
 dskrt.net
 dslebag.com
 dslenggui.com
+dsm01pap001.storage.live.com
 dsn-vgtrk.ru
 dsn00.com
 dsn01.co
@@ -19561,6 +19578,7 @@ dspserver.ad.cmvideo.cn
 dspwhy.com
 dsq.com
 dss0.baidu.com
+dss2.baidu.com
 dss3.bdstatic.com
 dss8l0f.cn
 dss9927.com
@@ -20480,6 +20498,7 @@ e10583.dspg.akamaiedge.net
 e11696.dscb.akamaiedge.net
 e127f.azurewebsites.net
 e12930.dscj.akamaiedge.net
+e1329.g.akamaiedge.net
 e13630.ca2.s.tl88.net
 e13678.dscg.akamaiedge.net
 e14313.g.akamaiedge.net
@@ -22463,6 +22482,7 @@ faxityofficu.fun
 faxso.ru
 fayea.com
 fayi.baidu.com
+fazphz.theiconic.com.au
 fb-accounts.com
 fb-autoliker.com
 fb-gamer.com
@@ -23175,6 +23195,7 @@ flowersgalleryevents.ayansaha.com
 flowerythug.com
 flowever.net
 flowplayer.space
+flpc.bdstatic.com
 flroyqqswu.xyz
 fluffer.xyz
 fluffydrop.com
@@ -25491,6 +25512,7 @@ go.cherrycreekschools.org
 go.cloudcraze.com
 go.cnfol.com
 go.conversionmasters.com
+go.devskiller.com
 go.envestnet.com
 go.f95.de
 go.fairrank.de

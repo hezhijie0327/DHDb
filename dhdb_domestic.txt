@@ -7962,7 +7962,6 @@ acceldata.xunyou.com
 accelink.com
 access-credit.meituan.com
 access.open.uc.cn
-access.speech.ai.xiaomi.com
 access.toggle.qq.com
 access.video.qq.com
 access1.tpns.tencent.com
@@ -8737,7 +8736,6 @@ ae60.com
 aebiz.net
 aec188.com
 aecichina.com
-aecpm.alicdn.com
 aedns.weixin.qq.com
 aeenets.com
 aef3l3ra.v1d.szbdyd.com
@@ -10850,7 +10848,6 @@ appdl.lenovo.com.cn
 appdlc-drcn.hispace.hicloud.com
 appdown.info
 appdownload.alicdn.com
-appdownload.alicdn.com.danuoyi.tbcache.com
 appdownload.mail.10086.cn
 appdownload.youku.com
 appdriver.cn
@@ -11257,7 +11254,6 @@ assets-share.dspunion.com.wswebcdn.com
 assets.115.com
 assets.116cd.com
 assets.51downapp.cn
-assets.alicdn.com
 assets.alicdn.com.danuoyi.tbcache.com
 assets.asklib.com
 assets.ckjr001.com
@@ -11448,7 +11444,6 @@ auto.youth.cn
 auto.youth.cn.wswebcdn.com
 auto1.sinaimg.cn
 auto18.com
-auto2.sinaimg.cn
 auto318.com
 auto328.com
 auto333.com
@@ -13226,7 +13221,6 @@ bili22.cn
 bili22.cn.w.cdngslb.com
 bili2233.cn
 bili2233.cn.w.cdngslb.com
-bili23.cn
 bili33.cn
 bilibili.cc
 bilibili.cn
@@ -14122,7 +14116,6 @@ bqrank.net
 bqrdh.com
 bqteng.com
 br.linkedin.com
-brand.lenovo.com.cn
 brand.lenovo.com.cn.wswebcdn.com
 brand4x4.com
 brandadsstatic.vivo.com.cn
@@ -17538,7 +17531,6 @@ chyxx.com
 chzhkeji.com
 chzhw.com
 chzybj.com
-ci.xiaohongshu.com
 ci123.com
 ci52.com
 ci800.com
@@ -21576,7 +21568,6 @@ ddmap.com
 ddmeishi.com
 ddmer.com
 ddmogo.com
-ddms.jd.com.gslb.qianxun.com
 ddmyapp.wscdn.tcdn.qq.com.lxdns.com
 ddnddn.com
 ddnsto.com
@@ -23535,7 +23526,6 @@ drip.im
 dripcar.com
 drive.weixin.qq.com
 drive.wps.cn
-driveapis.cloud.huawei.com
 driver.lenovo.com.cn
 driverdevelop.com
 driverdl.lenovo.com.cn
@@ -23619,7 +23609,6 @@ dsre.jdy33.cn
 dss0.bdstatic.com
 dss1.baidu.com
 dss1.bdstatic.com
-dss2.baidu.com
 dss2.bdstatic.com
 dss3.baidu.com
 dssdr.top
@@ -27346,7 +27335,6 @@ flowplus.meituan.net
 flowportal.com
 flowproxy.6000.liveplay.myqcloud.com
 floyou.com
-flpc.bdstatic.com
 flpsz.com
 fls-cn.amazon.cn
 fls.doubleclick.net

@@ -15900,7 +15900,6 @@ cdruzhu.com
 cds.3.cn
 cds.3.cn.gslb.qianxun.com
 cds.apple.com.mwcname.com
-cdsassets.apple.com.mwcname.com
 cdsb.com
 cdsb.mobi
 cdsenfa.com
@@ -19393,7 +19392,6 @@ count.pcauto.com.cn
 count.pcpop.com
 count.taobao.com
 count.video.sina.com.cn
-count.vrs.sohu.com
 count.west263.com
 count.wk2.com
 count.xxxssk.com
@@ -25357,7 +25355,6 @@ eldawa.com
 ele.me
 ele.to
 ele12.com
-elec.bilibili.com
 elecfans.com
 elecfans.net
 elecinfo.com
@@ -27283,7 +27280,6 @@ flamesky.org
 flamingcold.com
 flaredup.com
 flash.cn
-flash.sec.miui.com
 flash2-http.qq.com
 flash8.net
 flash8f.com
@@ -29856,7 +29852,6 @@ gtm-cn-zz11nrj1v0a.bendibao.com.cn
 gtm-cn-zz11xxgi403.gtm-a5b4.com
 gtm.oasisfeng.com
 gtms01.alicdn.com
-gtms01.alicdn.com.danuoyi.alicdn.com
 gtms02.alicdn.com
 gtms02.alicdn.com.danuoyi.alicdn.com
 gtms03.alicdn.com

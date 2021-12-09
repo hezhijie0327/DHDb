@@ -4006,7 +4006,6 @@
 36zhen.com
 36zzz.net
 37-courier.push.apple.com
-37-courier2.push.apple.com
 37.courier-push-apple.com.akadns.net
 37.info.tm
 3709.com
@@ -11636,7 +11635,6 @@ ad2.linkwise.gr
 ad2.lupa.cz
 ad2.nend.net
 ad2.netriota.hu
-ad2.nmm.de
 ad2.pl
 ad2.thisisgame.com
 ad2.turn.com
@@ -12824,7 +12822,6 @@ adobetechcommcallback.com
 adobetechcommdemo.com
 adobetop.com
 adobetp.chegg.com
-adobetps.chegg.com
 adobexdplatform.com
 adocean.cz
 adocean.pl
@@ -18958,7 +18955,6 @@ api-exponea.o2.sk
 api-extractor.com
 api-fra.livechatinc.com
 api-gameplayer.dmm.com
-api-geetest-com-886580015.ap-southeast-1.elb.amazonaws.com
 api-iam.intercom.io
 api-localhost.net.daraz.com
 api-lp1.znc.srv.nintendo.net
@@ -21561,7 +21557,6 @@ atrack-asia-s1.120181311.xyz
 atrack-eu-w1.120181311.xyz
 atrack-sa-e1.120181311.xyz
 atrack-us-c1.120181311.xyz
-atrack.allposters.com
 atrack.art.com
 atrack.avplayer.com
 atraichuor.com
@@ -22666,7 +22661,6 @@ az.5.p2l.info
 az276019.vo.msecnd.net
 az361816.vo.msecnd.net
 az414402.vo.msecnd.net
-az416426.vo.msecnd.net
 az512334.vo.msecnd.net
 az667904.vo.msecnd.net
 az668014.vo.msecnd.net
@@ -26042,7 +26036,6 @@ bgmfans.com
 bgmtracker.com
 bgn.gg
 bgov.com
-bgpdefault-hkg.msedge.net
 bgpng.me
 bgproxy.org
 bgr.in
@@ -29791,7 +29784,6 @@ browser-updater.yandex.net
 browser.events.data.microsoft.com
 browser.events.data.msn.cn
 browser.events.data.trafficmanager.net
-browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 browser1.ru
 browsercam.com
@@ -31129,7 +31121,6 @@ c.ca.msn.com
 c.cert.ns.emailvision.net.daraz.com
 c.cl.msn.com
 c.clarity.ms
-c.clicktale.net
 c.cloudwp.io
 c.cnstats.ru
 c.codeonclick.com
@@ -33417,7 +33408,6 @@ cdn-sitegainer.com
 cdn-social.janrain.com
 cdn-ssl.vidible.tv
 cdn-store-icons-akamai-prd.unityads.unity3d.com
-cdn-store-icons-highwinds-prd.unityads.unity3d.com
 cdn-terapeak.com
 cdn-tudou.com
 cdn-us.anidb.net
@@ -36825,7 +36815,6 @@ client2009x25.xcdn.ovh
 clientcdn.pushengage.com
 clientconfig.akamai.steamstatic.com
 clientconfig.passport.net
-clientflow.apple.com
 clientflow.apple.com.akadns.net
 clientflow.g.aaplimg.com
 clientinfo.phimmoizz.net
@@ -41078,7 +41067,6 @@ crossengage.io
 crossfire.co.kr
 crossfireyouthministry.com
 crossfitfirestone.com
-crossingstatedsideway.com
 crossmark-cdn.crossref.org
 crossmediapanel.com
 crossmediaservices.com
@@ -56906,7 +56894,6 @@ fbu8.monte-carlo-beach.com
 fbu8.montecarlobay.com
 fbu8.montecarloluxuryhotels.com
 fbu8.montecarlosbm.com
-fbu8.montecarloseasonalsale.com
 fbu8.ticket-online.montecarlolive.com
 fburl.com
 fbuser.ovp.vn
@@ -59755,7 +59742,6 @@ fp.kakaku.com
 fp.mandatumlife.fi
 fp.mandatumtrader.fi
 fp.measure.office.com
-fp.msedge.net
 fp84rw0jinz7.blanc.ru
 fpa-cdn.arstechnica.com
 fpa-events.arstechnica.com
@@ -60398,7 +60384,6 @@ freeplaygiftcard.com
 freeplaygiftcards.com
 freeplaystationcards.info
 freeplus-global.net
-freepmoney.com
 freepornofreeporn.com
 freepplmoney.win
 freepremiumsoftwares.com
@@ -70238,7 +70223,6 @@ granturismo.console2pc.info
 granular.ag
 grapecartoons.com
 grapeshot.co.uk
-graph.facebook.com
 graph.instagram.com
 graph.org
 graph.windows.net
@@ -70398,7 +70382,6 @@ greengelato.ro
 greenhouse.io
 greenhouseglobal.cn
 greenid-prod-pme.eastus2.cloudapp.azure.com
-greenid-prod-pme.westus2.cloudapp.azure.com
 greenies.com
 greenindex.dynamic-dns.net
 greeninst.com
@@ -77974,7 +77957,6 @@ image.bayimg.com
 image.beike188.com
 image.cecash.com
 image.e.atlassian.com
-image.e.mozilla.org
 image.email.microsoftemail.com
 image.engage.surface.com
 image.engage.windows.com

@@ -1827,6 +1827,7 @@
 36tr.com
 36xs.net
 36yh.com
+37-courier2.push.apple.com
 37.serveftp.com
 37.sinawap.com
 37.wha.la
@@ -5279,6 +5280,7 @@ ad2.billboard.cz
 ad2.hotel.com
 ad2.ip.ro
 ad2.nationalreview.com
+ad2.nmm.de
 ad2.pamedia.com
 ad2.parom.hu
 ad2.peel.com
@@ -5645,6 +5647,7 @@ adobesc.com
 adobesigncdn.com
 adobess.com
 adobestats.com
+adobetps.chegg.com
 adobur.com
 adobur.net
 adoburcrv.com
@@ -8091,6 +8094,7 @@ api-access.pangolin-sdk-toutiao.com
 api-ddebian-example-production.mapbox.com
 api-deal.kechenggezi.com
 api-ds.kkbox.com.tw
+api-geetest-com-886580015.ap-southeast-1.elb.amazonaws.com
 api-js.mixpanel.com
 api-keks.com
 api-login.kkbox.com.tw
@@ -8976,6 +8980,7 @@ atozcode.host
 atp.mxptint.net
 atq8.com
 atrack-asia-s1.114913.xyz
+atrack.allposters.com
 atrack.pow7.com
 atraxio.com
 atrinsic.com
@@ -9256,6 +9261,7 @@ ayux.net
 aywgucxmh.com
 ayxbk.com
 az-meter.com
+az416426.vo.msecnd.net
 az700632.vo.msecnd.net
 az725175.vo.msecnd.net
 az7t8.com
@@ -10605,6 +10611,7 @@ bgl1dr1-a-fixed.sancharnet.in
 bgl1pp1-a-fixed.sancharnet.in
 bgnhds.icu
 bgnlisy.localdomain
+bgpdefault-hkg.msedge.net
 bgrel.bonedmilfs.com
 bgsdk.net
 bh100.com.cn
@@ -11609,6 +11616,7 @@ browser-update.online
 browser.events.data.msn.com
 browser.mi-img.com
 browser.miui.com
+browser.pipe.aria.microsoft.com
 browser2018-lite.ru
 browser2018lite.ru
 browserbreckalarm.info
@@ -12123,6 +12131,7 @@ c.bxjpl.cn
 c.cdlkzb.com
 c.chaochao132.xyz
 c.chei.us
+c.clicktale.net
 c.code222.com
 c.compete.com
 c.contem.bz
@@ -13040,6 +13049,7 @@ cdn-onedrive-live.com
 cdn-pri.nlark.com
 cdn-ra.rockcontent.com
 cdn-speed.com
+cdn-store-icons-highwinds-prd.unityads.unity3d.com
 cdn-t.xyz
 cdn-ukwest.onetrust.com
 cdn-v.com
@@ -13178,6 +13188,7 @@ cdn20.com
 cdn20.org
 cdn2000.com
 cdn2020.com
+cdn207img.115.com
 cdn22.xyz
 cdn2now.com
 cdn3-okzy.com
@@ -14429,6 +14440,7 @@ client.wmpvp.com
 client.wns.windows.com
 client51.com
 clientanalysis.cmvideo.cn
+clientflow.apple.com
 clientlog.portal.office.com
 clientlogger-prod.elasticbeanstalk.com
 clientmap.baidu.com
@@ -15829,6 +15841,7 @@ crohuiyi.com
 croissed.info
 crossboardmobile.com
 crosschannel.com
+crossingstatedsideway.com
 crosslocated.net
 crossthewall.net
 crossvpn.org
@@ -19276,6 +19289,7 @@ dotbrataev.ru
 dothammes.com
 doticloud.com
 dotroomeight.com
+dotserver.douyucdn.cn
 dotsly.com
 dotunnel001.com
 dou.bz
@@ -19323,6 +19337,7 @@ dowei.org
 dowelsobject.com
 dowjones.io
 dowjoneson.com
+down-cdn.dingtalk.com
 down-news-games.ru
 down.anticheatexpert.com.wsdvs.com
 down.bossbas.com
@@ -21447,6 +21462,7 @@ engine.bitmedianetwork.com
 engine.mobileapptracking.com
 engine.totalcarcheck.co.uk
 enginebuildltd.co.uk
+english.cctv.com
 english.gov.cn.wswebcdn.com
 englishfromengland.co.uk
 engliship4u.com
@@ -22639,6 +22655,7 @@ fbsupercheats.com
 fbsupport-covid.net
 fbthirdpartypixel.net
 fbthirdpartypixel.org
+fbu8.montecarloseasonalsale.com
 fbufrl15br.com
 fbunblockit.com
 fbxnsabawjkylo.com
@@ -23538,6 +23555,7 @@ fp-afd.azureedge.net
 fp-as.azureedge.net
 fp-vp-nocache.azureedge.net
 fp.jj59.com
+fp.msedge.net
 fp.oneshotdate.com
 fp3a2q15.com
 fpag.w48ge.cn
@@ -23880,6 +23898,7 @@ freepic.su
 freeplaycards.com
 freeplaystationpluscode.net
 freeplaystationrewards.com
+freepmoney.com
 freepointsmicrosoft.com
 freepokecoinsnow.com
 freeppalmon.xyz
@@ -26040,6 +26059,7 @@ granodiorite.com
 grant-skins.com
 grapefruitlifestyle.com
 graph.baidu.com
+graph.facebook.com
 graph.microsoft.com
 graphli.net
 grate-skin.com
@@ -26089,6 +26109,7 @@ greenbusnoise.com
 greencompute.org
 greenfelder.link
 greenhat.be
+greenid-prod-pme.westus2.cloudapp.azure.com
 greenlawnmantador.com
 greenseer.com.ar
 greensmallcanvas.com
@@ -29539,6 +29560,7 @@ image.agency.91.com
 image.agni3.xyz
 image.alice.qq.com
 image.av9.cc
+image.e.mozilla.org
 image.fifa.qq.com
 image.haiyunx.com
 image.hj217.com

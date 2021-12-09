@@ -1403,7 +1403,6 @@
 137.124.32.160.zz.countries.nerd.dk
 1374.com
 138.251.210.153.zz.countries.nerd.dk
-138138l.com
 1388012.com
 1388110.com
 1388555.com
@@ -3570,7 +3569,6 @@
 31yj.com
 31zscl.com
 32-b.it
-32-courier.push.apple.com
 32-courier2.push.apple.com
 32.205.210.62.zz.countries.nerd.dk
 32.courier-push-apple.com.akadns.net
@@ -7664,7 +7662,6 @@
 8e7iazfvf2.com
 8ea27048-dnsotls-ds.metric.gstatic.com
 8eaf2c32-dnsotls-ds.metric.gstatic.com
-8ehhtsv9bo7i.monkeylearn.com
 8ezc.sfr.fr
 8ff01bde37db289d5.com
 8ff6d2e8a94ce17f5589ddb82564f5d2.clo.footprintdns.com
@@ -9186,7 +9183,6 @@ a1931.dscgi3.akamai.net
 a1931.dscgi3.akamai.net.0.1.cn.akamaitech.net
 a1943.dscb.akamai.net
 a1945.g2.akamai.net
-a1951.dscb.akamai.net
 a1952.dspw65.akamai.net
 a19537.actonservice.com
 a1956.dscb.akamai.net
@@ -19067,7 +19063,6 @@ api.adcalls.nl
 api.addins.omex.office.net
 api.adfly.vn
 api.adfurikun.jp
-api.adguard.com
 api.adhooah.com
 api.adintext.net
 api.admins.ext.net.zooplus.de
@@ -19388,7 +19383,6 @@ api.ttkong.com
 api.turn.com
 api.tvmaze.com
 api.tw06.xlmc.sec.miui.com
-api.twitch.tv
 api.twitter.com
 api.unity.com
 api.unthem.com
@@ -20709,7 +20703,6 @@ array609.prod.do.dsp.mp.microsoft.com
 array611.prod.do.dsp.mp.microsoft.com
 array612.prod.do.dsp.mp.microsoft.com
 array613.prod.do.dsp.mp.microsoft.com
-array614.prod.do.dsp.mp.microsoft.com
 array801.prod.do.dsp.mp.microsoft.com
 array802.prod.do.dsp.mp.microsoft.com
 array803.prod.do.dsp.mp.microsoft.com
@@ -21308,7 +21301,6 @@ assets.net.zooplus.fr
 assets.netizen.co
 assets.newsmaxwidget.com
 assets.nflxext.com
-assets.onestore.ms
 assets.onestore.ms.akadns.net
 assets.oomz.de
 assets.pkgs.org
@@ -24884,7 +24876,6 @@ beam.remp.impresa.pt
 beam.remp.nv.ua
 beamav.unomaha.edu
 beamfuloakwood.com
-beamincrease.com
 beamingworked.com
 beampulse.com
 beanbounce.net
@@ -33838,7 +33829,6 @@ cdn.viglink.com
 cdn.vlyby.com
 cdn.vuukle.com
 cdn.wadawada-stop-report-us.com
-cdn.walkme.com
 cdn.wccftech.com
 cdn.welcome.pussysaga.com
 cdn.wibiya.com
@@ -40041,7 +40031,6 @@ cordial.io
 core-cen-54.com
 core-sys.spankbang.com
 core.ad20.net
-core.adservingfactory.com
 core.arc.io
 core.bdec.microsoft.com
 core.gcp.vip.tantanapp.com
@@ -42100,7 +42089,6 @@ cueohf.forumpro.fr
 cueohf.forumsactifs.com
 cueohf.goodforum.net
 cueohf.motards.net
-cueohf.profiforum.ru
 cueohf.superforum.fr
 cuesta.edu
 cueyetwee.site
@@ -43214,7 +43202,6 @@ d2fy2et424xkoh.cloudfront.net
 d2g4rjb98r20op.cloudfront.net
 d2g8ksx1za632p.cloudfront.net
 d2g9nmtuil60cb.cloudfront.net
-d2ga0x5nt7ml6e.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
 d2ggw6du5pulet.cloudfront.net
 d2ghehhx11czsj.cloudfront.net
@@ -48662,7 +48649,6 @@ download.com
 download.coolhub.top
 download.developer.apple.com
 download.dlsite.com
-download.dm.origin.com
 download.dnv.com
 download.dnvgl.com
 download.docker.com
@@ -50316,7 +50302,6 @@ e10230.g.akamaiedge.net
 e10448.f.akamaiedge.net
 e10489.a.akamaiedge.net
 e10499.dsce9.akamaiedge.net.0.1.cn.akamaiedge.net
-e10583.dspg.akamaiedge.net
 e10583.g.akamaiedge.net
 e10666.g.akamaiedge.net
 e10776.b.akamaiedge.net
@@ -62398,7 +62383,6 @@ gamhack.com
 gamigo.de
 gamigoads.com
 gaming-at-my.best
-gaming-config.asus.com
 gaming-notebooks.com
 gaming-universe.de
 gaming1.com
@@ -63876,7 +63860,6 @@ gfw.report
 gfw.wtf
 gfwatch.org
 gfwiygrvi.xyz
-gfwsl.geforce.com
 gfwvpn.com
 gfx.infomine.com
 gfx.io
@@ -71097,7 +71080,6 @@ gu.5.p2l.info
 gu.com
 gu.dyntrk.com
 gu.twimg.com
-gu7socdn.txxx.com
 guaas.com
 guabu.com
 guafzw.greenhouse.ne.jp
@@ -76001,7 +75983,6 @@ hubyqe.vamos-schoenen.nl
 hubzoom.com
 hubzozo.com
 huc44.com
-huc888.com
 huchao.me
 huchaowei.com
 huckleberry-labs.com

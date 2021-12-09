@@ -348,7 +348,6 @@
 1.bashenghuo.com
 1.buyu213.com
 1.chcx.cn
-1.cn.pool.ntp.org
 1.cn716.com
 1.codezh.com
 1.dwx365.com
@@ -384,6 +383,7 @@
 1.yhzm.cc
 1.zou114.com
 1.zw3e.com
+10.243.42.220.zz.countries.nerd.dk
 10.buyu212.com
 10.buyu213.com
 100.admin5.com
@@ -5050,6 +5050,7 @@ ad.directmirror.com
 ad.doctissimo.fr
 ad.dokrmob.com
 ad.dopool.com
+ad.doubanio.com
 ad.doubleclick.net
 ad.download.net
 ad.dqwjzm.com
@@ -5359,6 +5360,7 @@ adc.xxxlshop.de
 adc.xxxlutz.de
 adcache.aftenposten.no
 adcade.com
+adcampaigns.sharewood.org
 adcarem.co
 adcaser.pl
 adcdn.com
@@ -5719,6 +5721,7 @@ ads-local.sixapart.com
 ads-pixiv.net
 ads-rouge.haber7.com
 ads-script.ad-center.com
+ads-server.hipwee.com
 ads-tracking.beopinion.com
 ads-twitter.com
 ads-web.mail.com
@@ -6631,6 +6634,7 @@ adv.bannercity.ru
 adv.bokra.net
 adv.bookclubservices.ca
 adv.br
+adv.drtuber.com
 adv.ettoday.net
 adv.federalpost.ru
 adv.khan.co.kr
@@ -6928,6 +6932,7 @@ ag.9000.vip
 ag.c1008.com
 ag.cs067.com
 ag.nukefans.net
+ag.palmtube.net
 ag.tb0099.com
 ag.xbo333.com
 ag1.zuszw.com
@@ -8697,6 +8702,7 @@ arrassley.info
 array501.prod.do.dsp.mp.microsoft.com
 array507.prod.do.dsp.mp.microsoft.com
 array614.prod.do.dsp.mp.microsoft.com
+array803.prod.do.dsp.mp.microsoft.com
 array806.prod.do.dsp.mp.microsoft.com
 array813.prod.do.dsp.mp.microsoft.com
 arrietty.nrj.fr
@@ -9344,6 +9350,7 @@ b.sayloving.com
 b.scorecardresearch.com
 b.spagettitoast.com
 b.sweet-hd.com
+b.tukucc.com
 b.ukeiae.com
 b.we55.us
 b.whrdch.com
@@ -9380,6 +9387,7 @@ b2.ai5z.com
 b22399.com
 b26d946337.com
 b29f325f9383.com
+b2b.angi.com
 b2b.filecloud.me
 b2b5.net
 b2b98.net
@@ -13033,6 +13041,7 @@ cdn-pri.nlark.com
 cdn-ra.rockcontent.com
 cdn-speed.com
 cdn-t.xyz
+cdn-ukwest.onetrust.com
 cdn-v.com
 cdn-view.c3tag.com
 cdn-xalbum2.xiaoniangao.cn
@@ -13792,6 +13801,7 @@ chgilks.com
 chgjcm.com
 chgjedu.com
 chhy01.com
+chi01pap002.storage.live.com
 chiartbar.com
 chicago01.electroneum.hashvault.pro
 chicaudo.com
@@ -15259,6 +15269,7 @@ congratulations.co-j26.bid
 congzhi.com
 conmklopc.sytes.net
 conn1.oppomobile.com
+conn2.oppomobile.com
 conn23.ddns.me
 connect.customers.netapp.com
 connect.datafiletechnologies.com
@@ -15280,6 +15291,7 @@ consent.trustarc.com
 consentedimpunity.com
 constellation.vertu.com
 constituteshy.com
+construsoft.actonservice.com
 consumer-org.com
 consumergiftcenter.com
 consumerincentivenetwork.com
@@ -15882,6 +15894,7 @@ cs392.com
 cs418.com
 cs422.com
 cs442.com
+cs45.wac.edgecastcdn.net
 cs502.com
 cs55111.com
 cs554.com
@@ -20569,6 +20582,7 @@ e13630.ca2.s.tl88.net
 e13678.dscg.akamaiedge.net
 e14313.g.akamaiedge.net
 e14579.d.akamaiedge.net
+e16126.dscg.akamaiedge.net
 e1723.ca.s.tl88.net
 e17437.dscb.akamaiedge.net
 e1ed050f62.com
@@ -22730,6 +22744,7 @@ feedsky.com
 feedx.pw
 feelbonesbag.com
 feelinginspectorathlete.com
+feelophe.net
 feelssh.com
 feeltrail.com
 feelway.com
@@ -24939,6 +24954,7 @@ generatormicrosoftpoints.com
 genesis.1337x.org
 genesis2013.com
 genfar.club
+genius.itunes-apple.com.akadns.net
 genuine.adobe.com
 genymotion.net
 geo-idm.fr
@@ -25979,6 +25995,7 @@ gqhmt.com
 gqk.tv
 gql.twitch.tv
 gqqsm.com
+gqrcode.alicdn.com
 gqsbxqfyxvjveb.xyz
 gqskins.fun
 gqskinsx.fun
@@ -28884,11 +28901,13 @@ i-tv.com
 i-uya.com
 i.1o26.com
 i.cooley.com
+i.creativecommons.org
 i.dc.cig.com.cn
 i.domob.cn
 i.dreamfull.cn
 i.dx.vip.tantanapp.com
 i.hzblic.com
+i.jads.co
 i.jiajv.net
 i.jumptap.com
 i.jyhwt.cn

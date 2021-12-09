@@ -667,6 +667,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -8215,7 +8216,6 @@ ad.de.doubleclick.net
 ad.dedecms.com
 ad.dev.360.cn
 ad.dongdong.madserving.com
-ad.doubanio.com
 ad.duomi.com
 ad.dzwindows.com
 ad.dzwww.com
@@ -19210,7 +19210,6 @@ congtad.com
 congyicn.com
 conn.wemeet.tencent.com
 conn1.coloros.com
-conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com
@@ -29600,7 +29599,6 @@ gqgkj.com
 gqjd.net
 gqm168.com
 gqooh.com
-gqrcode.alicdn.com
 gqsoso.com
 gqt168.com
 gqzctsj.com

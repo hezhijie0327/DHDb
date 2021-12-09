@@ -760,7 +760,6 @@
 10-marketing.net.daraz.com
 10-patner.net.daraz.com
 10.144.25.114.zz.countries.nerd.dk
-10.243.42.220.zz.countries.nerd.dk
 10.42.96.122.zz.countries.nerd.dk
 10.client-channel.google.com
 10.courier-push-apple.com.akadns.net
@@ -11875,7 +11874,6 @@ adcaffe.com
 adcalls.nl
 adcalm.com
 adcamp.ru
-adcampaigns.sharewood.org
 adcampo.com
 adcanadian.com
 adcannyads.com
@@ -13068,7 +13066,6 @@ ads-partners.coupang.com
 ads-pipe.com
 ads-rolandgarros.com
 ads-sdk.upltv.com
-ads-server.hipwee.com
 ads-sg.tiktok.com
 ads-stats.com
 ads-t.ru
@@ -14638,7 +14635,6 @@ adv.baovemoitruong.org.vn
 adv.bbanner.it
 adv.cooperhosting.net
 adv.donejty.pl
-adv.drtuber.com
 adv.forpsi.hu
 adv.freeonline.it
 adv.gazeta.pl
@@ -15466,7 +15462,6 @@ ag.gbc.criteo.com
 ag.hg1088.com
 ag.innovid.com
 ag.jf3303.com
-ag.palmtube.net
 ag.xs2888.com
 ag.xw283.com
 ag2rlamondiale.fr
@@ -20639,7 +20634,6 @@ array612.prod.do.dsp.mp.microsoft.com
 array613.prod.do.dsp.mp.microsoft.com
 array801.prod.do.dsp.mp.microsoft.com
 array802.prod.do.dsp.mp.microsoft.com
-array803.prod.do.dsp.mp.microsoft.com
 array804.prod.do.dsp.mp.microsoft.com
 array805.prod.do.dsp.mp.microsoft.com
 array807.prod.do.dsp.mp.microsoft.com
@@ -23022,7 +23016,6 @@ b.team.ns.emailvision.net.daraz.com
 b.telus.com
 b.thefile.me
 b.top4top.io
-b.tukucc.com
 b.wagontec.com
 b.wal.co
 b.xcafe.com
@@ -23091,7 +23084,6 @@ b28.bet
 b296.com
 b29qc.win
 b2b-actualites.com
-b2b.angi.com
 b2b.angieslist.com
 b2b.automotive-mediaventions.nl
 b2b.careerbuilder.com
@@ -33428,7 +33420,6 @@ cdn-store-icons-akamai-prd.unityads.unity3d.com
 cdn-store-icons-highwinds-prd.unityads.unity3d.com
 cdn-terapeak.com
 cdn-tudou.com
-cdn-ukwest.onetrust.com
 cdn-us.anidb.net
 cdn-webview-pge.unityads.unity3d.com
 cdn-www.marketing.net.zooplus.es
@@ -35055,7 +35046,6 @@ chi.xtvcname.com
 chi01pap001.settings.live.net
 chi01pap001.storage.live.com
 chi01pap002.settings.live.net
-chi01pap002.storage.live.com
 chiaki.vn
 chiang.fun
 chianqs.com
@@ -39243,7 +39233,6 @@ constructbuy.com
 construction.com
 constructionmonitor.com
 construment.com
-construsoft.actonservice.com
 construsoft.com
 consul.io
 consult.americanexpress.com
@@ -41340,7 +41329,6 @@ cs236.com
 cs270.com
 cs33609.tmweb.ru
 cs368.com
-cs45.wac.edgecastcdn.net
 cs455.com
 cs491.wac.edgecastcdn.net
 cs4hs.com
@@ -50220,7 +50208,6 @@ e15315.e22.akamaiedge.net
 e15318.e22.akamaiedge.net
 e15319.e22.akamaiedge.net
 e15320.e22.akamaiedge.net
-e16126.dscg.akamaiedge.net
 e16202.d.akamaiedge.net
 e16262.g.akamaiedge.net
 e16624.ca2.s.tl88.net
@@ -57209,7 +57196,6 @@ feelinedbusin.site
 feelingsreekpleasantly.com
 feelingtouch.com
 feeln.com
-feelophe.net
 feeloshu.com
 feelsflavourtoffee.com
 feemoo.com
@@ -63020,7 +63006,6 @@ genius-download.itunes.apple.com
 genius-upload.itunes-apple.com.akadns.net
 genius-upload.itunes.apple.com
 genius.com
-genius.itunes-apple.com.akadns.net
 genius.itunes.apple.com
 geniusbanners.com
 geniusdexchange.com
@@ -76552,7 +76537,6 @@ i.cdnkimg.com
 i.cfwa.org.au
 i.clean.gg
 i.compendium.com
-i.creativecommons.org
 i.dell.com
 i.esprit-click.com
 i.filmot.org
@@ -76570,7 +76554,6 @@ i.imgur.com
 i.instagram.com
 i.interia.pl
 i.j2j.ru
-i.jads.co
 i.jeded.com
 i.jsrdn.com
 i.justblinds.com

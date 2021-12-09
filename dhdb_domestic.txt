@@ -9497,7 +9497,6 @@ alime-pic.oss-cn-hangzhou.aliyuncs.com
 alimebot.com
 alimecard.alicdn.com
 alimecard.alicdn.com.danuoyi.tbcache.com
-alimei-auth.alibaba.com
 alimei.com
 alimelog.taobao.com
 alimov2.a.kwimgs.com
@@ -10403,7 +10402,6 @@ api.kkapp.com
 api.kmf.com
 api.kmovie.gifshow.com
 api.ktplay.com
-api.kwaizt.com
 api.ldmnq.com
 api.leancloud.cn
 api.lequ.ptqy.gitv.tv
@@ -14015,7 +14013,6 @@ boruiqin.com
 boruishijie.com
 boryou.com
 bos-pack.ops.baidu.com
-bos.bj.baidubce.n.shifen.com
 bos.box.bdimg.com
 bos.su.baidubce.n.shifen.com
 bos.xin
@@ -14846,7 +14843,6 @@ cacerts.digicert.cn
 cacerts.digicert.cn.w.cdngslb.com
 cacfo.com
 cache.a.market.xiaomi.com
-cache.amap.com
 cache.amap.com.danuoyi.tbcache.com
 cache.cnzz.com
 cache.m.ptqy.gitv.tv
@@ -15318,7 +15314,6 @@ cccnec.com
 ccctspm.org
 cccyun.cc
 ccdn.goodq.top
-ccdn.goodq.top.w.kunlunso.com
 ccdol.com
 ccea.pro
 cceato.com
@@ -26142,7 +26137,6 @@ f.hongm.com
 f.mengtuiapp.com
 f.mengtuiapp.com.w.kunlunar.com
 f.seals.qq.com
-f.sinaimg.cn
 f.us.sinaimg.cn
 f.vansfs.com
 f.video.weibocdn.com

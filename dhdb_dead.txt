@@ -4558,6 +4558,7 @@ a40554.actonservice.com
 a40c129de3.com
 a418d4f43c3a32.com
 a433.com
+a43562.actonservice.com
 a43762.actonservice.com
 a4480f2ccf9711c1ab10742f0f259fc2.jddebug.com
 a449bcfe91aac65329a4a90cfccf0b50.jddebug.com
@@ -6160,6 +6161,7 @@ ads.tucows.com
 ads.turkticaret.net
 ads.tvtuga.com
 ads.ucomics.com
+ads.ultimatesurrender.com
 ads.unixathome.org
 ads.update.com
 ads.uptobox.com
@@ -7395,6 +7397,7 @@ alikmd.com
 aliliying.com
 alimama.cn
 alimei-api.alibaba.com
+alimei-auth.alibaba.com
 alimmdn.com
 alinos.xyz
 alinxc.com
@@ -8140,6 +8143,7 @@ api.adsymptotic.com
 api.adv.ott.cibntv.net
 api.aeon.hashvault.pro
 api.ahjinshu.com
+api.amplitude.com
 api.andapp.jp
 api.appfireworks.com
 api.appjiagu.com
@@ -8189,6 +8193,7 @@ api.kingdata.ksyun.com
 api.kolpowered.com
 api.koudaikj.com
 api.kuaishouzt.com
+api.kwaizt.com
 api.l33tsite.info
 api.leadbolt.net
 api.lgsstyel.com
@@ -10266,6 +10271,7 @@ beacon.richrelevance.com
 beacon.rum.dynapis.com
 beacon.search.yahoo.com
 beacon.sojern.com
+beacon.walmart.com
 beacon.watch.impress.co.jp
 beacon.www.theguardian.com
 beacons.gcp.gvt2.com
@@ -11440,6 +11446,7 @@ boquxinxi.com
 boringbell.com
 bornobid.com
 boroto.ru
+bos.bj.baidubce.n.shifen.com
 bosdile.com
 bosetoo.club
 bosideng.me
@@ -12516,6 +12523,7 @@ cacaca.0571yy.com
 cacaca.sp96878.com
 cacfbf85ad2005e4c31.com
 cache.am
+cache.amap.com
 cache.api-zdj.com
 cache.cswsadlab.com
 cache.cswsadlab.com.w.cdngslb.com
@@ -12923,6 +12931,7 @@ ccdby.com
 ccddvr.com
 ccdidzuq.danaher.org
 ccdidzuq.idmnet.org
+ccdn.goodq.top.w.kunlunso.com
 ccdtr.org
 ccfa.vip
 ccflbs.m.jd.com.gslb.qianxun.com
@@ -13143,6 +13152,7 @@ cdn.mingmingtehui.com
 cdn.mouseflow.com
 cdn.movieads.ru
 cdn.mozilla.net
+cdn.neppa-ad.com
 cdn.newapi.com
 cdn.outfit7.com
 cdn.paddle.com
@@ -13986,6 +13996,7 @@ chitu101.com
 chitu104.com
 chitu107.com
 chitunion.com
+chivoufe.com
 chixingkeji.com
 chjhsfctkeve.xyz
 chjxzk.1555110.cn
@@ -14041,6 +14052,7 @@ christmasvoucher.net
 christus.mx
 chrisyue.com
 chrjkn.cn
+chrome.google.com
 chrome1.hopto.org
 chromeconnect.digital
 chromeliulanqi.com
@@ -15345,6 +15357,7 @@ content-square.net
 content.adserverplus.com
 content.cloudflare.com
 content.codelnet.com
+content.fabasoft.com
 content.ferguson.com
 content.iconadserver.com
 content.opendormedia.org
@@ -16997,6 +17010,7 @@ d1m0a5s9pgearu.cloudfront.net
 d1mgg0px9mqxbp.cloudfront.net
 d1mh7il84qxl6t.cloudfront.net
 d1mib12jcgwmnv.cloudfront.net
+d1miwkthq39xj8.cloudfront.net
 d1mjc71lmzgj1n.cloudfront.net
 d1mxvenloqrqmu.cloudfront.net
 d1nfzinqpp07se.cloudfront.net
@@ -17827,6 +17841,7 @@ dasterx.ru
 dastrassi.org
 dat.red
 dat1.jzjxmj.com
+data-canary.flurry.com
 data-collection.nikedev.com
 data-dynamic.net
 data-unhealthy.exchange.coinjar.com
@@ -17933,6 +17948,7 @@ day66.com
 dayadopen.site
 dayhao.com
 dayichang.com
+dayinjizhijia.com
 dayiyu.com
 daylogs.com
 daylskg.cn
@@ -19124,6 +19140,7 @@ doghauky.net
 dogopics.com
 dogus-ads-cdn.dygdigital.com
 doh-de.blahdns.com
+doh.dns.apple.com
 doh.doh.my.id
 dohs95d6tfj19.cloudfront.net
 dohsbq9npz1a9.cloudfront.net
@@ -19647,6 +19664,7 @@ drvpgrhib1ucs.cloudfront.net
 drwkzkncihwygw.com
 drxrc.com
 dryhuhrep.com
+drylnk.com
 dryraw.vip
 ds-pc.admsger.com
 ds-pv.iqu-operation.com
@@ -22246,6 +22264,7 @@ f.qcwzx.net.cn
 f.qstatic.com
 f.rhovlnd.cn
 f.sh22.us
+f.sinaimg.cn
 f.sqsfkyy.com.cn
 f.ustclsy.com
 f.vanein.com

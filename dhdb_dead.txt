@@ -5283,6 +5283,7 @@ adapf.com
 adapi.starschina.com
 adapter-mon-credit.com
 adaptv.advertising.com
+adash.m.gds.taobao.com
 adash.m.taobao.com
 adasist.com
 adasnature.rodevdesign.com
@@ -6721,6 +6722,7 @@ adzservice.theday.com
 adzworld.in
 ae-gb.mgid.com
 ae.hao123.com
+ae02.alicdn.com
 ae25079147984d4d.com
 ae4c49d4be.com
 ae7c783736eb2ff.com
@@ -7788,6 +7790,7 @@ android-core.org
 android-sdk31.transpera.com
 android-updates.net
 android-win-reward.com
+android.clients.google.com
 androidapgameshacks.com
 androidappsgameshacks.com
 androidapsgameshacks.com
@@ -7998,6 +8001,7 @@ apcdns.net
 apcow.com
 apcrwangpian.com
 apd-da297e1cd7f7b8fe9bdee048963d68d23331a8da3dcd478c.v.smtcdns.com
+apd-pcdnwxnat.teg.tencent-cloud.net
 apdcdn.com
 apdingqian.com
 apearmare.site
@@ -8145,6 +8149,7 @@ api.whizzone.com
 api.wtzw.com
 api.xc17868.com
 api.xitongcheng.com
+api.xueersi.com
 api.xueersi.com.w.cdngslb.com
 api.y.igexin.com
 api.yidiansurong.com
@@ -8725,6 +8730,7 @@ asltralis-loot.fun
 asmr8.com
 asmsagvjbxejm.xyz
 asn.au
+asnet.pw
 asonaloccu.info
 asoonshop.com
 asp-cc.com
@@ -8949,8 +8955,10 @@ authedmine.com
 authenticangry.com
 authenticate.et31.bas1-1-edg.dca.yahoo.com
 authlovebirth.com
+author.baidu.com
 authorinsights.com
 auto.obozrevatel.com
+auto.sina.com.cn
 auto000.com
 autocsdn.xyz
 autodg.com
@@ -13112,6 +13120,7 @@ cdqmyj.com
 cdren.com
 cds-cdn.v.aaplimg.com
 cds-tracking.com
+cds.51y5.net
 cds.apple.com
 cds10.stn.llnw.net
 cds1307.lon.llnw.net
@@ -14139,6 +14148,7 @@ classstylemap.com
 clawtoiltaupe.com
 claykessack.com
 clb0.xyz
+clc.stackoverflow.com
 clctraffic.com
 clcyd.com
 cld-mail.ru
@@ -14484,6 +14494,7 @@ cn.manxbridge.com
 cn.net
 cn.nimiq.com
 cn.nowvue.live
+cn.pool.ntp.org
 cn.promo.skf.com
 cn.voa.mobi
 cn12333.com
@@ -16949,6 +16960,7 @@ d2fj39scx1bkj7.cloudfront.net
 d2flaw.com
 d2flex.com
 d2fstso2jh4dhr.cloudfront.net
+d2g15hp0vtnk4i.cloudfront.net
 d2g74y4xy50ozi.cloudfront.net
 d2g9sdr0k888cv.cloudfront.net
 d2gameday.com
@@ -17596,6 +17608,7 @@ data.linezing.com
 data.macw.com
 data.marketgid.com
 data.mgtv.com
+data.mistat.xiaomi.com
 data.mobclix.com
 data.netweaver.uk
 data.nexxt.com
@@ -18360,6 +18373,7 @@ dimeprice.com
 dimg06.c-ctrip.com
 dimg07.c-ctrip.com
 dimg1.sz.net.cn
+dimg11.c-ctrip.com
 dimnhsinmkdwq.cloudfront.net
 dimprive.com
 dinamikus.com
@@ -20356,6 +20370,7 @@ e2clock.gcp.gvt2.com
 e3.shared.global.fastly.net
 e347bb14dc71778.com
 e357712e006c93065aa05eca7273fc74.jddebug.com
+e3925.dscx.akamaiedge.net
 e39296.f.akamaiedge.net
 e399.com
 e4.6dad.com
@@ -21187,6 +21202,7 @@ eneycvcrkxvietj.danaher.org
 eneycvcrkxvietj.idmnet.org
 eng.br
 engage-cdn.schibsted.media
+engage.3m.com.sa
 engage.everyone.net
 engage.im
 engage.speedera.net
@@ -29235,6 +29251,7 @@ image.p4p.sogou.com
 image.qj175.com
 image.qndown.com
 image.quiz.qq.com
+image.thepaper.cn
 image.upages.cn
 image01.fenhao24.com
 image1.jzjxmj.com
@@ -29374,6 +29391,7 @@ img.mybet.com
 img.nktcw.cn
 img.okd3.cn
 img.oraohui.cn
+img.pconline.com.cn.cdn20.com
 img.petit.lv
 img.pojies.cn
 img.pojies.cn.w.kunlungr.com
@@ -29542,6 +29560,7 @@ imqtyik.com
 imrk.net
 imrkcrv.net
 imrworldwide.com
+ims-prod07.adobelogin.com
 imserv001.adtech.us
 imserv002.adtech.us
 imserv003.adtech.us

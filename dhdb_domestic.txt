@@ -8316,7 +8316,6 @@ adash-c.m.taobao.com
 adash-c.ut.taobao.com
 adash-emas.cn-hangzhou.aliyuncs.com
 adash-new.man.aliyuncs.com.gds.alibabadns.com
-adash.m.gds.taobao.com
 adash.man.aliyuncs.com
 adashbc.m.taobao.com
 adashbc.m.taobao.com.gds.alibabadns.com
@@ -8733,7 +8732,6 @@ ae.bdstatic.com
 ae.weixin.qq.com
 ae01.alicdn.com
 ae01.alicdn.com.danuoyi.alicdn.com
-ae02.alicdn.com
 ae02.alicdn.com.danuoyi.alicdn.com
 ae256.com
 ae4.ifeng.com
@@ -10204,7 +10202,6 @@ apd-bd3bce43a6617c6e3bef8ec349de7635.v.smtcdns.com
 apd-c2df8da4d4419fbfdf1c26f3b542fbd4.v.smtcdns.com
 apd-pcdnvodstat.teg.tencent-cloud.net
 apd-pcdnwxlogin.teg.tencent-cloud.net
-apd-pcdnwxnat.teg.tencent-cloud.net
 apd-pcdnwxstat.teg.tencent-cloud.net
 apd-shortvideo.tcdn.qq.com
 apd-ugcvideo.tcdn.qq.com
@@ -10554,7 +10551,6 @@ api.xinyue.qq.com
 api.xitongcheng.com.cname.yunjiasu-cdn.net
 api.xmpush.xiaomi.com
 api.xsj.wasu.tv
-api.xueersi.com
 api.xunyou.mobi
 api.yangkeduo.com
 api.ydl.com
@@ -11446,7 +11442,6 @@ auth.sonkwo.com
 auth.wosms.cn
 authlogin.kfc.com.cn
 authlogin.pizzahut.com.cn
-author.baidu.com
 authorization.desdev.cn
 authstl.alipay.com
 authweb.alipay.com
@@ -11457,7 +11452,6 @@ auto-made.com
 auto-purify.com
 auto-wo.com
 auto.cnfol.com
-auto.sina.com.cn
 auto.sinaimg.cn
 auto.sohu.com
 auto.tancdn.com
@@ -15941,7 +15935,6 @@ cdrtvu.com
 cdruzhu.com
 cds.3.cn
 cds.3.cn.gslb.qianxun.com
-cds.51y5.net
 cds.apple.com.mwcname.com
 cdsassets.apple.com.mwcname.com
 cdsb.com
@@ -18452,7 +18445,6 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -21260,7 +21252,6 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
-data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -22441,7 +22432,6 @@ dimg06.c-ctrip.com.wscdns.com
 dimg07.c-ctrip.com.wscdns.com
 dimg08.c-ctrip.com
 dimg08.c-ctrip.com.wscdns.com
-dimg11.c-ctrip.com
 dimg11.c-ctrip.com.wsglb0.com
 dimtown.com
 dinais.com
@@ -35340,7 +35330,6 @@ image.smoba.qq.com.sched.dlied1.tdnsv5.com
 image.smoba.qq.com.sched.px.tdnsv6.com
 image.smoba.qq.com.x2.sched.dcloudstc.com
 image.suning.cn
-image.thepaper.cn
 image.tianyancha.com
 image.tingmall.com
 image.uc.cn
@@ -35636,7 +35625,6 @@ img.ninebox.cn
 img.onlinedown.net
 img.ott.siqiangame.com
 img.pconline.com.cn
-img.pconline.com.cn.cdn20.com
 img.pddpic.com
 img.pddpic.com.sched.pddlego-dk.tdnsv5.com
 img.php.cn

@@ -667,7 +667,6 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -4833,7 +4832,6 @@
 56beijing.org
 56care.com
 56china.com
-56cj.com
 56clte.org
 56da.com
 56dr.com
@@ -10608,6 +10606,7 @@ apigz1.ksapisrv.com
 apihk.growingio.com
 apihn1.gifshow.com
 apihn1.ksapisrv.com
+apihn3.ksapisrv.com
 apihotel.meituan.com
 apijs-hd-scd.gifshow.com
 apijs-hd-scd.ksapisrv.com
@@ -10818,7 +10817,6 @@ appbz.info
 appc.baidu.com
 appccc.com
 appcdn.wapx.cn
-appchannel.html5.qq.com
 appchina.com
 appchizi.com
 appcloud.zhihu.com
@@ -15700,7 +15698,6 @@ cdn.bdstatic.com
 cdn.bootcdn.net
 cdn.bootcss.com
 cdn.caiyunapp.com
-cdn.chillyroom.com
 cdn.chinaz.com
 cdn.cmop.mgtv.com
 cdn.cn.gcloudcs.com
@@ -30624,7 +30621,6 @@ h5.wdjky.com
 h5.xiaolianhb.com
 h5.yangrongdayipifa.com
 h5.zhongguowangshi.com
-h5.zuimeitianqi.com
 h55u.com
 h5aiwan.com
 h5anli.com

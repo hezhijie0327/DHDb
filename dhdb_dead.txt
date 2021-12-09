@@ -348,6 +348,7 @@
 1.bashenghuo.com
 1.buyu213.com
 1.chcx.cn
+1.cn.pool.ntp.org
 1.cn716.com
 1.codezh.com
 1.dwx365.com
@@ -2571,6 +2572,7 @@
 567666365.com
 56a5cf9809d98deb62fee92b2d20ba11e34b4d6795149238.dlied1.cdntips.net
 56ccc.net
+56cj.com
 56dagong.com
 56dichan.com
 56eee.net
@@ -3377,6 +3379,7 @@
 7moor-fs2.com
 7msj.com
 7mu36somt5.com
+7n0zz.300prize.7113879.com
 7news.site
 7nsc.cn
 7o2o.com
@@ -4503,6 +4506,7 @@ a16533.actonservice.com
 a1662.oadz.com
 a17869.actonservice.com
 a1818.dscg2.akamai.net
+a1845.dscg2.akamai.net
 a1945.g2.akamai.net
 a1951.dscb.akamai.net
 a1a.me
@@ -5076,6 +5080,7 @@ ad.googleanalysis.mobi
 ad.gra.pl
 ad.greenmarquee.com
 ad.groupon.net
+ad.groupon.pl
 ad.h-vip.ru
 ad.hankooki.com
 ad.harrenmedianetwork.com
@@ -6489,6 +6494,7 @@ adserversolutions.com
 adservhere.com
 adservice.google.cn
 adservice.google.com
+adservice.google.com.hk
 adserviceretry.kglink.cn
 adserviceretry.kugou.com
 adservices.google.com
@@ -6637,6 +6643,7 @@ adv.sec.miui.com
 adv.shangdu.com
 adv.surinter.net
 adv.tf1.fr
+adv.thuvienphapluat.vn
 adv.zapal.ru
 adv01st.com
 adv2.downsave.com
@@ -7681,6 +7688,7 @@ amountinue.info
 amoxicillin.ourtablets.com
 amp-api-edge.music.apple.com
 amp-api.apps.apple.com
+amp.azure.net
 ampcid.google.cn
 ampj10.com
 ampj110.com
@@ -8263,6 +8271,7 @@ apkplaystore.in
 apkspy.info
 aplaut.io
 aplbs.dualstack.huanju.cn
+aplbs.yy.com
 aplestore.com
 aplleipods.com
 apm-misaka.biliapi.net
@@ -8345,6 +8354,7 @@ appc.baidu.cn
 appc1.com
 appcash.best
 appcdn.xyz
+appchannel.html5.qq.com
 appcheats.co.uk
 appcheatsonline.com
 appcloud2.in.zhihu.com
@@ -12089,6 +12099,7 @@ c.91wan.com
 c.9weg7b.com
 c.aasgfd.cn
 c.acgshenshicha.cn
+c.amazon-adsystem.com
 c.android.clients.google.com
 c.anmeilai.net
 c.anytrx.com
@@ -13040,6 +13051,7 @@ cdn.b9377h.com
 cdn.baofenggame.com
 cdn.bestssaker.com
 cdn.bidvertiser.com
+cdn.chillyroom.com
 cdn.classicdanube.info
 cdn.comicool.cn
 cdn.cooguo.com
@@ -14400,6 +14412,7 @@ clien.info
 cliennes.com
 client-api.itunes.apple.com
 client-api.itunes.apple.com.edgesuite.net
+client-s.gateway.messenger.live.com
 client.tenddata.com
 client.tv.uc.cn
 client.wmpvp.com
@@ -15255,6 +15268,7 @@ connect.mdtelephone.com
 connect.summit.co.uk
 connectingcloud.bid
 connection36.com
+connectivitycheck.android.com
 connectivitycheck.gstatic.com
 consciouscabbage.com
 conseil-emprunt.com
@@ -17024,6 +17038,7 @@ d2.maohetrade.com
 d2.static.yximgs.com.w.cdngslb.com
 d2.static.yximgs.com.w.cdngslb.com.qr.uuhimalayanqm.com
 d205y6qjd5u38f.cloudfront.net
+d2065cca9qi4ey.cloudfront.net
 d20cawbzduqk25.cloudfront.net
 d20ct0j8bz6fs5.cloudfront.net
 d20lnbe0z6wda8.cloudfront.net
@@ -25598,6 +25613,7 @@ go.icanaingles.com
 go.imgdudu.xyz
 go.in.kantar.com
 go.itsumo365.co.jp
+go.joindrizly.com
 go.jp
 go.katanazirconia.com
 go.kr
@@ -25861,6 +25877,7 @@ goproxing.com
 gopuu.com
 goqrofan.store
 goredirect.party
+goreleetren.com
 gorensin.info
 gorettent.xyz
 gorgasal.co
@@ -26607,6 +26624,7 @@ h5.pk1179.com
 h5.sll16.com
 h5.super-dreamers.com
 h5.weishi.qq.com
+h5.zuimeitianqi.com
 h501.cn
 h5120.com
 h51h.com

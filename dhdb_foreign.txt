@@ -4751,7 +4751,6 @@
 4f6c657a-dnsotls-ds.metric.gstatic.com
 4f6e2eae0ec5a37801e821828fc27b19.clo.footprintdns.com
 4f8c982a03267284621692575947902c.nrb.footprintdns.com
-4f9d88054fa2b.com
 4fcom.net
 4freeapp.com
 4freemam.myfw.us
@@ -7633,7 +7632,6 @@
 8dulm.com
 8dy.me
 8e0798e806dc6c198435da072b20dee6.clo.footprintdns.com
-8e15d1e530.551327fd36.com
 8e19c272-dnsotls-ds.metric.gstatic.com
 8e218a9fb2604ccfaa621095b0d7ae44.fp.measure.office.com
 8e3d.duckdns.org
@@ -13783,7 +13781,6 @@ ads.yimg.com
 ads.yimg.com.edgesuite.net
 ads.yldmgrimg.net
 ads.youtube.com
-ads.yumenetworks.com
 ads.zalo.me
 ads.zaloapp.com
 ads.zamunda.se
@@ -17512,7 +17509,6 @@ ams-aaea-1-hos-apigateway-1-1.cloudapp.net
 ams-aase-1-hos-apigateway-1-1.cloudapp.net
 ams-efz.ms-acdc.office.com
 ams-krct-1-hos-apigateway-1-1.cloudapp.net
-ams-mvp.trafficmanager.net
 ams-usea-1-hos-apigateway-1-1.cloudapp.net
 ams.lenovomm.com
 ams.ux-dev.com.my
@@ -19011,7 +19007,6 @@ api.analytics.omgpop.com
 api.api861861.com
 api.apidocs-repo.net.zooplus.de
 api.apiluiza.com.br
-api.apple-cloudkit.com
 api.applovefrom.com
 api.appnxt.net
 api.appodeal.com
@@ -24580,7 +24575,6 @@ bci-eu.beeppool.org
 bci.org
 bciburke.com
 bcigeg.pishposhbaby.com
-bckfnohmg.com
 bckgmj.mishii-list.com
 bclc.com
 bcleg.com
@@ -33561,7 +33555,6 @@ cdn.klasseo.com
 cdn.krxd.net
 cdn.line-apps.com
 cdn.live
-cdn.livechatinc.com
 cdn.lodeo.io
 cdn.macpaw.com
 cdn.mailing.maketheweb.pl
@@ -38206,7 +38199,6 @@ colbertlateshow.com
 colbydray.weebly.com
 colbyolson.com
 colchaguino.com
-cold-cold-freezing.com
 coldcertainchannel.com
 colddry.com
 colder.one
@@ -40988,7 +40980,6 @@ crl.globalsign.net
 crl.identrust.com
 crl.quovadisglobal.com
 crl.thawte.com
-crl.trust-provider.com
 crl.usertrust.com
 crl3.digicert.com
 crl4.digicert.com
@@ -44966,7 +44957,6 @@ dedoles.sk
 deductdoorwayfig.com
 deductionorderly.com
 deecash.com
-deechtebol.com
 deedeedwinos.com
 deefauph.com
 deema.agency
@@ -50270,7 +50260,6 @@ e5.qyi.io
 e5.qyi.io.cdn.cloudflare.net
 e5308.b.akamaiedge.net
 e5308.x.akamaiedge.net
-e5439.x.akamaiedge.net
 e55.dspb.akamaiedge.net
 e584.g.akamaiedge.net
 e59440e6-dnsotls-ds.metric.gstatic.com
@@ -54028,7 +54017,6 @@ esi.com
 esidentioncoa.club
 esighteyewear.com
 esignal.com
-esignificanvi.info
 esiliati.org
 eskill.com
 eskimi.com
@@ -54597,7 +54585,6 @@ eurotax-pl.autovistagroup.com
 eurotierce.be
 euroweb.net
 eurowings.com
-eus.rubiconproject.com
 euscaroversing.com
 euskaltelofertas.com
 eusounoob.duckdns.org
@@ -56320,7 +56307,6 @@ famecl.com
 famedigitalasiapteltd.hb.omtrdc.net
 famensi.com
 famifun.com.tw
-familiarrod.com
 familie.de
 familinger.club
 familjeliv.se
@@ -73566,7 +73552,6 @@ highperformancecpmnetwork.com
 highperformancedformats.com
 highperformancedisplaycontent.com
 highprofitnetwork.com
-highqualitycurrenciesanddocuments.com
 highresolutiontechnologies.com
 highrevenuecpm.com
 highrockmedia.com
@@ -74045,7 +74030,6 @@ hk-bici.com
 hk-cdn.effectivemeasure.net
 hk-ebc.edu
 hk-hypnosis.weebly.com
-hk-island.hk
 hk-match.taboola.com
 hk-mg61.mail.yahoo.com
 hk-pic.com
@@ -76544,7 +76528,6 @@ i05b.com
 i0gx8avj0e5r.www.cybernetman.com
 i0s26ol9.com
 i1.cmail20.com
-i1.fuimg.com
 i1.hk
 i1.imageban.ru
 i1.sndcdn.com
@@ -79169,7 +79152,6 @@ info.cloud-ace.jp
 info.cloud4wi.com
 info.cloud9realtime.com
 info.cloudcheckr.com
-info.cloudflare.com
 info.cloudreach.com
 info.clubdaikin.jp
 info.coaradrive.com
@@ -80927,7 +80909,6 @@ insight.digitalmeasures.com
 insight.fonecta.fi
 insight.intrado.com
 insight.its.cityu.edu.hk
-insight.lcp.uk.com
 insight.merceradvisors.com
 insight.mintel.com
 insight.publisherdiscovery.com

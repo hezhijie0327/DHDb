@@ -8947,7 +8947,6 @@ ai.cc
 ai.m.taobao.com
 ai.taobao.com
 ai.voiceads.cn
-ai.youdao.com
 ai7.com
 ai780.com
 ai9475.com
@@ -9695,7 +9694,6 @@ alyzq.com
 am.aicdn.com
 am.g.ireader.com
 am.szhome.com
-am.zdmimg.com
 am2212.com
 am5569.com
 am774.com
@@ -14031,7 +14029,6 @@ bosonnlp.com
 bosp-api.xiaojukeji.com
 boss-images.gmugmu.com
 boss-young.com
-boss.hdslb.com
 boss.qzone.qq.com
 bossaudioandcomic-1252317822.file.myqcloud.com
 bossaudioandcomic-1252317822.image.myqcloud.com
@@ -19763,7 +19760,6 @@ crystalapp.miguvideo.com
 crystalcg.com
 crystaledu.com
 cryuantafund.com
-cs-feige.iqiyi.com
 cs-op.douyucdn.cn
 cs.37see.com
 cs.5i5j.com
@@ -23161,7 +23157,6 @@ dopool.com
 doppler.logger.baofeng.com
 dora-control.cdnetworks.com
 dora-family.com
-dorangesource.alicdn.com
 doraunion.com
 dorrr.com
 doserv.com
@@ -27361,7 +27356,6 @@ fn-tech.com
 fn0wz54v.dayugslb.com
 fn9rg2ol.p23.tc.cdntip.com
 fn9rg2ol.sched.sma.tdnsv5.com
-fnapi.4399sy.com
 fnc.cn
 fnet2124098.atobo.com
 fnetlink.com
@@ -29478,7 +29472,6 @@ gosanye.com
 goshijia.com
 gosinoic.com
 gospelwin.com
-gosspublic.alicdn.com
 gosspublic.alicdn.com.danuoyi.alicdn.com
 gosunm.com
 goten.com
@@ -36157,7 +36150,6 @@ ins-p6ep9d2n.ias.tencent-cloud.net
 ins-pvfn84ga.ias.tencent-cloud.net
 ins-qq3c4kru.ias.tencent-cloud.net
 ins-qw1u0vkn.ias.tencent-cloud.net
-ins-selruo97.ias.tencent-cloud.net
 ins-suceuter.ias.tencent-cloud.net
 ins-t3hgqfmh.ias.tencent-cloud.net
 ins-u4xprfqu.ias.tencent-cloud.net

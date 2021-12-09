@@ -3854,7 +3854,6 @@
 35pan.com
 35vvv.com
 35zw.com
-36-courier.push.apple.com
 36-courier2.push.apple.com
 36.132.204.123.zz.countries.nerd.dk
 36.courier-push-apple.com.akadns.net
@@ -5150,7 +5149,6 @@
 52.otzo.com
 52.www1.biz
 5200.net
-52003333.com
 52004.net
 52004444.com
 5200aaaa.com
@@ -19042,7 +19040,6 @@ api-secure.recaptcha.net
 api-secure.solvemedia.com
 api-spring.net.daraz.com
 api-ubiservices.ubi.com
-api-umamusume.cygames.jp
 api-us-east-1.ndsopaapl.nudatasecurity.com
 api-us1.cludo.com
 api-verify.flurry.com
@@ -39077,7 +39074,6 @@ config.uca.cloud.unity3d.com
 config.unityads.unity3d.com
 config2.mparticle.com
 configuration-server-lb-1105093370.us-east-1.elb.amazonaws.com
-configuration.apple.com
 configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration.ls.apple.com
@@ -46257,7 +46253,6 @@ dhrcmg.blob.core.windows.net
 dhrcmg.danaher.org
 dhrhzii89gpwo.cloudfront.net
 dhsjpz.bugaboo.com
-dht.aelitis.com
 dht.libtorrent.org
 dht.transmissionbt.com
 dht.wargaming.net
@@ -50324,7 +50319,6 @@ e10078.b.akamaiedge.net
 e10230.g.akamaiedge.net
 e10448.f.akamaiedge.net
 e10489.a.akamaiedge.net
-e10499.dsce9.akamaiedge.net
 e10499.dsce9.akamaiedge.net.0.1.cn.akamaiedge.net
 e10583.dspg.akamaiedge.net
 e10583.g.akamaiedge.net
@@ -63854,7 +63848,6 @@ gfcim5.gq
 gfcu.com
 gfd80.com
 gfdscu.com
-gfe.nvidia.com
 gfedch.carte-gr.total.fr
 gffg.com
 gfftsqrc.com
@@ -76705,7 +76698,6 @@ i-by3p-cor002.api.p001.1drv.com
 i-cable.com
 i-ch1-cor002.api.p001.1drv.com
 i-chi01p-cor001.api.p001.1drv.com
-i-chi01p-cor002.api.p001.1drv.com
 i-click.com
 i-clicks.net
 i-cmg-amlg-prod.appspot.com
@@ -77086,7 +77078,6 @@ ibit.am
 ibixiaxs.com
 ibizababes.com
 ibjapan.com
-ibjivrhrflquy.xyz
 ibksturm.synology.me
 ibkups.rci.com
 iblogs.com
@@ -78263,7 +78254,6 @@ images-ext-1.discordapp.net
 images-ext-2.discordapp.net
 images-gaytube.com
 images-kube.net.zooplus.com
-images-na.ssl-images-amazon.com
 images-oz-opensocial.googleusercontent.com
 images-prod.healthline.com
 images-pw.secureserver.net

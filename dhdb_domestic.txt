@@ -10553,7 +10553,6 @@ api.xitongcheng.com.cname.yunjiasu-cdn.net
 api.xmpush.xiaomi.com
 api.xsj.wasu.tv
 api.xueersi.com
-api.xueersi.com.w.cdngslb.com
 api.xunyou.mobi
 api.yangkeduo.com
 api.ydl.com
@@ -11502,7 +11501,6 @@ autoqingdao.com
 autoshanghai.org
 autosmt.net
 autospaceplus.com
-autoupdate.tantanapp.com
 autoupdate7.synology.cn
 auwinner.com
 aux.soperson.com
@@ -13428,7 +13426,6 @@ bizsec-auth.alicdn.com.danuoyi.tbcache.com
 bizsn.com
 bizsofts.com
 bizvane.com
-bj-a.bcebos.com.n.shifen.com
 bj-big.com
 bj-dsmzyy.com
 bj-japi.douyucdn.cn
@@ -15176,9 +15173,7 @@ cardloan.xiaoying.com
 cardniu.com
 cardniudai.com
 cardqu.com
-cards-css.iqiyi.com
 cards-css.iqiyi.com.w.alikunlun.com
-cards.iqiyi.com
 care110.com
 career.gench.edu.cn
 career.sina.com.cn
@@ -15817,7 +15812,6 @@ cdn.sspai.com
 cdn.staticfile.org
 cdn.svoice.le.com
 cdn.taboola.com.cn
-cdn.taboola.com.cn.w.kunlungr.com
 cdn.tanx.com
 cdn.tgp.qq.com
 cdn.tianmidian.com
@@ -23256,7 +23250,6 @@ dota.sykty.com
 dota2rpg.com
 dotab.douyucdn.cn
 dotamax.com
-dotbeats.douyucdn.cn
 dotcounter.douyucdn.cn
 dotcounter.douyutv.com
 dotcpp.com
@@ -29353,7 +29346,6 @@ go-goal.com
 go.10086.cn
 go.5211game.com
 go.cc
-go.cnfol.com
 go.hangzhou.com.cn
 go.mie.gamecenter.qq.com
 go.mie.qq.com
@@ -34389,7 +34381,6 @@ i3.letvimg.com
 i3.meishichina.com
 i3.sinaimg.cn
 i3.xkspbz.com
-i333.v.bsgslb.com
 i360mall.com
 i3abox.com
 i3done.com
@@ -35852,7 +35843,6 @@ img3.tapimg.com
 img3.tuhu.org
 img3.utuku.imgcdc.com
 img3.xitongzhijia.net
-img30.360buyimg.com
 img30.360buyimg.com.gslb.qianxun.com
 img4.178.com
 img4.cache.netease.com

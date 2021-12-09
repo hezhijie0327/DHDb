@@ -1716,6 +1716,7 @@
 35kds.com
 35pic.com
 35tyc.com
+36-courier.push.apple.com
 36.www1.biz
 360.yinooo.com
 3602wan.com
@@ -2397,6 +2398,7 @@
 52.win7.us
 520.com
 520.net
+52003333.com
 5200cc.com
 5200mmm.com
 52038a.com
@@ -8006,6 +8008,7 @@ api-metrics-e2e.nonprod.flurry.com
 api-metrics-smoke.nonprod.flurry.com
 api-p.videomarket.jp
 api-skytone-2.vmall.com
+api-umamusume.cygames.jp
 api-vtairanankou-production.mapbox.com
 api-zdj.com
 api.1beb2a44.space
@@ -8126,6 +8129,7 @@ api.whizzone.com
 api.wtzw.com
 api.xc17868.com
 api.xitongcheng.com
+api.xueersi.com.w.cdngslb.com
 api.y.igexin.com
 api.yidiansurong.com
 api.yp.com
@@ -8944,6 +8948,7 @@ autoredirect.net
 autoremerciez.xyz
 autotizer.ru
 autotjs.info
+autoupdate.tantanapp.com
 autoupdate.update4ever.xyz
 auuayepftovx.com
 auvplayer.com
@@ -10764,6 +10769,7 @@ bizrate-images.com
 bizspring.net
 biztech.ro
 biztel.jp
+bj-a.bcebos.com.n.shifen.com
 bj.ssvps.site
 bj02.cww.com
 bj1111.com
@@ -12506,6 +12512,8 @@ card.mmos.com
 cardcmb.com
 cardgen.co
 cardmrket.com
+cards-css.iqiyi.com
+cards.iqiyi.com
 cardvrmirrorr.ru
 care-health.co.kr
 caredaily.me
@@ -12949,6 +12957,7 @@ cdn.static-cnt.bi
 cdn.static-cnt.bid
 cdn.static.biqudu.la
 cdn.streambeam.io
+cdn.taboola.com.cn.w.kunlungr.com
 cdn.tianyancha.com.wswebpic.com
 cdn.ttkx22n.com
 cdn.u9377w.com
@@ -15046,6 +15055,7 @@ config.adsage.com
 config.appjolt.com
 config.me.apple-dns.net
 config.safedk.com
+configuration.apple.com
 conflictmgmtassociates.com
 confuciusinstitute.net
 confusedmachine.com
@@ -18191,6 +18201,7 @@ dhrshasvdc30.danaher.org
 dhrshasvdc31.danaher.org
 dhsearchapi.zhhainiao.com
 dhsfcw.cn
+dht.aelitis.com
 dhtbhsgrz11qt.cloudfront.net
 dhtyey.com
 dhy77jsjr4g76.cloudfront.net
@@ -19000,6 +19011,7 @@ dotandad.com
 dotandads.com
 dotaserveerr.fun
 dotaskins2you.com
+dotbeats.douyucdn.cn
 dotbrataev.ru
 dothammes.com
 doticloud.com
@@ -20289,6 +20301,7 @@ e.zunss.com
 e.zvfuka.cn
 e0acdc93c0708c208901d7147383aa88.jddebug.com
 e0hkzk2.cn
+e10499.dsce9.akamaiedge.net
 e127f.azurewebsites.net
 e12930.dscj.akamaiedge.net
 e13678.dscg.akamaiedge.net
@@ -24824,6 +24837,7 @@ gfcowlrmdt.com
 gfd.huigoushop.com
 gfdcv.com
 gfdns.net
+gfe.nvidia.com
 gfe3uh.cc
 gfgupiao.com
 gfh.ahfzly.com
@@ -25254,8 +25268,10 @@ go.bewotec.de
 go.biglobe.ne.jp
 go.cartstick.com
 go.cloudcraze.com
+go.cnfol.com
 go.conversionmasters.com
 go.envestnet.com
+go.fairrank.de
 go.fcwr8.com
 go.fiorentini.com
 go.freeanalyzer.ru
@@ -28475,6 +28491,7 @@ i-blogos.ru
 i-book.com
 i-book.net
 i-ch1-cor001.api.p001.1drv.com
+i-chi01p-cor002.api.p001.1drv.com
 i-glogger.ru
 i-gp1pqs6f1.cn
 i-hzy.com
@@ -28524,6 +28541,7 @@ i234.me
 i2idata.com
 i2iserv.com
 i2p2.no
+i333.v.bsgslb.com
 i3z.cn
 i401xox.com
 i4eg76.vindicated-shelter.space
@@ -28598,6 +28616,7 @@ ibhxmxuwb.xyz
 ibis.lgappstv.com
 ibishic.ru
 ibizne.ru
+ibjivrhrflquy.xyz
 ibjivzn.com
 ibjjsptlmv.com
 ibkda.com
@@ -29137,6 +29156,7 @@ imageplus.baidu.cn
 imageplus.baidu.com
 imagepy.org
 images-amazon.com
+images-na.ssl-images-amazon.com
 images.avsmt.cn
 images.ccqxqc.com
 images.comico.tw
@@ -29331,6 +29351,7 @@ img2.jiuzhilan.com
 img2.pengfu.net
 img2.qekun.com
 img2.tanv.com
+img30.360buyimg.com
 img4399.com
 img4click.com
 img5.tianyancha.com.wswebpic.com

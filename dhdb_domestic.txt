@@ -10721,7 +10721,6 @@ app-123.com
 app-ad.variflight.com
 app-advertise.zhihuishu.com
 app-analytics-cn.huami.com
-app-analytics.huami.com
 app-cdn.2q10.com
 app-cdn.2q10.com.wswebpic.com
 app-echo.com
@@ -11148,7 +11147,6 @@ as-hitech.com
 as-proxy.rnd.huawei.com
 as-vip.missfresh.cn
 as.61.com
-as.alipayobjects.com.danuoyi.tbcache.com
 as.aplus.pptv.com
 as.aw.mt.mob.com
 as.baidu.com
@@ -20435,7 +20433,6 @@ d.3.cn
 d.39.net
 d.8181zx.com
 d.admx.baixing.com
-d.alicdn.com
 d.alicdn.com.w.cdngslb.com
 d.apgoview.com
 d.api.m.le.com
@@ -22850,7 +22847,6 @@ dm.oadz.com
 dm.sanwen8.com
 dm.sg92.com
 dm.toutiao.com.w.cdngslb.com.c.cdnuyun.cn
-dm.toutiao.com.w.cdngslb.com.qr.uuhimalayanqm.com
 dm.video.weibocdn.com
 dm.wo.com.cn
 dm.xiazaibao.xunlei.com
@@ -27166,7 +27162,6 @@ financialstreetforum.com
 finbtc.net
 finchain.info
 finchina.com
-find.api.micloud.xiaomi.net
 find.qq.com
 findermp.video.qq.com
 finderweb.net
@@ -29527,7 +29522,6 @@ goofish.com
 google.cn
 googleadapis.com
 googleads.g.doubleclick.net
-googleads4.g.doubleclick.net
 googleadservices.com
 googleapis.cn
 googlecloudtools.gallerycdn.azure.cn
@@ -31042,6 +31036,7 @@ hao123.com
 hao123.com.sg
 hao123.xywy.com
 hao123union.baidu.com
+hao1258.com
 hao163.com
 hao181.com
 hao184.com

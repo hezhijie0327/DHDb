@@ -9159,7 +9159,6 @@ a1806.dscb.akamai.net.0.1.cn.akamaitech.net
 a1813.cn.w.tl88.net
 a1813.dscd.akamai.net
 a1815.co.w.tl88.net
-a1818.dscg2.akamai.net
 a1825.dscd.akamai.net
 a1834.dspg2.akamai.net
 a1835.g2.akamai.net
@@ -10048,7 +10047,6 @@ aavv.com
 aawp.de
 aax-cpm.amazon-adsystem.com
 aax-eu-dub.amazon.com
-aax-eu.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
@@ -10741,7 +10739,6 @@ accounts.firefox.com
 accounts.google.co.jp
 accounts.google.com
 accounts.livechatinc.com
-accounts.logi.com
 accounts.mx
 accounts.nintendo.com
 accounts.nvgs.nvidia.com
@@ -11136,7 +11133,6 @@ aculo.us
 acumensolutions.com
 acunetix.com
 acuworld.net
-acv.cmf-hikari.net
 acw.elsevier.com
 acw.sciencedirect.com
 acw.secure.jbs.elsevierhealth.com
@@ -16099,7 +16095,6 @@ aixintou.com.cn
 aiyadu.com
 aiyakan.000webhostapp.com
 aiyouxi.com
-aiyouxi07.vip
 aiyoweia.com
 aiyyu.com
 aize.jp
@@ -20383,7 +20378,6 @@ arabicbible.org
 arabkrobo.duckdns.org
 arabnews365.com
 arabul.com
-aragenbio.actonservice.com
 aragenbio.com
 aragexpo.com
 araglegal.com
@@ -33736,7 +33730,6 @@ cdn.preciso.net
 cdn.printfriendly.com
 cdn.propellerads.com
 cdn.pushalert.co
-cdn.quantummetric.com
 cdn.query.prod.cms.msn.com
 cdn.ravenjs.com
 cdn.rawgit.com
@@ -33976,7 +33969,6 @@ cdnvid.com
 cdnvideo.ru
 cdnwa.com
 cdnwidget.com
-cdnx.tribalfusion.com
 cdnzhuji.com
 cdobs.com
 cdp.asia
@@ -34588,7 +34580,6 @@ chan.sankakucomplex.com
 chanalytics.merchantadvantage.com
 chancesmusicalinterrogation.com
 chandamama.com
-chandlerimageproduct.com
 chandlertreatment.com
 chandrabindu.net
 chanelets-aurning.com
@@ -35700,7 +35691,6 @@ chrs.me.uk
 chrumedia.com
 chrxw.com
 chrysler.com
-chshouyu.com
 chsite.net
 chspracteri.fun
 chsrkred.com
@@ -40443,7 +40433,6 @@ counterstation.de
 counterstatistik.de
 countertracker.com
 counterviews.net
-countess.twitch.tv
 counthis.com
 counti.de
 countilde.online
@@ -44964,7 +44953,6 @@ de.tl
 de.tynt.com
 de.wiktionary.org
 de.zettle.com
-de01.rayjump.com
 de17a.com
 de1919.com
 de3hzpms0kfq9.cloudfront.net
@@ -48071,7 +48059,6 @@ doershow.com
 does-it.net
 doesitarm.com
 doesntexist.com
-doesok.top
 doesxyz.com
 dofanyi.com
 doflygonan.com
@@ -48654,7 +48641,6 @@ download.mediaplay.ru
 download.mozilla.org
 download.my.visualstudio.com
 download.parallels.com
-download.parallels.com.cdn.cloudflare.net
 download.pdfforge.org
 download.qoo-app.com
 download.sd.baidu.com
@@ -52602,7 +52588,6 @@ elqtrk.morningstar.fr
 elqtrk.morningstar.hk
 elqtrk.morningstar.it
 elqtrk.morningstar.no
-elqtrk.morningstar.pt
 elqtrk.morningstar.se
 elqtrk.morningstarbr.com
 elqtrk.morningstarfunds.ie
@@ -54728,7 +54713,6 @@ europe.net.zooplus.it
 europe.ocws1.live.com.akadns.net
 europe.odcsm1.live.com.akadns.net
 europe.panel.net.zooplus.de
-europe.pool.ntp.org
 europe.r-es-1.net.daraz.com
 europe.spring.net.daraz.com
 europeail.net.zooplus.es
@@ -67324,7 +67308,6 @@ go.mibucorp.co.jp
 go.michelman.com
 go.microdinc.com
 go.microfocus.com
-go.microsoft.com
 go.microsoft.com.edgekey.net
 go.microstrat.com
 go.midatlanticindustrial.com

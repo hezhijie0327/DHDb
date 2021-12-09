@@ -4485,6 +4485,7 @@ a16422345985850d.cdn.jiashule.com
 a16533.actonservice.com
 a1662.oadz.com
 a17869.actonservice.com
+a1818.dscg2.akamai.net
 a1951.dscb.akamai.net
 a1a.me
 a1b1ea8f418ca02ad4e.com
@@ -4644,6 +4645,7 @@ aassp.wgzty.cn
 aastudios.co.in
 aaukqiooaseseuke.org
 aavideo.live
+aax-eu.amazon-adsystem.com
 aax-fe-pek.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
 aaxads.com
@@ -4828,6 +4830,7 @@ accordprybreathe.com
 accountant-audio.com
 accountryft.xyz
 accounts.dmm
+accounts.logi.com
 accountsections.com
 acdnpro.com
 acedacc160.com
@@ -4909,6 +4912,7 @@ actupremium.com
 actus-voyance.com
 actusvoyance.com
 actuvoyance.com
+acv.cmf-hikari.net
 acvps.cn
 acw.evise.com
 acwgf.com
@@ -8234,6 +8238,7 @@ app.9yyg.cn
 app.abc000.today
 app.arukas.io
 app.bigplan-alex.com
+app.bilibili.com
 app.cacafly.com
 app.cjtecc.cn
 app.codefund.io
@@ -8317,6 +8322,7 @@ appimg2.qq.ccgslb.com.cn
 appios-icloudcx.com
 appl4e.com
 applaudads.com
+appldnld.apple.com
 apple--iphone5.com
 apple-appstore.cn
 apple-dns.cn
@@ -8558,6 +8564,7 @@ arabslavetrade.com
 arabtechmessenger.net
 arabworld.biz
 arabworldnews.info
+aragenbio.actonservice.com
 arancefy.com
 aranzujemy.co.pl
 arapurayil.com
@@ -13012,6 +13019,7 @@ cdn.pickyopahs.com
 cdn.plopx.com
 cdn.puata.info
 cdn.pulpix.com
+cdn.quantummetric.com
 cdn.qutyan8848.com
 cdn.radiatewheel.info
 cdn.softlayer.net
@@ -13140,6 +13148,7 @@ cdnunion.org
 cdnupdateweb.com
 cdnuyun.cn
 cdnvpn.net
+cdnx.tribalfusion.com
 cdnyoyun.com
 cdnyt69.com
 cdnyzdjj.com
@@ -13430,6 +13439,7 @@ championshipseriesleague.com
 championwin.ru
 chance.adsensor.org
 chanchan.uchuu.co.uk
+chandlerimageproduct.com
 chang555.cn
 changan.com
 changba-ktv.com
@@ -13901,6 +13911,7 @@ chronicmirror.com
 chroniczip.com
 chrstatic.com
 chshap.blob.core.windows.net
+chshouyu.com
 chsqh.com
 chszebfl.tanjiang1990.cn
 chtotonovoe.info
@@ -15427,6 +15438,7 @@ counters.gigya.com
 counters.xaraonline.com
 counterservis.com
 countertrck.com
+countess.twitch.tv
 country.yepshare.com
 countrytrips.net
 countt.51yes.com
@@ -17946,6 +17958,7 @@ ddztb.com
 de.net
 de.soquair.com
 de0.cc
+de01.rayjump.com
 de1.eu.nimiqpool.com
 de1.vpnme.me
 de123.net
@@ -18901,6 +18914,7 @@ dodoeasy.com
 dodolive.cn
 dodomo.info
 doeownfeed.icu
+doesok.top
 dofkfhv.cn
 dofuskamashack.net
 doge-elon.com
@@ -19190,6 +19204,7 @@ download.cdn.ilivid.com
 download.dm.origin.com
 download.ilivid.com
 download.ithome.com.tw
+download.parallels.com.cdn.cloudflare.net
 download.shuzilm.cn
 download.synology.com
 download.wholestuff.win
@@ -21132,6 +21147,7 @@ elonxevent.com
 elonxmusk.com
 elparmo.ru
 elqtrk.morningstar.nl
+elqtrk.morningstar.pt
 elqview2.uclahealth.org
 els-cdn.com
 elsad.tw
@@ -21672,6 +21688,7 @@ eurasianupdate.com
 eurochinesedaily.com
 euroclick.com
 eurofun88.com
+europe.pool.ntp.org
 europroxy.eu
 eurosportnews.info
 eurotrucksimulator2keygen.com
@@ -24302,6 +24319,7 @@ game-tester.ru
 game-tools.xyz
 game.21cn.com
 game.466.com
+game.bilibili.com
 game.gamingnonstop.net
 game.ifeng.com
 game.jh.qq.com
@@ -24762,6 +24780,7 @@ geoidd.vip
 geoip-alb-nstoolsg-1229339792.ap-southeast-1.elb.amazonaws.com
 geoip.cookieyes.com
 geoip.herewetest.com
+geoip.nn.com
 geoiplookup.wikimedia.org
 geoloc.yospace.com
 geomon.top
@@ -25418,6 +25437,7 @@ go.luvano-kaminofen.de
 go.mega-games.org
 go.megabanners.cf
 go.micromeritics.com
+go.microsoft.com
 go.myzillion.com
 go.nesnode.com
 go.net-dj97.stream
@@ -26216,6 +26236,7 @@ gw-dv.net
 gw.alicdn.com.danuoyi.tbcache.com
 gw.m.163.com
 gw.poscointl.com
+gw2.17173.com
 gw2.alicdn.com.danuoyi.tbcache.com
 gw6c.com
 gw7eez7b7fa3.com
@@ -27901,6 +27922,7 @@ homeimprovementonus.com
 homeintour.com
 homemadecandies.net
 homemoon.net
+homenew.console.aliyun.com
 homepod.cn
 homeremedies247.net
 homes.co.id

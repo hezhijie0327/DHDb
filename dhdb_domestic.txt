@@ -10748,7 +10748,6 @@ app.alipay.com
 app.aplus.pptv.com
 app.b2b168.com
 app.biliapi.net
-app.bilibili.com
 app.biligame.com
 app.cctv.com
 app.chat.xiaomi.net
@@ -10886,7 +10885,6 @@ appkaifa.com
 appkefu.189.cn
 appkefu.com
 appkg.com
-appldnld.apple.com
 appldnld.g.aaplimg.com
 apple-www.le.com
 apple.www.letv.com
@@ -28291,7 +28289,6 @@ game.61.com
 game.adwo.com
 game.ali213.net
 game.baichuanhd.cn
-game.bilibili.com
 game.bilibili.com.w.cdngslb.com
 game.chillyroom.com
 game.china.com
@@ -28844,7 +28841,6 @@ geoapi.qweather.com
 geocdn.unityads.unity3d.com
 geogsci.com
 geohey.com
-geoip.nn.com
 georgewfraser.gallerycdn.azure.cn
 geospatialsmart.com
 geotmt.com
@@ -30255,7 +30251,6 @@ gw.innotechx.com
 gw.wdjky.com
 gw1.alicdn.com
 gw1.alicdn.com.danuoyi.tbcache.com
-gw2.17173.com
 gw2.alicdn.com
 gw2.kongzhong.com
 gw2.kongzhong.com.wscdns.com
@@ -32736,7 +32731,6 @@ homekingcdn.com
 homekoo.com
 homekoocdn.com
 homelnns.com
-homenew.console.aliyun.com
 homepage-gw.jd.com
 homepage-gw.jd.com.gslb.qianxun.com
 hometeda.com

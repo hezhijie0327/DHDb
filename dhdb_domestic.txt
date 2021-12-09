@@ -10125,7 +10125,6 @@ aopu.tmall.com
 aoratec.com
 aoruszone.cn
 aos-cdn-files.cn-hangzhou.oss.aliyun-inc.com
-aos-cdn-image.amap.com
 aos-cdn-image.amap.com.w.alikunlun.net
 aoscdn.amap.com
 aoscdn.amap.com.w.kunlunar.com
@@ -10396,7 +10395,6 @@ api.im.weibo.cn
 api.inews.qq.com
 api.inmeng.net
 api.installer.xiaomi.com
-api.interaction.sohu.com
 api.io.mi.com
 api.iplay.163.com
 api.iqiyi.com
@@ -11156,7 +11154,6 @@ as.weixin.qq.com
 as.xiaojukeji.com
 as1.m.hao123.com
 as1.wenku.baidu.com
-as2.binstream.live
 as3f.com
 as5.com
 asa.commerce.apple.com.cdn20.com
@@ -16168,7 +16165,6 @@ cgi.vip.qq.com
 cgiaccess.tc.qq.com
 cgiaccess.tcdn.qq.com
 cgiale.com
-cgicol.amap.com
 cgiia.com
 cgjoy.com
 cgjoy.net
@@ -19268,7 +19264,6 @@ continuefaf.top
 contract-console.aliyun.com
 control-i.iqiyi.com
 control.aps.amap.com
-control.mna.qq.com
 conuo.com
 conv.youdao.com
 convergemob.com
@@ -28061,7 +28056,6 @@ g-live.easyliao.com
 g-photography.net
 g-search1.alicdn.com
 g-search1.alicdn.com.danuoyi.tbcache.com
-g-search2.alicdn.com
 g-search3.alicdn.com
 g-search4.alicdn.com
 g.163.com
@@ -31606,7 +31600,6 @@ hdl3a.douyucdn.cn
 hdl3a.douyucdn.cn.wscdns.com
 hdl5.douyucdn.cn
 hdl5.douyucdn.cn.wsdvs.com
-hdla.douyucdn.cn
 hdla.douyucdn.cn.wscdns.com
 hdlchina.com
 hdltest.com

@@ -3438,7 +3438,6 @@
 39ask.net
 39clean.com
 39cs.com
-39d0825d09f05.cdn.sohucs.com
 39d0825d09f05.cdn.sohucs.com.wsglb0.com
 39dg.com
 39ej7e.com
@@ -4031,6 +4030,7 @@
 5151doc.com
 5153.com
 51555.net
+51569.com
 5156edu.com
 5156rcw.com
 515app.com
@@ -10959,7 +10959,6 @@ appstochina.com
 appstore.browser.qq.com
 appstore.cdn.pandora.xiaomi.com
 appstore.ldmnq.com
-appstore.pandora.xiaomi.com
 appstore.ptmi.gitv.tv
 appstoreisvpic.alipayobjects.com
 appstoreisvpic.alipayobjects.com.danuoyi.tbcache.com
@@ -11934,7 +11933,6 @@ baicheng.com
 baichenginedu.com
 baichuan-api.huxiu.com
 baichuan-sdk.alicdn.com
-baichuan-sdk.alicdn.com.w.cdngslb.com
 baichuan-sdk.taobao.com
 baichuan.baidu.com
 baichuanhd.com
@@ -23376,7 +23374,6 @@ downlaod.xiaocen.com
 download-packages.unity.cn
 download.1.130242707.cs.gcloud.qq.com
 download.123cw.cn
-download.17173.com
 download.2.1212338883.wz.gcloudgbs.com
 download.2345.com
 download.350.com
@@ -23985,7 +23982,6 @@ dudong.com
 dudubashi.com
 dudumeijia.com
 duer-kids.baidu.com
-duer-music.cdn.bcebos.com
 dueros-h2.baidu.com
 dugoogle.com
 duguoxue.com
@@ -25764,7 +25760,6 @@ erongda.com
 erongdu.com
 err.da.hunantv.com
 err.ifengcloud.ifeng.com
-err.taobao.com
 err.tmall.com
 errlog.umeng.com
 error.alibaba.com
@@ -30220,7 +30215,6 @@ guzhangting.com
 guzhifengds.com
 guzhiwang.com
 guziyy.com
-guzzoni-apple-com.v.aaplimg.com
 guzzoni.apple.com
 guzzservices.com
 gv1.xdrig.com
@@ -30235,7 +30229,6 @@ gw-ec.com
 gw-pchdcz-08.cg.163.com
 gw.365you.com
 gw.aihuishou.com
-gw.alicdn.com
 gw.alipayobjects.com
 gw.alipayobjects.com.danuoyi.tbcache.com
 gw.api.taobao.com

@@ -10683,7 +10683,6 @@ apm3.music.ntes53.netease.com
 apmbooth.com
 apmconfig.douyucdn.cn
 apmconfig.douyucdn.cn.w.cdngslb.com
-apmconfig.douyucdn.cn.wsglb0.com
 apmfront.17u.cn
 apmgw.hellobike.com
 apmvista.com
@@ -10829,10 +10828,8 @@ appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
 appdl.hicloud.com.sched.s3hw.tdnsv5.com
-appdl.lenovo.com.cn
 appdlc-drcn.hispace.hicloud.com
 appdown.info
-appdownload.alicdn.com
 appdownload.mail.10086.cn
 appdownload.youku.com
 appdriver.cn
@@ -13363,7 +13360,6 @@ bizcent.com
 bizchallenge.net
 bizcharts.net
 bizcn.com
-bizcommon.alicdn.com
 bizcommon.alicdn.com.danuoyi.alicdn.com
 bizconfstreaming.com
 bizgame.com
@@ -17529,7 +17525,6 @@ cicmag.com
 cicphoto.com
 cict.com
 cidi.ai
-cidian.youdao.com
 cidiancn.com
 cidianwang.com
 cidschina.com
@@ -17804,7 +17799,6 @@ click.meituan.com
 click.mz.simba.taobao.com
 click.oneplus.cn
 click.oneplus.com
-click.pv.focus.cn
 click.qianqian.com
 click.stat.hao.360.cn
 click.suning.cn
@@ -18107,7 +18101,6 @@ cm.anjuke.com
 cm.api.baifendian.com
 cm.baichuan.baidu.com
 cm.baidu.com
-cm.bilibili.com
 cm.cn.miaozhen.com
 cm.dmp.360.cn
 cm.dmp.sina.cn
@@ -19010,7 +19003,6 @@ coldlar.com
 colineapp.com
 colinker.com
 colipu.com
-collab.dingtalk.com
 collapsar.amap.com
 collect.alipay.com
 collect.ctc.ximalaya.com
@@ -23266,7 +23258,6 @@ down.115.com
 down.91wangmeng.com
 down.ali213.net
 down.alicdn.com
-down.alicdn.com.danuoyi.tbcache.com
 down.anticheatexpert.com
 down.apps.sina.cn
 down.chinaz.com
@@ -24572,7 +24563,6 @@ e39e639f1c46c2a526aea94bd629c47a.dlied1.cdntips.net
 e39jcxi1.sched.sma.tdnsv5.com
 e3cloud.com
 e3e277acd43faf8fb013307441c50b75.dlied1.cdntips.net
-e3f49eaa46b57.cdn.sohucs.com
 e3f49eaa46b57.cdn.sohucs.com.w.cdngslb.com
 e3f635dd5110b761d3abffc7419d49b4.dlied1.cdntips.net
 e3f87f2bedda9f407d353611b84000e8.dlied1.cdntips.net
@@ -31017,7 +31007,6 @@ haohuahong.net
 haohuan.com
 haohuo.cmcmcdn.com
 haohuo.jinritemai.com
-haohuo.jinritemai.com.w.kunlunca.com
 haohuo.snssdk.com
 haohuoa.com
 haoinvest.com
@@ -32245,6 +32234,7 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -34215,7 +34205,6 @@ i0-prosmall-fd.zol-img.com.cn
 i0.article.fd.zol-img.com.cn
 i0.hdslb.com.cdn20.com
 i0.letvimg.com
-i0.sinaimg.cn
 i0349.com
 i0746.com
 i075.com

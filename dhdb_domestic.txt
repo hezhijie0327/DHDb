@@ -8135,7 +8135,6 @@ activity.erdfgj.com
 activity.gtimg.cn
 activity.hdslb.com.w.kunlungr.com
 activity.hnhnmg.com
-activity.kugou.com
 activity.kugou.com.wswebcdn.com
 activity.m.kuaishou.com
 activity.qzone.qq.com
@@ -8313,7 +8312,6 @@ adapter.shouji.360.cn
 adaptive.6000.liveplay.myqcloud.com
 adarrive.com
 adash-c.m.taobao.com
-adash-c.ut.taobao.com
 adash-emas.cn-hangzhou.aliyuncs.com
 adash-new.man.aliyuncs.com.gds.alibabadns.com
 adash.man.aliyuncs.com
@@ -13405,7 +13403,6 @@ biznewscn.com
 bizopsmall.com
 bizport.cn
 bizres.bj.bcebos.com
-bizsec-auth.alicdn.com
 bizsec-auth.alicdn.com.danuoyi.tbcache.com
 bizsn.com
 bizsofts.com
@@ -13844,7 +13841,6 @@ bmfsm.com
 bmijs.com
 bmjjs.xzw.com
 bmjs.xzw.com
-bml.bilibili.com
 bmlink.com
 bmob.cn
 bmobapp.com
@@ -14411,7 +14407,6 @@ bv.lnk0.com
 bv0i0u0.cdnnodedns.cn
 bvakl.ifeng.com
 bvbfans.net
-bvc.bilivideo.com
 bvgv.com
 bvseo.com
 bw.bilibili.com
@@ -14684,7 +14679,6 @@ c.zhangle.com
 c.zhidian3g.cn
 c.zlongad.com
 c0.3.cn
-c0.3.cn.gslb.qianxun.com
 c0.ifengimg.com
 c01.i01.ctlsh.lv3.cloudglb.com
 c02.3dwwwgame.com
@@ -15365,6 +15359,7 @@ ccets.com
 ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
+ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -16347,7 +16342,6 @@ chanjet.com
 chanluntan.com
 chanmama.com
 channel-account-ssl.xunlei.com
-channel-analysis-js.gmw.cn
 channel-analysis-js.gmw.cn.wswebcdn.com
 channel-analysis.gmw.cn
 channel.api.duapp.com
@@ -16418,7 +16412,6 @@ chargerlink.com
 charmelady.com
 charmingglobe.com
 chashebao.com
-chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
 chat.jd.com
@@ -21756,7 +21749,6 @@ deqinglaw.com
 derekchou.com
 derenbs.com
 derwer.com
-desc.gome.com.cn
 desc.gome.com.cn.cdn20.com
 descnew.taobao.com
 desdev.cn
@@ -23630,7 +23622,6 @@ dss1.bdstatic.com
 dss2.baidu.com
 dss2.bdstatic.com
 dss3.baidu.com
-dss3.bdstatic.com
 dssdr.top
 dssz.com
 dstfsbc.com
@@ -28858,7 +28849,6 @@ getkwai.com
 getlantern.cn
 getlema.com
 getlingxi.cn
-getlocalphone.qq.com
 getluck.top
 getmarkman.com
 getpricetag.com

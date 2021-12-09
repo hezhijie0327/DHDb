@@ -298,7 +298,6 @@
 02portal.hichannel.hinet.net.daraz.com
 02shu.cc
 03-all-seed-gc-us-03.cdn.gaijin.net
-03-all-seed-gc-us-04.cdn.gaijin.net
 03-enlisted-cdnnow.cdn.gaijin.net
 0304game.com
 030buy.com
@@ -3400,7 +3399,6 @@
 2znp09oa.com
 2zzzzzz.com
 3-a.net
-3-courier.push.apple.com
 3-courier2.push.apple.com
 3-ddesignsolutions.com
 3-ps.googleusercontent.com
@@ -6640,7 +6638,6 @@
 74706913.com
 747c749303.com
 749997.com
-75.197.152.61.zz.countries.nerd.dk
 75.32.92.113.zz.countries.nerd.dk
 75.4pu.com
 75.69.247.58.zz.countries.nerd.dk
@@ -11128,7 +11125,6 @@ acumensolutions.com
 acunetix.com
 acuworld.net
 acw.elsevier.com
-acw.sciencedirect.com
 acw.secure.jbs.elsevierhealth.com
 acwbzb.compagniedesspas.fr
 acweb.online
@@ -17352,7 +17348,6 @@ amenityanalytics.com
 amenitypassenger.com
 amentrix.co.uk
 amer.ng.msg.teams-msgapi.trafficmanager.net
-amer.ng.msg.teams.microsoft.com
 amerallyluke.club
 amerch.com
 america.gov
@@ -17909,7 +17904,6 @@ analytics.joincambridge.com
 analytics.jst.ai
 analytics.justuno.com
 analytics.kaggle.io
-analytics.kaltura.com
 analytics.kapost.com
 analytics.kidoz.net
 analytics.kkb.com.tr
@@ -20678,7 +20672,6 @@ array802.prod.do.dsp.mp.microsoft.com
 array803.prod.do.dsp.mp.microsoft.com
 array804.prod.do.dsp.mp.microsoft.com
 array805.prod.do.dsp.mp.microsoft.com
-array806.prod.do.dsp.mp.microsoft.com
 array807.prod.do.dsp.mp.microsoft.com
 array808.prod.do.dsp.mp.microsoft.com
 array809.prod.do.dsp.mp.microsoft.com
@@ -29164,7 +29157,6 @@ bostonwhaler.com
 bostoppa.club
 bostwick-braun.com
 bot-checker.com
-bot.ivy.ai
 bot.nu
 botanwang.com
 botcomics.com
@@ -30376,7 +30368,6 @@ bulletprofit.com
 bulletprofitadclick.com
 bulletprofitads.com
 bulletprofitpop.com
-bullgame.net
 bullguard.com
 bullhk.com
 bullhouse.network
@@ -33335,7 +33326,6 @@ ccwenmiao.com
 ccworld.us
 ccxinshiji.com
 ccxinshijicy.com
-ccxiyuecare.com
 ccxjd.com
 ccxxkt.eurostarshotels.fr
 ccyyls.com
@@ -36286,7 +36276,6 @@ clariant.com
 clarica.com
 clarifyhealth.com
 clarin.com
-claring-loccelkin.com
 clarins.ca
 clarins.ru
 clarion-defence.com
@@ -36859,7 +36848,6 @@ clien.net
 client-analytics.braintreegateway.com
 client-api-cdn.itunes-apple.com.akadns.net
 client-api.arkoselabs.com
-client-api.itunes.apple.com
 client-applications.net.daraz.com
 client-log.box.com
 client-logs.warthunder.com
@@ -42812,7 +42800,6 @@ d10psrq44igbex.cloudfront.net
 d10vy5gom1ed53.cloudfront.net
 d10wfab8zt419p.cloudfront.net
 d10zqflh5ol9cq.cloudfront.net
-d119wgbtegajwl.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
 d11ectef5xceyp.cloudfront.net
 d11enq2rymy0yl.cloudfront.net
@@ -43348,7 +43335,6 @@ d3a00ifauhjdp.cloudfront.net
 d3a059z3oq57cv.cloudfront.net
 d3a42c7xs4vn3.cloudfront.net
 d3a49eam5ump99.cloudfront.net
-d3ag4hukkh62yn.cloudfront.net
 d3ahinqqx1dy5v.cloudfront.net
 d3aiy6aqoa3ykz.cloudfront.net
 d3asksgk2foh5m.cloudfront.net
@@ -52714,7 +52700,6 @@ email.thislife.com
 email.toreta.in
 email.transalt.org
 email.umich.edu
-email.vollrathco.com
 email.wirexapp.com
 email.xtremelashes.com
 email.zerionsoftware.com

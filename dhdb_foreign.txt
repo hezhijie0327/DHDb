@@ -130,7 +130,6 @@
 01-enlisted-stackpath.cdn.gaijin.net
 01-torte.com
 01.beeppool.org
-01.creativecdn.com
 01.gxso.net
 01001.com
 0101011.com
@@ -355,7 +354,6 @@
 03fwinfo.net.daraz.com
 03netinfo.net.daraz.com
 03serviceinfo.net.daraz.com
-04-all-seed-gc-us-03.cdn.gaijin.net
 04-all-seed-gc-us-04.cdn.gaijin.net
 04-enlisted-cdnnow.cdn.gaijin.net
 0403.ca
@@ -9442,7 +9440,6 @@ a3yqjsrczwwp.com
 a4.mzstatic.com
 a402.g.akamai.net
 a40452.actonservice.com
-a40554.actonservice.com
 a40587.actonservice.com
 a40905.actonservice.com
 a40907.actonservice.com
@@ -9719,7 +9716,6 @@ a8clk.campaigns.speed-kaitori.jp
 a8clk.cart.dr-vegefru.com
 a8clk.chat-wifi.site
 a8clk.cv.mensfashion.cc
-a8clk.cv.warau.jp
 a8clk.dospara.co.jp
 a8clk.hurugicom.jp
 a8clk.justy-consul.com
@@ -10300,7 +10296,6 @@ ablink.help.sanvello.com
 ablink.help.shopwell.com
 ablink.info.felixmobile.com.au
 ablink.info.pressreader.com
-ablink.info.sofi.org
 ablink.info.themarket.nz
 ablink.info.timhortons.ca
 ablink.info.timhortons.com
@@ -13305,7 +13300,6 @@ ads.dk
 ads.dogusdigital.com
 ads.domeus.com
 ads.doublemax.net
-ads.drf.com
 ads.dtpnetwork.biz
 ads.eagletribune.com
 ads.easy-forex.com
@@ -15201,7 +15195,6 @@ afcp02.com
 afcp07.com
 afcp09.com
 afcs.dell-cidr.akadns.net
-afcs.dell.com
 afcs.dellcdn.com
 afcyhf.com
 afd-k.office.com
@@ -19829,7 +19822,6 @@ apple-enews.com
 apple-expo.com
 apple-expo.eu
 apple-family.ru
-apple-finance.query.yahoo.com
 apple-hk.com
 apple-imac.com
 apple-inc.net
@@ -20436,7 +20428,6 @@ arcadia1998.web.fc2.com
 arcadianews.com
 arcangel-images.com
 arcaptart.site
-arcas-da.com
 arccdyvgh.com
 arcesb.com
 arcfertility.com
@@ -27389,7 +27380,6 @@ blender3d.fr
 blenderartists.com
 blendle.nl
 blendzy.duckdns.org
-blenkbenched.casa
 bleopi.com
 blerp.com
 blesk.cz
@@ -33517,7 +33507,6 @@ cdn-terapeak.com
 cdn-tudou.com
 cdn-ukwest.onetrust.com
 cdn-us.anidb.net
-cdn-view.c3tag.com
 cdn-webview-pge.unityads.unity3d.com
 cdn-www.marketing.net.zooplus.es
 cdn-www.partner.net.daraz.com
@@ -39138,7 +39127,6 @@ connect.ekomi.de
 connect.emby.media
 connect.endofound.org
 connect.est.org.uk
-connect.facebook.net
 connect.facetwealth.com
 connect.flowroute.com
 connect.frontier.com
@@ -43053,7 +43041,6 @@ d1u1byonn4po0b.cloudfront.net
 d1u3772ihhjzwu.cloudfront.net
 d1uanozc5el74n.cloudfront.net
 d1ui18tz1fx59z.cloudfront.net
-d1ukp4rdr0i4nl.cloudfront.net
 d1upt0rqzff34l.cloudfront.net
 d1uvhm532ipx9t.cloudfront.net
 d1uw69x4c2zrim.cloudfront.net
@@ -43473,7 +43460,6 @@ d3m4hp4bp4w996.cloudfront.net
 d3m6sept6cnil5.cloudfront.net
 d3mcf0n3hvvfk4.cloudfront.net
 d3melu30dgj1x4.cloudfront.net
-d3mr7y154d2qg5.cloudfront.net
 d3mshiiq22wqhz.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3mxi1bmstfyit.cloudfront.net
@@ -50347,7 +50333,6 @@ e13829.x.akamaiedge.net
 e13897.x.akamaiedge.net
 e13993.a.akamaiedge.net
 e14313.g.akamaiedge.net
-e14579.d.akamaiedge.net
 e14579.dspg.akamaiedge.net
 e14705.g.akamaiedge.net
 e14868.dsce9.akamaiedge.net
@@ -51931,7 +51916,6 @@ effectwringoverreact.com
 effers.com
 effexor-xr.1.p2l.info
 efficaciousart.com
-efficaciouscactus.com
 efficiency.nl.visma.com
 efficiency.visma.com
 efficientadvisors.com
@@ -70954,7 +70938,6 @@ gsp4-cn.ls.apple.com
 gsp4-cn.ls.apple.com.edgekey.net
 gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 gsp5-cn.ls.apple.com
-gsp64-ssl.ls-apple.com.akadns.net
 gspe11-ssl.ls.apple.com.edgekey.net
 gspe21-ssl.ls-apple.com.akadns.net
 gspe21-ssl.ls.apple.com
@@ -71642,7 +71625,6 @@ h5.070ld.com
 h5.071ld.com
 h5.073ld.com
 h5.074ld.com
-h5.076ld.com
 h5.078ld.com
 h5.079ld.com
 h5.080ld.com

@@ -8562,7 +8562,6 @@ adscover.com
 adsdk.9imobi.com
 adsdk.dmzj.com
 adsdk.vivo.com.cn
-adse.wsa.ximalaya.com
 adse.ximalaya.com
 adsebs.ximalaya.com
 adsehera.ximalaya.com
@@ -9606,7 +9605,6 @@ all.ad-core-lb-lf.l.bytedns.net
 all.cnzz.com.danuoyi.tbcache.com
 all.douyin.com.w.kunluncan.com
 all.gamedog.cn.w.kunlungr.com
-all.kwimgs.com.w.cdngslb.com.c.cdnuyun.cn
 all.kwimgs.com.w.cdngslb.com.qr.uuhimalayanqm.com
 all.lv2.qnydns.com
 all.ocpc.xueersi.com.w.cdngslb.com
@@ -19216,7 +19214,6 @@ congtad.com
 congyicn.com
 conn.wemeet.tencent.com
 conn1.coloros.com
-conn1.oppomobile.com
 conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
@@ -23325,7 +23322,6 @@ down.tgjkbx.cn
 down.winads.cn
 down.winbaicai.com
 down.xiazaidc.com
-down.znshuru.com
 down1.bizport.cn
 down123.me
 down160.bizport.cn
@@ -26244,7 +26240,6 @@ f5ie8y7l.dayugslb.com
 f5sd.com
 f5yx.com
 f6.market.xiaomi.com
-f7.baidu.com
 f7.video.weibocdn.com
 f73127beca2cd9454866dd690c52410d.safeframe.googlesyndication.com
 f773.com
@@ -29117,7 +29112,6 @@ gjohvhf.cn
 gjpdh.com
 gju1.alicdn.com
 gju1.alicdn.com.danuoyi.tbcache.com
-gju2.alicdn.com.danuoyi.tbcache.com
 gju3.alicdn.com
 gju3.alicdn.com.danuoyi.tbcache.com
 gju4.alicdn.com
@@ -29193,7 +29187,6 @@ globalaccentchinese.com
 globalbuy.cc
 globalcdndownload.qiniu.com.w.kunlunar.com
 globalcdndynamic.qiniu.com.w.kunlungr.com
-globalcdnweb.qiniu.com.w.kunlunar.com
 globalcompressor.com
 globaldangdang.hk
 globaletrust.com
@@ -29754,7 +29747,6 @@ gslbali.ximalaya.com
 gslbmgsplive.miguvideo.com
 gslbtx.ximalaya.com
 gsmyi.com
-gsp0.baidu.com
 gsp10-ssl-cn.ls-apple.com.akadns.net
 gsp10-ssl-cn.ls.apple.com
 gsp85-cn-ssl.ls.apple.com

@@ -14075,7 +14075,6 @@ adserver.betandwin.de
 adserver.bidsxchange.com
 adserver.bing.com
 adserver.bizedge.com
-adserver.bizhat.com
 adserver.bizland-inc.net
 adserver.bluereactor.com
 adserver.break-even.it
@@ -23425,7 +23424,6 @@ backupthefile.com
 backwardchampionship.com
 backwardkneesencroach.com
 bacon.getcarro.com
-bacon.section.io
 baconaces.pro
 bacontent.de
 bacskateszov.hu
@@ -34081,7 +34079,6 @@ ce.lijit.com
 ce570720-dnsotls-ds.metric.gstatic.com
 ce62e0d222bc5aca.com
 ce7.org
-cebadu.com
 cebay.com
 cebglobal.com
 cebu-online.com
@@ -50476,7 +50473,6 @@ e5439.x.akamaiedge.net
 e55.dspb.akamaiedge.net
 e584.g.akamaiedge.net
 e59440e6-dnsotls-ds.metric.gstatic.com
-e5977.dsce9.akamaiedge.net
 e5d93014837520f11db57538aa67fb2f.clo.footprintdns.com
 e5d944a25e468d.com
 e5f854f898a7c580ebd194a8a36ee424.clo.footprintdns.com
@@ -52731,7 +52727,6 @@ email.clearscore.com.au
 email.cobsbread.com
 email.collegeplanning.com
 email.csr31.net.daraz.com
-email.docker.com
 email.easyaccess.co.nz
 email.eigensonne.de
 email.eomega.org
@@ -62483,7 +62478,6 @@ gaozhisheng.org
 gap.com
 gap.eu
 gapcanada.ca
-gapdebug.local.genuitec.com
 gapfactory.com
 gapitech.com
 gapolice.com
@@ -64778,7 +64772,6 @@ glzyw.com
 gm-it.consulting
 gm.biz.tm
 gm.fengyunzhibo.com
-gm99game.net
 gma1.com
 gmads.net
 gmail-cn.com
@@ -80965,7 +80958,6 @@ init-s01st-lb.push-apple.com.akadns.net
 init-s01st.push.apple.com
 init.ess.apple.com
 init.gc.apple.com
-init.itunes.apple.com
 init.push-apple.com.akadns.net
 init.push.apple.com
 init.shop

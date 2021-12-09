@@ -6316,6 +6316,7 @@ adserver.atari.net
 adserver.backbeatmedia.com
 adserver.billiger-surfen.de
 adserver.billiger-telefonieren.de
+adserver.bizhat.com
 adserver.bluereactor.net
 adserver.bluewin.ch
 adserver.buttonware.com
@@ -7288,6 +7289,7 @@ algenib.ru
 algocashmaster.net
 algomalillie.com
 algovid.com
+ali-ad.a.yximgs.com.w.alikunlun.com
 ali-bestshop.ru
 ali-safety-video.acfun.cn
 ali-safety-video.acfun.cn.w.alikunlun.com
@@ -9414,6 +9416,7 @@ backpacktf.com
 backpacktf.store
 backup-place.com
 backupfilesserver.com
+bacon.section.io
 bad8b2e252.com
 badamareus.com
 badd24287f.com
@@ -12915,6 +12918,7 @@ cdn-my1.ru
 cdn-my3.ru
 cdn-okzyw.com
 cdn-onedrive-live.com
+cdn-pri.nlark.com
 cdn-ra.rockcontent.com
 cdn-speed.com
 cdn-t.xyz
@@ -12971,6 +12975,7 @@ cdn.jiujhzp.com
 cdn.jiuzhilan.com
 cdn.jllstudio.com
 cdn.jquery-uim.do
+cdn.jsdelivr.net
 cdn.komentary.aol.com
 cdn.komoona.com
 cdn.lazymem.com
@@ -13218,6 +13223,7 @@ cea53c4833.com
 cea9d3d4f74fb831.com
 ceafdgcdfcheibdfabf.ru
 ceai.xyz
+cebadu.com
 cecash.com
 cecport.cc
 cedarlaneblackshear.com
@@ -20403,6 +20409,7 @@ e521d17fa185a2.com
 e553bcf717698d33.com
 e578d08636706fcaf057c95c436b5fa9.jddebug.com
 e5871.e9.akamaiedge.net
+e5977.dsce9.akamaiedge.net
 e5b93f83bc6b3a9f0bf47f6ebf84c877.jddebug.com
 e5mbjzv.com
 e5o28q264rbh.www.cybernetman.com
@@ -21133,6 +21140,7 @@ email-match.com
 email-mediapost.fr
 email-plans.com
 email-weightwatchers.com
+email.docker.com
 emailadvantagegroup.com
 emailing.bnpparibas
 emailium.fr
@@ -23253,6 +23261,7 @@ forzahackers.com
 fosdommtoi.com
 fosterheiressdug.com
 fosterstrawberry.com
+fota5tbk.adups.com
 fotacontrol.adfuture.cn
 fotiaoqiang.club
 foto-top.info
@@ -24465,6 +24474,7 @@ gaoyuan.xyz
 gaozhiip.com
 gaozhisheng.net
 gaozhouba.com
+gapdebug.local.genuitec.com
 gapinubuso.com
 gapsystem.com.ar
 gaqavrhhgmu.com
@@ -25303,6 +25313,7 @@ gm.uc003.com
 gm016.com
 gm682.com
 gm99.com
+gm99game.net
 gmailvpn.com
 gmbd.cn
 gmcc.net
@@ -26386,6 +26397,7 @@ h5data.com
 h5hosting-drcn.dbankcdn.cn
 h5jw.com
 h5vv.video.qq.com
+h5vv6.video.qq.com
 h6.x0b9x4w.cn
 h728.cn
 h7687.com
@@ -29775,6 +29787,7 @@ inhuawei.com
 ini.litingxin.cn
 inimbus.com.au
 init.homekit.push.apple.com
+init.itunes.apple.com
 iniwjlpvtpq.localdomain
 inke.tv
 inkedginger.com

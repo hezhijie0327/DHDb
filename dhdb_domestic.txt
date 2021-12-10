@@ -7300,7 +7300,6 @@
 9ads.net
 9ailai.com
 9aimai.com
-9aiot.com
 9air.com
 9aoduo.com
 9aola.com
@@ -7960,6 +7959,7 @@ acceldata.xunyou.com
 accelink.com
 access-credit.meituan.com
 access.open.uc.cn
+access.speech.ai.xiaomi.com
 access.toggle.qq.com
 access.video.qq.com
 access1.tpns.tencent.com
@@ -10377,7 +10377,6 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.huya.com
-api.hybrid.xiaomi.com
 api.hyhuo.com
 api.iapps.ifeng.com
 api.iimedia.cn
@@ -19343,6 +19342,7 @@ corner.houyi.baofeng.net
 coro.benbaisteel.com
 corp.google.com
 corp.meitu.com
+corp.sina.com.cn
 corp.sogou.com
 corp.sohu.com
 corp.youdao.com
@@ -22471,7 +22471,6 @@ dispatcher.camera360.com
 dispatcher.is.autonavi.com
 dispatcher.is.autonavi.com.gds.alibabadns.com
 dispatcher.upmc.uc.cn
-display.360totalsecurity.com
 display.adhudong.com
 displink.com
 ditan360.com

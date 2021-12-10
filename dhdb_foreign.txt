@@ -4429,6 +4429,7 @@
 40shopping.com
 40tp.com
 40ya.com
+41-courier.push.apple.com
 41-courier2.push.apple.com
 41.courier-push-apple.com.akadns.net
 41.courier2-push-apple.com.akadns.net
@@ -5056,7 +5057,6 @@
 51lolo.com
 51lovo.com
 51lucy.com
-51luoben.com
 51mag.com
 51maimiao.com
 51maiwanju.com
@@ -8175,7 +8175,6 @@
 98198d.com
 98198e.com
 98198h.com
-98198k.com
 98198l.com
 98198m.com
 98198o.com
@@ -8983,6 +8982,7 @@ a1049.g2.akamai.net
 a1051.b.akamai.net
 a10695.actonservice.com
 a11058.actonservice.com
+a1108.gi3.akamai.net
 a1108.gi3.akamai.net.0.1.cn.akamaitech.net
 a11315.actonservice.com
 a11413003.actonservice.com
@@ -16988,6 +16988,7 @@ alt-images.codestream.com
 alt.com
 alt1-mtalk.google.com
 alt2-mtalk.google.com
+alt3-mtalk.google.com
 alt4-mtalk.google.com
 alt5-mtalk.google.com
 alt6-mtalk.google.com
@@ -21199,6 +21200,7 @@ assets.hcaptcha.com
 assets.igapi.com
 assets.klick.com
 assets.medicalnewstoday.com
+assets.msn.cn
 assets.net.zooplus.com
 assets.net.zooplus.fr
 assets.netizen.co
@@ -33042,6 +33044,7 @@ cbviho.easyvols.fr
 cbvjddh.23txt.com
 cby.me
 cc-api-teamprojects-ue1.adobe.io
+cc-api-teamprojects.adobe.io
 cc-asse-05-skype.cloudapp.net
 cc-asse-06-skype.cloudapp.net
 cc-asse-07-skype.cloudapp.net
@@ -33564,6 +33567,7 @@ cdn.minescripts.info
 cdn.mobicow.com
 cdn.mobileread.com
 cdn.mountainduck.io
+cdn.mouseflow.com
 cdn.mxpnl.com
 cdn.mysql.com
 cdn.nablabee.com
@@ -41335,6 +41339,7 @@ csdisco.com
 csdjy.com
 csdn.codecogs.com
 csdparty.com
+cse.google.com
 cse.google.com.hk
 cse3.chausport.com
 cseed.tv
@@ -69073,7 +69078,6 @@ goadservices.com
 goagent.11go.net
 goagent.biz
 goagent.codeplex.com
-goagentplus.com
 goajuzey.com
 goal.pl
 goal123.com
@@ -82496,7 +82500,6 @@ irreparablebench.com
 irresponsibleclassplunge.com
 irribay.com
 irrids.com
-irritatecheaplyintrigue.com
 irritatehopper.com
 irs01.com
 irs09.com
@@ -84057,7 +84060,6 @@ jeld-wen.ca
 jeld-wen.com
 jelita-reload.com
 jelivor.com
-jelllizard.com
 jellresistance.com
 jelly.mdhv.io
 jellyclick.com

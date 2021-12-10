@@ -8657,6 +8657,7 @@ adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.madserving.com
+adv.sec.miui.com
 adv.zuimeitianqi.com
 advbeta.madserving.com
 advert.api.thejoyrun.com
@@ -10323,6 +10324,7 @@ api.cheshi.com
 api.cloud.189.cn
 api.cn-weathernews.cn
 api.cntv.cn
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -18377,6 +18379,7 @@ cn.letou118.net
 cn.linkedin.com
 cn.made-in-china.com
 cn.man484.com
+cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.ntp.org.cn
 cn.pandora.net
@@ -21181,6 +21184,7 @@ data.haoma.sogou.com
 data.help.jr.mi.com
 data.hicloud.com
 data.highpin.cn
+data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
@@ -27363,6 +27367,7 @@ fn-tech.com
 fn0wz54v.dayugslb.com
 fn9rg2ol.p23.tc.cdntip.com
 fn9rg2ol.sched.sma.tdnsv5.com
+fnapi.4399sy.com
 fnc.cn
 fnet2124098.atobo.com
 fnetlink.com
@@ -28210,6 +28215,7 @@ game.61.com
 game.adwo.com
 game.ali213.net
 game.baichuanhd.cn
+game.bilibili.com
 game.chillyroom.com
 game.china.com
 game.eve.mdt.qq.com

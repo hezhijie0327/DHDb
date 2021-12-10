@@ -6342,6 +6342,7 @@
 861817.com
 861e41247bec0b954167a8d33f950ff9.dlied1.cdntips.net
 86215.com
+863my.com
 864bbdfae6014bd3019e9260.mdbook.cn
 86516.com
 865211.com
@@ -7534,7 +7535,6 @@ a.wanzhuang.com
 a.wifi33.com
 a.wkanx.com
 a.wo.cn
-a.xcar.com.cn
 a.xinxianshilb.com
 a.xixiyishu.com
 a.xizi.com
@@ -10258,7 +10258,6 @@ api-sc.wtzw.com
 api-service.chanmama.com
 api-sh.django.t.taobao.com.gds.alibabadns.com
 api-shoulei-ssl.xunlei.com
-api-skytone-4.vmall.com
 api-skytone-6.vmall.com
 api-svoice.le.com
 api-t.iqiyi.com
@@ -10507,7 +10506,6 @@ api.vip.miui.com
 api.vlightv.com
 api.vuevideo.net
 api.weibo.cn
-api.weibo.com
 api.weishi.qq.com
 api.weixin.qq.com
 api.wesure.cn
@@ -10708,7 +10706,6 @@ app-echo.com
 app-facade.youmi.net
 app-g.39.net
 app-gw.csdn.net
-app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
@@ -26679,7 +26676,6 @@ feed.youshu.cc
 feedads.g.doubleclick.net
 feedback-system.webapp.163.com
 feedback.aliexpress.com
-feedback.amsproxy.qq.com
 feedback.cn.ronghub.com
 feedback.zhangle.com
 feeddsp.cn
@@ -26760,6 +26756,7 @@ feirar.com
 feiren.com
 feishu.cn
 feisu.com
+feitian001.com
 feitianma.com
 feitianwu7.com
 feitsui.com
@@ -32346,7 +32343,6 @@ hlnmg.com
 hlpqbmqx.v1d.szbdyd.com
 hlpretty.net
 hlread.com
-hls.itunes.apple.com.mwcname.com
 hlsh5p1.douyucdn2.cn
 hlsh5p2.douyucdn2.cn
 hlslive.video.ptqy.gitv.tv
@@ -35449,7 +35445,6 @@ img.imgdb.cn
 img.imooc.com
 img.iplaysoft.com
 img.ithome.com
-img.jbzj.com
 img.jiaochengzhijia.com
 img.jiemian.com
 img.jiemian.com.wswebpic.com

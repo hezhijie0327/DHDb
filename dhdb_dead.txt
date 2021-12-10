@@ -3563,7 +3563,6 @@
 863.zyns.com
 863c4c0c521.se
 863iw40s.com
-863my.com
 864496.cc
 865ba.azurewebsites.net
 866lvyou.com
@@ -4401,6 +4400,7 @@ a.wlfng.com
 a.wlgnd.com
 a.wlmnt.com
 a.wyzmob.com
+a.xcar.com.cn
 a.xflnk.com
 a.xhnlf.com
 a.xigua110.com
@@ -4562,6 +4562,7 @@ a4.zhanzhang.net
 a40554.actonservice.com
 a40c129de3.com
 a418d4f43c3a32.com
+a42624.actonservice.com
 a433.com
 a43562.actonservice.com
 a43762.actonservice.com
@@ -7830,6 +7831,7 @@ analytics.newsinc.com
 analytics.nexon.com
 analytics.ngfiles.com
 analytics.oneplus.cn
+analytics.onesearch.id
 analytics.performable.com
 analytics.piksel.com
 analytics.prod.aws.ecnext.net
@@ -8128,6 +8130,7 @@ api-metrics-e2e.nonprod.flurry.com
 api-metrics-smoke.nonprod.flurry.com
 api-p.videomarket.jp
 api-skytone-2.vmall.com
+api-skytone-4.vmall.com
 api-umamusume.cygames.jp
 api-vtairanankou-production.mapbox.com
 api-zdj.com
@@ -8260,6 +8263,7 @@ api.vasb.cn
 api.w.inmobi.com
 api.wapa.taobao.com
 api.weathercn.com
+api.weibo.com
 api.weltevree.eu
 api.whizzone.com
 api.wtzw.com
@@ -8324,9 +8328,11 @@ apocence.com
 apopgo.com
 apopt.hbmediapro.com
 apou.hopto.org
+app-a01.lp1.npns.srv.nintendo.net
 app-analytics.huami.com
 app-down.xiaohaowen.com
 app-hackss.com
+app-measurement.com
 app-sage.com
 app-site-association.g.aaplimg.com
 app-store.wang
@@ -8679,6 +8685,7 @@ arapurayil.com
 aras2shop.com
 arbadgika.ru
 arboxyl.com
+arc.msn.com
 arc.pub
 arc1.msn.com
 arcadebanners.com
@@ -9031,6 +9038,7 @@ atshops1.ru
 att-download.com
 att-idns.net
 att-mail.com
+attacketslovern.info
 attacketsun.space
 attackfile.com
 attackscabbagevengeance.com
@@ -9978,6 +9986,7 @@ bayonetbikes.com
 baysidethorntown.com
 baywttgdhe.do
 baywttgdhe.download
+bazaarvoice-prod-01.dn.apigee.net
 bazandegan.com
 bazarajor.com
 bazenatuzu.com
@@ -11286,6 +11295,7 @@ bmw-world.net
 bmw100.cn
 bmwarchiv.at
 bmwarchiv.de
+bmwchampionshipusa.com
 bmwworld.net
 bmxg.xyz
 bn016.com
@@ -13795,6 +13805,7 @@ checkin.gstatic.com
 checkingfree.thebig-centeralplacecontentprepared.review
 checkingnotifications.org
 checkinonlinehere.com
+checkip.synology.com
 checkipv6.synology.com
 checkport.synology.com
 checkreliableupdatinglatest.info
@@ -14629,6 +14640,7 @@ cm-trk5.com
 cm.adkmob.com
 cm.admaster.com.cn
 cm.bilibili.com
+cm.ctnsnet.com
 cm.g.doubleclick.net
 cm.it.overture.com
 cm.keywordsconnect.com
@@ -15900,6 +15912,7 @@ critical-failure-alert0079.48mn19047307.kw15pdy8xzt4es2man.bid
 critical-failure7139.36tj24166802.b18e5dbf3a0455228n.xyz
 critical-system-alertlf7f27.stream
 criticaldefaulterrorx02158.com
+crl.digicert-cn.com
 crl.pki.goog
 crl.trust-provider.com
 crl.verisign.com
@@ -16532,6 +16545,7 @@ cssmxx.com
 cssplus.org
 cssyz.xyz
 cssyzxx.com
+cstat.apple.com
 cstjyg.com
 cstm.gusuwang.com
 cstrader.top
@@ -16703,6 +16717,7 @@ cvp7.asvoxod.ru
 cvp8.asvoxod.ru
 cvtr.io
 cvxctbdyjwun.com
+cw.addthis.com
 cw.pub
 cw49z0.cn
 cwb201.goo.ne.jp
@@ -22178,6 +22193,7 @@ extend-battery-life.com
 extend-list.net
 extension4game.org
 extensiongames.net
+extensions-discovery-images.twitch.tv
 extensions-games.com
 extensions.ftalk.com
 extensions.ftalking.com
@@ -22847,6 +22863,7 @@ feed.monad-rtb.com
 feed.teasermaster.ru
 feed.youshu.cc.w.kunlunle.com
 feed111.com
+feedback.amsproxy.qq.com
 feedback.kukuplay.com
 feedback.qy.net
 feedback.umeng.com
@@ -23775,6 +23792,7 @@ free.gounzip.com
 free.hostdepartment.com
 free.hotsocialz.com
 free.moliwebss.com
+free.webmailworld.com
 free10k-vbucks.icu
 free2.jp
 free247downloads.com
@@ -24605,6 +24623,7 @@ gaituxiu.com
 gaixue.com
 gajomusiju.xyz
 gakogedifoda.ru
+gakseeft.com
 gala-navi.com
 galaxy-case.com
 galaxy-deals.com
@@ -25776,6 +25795,7 @@ go.nesnode.com
 go.net-dj97.stream
 go.nzse.ac.nz
 go.ofn.org
+go.opsani.com
 go.optifuze.com
 go.paymode.com
 go.pcci.edu
@@ -28110,6 +28130,7 @@ hlpidkr.ru
 hlqoefai.cn
 hlqp.app
 hlrml.cn
+hls.itunes.apple.com.mwcname.com
 hlsm.net
 hlstlyy.com
 hlu9tseh.men
@@ -29821,6 +29842,7 @@ img.ifeng.com.lxdns.com
 img.il8r.com
 img.imagecdn.cn
 img.itaotuhuo.com
+img.jbzj.com
 img.jc90h.com
 img.jgchq.com
 img.jjkaifa.com

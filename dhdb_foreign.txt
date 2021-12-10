@@ -891,6 +891,7 @@
 103.com
 103.hk
 103092804.com
+103153.com
 1031freshradio.ca
 10339.com
 103bees.com
@@ -18238,6 +18239,7 @@ android-x86.org
 android.9p998.com
 android.bcfads.com
 android.bigresource.com
+android.clients.google.com
 android.com
 android.googleapis.com
 android.informer.com
@@ -18995,6 +18997,7 @@ api.alphaadmins.net.zooplus.de
 api.amazon.com
 api.americanphysician.com
 api.ampiri.com
+api.amplitude.com
 api.analytics.omgpop.com
 api.api861861.com
 api.apidocs-repo.net.zooplus.de
@@ -33594,6 +33597,7 @@ cdn.preciso.net
 cdn.printfriendly.com
 cdn.propellerads.com
 cdn.pushalert.co
+cdn.quantummetric.com
 cdn.query.prod.cms.msn.com
 cdn.ravenjs.com
 cdn.rawgit.com
@@ -42064,6 +42068,7 @@ custom-campaign.com
 custom-essays-online.co.uk
 custom-iphonecase.com
 custom.crypto-webminer.com
+custom.plausible.io
 custom.specialtymfg.com
 customad.cnn.com
 custombeatsbydrebuy.com
@@ -42917,6 +42922,7 @@ d239g0z67jcted.cloudfront.net
 d23guct4biwna6.cloudfront.net
 d23iz4esrwkib6.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
+d23pi6hvdpcc5i.cloudfront.net
 d23xhr62nxa8qo.cloudfront.net
 d240937yockcdo.cloudfront.net
 d241ujsiy3yht0.cloudfront.net
@@ -43004,6 +43010,7 @@ d2ghscazvn398x.cloudfront.net
 d2glav2919q4cw.cloudfront.net
 d2gt2ux04o03l1.cloudfront.net
 d2gt9oovykfp1z.cloudfront.net
+d2h67oheeuigaw.cloudfront.net
 d2ho1n52p59mwv.cloudfront.net
 d2hvwfg7vv4mhf.cloudfront.net
 d2i4wzwe8j1np9.cloudfront.net
@@ -47923,6 +47930,7 @@ doh.42l.fr
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.au.ahadns.net
+doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
 doh.dnslify.com
@@ -54902,6 +54910,7 @@ evs.sgmt.loom.com
 evsc.org.au
 evschool.net
 evsembu.com
+evt-na.klarnaservices.com
 evt.collarity.com
 evt.houzz.com
 evt.izooto.com
@@ -61569,6 +61578,7 @@ g.itespresso.fr
 g.kfd.me
 g.libnull.com
 g.linkscholar.org
+g.live.com
 g.log.ad-locus.com
 g.mashable.com
 g.page
@@ -67842,6 +67852,7 @@ go.rogersgray.com
 go.rolanddg.com
 go.rolanddg.eu
 go.rolanddga.com
+go.roseburg.com
 go.rosseto.com
 go.rosslynva.org
 go.roundhillinvestments.com
@@ -76431,6 +76442,7 @@ i.imgur.com
 i.instagram.com
 i.interia.pl
 i.j2j.ru
+i.jads.co
 i.jeded.com
 i.jsrdn.com
 i.justblinds.com

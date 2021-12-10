@@ -449,7 +449,6 @@
 102c3607fc.com
 102sihu.com
 1030car.com
-103153.com
 1032.com
 10399888.com
 104.114.0.128.in-addr.arpa
@@ -7086,6 +7085,7 @@ aid.chinayk.com
 aid.send.microad.jp
 aidc.origin-apple.com.akadns.net
 aidebaobei.com
+aidefence.org
 aideschool.com
 aidpaper.com
 aidujiudian.com
@@ -7894,7 +7894,6 @@ android-core.org
 android-sdk31.transpera.com
 android-updates.net
 android-win-reward.com
-android.clients.google.com
 androidapgameshacks.com
 androidappsgameshacks.com
 androidapsgameshacks.com
@@ -8055,7 +8054,6 @@ aocde.com
 aochunsy.com
 aoclia.com
 aocslb.com
-aod-image-material.cdn.bcebos.com
 aodabo.tech
 aodongjiaosu.com
 aoerdz.com
@@ -8161,7 +8159,6 @@ api.adsymptotic.com
 api.adv.ott.cibntv.net
 api.aeon.hashvault.pro
 api.ahjinshu.com
-api.amplitude.com
 api.andapp.jp
 api.appfireworks.com
 api.appjiagu.com
@@ -8612,7 +8609,6 @@ appsrv1.madserving.cn
 appsrv1.madserving.com
 appsrv4.madserving.com
 appstoore.online
-appstore.pandora.xiaomi.com
 appstoreapple.cn
 appstreets.com
 appsunlocker.com
@@ -8793,7 +8789,6 @@ aryasport.com
 arzon.jp
 as.5to1.com
 as.alipayobjects.com
-as.alipayobjects.com.danuoyi.tbcache.com
 as.baidu.cn
 as.cf
 as.cfcdist.loan
@@ -10314,7 +10309,6 @@ beacon.sojern.com
 beacon.walmart.com
 beacon.watch.impress.co.jp
 beacon.www.theguardian.com
-beacons.gcp.gvt2.com
 beacons.helium.com
 beamigo.pw
 beamigo.ru
@@ -13206,7 +13200,6 @@ cdn.pickyopahs.com
 cdn.plopx.com
 cdn.puata.info
 cdn.pulpix.com
-cdn.quantummetric.com
 cdn.qutyan8848.com
 cdn.radiatewheel.info
 cdn.softlayer.net
@@ -13216,7 +13209,6 @@ cdn.static-cnt.bi
 cdn.static-cnt.bid
 cdn.static.biqudu.la
 cdn.streambeam.io
-cdn.taboola.com.cn.w.kunlungr.com
 cdn.techcommunity.microsoft.com
 cdn.tianyancha.com.wswebpic.com
 cdn.ttkx22n.com
@@ -16697,7 +16689,6 @@ cus.adsmogo.mobi
 cus.adsmogo.org
 cusdvs.net
 custom.allistracking.com
-custom.plausible.io
 custom3hurricanedigitalmedia.com
 customer-security.online
 customer.cludo.com
@@ -17186,7 +17177,6 @@ d23hlq7yv8w2zs.cloudfront.net
 d23hlwijd437bo.cloudfront.net
 d23kw0xzsxgmkz.cloudfront.net
 d23nscda4f4lvy.cloudfront.net
-d23pi6hvdpcc5i.cloudfront.net
 d23rdjhd16xqjq.cloudfront.net
 d248vmlhhlizvm.cloudfront.net
 d249ewt9w1yjhv.cloudfront.net
@@ -17272,7 +17262,6 @@ d2gxp14gfgh0mu.cloudfront.net
 d2gxuddufi23dd.cloudfront.net
 d2h49uasc4f4l7.cloudfront.net
 d2h5dkhxvxyg97.cloudfront.net
-d2h67oheeuigaw.cloudfront.net
 d2hiddpkp3wlza.cloudfront.net
 d2hit.com
 d2hmder3sb33g4.cloudfront.net
@@ -19200,7 +19189,6 @@ doghauky.net
 dogopics.com
 dogus-ads-cdn.dygdigital.com
 doh-de.blahdns.com
-doh.dns.apple.com
 doh.doh.my.id
 dohs95d6tfj19.cloudfront.net
 dohsbq9npz1a9.cloudfront.net
@@ -19809,7 +19797,6 @@ dtcstcltwzuno.com
 dtd999.com
 dtdxcw.com
 dtlgalleryint.cloudapp.net
-dtmall-tel.alicdn.com
 dtmall-tel.alicdn.com.danuoyi.tbcache.com
 dtmpub.com
 dtmvdvtzf8rz0.cloudfront.net
@@ -22082,7 +22069,6 @@ evolutionmedia.bbelements.com
 evovasalup.com
 evra0o.myftp.biz
 evrida.ro
-evt-na.klarnaservices.com
 evzimlox.cn
 evztib.xyz
 ew309amaan.hopto.org
@@ -24525,7 +24511,6 @@ g.hngjjxsb.com
 g.hutao1.cn
 g.hw6.com
 g.letaojuan68.com
-g.live.com
 g.mbm.cn.miaozhen.com
 g.miaozhen.com
 g.pconline.com.cn.wscdns.com
@@ -25825,7 +25810,6 @@ go.raistonecapital.com
 go.redandyellow.co.za
 go.renaissancedental.com
 go.retailcapital.co.za
-go.roseburg.com
 go.shelby.com
 go.sleever.com
 go.smaato.com
@@ -29088,7 +29072,6 @@ i.domob.cn
 i.dreamfull.cn
 i.dx.vip.tantanapp.com
 i.hzblic.com
-i.jads.co
 i.jiajv.net
 i.jumptap.com
 i.jyhwt.cn
@@ -29109,7 +29092,6 @@ i.xx.openx.com
 i.youzipi.net
 i.ytimg.com
 i0.hdslb.com
-i0.hdslb.com.download.ks-cdn.com
 i0.sinaimg.cn
 i000o.com
 i027m.top

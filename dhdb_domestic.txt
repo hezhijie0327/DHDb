@@ -8985,7 +8985,6 @@ aidanji.com
 aidaxing.com
 aidaxue.com
 aideep.com
-aidefence.org
 aider-res.meizu.com
 aidianji.net
 aidigger.com
@@ -10062,6 +10061,7 @@ aobosoft.com
 aocdn.com
 aoch.com
 aod-cn-lb.itunes-apple.com.akadns.net
+aod-image-material.cdn.bcebos.com
 aod-image-material.cdn.bcebos.com.a.bdydns.com
 aod-image.baidu.com
 aod-image.baidu.com.a.bdydns.com
@@ -10928,6 +10928,7 @@ appstochina.com
 appstore.browser.qq.com
 appstore.cdn.pandora.xiaomi.com
 appstore.ldmnq.com
+appstore.pandora.xiaomi.com
 appstore.ptmi.gitv.tv
 appstoreisvpic.alipayobjects.com
 appstoreisvpic.alipayobjects.com.danuoyi.tbcache.com
@@ -11114,6 +11115,7 @@ as-hitech.com
 as-proxy.rnd.huawei.com
 as-vip.missfresh.cn
 as.61.com
+as.alipayobjects.com.danuoyi.tbcache.com
 as.aplus.pptv.com
 as.aw.mt.mob.com
 as.baidu.com
@@ -12719,6 +12721,7 @@ beacon.sparta.mig.tencent-cloud.net
 beacon.tingyun.com
 beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
+beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
@@ -15745,6 +15748,7 @@ cdn.sspai.com
 cdn.staticfile.org
 cdn.svoice.le.com
 cdn.taboola.com.cn
+cdn.taboola.com.cn.w.kunlungr.com
 cdn.tanx.com
 cdn.tgp.qq.com
 cdn.tianmidian.com
@@ -19374,6 +19378,7 @@ countly.mail.163.com
 countpage.sznews.com
 countpvn.light.fang.com
 countubn.light.soufun.com
+coupon.m.jd.com
 coupon996.com
 coupons.console.aliyun.com
 covcec.com
@@ -23748,6 +23753,7 @@ dtjl5kx3.v1d.szbdyd.com
 dtjl5no3.v1d.szbdyd.com
 dtk.qunaermai.com
 dtlog.szy.cn
+dtmall-tel.alicdn.com
 dtmall-tel.alicdn.com.danuoyi.tbcache.com.x.xipushuju.net
 dtmao.cc
 dtmuban.com
@@ -34190,6 +34196,7 @@ i.zzb6.cn
 i0-prosmall-fd.zol-img.com.cn
 i0.article.fd.zol-img.com.cn
 i0.hdslb.com.cdn20.com
+i0.hdslb.com.download.ks-cdn.com
 i0.letvimg.com
 i0349.com
 i0746.com

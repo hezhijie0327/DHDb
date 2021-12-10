@@ -2753,6 +2753,7 @@
 28kai.cc
 28nxuy.tdum.alibaba.com
 28rv.com
+28tlc.com
 28tui.com
 28wxlc.tdum.alibaba.com
 28y.com
@@ -7363,7 +7364,6 @@
 9jmqja.tdum.alibaba.com
 9juewu.com
 9jx.com
-9k9by.com
 9k9k.com
 9kd.com
 9ku.com
@@ -10201,6 +10201,7 @@ apgoview.com
 aphidic.com
 api-20200527.xkspbz.com
 api-access.pangolin-sdk-toutiao-b.com
+api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com.qr.uuhimalayanqm.com
 api-accounts.firefox.com.cn
@@ -10329,6 +10330,7 @@ api.cupid.dns.iqiyi.com
 api.cupid.iqiyi.com
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
+api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -36148,6 +36150,7 @@ ins-p6ep9d2n.ias.tencent-cloud.net
 ins-pvfn84ga.ias.tencent-cloud.net
 ins-qq3c4kru.ias.tencent-cloud.net
 ins-qw1u0vkn.ias.tencent-cloud.net
+ins-r23tsuuf.ias.tencent-cloud.net
 ins-suceuter.ias.tencent-cloud.net
 ins-t3hgqfmh.ias.tencent-cloud.net
 ins-u4xprfqu.ias.tencent-cloud.net

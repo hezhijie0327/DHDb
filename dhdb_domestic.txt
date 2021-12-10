@@ -865,6 +865,7 @@
 1084250.b2b.jinanfa.cn
 1084525.b2b.jinanfa.cn
 1084878.b2b.jinanfa.cn
+10865.com
 1086662.p23.tc.cdntip.com
 1086662.sched.sma.tdnsv5.com
 1088216.b2b.jinanfa.cn
@@ -2190,6 +2191,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
+2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -10715,6 +10717,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -18913,6 +18916,7 @@ cocounion.com
 cocustomerservice.alipay-eco.com
 cod.southmoney.com
 code.37cs.com
+code.bdstatic.com
 code.csdn.net
 code.ditiezu.net
 code.kejet.com
@@ -27627,6 +27631,7 @@ freshhema.com
 freshnewsnet.com
 frhelper.com
 friendeye.com
+fright-tattoo.com
 fringe-zero.com
 frishoes.com
 frlh168.com
@@ -29990,6 +29995,7 @@ gui66.com
 guibook.com
 guid.tpns.sh.tencent.com
 guid.tpns.tencent.com
+guide-acs.m.taobao.com
 guidechem.com
 guiderank-app.com
 guiderank.org
@@ -36776,6 +36782,7 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
+item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com

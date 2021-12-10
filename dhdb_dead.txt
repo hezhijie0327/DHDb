@@ -1,5 +1,6 @@
 0-courier.push.apple.com
 0.pic.paopaoche.net
+0.pool.ntp.org
 00-gov.cn
 00.mercax.com
 00000wg.com
@@ -4283,6 +4284,7 @@ a.admaxserver.com
 a.admob.com
 a.ads.cn.miaozhen.com
 a.ai.inmobi.com
+a.alipayobjects.com
 a.alipayobjects.com.danuoyi.tbcache.com
 a.armystar.com
 a.as-eu.falkag.net
@@ -4513,6 +4515,7 @@ a15172379.alturo-server.de
 a152.cc
 a15256378569ec595.com
 a16422345985850d.cdn.jiashule.com
+a16529.actonservice.com
 a16533.actonservice.com
 a1662.oadz.com
 a17869.actonservice.com
@@ -4769,6 +4772,7 @@ ablen11.tk
 ablen12.tk
 ablida.net
 ablink.e.hungryjacks.com.au
+ablink.emails.vida.com
 ablink.info.sofi.org
 ablink.track.popeyes.com
 abluestore.com
@@ -5828,6 +5832,7 @@ ads.cdn.viber.com
 ads.cdnow.com
 ads.celldorado.com
 ads.chalomumbai.com
+ads.channel4.com
 ads.checkm8.co.za
 ads.chipcenter.com
 ads.cjonline.com
@@ -6798,6 +6803,7 @@ adzservice.theday.com
 adzworld.in
 ae-gb.mgid.com
 ae.hao123.com
+ae01.alicdn.com
 ae02.alicdn.com
 ae25079147984d4d.com
 ae4c49d4be.com
@@ -8175,6 +8181,7 @@ api.browser.miui.com
 api.bunzlaucastle.com
 api.calq.io
 api.cdnbye.com
+api.cloud.huawei.com
 api.cmt.mob.com
 api.coin-hive.com
 api.coinhive.com
@@ -8279,6 +8286,7 @@ api02.thebigknow.com
 api1.sg8888.ws
 api17tp.apitilt.com
 api2.play.cn
+api3-normal-c-lf.amemv.com
 api3-normal-lq.toutiaoapi.com.w.cdngslb.com
 api861861.com
 apiairasia.com
@@ -8754,6 +8762,7 @@ array608.prod.do.dsp.mp.microsoft.com
 array614.prod.do.dsp.mp.microsoft.com
 array803.prod.do.dsp.mp.microsoft.com
 array806.prod.do.dsp.mp.microsoft.com
+array807.prod.do.dsp.mp.microsoft.com
 array813.prod.do.dsp.mp.microsoft.com
 arrietty.nrj.fr
 arrombadodenunciaai.hopto.org
@@ -8926,6 +8935,7 @@ assets.msn.cn
 assets.msn.com
 assets.onestore.ms
 assets.ps.easou.com
+assets.taobao.com.w.cdngslb.com
 assets.uxengine.net
 assets01.thebigknow.com
 assetscdn.stream
@@ -9004,6 +9014,7 @@ atfjk.com
 atgsvcs.com
 atguigu.org
 athenaeizou.com
+ati-a1.946d001b783803c1.xhst.bbci.co.uk
 aticdn.net
 atilohdxsg.com
 atitsc.com
@@ -9772,6 +9783,7 @@ banner.chimeratool.com
 banner.cooguo.com
 banner.eurogrand.com
 banner.free6.com
+banner.hpmdnetwork.ru
 banner.img.static.youmi.net
 banner.interich.com
 banner.ipmart.com
@@ -14428,6 +14440,7 @@ click.investopedia.com
 click.israelinfo.ru
 click.livejasmin.com
 click.mmosite.com
+click.parallels.com
 click.pv.focus.cn
 click.realclick.co.kr
 click.supfast.net
@@ -14604,6 +14617,7 @@ cloudsoar.com
 cloudss.pw
 cloudstack-china.org
 cloudtcp.net
+cloudvideo.thepaper.cn
 cloudvip1.com
 cloudwp.io
 cloudy2.gq
@@ -17180,6 +17194,7 @@ d23hlq7yv8w2zs.cloudfront.net
 d23hlwijd437bo.cloudfront.net
 d23kw0xzsxgmkz.cloudfront.net
 d23nscda4f4lvy.cloudfront.net
+d23pi6hvdpcc5i.cloudfront.net
 d23rdjhd16xqjq.cloudfront.net
 d248vmlhhlizvm.cloudfront.net
 d249ewt9w1yjhv.cloudfront.net
@@ -17899,6 +17914,7 @@ data-vp.com
 data.adserve.tomoimg.cn
 data.apn.co.nz
 data.applovin.com
+data.biancheng.net.w.kunlunno.com
 data.bilibili.com
 data.campaign.toyscenter.it
 data.cbsi.com.cn
@@ -18980,6 +18996,7 @@ dm.ws8.org
 dm.xjfat1.com
 dm.yjbys.com
 dm.zhiyuanteam.com
+dm2306.settings.live.net
 dm3a8dsjmaqu2.cloudfront.net
 dm44143bsn99b.cloudfront.net
 dm50.yxlady.com
@@ -20743,6 +20760,7 @@ e6396.com
 e673.dsce9.akamaiedge.net
 e68cname.com
 e6916adeb7e46a883.com
+e6987.a.akamaiedge.net
 e69901889ae63cc3e5ac63cbbdb26c30040199cce97f5fc6.dlied1.cdntips.net
 e6c34e889b9fd1645909fe6b275a80dc.jddebug.com
 e6dd8b002ff776409a59337018e0957a.jddebug.com
@@ -21047,6 +21065,7 @@ ede09a2eab.5150ab4aa5.com
 edesf.xyzxmark.cn
 edfuyyweyz.com
 edge-dl.andomedia.com
+edge.ivideo.sina.com.cn
 edge.microsoft.com
 edge.sqweb.com
 edge2.digicert.com
@@ -22588,6 +22607,7 @@ fanqie.im
 fanqingzhou.cn
 fanque.cc
 fanren8.com
+fans.91p20.space
 fans580.com
 fanshui.net
 fansi365.com
@@ -22630,6 +22650,7 @@ fascinatedpartialwheeled.com
 fashion-hat.cn
 fashion-live.net
 fashion.bozkurtfurkan.com
+fashion.sina.com.cn
 fashionabacus.com
 fashionapology.com
 fashionnightingale.com
@@ -22973,6 +22994,7 @@ fetchback.com
 fetiononline.com
 fetish-sexe.biz
 fevte.com
+fewergkit.com
 fexiaen.com
 fexperies.info
 fextor.ru
@@ -23013,6 +23035,7 @@ fg-z.com
 fgc1.market.xiaomi.com
 fgcash.com.br
 fge9vbrzwt.bid
+fgfgnbmeieorr910.com
 fggwavfjucnyw.com
 fghlmiaoqrtyfl65ha0ss22k3dqi6lng.com
 fghm.ga25.com
@@ -23677,6 +23700,7 @@ fp-afd-nocache.azureedge.net
 fp-afd.azureedge.net
 fp-as.azureedge.net
 fp-vp-nocache.azureedge.net
+fp-vs.azureedge.net
 fp.jj59.com
 fp.msedge.net
 fp.oneshotdate.com
@@ -25581,6 +25605,7 @@ gjsq.biz
 gjtjjp.com
 gju2.alicdn.com
 gju2.alicdn.com.danuoyi.tbcache.com
+gjusp.alicdn.com
 gjxh.org
 gjyoulun.com
 gk.com
@@ -26811,6 +26836,8 @@ h5ay.com
 h5data.com
 h5hosting-drcn.dbankcdn.cn
 h5jw.com
+h5speed.m.jd.com
+h5ssl.1sapp.com
 h5vv.video.qq.com
 h5vv6.video.qq.com
 h6.x0b9x4w.cn
@@ -28810,6 +28837,7 @@ hulyyabo.xyz
 humandiven.com
 humanredirect.ru
 humanrightsbriefing.org
+humb.apple.com
 humb.apple.com.akadns.net
 huming.com
 humio-insidethebox.blockfi.com
@@ -29331,6 +29359,7 @@ icyif.com
 id.au
 id.iownyour.org
 id.priceprice.com
+id.sharedid.org
 id.sv.rkdms.com
 id1.cn
 id9uep.ru

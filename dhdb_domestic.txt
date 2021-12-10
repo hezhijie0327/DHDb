@@ -10602,6 +10602,7 @@ apijs1.ksapisrv.com
 apijs2.gifshow.com
 apijs2.ksapisrv.com
 apikey.map.qq.com
+apilocate.amap.com
 apilog-web.acfun.cn
 apilog.app.acfun.cn
 apim1g.mathpool.cn
@@ -13368,6 +13369,7 @@ biznewscn.com
 bizopsmall.com
 bizport.cn
 bizres.bj.bcebos.com
+bizsec-auth.alicdn.com
 bizsec-auth.alicdn.com.danuoyi.tbcache.com
 bizsn.com
 bizsofts.com
@@ -15641,6 +15643,7 @@ cdn-x-w.momentcdn.net
 cdn-x-w.momentcdn.net.cname.yunjiasu-cdn.net
 cdn-xalbum-compress.xiaoniangao.cn
 cdn-xalbum-mp4.xiaoniangao.cn
+cdn-xalbum2.xiaoniangao.cn
 cdn-xphoto2.xiaoniangao.cn
 cdn-xyx.raink.com.cn
 cdn.0i-i0.com
@@ -30113,6 +30116,7 @@ guzhangting.com
 guzhifengds.com
 guzhiwang.com
 guziyy.com
+guzzoni.apple.com
 guzzservices.com
 gv1.xdrig.com
 gv1.xdrig.com.td.fusion.iaas.jdcloud.com
@@ -30600,6 +30604,7 @@ h5seeds-open.xycdn.com.gslb.p2cdn.com
 h5sg.com
 h5shuo.com
 h5speed.m.jd.com.gslb.qianxun.com
+h5ssl.1sapp.com
 h5ssl.1sapp.com.wswebpic.com
 h5static.kuwo.cn
 h5static.kuwo.cn.m.alikunlun.com
@@ -40631,7 +40636,6 @@ kuku9.com
 kuku99.com
 kukuchuangxiang1.com
 kukuchuangxiang4.com
-kukulm.com
 kukupao.com
 kukupig.com
 kukushow.com
@@ -50684,7 +50688,6 @@ piaochong.com
 piaode.ren
 piaodown.com
 piaofang168.com
-piaohua.com
 piaohuafl.com
 piaoliang.com
 piaolianghuay.com

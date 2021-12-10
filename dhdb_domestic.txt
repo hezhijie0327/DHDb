@@ -8129,6 +8129,7 @@ activity.clotfun.xyz
 activity.cubejoy.com
 activity.erdfgj.com
 activity.gtimg.cn
+activity.hdslb.com
 activity.hnhnmg.com
 activity.kugou.com.wswebcdn.com
 activity.m.kuaishou.com
@@ -15719,6 +15720,7 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
+cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -22363,6 +22365,7 @@ dimg04.c-ctrip.com.wscdns.com
 dimg05.c-ctrip.com
 dimg05.c-ctrip.com.wscdns.com
 dimg06.c-ctrip.com.wscdns.com
+dimg07.c-ctrip.com
 dimg07.c-ctrip.com.wscdns.com
 dimg08.c-ctrip.com
 dimg08.c-ctrip.com.wscdns.com
@@ -25767,6 +25770,7 @@ esk365.com
 eskgn.com
 eskysky.com
 eslosity.com
+esmapi.dangbei.net
 esmartwave.com
 esnai.com
 esnai.net
@@ -48651,6 +48655,7 @@ ofloc.map.n.shifen.com
 ofo.com
 ofo.so
 ofpay.com
+ofuns.com
 ofweek.com
 ofyoo.com
 og.zyzjpx.cn

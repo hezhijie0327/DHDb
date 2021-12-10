@@ -4,6 +4,7 @@
 0.gravatar.com
 0.nextyourcontent.com
 0.oldgyhogola.com
+0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
 000000000000000000000000000000000000000000000000000000000000001.com
@@ -5455,7 +5456,6 @@
 555dy.fun
 555fl.com
 555lu.com
-555p555p.com
 555vps.cn
 555x.org
 556.info.tm
@@ -19691,6 +19691,7 @@ appdatum.com
 appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
+appdump.nie.netease.com
 appduu.com
 appdynamics.co.uk
 appdynamics.com
@@ -21078,6 +21079,7 @@ asmodeusfields.com
 asmr8.org
 asnbank.nl
 asnebula.cf
+asnet.pw
 asnetworks.de
 asnlab.com
 asnlab.org
@@ -24290,6 +24292,7 @@ baywednesday.com
 baywest.ac
 baywords.com
 bazaartracker.com
+bazaarvoice-prod-01.dn.apigee.net
 bazaarvoice.com
 bazar.bg
 bazarartelar.net
@@ -30778,6 +30781,7 @@ bw3785.com
 bw558558.com
 bw68vip.com
 bw8558.com
+bw8805.com
 bw88178.com
 bw8863.com
 bw888555.com
@@ -42830,6 +42834,7 @@ d1p3zboe6tz3yy.cloudfront.net
 d1p7elpjrt6qav.cloudfront.net
 d1pozdfelzfhyt.cloudfront.net
 d1q20hs7kavmn5.cloudfront.net
+d1q6f0aelx0por.cloudfront.net
 d1q9i3s0lcd3fx.cloudfront.net
 d1qc76gneygidm.cloudfront.net
 d1qggq1at2gusn.cloudfront.net
@@ -45025,6 +45030,7 @@ definebabe.com
 definedlaunching.com
 definefetish.com
 definitial.com
+definitionupdates.microsoft.com
 defiques.com
 defisolutions.com
 defpush.com
@@ -49726,6 +49732,7 @@ dynatempintl.com
 dynathome.net
 dynawebinc.com
 dyncdn.me
+dyncsr31.net.zooplus.de
 dyndns-free.com
 dyndns-home.com
 dyndns-ip.com
@@ -66908,6 +66915,7 @@ go.lulalend.co.za
 go.lum.it
 go.lumiata.com
 go.lumyna.com
+go.luvano-kaminofen.de
 go.luxuriavacations.com
 go.luxurycruiseconnections.com
 go.lwtears.com
@@ -69392,7 +69400,6 @@ goodjzjg.com
 goodkind.ru
 goodkino.biz
 goodline.info
-goodlines4burnfat.world
 goodlooknews.net
 goodlucknet.com
 goodmeasure.io
@@ -70691,6 +70698,7 @@ gspe21.ls.apple.com
 gspe35-ssl.ls-apple.com.akadns.net
 gspe35-ssl.ls.apple.com
 gspe35-ssl.ls.apple.com.edgekey.net
+gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspot-discuss.com
 gspqch.cake.jp
@@ -74314,6 +74322,7 @@ hmyjpt.com
 hmyz.com
 hmzsfmjc.com
 hn-button.herokuapp.com
+hn163fck.com
 hn5a.com
 hn6gc.cnamedns.net
 hnasd.com
@@ -82145,7 +82154,6 @@ ipsxtv.site
 ipt.ch
 iptautup.com
 iptmgi.akan.co.kr
-iptonaib.net
 iptrack.io
 iptv.com.tw
 iptvbin.com

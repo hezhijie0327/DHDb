@@ -1659,6 +1659,7 @@
 1708131.v9.sched.tdnsv2.com
 1708359d3207f3032a9888955ad309a3.dlied1.cdntips.net
 170hi.com
+170mv.com
 1713023.b2b.liebiao.com
 1713023.shop.liebiao.com
 1716534.b2b.liebiao.com
@@ -20417,6 +20418,7 @@ d.youth.cn
 d.youth.cn.wswebcdn.com
 d.yoyi.tv
 d.yypbao.com
+d.zhangle.com
 d.zhidian3g.cn
 d.ziyuanm.com
 d0.ananas.chaoxing.com
@@ -20504,6 +20506,7 @@ d2.showself.com
 d2.sina.com.cn
 d2.sinaimg.cn
 d2.static.yximgs.com
+d2.static.yximgs.com.w.cdngslb.com
 d2.ugslb.com
 d2.yiche.com
 d20.net
@@ -27494,6 +27497,7 @@ foundertech.com
 foundertype.com
 founpad.com
 fountask.com
+fourier.alibaba.com
 fourier.taobao.com
 fovmy.com
 fox-studio.net
@@ -35086,6 +35090,7 @@ ilanx0.net
 ilaw66.com
 ilawpress.com
 ilce.alicdn.com
+ilce.alicdn.com.danuoyi.tbcache.com
 ileci.com
 ileedarson.com
 ileehoo.com

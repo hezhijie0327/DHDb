@@ -10392,6 +10392,7 @@ api.iplay.163.com
 api.iqiyi.com
 api.ishansong.com
 api.itaoxiaoshuo.com
+api.ithome.com
 api.ivideo.sina.com.cn
 api.jits.heytapmobi.com
 api.jobui.com
@@ -10404,6 +10405,7 @@ api.kkapp.com
 api.kmf.com
 api.kmovie.gifshow.com
 api.ktplay.com
+api.kuaishouzt.com
 api.ldmnq.com
 api.leancloud.cn
 api.lequ.ptqy.gitv.tv
@@ -11132,6 +11134,7 @@ as-hitech.com
 as-proxy.rnd.huawei.com
 as-vip.missfresh.cn
 as.61.com
+as.alipayobjects.com
 as.alipayobjects.com.danuoyi.tbcache.com
 as.aplus.pptv.com
 as.aw.mt.mob.com
@@ -11149,6 +11152,7 @@ as.weixin.qq.com
 as.xiaojukeji.com
 as1.m.hao123.com
 as1.wenku.baidu.com
+as2.binstream.live
 as3f.com
 as5.com
 asa.commerce.apple.com.cdn20.com
@@ -12695,6 +12699,7 @@ bdqnwh.com
 bds-cn.com
 bds.haochu.com
 bds.haochu.com.cname4009.yjs-cdn.com
+bds.snssdk.com
 bdsearch.2345.com
 bdsgps.com
 bdshuang.com
@@ -19747,6 +19752,7 @@ crimoon.net
 crispstata.com
 crl.apple.com
 crl.kaspersky.com
+crl.pki.goog
 crlcn.com
 crlf0710.com
 crlg.com
@@ -27431,6 +27437,7 @@ fongmong.com
 font.chinaz.com
 fontke.com
 fonts-gstatic.wp-china-yes.net
+fonts.googleapis.com
 fonts.gstatic.com
 fontstar.com.cn
 foodbk.com
@@ -31373,6 +31380,7 @@ hbrc.com
 hbrchina.org
 hbrchinese.org
 hbrd.net
+hbrfyl.com
 hbrqygr.com
 hbruicai.com
 hbrzkj.com

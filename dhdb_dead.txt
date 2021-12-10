@@ -1605,7 +1605,6 @@
 31du.wang
 31kan.com
 31sihu.com
-32-courier.push.apple.com
 32.3dxtras.com
 32.bit.ddns.ms
 32.css5.bid
@@ -4224,7 +4223,6 @@
 9xwk68.cn
 9yyg.cn
 9z2f.brizy5.ru
-a-0001.a-afdentry.net.trafficmanager.net
 a-cast.jp
 a-cn.duoyi.com.dycdn.com
 a-counter.com.ua
@@ -4256,6 +4254,7 @@ a-ups-presencecore4-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.southeastasia.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.eastus2.cloudapp.azure.com
+a-ups-presencecore6-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore7-prod-azsc.centralus.cloudapp.azure.com
@@ -8182,7 +8181,6 @@ api.insight.synology.com
 api.intense.hashvault.pro
 api.interaction.sohu.com
 api.intercom.io
-api.ithome.com
 api.jcswhg.com
 api.jetlore.com
 api.joybj.com
@@ -8191,7 +8189,6 @@ api.ketedata.com
 api.kingdata.ksyun.com
 api.kolpowered.com
 api.koudaikj.com
-api.kuaishouzt.com
 api.kwaizt.com
 api.l33tsite.info
 api.leadbolt.net
@@ -8755,7 +8752,6 @@ arvindtronik.iniserverku.com
 aryasport.com
 arzon.jp
 as.5to1.com
-as.alipayobjects.com
 as.baidu.cn
 as.cf
 as.cfcdist.loan
@@ -8771,7 +8767,6 @@ as00s.com
 as1.binstream.live
 as1.cfcnet.gdn
 as1.falkag.de
-as2.binstream.live
 as3.binstream.live
 as35q8.cn
 as4.binstream.live
@@ -10218,7 +10213,6 @@ bdn.dev
 bdqlz.com
 bdrmb.cn
 bds.hainan.net
-bds.snssdk.com
 bds.soarfi.cn
 bdsmforall.com
 bdsmluntan16.com
@@ -10509,6 +10503,7 @@ bestshopperrewards.com
 bestsign.tech
 bestskins.su
 bestskinsdota2.pro
+bestssn.com
 beststbuy.ru
 beststores4u.com
 bestsweepstakes.xyz
@@ -11966,7 +11961,6 @@ buzzfiles.net
 buzzreklam.com
 bv8888.com
 bvaff.com
-bvahezakk.com
 bvc.bilivideo.com
 bvcpedy6dyjgkkl.ru
 bvfsc.info
@@ -15840,7 +15834,6 @@ critical-failure7139.36tj24166802.b18e5dbf3a0455228n.xyz
 critical-system-alertlf7f27.stream
 criticaldefaulterrorx02158.com
 crl.digicert-cn.com
-crl.pki.goog
 crl.trust-provider.com
 crl.verisign.com
 crllmzsy.top
@@ -19094,7 +19087,6 @@ dogfoodstorage.net
 doghauky.net
 dogopics.com
 dogus-ads-cdn.dygdigital.com
-doh-de.blahdns.com
 doh.doh.my.id
 dohs95d6tfj19.cloudfront.net
 dohsbq9npz1a9.cloudfront.net
@@ -22176,7 +22168,6 @@ ezt-figyeld-blog.com
 ezt-figyeld.com
 eztnezdmeg-blog.com
 eztnezdmeg.info
-eztrck.com
 ezucods.cn
 ezucoo.com
 ezuploaded.com
@@ -23417,7 +23408,6 @@ font6.com
 fontostudni.club
 fonts.css.network
 fonts.google.com
-fonts.googleapis.com
 food-drink-bonuspath.com
 food-drink-rewardpath.com
 foodforyou.info
@@ -27252,7 +27242,6 @@ hbql.org
 hbqyj.org
 hbqzx.com
 hbrbmedia.com
-hbrfyl.com
 hbrjcspx.com
 hbryzx.net
 hbscjh.cn

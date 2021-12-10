@@ -10243,6 +10243,7 @@ ablink.email.pray.com
 ablink.email.pressreader.com
 ablink.emails.spothero.com
 ablink.emails.themarket.nz
+ablink.emails.vida.com
 ablink.engage.hipages.com.au
 ablink.engage.insighttimer.com
 ablink.enjoy.wonder.com
@@ -13184,6 +13185,7 @@ ads.businessstyle.vn
 ads.businessweek.com
 ads.camrecord.com
 ads.canalblog.com
+ads.cardea.se
 ads.careerbuilder.vn
 ads.carmudi.vn
 ads.carocean.co.uk
@@ -21651,7 +21653,6 @@ au-mg5.mail.yahoo.com
 au.arjo.com
 au.bms.maxmara.com
 au.com
-au.download.windowsupdate.com
 au.engage.genesiscare.com
 au.pool.ntp.org
 au.promo.skf.com
@@ -21843,6 +21844,7 @@ aurora-pro.com
 auroracheats.com
 auroramine.com
 aurorapush.cn
+aus5.mozilla.org
 ausa.org
 ausaview.com
 ausbeatsbydrdre.com
@@ -31608,7 +31610,6 @@ cachinese.com
 caci-online.fr
 cacnw.com
 cacre.org
-cacs100.com
 cacss.me
 cactifans.org
 cactusglobal.io
@@ -47563,6 +47564,7 @@ dns.google
 dns.hostux.net
 dns.kindle.com
 dns.moulticast.net
+dns.msftncsi.com
 dns.nextdns.io
 dns.njal.la
 dns.oszx.co
@@ -49057,6 +49059,7 @@ dslady.com
 dslp168.com
 dslr-forum.de
 dsm01pap001.settings.live.net
+dsm01pap001.storage.live.com
 dsm01pap002.settings.live.net
 dsm01pap002.storage.live.com
 dsm9427.com
@@ -55377,6 +55380,7 @@ external.fpac1-1.fna.fbcdn.net
 external.frec24-1.fna.fbcdn.net
 external.monerise.com
 external.net.zooplus.de
+external.simpleanalytics.com
 external.techopian.com
 externalprivacy.com
 externos.iw-advertising.com
@@ -59657,6 +59661,7 @@ foxypp.com
 foyilhardburly.com
 fozhu.rrsdl.com
 fp-afd-nocache-ccp.azureedge.net
+fp-afd-nocache.azureedge.net
 fp-afd.azureedge.us
 fp-afd.azurefd.net
 fp-afd.azurefd.us
@@ -76494,6 +76499,7 @@ i.v2ex.co
 i.vimeocdn.com
 i.w55c.net
 i.wuw.red
+i.ytimg.com
 i.zhuoyaju.com
 i.zt-dq.com
 i0.cz
@@ -83268,7 +83274,6 @@ iyouport.substack.com
 iyoutube.com
 iyqxma.armos-market.ru
 iysse.com
-iytafcpbnyauogj.xyz
 iytc.net
 iyuanfang-my.sharepoint.com
 iyvzqt.agabangmall.com
@@ -85552,7 +85557,6 @@ jtp.expressen.se
 jtracking.lulusoft.com
 jtsa.edu
 jttv.net
-jtubvaewvijfk.xyz
 jtuzd.rdtk.io
 jtv.com
 jtw007.com
@@ -104600,6 +104604,7 @@ my.xtremelashes.com
 my03.com
 my1.ru
 my13la.com
+my1616.net
 my188.com
 my188bet.com
 my2.hizliizlefilm.net

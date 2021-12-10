@@ -7717,6 +7717,7 @@
 9-sun.com
 9.courier-push-apple.com.akadns.net
 9.courier2-push-apple.com.akadns.net
+9.rarbg.com
 9.tlu.dl.delivery.mp.microsoft.com
 90.207.63.36.zz.countries.nerd.dk
 900.la
@@ -18508,6 +18509,7 @@ anonysurf.com
 anoonclearing.com
 anorectal.net
 anormal-tracker.de
+anosmcloud.com
 anotherconsult.com
 anothere.club
 anotherstep.pt
@@ -18977,6 +18979,7 @@ api.adcalls.nl
 api.addins.omex.office.net
 api.adfly.vn
 api.adfurikun.jp
+api.adguard.com
 api.adhooah.com
 api.adintext.net
 api.admins.ext.net.zooplus.de
@@ -21158,6 +21161,7 @@ assets-momentum.akamaized.net
 assets-r-dw-1.net.daraz.com
 assets-r-oa-1.net.daraz.com
 assets.258ydh.com
+assets.adobedtm.com
 assets.analog.com
 assets.applovin.com
 assets.awscloud.com
@@ -37430,6 +37434,7 @@ cn.msi.com
 cn.nikkei.com
 cn.nytstyle.com
 cn.picacomiccn.com
+cn.promo.skf.com
 cn.pub.vpon.com
 cn.rti.tw
 cn.ru
@@ -38874,6 +38879,7 @@ config.tremorhub.com
 config.unityads.unity3d.com
 config2.mparticle.com
 configuration-server-lb-1105093370.us-east-1.elb.amazonaws.com
+configuration.apple.com
 configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration.ls.apple.com
@@ -50095,6 +50101,7 @@ e1315.dsca.akamaiedge.net
 e13252.dscg.akamaiedge.net
 e133.ca2.s.tl88.net
 e13551.dscg.akamaiedge.net
+e13630.ca2.s.tl88.net
 e13630.dscb.akamaiedge.net
 e13678.ca2.s.tl88.net
 e13678.dscb.akamaiedge.net
@@ -51405,7 +51412,6 @@ edmodernia.top
 edmontonchina.cn
 edmontonchina.com
 edmontonoilers.com
-edmontonservice.com
 edmontonsun.com
 edmunds.com
 edna.bg
@@ -58017,6 +58023,7 @@ firefly.daroncreative.co
 fireflyacg.com
 fireflyengagement.com
 firefox.com
+firefox.settings.services.mozilla.com
 firefoxcn.com
 firefoxfan.com
 firefoxusercontent.com
@@ -83797,6 +83804,7 @@ jbo10.com
 jbo101.com
 jbo13.com
 jbo25.com
+jbo255.com
 jbo27.com
 jbo311.com
 jbo500.com
@@ -93921,6 +93929,7 @@ lyylua.schweitzerlinen.com
 lyyourc.com
 lyypsy.unisportstore.se
 lyyrsy.com
+lyz810.com
 lyzenoti.pro
 lyzllt.com
 lyzsxx.com

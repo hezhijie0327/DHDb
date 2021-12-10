@@ -7543,6 +7543,7 @@ a.xzzsjz.com
 a.yellowurl.cn
 a.yixie8.com
 a.youdao.com
+a.zdmimg.com
 a.zhidian3g.cn
 a.zuowenxuan.cn
 a0.app.xiaomi.com
@@ -15711,7 +15712,6 @@ cdn.mdeer.com
 cdn.microsoftstore.com.cn
 cdn.moji.com
 cdn.moji002.com
-cdn.moogos.com
 cdn.multilingualres.hr.tencent.com
 cdn.ndapp.com
 cdn.nextrt.com
@@ -16414,6 +16414,7 @@ chebaba.com
 chebada.com
 checheboke.com
 check.shareinstall.com.cn
+checkin.gstatic.com
 checkip.pw
 checkoo.com
 checkpass.net
@@ -17837,6 +17838,7 @@ client.map.n.shifen.com
 client.qun.qq.com
 client.show.qq.com
 client.stats.yinyuetai.com
+client.wmpvp.com
 client02.pdl.wow.battlenet.com.cn
 client05.pdl.wow.battlenet.com.cn
 clientflow.apple.com.cdn20.com
@@ -27907,7 +27909,6 @@ fxw.la
 fxxw.net
 fxxww.net
 fxxz.com
-fxzbr.com
 fxzhj.com
 fxzhjapp.com
 fxzygc.com
@@ -28499,6 +28500,7 @@ gd2.alicdn.com.danuoyi.alicdn.com
 gd3.alicdn.com
 gd32.com
 gd3n.com
+gd4.alicdn.com
 gd4.alicdn.com.danuoyi.alicdn.com
 gd563.com
 gda086.com
@@ -28593,7 +28595,6 @@ gdttc.com
 gdtz888.com
 gduc1z.tdum.alibaba.com
 gdunis.com
-gdupi.com
 gdvolunteer.net
 gdwca.com
 gdwlgp.com
@@ -28987,6 +28988,7 @@ gimcyun.com
 gimg.baidu.com
 gimg.bitauto.com
 gimg.iqilu.com
+gimg0.baidu.com
 gimg1.baidu.com
 gimg2.baidu.com
 gimg3.baidu.com
@@ -29047,6 +29049,7 @@ gjohvhf.cn
 gjpdh.com
 gju1.alicdn.com
 gju1.alicdn.com.danuoyi.tbcache.com
+gju2.alicdn.com
 gju3.alicdn.com
 gju3.alicdn.com.danuoyi.tbcache.com
 gju4.alicdn.com
@@ -32275,6 +32278,7 @@ hkwesi66.xyz
 hkwesi666.xyz
 hkxbjt.com
 hkyykq.com
+hkzone.org
 hl-brushes.com
 hl-player.oss-cn-shenzhen.aliyuncs.com
 hl.cn
@@ -32600,7 +32604,6 @@ homekingcdn.com
 homekoo.com
 homekoocdn.com
 homelnns.com
-homepage-gw.jd.com
 homepage-gw.jd.com.gslb.qianxun.com
 hometeda.com
 hometex114.com
@@ -46586,6 +46589,7 @@ mtwine.com
 mtwl.net
 mtx9j5em.sched.sma.tdnsv5.com
 mtxgx.com
+mtxsk.com
 mtyee.com
 mtyun.com
 mtzcjy.com

@@ -10510,6 +10510,7 @@ api.verify.mob.com
 api.vip.miui.com
 api.vlightv.com
 api.vuevideo.net
+api.weathercn.com
 api.weibo.cn
 api.weishi.qq.com
 api.weixin.qq.com
@@ -10530,6 +10531,7 @@ api.xinyue.qq.com
 api.xitongcheng.com.cname.yunjiasu-cdn.net
 api.xmpush.xiaomi.com
 api.xsj.wasu.tv
+api.xueersi.com
 api.xunyou.mobi
 api.yangkeduo.com
 api.ydl.com
@@ -10811,6 +10813,7 @@ appbz.info
 appc.baidu.com
 appccc.com
 appcdn.wapx.cn
+appchannel.html5.qq.com
 appchina.com
 appchizi.com
 appcloud.zhihu.com
@@ -10834,6 +10837,7 @@ appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
 appdl.hicloud.com.sched.s3hw.tdnsv5.com
 appdlc-drcn.hispace.hicloud.com
 appdown.info
+appdownload.alicdn.com.danuoyi.tbcache.com
 appdownload.mail.10086.cn
 appdownload.youku.com
 appdriver.cn
@@ -10993,6 +10997,7 @@ aqisite.com
 aqlvcj83.sched.sma.tdnsv5.com
 aqmidpic.oss-cn-shanghai.aliyuncs.com
 aqniu.com
+aqq.smoba.qq.com
 aqqmusic.tc.qq.com
 aqquan.org
 aqsc.cn
@@ -11875,7 +11880,6 @@ badda4347d0f01b2c8c76a7d30b19ea7.safeframe.googlesyndication.com
 badjs.m.jd.com
 badjs.m.jd.com.gslb.qianxun.com
 badjs.qidian.qq.com
-badjs.qq.com
 badjs.weixinbridge.com
 badls.com
 badmintoncn.com
@@ -14017,6 +14021,7 @@ boruiqin.com
 boruishijie.com
 boryou.com
 bos-pack.ops.baidu.com
+bos.bj.baidubce.n.shifen.com
 bos.box.bdimg.com
 bos.su.baidubce.n.shifen.com
 bos.xin
@@ -14662,6 +14667,7 @@ c01.i01.ctlsh.lv3.cloudglb.com
 c02.3dwwwgame.com
 c0736c2b3516e0d225569220270acced.safeframe.googlesyndication.com
 c0de4fun.com
+c0fx30.cn
 c1.amap.com
 c1.china.cn
 c1.ifengimg.com
@@ -15780,6 +15786,7 @@ cdn.ur.qq.com
 cdn.viccscxz.cn
 cdn.wenzhangba.cn
 cdn.wmpvp.com
+cdn.wtzw.com
 cdn.wtzw.com.wswebpic.com
 cdn.wup.huya.com
 cdn.wuxiqiangheng.com
@@ -22796,6 +22803,7 @@ dm.21hubei.com
 dm.300zi.com
 dm.3454.com
 dm.519397.com
+dm.bytedance.com
 dm.cnbanbao.com
 dm.cqdxun.cn
 dm.hxzdhn.com
@@ -30523,6 +30531,7 @@ h.m.mpl.dutils.com
 h.myyqxiu.com
 h.pcd.autohome.com.cn
 h.sora.yoyi.com.cn
+h.trace.qq.com
 h.youdao.com
 h0.ifengimg.com
 h01.hxsame.hexun.com
@@ -30615,6 +30624,7 @@ h5.vedamobi.com
 h5.vip.qq.com
 h5.wannaplay.cn
 h5.wdjky.com
+h5.weishi.qq.com
 h5.xiaolianhb.com
 h5.yangrongdayipifa.com
 h5.zhongguowangshi.com
@@ -36330,6 +36340,7 @@ ios.bugly.qq.com
 ios.rqd.qq.com
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
+iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -49684,6 +49695,7 @@ p2p.log.mgtv.com
 p2p.tracker.tv.sohu.com
 p2p.vod.tv.sohu.com
 p2p001.com
+p2p178.com
 p2p7.cloudlinks.cn
 p2pchina.com
 p2pchunk-table.douyucdn.cn
@@ -50047,6 +50059,7 @@ pansoso.com
 pansoso.org
 pansou.com
 pantrysbest.com
+pantum.com
 panyh123456.cn
 panyu.baixing.com
 panyun.com

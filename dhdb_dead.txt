@@ -929,7 +929,6 @@
 18zg.com
 18zhuanqian.com
 19-courier.push.apple.com
-19-courier2.push.apple.com
 190282.xyz
 1904fa460e12a2.com
 1905999.com
@@ -3097,7 +3096,6 @@
 7016281.com
 70202x.com
 7068.cc
-70689.com
 70773.com
 708.microcycas.com
 708870.com
@@ -8243,14 +8241,12 @@ api.uom.cn
 api.vasb.cn
 api.w.inmobi.com
 api.wapa.taobao.com
-api.weathercn.com
 api.weibo.com
 api.weltevree.eu
 api.whizzone.com
 api.wtzw.com
 api.xc17868.com
 api.xitongcheng.com
-api.xueersi.com
 api.xueersi.com.w.cdngslb.com
 api.y.igexin.com
 api.yidiansurong.com
@@ -8380,7 +8376,6 @@ appc.baidu.cn
 appc1.com
 appcash.best
 appcdn.xyz
-appchannel.html5.qq.com
 appcheats.co.uk
 appcheatsonline.com
 appcloud2.in.zhihu.com
@@ -8393,7 +8388,6 @@ appdl.hicloud.com
 appdl.lenovo.com.cn
 appdomain.cloud
 appdownload.alicdn.com
-appdownload.alicdn.com.danuoyi.tbcache.com
 appdp.com
 appe-store.com
 appelamule.com
@@ -8483,7 +8477,6 @@ appleid-applemx.us
 appleid-china-apple.com
 appleid-iclou.com
 appleid-uk.us
-appleid.apple.com
 appleid.hk
 appleinclegal.com
 appleipodsettlement.com
@@ -8630,7 +8623,6 @@ aqfy.net
 aqknmbh198dn.com
 aqllq.993726.cn
 aqntswfhpxwlifl.xyz
-aqq.smoba.qq.com
 aqqgli3vle.bid
 aqu.am
 aqua-skins.com
@@ -9547,6 +9539,7 @@ bacon.section.io
 bad8b2e252.com
 badamareus.com
 badd24287f.com
+badjs.qq.com
 badjs2.qq.com
 badleasump.cam
 badmactogoodmac.space
@@ -11448,7 +11441,6 @@ boquxinxi.com
 boringbell.com
 bornobid.com
 boroto.ru
-bos.bj.baidubce.n.shifen.com
 bosdile.com
 bosetoo.club
 bosideng.me
@@ -13177,7 +13169,6 @@ cdn.vibratebefore.win
 cdn.walkme.com
 cdn.westbaud.com
 cdn.wg.uproxx.com
-cdn.wtzw.com
 cdn.x-lift.jp
 cdn.xianliao.me
 cdn.xiaoz.me
@@ -18874,7 +18865,6 @@ dm.66qw.net
 dm.66wenshen.com
 dm.92to.com
 dm.aizhan.com
-dm.bytedance.com
 dm.bytedance.com.w.cdngslb.com
 dm.city.sina.com.cn
 dm.ddns.ms
@@ -18936,7 +18926,6 @@ dmtry.com
 dmtt.fun
 dmtu.0m31a.cn
 dmvbonnha.com
-dmxalb.winni.in
 dmxftmoqz.com
 dmxleo.com
 dmzj1.com
@@ -20603,7 +20592,6 @@ e10583.dspg.akamaiedge.net
 e11290.dspg.akamaiedge.net
 e11696.dscb.akamaiedge.net
 e127f.azurewebsites.net
-e13678.dscg.akamaiedge.net
 e14313.g.akamaiedge.net
 e14579.d.akamaiedge.net
 e16126.dscg.akamaiedge.net
@@ -26620,7 +26608,6 @@ h.laojiayoufang.com
 h.mon33.us
 h.ppjol.com
 h.rickysblast.cn
-h.trace.qq.com
 h.w3.ourhobby.com
 h.w3cx.us
 h.wha.la
@@ -26656,7 +26643,6 @@ h2ww6.cn
 h31135kjn6ajywtrupze.com
 h3a.t.r.vpath.net
 h4.cc
-h4.elf168.net
 h41s.com
 h4el.comhostmaster.www.goatavs.qcloud.com
 h4k5.com
@@ -26668,7 +26654,6 @@ h5.pk1179.com
 h5.sinaimg.cn
 h5.sll16.com
 h5.super-dreamers.com
-h5.weishi.qq.com
 h501.cn
 h5120.com
 h51h.com
@@ -27969,7 +27954,6 @@ hl3beta.com
 hl6799.com
 hlc19.com
 hlchuanyin.com
-hlcnzz.com
 hlcyef.zavetti.com
 hldslgg.com
 hledoziequt.com
@@ -28675,7 +28659,6 @@ hulyyabo.xyz
 humandiven.com
 humanredirect.ru
 humanrightsbriefing.org
-humb.apple.com.akadns.net
 huming.com
 humio-insidethebox.blockfi.com
 humption.info
@@ -31587,6 +31570,7 @@ jn1biifafz.cn
 jnaoliyuan.com
 jnbj.lianjia.com
 jncacp.cn
+jnctgldbxc.com
 jngdg.top
 jnhcjzlw.com
 jnhyxddm.com
@@ -32543,7 +32527,6 @@ katie.dntrx.com
 katongji.com
 katzewazup.org
 kaukoafa.net
-kaunairu.net
 kauomod.cn
 kavijaseuranta.fi
 kawa11.space
@@ -42164,7 +42147,6 @@ p2992.com
 p2996.com
 p2m0001.com
 p2p.com
-p2p178.com
 p2pbbs.net
 p2pmid.baofeng.com
 p2pmidzj.baofeng.com
@@ -42893,7 +42875,6 @@ phpads.cnpapers.com
 phpads.i-merge.net
 phpads.macbidouille.com
 phpadsnew.gamefolk.de
-phpape.com
 phpe.net
 phpfdc.com
 phptext.net
@@ -45263,6 +45244,7 @@ r10s.com
 r1y.com
 r2---sn-4g5e6nez.googlevideo.com
 r2---sn-4g5e6nls.googlevideo.com
+r2---sn-5hne6n7e.googlevideo.com
 r2---sn-a5mekn7d.googlevideo.com
 r2---sn-a5mekn7k.googlevideo.com
 r2---sn-a5mekn7r.googlevideo.com

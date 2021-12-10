@@ -7420,7 +7420,6 @@
 883235.xyz
 8833buyu.com
 8837340.com
-884109.com
 8841261.com
 8844buyu.com
 8848.com
@@ -20626,6 +20625,7 @@ array612.prod.do.dsp.mp.microsoft.com
 array613.prod.do.dsp.mp.microsoft.com
 array801.prod.do.dsp.mp.microsoft.com
 array802.prod.do.dsp.mp.microsoft.com
+array803.prod.do.dsp.mp.microsoft.com
 array804.prod.do.dsp.mp.microsoft.com
 array805.prod.do.dsp.mp.microsoft.com
 array808.prod.do.dsp.mp.microsoft.com
@@ -24256,7 +24256,6 @@ bauhaus.info
 baumann-solutions.de
 baunetz.de
 baur.de
-bauthair.net
 bavftcgoapga.com
 bavvgo.zingat.com
 bawag.com
@@ -36809,6 +36808,7 @@ client2009x25.xcdn.ovh
 clientcdn.pushengage.com
 clientconfig.akamai.steamstatic.com
 clientconfig.passport.net
+clientflow.apple.com
 clientflow.apple.com.akadns.net
 clientflow.g.aaplimg.com
 clientinfo.phimmoizz.net
@@ -38920,6 +38920,7 @@ config.getmyip.com
 config.getsync.com
 config.inmobi.com
 config.mapbox.com
+config.me.apple-dns.net
 config.officeapps.live.com
 config.parsely.com
 config.privoxy.org
@@ -46079,6 +46080,7 @@ dhrcmg.blob.core.windows.net
 dhrcmg.danaher.org
 dhrhzii89gpwo.cloudfront.net
 dhsjpz.bugaboo.com
+dht.aelitis.com
 dht.libtorrent.org
 dht.transmissionbt.com
 dht.wargaming.net
@@ -51417,6 +51419,7 @@ edge.g.yimg.jp
 edge.gycpi.b.yahoodns.net
 edge.itunes.apple.com
 edge.legacy.net.zooplus.com
+edge.microsoft.com
 edge.quantserve.com
 edge.r-es-1.net.daraz.com
 edge.r-oa-1.net.daraz.com
@@ -54914,7 +54917,6 @@ evgywgur.com
 evhead.com
 evhkrh.biory.kr
 evhvza.sodimac.com.br
-eviboli576.o-f.com
 eviclick.pro
 evicore.com
 evidenceaction.org
@@ -75374,6 +75376,7 @@ hqbpc.com
 hqcdp.org
 hqgjcm.com
 hqgkmj.marine-deals.co.nz
+hqhacks.com
 hqjapanesesex.com
 hqjuww.kolesa-darom.ru
 hql.technologyadvice.com
@@ -78332,6 +78335,7 @@ imglnkc.com
 imglnkd.com
 imglnke.com
 imgloc.com
+imglolo.xyz
 imglt.com
 imgmega.com
 imgn.dt00.net
@@ -87645,6 +87649,7 @@ klikklik.nl
 kliks.affiliate4you.nl
 kliks.nl
 kliksaya.com
+kliktrkr.com
 klimahavalandirma.com.tr
 klingel.nl
 klip.me
@@ -112608,7 +112613,6 @@ optmstr.com
 optnmnstr.com
 optnmstr.com
 optnumbhigh.com
-opto-22.com.cn
 optoiq.com
 optout.crsspxl.com
 optraising.com

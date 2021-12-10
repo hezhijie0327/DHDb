@@ -2797,7 +2797,6 @@
 2baf06581fb72f28830ab01b9b9ec4c0.dlied1.cdntips.net
 2bkw.com
 2broear.com
-2brui.com
 2c.zol-img.com.cn
 2c.zol-img.com.cn.wswebpic.com
 2c15f2ca1563fabb92007385d256c86b.safeframe.googlesyndication.com
@@ -26010,6 +26009,7 @@ ewz4ksd98492555o.aliyunddos1026.com
 ex-silver.com
 ex-starch.com
 ex.m.jd.com
+ex.m.jd.com.gslb.qianxun.com
 ex.mobmore.com
 ex.puata.info
 ex.tanx.com
@@ -28704,7 +28704,6 @@ geejing.com
 geek-docs.com
 geek-papa.com
 geek-share.com
-geek-workshop.com
 geekbang.org
 geekbangtech.com
 geekcar.com
@@ -33923,7 +33922,6 @@ hxjlhn.com
 hxjs.tool.hexun.com
 hxjwang.com
 hxland.com
-hxlover.com
 hxltad.com
 hxm3xwcm.v1d.szbdyd.com
 hxmeishi.com
@@ -46530,6 +46528,7 @@ msdn.itellyou.cn.w.kunluncan.com
 mse.jd.com
 msearch.51job.com
 mseddl.gitee.io
+msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net

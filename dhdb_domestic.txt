@@ -501,7 +501,6 @@
 080zeero.sched.s2-dk.tdnsv5.com
 0813fs.com
 08160.cn
-0817xm.com
 0818tuan.com
 0826j.com
 0832mh.com
@@ -10942,6 +10941,7 @@ appstore.pandora.xiaomi.com
 appstore.ptmi.gitv.tv
 appstoreisvpic.alipayobjects.com
 appstoreisvpic.alipayobjects.com.danuoyi.tbcache.com
+appsupport.qq.com
 appsupport.stargame.com
 apptao.com
 apptrack.cn
@@ -21178,6 +21178,7 @@ data.adeaz.com
 data.ads.oppomobile.com
 data.biancheng.net
 data.biancheng.net.w.kunlunno.com
+data.bilibili.com
 data.bilicdn2.com
 data.bilivideo.com
 data.chinaz.com
@@ -21657,6 +21658,7 @@ dehua.net
 dehuaca.com
 deifei.com
 deikuo.com
+dejavu.apple.com
 dejin88.com
 dekeego.com
 dektw.com
@@ -28470,7 +28472,6 @@ gate.push.x.netease.com
 gateface.com
 gateway-drcn.wallet.dbankcloud.com
 gateway.battlenet.com.cn
-gateway.cdeledu.com
 gateway.fe.apple-dns.cn
 gateway.icloud.com.cn
 gateway.im.weibo.cn
@@ -29170,6 +29171,7 @@ globalaccentchinese.com
 globalbuy.cc
 globalcdndownload.qiniu.com.w.kunlunar.com
 globalcdndynamic.qiniu.com.w.kunlungr.com
+globalcdnweb.qiniu.com.w.kunlunar.com
 globalcompressor.com
 globaldangdang.hk
 globaletrust.com
@@ -29694,6 +29696,7 @@ growthpic.weishi.qq.com
 grpc.biliapi.net
 grpc.snm0516.aisee.tv
 grs.dbankcloud.cn
+grs.hicloud.com
 grt-china.com
 grtn.cn
 gruntjs.net
@@ -30628,6 +30631,7 @@ h5hosting.dbankcdn.com.c.cdnhwc1.com
 h5hosting.dbankcdn.com.cdn.dnsv1.com
 h5in.net
 h5jun.com
+h5jw.com
 h5king.com
 h5ky.com
 h5le.com
@@ -35528,6 +35532,7 @@ img.ninebox.cn
 img.onlinedown.net
 img.ott.siqiangame.com
 img.pconline.com.cn
+img.pconline.com.cn.cdn20.com
 img.pddpic.com
 img.pddpic.com.sched.pddlego-dk.tdnsv5.com
 img.php.cn
@@ -40062,7 +40067,6 @@ kiees.com
 kihgwe.com
 kiiik.com
 kiijoy.com
-kil.longkoupeanut.cn
 kililife.com
 killdb.com
 kilvn.com
@@ -46055,6 +46059,7 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
+mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com

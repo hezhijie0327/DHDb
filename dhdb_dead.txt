@@ -247,6 +247,7 @@
 080cbfe.cn
 08172.hk
 0817tv.com
+0817xm.com
 0817zfbj.xyz
 081956ee3e6a8db27965f1ce1f225295.jddebug.com
 082338.com
@@ -7327,7 +7328,6 @@ albadil.net
 albado.xyz
 albalbant.com
 albanmagnit.ru
-albert.apple.com
 albertsonmendocino.com
 albet400.com
 albopa.work
@@ -8112,7 +8112,6 @@ api-ddebian-example-production.mapbox.com
 api-deal.kechenggezi.com
 api-ds.kkbox.com.tw
 api-geetest-com-886580015.ap-southeast-1.elb.amazonaws.com
-api-js.mixpanel.com
 api-keks.com
 api-login.kkbox.com.tw
 api-metrics-e2e.nonprod.flurry.com
@@ -8593,7 +8592,6 @@ appstoore.online
 appstoreapple.cn
 appstreets.com
 appsunlocker.com
-appsupport.qq.com
 appusage.intel.com
 appving.com
 appx.91.com
@@ -13293,7 +13291,6 @@ cdnunion.org
 cdnupdateweb.com
 cdnuyun.cn
 cdnvpn.net
-cdnx.tribalfusion.com
 cdnyoyun.com
 cdnyt69.com
 cdnyzdjj.com
@@ -14522,7 +14519,6 @@ cloud-skins.fun
 cloud-store-cdn.com
 cloud.matsurifubuki.xyz
 cloud.ph
-cloud.tabnine.com
 cloud301.net
 cloud9case.com
 cloud9cs.site
@@ -14704,7 +14700,6 @@ cn.manxbridge.com
 cn.net
 cn.nimiq.com
 cn.nowvue.live
-cn.pool.ntp.org
 cn.voa.mobi
 cn12333.com
 cn2-cn2.com
@@ -17843,7 +17838,6 @@ data-vp.com
 data.adserve.tomoimg.cn
 data.apn.co.nz
 data.applovin.com
-data.bilibili.com
 data.campaign.toyscenter.it
 data.cbsi.com.cn
 data.cdeledu.com
@@ -18216,7 +18210,6 @@ dehtxweiq.com
 dehuaguanyin.com
 dehydratedpredestinationplenty.com
 deity.ddns.net
-dejavu.apple.com
 dejieshi.com
 dejing.laobanfa.com
 del1.phillyburbs.com
@@ -20761,7 +20754,6 @@ earphonescheapest.com
 earsstrawsfive.com
 earthincomprehensibleintrepid.com
 eas.blocket.se
-eas.outlook.com
 easetuner.com
 easibook.my
 easou.irs01.com
@@ -21961,7 +21953,6 @@ event.ksosoft.com
 event.prod.bidr.io
 event.trove.com
 event.vntoday.news
-event3.thermofisher.com
 eventcsgo.pro
 eventlittrecet.ru
 eventlog.hd.baofeng.com
@@ -25561,7 +25552,6 @@ global.mgr.consensu.org
 global.msmtrakk03a.com
 global.pchome.com.tw
 globalcdn.cn
-globalcdnweb.qiniu.com.w.kunlunar.com
 globalcoverage.co
 globaldocumentation.net
 globalfiles.org
@@ -25667,7 +25657,6 @@ go.anthonyliftgates.com
 go.basistech.com
 go.bewotec.de
 go.biglobe.ne.jp
-go.boldpenguin.com
 go.butcherjoseph.com
 go.cartstick.com
 go.cdb.fr
@@ -26204,7 +26193,6 @@ growltoe.com
 growtopia.work
 grs.dbankcloud.asia
 grs.dbankcloud.eu
-grs.hicloud.com
 grsea.cn
 grt02.org
 grt03.com
@@ -26221,7 +26209,6 @@ gryka.net
 grypers.eu
 gryshathepe.pro
 grz67.com
-gs.apple.com.akadns.net
 gs.m.cn.miaozhen.com
 gs1.idsales.co.uk
 gs265.com
@@ -26714,7 +26701,6 @@ h5api.m.tmall.com
 h5ay.com
 h5data.com
 h5hosting-drcn.dbankcdn.cn
-h5jw.com
 h5speed.m.jd.com
 h5vv.video.qq.com
 h6.x0b9x4w.cn
@@ -29756,7 +29742,6 @@ img.mybet.com
 img.nktcw.cn
 img.okd3.cn
 img.oraohui.cn
-img.pconline.com.cn.cdn20.com
 img.petit.lv
 img.pojies.cn
 img.pojies.cn.w.kunlungr.com
@@ -32858,6 +32843,7 @@ kika-backend.com
 kikmessengerforpcwindows.com
 kikoucam.com
 kikoucuy.net
+kil.longkoupeanut.cn
 kilkiva.ru
 kill-case.ru
 kill-streak.com
@@ -36592,6 +36578,7 @@ m.zbied.com
 m.zbsybh.cn
 m.zcaod.com
 m.zenffs.cn
+m.zenwq.com
 m.zfrgkm.cn
 m.zg39b.cn
 m.zgwlbjy.cn
@@ -36648,6 +36635,7 @@ m200260.com
 m2374.oadz.com
 m2497.com
 m2ez.com
+m2u.376710.com
 m3.aigou023.com
 m30w.net
 m3haw43xxuiai.win
@@ -37667,7 +37655,6 @@ metrics.parallels.com
 metrics.popularwdbmetrics.burgosconecta.es
 metrics.premiere.com
 metrics.redbull.tv
-metrics.sdcvisit.com
 metrics.shopbop.com
 metrics.sonymusicd2c.com
 metrics.sonystyle.com
@@ -37862,7 +37849,6 @@ midnightjs.net
 midofans.com
 midukanshu.com
 miemie.la
-miexue.com
 mieyisi.com
 mifanlicdn.com
 mifei.com
@@ -38483,6 +38469,7 @@ mobileanalytics.us-west-1.amazonaws.com
 mobileanalytics.us-west-2.amazonaws.com
 mobileapptracking.com
 mobilebrowsing.net
+mobileeventad-hamivideo.cdn.hinet.net
 mobilegamecdn.com
 mobilegamestats.com
 mobilelocalnews.com

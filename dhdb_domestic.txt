@@ -1830,7 +1830,6 @@
 17uxi.com
 17v5.com
 17vsell.com
-17wan.la
 17wanba.com
 17wanxiao.com
 17wclass.com
@@ -6053,7 +6052,6 @@
 7moe.com
 7moor-fs1.com
 7moor.com
-7mother.com
 7mx.com
 7nepal.com
 7net.cc
@@ -9593,6 +9591,7 @@ all.ad-core-lb-lf.l.bytedns.net
 all.cnzz.com.danuoyi.tbcache.com
 all.douyin.com.w.kunluncan.com
 all.gamedog.cn.w.kunlungr.com
+all.kwimgs.com.w.cdngslb.com.c.cdnuyun.cn
 all.kwimgs.com.w.cdngslb.com.qr.uuhimalayanqm.com
 all.lv2.qnydns.com
 all.ocpc.xueersi.com.w.cdngslb.com
@@ -10591,7 +10590,6 @@ apigz1.ksapisrv.com
 apihk.growingio.com
 apihn1.gifshow.com
 apihn1.ksapisrv.com
-apihn3.ksapisrv.com
 apihotel.meituan.com
 apijs-hd-scd.gifshow.com
 apijs-hd-scd.ksapisrv.com
@@ -10678,6 +10676,7 @@ apm3.music.ntes53.netease.com
 apmbooth.com
 apmconfig.douyucdn.cn
 apmconfig.douyucdn.cn.w.cdngslb.com
+apmconfig.douyucdn.cn.wsglb0.com
 apmfront.17u.cn
 apmgw.hellobike.com
 apmvista.com
@@ -10697,6 +10696,7 @@ app-123.com
 app-ad.variflight.com
 app-advertise.zhihuishu.com
 app-analytics-cn.huami.com
+app-analytics.huami.com
 app-cdn.2q10.com
 app-cdn.2q10.com.wswebpic.com
 app-echo.com
@@ -20697,6 +20697,7 @@ daa.shuzilm.cn
 daan.zkser.com
 daan2020.oss-cn-hangzhou.aliyuncs.com
 daanbar.com
+dab.dongqiudi.com
 dab70351b32e4aa83ff38060.mdbook.cn
 daba.com
 dabache.org
@@ -23908,6 +23909,7 @@ dudubashi.com
 dudumeijia.com
 duer-kids.baidu.com
 dueros-h2.baidu.com
+dueros-voice.baidu.com
 dugoogle.com
 duguoxue.com
 duguying.net
@@ -29725,6 +29727,7 @@ gsrcu.com
 gsrecv.com
 gss-cn.game.hicloud.com
 gss0.baidu.com
+gss0.bdstatic.com
 gss3.bdstatic.com
 gssdlv.com
 gsstaf.com
@@ -35261,6 +35264,7 @@ images.pinduoduo.com
 images.pinduoduo.com.sched.pddlego-dk.tdnsv5.com
 images.qiecdn.com
 images.seebug.org
+images.sohu.com
 images.taboola.com.cn
 images.taboola.com.cn.w.kunlungr.com
 images.uc.cn

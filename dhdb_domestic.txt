@@ -14295,6 +14295,7 @@ bug-xl9-ssl.xunlei.com
 bug.im
 bughd.com
 bugku.com
+bugly.qq.com
 bugreport.huorong.cn
 bugrpt.oss-cn-beijing.aliyuncs.com
 bugscan.net
@@ -25288,7 +25289,6 @@ ei6nd.com
 eiabbs.net
 eickaopei.com
 eicp.net
-eid.jd.com
 eid.jd.com.gslb.qianxun.com
 eidlink.com
 eidsign.com.cn
@@ -29102,6 +29102,7 @@ gjpdh.com
 gju1.alicdn.com
 gju1.alicdn.com.danuoyi.tbcache.com
 gju2.alicdn.com
+gju2.alicdn.com.danuoyi.tbcache.com
 gju3.alicdn.com
 gju3.alicdn.com.danuoyi.tbcache.com
 gju4.alicdn.com
@@ -35243,6 +35244,7 @@ image.smoba.qq.com.cloud.tc.qq.com
 image.smoba.qq.com.sched.dlied1.tdnsv5.com
 image.smoba.qq.com.sched.px.tdnsv6.com
 image.smoba.qq.com.x2.sched.dcloudstc.com
+image.suning.cn
 image.tianyancha.com
 image.tingmall.com
 image.uc.cn

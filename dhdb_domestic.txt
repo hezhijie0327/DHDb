@@ -3438,6 +3438,7 @@
 39ask.net
 39clean.com
 39cs.com
+39d0825d09f05.cdn.sohucs.com
 39d0825d09f05.cdn.sohucs.com.wsglb0.com
 39dg.com
 39ej7e.com
@@ -12229,7 +12230,6 @@ baofeng.net
 baofeng365.com
 baofengcinema.com
 baofengtuandui.com
-baofengzixun.com
 baofoo.com
 baofu.com
 baogao.com
@@ -17804,6 +17804,7 @@ click.meituan.com
 click.mz.simba.taobao.com
 click.oneplus.cn
 click.oneplus.com
+click.pv.focus.cn
 click.qianqian.com
 click.stat.hao.360.cn
 click.suning.cn
@@ -19201,6 +19202,7 @@ connect.qq.com
 connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
+connectivitycheck.cbg-app.huawei.com
 connector-systems.com
 connectwifi.org
 connpm.gj.qq.com
@@ -21167,6 +21169,7 @@ data.ab.qq.com
 data.adeaz.com
 data.ads.oppomobile.com
 data.biancheng.net
+data.biancheng.net.w.kunlunno.com
 data.bilicdn2.com
 data.bilivideo.com
 data.chinaz.com
@@ -22208,6 +22211,7 @@ dianranart.com
 dianrong.com
 diansan.com
 dianshang.com
+dianshanghy.com
 dianshangyi.com
 dianshihome.com
 dianshijia.com
@@ -22786,6 +22790,7 @@ dm.lianzhixiu.com
 dm.oadz.com
 dm.sanwen8.com
 dm.sg92.com
+dm.toutiao.com.w.cdngslb.com
 dm.toutiao.com.w.cdngslb.com.c.cdnuyun.cn
 dm.video.weibocdn.com
 dm.wo.com.cn
@@ -26498,6 +26503,7 @@ fashaoyou.net
 fasheng.org
 fashengba.com
 fashion-virus.com
+fashion.sina.com.cn
 fashion.youku.com
 fashionhn.com
 fashuounion.com
@@ -27129,6 +27135,7 @@ fire233.com
 fire2333.com
 fireactive.jd.com
 fireactive.jd.com.gslb.qianxun.com
+firebase-settings.crashlytics.com
 firebase.google.com.cn
 fireclick.jd.com
 fireclick.jd.com.gslb.qianxun.com
@@ -28021,6 +28028,7 @@ g.168.it168.com
 g.6sfg.com
 g.711983.com
 g.ads.cn.miaozhen.com
+g.alicdn.com
 g.alicdn.com.danuoyi.alicdn.com
 g.aligames.com
 g.baidu.com
@@ -28060,6 +28068,7 @@ g.mnw.cn
 g.nga.cn
 g.ousns.net
 g.pconline.com.cn
+g.pconline.com.cn.wscdns.com
 g.pptv.com
 g.qucaigg.com
 g.rs.yoyi.com.cn
@@ -30074,7 +30083,6 @@ guoxinqh.com
 guoxue.com
 guoxue.httpcn.com
 guoxue123.com
-guoxuejiaoyuwang.com
 guoxuemeng.com
 guoxuemi.com
 guoxuwang.com
@@ -30585,6 +30593,7 @@ h5.wdjky.com
 h5.xiaolianhb.com
 h5.yangrongdayipifa.com
 h5.zhongguowangshi.com
+h5.zuimeitianqi.com
 h55u.com
 h5aiwan.com
 h5anli.com
@@ -46492,6 +46501,7 @@ msg.eclicks.cn
 msg.iqiyi.com
 msg.m.jd.com
 msg.m.jd.com.gslb.qianxun.com
+msg.mobile.kugou.com
 msg.ptqy.gitv.tv
 msg.push.51y5.net
 msg.qy.net

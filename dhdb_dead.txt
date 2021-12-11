@@ -8304,7 +8304,6 @@ app.tv333.us
 app.xixiashengdian.com
 app.xmx-134-1.com
 app.yifutangvip.com.cn
-app.znds.com
 app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 app0le.com
@@ -17897,6 +17896,7 @@ dc.liuliang100.com
 dc.sabela.com.pl
 dc.tremormedia.com
 dc.vmoters.com
+dc.xhct66.com
 dc0062.com
 dc0067.com
 dc0071.com
@@ -27204,7 +27204,6 @@ hdl3abak.douyucdn.cn
 hdl3abak.douyucdn.cn.wsdvs.com
 hdl3bak.douyucdn.cn
 hdl3bak.douyucdn.cn.wsdvs.com
-hdla.douyucdn.cn
 hdlabak.douyucdn.cn
 hdlabak.douyucdn.cn.wsdvs.com
 hdlcdns.com
@@ -27871,7 +27870,6 @@ hmfcyy.com
 hmhqp.com
 hmikw.com
 hmikxktkmccfoyq.xyz
-hmizat.co
 hmjy301203.zh
 hmjy301203.zhi
 hmjy301203.zhij
@@ -28711,6 +28709,7 @@ hyrzb.com
 hysntzdseidl.com
 hysseo.com
 hyssp.haiyunx.com
+hytd.com
 hyuanprint.com
 hyuj.gmxyorg.cn
 hywly.com
@@ -29941,7 +29940,6 @@ inpla.net
 inpower.cc
 ins-m6gwefm2.ias.tencent-cloud.net
 ins-offer.com
-ins-selruo97.ias.tencent-cloud.net
 ins-z2x3wvjw.ias.tencent-cloud.net
 insdrbot.com
 insectadvertisesecretly.com

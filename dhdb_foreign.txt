@@ -1,4 +1,5 @@
 0-132.net.daraz.com
+0-courier.push.apple.com
 0-courier2.push.apple.com
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
@@ -16090,6 +16091,7 @@ ajapk.com
 ajaralarm.com
 ajarsubscriber.com
 ajax.aspnetcdn.com
+ajax.cloudflare.com
 ajax.googleapis.com
 ajax.loli.net
 ajaxcdn.org
@@ -24604,6 +24606,7 @@ bcorporation.net
 bcove.video
 bcovery.com
 bcovlive-a.akamaihd.net
+bcp.crwdcntrl.net
 bcpp.org
 bcprm.com
 bcrncdn.com
@@ -31464,6 +31467,7 @@ ca.5.p2l.info
 ca.creditacceptance.com
 ca.etitrans.com
 ca.gov
+ca.iadsdk.apple.com
 ca.mattamyhomes.com
 ca.newfreevpn.com
 ca.news.yahoo.com
@@ -50068,7 +50072,6 @@ e.gxjfh.com
 e.hanleywood.com
 e.henhuguan.cn
 e.hissq.com
-e.hogyp.com
 e.horizontal.com
 e.huaas.com
 e.huoas.com
@@ -65534,6 +65537,7 @@ go.clinictocloud.com
 go.clipline.com
 go.clippings.com
 go.cloudcall.com
+go.cloudcraze.com
 go.cloudfastpath.com
 go.cloudfix.com
 go.cloudflight.io
@@ -71701,7 +71705,6 @@ hackmd.io
 hackmeout.net
 hackmobilegames.com
 hacknotice.com
-hackntricks.net
 hackp.com
 hackpad.com
 hackpascal.net
@@ -118747,6 +118750,7 @@ popeyes.com
 popfa.ir
 popgo.org
 pophahwot.com
+pophandler.net
 popiano.org
 popin.cc
 popinads.com

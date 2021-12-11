@@ -19237,6 +19237,7 @@ connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
+connectivitycheck.gstatic.com
 connector-systems.com
 connectwifi.org
 connpm.gj.qq.com
@@ -30213,6 +30214,7 @@ gw.api.taobao.com
 gw.com.cn
 gw.d.ywopt.com
 gw.innotechx.com
+gw.m.163.com
 gw.wdjky.com
 gw1.alicdn.com
 gw1.alicdn.com.danuoyi.tbcache.com
@@ -36363,7 +36365,6 @@ ios.bugly.qq.com
 ios.rqd.qq.com
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
-iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com

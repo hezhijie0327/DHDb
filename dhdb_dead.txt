@@ -1,4 +1,3 @@
-0-courier.push.apple.com
 0.pic.paopaoche.net
 00-gov.cn
 00.mercax.com
@@ -7208,7 +7207,6 @@ aj1017.online
 aj1713.online
 aj2041.online
 aj2170.online
-ajax.cloudflare.com
 ajaxbig.ru
 ajaxfiles.net
 ajdivotdelbloab24.jio.com
@@ -10089,7 +10087,6 @@ bcontent.life.ru
 bcoolandjustrelax.org
 bcooljs.info
 bcovlive.io
-bcp.crwdcntrl.net
 bcprn.club
 bcsytv.com
 bct09.com
@@ -12385,7 +12382,6 @@ ca-mpr.jp
 ca.5173car.com
 ca.bxwx3.org
 ca.cbsi.com.cn
-ca.iadsdk.apple.com
 ca.minexmr.com
 ca.ms.justdied.com
 ca.telemetry.microsoft.com
@@ -15281,7 +15277,6 @@ connect.mdtelephone.com
 connect.summit.co.uk
 connectingcloud.bid
 connection36.com
-connectivitycheck.gstatic.com
 consciouscabbage.com
 conseil-emprunt.com
 conseil-rencontre.com
@@ -20241,6 +20236,7 @@ e.hm196.cn
 e.hm203.cn
 e.hmhqp.com
 e.hnhmyc.cn
+e.hogyp.com
 e.hpcat.cn
 e.hpg.cn.miaozhen.com
 e.hpzyl.com
@@ -25583,7 +25579,6 @@ go.butcherjoseph.com
 go.cartstick.com
 go.cdb.fr
 go.cherrycreekschools.org
-go.cloudcraze.com
 go.cnfol.com
 go.conversionmasters.com
 go.devskiller.com
@@ -26414,7 +26409,6 @@ gvt6.com
 gvt7.com
 gvt9.com
 gw-dv.net
-gw.m.163.com
 gw.poscointl.com
 gw2.17173.com
 gw2.alicdn.com.danuoyi.tbcache.com
@@ -26763,6 +26757,7 @@ hackncheatshouse.win
 hacknet24.com
 hacknosurvey.org
 hackntool.com
+hackntricks.net
 hackoffer.com
 hackongame.com
 hackoutils.com

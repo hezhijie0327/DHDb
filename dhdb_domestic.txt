@@ -10369,6 +10369,7 @@ api.fd.mob.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -26283,6 +26284,7 @@ f5ie8y7l.dayugslb.com
 f5sd.com
 f5yx.com
 f6.market.xiaomi.com
+f7.baidu.com
 f7.video.weibocdn.com
 f73127beca2cd9454866dd690c52410d.safeframe.googlesyndication.com
 f773.com
@@ -53308,6 +53310,7 @@ qilongtan.com
 qiluhospital.com
 qiluhua.com
 qiluivf.com
+qilungroup.cn
 qiluyidian.mobi
 qimai.cn
 qimengshangwu.com
@@ -55126,6 +55129,7 @@ redocn.com
 redou.com
 redpaper-10006092.cos.myqcloud.com
 redphon.com
+redpoint-msg.m.jd.com
 redpoint-msg.m.jd.com.gslb.qianxun.com
 redream.com
 redrock.team

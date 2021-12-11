@@ -19061,6 +19061,7 @@ api.bounceexchange.com
 api.box.com
 api.breezip.com
 api.browsee.io
+api.browser.miui.com
 api.browsermine.com
 api.btloader.com
 api.btstu.cn
@@ -34538,6 +34539,7 @@ changeip.name
 changeip.net
 changeip.org
 changelog.com
+changelogs.ubuntu.com
 changement.pro
 changhehengqi.com
 changhuapower.com
@@ -50409,6 +50411,7 @@ e719.net
 e72345b2-dnsotls-ds.metric.gstatic.com
 e7248.dscb.akamaiedge.net
 e7248.dsce9.akamaiedge.net
+e7279.dsce9.akamaiedge.net
 e7279.dsce9.akamaiedge.net.0.1.cn.akamaiedge.net
 e7299b9c-dnsotls-ds.metric.gstatic.com
 e751.dscx.akamaiedge.net
@@ -58164,6 +58167,7 @@ firefang.cn
 firefly.daroncreative.co
 fireflyacg.com
 fireflyengagement.com
+firefox-settings-attachments.cdn.mozilla.net
 firefox.com
 firefox.settings.services.mozilla.com
 firefoxcn.com
@@ -59793,6 +59797,7 @@ fp-afd.azurefd.us
 fp-as-nocache.azureedge.net
 fp-as.azureedge.net
 fp-cdn.azureedge.net
+fp-vp-nocache.azureedge.net
 fp-vp.azureedge.net
 fp-vs-nocache.azureedge.net
 fp.free-peace.co.jp
@@ -89086,7 +89091,6 @@ laidiannet.com
 laidudu.com
 laigame7.com
 laijiawen.com
-lailitou.com
 lailivob.net
 laim.tv
 laima-tech.com
@@ -102016,6 +102020,7 @@ mittromney.com
 mitutoyo.com
 mituyu.com
 miuz.ru
+miv.xiangyuym.cn
 mivyyq.safeandfair.com
 mix-collecte-it-prod-1582605754.ap-northeast-2.elb.amazonaws.com
 mix.com
@@ -112233,7 +112238,6 @@ onyoutube.com
 oo516.net
 oo656.net
 oo699.net
-ooboulry.net
 oocl.com
 oodji.com
 oodsauns.net
@@ -128924,6 +128928,7 @@ s.zgclmw.cn
 s.zlink2.com
 s.zp0573.cn
 s0.wp.com
+s001.monerise.com
 s002.monerise.com
 s003.monerise.com
 s01.hostcontent.live

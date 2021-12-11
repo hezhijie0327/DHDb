@@ -3772,6 +3772,7 @@
 33xs.com
 33yq.com
 34-courier.push.apple.com
+34-courier2.push.apple.com
 34.76.102.223.zz.countries.nerd.dk
 34.76.33.183.zz.countries.nerd.dk
 34.77.133.223.zz.countries.nerd.dk
@@ -4673,6 +4674,7 @@
 4823bbb.com
 4823yslicnezzdin.com
 482j.com
+482t.com
 4831519.com
 48331375c351e.com
 484.ddns.ms
@@ -6639,6 +6641,7 @@
 74706913.com
 747c749303.com
 749997.com
+75.197.152.61.zz.countries.nerd.dk
 75.32.92.113.zz.countries.nerd.dk
 75.4pu.com
 75.69.247.58.zz.countries.nerd.dk
@@ -8851,6 +8854,7 @@ a.pomf.su
 a.pornomixfree.com
 a.pourquoidocteur.fr
 a.prisacom.com
+a.privatelink.msidentity.com
 a.profile-ns.emailvision.net.daraz.com
 a.proxy4.nullrefexcep.com
 a.proxy5.nullrefexcep.com
@@ -18812,6 +18816,7 @@ apabox.com
 apac-ads.flurry.com
 apac-afsprod.trafficmanager.net
 apac-asia-courier-4.push-apple.com.akadns.net
+apac-asia-courier-vs.push-apple.com.akadns.net
 apac-china-courier-4.push-apple.com.akadns.net
 apac-china-courier-vs.push-apple.com.akadns.net
 apac-csr12.net.daraz.com
@@ -19340,6 +19345,7 @@ api.widget.zalo.me
 api.wipmania.com
 api.wootric.com
 api.wootric.com.herokudns.com
+api.wtzw.com
 api.xmrpool.net
 api.xuann.wang
 api.zdqp11.com
@@ -24747,7 +24753,6 @@ beacon.shutterfly.com
 beacon.squixa.net
 beacon.statful.com
 beacon.taboola.com
-beacon.thred.woven.com
 beacon.toyota.co.jp
 beacon.tws.toyota.jp
 beacon.viewlift.com
@@ -56371,6 +56376,7 @@ faluninfo.ru
 falunnews.org.il
 falunpilipinas.net
 falunthai.org
+famanoder.com
 famecl.com
 famedigitalasiapteltd.hb.omtrdc.net
 famensi.com
@@ -64121,6 +64127,7 @@ github.a.ns.emailvision.net.daraz.com
 github.blog
 github.cisco-capwap-controller.net.daraz.com
 github.com
+github.com.cnpmjs.org
 github.community
 github.csr12.net.daraz.com
 github.dev

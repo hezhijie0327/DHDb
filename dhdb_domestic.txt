@@ -9696,6 +9696,7 @@ alyzq.com
 am.aicdn.com
 am.g.ireader.com
 am.szhome.com
+am.zdmimg.com
 am2212.com
 am5569.com
 am774.com
@@ -10262,6 +10263,7 @@ api-sc.wtzw.com
 api-service.chanmama.com
 api-sh.django.t.taobao.com.gds.alibabadns.com
 api-shoulei-ssl.xunlei.com
+api-skytone-2.vmall.com
 api-skytone-6.vmall.com
 api-svoice.le.com
 api-t.iqiyi.com
@@ -18895,6 +18897,7 @@ cnzyao.com
 cnzz.991yue.com
 cnzz.cdbsoi.com
 cnzz.com
+cnzz.mmstat.com
 cnzz.net
 cnzz.oo5548q.top
 cnzz.yifenghuyu.com
@@ -27510,6 +27513,7 @@ fosun-uhi.com
 fosun.com
 fota4.adups.cn
 fota5t.adups.com
+fota5tbk.adups.com
 fotao.name
 fotao9.com
 fotilestyle.com
@@ -29120,6 +29124,7 @@ gju3.alicdn.com
 gju3.alicdn.com.danuoyi.tbcache.com
 gju4.alicdn.com
 gju4.alicdn.com.danuoyi.tbcache.com
+gjusp.alicdn.com
 gjusp.alicdn.com.danuoyi.alicdn.com
 gjw.com
 gjw123.com
@@ -30191,6 +30196,7 @@ gw-pchdcz-08.cg.163.com
 gw.365you.com
 gw.aihuishou.com
 gw.alicdn.com
+gw.alicdn.com.danuoyi.tbcache.com
 gw.alipayobjects.com
 gw.alipayobjects.com.danuoyi.tbcache.com
 gw.api.taobao.com

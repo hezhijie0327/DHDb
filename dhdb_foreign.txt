@@ -4459,6 +4459,7 @@
 41fa8.icu
 41fa9.icu
 41xt.com
+42-courier.push.apple.com
 42-courier2.push.apple.com
 42.courier-push-apple.com.akadns.net
 4207008.com
@@ -7898,6 +7899,7 @@
 92220668.com
 92220701.com
 9224076.com
+922x7c.cn
 923895.cc
 923a5fbc-dnsotls-ds.metric.gstatic.com
 924e60106cd9d0e.com
@@ -14295,7 +14297,6 @@ adsolutions.nl
 adsomenoise.cdn01.rambla.be
 adson.awempire.com
 adsonar.com
-adsonflags.com
 adsoptimal.com
 adsorg.com
 adsota.com
@@ -37938,6 +37939,7 @@ code.etracker.com
 code.fastclick.net
 code.giraff.io
 code.hot-mob.com
+code.jquery.com
 code.kinofactor.ru
 code.org
 code.randomhouse.com
@@ -42720,6 +42722,7 @@ d10psrq44igbex.cloudfront.net
 d10vy5gom1ed53.cloudfront.net
 d10wfab8zt419p.cloudfront.net
 d10zqflh5ol9cq.cloudfront.net
+d119wgbtegajwl.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
 d11ectef5xceyp.cloudfront.net
 d11enq2rymy0yl.cloudfront.net
@@ -49868,6 +49871,7 @@ dz1982.com
 dz4ad.com
 dz5bomaog2c5t.cloudfront.net
 dz746.com
+dz87sht31vgqa.cloudfront.net
 dz88.com
 dzais.com
 dzb086.com
@@ -50208,6 +50212,7 @@ e16624.dscb.akamaiedge.net
 e166cc4890caf457b36fe9f2aacc5100.clo.footprintdns.com
 e1699.dscca.s.tl88.net
 e170af9be3bef5fbce2410a7a78b7e45.nrb.footprintdns.com
+e17437.dscb.akamaiedge.net
 e1780.g.akamaiedge.net
 e17c65c0b9f2e261097e4d.b-cdn.net
 e1875.c.akamaiedge.net
@@ -64723,6 +64728,7 @@ go-vip.net
 go.1-act.com
 go.100-all-shinshakan.com
 go.101edu.co
+go.10kview.com
 go.123loadboard.com
 go.1800gotjunk.com
 go.1sbc.com
@@ -69777,6 +69783,7 @@ googleforchina.com
 googlegroups.com
 googlehelper.net
 googlehosted.com
+googlehosted.l.googleusercontent.com
 googlehosted1.googleusercontent.com
 googleideas.com
 googleinsidesearch.com
@@ -86338,7 +86345,6 @@ kaieconblog.net
 kaifiluk.com
 kaifubiao.com
 kaigishitu.com
-kaihutai.cn
 kaijia.me
 kainidi.cn
 kairos.news
@@ -95703,7 +95709,6 @@ manholecrate.com
 manhua1.com
 manhua123.net
 manhua456.com
-manhuaba.cc
 manhuacat.com
 manhuadai.com
 manhuadao.com

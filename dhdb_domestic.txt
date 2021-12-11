@@ -5604,6 +5604,7 @@
 700935.shop.m.liebiao.com
 700bike.com
 700so.com
+700store.com
 70202s.com
 703804.com
 704cb5c0daa27477178a66285d1e65a2.safeframe.googlesyndication.com
@@ -6117,7 +6118,6 @@
 8.jrj.com
 8.jrj.com.cn
 8.pic.pc6.com
-80000.cc
 800020308.com
 8003605.com
 800400.net
@@ -8077,6 +8077,7 @@ acs.m.taobao.com
 acs.m.taopiaopiao.com
 acs.wapa.taobao.com
 acs.youku.com
+acs2.cp12.ott.cibntv.net
 acs4baichuan.m.taobao.com
 acshoes.com
 acsrq.com
@@ -16171,6 +16172,7 @@ cgi.vip.qq.com
 cgiaccess.tc.qq.com
 cgiaccess.tcdn.qq.com
 cgiale.com
+cgicol.amap.com
 cgiia.com
 cgjoy.com
 cgjoy.net
@@ -20547,6 +20549,7 @@ d2.sina.com.cn
 d2.sinaimg.cn
 d2.static.yximgs.com
 d2.static.yximgs.com.w.cdngslb.com
+d2.static.yximgs.com.w.cdngslb.com.qr.uuhimalayanqm.com
 d2.ugslb.com
 d2.yiche.com
 d20.net
@@ -22835,6 +22838,7 @@ dm.oadz.com
 dm.pstatp.com
 dm.sanwen8.com
 dm.sg92.com
+dm.toutiao.com
 dm.toutiao.com.w.cdngslb.com
 dm.toutiao.com.w.cdngslb.com.c.cdnuyun.cn
 dm.video.weibocdn.com
@@ -30026,6 +30030,7 @@ guibook.com
 guid.tpns.sh.tencent.com
 guid.tpns.tencent.com
 guide-acs.m.taobao.com
+guide-acs4miniapp-inner.m.taobao.com
 guidechem.com
 guiderank-app.com
 guiderank.org
@@ -36028,6 +36033,7 @@ inabr.com
 inad.com
 inadmin.convshop.com
 inapp.1sapp.com
+inapp.1sapp.com.w.kunlunpi.com
 inapp.1sapp.com.wswebcdn.com
 inappcheck-cn.itunes-apple.com.akadns.net
 inappcheck.itunes.apple.com.download.ks-cdn.com
@@ -41311,6 +41317,7 @@ lbesec.com
 lbgoo.com
 lbinin.com
 lbkrs.com
+lbl520.com
 lboyue.com
 lbs.mail.163.com
 lbs.map.qq.com

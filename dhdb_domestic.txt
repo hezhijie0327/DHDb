@@ -1387,7 +1387,6 @@
 1554369.p23.tc.cdntip.com
 155idc.com
 156.n.168810.cn
-156zy.com
 1573699.b2b.liebiao.com
 1573699.shop.liebiao.com
 157732.shop.liebiao.com
@@ -8735,6 +8734,7 @@ ae60.com
 aebiz.net
 aec188.com
 aecichina.com
+aecpm.alicdn.com.danuoyi.alicdn.com
 aedns.weixin.qq.com
 aeenets.com
 aef3l3ra.v1d.szbdyd.com
@@ -9500,6 +9500,7 @@ alime-pic.oss-cn-hangzhou.aliyuncs.com
 alimebot.com
 alimecard.alicdn.com
 alimecard.alicdn.com.danuoyi.tbcache.com
+alimei-api.alibaba.com
 alimei-auth.alibaba.com
 alimei.com
 alimelog.taobao.com
@@ -11263,6 +11264,7 @@ assets-share.dspunion.com.wswebcdn.com
 assets.115.com
 assets.116cd.com
 assets.51downapp.cn
+assets.alicdn.com
 assets.alicdn.com.danuoyi.tbcache.com
 assets.asklib.com
 assets.ckjr001.com
@@ -19249,6 +19251,7 @@ congtad.com
 congyicn.com
 conn.wemeet.tencent.com
 conn1.coloros.com
+conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com
@@ -42826,7 +42829,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -43843,7 +43845,6 @@ m.hao123.com
 m.haotoon.cn
 m.health.pingan.com
 m.hellobike.com
-m.hlcnzz.com
 m.hubpd.com
 m.hupu.com
 m.huxiu.com

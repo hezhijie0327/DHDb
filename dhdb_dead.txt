@@ -4253,6 +4253,7 @@ a-ups-presencecore14-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore14-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.centralus.cloudapp.azure.com
+a-ups-presencecore4-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.southeastasia.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.westus2.cloudapp.azure.com
@@ -8859,7 +8860,6 @@ assets.cookieconsent.silktide.com
 assets.fanart.tv
 assets.gitee.com
 assets.growingio.com.wswebpic.com
-assets.msn.com
 assets.onestore.ms
 assets.ps.easou.com
 assets.taobao.com.w.cdngslb.com
@@ -12400,7 +12400,6 @@ ca759.com
 ca761.com
 ca765.com
 ca769.com
-ca7706.com
 ca775.com
 ca779.com
 ca797.com
@@ -14527,7 +14526,6 @@ cm-trk3.com
 cm-trk5.com
 cm.adkmob.com
 cm.admaster.com.cn
-cm.ctnsnet.com
 cm.g.doubleclick.net
 cm.it.overture.com
 cm.keywordsconnect.com
@@ -15880,7 +15878,6 @@ cs77555.com
 cs88111.com
 cs88444.com
 cs8881.com
-cs9.wpc.v0cdn.net
 cs9222.com
 cs9444.com
 cs9555.com
@@ -19311,7 +19308,6 @@ download.ithome.com.tw
 download.parallels.com.cdn.cloudflare.net
 download.shuzilm.cn
 download.synology.com
-download.visualstudio.microsoft.com
 download.wholestuff.win
 download.zhushou.sogou.com
 download05.com
@@ -20550,7 +20546,6 @@ e521d17fa185a2.com
 e553bcf717698d33.com
 e578d08636706fcaf057c95c436b5fa9.jddebug.com
 e5871.e9.akamaiedge.net
-e5977.dsce9.akamaiedge.net
 e5b93f83bc6b3a9f0bf47f6ebf84c877.jddebug.com
 e5mbjzv.com
 e5o28q264rbh.www.cybernetman.com
@@ -25573,7 +25568,6 @@ go.ofn.org
 go.opsani.com
 go.optifuze.com
 go.paymode.com
-go.pcci.edu
 go.pefservices.com
 go.perdueagribusiness.com
 go.performanceinlighting.com
@@ -40049,6 +40043,7 @@ ni.hnjls.com.cn
 ni22.com
 niaa.org.au
 niajmtjqexq.co
+nian.so
 niancode.com
 niangaoxiansheng.com
 nibagsukpgndj.com

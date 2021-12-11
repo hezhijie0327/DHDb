@@ -5921,7 +5921,6 @@
 62.my.to
 62.shop.tm
 62.slyip.net
-62033.com
 620863.shop.m.cnlist.org
 620c663bca9a4.com
 6210k.com
@@ -8628,7 +8627,6 @@ a-ups-presencecore3-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.japaneast.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.southeastasia.cloudapp.azure.com
-a-ups-presencecore4-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.japaneast.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.westus2.cloudapp.azure.com
@@ -19147,6 +19145,7 @@ api.hfyhjg.cn
 api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
+api.hybrid.xiaomi.com
 api.iaddisabled.net.zooplus.de
 api.identitynow.com
 api.imqtyik.com
@@ -21230,6 +21229,7 @@ assets.igapi.com
 assets.klick.com
 assets.medicalnewstoday.com
 assets.msn.cn
+assets.msn.com
 assets.net.zooplus.com
 assets.net.zooplus.fr
 assets.netizen.co
@@ -37256,6 +37256,7 @@ cm-sg.wargaming.net
 cm.adgrx.com
 cm.adsafety.net
 cm.be
+cm.ctnsnet.com
 cm.epica.ai
 cm.everesttech.net
 cm.eyereturn.com
@@ -41361,6 +41362,7 @@ cs848.com
 cs8882.com
 cs897.com
 cs9.wac.phicdn.net
+cs9.wpc.v0cdn.net
 cs968.com
 cs983.com
 cs99666.com
@@ -50351,6 +50353,7 @@ e5439.x.akamaiedge.net
 e55.dspb.akamaiedge.net
 e584.g.akamaiedge.net
 e59440e6-dnsotls-ds.metric.gstatic.com
+e5977.dsce9.akamaiedge.net
 e5d93014837520f11db57538aa67fb2f.clo.footprintdns.com
 e5d944a25e468d.com
 e5f854f898a7c580ebd194a8a36ee424.clo.footprintdns.com
@@ -67630,6 +67633,7 @@ go.paysafecash.com
 go.payzer.com
 go.pbisrewards.com
 go.pblworks.org
+go.pcci.edu
 go.pcigeomatics.com
 go.pciglobal.org
 go.pcipal.com
@@ -77682,6 +77686,7 @@ ihg.com
 ihipop.info
 ihjtrncfoha.com
 ihktv.com
+ihlnews.com
 ihmnnz.flo.com.tr
 ihodop.equus.co.uk
 ihogaetw.com

@@ -33659,6 +33659,7 @@ cdn.opencmp.net
 cdn.opensourcefonts.org
 cdn.optimizely.com
 cdn.optmd.com
+cdn.paddle.com
 cdn.panelbear.com
 cdn.parsely.com
 cdn.pbgrd.com
@@ -50202,6 +50203,7 @@ e10448.f.akamaiedge.net
 e10489.a.akamaiedge.net
 e10499.dsce9.akamaiedge.net
 e10499.dsce9.akamaiedge.net.0.1.cn.akamaiedge.net
+e10583.dspg.akamaiedge.net
 e10583.g.akamaiedge.net
 e10666.g.akamaiedge.net
 e10776.b.akamaiedge.net
@@ -63736,6 +63738,7 @@ gfw.report
 gfw.wtf
 gfwatch.org
 gfwiygrvi.xyz
+gfwsl.geforce.com
 gfwvpn.com
 gfx.infomine.com
 gfx.io
@@ -68101,6 +68104,7 @@ go.scvo.org.uk
 go.scwomenlead.net
 go.sd-fit.jp
 go.sddco.com
+go.sdgs-action.jp
 go.sdlcpartners.com
 go.sdn.co.jp
 go.sdworx.com
@@ -69068,6 +69072,7 @@ go.yasudafootball.com
 go.ycg-advisory.jp
 go.yco.co.jp
 go.ye-digital.com
+go.yesenergy.com
 go.yit.fi
 go.ymcasf.org
 go.yoke.net
@@ -72401,7 +72406,6 @@ hastejuggle.com
 hastilyantiterrorist.com
 haswel.com
 hasznaltauto.hu
-hat358.com
 hatarako.net
 hatchbuck.com
 hatchetlavatory.com
@@ -72412,6 +72416,7 @@ hathick.info
 hatid.com
 hatlonely.com
 hatsadamantpushed.com
+hatsampledc.com
 hatsiklopedia.org
 hatter-story.info
 hattiesburgamerican.com
@@ -85534,6 +85539,7 @@ js17x.com
 js2.ad-stir.com
 js2.hdzog.com
 js2.idgdmgroup.com.cn
+js2.idgdmgroup.com.cn.w.kunluncan.com
 js2.keywordsconnect.com
 js221.com
 js22222.com
@@ -122298,6 +122304,7 @@ q1mediahydraplatform.com
 q1qq2.com
 q2.bet.flnet.org
 q2.com
+q2100.com
 q22w.com
 q2646.com
 q2678.com
@@ -122734,6 +122741,7 @@ qiwendi.com
 qiwenlu.blogspot.hk
 qiwentu.com
 qiwf8g.sn.files.1drv.com
+qixedu.com
 qixiandoc.com
 qixianglu.cn
 qixinbo.info

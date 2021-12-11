@@ -26859,6 +26859,7 @@ bitkan.com
 bitky.cc
 bitly.com
 bitly.is
+bitmain.vip
 bitmedia.io
 bitmedianetwork.com
 bitmessage.ch
@@ -28975,6 +28976,7 @@ boomerang-tv.pl
 boomerang-tv.ro
 boomerang.asia
 boomerang.com.au
+boomerang.dell.com
 boomeranghq.net
 boomerangla.com
 boomerangmena.com
@@ -29926,6 +29928,7 @@ bt.biz.tm
 bt.btvery.com
 bt.cc
 bt.com
+bt.dl1234.com
 bt.edwardk.info
 bt.firebit.org
 bt.hliang.com
@@ -34082,6 +34085,7 @@ cellphoneincentives.com
 cellstats.mako.co.il
 cellswallpaperstatements.com
 cellsystech.cn
+cellsystech.net
 cellularoutfitter.com
 cellulo.info
 celo.net
@@ -41321,7 +41325,6 @@ cs148.com
 cs154.com
 cs154.wac.edgecastcdn.net
 cs155.com
-cs194.com
 cs203.com
 cs204.com
 cs207.com
@@ -43157,6 +43160,7 @@ d2r1yp2w7bby2u.cloudfront.net
 d2r3rw91i5z1w9.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
+d2s5b55enf5um0.cloudfront.net
 d2s8wlbatk24s7.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
 d2sbzwmcg5amr3.cloudfront.net
@@ -59772,6 +59776,7 @@ fp-afd.azureedge.us
 fp-afd.azurefd.net
 fp-afd.azurefd.us
 fp-as-nocache.azureedge.net
+fp-as.azureedge.net
 fp-cdn.azureedge.net
 fp-vp.azureedge.net
 fp-vs-nocache.azureedge.net
@@ -70667,6 +70672,7 @@ growyourbusiness.rovva.com
 grpc.termius.com
 grptrker.com
 grrrgraphics.com
+grs.dbankcloud.asia
 grs.dbankcloud.com
 grss-ieee.org
 grt01.com
@@ -70803,6 +70809,8 @@ gsp4-cn.ls.apple.com
 gsp4-cn.ls.apple.com.edgekey.net
 gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 gsp5-cn.ls.apple.com
+gsp64-ssl.ls.apple.com
+gspe1-ssl.ls.apple.com
 gspe11-ssl.ls.apple.com.edgekey.net
 gspe21-ssl.ls-apple.com.akadns.net
 gspe21-ssl.ls.apple.com
@@ -93633,7 +93641,6 @@ luckyvitamin.com
 luckyyou.vip
 lucretius-ada.com
 lucrorfx.org
-lucting.cn
 lucyintheskywithdi.com
 lucylent.com
 luda.dxp.lenovo.com

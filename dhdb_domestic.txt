@@ -9489,7 +9489,6 @@ alilaspa.cn
 alili.tech
 aliliving.alicdn.com
 aliliving.alicdn.com.danuoyi.tbcache.com
-aliloan.com
 alimama.alicdn.com
 alimama.com
 alimb.top
@@ -10520,6 +10519,7 @@ api.vlightv.com
 api.vuevideo.net
 api.weathercn.com
 api.weibo.cn
+api.weibo.com
 api.weishi.qq.com
 api.weixin.qq.com
 api.wesure.cn
@@ -17395,6 +17395,7 @@ chplayer.com
 chqgwy.org
 chqsw.cn
 chr33z.gallerycdn.azure.cn
+chrain.wang
 chrent.com
 chrice.net
 chrieschina.com
@@ -21262,6 +21263,7 @@ datacard.qidian.qq.com.sched.px-dk.tdnsv6.com
 datacenter.live.qcloud.com
 dataesb.com
 dataeye.com
+dataflow.biliapi.com
 dataflow.dx.vip.tantanapp.com
 dataflow.snm0516.aisee.tv
 datagear.tech
@@ -21590,6 +21592,7 @@ ddmap.com
 ddmeishi.com
 ddmer.com
 ddmogo.com
+ddmyapp.wscdn.tcdn.qq.com
 ddmyapp.wscdn.tcdn.qq.com.lxdns.com
 ddnddn.com
 ddnsto.com
@@ -27096,6 +27099,7 @@ file.mengtuiapp.com.w.kunlunar.com
 file.mysmth.net
 file.neixin.cn
 file.service.qq.com
+file.thepaper.cn
 file.youlai.cn
 file0.assrt.net
 file01.mengtuiapp.com
@@ -46907,7 +46911,6 @@ my5m.com
 my5v.com
 my607.com
 my68.com
-my7475.com
 my7v.com
 my88316666.com
 my9166.com

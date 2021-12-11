@@ -7382,6 +7382,7 @@ aligiao.info
 alignmentdisabled.net
 alikmd.com
 aliliying.com
+aliloan.com
 alimama.cn
 alimei-api.alibaba.com
 alimmdn.com
@@ -8217,7 +8218,6 @@ api.uom.cn
 api.vasb.cn
 api.w.inmobi.com
 api.wapa.taobao.com
-api.weibo.com
 api.weltevree.eu
 api.whizzone.com
 api.xc17868.com
@@ -11384,7 +11384,6 @@ boombeachhackz.com
 boombeachtricks.com
 boombeachunlimited.com
 boomcash.org
-boomerang.dell.com
 booms.cc
 boomss.cc
 boomssr.com
@@ -11688,7 +11687,6 @@ bt-xd.com
 bt.aoeex.com
 bt.careland.com.cn
 bt.delbertbeta.cc
-bt.dl1234.com
 bt.dy20188.com
 bt.hackfront.eu
 bt.henbt.com
@@ -15857,6 +15855,7 @@ cs140.com
 cs172.com
 cs192.com
 cs193.com
+cs194.com
 cs197.com
 cs2c.com
 cs345.com
@@ -17191,7 +17190,6 @@ d2qze7ou8n69d0.cloudfront.net
 d2r33j4rn8i3g5.cloudfront.net
 d2r7bmv6l6bnd1.cloudfront.net
 d2rdpw23tn7qg8.cloudfront.net
-d2s5b55enf5um0.cloudfront.net
 d2s7jtuv2mt6lv.cloudfront.net
 d2s8qxo7hs115t.cloudfront.net
 d2s9m49id0uj1s.cloudfront.net
@@ -17788,7 +17786,6 @@ datacenter.lenovo.com
 datacname.com
 datacoral.io
 datadragon.net
-dataflow.biliapi.com
 datahubtrack.com
 datanoticias.prisasd.com
 datasavannah.com
@@ -18022,7 +18019,6 @@ ddli.jp
 ddlives.com
 ddm.nctu.me
 ddms.jd.com.gslb.qianxun.com
-ddmyapp.wscdn.tcdn.qq.com
 ddnete.com
 ddns-only.xyz
 ddns.info
@@ -22901,7 +22897,6 @@ file-online.ru
 file-shares.com
 file.cbs.co.kr
 file.market.xiaomi.com
-file.thepaper.cn
 file.xmpush.xiaomi.com
 file001.com
 fileblast.org
@@ -23476,7 +23471,6 @@ foxtvdvd.com
 foxuv.com
 foyvizvujsor.com
 fozescetgcxogs.localdomain
-fp-as.azureedge.net
 fp-vp-nocache.azureedge.net
 fp-vs.azureedge.net
 fp.jj59.com
@@ -26073,7 +26067,6 @@ grouteg.com
 growin.cn
 growltoe.com
 growtopia.work
-grs.dbankcloud.asia
 grs.dbankcloud.eu
 grsea.cn
 grt02.org
@@ -26126,8 +26119,6 @@ gsp.cnzz.kld666.com
 gsp0.baidu.com
 gsp1.baidu.com
 gsp64-ssl.ls-apple.com.akadns.net
-gsp64-ssl.ls.apple.com
-gspe1-ssl.ls.apple.com
 gsportsgroup.co.kr
 gssdsj.com
 gssfgk.com
@@ -35141,6 +35132,7 @@ luckyserverhostdata.ddns.net
 luckyshopgo.com
 luckytf2games.com
 luckyxdrop.com
+lucting.cn
 ludlowadvertiser-gb.ludlowadvertiser.co.uk
 ludo-cado.com
 ludo-cados.com

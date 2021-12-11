@@ -9388,6 +9388,7 @@ ali-p2p.pull.yximgs.com
 ali-p2p.pull.yximgs.com.w.alikunlun.com
 ali-proxy.pull.yximgs.com
 ali-proxy.pull.yximgs.com.w.alikunlun.net
+ali-safety-video.acfun.cn.w.alikunlun.com
 ali-safety-video.acfun.cn.w.alikunlun.com.qr.uuhimalayanqm.com
 ali-stats.jpush.cn
 ali-xdcmt.static.yximgs.com
@@ -17367,7 +17368,6 @@ chong.santiyun.com
 chong2c.santiyun.com
 chong4.net
 chongai.co
-chongbaoge.com
 chongbuluo.com
 chongcaojunganbaoyudunshourou.top
 chongchi.com
@@ -21245,6 +21245,7 @@ data.sonkwo.com
 data.trendymedia.com.cn
 data.tvguo.tv
 data.video.dns.iqiyi.com
+data.video.iqiyi.com
 data.video.ptqy.gitv.tv
 data.vod.itc.cn
 data.wuseng.net
@@ -26696,7 +26697,6 @@ fcz360.com
 fczx.com
 fd-trust.com
 fd.3.cn
-fd.3.cn.gslb.qianxun.com
 fd.qchannel03.cn
 fd167.com
 fd173.cn

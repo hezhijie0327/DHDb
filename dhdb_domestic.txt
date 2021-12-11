@@ -5385,7 +5385,6 @@
 668app.com
 668cp00.com
 668cp77.com
-668cp99.com
 668lw.com
 668map.com
 668news.com
@@ -9497,6 +9496,7 @@ alime-pic.oss-cn-hangzhou.aliyuncs.com
 alimebot.com
 alimecard.alicdn.com
 alimecard.alicdn.com.danuoyi.tbcache.com
+alimei-auth.alibaba.com
 alimei.com
 alimelog.taobao.com
 alimov2.a.kwimgs.com
@@ -10807,6 +10807,7 @@ appapis.dmall.com
 appapisdk.tanv.com
 apparelsos.com
 appbacklog.dftoutiao.com
+appbackupapi.micloud.xiaomi.net
 appbi.com
 appbocai.com
 appbox.qq.com
@@ -22825,6 +22826,7 @@ dm.jinshasi.cn
 dm.jsyst.cn
 dm.lianzhixiu.com
 dm.oadz.com
+dm.pstatp.com
 dm.sanwen8.com
 dm.sg92.com
 dm.toutiao.com.w.cdngslb.com
@@ -36234,6 +36236,7 @@ ins.xfyun.cn
 insarticle.com
 insenz.com
 inside-gateway.alipay.com
+inside.baidu.com
 inside.rtbasia.com
 insight.cloud.tencent.com
 insights.1688.com
@@ -44429,7 +44432,6 @@ manpianyi.com
 manshen.net
 manshitea.com
 mantutu.com
-manuelu.com
 manwuxian123.com
 manxiu-law.com
 many88.com

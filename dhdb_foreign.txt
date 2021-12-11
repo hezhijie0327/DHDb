@@ -9146,6 +9146,7 @@ a1806.dscb.akamai.net.0.1.cn.akamaitech.net
 a1813.cn.w.tl88.net
 a1813.dscd.akamai.net
 a1815.co.w.tl88.net
+a1818.dscg2.akamai.net
 a1825.dscd.akamai.net
 a1834.dspg2.akamai.net
 a1835.g2.akamai.net
@@ -10030,6 +10031,7 @@ aax-cpm.amazon-adsystem.com
 aax-eu-dub.amazon.com
 aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
+aax-us-pdx.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
 aax.amazon-adsystem.com
 aaxdetect.com
@@ -10275,6 +10277,7 @@ ablink.help.sanvello.com
 ablink.help.shopwell.com
 ablink.info.felixmobile.com.au
 ablink.info.pressreader.com
+ablink.info.sofi.org
 ablink.info.themarket.nz
 ablink.info.timhortons.ca
 ablink.info.timhortons.com
@@ -39420,6 +39423,7 @@ content.entercom.com
 content.eposnow.com
 content.ert.com
 content.exclaimer.com
+content.fabasoft.com
 content.familyfeatures.com
 content.fe.apple-dns.net
 content.fico.com
@@ -41378,7 +41382,6 @@ cscp820.com
 csdata1.com
 csdc1111.com
 csdc2.com
-csdc2222.com
 csdc33.com
 csdc3333.com
 csdc5.com
@@ -41739,6 +41742,7 @@ cssrvsync.com
 csswgq.com
 cssyq.com
 cst-ltda.cl
+cstat.apple.com
 cstatic.net
 cstats.sankakucomplex.com
 cstimer.net
@@ -60467,7 +60471,6 @@ freerussiasex.com
 frees2020.com
 freesafeip.com
 freeschoolproxy.com
-freeserver.se
 freeservers.com
 freeshoemoon.com
 freeshoppingchina.com
@@ -62225,6 +62228,7 @@ gamhack.com
 gamigo.de
 gamigoads.com
 gaming-at-my.best
+gaming-config.asus.com
 gaming-notebooks.com
 gaming-universe.de
 gaming1.com
@@ -70291,7 +70295,6 @@ gratisjuegos.org
 gratisnetwork.com
 gratisography.ga
 gratisvps.net
-gratisway.com
 gratka.pl
 gratuit-hack.com
 gratuitfile.com
@@ -75642,6 +75645,7 @@ httpaccess.com
 httpads.com
 httpbaidu.com
 httpdns.ocloud.heytapmobi.com
+httpdns.push.heytapmobi.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
 httpool.com
@@ -79252,6 +79256,7 @@ info.cloud-ace.jp
 info.cloud4wi.com
 info.cloud9realtime.com
 info.cloudcheckr.com
+info.cloudflare.com
 info.cloudreach.com
 info.clubdaikin.jp
 info.coaradrive.com
@@ -94272,6 +94277,7 @@ m.dumanhhua.com
 m.dy9907.com
 m.dydd.xyz
 m.dzcp8999.com
+m.dzdkw9.cn
 m.e8121.com
 m.ecenf.com
 m.ediun.com
@@ -98859,6 +98865,7 @@ meerihoh.net
 meeriwelt.de
 meerkat.inprivy.io
 meerkat.missinglettr.com
+meerkat.nilsmielke.me
 meet-csr12.net.zooplus.de
 meet.maddyness.com
 meet.new
@@ -118626,6 +118633,7 @@ polyfill.bbhub.io
 polyfill.io
 polygon.com
 polygon.net
+polyhz.com
 polymath.net
 polymedia.nl
 polymer-project.org

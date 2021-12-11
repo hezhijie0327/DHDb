@@ -8214,6 +8214,7 @@ ad.de.doubleclick.net
 ad.dedecms.com
 ad.dev.360.cn
 ad.dongdong.madserving.com
+ad.doubleclick.net
 ad.duomi.com
 ad.dzwindows.com
 ad.dzwww.com
@@ -8950,6 +8951,7 @@ ai.cc
 ai.m.taobao.com
 ai.taobao.com
 ai.voiceads.cn
+ai.youdao.com
 ai7.com
 ai780.com
 ai9475.com
@@ -14406,6 +14408,7 @@ bv.lnk0.com
 bv0i0u0.cdnnodedns.cn
 bvakl.ifeng.com
 bvbfans.net
+bvc.bilivideo.com
 bvgv.com
 bvseo.com
 bw.bilibili.com
@@ -14869,6 +14872,7 @@ cacerts.digicert.cn
 cacerts.digicert.cn.w.cdngslb.com
 cacfo.com
 cache.a.market.xiaomi.com
+cache.amap.com
 cache.amap.com.danuoyi.tbcache.com
 cache.cnzz.com
 cache.m.ptqy.gitv.tv
@@ -15283,6 +15287,7 @@ cbs.wondershare.com
 cbsrb.com
 cbtimer.com
 cbu-newer.oss-cn-hangzhou.aliyuncs.com
+cbu01.alicdn.com
 cbu01.alicdn.com.danuoyi.tbcache.com
 cbuagwcmn.1688.com
 cburi.com
@@ -29197,6 +29202,7 @@ glbdqn.com
 glcanyin.net
 glcct.com
 gleasy.com
+glg.uu.163.com
 glgczk.com
 glike.me
 glinfo.com

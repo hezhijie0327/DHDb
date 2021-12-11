@@ -5388,7 +5388,6 @@
 668lw.com
 668map.com
 668news.com
-66991a.com
 669pic.com
 669play.com
 669ye.com
@@ -7837,6 +7836,7 @@ aaid.amap.com
 aaid.umeng.com
 aaid.uyunad.com
 aaniao.com
+aapl-maps.qtlcdn.com
 aardio.com
 aaspt.net
 aatccn.com
@@ -8103,6 +8103,7 @@ actacams.com
 actamath.com
 actcn.net
 action.chinaedu.net
+action.logger.baofeng.com
 action.weixin.qq.com
 actionsky.com
 activate-channel-guide.yy.com
@@ -14113,6 +14114,7 @@ bqrank.net
 bqrdh.com
 bqteng.com
 br.linkedin.com
+brand.lenovo.com.cn
 brand.lenovo.com.cn.wswebcdn.com
 brand4x4.com
 brandadsstatic.vivo.com.cn
@@ -18895,6 +18897,7 @@ cnzhiyuanhui.com
 cnzhqs.com
 cnzjol.com
 cnzlapp.com
+cnzmyn.com
 cnzsqh.com
 cnzsyz.com
 cnzxsoft.com
@@ -22507,6 +22510,7 @@ diuling.com
 diushouji.com
 div.io
 diviner.jd.com
+diviner.jd.com.gslb.qianxun.com
 division-data.alicdn.com
 diwork.com
 dixintong.com

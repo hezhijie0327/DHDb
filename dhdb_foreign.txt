@@ -2790,6 +2790,7 @@
 233v2.com
 233xiao.com
 233yes.com
+234.93.38.59.zz.countries.nerd.dk
 234.info.tm
 234.slyip.net
 2341.a.dlads.cn
@@ -4191,7 +4192,6 @@
 3d.shophumanoid.com
 3d0cb547.space
 3d0da2373af57.com
-3d1a1e7f6db3.com
 3d2013.com
 3d722359-dnsotls-ds.metric.gstatic.com
 3days.cc
@@ -24728,6 +24728,7 @@ beacon.gutefrage.net
 beacon.indieclick.com
 beacon.indieclicktv.com
 beacon.kmi-us.com
+beacon.krxd.net
 beacon.livefyre.com
 beacon.lycos.com
 beacon.lynx.cognitivlabs.com
@@ -26606,6 +26607,7 @@ biqufu.com
 biqug.org
 biquge.lu
 biquge.tw
+biquge.vip
 biquge0.cc
 biquge11.com
 biquge22.com
@@ -28010,6 +28012,7 @@ bmgo.life
 bmh001.com
 bmia.org
 bmicapa.org
+bmitacnz2-my.sharepoint.com
 bmitacnz2.sharepoint.com
 bmjmse.softsurroundings.com
 bmkz57b79pxk.com
@@ -33060,6 +33063,7 @@ cbviho.easyvols.fr
 cbvjddh.23txt.com
 cby.me
 cc-api-behance.adobe.io
+cc-api-data.adobe.io
 cc-api-teamprojects-ue1.adobe.io
 cc-api-teamprojects.adobe.io
 cc-asse-05-skype.cloudapp.net
@@ -36117,6 +36121,7 @@ ck80eq-dnsotls-ds.metric.gstatic.com
 ckaiv.com
 ckck.fun
 ckcsuk.com
+ckeckstatus.biz
 ckernel.org
 ckf\000im-dnsotls-ds.metric.gstatic.com
 ckg.vipyl.com
@@ -41304,6 +41309,7 @@ cs214.com
 cs216.com
 cs217.com
 cs219.com
+cs22.wpc.v0cdn.net
 cs224.com
 cs225.com
 cs22666.com
@@ -43255,6 +43261,7 @@ d3a00ifauhjdp.cloudfront.net
 d3a059z3oq57cv.cloudfront.net
 d3a42c7xs4vn3.cloudfront.net
 d3a49eam5ump99.cloudfront.net
+d3ag4hukkh62yn.cloudfront.net
 d3ahinqqx1dy5v.cloudfront.net
 d3aiy6aqoa3ykz.cloudfront.net
 d3asksgk2foh5m.cloudfront.net
@@ -52460,6 +52467,7 @@ elqtrk.morningstar.fr
 elqtrk.morningstar.hk
 elqtrk.morningstar.it
 elqtrk.morningstar.no
+elqtrk.morningstar.pt
 elqtrk.morningstar.se
 elqtrk.morningstarbr.com
 elqtrk.morningstarfunds.ie
@@ -58867,6 +58875,7 @@ fmf.fe.apple-dns.net
 fmfmobile.fe.apple-dns.net
 fmip.fe.apple-dns.net
 fmipmobile.fe.apple-dns.net
+fmipmobile.icloud.com
 fmketang.com
 fmkfzc.com
 fmkgvu.nestpick.com
@@ -61205,6 +61214,7 @@ fun809.com
 fun88-mvp.com
 fun88.com.cn
 fun8802.com
+fun8807.com
 fun8809.com
 fun8810.com
 fun88126.com
@@ -89429,7 +89439,6 @@ latam.thomsonreuters.com
 latampartneruniversity.com
 latamvmwareforum.com
 latamy.pl
-lataurir.com
 latchss.com
 late6year.com
 late8chew.com
@@ -100783,6 +100792,7 @@ mgmtail.net.zooplus.es
 mgmtdata.epmdisabled.net.zooplus.de
 mgmtgh.api.disabled.net.zooplus.de
 mgmting.net.zooplus.nl
+mgmtssl.net.zooplus.de
 mgmtvision.net.daraz.com
 mgn.ebis.andbe-official.com
 mgo-images.com

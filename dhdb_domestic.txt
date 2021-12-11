@@ -8742,7 +8742,6 @@ aegis.cdn-go.cn
 aegis.qq.com
 aehyok.com
 aemedia.org
-aencx.net
 aeo-cctv.com
 aeonlifes.com
 aepku.com
@@ -10319,7 +10318,6 @@ api.assistant.miui.com
 api.auto.ifeng.com
 api.baike.sogou.com
 api.bayimob.com
-api.bd-gl.com
 api.bigfun.cn
 api.biliapi.net
 api.bilibili.com
@@ -10743,6 +10741,7 @@ app.alipay.com
 app.aplus.pptv.com
 app.b2b168.com
 app.biliapi.net
+app.bilibili.com
 app.biligame.com
 app.cctv.com
 app.chat.xiaomi.net
@@ -15367,6 +15366,7 @@ ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
+ccflbs.m.jd.com
 ccflow.org
 ccfund.com.cn
 ccgaa.com
@@ -27137,6 +27137,7 @@ fillersmart.com
 fillseo.com
 film.qq.com
 films666.com
+filmtv.cdn.ptmi.gitv.tv
 fim34s.com
 fimmu.com
 fimvisual.com
@@ -34758,6 +34759,7 @@ idcbest.hk
 idccenter.net
 idcconfig.gcloudsdk.com
 idccun.com
+idceb.com
 idcfengye.com
 idchz.com
 idcicp.com
@@ -36110,6 +36112,7 @@ info.stockstar.com
 info.umeng.com
 info.wps.cn
 info.yitsoftware.com
+info.zb.qq.com
 info.zb.video.qq.com
 info.zuimeitianqi.com
 info10.com
@@ -41320,7 +41323,6 @@ layabox.com
 layout-meituan-net.b0.aicdn.com
 layout.meituan.net
 layuicdn.com
-layyi.com
 lb-pkx01-offline.zhihu.com
 lb-slb-xy-ad-qcsh-001.slb.xyniubi.com
 lb-uc.missfresh.net
@@ -43898,6 +43900,7 @@ m.mhxin.com
 m.mi.com
 m.mijisou.com
 m.mpl.dutils.com
+m.mtuoa.com
 m.myams.cn
 m.nabeghlavi.com.cn
 m.nb.17house.com
@@ -46636,6 +46639,7 @@ msmov.a.yximgs.com.mcchcdn.com
 msn-china.bing123.com
 msn1.com
 msoftdl.360.cn
+msoso.com
 msp.ccc.cmbchina.com
 mspharm.com
 msphoneclick.kuwo.cn

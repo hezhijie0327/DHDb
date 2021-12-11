@@ -7713,7 +7713,6 @@
 8s8s.net
 8slhem-dnsotls-ds.metric.gstatic.com
 8teenxxx.com
-8testov.ru
 8toto.com
 8tube.com
 8ue9q7i.com
@@ -22527,6 +22526,7 @@ aws.management.tpe.net.zooplus.de
 aws.net.daraz.com
 aws.net.zooplus.com
 aws.owa.net.zooplus.fr
+aws1.discourse-cdn.com
 awsapps.com
 awsatstb.com
 awsautopilot.com
@@ -23229,7 +23229,6 @@ ba125.com
 ba32365df2.com
 ba5ed55a0d56f15.com
 ba778f04-dnsotls-ds.metric.gstatic.com
-ba88800.com
 baa2e174884c9c0460e.com
 baabao.com
 baadesaba.ir
@@ -30516,6 +30515,7 @@ businessweeks.com
 busions.com
 busiphi.com
 busiyi888.com
+busjav.cc
 buspar.1.p2l.info
 buspirone.1.p2l.info
 busrol.st-eustachenissan.com
@@ -41862,7 +41862,6 @@ ctlega.elago.co.kr
 ctllib-ln-2.net.daraz.com
 ctm-media.com
 ctmconnect.com
-ctmon.com
 ctnetwork.hu
 ctohome.com
 ctor.io
@@ -42158,6 +42157,7 @@ customer-4876.micpn.com
 customer-allseason.net.daraz.com
 customer-center.baumueller.com
 customer-servicessl.net.zooplus.de
+customer.cludo.com.cdn.cloudflare.net
 customer.heartinternet.co.uk
 customer.io
 customer.living-life.co.jp
@@ -76697,7 +76697,6 @@ i5seo.com
 i6.cmail20.com
 i6.imageban.ru
 i6.liadm.com
-i6.weather.oppomobile.com
 i60702.com
 i6879.com
 i7bg4.5.shop.tm
@@ -80794,6 +80793,7 @@ init-s01st-lb.push-apple.com.akadns.net
 init-s01st.push.apple.com
 init.ess.apple.com
 init.gc.apple.com
+init.itunes.apple.com
 init.push-apple.com.akadns.net
 init.push.apple.com
 init.shop
@@ -105386,6 +105386,7 @@ mz-web.de
 mz.mine.bz
 mz5k.vip
 mz6.net
+mzbb8872.cn
 mzbsdt.mobilityhouse.com
 mzcsdf.com
 mzeat.com
@@ -122506,6 +122507,7 @@ qhkhchjqawst.com
 qhm123.com
 qhmanhua.com
 qhnwj.com
+qhqofqeivtno.com
 qhscw.net
 qhserver.com
 qhubwe-dnsotls-ds.metric.gstatic.com

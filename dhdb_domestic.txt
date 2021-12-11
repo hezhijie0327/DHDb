@@ -4389,7 +4389,6 @@
 51spm.com
 51sxue.cn
 51sxue.com
-51syoo.com
 51talk.com
 51tao.com
 51taonan.com
@@ -9538,6 +9537,7 @@ aliqcmmov.a.etoote.com.w.alikunlun.com
 aliqiche.com
 aliresearch.com
 alisitecdn.m.taobao.com
+alisitecdn.m.taobao.com.w.alikunlun.com
 alisoft.com
 alisports.com
 alissl.ucdl.pp.uc.cn
@@ -11256,6 +11256,7 @@ assets-share.dspunion.com.wswebcdn.com
 assets.115.com
 assets.116cd.com
 assets.51downapp.cn
+assets.alicdn.com.danuoyi.tbcache.com
 assets.asklib.com
 assets.ckjr001.com
 assets.dspunion.com
@@ -11443,6 +11444,7 @@ auto.youth.cn
 auto.youth.cn.wswebcdn.com
 auto1.sinaimg.cn
 auto18.com
+auto2.sinaimg.cn
 auto318.com
 auto328.com
 auto333.com
@@ -30697,6 +30699,7 @@ h5seeds-open.xycdn.com
 h5seeds-open.xycdn.com.gslb.p2cdn.com
 h5sg.com
 h5shuo.com
+h5speed.m.jd.com
 h5speed.m.jd.com.gslb.qianxun.com
 h5ssl.1sapp.com
 h5ssl.1sapp.com.wswebpic.com
@@ -30708,6 +30711,7 @@ h5tk.p2plive.8686c.com.wsdvs.com
 h5tpl.com
 h5uc.com
 h5vv.play.aiseet.atianqi.com
+h5vv.video.qq.com
 h5vv6.video.qq.com
 h5war.com
 h5youxi.com
@@ -55292,7 +55296,6 @@ res.hduofen.cn
 res.hpoi.net.cn
 res.hunantv.com
 res.icast.cn
-res.icekr.com
 res.imtt.qq.com
 res.imtt.x2.sched.dcloudstc.com
 res.ipingke.com

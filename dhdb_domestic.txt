@@ -18080,6 +18080,7 @@ cltt.org
 club-img.douyucdn.cn
 club-v4.chinanorth.cloudapp.chinacloudapi.cn
 club.bilibili.com
+club.jd.com
 club.jd.com.gslb.qianxun.com
 club.lenovo.com.cn
 club.m.autohome.com.cn
@@ -24351,7 +24352,6 @@ dwrh.net
 dwsedu.com
 dwstatic.com
 dwstock.com
-dwsyw.com
 dwt.life
 dwtedx.com
 dwtracking.sdo.com
@@ -28292,6 +28292,7 @@ game.adwo.com
 game.ali213.net
 game.baichuanhd.cn
 game.bilibili.com
+game.bilibili.com.w.cdngslb.com
 game.chillyroom.com
 game.china.com
 game.eve.mdt.qq.com
@@ -43153,6 +43154,7 @@ love.furenkeji.com
 love.tv
 love1992.com
 love21cn.com
+love3721.com
 love778.com
 love85g.com
 lovean.com

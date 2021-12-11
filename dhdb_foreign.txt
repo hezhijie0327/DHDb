@@ -19632,7 +19632,6 @@ app.noreply.cummins.com
 app.nvidia.com
 app.old.legacy.tester.net.zooplus.com
 app.omio.com
-app.pchome.net
 app.peardeck.com
 app.pendo.io
 app.phimvu.app
@@ -20137,6 +20136,7 @@ apps.bazaarvoice.com
 apps.box.com
 apps.buzzcity.net
 apps.car21.net.daraz.com
+apps.corel.com
 apps.data.net.zooplus.de
 apps.digsigtrust.com
 apps.education2020.com
@@ -21286,6 +21286,7 @@ assetssummer.net.daraz.com
 assetssupport.api.net.zooplus.de
 assetsyancancook.net.daraz.com
 asshole.com
+assigned.cn
 assignedlikecrawford.com
 assimilatesmartlyawfully.com
 assimp.org
@@ -24783,7 +24784,6 @@ beaconevents.com
 beaconin2.notinote.me
 beacons.brandads.net
 beacons.mediamelon.com
-beacons2.gvt2.com
 beacons4.gvt2.com
 beacons5.gvt2.com
 beaconsco.com
@@ -43918,6 +43918,7 @@ dana8herb.com
 danaher-my.sharepoint.com
 danaher.com
 danaher.service-now.com
+danaher.sharepoint.com
 danaherconnect.com
 danamivi.com
 danangmo.cn
@@ -47647,6 +47648,7 @@ dns-cloud.net
 dns-diy.net
 dns-dns.com
 dns-doh-no-safe-search.dnsforfamily.com
+dns-family.adguard.com
 dns-nyc.aaflalo.me
 dns-over-https.com
 dns-shop.ru
@@ -50367,6 +50369,7 @@ e5308.x.akamaiedge.net
 e5439.x.akamaiedge.net
 e55.dspb.akamaiedge.net
 e584.g.akamaiedge.net
+e5871.e9.akamaiedge.net
 e59440e6-dnsotls-ds.metric.gstatic.com
 e5977.dsce9.akamaiedge.net
 e5d93014837520f11db57538aa67fb2f.clo.footprintdns.com
@@ -82897,6 +82900,7 @@ istat24.com
 istatmenus.app
 istats.nl
 istcg.com
+istcs.top
 istgah.com
 istio.io
 istmein.de
@@ -83514,6 +83518,7 @@ j2976.com
 j2interactive.com
 j2j.ru
 j2objc.org
+j32aa.com
 j35.co
 j35897.com
 j3hwmp9uprdrkwnev3npevj7mlt2x1620916487.nuid.imrworldwide.com
@@ -103541,7 +103546,6 @@ mousetrace.com
 mousheen.net
 mout.me
 mouthshut.com
-moutoofa.com
 mov.im
 movable-ink-6710.com
 movad.de
@@ -106540,7 +106544,6 @@ netbian.net
 netbig.com
 netbina.com
 netbirds.com
-netbiscuits.net
 netbookia.net
 netbotz.net.daraz.com
 netbul.com
@@ -106979,6 +106982,7 @@ news-back.com
 news-back.org
 news-back2.com
 news-central.me
+news-code.com
 news-delta.com
 news-easy.com
 news-easy.org

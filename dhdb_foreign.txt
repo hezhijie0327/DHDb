@@ -1854,6 +1854,7 @@
 17zhaole.com
 17zheng.cn
 17zixue.com
+18-courier.push.apple.com
 18-courier2.push.apple.com
 18-luck.com
 18-plus.net
@@ -9167,6 +9168,7 @@ a1910.dscq.akamai.net
 a1931.dscgi3.akamai.net
 a1931.dscgi3.akamai.net.0.1.cn.akamaitech.net
 a1943.dscb.akamai.net
+a1951.dscb.akamai.net
 a1952.dspw65.akamai.net
 a19537.actonservice.com
 a1956.dscb.akamai.net
@@ -16849,7 +16851,6 @@ alodokter.com
 aloeparssabres.com
 aloetichansels.casa
 alogationa.co
-alogus.umeng.com
 aloha-news.net
 alohabrowser.com
 alohafromdeer.com
@@ -19731,7 +19732,6 @@ appcloudcdn.com
 appconsent.io
 appcontent.serif.com
 appdatum.com
-appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appdump.nie.netease.com
@@ -34931,7 +34931,6 @@ checkgfw.com
 checkhit.com
 checkifyouarealive.me
 checking-in-progress.com
-checkingstranglecommunicated.com
 checkip.biz
 checkip.dyndns.org
 checkip.synology.com
@@ -50198,6 +50197,7 @@ e.xeihy.com
 e.xkqpco.com.com
 e.xmgysweb.com
 e.xxkio.com
+e.yerpt.com
 e.yicang8.com
 e00a17117b.a5ee094155.com
 e0114773-dnsotls-ds.metric.gstatic.com
@@ -89604,7 +89604,6 @@ laurieconstitutionalsupposedly.com
 lauriegrowingdrops.com
 lauriestatuestroll.com
 lausan.hk
-lauwhada.com
 lavageethion.com
 lavah5bibliotecaroduction.beta.hyperwallet.com
 laval.cl
@@ -95663,7 +95662,6 @@ mamoapps.com
 mamoru-kun.com
 mamservice.manage.microsoft.com
 mamsy.ru
-mamwelsprodcloudsea.cloudapp.net
 mamwelsprodsharedtm.trafficmanager.net
 mamydirect.com
 mamypoko.com
@@ -119689,7 +119687,6 @@ precisionnanosystems.com
 precor.com
 precorparts.com
 precrack.com
-precursoruphill.com
 predatorhacks.com
 predatorridge.com
 predicamentsorting.com
@@ -122416,6 +122413,7 @@ qc.kqbd88.com
 qc.tclup.com
 qc.to
 qc.violet.vn
+qc178.com
 qc1n.66.flnet.org
 qcaebg.nos.pt
 qcash.ws

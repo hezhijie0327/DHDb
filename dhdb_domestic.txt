@@ -10402,6 +10402,7 @@ api.im.weibo.cn
 api.inews.qq.com
 api.inmeng.net
 api.installer.xiaomi.com
+api.interaction.sohu.com
 api.io.mi.com
 api.iplay.163.com
 api.iqiyi.com
@@ -11171,6 +11172,7 @@ as.nidongme.com
 as.qunliao.info
 as.weixin.qq.com
 as.xiaojukeji.com
+as1.binstream.live
 as1.m.hao123.com
 as1.wenku.baidu.com
 as2.binstream.live
@@ -12046,7 +12048,6 @@ baikezh.com
 bailiaijia.com
 bailiangroup.com
 bailiban.com
-bailifei.com
 bailiguangmang.com
 bailitech.com
 bailitop.com
@@ -18537,7 +18538,6 @@ cnc.quickconnect.cn
 cnc.qzs.qq.com
 cnca.cn
 cnca.net
-cncbinternational.com
 cncc7.com
 cnccac.com
 cnccchina.com
@@ -23909,7 +23909,6 @@ dtxlffzy.v1d.szbdyd.com
 dtxlfl68.v1d.szbdyd.com
 dtxlw7d6.v1d.szbdyd.com
 dtxlwfby.v1d.szbdyd.com
-dtxn.net
 dtxww.com
 dtyzg.com
 dtzae75c.v1d.szbdyd.com
@@ -30272,6 +30271,7 @@ gw.m.163.com
 gw.wdjky.com
 gw1.alicdn.com
 gw1.alicdn.com.danuoyi.tbcache.com
+gw2.17173.com
 gw2.alicdn.com
 gw2.alicdn.com.danuoyi.tbcache.com
 gw2.kongzhong.com
@@ -46087,6 +46087,7 @@ mo.kugou.com
 mo.m.taobao.com
 mo.m.tmall.com
 mo.res.wpscdn.cn
+mo.shezhuang.top
 mo.techweb.com.cn
 mo.techweb.com.cn.w.kunlungr.com
 mo.test.haloapps.com
@@ -46906,6 +46907,7 @@ mxs.com
 mxs.gjbdm.com
 mxsyzen.com
 mxtcn.com
+mxtrip.net
 mxtrk.com
 mxtronics.com
 mxw3.com
@@ -48192,7 +48194,6 @@ nmhfw.com
 nmkjxy.com
 nmmwz.com
 nmobi.kuwo.cn
-nmqbg.com
 nmsearch.kuwo.cn
 nmszjy.com
 nmtyxy.com
@@ -48994,7 +48995,6 @@ onespace.cc
 onethingcloud.com
 onethingpcs.com
 onetool.net
-oneuos.com
 oneway.mobi
 onewedesign.com
 onewo.com

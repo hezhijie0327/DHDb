@@ -3413,6 +3413,7 @@
 3.237.119.123.zz.countries.nerd.dk
 3.aa1122.ws
 3.au.download.windowsupdate.com
+3.cn.pool.ntp.org
 3.courier-push-apple.com.akadns.net
 3.courier2-push-apple.com.akadns.net
 3.cr.rs
@@ -11986,6 +11987,7 @@ addinto.com
 addiply.com
 addirector.vindicosuite.com
 addison-wesley.ch
+addisp.com
 addition4u.com
 additionalmedia.com
 additionant.com
@@ -38390,6 +38392,7 @@ collector1.xhamster.com
 collectorautoupdate7.synology.com
 collectorearnammonia.com
 collectorj.tvsquared.com
+collectorupdate7.synology.com
 collectrom.com
 collectrum.com
 collegclub.com
@@ -58742,7 +58745,6 @@ flixfacts.com
 flixillimite.com
 flixprice.com
 flixsyndication.net
-fljsq.cn
 fll.cc
 flmcy.x.incapdns.net
 flmuqa.com
@@ -60950,6 +60952,7 @@ fs-bdash.com
 fs-client-logger.herokuapp.com
 fs-sywh.com
 fs.com
+fs.microsoft.com
 fs008.net
 fs1.app
 fs18.formsite.com
@@ -65504,6 +65507,7 @@ go.ccalliance.org
 go.ccpe.csulb.edu
 go.ccssales.com
 go.cdata.com
+go.cdb.fr
 go.cdg.com
 go.cdmmedia.com
 go.cdp.co.nz
@@ -125075,6 +125079,7 @@ reachsubmission.com
 reachtech.com
 reachtheworldonfacebook.com
 react.com
+react.mobi
 reactandshare.com
 reactblade.portal.azure.net
 reacten.com

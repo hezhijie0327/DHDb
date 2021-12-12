@@ -20225,6 +20225,7 @@ cwhsmgs1.cn
 cwq.com
 cwqu.com
 cwroom.com
+cws.alicdn.com
 cws.alicdn.com.danuoyi.tbcache.com
 cwx.lianwangtech.com
 cwx.qlogo.cn
@@ -20468,6 +20469,7 @@ d.gionee.com
 d.hexuntech.cn
 d.ifengimg.com
 d.jd.com
+d.jd.com.gslb.qianxun.com
 d.jjyx.com
 d.kugou.com
 d.mingyihui.net
@@ -35588,6 +35590,7 @@ img.imgdb.cn
 img.imooc.com
 img.iplaysoft.com
 img.ithome.com
+img.jbzj.com
 img.jiaochengzhijia.com
 img.jiemian.com
 img.jiemian.com.wswebpic.com
@@ -43109,7 +43112,6 @@ longyucq.com
 longyuedu.com
 longyusheng.org
 longzhongtv.com
-longzhu.com
 longzhulive.com
 longzu.com
 lonlife.org
@@ -49646,6 +49648,7 @@ p.lu.sogou.com
 p.m.jd.com
 p.m.jd.com.gslb.qianxun.com
 p.m5bn.com
+p.mendoc.cn
 p.ninebox.cn
 p.niudashu.com
 p.pstatp.com

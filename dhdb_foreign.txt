@@ -4187,7 +4187,6 @@
 3cjob.com
 3cnet.tw
 3cwork.com
-3cwu.com
 3cx.net
 3d-game.com
 3d.app.flnet.org
@@ -17534,6 +17533,7 @@ ams-aaea-1-hos-apigateway-1-1.cloudapp.net
 ams-aase-1-hos-apigateway-1-1.cloudapp.net
 ams-efz.ms-acdc.office.com
 ams-krct-1-hos-apigateway-1-1.cloudapp.net
+ams-mvp.trafficmanager.net
 ams-usea-1-hos-apigateway-1-1.cloudapp.net
 ams.lenovomm.com
 ams.ux-dev.com.my
@@ -21246,6 +21246,7 @@ assets.net.zooplus.fr
 assets.netizen.co
 assets.newsmaxwidget.com
 assets.nflxext.com
+assets.onestore.ms
 assets.onestore.ms.akadns.net
 assets.oomz.de
 assets.pkgs.org
@@ -21519,6 +21520,7 @@ atlas.astrology.com
 atlas.leadboltads.net
 atlas.r.akipam.com
 atlas.valenciacollege.edu
+atlas1.krone.at
 atlas1688.com
 atlascopco.hb.omtrdc.net
 atlascopcorental.com
@@ -26178,7 +26180,6 @@ bibliotheek.nl
 bibloo.ro
 bibox.com
 bic2011.org
-bicacxo5go.com
 bicesteradvertiser.net
 biceunivers.fun
 bichi.me
@@ -50433,6 +50434,7 @@ e763.b.akamaiedge.net
 e7741.x.akamaiedge.net
 e7797.ca2.s.tl88.net
 e77lmzbqou0n-a.akamaihd.net
+e7808.dscg.akamaiedge.net
 e7842.ca.s.tl88.net
 e7933.ca.s.tl88.net
 e7933.dscd.akamaiedge.net
@@ -59308,7 +59310,6 @@ forgot.her.name
 forharriet.com
 forheavensake.org
 forjs.net
-forkchristian.com
 forkdefendant.com
 forkjork12.com
 forlinx.net
@@ -82216,7 +82217,6 @@ ipify.org
 ipify4.pling.com
 ipinator.com
 ipinfo.io
-ipips.pchome.net
 ipixsi.aboutyou.fi
 ipjetable.net
 ipkasp.nissan.co.jp
@@ -97986,7 +97986,6 @@ mbcwm.org
 mbdtrack.cyrilshroff.com
 mbeats-tech.com
 mbelia.underarmour.co.uk
-mbermorn.top
 mbertogethe.club
 mbga.jp
 mbgvyp.kfc.hu
@@ -107411,6 +107410,7 @@ nexusrules.officeapps.live.com
 nexworx.com
 nexxxt.biz
 nexxzy.com
+neyhdjwpumivpa.com
 neyshoes.com.br
 nf.5.p2l.info
 nf.id.au

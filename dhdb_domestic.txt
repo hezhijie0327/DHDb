@@ -9404,6 +9404,7 @@ ali.pull.yximgs.com.w.alikunlun.net
 ali.push.yximgs.com
 ali.push.yximgs.com.w.alikunlun.net
 ali.static.yximgs.com
+ali.static.yximgs.com.m.alikunlun.com
 ali.static.yximgs.com.m.alikunlun.com.c.cdnuyun.cn
 ali.static.yximgs.com.m.alikunlun.com.qr.uuhimalayanqm.com
 ali.xmssdn.micloud.mi.com
@@ -12761,6 +12762,7 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -19827,6 +19829,7 @@ crystalapp.miguvideo.com
 crystalcg.com
 crystaledu.com
 cryuantafund.com
+cs-feige.iqiyi.com
 cs-op.douyucdn.cn
 cs.37see.com
 cs.5i5j.com
@@ -26769,6 +26772,7 @@ feeclouds.com
 feed-image.baidu.com
 feed-image.baidu.com.a.bdydns.com
 feed-navi.cdn.bcebos.com
+feed.baidu.com
 feed.mix.sina.com.cn
 feed.op.wpscdn.cn
 feed.theta.sogou.com
@@ -26952,7 +26956,6 @@ fengshows.cn
 fengshui22.com
 fengsung.com
 fengtai.tv
-fengtalk.com
 fengting.io
 fengtouwang.com
 fengwanyx.com
@@ -29807,6 +29810,7 @@ gslbali.ximalaya.com
 gslbmgsplive.miguvideo.com
 gslbtx.ximalaya.com
 gsmyi.com
+gsp0.baidu.com
 gsp10-ssl-cn.ls-apple.com.akadns.net
 gsp10-ssl-cn.ls.apple.com
 gsp85-cn-ssl.ls.apple.com

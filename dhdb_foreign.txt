@@ -2036,6 +2036,7 @@
 18yangzhi.com
 18yax.com
 18yl.com
+19-courier.push.apple.com
 19-courier2.push.apple.com
 19-www.partner.net.daraz.com
 19.97.67.49.zz.countries.nerd.dk
@@ -18141,6 +18142,7 @@ analytics.vietnamfinance.vn
 analytics.villagehouse.jp
 analytics.virginaustralia.com
 analytics.virginmobileusa.com
+analytics.vnpt.vn
 analytics.vnreview.vn
 analytics.vodafone.co.uk
 analytics.vodgc.net
@@ -29817,6 +29819,7 @@ browser-update.org
 browser-updater.yandex.net
 browser.events.data.microsoft.com
 browser.events.data.msn.cn
+browser.events.data.msn.com
 browser.events.data.trafficmanager.net
 browser.sentry-cdn.com
 browser1.ru
@@ -39080,6 +39083,7 @@ connect.ekomi.de
 connect.emby.media
 connect.endofound.org
 connect.est.org.uk
+connect.facebook.net
 connect.facetwealth.com
 connect.flowroute.com
 connect.frontier.com
@@ -50370,6 +50374,7 @@ e377.thestar.com
 e3843.g.akamaiedge.net
 e3849.dsca.akamaiedge.net
 e39296.b.akamaiedge.net
+e39296.f.akamaiedge.net
 e3998.d.akamaiedge.net
 e3c21.playfabapi.com
 e4016.a.akamaiedge.net
@@ -50469,6 +50474,7 @@ e8084.com
 e8091.a.akamaiedge.net
 e8121.com
 e8148.dsca.akamaiedge.net
+e8195.b.akamaiedge.net
 e8198.com
 e81a9e51080316591500848ca4f02c4e.clo.footprintdns.com
 e8218.dscb1.akamaiedge.net
@@ -52769,7 +52775,6 @@ embedwistia-a.akamaihd.net
 ember.ly
 emberads.com
 embertogethe.club
-embesognassent.xyz
 embknh.perriconemd.com
 embl.it
 embl.org

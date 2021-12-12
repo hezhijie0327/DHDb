@@ -23656,6 +23656,7 @@ dsre.jdy33.cn
 dss0.bdstatic.com
 dss1.baidu.com
 dss1.bdstatic.com
+dss2.baidu.com
 dss2.bdstatic.com
 dss3.baidu.com
 dss3.bdstatic.com
@@ -30237,7 +30238,6 @@ guzhifengds.com
 guzhiwang.com
 guziyy.com
 guzzoni.apple.com
-guzzservices.com
 gv1.xdrig.com
 gv1.xdrig.com.td.fusion.iaas.jdcloud.com
 gv9c9act.sched.sma.tdnsv5.com
@@ -41911,7 +41911,6 @@ lian1.pigvideo.com.cn
 lian1.pigvideo.com.cn.cname3061.yjs-cdn.com
 lianaibashi.com
 lianaibiji.com
-lianbijr.com
 liancheng.baixing.com
 lianchuang.com
 liancsoft.com
@@ -43771,7 +43770,6 @@ m.api.baifendian.com
 m.apkzu.com
 m.arctime.cn
 m.asklib.com
-m.assigned.cn
 m.atm.youku.com
 m.atobo.com
 m.aty.cp45.ott.cibntv.net

@@ -145,7 +145,6 @@
 0123456789.biz
 0123456789nonexistent.com
 01244.cc
-0127538a552.com
 012logo.com
 01322.cc
 01368u.com
@@ -997,6 +996,7 @@
 11.rarbg.com
 1100ad.com
 1100i.com
+110160.com
 110380d053f716c4.com
 110k8.com
 110kj.com
@@ -8362,7 +8362,6 @@
 99lolo.com
 99meiju.tv
 99meijutv.com
-99meili.com
 99music.net
 99nfft.com
 99noivas.com
@@ -20644,6 +20643,7 @@ array601.prod.do.dsp.mp.microsoft.com
 array605.prod.do.dsp.mp.microsoft.com
 array606.prod.do.dsp.mp.microsoft.com
 array607.prod.do.dsp.mp.microsoft.com
+array608.prod.do.dsp.mp.microsoft.com
 array609.prod.do.dsp.mp.microsoft.com
 array611.prod.do.dsp.mp.microsoft.com
 array612.prod.do.dsp.mp.microsoft.com
@@ -26494,6 +26494,7 @@ binancezh.io
 binancezh.sh
 binaries.templates.cdn.office.net
 binary.com
+binaryad.com
 binaryage-leechgate.herokuapp.com
 binaryage.com
 binarybusiness.de
@@ -33233,6 +33234,7 @@ cclife.org
 cclifefl.org
 cclw.net
 cclycs.com
+ccm-1.com
 ccm.net
 ccm19.vucx.de
 ccm2.net
@@ -36874,6 +36876,7 @@ clientnotification-userprodscus1-4.servicebus.windows.net
 clients-access.com
 clients-share.com
 clients.config.office.net
+clients.l.google.com
 clients1.google.com
 clients2.google.com
 clients2.googleusercontent.com
@@ -41064,6 +41067,7 @@ crl.identrust.com
 crl.quovadisglobal.com
 crl.thawte.com
 crl.usertrust.com
+crl.verisign.com
 crl3.digicert.com
 crl4.digicert.com
 crlog-crcn.adobe.com
@@ -42116,6 +42120,7 @@ cureduchenne.org
 cureedit.com
 curel.com
 curiosityprobablyarbitrary.com
+curiousblogs.com
 curiouscat.club
 curiouschalk.com
 curioustore.com
@@ -84273,6 +84278,7 @@ jerseyfinance.je
 jerunamendary.xyz
 jerwei.idv.tw
 jesamcorp.com
+jesselivermore.com
 jessewilkinson.com
 jessicalaurax.com
 jessieflown.com
@@ -103885,7 +103891,6 @@ mrelectric.com
 mrelko.com
 mrentea.com
 mreulz.imobiliare.ro
-mrevisa.com
 mrface.com
 mrgreen.com
 mrhandyman.ca
@@ -104176,7 +104181,6 @@ mtcvyv.karakartal.com
 mtcvyv.sporx.com
 mtcvyv.webaslan.com
 mtdatahaba.rocks
-mtefxnujk.xyz
 mtesep.thymematernity.com
 mtf.wiki
 mtgnewmedia.se

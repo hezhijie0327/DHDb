@@ -8440,7 +8440,6 @@ admaimai.com
 admamax.com
 admarket.21cn.com
 admarket.mobi
-admartzone.com
 admgr.qingting.fm
 admin.bodog18.com
 admin.ninebox.cn
@@ -9578,6 +9577,7 @@ aliyun-adns.aliyun.com.gds.alibabadns.com
 aliyun-inc.com
 aliyun-iot-share.com
 aliyun-page.cn-hangzhou.log.aliyuncs.com
+aliyun-pcdnts.douyucdn.cn.m.alikunlun.net
 aliyun-stream.kksmg.com
 aliyun-web-tracker.cn-zhangjiakou.log.aliyuncs.com
 aliyun-youhui.com
@@ -10733,6 +10733,7 @@ app-echo.com
 app-facade.youmi.net
 app-g.39.net
 app-gw.csdn.net
+app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
@@ -16440,7 +16441,6 @@ charmelady.com
 charmingglobe.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
-chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.sobot.com
 chat1.jd.com
@@ -27028,6 +27028,7 @@ ff.meikanguo.com
 ff.qichetansuo.com
 ff.xue163.net
 ff.xue63.com
+ff.yiqima.xyz
 ff0.market.xiaomi.com
 ff123.hao0202.com
 ff14.17173.com
@@ -35491,6 +35492,7 @@ img-cdn-spot.ymcdn.cn
 img-cdn.vlightv.com
 img-community.csdnimg.cn
 img-dsp.oss-cn-beijing.aliyuncs.com
+img-home.csdnimg.cn
 img-hxy021.didistatic.com
 img-my.csdn.net
 img-my.csdn.net.w.cdngslb.com
@@ -41387,7 +41389,6 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
-lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com
@@ -46118,6 +46119,7 @@ mobantianxia.com
 mobanwang.com
 mobappconfig.securities.eastmoney.com
 mobartsgame.com
+mobawan.com
 mobayx.com
 mobcastlead.com
 mobcent.com
@@ -46601,7 +46603,6 @@ msanjia.com
 msc.jd.com
 msc.jd.com.gslb.qianxun.com
 mscbsc.com
-msch.f.360.cn
 msclick2.kuwo.cn
 mscto.com
 msdn.itellyou.cn
@@ -49592,6 +49593,7 @@ ovuwork.com
 ovwin.com
 ow-click.chinacloudapp.cn
 ow.biqugego.com
+ow.mk
 owdfxgc.cn
 owecn.com
 owin.biqugego.com

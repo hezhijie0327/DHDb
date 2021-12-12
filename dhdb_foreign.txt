@@ -212,7 +212,6 @@
 021management.hichannel.hinet.net.daraz.com
 021mingyi.com
 0221155.com
-0222z6.com
 022aifang.com
 022china.com
 022shui.com
@@ -38208,6 +38207,7 @@ coin-hive-stratum-fcwcduvpjs.now.sh
 coin-hive-stratum-yvvbqoavck.now.sh
 coin-hive.com
 coin.bajarlo.net
+coinad.com
 coinad.media
 coinad.xyz
 coinadster.com
@@ -43023,6 +43023,7 @@ d1zoiveqr7pf5b.cloudfront.net
 d1zp0f8plt4r95.cloudfront.net
 d2-apps.net
 d20.rs
+d2065cca9qi4ey.cloudfront.net
 d20903hof2l33q.cloudfront.net
 d20b86inur14ll.cloudfront.net
 d20duyjzb7cuoc.cloudfront.net
@@ -63746,6 +63747,7 @@ gfcim5.gq
 gfcu.com
 gfd80.com
 gfdscu.com
+gfe.nvidia.com
 gfedch.carte-gr.total.fr
 gffg.com
 gfftsqrc.com
@@ -66790,6 +66792,7 @@ go.itomic.jp
 go.itpro.tv
 go.itron.com
 go.itsmhub.com.au
+go.itsumo365.co.jp
 go.itutor.com
 go.iwabuchi-koumuten.com
 go.iwins.com
@@ -70349,6 +70352,7 @@ granturismo.console2pc.info
 granular.ag
 grapecartoons.com
 grapeshot.co.uk
+graph.facebook.com
 graph.instagram.com
 graph.microsoft.com
 graph.org
@@ -75732,7 +75736,6 @@ http3check.net
 httpaccess.com
 httpads.com
 httpbaidu.com
-httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
 httpfacebook.com
 httpkafka.unityads.unity3d.com
@@ -78332,6 +78335,7 @@ img-cdn.hltv.org
 img-eu.stripst.com
 img-perli.com
 img-prod-cms-rt-microsoft-com.akamaized.net
+img-s-msn-com.akamaized.net
 img-us.stripst.com
 img.1whour.com
 img.22122766.com
@@ -109051,6 +109055,7 @@ nqozgp.botland.com.pl
 nqrkzcd7ixwr.com
 nqrmanbetx.com
 nqslmtuswqdz.com
+nqtxg.xyz
 nqu.edu.tw
 nqvpn.com
 nqyljn.yoyoexpert.com

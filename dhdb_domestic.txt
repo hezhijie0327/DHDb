@@ -18182,6 +18182,7 @@ cm.e.qq.com
 cm.emarbox.com
 cm.fancyapi.com
 cm.fastapi.net
+cm.g.doubleclick.net
 cm.gamersky.com
 cm.gtags.net
 cm.he2d.com
@@ -30721,6 +30722,7 @@ h5anli.com
 h5api-intl.m.taobao.com
 h5api.m.1688.com
 h5api.m.taobao.com
+h5api.m.tmall.com
 h5avu.com
 h5conf-open.darwin.p2cdn.com
 h5conf-open.xycdn.com
@@ -31155,6 +31157,7 @@ haohuahong.net
 haohuan.com
 haohuo.cmcmcdn.com
 haohuo.jinritemai.com
+haohuo.jinritemai.com.w.kunlunca.com
 haohuo.snssdk.com
 haohuoa.com
 haoinvest.com
@@ -47352,6 +47355,7 @@ nanbeiyou.com
 nanbushenghuo.com
 nanchangnczyhbkj.51sole.com
 nanchangxian.baixing.com
+nanchengru.com
 nandagang.cc
 nandasoft.com
 nandu.com

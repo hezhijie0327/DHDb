@@ -1078,7 +1078,6 @@
 1ts11.top
 1tvv-novosti.com
 1uke.com
-1uno1xkktau4.com
 1uyu.cn
 1v1offcn.com
 1v7.cn
@@ -8085,7 +8084,6 @@ api-login.kkbox.com.tw
 api-metrics-e2e.nonprod.flurry.com
 api-metrics-smoke.nonprod.flurry.com
 api-p.videomarket.jp
-api-skytone-4.vmall.com
 api-umamusume.cygames.jp
 api-vtairanankou-production.mapbox.com
 api-zdj.com
@@ -12847,7 +12845,6 @@ ccdidzuq.danaher.org
 ccdidzuq.idmnet.org
 ccdtr.org
 ccfa.vip
-ccflbs.m.jd.com.gslb.qianxun.com
 ccgateway.net
 ccgoufang.com
 ccgst.org
@@ -15230,7 +15227,6 @@ containerpi.com
 contemporaryceremonies.ca
 contemposhop.eu
 content-blocking.net
-content-signature-2.cdn.mozilla.net
 content-square.net
 content.adserverplus.com
 content.cloudflare.com
@@ -18768,7 +18764,6 @@ dm.riji.cn
 dm.sanwen.net
 dm.sb580.com
 dm.taobaojuhuasuan.cn
-dm.toutiao.com.w.cdngslb.com.qr.uuhimalayanqm.com
 dm.wenshenxiu.com
 dm.ws8.org
 dm.xjfat1.com
@@ -23419,7 +23414,6 @@ foyvizvujsor.com
 fozescetgcxogs.localdomain
 fp-vs.azureedge.net
 fp.jj59.com
-fp.msedge.net
 fp.oneshotdate.com
 fp3a2q15.com
 fpag.w48ge.cn
@@ -24365,7 +24359,6 @@ gajomusiju.xyz
 gakogedifoda.ru
 gakseeft.com
 gala-navi.com
-galaxy-case.com
 galaxy-deals.com
 galaxy-deals.net
 galaxy-skins.com
@@ -27836,7 +27829,6 @@ hm-zif.com
 hm.baidu.cn
 hm.baidu.com.caiziwuyou.com
 hm.cdiah.com
-hm.e.shifen.com
 hm.l.qq.com
 hm.ubiej.com
 hm511.com
@@ -38485,7 +38477,6 @@ morfey.myftp.org
 morickamegpiskota.housefmradio.eu
 morihei.net
 morkovo4ki.org
-morningdigit.com
 morocco1.hopto.org
 morozisneg.ru
 morps.xyz
@@ -38609,6 +38600,7 @@ mp.tscapeplay.com
 mp176588.com
 mp3.haogeba.com
 mp3playersource.com
+mp3red.cc
 mp3tomidiconverter.net
 mp3wifie.com
 mp3ye.eu

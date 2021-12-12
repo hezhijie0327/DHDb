@@ -10270,6 +10270,7 @@ api-service.chanmama.com
 api-sh.django.t.taobao.com.gds.alibabadns.com
 api-shoulei-ssl.xunlei.com
 api-skytone-2.vmall.com
+api-skytone-4.vmall.com
 api-skytone-6.vmall.com
 api-svoice.le.com
 api-t.iqiyi.com
@@ -15380,6 +15381,7 @@ ccfei.com
 ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
 ccflbs.m.jd.com
+ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
 ccgaa.com
@@ -22873,6 +22875,7 @@ dm.sg92.com
 dm.toutiao.com
 dm.toutiao.com.w.cdngslb.com
 dm.toutiao.com.w.cdngslb.com.c.cdnuyun.cn
+dm.toutiao.com.w.cdngslb.com.qr.uuhimalayanqm.com
 dm.video.weibocdn.com
 dm.wo.com.cn
 dm.xiazaibao.xunlei.com
@@ -32500,6 +32503,7 @@ hm-yc.com
 hm.baidu.com
 hm.baidu.com.jnsiematcnc.com
 hm.baidu.com.zzsdtzb.com
+hm.e.shifen.com
 hm.shuixyh.com
 hm.youlai.cn
 hm120.com
@@ -47313,7 +47317,6 @@ nalanxi.com
 nalichi.com
 name1688.com
 name2012.com
-namedq.com
 nameidi.com
 namepre.com
 namibox.com

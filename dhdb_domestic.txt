@@ -10297,6 +10297,7 @@ api.22lianmeng.com
 api.3839app.com
 api.557400.com
 api.5hte21mz.com
+api.account.xiaomi.com
 api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
@@ -15382,7 +15383,6 @@ ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com
-ccfjma.m.jd.com.gslb.qianxun.com
 ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
@@ -17920,6 +17920,7 @@ clientgear.com
 clientlog.music.163.com
 clientlog3.music.163.com
 clientlog3.music.ntes53.netease.com
+clientmap.baidu.com
 clientservices.googleapis.com
 cliim.com
 cliim.net
@@ -22928,7 +22929,6 @@ dmhmusic.com
 dmjtxt.com
 dmlei.com
 dmm.aizhan.com
-dmouy.cn
 dmozdir.org
 dmp-data.vip.com
 dmp-data.vip.com.vipgslb.com
@@ -23253,6 +23253,7 @@ dopool.com
 doppler.logger.baofeng.com
 dora-control.cdnetworks.com
 dora-family.com
+dorangesource.alicdn.com
 dorangesource.alicdn.com.danuoyi.tbcache.com
 doraunion.com
 dorrr.com
@@ -27391,6 +27392,7 @@ flowplus.meituan.net
 flowportal.com
 flowproxy.6000.liveplay.myqcloud.com
 floyou.com
+flpc.bdstatic.com
 flpsz.com
 fls-cn.amazon.cn
 fls.doubleclick.net
@@ -32840,6 +32842,7 @@ hongze.net
 hongzhoukan.com
 honor.cn
 honorfair.com
+honpery.com
 honpu.com
 honsuntec.com
 honycapital.com
@@ -35090,6 +35093,7 @@ ihuman.com
 ihumand.com
 ihuoqiu.com
 ihuyi.com
+ihuzuan.com
 ihwrm.com
 ihx.cc
 ihxlife.com
@@ -43813,6 +43817,7 @@ m.client.10010.com.w.cdngslb.com
 m.clkservice.youdao.com
 m.cnkang.com
 m.cocounion.com
+m.cqzspt888.cn
 m.cudaojia.com
 m.czvv.com
 m.da.mgtv.com
@@ -51456,7 +51461,6 @@ poobbs.com
 poocg.com
 poofx.com
 pook.com
-pool.ntp.org
 pool.v6.bt.n0808.com
 poolct.17173.com
 pooldist.shouyou.com
@@ -51738,6 +51742,7 @@ prod-metro-admin.oss-cn-shanghai.aliyuncs.com
 prod-metro-admin.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
 prod-rso.lol.qq.com
 prod.api.xiaomi.cn
+prodev.m.jd.com
 prodev.m.jd.com.gslb.qianxun.com
 product.58che.com
 product.dangdang.com

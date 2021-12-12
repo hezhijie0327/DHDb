@@ -9615,7 +9615,6 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
-all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all163-dxospf.split.netease.com
 all163-ltospf.split.netease.com
@@ -10196,6 +10195,7 @@ apd-bd3bce43a6617c6e3bef8ec349de7635.v.smtcdns.com
 apd-c2df8da4d4419fbfdf1c26f3b542fbd4.v.smtcdns.com
 apd-pcdnvodstat.teg.tencent-cloud.net
 apd-pcdnwxlogin.teg.tencent-cloud.net
+apd-pcdnwxnat.teg.tencent-cloud.net
 apd-pcdnwxstat.teg.tencent-cloud.net
 apd-shortvideo.tcdn.qq.com
 apd-ugcvideo.tcdn.qq.com
@@ -34099,7 +34099,6 @@ hyzqxsb.com
 hz-etest.com
 hz-hospital.com
 hz-winone.com
-hz-xin.com
 hz.5i5j.com
 hz.adeaz.com
 hz.centanet.com

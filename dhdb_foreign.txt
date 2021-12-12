@@ -19168,6 +19168,7 @@ api.insiderkit.io
 api.instabug.com
 api.intensifier.de
 api.intentiq.com
+api.intercom.io
 api.internal-repo.net.zooplus.de
 api.inwemo.com
 api.ip.sb
@@ -45069,6 +45070,7 @@ deemsteppemental.com
 deep.bi
 deepai.com
 deepano.com
+deepaso.com
 deepattention.com
 deepchannel.com
 deepcolander.com
@@ -50267,6 +50269,7 @@ e13761.dscg.akamaiedge.net
 e13829.x.akamaiedge.net
 e13897.x.akamaiedge.net
 e13993.a.akamaiedge.net
+e14579.d.akamaiedge.net
 e14579.dspg.akamaiedge.net
 e14705.g.akamaiedge.net
 e14868.dsce9.akamaiedge.net
@@ -74323,6 +74326,7 @@ hkfreezone.com
 hkfront.org
 hkfs.com
 hkfuy.com
+hkg-efz.ms-acdc.office.com
 hkg-mvp.trafficmanager.net
 hkg12s09-in-f17.1e100.net
 hkg12s09-in-f4.1e100.net

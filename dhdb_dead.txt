@@ -8050,7 +8050,6 @@ apcdns.net
 apcow.com
 apcrwangpian.com
 apd-da297e1cd7f7b8fe9bdee048963d68d23331a8da3dcd478c.v.smtcdns.com
-apd-pcdnwxnat.teg.tencent-cloud.net
 apdcdn.com
 apdingqian.com
 apearmare.site
@@ -8135,7 +8134,6 @@ api.gzxiongwa.cn
 api.h4game.net
 api.insight.synology.com
 api.intense.hashvault.pro
-api.intercom.io
 api.jcswhg.com
 api.jetlore.com
 api.joybj.com
@@ -20451,7 +20449,6 @@ e11290.dspg.akamaiedge.net
 e11696.dscb.akamaiedge.net
 e127f.azurewebsites.net
 e14313.g.akamaiedge.net
-e14579.d.akamaiedge.net
 e16126.dscg.akamaiedge.net
 e1723.ca.s.tl88.net
 e1ed050f62.com
@@ -27728,7 +27725,6 @@ hkctu.org.hk
 hkecl.redirectme.net
 hkepc.net
 hkfunbox.com
-hkg-efz.ms-acdc.office.com
 hkgolden.media
 hkgreenradio.org
 hkhandmade.com

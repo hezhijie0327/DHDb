@@ -14830,7 +14830,6 @@ advertserve.com
 advertshot.ru
 advertstar.ru
 advertstream.com
-adverttraf.com
 advertur.ru
 advertwizard.com
 adverty.com
@@ -21963,6 +21962,7 @@ auth.lib-ln-1.net.daraz.com
 auth.newworldinteractive.com
 auth.r-ln-2.net.daraz.com
 auth.split.io
+auth.worldofwarships.asia
 auth.worldofwarships.com
 auth.worldofwarships.eu
 auth.worldofwarships.ru
@@ -30505,6 +30505,7 @@ business.united.com
 business.vodafone.co.nz
 business.vodafone.com
 business.worldline.com
+business.xe.com
 business.zenjob.com
 businessaffiliate.americanexpress.com
 businessbells.com
@@ -49096,6 +49097,7 @@ dropsuite.com
 dropwww.partner.net.daraz.com
 droupnir.com
 drowadri.racing
+drowle.com
 drpex.com
 drphil.com
 drpurrmcirwurb.com
@@ -104058,6 +104060,7 @@ msdn.com
 msdn.microsoft.com
 msecure108.com
 msedge.api.cdp.microsoft.com
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.net
 mseeru.faz.net
 msetup.pro
@@ -113594,6 +113597,7 @@ owhvte.alltime.ru
 owind.com
 owl.boatingscout.com
 owl.gregwolanski.com
+owl.heidipay.com
 owl.li
 owl.sentrydiscord.dev
 owlanalytics.io

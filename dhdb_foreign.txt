@@ -1127,6 +1127,7 @@
 11sebb.com
 11xotn7p.com
 12-123pago.net.daraz.com
+12-courier.push.apple.com
 12-courier2.push.apple.com
 12.8.80.101.zz.countries.nerd.dk
 12.beautifulero.com
@@ -10034,7 +10035,6 @@ aax-us-pdx.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
 aax.amazon-adsystem.com
 aaxdetect.com
-aayis.com
 aazao.com
 aazcio.cn
 aazfby.auto.de
@@ -36833,6 +36833,7 @@ clien.net
 client-analytics.braintreegateway.com
 client-api-cdn.itunes-apple.com.akadns.net
 client-api.arkoselabs.com
+client-api.itunes.apple.com
 client-applications.net.daraz.com
 client-log.box.com
 client-logs.warthunder.com
@@ -38579,6 +38580,7 @@ comihon.com
 comilar-efferiff.icu
 comin.co
 cominghamer.info
+comingspace.com
 comiru.jp
 comli.com
 comline.actonservice.com
@@ -70740,7 +70742,6 @@ grubsoan.com
 grudgeinjunctionretirement.com
 grudgeslylonging.com
 grudreeb.com
-gruglooh.net
 grumbleoh.com
 grumft.com
 grumpult.com
@@ -92685,6 +92686,7 @@ logcheck.com
 logconfig.polarisoffice.com
 logdy.com
 logen.vietnamplus.vn
+logend.cookpad.com
 logg.kiwi.com
 logg4u.cnnd.vn
 logger.applovefrom.com
@@ -120330,7 +120332,6 @@ prod4-collecticon.outlookmobile.com
 prod4.rewardsplatform.microsoft.com
 prod6directconnect.americanexpress.com
 prodesigners.club
-prodev.m.jd.com
 proditor.sparda.de
 prodjtips.000webhostapp.com
 prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net

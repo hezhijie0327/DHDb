@@ -8753,6 +8753,7 @@ aes01.com
 aesdrink.com
 aessoft.gallerycdn.azure.cn
 aeu.alicdn.com
+aeu.alicdn.com.danuoyi.alicdn.com
 aeventlog.beacon.qq.com
 aevit.xyz
 aew3k3jd.v1d.szbdyd.com
@@ -9364,6 +9365,7 @@ alexa.chinaz.com
 alexyan.cc
 algorithmart.com
 ali-ad.a.yximgs.com
+ali-ad.a.yximgs.com.w.alikunlun.com
 ali-ad.a.yximgs.com.w.alikunlun.com.qr.uuhimalayanqm.com
 ali-adaptive.pull.yximgs.com
 ali-adaptive.pull.yximgs.com.w.alikunlun.net
@@ -14291,7 +14293,6 @@ btstu.cn
 btt.service.gongt.me
 btten.com
 bttrack.9you.com
-bttracker.sylphix.com
 bttt.qucaigg.com
 bttt99.kkcaicai.com
 btvcd.net
@@ -19136,6 +19137,7 @@ comlbs.com
 comm.app.autohome.com.cn
 commchina.net
 commdata.v.qq.com
+commdata6.v.qq.com
 commendyd.chaoxing.com
 comment-api.huxiu.com
 comment-card.iqiyi.com
@@ -30270,6 +30272,7 @@ gw.wdjky.com
 gw1.alicdn.com
 gw1.alicdn.com.danuoyi.tbcache.com
 gw2.alicdn.com
+gw2.alicdn.com.danuoyi.tbcache.com
 gw2.kongzhong.com
 gw2.kongzhong.com.wscdns.com
 gw2sc.com
@@ -39050,7 +39053,6 @@ jsqq.net
 jsqt.com
 jsrcu.com
 jsrdgg.com
-jsreport.qq.com
 jsrrcb.com
 jsrsrc.com
 jsrtzx.com
@@ -46158,7 +46160,6 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
-mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com
@@ -50636,7 +50637,6 @@ peoplerail.com
 peopleselect.cn
 pepresource.com
 pepsico.com.cn
-perf.m.jd.com
 perf.m.jd.com.gslb.qianxun.com
 perfect-input.com
 peropero.net

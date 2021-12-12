@@ -572,7 +572,6 @@
 11my.net
 11x5home.com
 11yuanma.com
-12-courier.push.apple.com
 12.from-ga.com
 120dxb.com
 120gz.com
@@ -4673,6 +4672,7 @@ aavideo.live
 aax-eu.amazon-adsystem.com
 aax-fe-pek.amazon-adsystem.com
 aaxads.com
+aayis.com
 aazyz.com
 ab-gb.mgid.com
 ab.goodsblock.mgid.com
@@ -6812,7 +6812,6 @@ aeros11.tk
 aeros12.tk
 aestivator.com
 aetejxolo.com
-aeu.alicdn.com.danuoyi.alicdn.com
 aeweb.xyz
 af05da6dbac71a8a42a37f1140a3e8b4.jddebug.com
 afairweb.com
@@ -7338,7 +7337,6 @@ algenib.ru
 algocashmaster.net
 algomalillie.com
 algovid.com
-ali-ad.a.yximgs.com.w.alikunlun.com
 ali-bestshop.ru
 ali-safety-video.acfun.cn
 ali.delbertbeta.cc
@@ -11721,6 +11719,7 @@ btt-ceo.com
 bttbgroup.com
 bttiantang.com
 bttmurmhv.danaher.org
+bttracker.sylphix.com
 btv.org
 btvmvqoxh.com
 btzhai.eu.org
@@ -14355,7 +14354,6 @@ clickwith.bid
 clickwith.date
 clien.info
 cliennes.com
-client-api.itunes.apple.com
 client-api.itunes.apple.com.edgesuite.net
 client-s.gateway.messenger.live.com
 client.tenddata.com
@@ -15108,9 +15106,7 @@ comfortjapangr.com
 comic123.net
 comiclub.com
 comicocn.com
-comingspace.com
 comm-bkfs.com
-commdata6.v.qq.com
 commencerons.xyz
 comment-pirater-un-compte-facebook-gratuitement.com
 comment-pirater-un-compte.fr
@@ -25993,6 +25989,7 @@ grt02.org
 grt03.com
 grtyj.com
 grubbychicks.com
+gruglooh.net
 grumpyadzen.com
 grumrt.com
 grunkav.online
@@ -26284,7 +26281,6 @@ gvt9.com
 gw-dv.net
 gw.poscointl.com
 gw2.17173.com
-gw2.alicdn.com.danuoyi.tbcache.com
 gw6c.com
 gw7eez7b7fa3.com
 gwaaz.cn
@@ -31788,6 +31784,7 @@ jsproxy.tk
 jsq.red
 jsqhh.cn
 jsrdn.com
+jsreport.qq.com
 jss.tvzhe.com
 jssd.uumeitu.com
 jssdk.net

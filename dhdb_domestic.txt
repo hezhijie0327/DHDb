@@ -7995,7 +7995,6 @@ accounts.firefox.com.cn
 accounts.google.cn
 accounts.nvgs.nvidia.cn
 accounts.qq.com
-accounts.tantanapp.com
 accscdn.cp12.ott.cibntv.net
 accscdn.m.taobao.com
 accsh.org
@@ -27131,6 +27130,7 @@ file.elecfans.com
 file.elecfans.com.wswebcdn.com
 file.ipinyou.com.cn
 file.ishansong.com
+file.market.xiaomi.com
 file.mengtuiapp.com
 file.mengtuiapp.com.w.kunlunar.com
 file.mysmth.net
@@ -27823,6 +27823,7 @@ fudaiapp.com
 fudanglp.com
 fudanmed.com
 fudanpress.com
+fudao.biancheng.net
 fudao.biancheng.net.w.kunlunca.com
 fudata.cn
 fudian-bank.com
@@ -34405,6 +34406,7 @@ i3.letvimg.com
 i3.meishichina.com
 i3.sinaimg.cn
 i3.xkspbz.com
+i333.v.bsgslb.com
 i360mall.com
 i3abox.com
 i3done.com

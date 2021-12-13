@@ -1717,6 +1717,7 @@
 17673.com
 1768.com
 176878.com
+1769.tv
 176quan.com
 177.lyszsz.cn
 1773.com
@@ -23282,6 +23283,7 @@ dotcpp.com
 doteck.com
 dotinapp.com
 dotomui.com
+dotserver.douyucdn.cn
 dotserver.douyucdn.cn.w.cdngslb.com
 dotui.cn
 douban.com
@@ -25795,6 +25797,7 @@ erongda.com
 erongdu.com
 err.da.hunantv.com
 err.ifengcloud.ifeng.com
+err.taobao.com
 err.tmall.com
 errlog.umeng.com
 error.alibaba.com
@@ -34336,6 +34339,7 @@ i.news.qq.com
 i.pcbeta.com
 i.qianbao.qq.com
 i.qq.com
+i.snssdk.com
 i.snssdk.com.w.kunluncan.com
 i.sso.sina.com.cn
 i.stat.nearme.com.cn

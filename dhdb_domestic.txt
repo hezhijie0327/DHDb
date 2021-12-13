@@ -5822,6 +5822,7 @@
 770970.shop.m.liebiao.com
 7711.com
 771633.com
+77169.com
 77169.net
 7717wan.com
 7723.com
@@ -10343,6 +10344,7 @@ api.callget.cn
 api.che168.com
 api.cheshi.com
 api.cloud.189.cn
+api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.comm.miui.com
@@ -15776,6 +15778,7 @@ cdn.hpplay.com.cn
 cdn.huaixuejy.com
 cdn.huijiwiki.com
 cdn.iciba.com
+cdn.iclicash.com
 cdn.ioiox.com
 cdn.iplaysoft.com
 cdn.ishansong.com
@@ -27508,7 +27511,6 @@ focus.cn
 focus.scol.com.cn
 focus.youth.cn
 focuschina.com
-focusprolight.com
 focussend.com
 fodian.net
 fodizi.com
@@ -43864,7 +43866,6 @@ m.data.accuratead.cn
 m.data.mob.com
 m.dayoo.com
 m.dgzj.com
-m.dgzj.com.w.kunlunca.com
 m.dianping.com
 m.diya1.com
 m.diyifanwen.com

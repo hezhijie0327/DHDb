@@ -18159,6 +18159,7 @@ analytics.vnpt.vn
 analytics.vnreview.vn
 analytics.vodafone.co.uk
 analytics.vodgc.net
+analytics.wayke.se
 analytics.webads.eu
 analytics.webgains.io
 analytics.webpushr.com
@@ -19802,6 +19803,7 @@ apple-enews.com
 apple-expo.com
 apple-expo.eu
 apple-family.ru
+apple-finance.query.yahoo.com
 apple-hk.com
 apple-imac.com
 apple-inc.net
@@ -25175,7 +25177,6 @@ becn.com
 become.eurofiber.be
 becomeanex.org
 becomeapartner.io
-becomeiguana.com
 becomeindex.com
 becomesday.club
 becominggland.com
@@ -29832,6 +29833,7 @@ browser.events.data.microsoft.com
 browser.events.data.msn.cn
 browser.events.data.msn.com
 browser.events.data.trafficmanager.net
+browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 browser1.ru
 browsercam.com
@@ -77871,7 +77873,6 @@ iisacc.net
 iischool.com
 iissnan.com
 iitkgp.ac.in
-iiutq.xyz
 iivt.com
 iiwarui.blog90.fc2.com
 iiwm70qvjmee.com

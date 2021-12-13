@@ -7796,7 +7796,6 @@ analytics.vadio.com
 analytics.video.meredithcorp.io
 analytics.volvocars.com
 analytics.vooxe.com
-analytics.wayke.se
 analytics.wetpaint.me
 analytics.whatculture.com
 analytics.ws.126.net
@@ -8099,7 +8098,6 @@ api.britepool.com
 api.bunzlaucastle.com
 api.calq.io
 api.cdnbye.com
-api.cloud.huawei.com
 api.cmt.mob.com
 api.coin-hive.com
 api.coinhive.com
@@ -8335,7 +8333,6 @@ apple-dns.cn
 apple-dns.com
 apple-dns.com.cn
 apple-dns.net
-apple-finance.query.yahoo.com
 apple-globe.com
 apple-gps-china.com
 apple-ibooks.cn
@@ -10214,6 +10211,7 @@ beautylamp.cn
 beautymade.com
 beautyspaguide.com
 bebc.us
+becomeiguana.com
 becomspectua.club
 bedaccustom.com
 bedach.stream
@@ -11539,7 +11537,6 @@ browser-onlytv.ru
 browser-update.online
 browser.mi-img.com
 browser.miui.com
-browser.pipe.aria.microsoft.com
 browser2018-lite.ru
 browser2018lite.ru
 browserbreckalarm.info
@@ -13000,7 +12997,6 @@ cdn.hiido.cn
 cdn.hiperadverts.com
 cdn.hivps.xyz
 cdn.holdlads.com
-cdn.iclicash.com
 cdn.img.kachapt.cn
 cdn.img.liuxingyul.cn
 cdn.imgtty.com
@@ -23160,6 +23156,7 @@ focuscoat.com
 focusego.info
 focusoftime.com
 focusonus.top
+focusprolight.com
 fodang.org
 fodder.dnion.tc.qq.com
 fodder.qq.com
@@ -29157,6 +29154,7 @@ iirsys.com
 iis3.com
 iisl7wpf.me
 iiueuenutuhaf.com
+iiutq.xyz
 iixhmsjwjervgj.xyz
 iiyibbs.com
 ijafud.heathcotes.co.nz
@@ -35459,6 +35457,7 @@ m.dfh39.com
 m.dgaoz.com
 m.dglscm.cn
 m.dgouf.com
+m.dgzj.com.w.kunlunca.com
 m.dh19y.cn
 m.dian6.cn
 m.diogv.com

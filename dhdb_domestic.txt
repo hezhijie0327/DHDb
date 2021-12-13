@@ -18472,6 +18472,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.vc
@@ -25386,6 +25387,7 @@ ei6nd.com
 eiabbs.net
 eickaopei.com
 eicp.net
+eid.jd.com
 eid.jd.com.gslb.qianxun.com
 eidlink.com
 eidsign.com.cn
@@ -29546,7 +29548,6 @@ gongyicn.org
 gongyingshi.com
 gongyishibao.com
 gongzhongpingtai.cc
-gongzi.org
 gongzicp.com
 gongzuoshouji.net
 gonsun.com
@@ -42427,7 +42428,6 @@ linuxeye.com
 linuxgogo.com
 linuxidc.com
 linuxkiss.com
-linuxpanda.tech
 linuxpk.com
 linuxplus.org
 linuxprobe.com
@@ -59008,7 +59008,6 @@ sipco.com
 sipeed.com
 sipgl-lcl.com
 siphrd.com
-sipo-pesc.com
 siportal.cdnetworks.com
 siposchina.com
 siqiangame.com

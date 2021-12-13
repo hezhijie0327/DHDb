@@ -3098,6 +3098,7 @@
 26wp.com
 26youxi.com
 26yx.com
+27-courier.push.apple.com
 27-courier2.push.apple.com
 27.courier-push-apple.com.akadns.net
 27.dnset.com
@@ -5771,7 +5772,6 @@
 5jhome.com
 5jin.org
 5jjc.net
-5jzw.com
 5k5m.com
 5kk.am
 5kli.r5.cr.rs
@@ -15166,7 +15166,6 @@ af-z.jp
 af.1gdz.ru
 af.fukuishimbun.co.jp
 af04fe0ed13c1936a450c6fffb2e19a8.clo.footprintdns.com
-af755b27b5e472.com
 af86096e-dnsotls-ds.metric.gstatic.com
 afa.org
 afa28048bf78ad9.com
@@ -20682,6 +20681,7 @@ array802.prod.do.dsp.mp.microsoft.com
 array803.prod.do.dsp.mp.microsoft.com
 array804.prod.do.dsp.mp.microsoft.com
 array805.prod.do.dsp.mp.microsoft.com
+array806.prod.do.dsp.mp.microsoft.com
 array808.prod.do.dsp.mp.microsoft.com
 array809.prod.do.dsp.mp.microsoft.com
 array810.prod.do.dsp.mp.microsoft.com
@@ -43365,6 +43365,7 @@ d3a49eam5ump99.cloudfront.net
 d3ag4hukkh62yn.cloudfront.net
 d3ahinqqx1dy5v.cloudfront.net
 d3aiy6aqoa3ykz.cloudfront.net
+d3aqoihi2n8ty8.cloudfront.net
 d3asksgk2foh5m.cloudfront.net
 d3ax6xygyb5hn9.cloudfront.net
 d3b2hhehkqd158.cloudfront.net
@@ -47413,6 +47414,7 @@ dl.crazyporn.xxx
 dl.delivery.mp.microsoft.com
 dl.dell.com
 dl.devmate.com
+dl.discordapp.net
 dl.dmhy.org
 dl.dropboxusercontent.com
 dl.filehorse.com
@@ -63148,6 +63150,7 @@ genius-download.itunes.apple.com
 genius-upload.itunes-apple.com.akadns.net
 genius-upload.itunes.apple.com
 genius.com
+genius.itunes-apple.com.akadns.net
 genius.itunes.apple.com
 geniusbanners.com
 geniusdexchange.com
@@ -116571,7 +116574,6 @@ petitsmotsdanglais.tk
 petjeaf.net
 petjue.lcwaikiki.ru
 petmate.com
-petnakanojo.com
 petproconnect.com
 petra.nic.gov.jo
 petrelocation.com
@@ -122356,7 +122358,6 @@ pz7377.com
 pz779.com
 pz997.com
 pzcdn.com
-pzhuzlwjiymfos.com
 pzipxs.futureland.fr
 pzjinxiudadi.com
 pzlink.com
@@ -127714,6 +127715,7 @@ rolf-probeg.ru
 rolfoundation.org
 rolia.net
 roling.000webhostapp.com
+rollad.ru
 rollbar.com
 rollcall.com
 rollectricbyi.xyz
@@ -131252,7 +131254,6 @@ sdg.desihamster.pro
 sdg.fwtrck.com
 sdgho.com
 sdglkt.com
-sdguanglu.com
 sdhfbvd.com
 sdhtmy.com
 sdhts.com
@@ -133987,7 +133988,6 @@ shootoax.com
 shootsta.com
 shop-an-khang.000webhostapp.com
 shop-cdn.coccoc.com
-shop-h5.guyijiankang.cn
 shop-pro.cc
 shop-pro.jp
 shop.angsoftech.com

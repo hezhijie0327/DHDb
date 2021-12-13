@@ -4586,6 +4586,7 @@
 44te.com
 44tele-infra.com
 45-76-47-204.plesk.page
+45-courier.push.apple.com
 45-courier2.push.apple.com
 45.courier-push-apple.com.akadns.net
 4512573.com
@@ -4895,6 +4896,7 @@
 5007073.com
 500boss.com
 500efuma.com
+500gm.com
 500ish.com
 500pix.com
 500px.com
@@ -5312,7 +5314,6 @@
 52xtv.net
 52xtxs.com
 52yesu.com
-52yugan.com
 52yww.com
 52zdm.com
 52zfl.com
@@ -12847,6 +12848,7 @@ adobetechcommcallback.com
 adobetechcommdemo.com
 adobetop.com
 adobetp.chegg.com
+adobetps.chegg.com
 adobexdplatform.com
 adocean.cz
 adocean.pl
@@ -21611,6 +21613,7 @@ atrack-asia-s1.120181311.xyz
 atrack-eu-w1.120181311.xyz
 atrack-sa-e1.120181311.xyz
 atrack-us-c1.120181311.xyz
+atrack.allposters.com
 atrack.art.com
 atrack.avplayer.com
 atraichuor.com
@@ -21972,6 +21975,7 @@ auth.alipay.com
 auth.atone.be
 auth.bz
 auth.crypto-webminer.com
+auth.docker.io
 auth.forbes.com
 auth.gaijinent.com
 auth.gh.api.disabled.net.zooplus.de
@@ -29051,6 +29055,7 @@ boostsaves.com
 boot.pbstck.com
 bootbarn.com
 booter.pw
+booth.pm
 bootify.io
 boots.co.uk
 bootsstation-reiherhals.de
@@ -48714,6 +48719,7 @@ dpd.be
 dpd.com
 dpd.ie
 dpd9yiocsyy6p.cloudfront.net
+dpdb.webvr.rocks
 dpdety.jingus.com
 dpf-support.com
 dpgawov.com
@@ -63114,6 +63120,7 @@ genericlink.com
 generouslivelinessevidence.com
 genesis.com
 genesis.es
+genesis2013.com
 genesiscapital.com
 genesishealth.com
 genesishealth.hrm.healthgrades.com
@@ -67768,6 +67775,7 @@ go.peopledatalabs.com
 go.peopleready.com
 go.pep.org
 go.peppermarketing.com.au
+go.perdueagribusiness.com
 go.perfect-vision.com
 go.perfo.in
 go.performanceinlighting.com
@@ -73491,7 +73499,6 @@ hf-la-68.s3.amazonaws.com
 hf18yg8q.com
 hf2358.com
 hf5rbejvpwds.com
-hfajdjhicjcchhbeaeh.ru
 hfashionmall.com
 hfc195b.com
 hfd.bridgetowermedia.com
@@ -85595,6 +85602,7 @@ js.rush-member.com
 js.sentry-cdn.com
 js.sghjtc.xyz
 js.smi2.ru
+js.softreklam.com
 js.sosista.com
 js.start1999.com
 js.stripe.com
@@ -122173,7 +122181,6 @@ pvzheroes.com
 pw.fiddlefish.net
 pw.gigazine.net
 pw.lpsxssm.com
-pw1999.com
 pw321.com
 pw4.com
 pwa-as.kmyuntai.cn
@@ -122689,6 +122696,7 @@ qianyi808.com
 qianyilamian.cn
 qiao024.com
 qiaobaba.top
+qiaochucn.com
 qiaoenyl.xyz
 qiaojiang.tv
 qiaomi.com

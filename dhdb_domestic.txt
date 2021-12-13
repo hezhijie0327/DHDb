@@ -3977,6 +3977,7 @@
 5010ef08.fyeds5.com
 5015c0hc.sched.sma-dk.tdnsv5.com
 501wan.com
+503118.com
 503error.com
 504pk.com
 505013.vhost251.cnameaddress.top
@@ -8732,6 +8733,7 @@ ae-people.com
 ae.bdstatic.com
 ae.weixin.qq.com
 ae01.alicdn.com.danuoyi.alicdn.com
+ae02.alicdn.com
 ae02.alicdn.com.danuoyi.alicdn.com
 ae256.com
 ae4.ifeng.com
@@ -15726,6 +15728,7 @@ cdn-xalbum-mp4.xiaoniangao.cn
 cdn-xalbum2.xiaoniangao.cn
 cdn-xphoto2.xiaoniangao.cn
 cdn-xyx.raink.com.cn
+cdn-zjk-trans.dingtalk.com
 cdn.0i-i0.com
 cdn.10bests.com
 cdn.10bests.com.w.kunlungr.com
@@ -16460,6 +16463,7 @@ charmingglobe.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
 chat.jd.com.gslb.qianxun.com
+chat.qidian.qq.com
 chat.sobot.com
 chat1.jd.com
 chat1.jd.com.gslb.qianxun.com
@@ -22454,7 +22458,6 @@ dimg02.c-ctrip.com
 dimg02.c-ctrip.com.wscdns.com
 dimg03.c-ctrip.com
 dimg03.c-ctrip.com.wscdns.com
-dimg04.c-ctrip.com
 dimg04.c-ctrip.com.a.bdydns.com
 dimg04.c-ctrip.com.wscdns.com
 dimg05.c-ctrip.com
@@ -25952,6 +25955,7 @@ etl.xlmc.sandai.net
 etlong.com
 etmchina.com
 etmoc.com
+etmt1.com
 etnetchina.com.cn
 etocrm.com
 etomlink.com
@@ -36237,7 +36241,6 @@ inibiru.com
 inicoapp.com
 inidc.net
 inimc.com
-ininin.com
 init-china.itunes-apple.com.akadns.net
 init-p01md.apple.com.mwcname.com
 init.gc.apple.com.mwcname.com
@@ -42127,6 +42130,7 @@ lielb.com
 lielema.com
 lieluobo.com
 liemingwang.com
+lienew.com
 liepin.com
 liepincc.com
 lieqinews.com
@@ -48199,7 +48203,6 @@ nloader.xyz
 nlog.baidu.com
 nlp.ai.xiaomi.com
 nlp.map.qq.com
-nlpjob.com
 nlscan.com
 nlv2.com
 nlwl.iqiyi.com
@@ -48606,6 +48609,7 @@ nyrsksw.com
 nysdyyh.com
 nysmfc.com
 nytcnapps.oss-cn-hongkong.aliyuncs.com
+nyyxyx.com.cn
 nyzda.top
 nyzydz.com
 nz7tgact.v1d.szbdyd.com

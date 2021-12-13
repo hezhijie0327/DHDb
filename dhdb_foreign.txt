@@ -736,6 +736,7 @@
 1.bb6688.ws
 1.car21.net.daraz.com
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -3416,7 +3417,6 @@
 3.237.119.123.zz.countries.nerd.dk
 3.aa1122.ws
 3.au.download.windowsupdate.com
-3.cn.pool.ntp.org
 3.courier-push-apple.com.akadns.net
 3.courier2-push-apple.com.akadns.net
 3.cr.rs
@@ -13886,7 +13886,6 @@ ads2004.treiberupdate.de
 ads21.focalink.com
 ads22.focalink.com
 ads23.focalink.com
-ads234.com
 ads24.focalink.com
 ads24.net
 ads24h.net
@@ -19173,6 +19172,7 @@ api.identitynow.com
 api.imqtyik.com
 api.infinario.com
 api.insiderkit.io
+api.insight.synology.com
 api.instabug.com
 api.intensifier.de
 api.intentiq.com
@@ -37620,6 +37620,7 @@ cname.jf-d.jp
 cname.kyusai.co.jp
 cname.lions-mansion.jp
 cname.mebiusseiyaku.co.jp
+cname.vercel-dns.com
 cname1.shakenkan.co.jp
 cnamegslb.com
 cnanzhi.com
@@ -38594,7 +38595,6 @@ comidu.com
 comihon.com
 comilar-efferiff.icu
 comin.co
-cominghamer.info
 comingspace.com
 comiru.jp
 comli.com
@@ -46202,6 +46202,7 @@ di.phncdn.com
 di.phprcdn.com
 di.rlcdn.com
 di2.zooplus.es
+di5c.com
 di7stero.com
 di8n.bfmtv.com
 di9qu.com.cn
@@ -47348,6 +47349,7 @@ dk4ywix.com
 dkb.de
 dkbeatsbydre.com
 dkbicq.elektramat.nl
+dkc22lxchcg0u.cloudfront.net
 dkdlsj.com
 dkdmygipll.com
 dke.org
@@ -48607,6 +48609,7 @@ download.mediaplay.ru
 download.mozilla.org
 download.my.visualstudio.com
 download.parallels.com
+download.parallels.com.cdn.cloudflare.net
 download.pdfforge.org
 download.qoo-app.com
 download.sd.baidu.com
@@ -63585,6 +63588,7 @@ getnodo.com
 getnormalizedurl.com
 getnotification.me
 getoutline.org
+getoutofyourmind.com
 getpantheon.com
 getpasswordonline.com
 getpatch.com
@@ -73925,6 +73929,7 @@ hiringnearme.jobs
 hirmadar.com
 hirmatrix.hu
 hirorigo.net
+hiroseuk.com
 hiross.org
 hirozon.info
 hirszabadsag.blogspot.com

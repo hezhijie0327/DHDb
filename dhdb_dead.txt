@@ -6240,6 +6240,7 @@ ads2.theglobeandmail.com
 ads2.udc.advance.net
 ads2.virtumundo.com
 ads2.zdnet.com
+ads234.com
 ads2rtb.com
 ads3.adinc.co.kr
 ads3.advance.net
@@ -8123,7 +8124,6 @@ api.gunify-turbinedefs.vonage.com
 api.gxbrowser.net
 api.gzxiongwa.cn
 api.h4game.net
-api.insight.synology.com
 api.intense.hashvault.pro
 api.jcswhg.com
 api.jetlore.com
@@ -14578,7 +14578,6 @@ cnad9.economicoutlook.net
 cnadtop.com
 cname.co
 cname.ebis.folio-sec.com
-cname.vercel-dns.com
 cnameaddress.top
 cnamedns.net
 cnameebis.usagi-online.com
@@ -15078,6 +15077,7 @@ comfortjapangr.com
 comic123.net
 comiclub.com
 comicocn.com
+cominghamer.info
 comm-bkfs.com
 commencerons.xyz
 comment-pirater-un-compte-facebook-gratuitement.com
@@ -18324,7 +18324,6 @@ di-capt.com
 di.fengchedaomall.cn
 di1cx2shgigsi.cloudfront.net
 di2y21.top
-di5c.com
 diablo3cracked.org
 diablo3keygen.org
 diabloweissert.com
@@ -18595,7 +18594,6 @@ dk.surveys-online.eu
 dk2mvwe4uw0z3.cloudfront.net
 dk7rftbivnkgr.cloudfront.net
 dk957.com
-dkc22lxchcg0u.cloudfront.net
 dkemeli.ru
 dkeyn.com
 dkg.ifeng.com
@@ -19207,7 +19205,6 @@ download.cdn.ilivid.com
 download.dm.origin.com
 download.ilivid.com
 download.ithome.com.tw
-download.parallels.com.cdn.cloudflare.net
 download.shuzilm.cn
 download.synology.com
 download.wholestuff.win
@@ -22530,7 +22527,6 @@ fdwbhggm.com
 fdxstats.xyz
 fdzxurp.danaher.org
 fe-ver.com
-fe.sohu.com
 fe100.net
 feaecebook.com
 fearsomeclients.com
@@ -24899,7 +24895,6 @@ getnewsoft.bestfreesitetocontent.info
 getome.com
 getoptad360.com
 getout.besaba.com
-getoutofyourmind.com
 getp.xyz
 getphotosinstant.net
 getpremiumminecraft.com
@@ -27556,7 +27551,6 @@ hirlexikon.eu
 hirnap.info
 hirnaplo.com
 hironline24.net
-hiroseuk.com
 hirovivi.com
 hirportal.info
 hirtrafik.top
@@ -39153,6 +39147,7 @@ myywk.com
 myz11111.cn
 myz33333.cn
 myzhongguojie.cn
+myznh.com
 myzwqwe12.com
 mz-vodacom.info
 mzbei.com
@@ -40831,6 +40826,7 @@ ocsp-certum.com
 ocsp-data.us.cdnetworks.com
 ocsp-responder.com
 ocsp.eca.hinet.net
+octest355.ocjstestdomain.tcdn.qq.com
 octest365.ocjstestdomain.tcdn.qq.com
 octman.com
 octoserver.tk

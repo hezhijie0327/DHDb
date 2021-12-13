@@ -5614,6 +5614,7 @@
 70dir.com
 70e.com
 70god.com
+70mao.com
 70ppt.com
 70soft.com
 70wei.com
@@ -22549,6 +22550,7 @@ dispatcher.camera360.com
 dispatcher.is.autonavi.com
 dispatcher.is.autonavi.com.gds.alibabadns.com
 dispatcher.upmc.uc.cn
+display.360totalsecurity.com
 display.adhudong.com
 displink.com
 ditan360.com
@@ -26774,6 +26776,7 @@ fe-platformcn-maps-atm.trafficmanager.net
 fe-resource-cors.cdn.bcebos.com
 fe-resource.cdn.bcebos.com
 fe.ksyun.com
+fe.sohu.com
 fe249b9909761a71f445b5081f31cd1e.dlied1.cdntips.net
 fe2a4b7e0bd6b451ae7918d8d1bbbebc.dl.txcdns.com
 fe520.com
@@ -27514,6 +27517,7 @@ fongmong.com
 font.chinaz.com
 fontke.com
 fonts-gstatic.wp-china-yes.net
+fonts.geekzu.org
 fonts.googleapis.com
 fonts.gstatic.com
 fontstar.com.cn
@@ -47212,7 +47216,6 @@ myyzd.com
 myzaker.com
 myzebravip.com
 myzhongjin.com
-myznh.com
 myzte.com
 mz-oneacg.com
 mz-sys.com
@@ -48718,7 +48721,6 @@ oct.pocoiq.cn
 octbay.com
 octeast.com
 octeshow.com
-octest355.ocjstestdomain.tcdn.qq.com
 octholding.com
 octhotels.com
 octinn.com

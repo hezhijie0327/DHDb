@@ -4246,6 +4246,7 @@ a-ups-presencecore13-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore13-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore14-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore14-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presencecore2-prod-azsc.japanwest.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.eastus.cloudapp.azure.com
@@ -22092,6 +22093,7 @@ fa87d265e9e5eb6e07a6f7146983afb3.jddebug.com
 faachen.cn
 faapy.com
 fab8b0afc62da4de6f4d51f55ba4b053549ef8719792bc82.dlied1.cdntips.net
+fabientech.com
 fabioluciani.com
 faboshine.com
 fabric-shops.com
@@ -25968,7 +25970,6 @@ gsmpers.com
 gso.hk
 gso0.com
 gsp.cnzz.kld666.com
-gsp1.baidu.com
 gsportsgroup.co.kr
 gssdsj.com
 gssfgk.com
@@ -28174,6 +28175,7 @@ hshv.7kzw.com
 hshw.com
 hshy.net
 hsjk.com
+hsjzez.com
 hsleadflows.net
 hslycj.com
 hsmc.com

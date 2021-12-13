@@ -10376,6 +10376,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -12563,7 +12564,6 @@ bclsw.com
 bcmcdn.com
 bcmeng.com
 bcnzbi.tdum.alibaba.com
-bcoderss.com
 bcopsp1.cachenode.cn
 bcpcn.com
 bcreat.com
@@ -14633,6 +14633,7 @@ c.f1zd.com
 c.feilan5.cn
 c.freeride.com.cn
 c.fwone.com
+c.fzjarow.cn
 c.gdt.qq.com
 c.gj.qq.com
 c.gridsumdissector.com
@@ -17556,7 +17557,6 @@ chuxinm.com
 chuxueyun.com
 chuying.org
 chuyouling.com
-chuyu.me
 chuzhaobiao.com
 chuzhou.anjuke.com
 chuzushijian.cn
@@ -26344,7 +26344,6 @@ fabco-air.asia
 fabiao.com
 fabiao.net
 fabiaoqing.com
-fabientech.com
 fabigbig.com
 fabricww.com
 faburuanwen.com
@@ -29839,6 +29838,7 @@ gslbmgsplive.miguvideo.com
 gslbtx.ximalaya.com
 gsmyi.com
 gsp0.baidu.com
+gsp1.baidu.com
 gsp10-ssl-cn.ls-apple.com.akadns.net
 gsp10-ssl-cn.ls.apple.com
 gsp85-cn-ssl.ls.apple.com
@@ -34646,7 +34646,6 @@ ichangtou.com
 ichannel.snssdk.com
 ichanyu.com
 ichaoshangyue.com
-ichaotu.com
 icharm.me
 ichat800.com
 ichdata.com

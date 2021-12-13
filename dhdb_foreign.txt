@@ -8629,7 +8629,6 @@ a-ups-presencecore1-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore11-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore2-prod-azsc.eastus2.cloudapp.azure.com
-a-ups-presencecore2-prod-azsc.japanwest.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.australiaeast.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.eastus2.cloudapp.azure.com
@@ -75633,7 +75632,6 @@ hsj3.com
 hsjingcheng.com
 hsjp.net
 hsjvcdjj.top
-hsjzez.com
 hsjzpsjz.joojzz.com
 hskj.net
 hskj88.cn
@@ -106457,6 +106455,7 @@ neogenomics.com
 neohost01.net.daraz.com
 neojos.com
 neolee.com
+neolix.net
 neom.com
 neomeric.us
 neomion.com

@@ -7120,6 +7120,7 @@
 96app.com
 96bbs.com
 96fbd20ea10c0c4edbb2e71352bb3085.dlied1.cdntips.net
+96go.com
 96jm.com
 96kaifa.com
 96kb.com
@@ -7449,6 +7450,7 @@ a.ac.qq.com
 a.ad7.com
 a.alimama.cn
 a.alimama.cn.danuoyi.tbcache.com
+a.alipayobjects.com
 a.amap.com
 a.amap.com.danuoyi.tbcache.com
 a.amghais.cn
@@ -41400,6 +41402,7 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
+lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com
@@ -45828,6 +45831,7 @@ mipengine.org
 miplus.cloud
 mipsa.ciae.ac.cn
 mipstatic.sm-tc.cn
+mipujia.com
 miquapp.com
 mir4399.com
 miraclevision.net

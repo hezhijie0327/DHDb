@@ -10342,6 +10342,7 @@ api.cheshi.com
 api.cloud.189.cn
 api.cn-weathernews.cn
 api.cntv.cn
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -11284,6 +11285,7 @@ assets.dspunion.com.wswebcdn.com
 assets.easou.com
 assets.giocdn.com
 assets.giocdn.com.wswebpic.com
+assets.gitee.com
 assets.growingio.com
 assets.taobao.com
 assets.tapimg.com
@@ -19721,7 +19723,6 @@ cr-nielsen.com
 cr-status.iqiyi.com
 cr.console.aliyun.com
 cr.file.cloud.duba.net
-cr.m.liebao.cn
 cr.youhuiguan.com
 cr11gcsgd.com
 cr11gee.com
@@ -47468,7 +47469,6 @@ nbd.com.cn
 nbdeli.com
 nbdeli.net
 nbdisco.com
-nbdskj.com
 nbegame.com
 nbegame.net
 nbfox.com
@@ -48315,6 +48315,7 @@ nosuchfield.com
 not3.com
 note.youdao.com
 note52.com
+noteapi.micloud.xiaomi.net
 notebook.pconline.com.cn
 notedeep.com
 noteniu.com
@@ -48614,6 +48615,7 @@ o2moment.com
 o2o-ad-clicking.alibaba.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
+o2o.api.xiaomi.com
 o2o.keloop.cn
 o2o4.com
 o2oexpo.com

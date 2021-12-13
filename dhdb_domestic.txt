@@ -10135,6 +10135,7 @@ aopu.tmall.com
 aoratec.com
 aoruszone.cn
 aos-cdn-files.cn-hangzhou.oss.aliyun-inc.com
+aos-cdn-image.amap.com
 aos-cdn-image.amap.com.w.alikunlun.net
 aoscdn.amap.com
 aoscdn.amap.com.w.kunlunar.com
@@ -27094,6 +27095,7 @@ fg258.com
 fg8uqn1.cachenode.cn
 fga0.market.xiaomi.com
 fgb0.market.xiaomi.com
+fgc1.market.xiaomi.com
 fgeekcloud.com
 fghi34.com
 fghmc.ga25.com

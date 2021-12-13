@@ -4273,7 +4273,6 @@ a.admaxserver.com
 a.admob.com
 a.ads.cn.miaozhen.com
 a.ai.inmobi.com
-a.alipayobjects.com.danuoyi.tbcache.com
 a.armystar.com
 a.as-eu.falkag.net
 a.as-us.falkag.net
@@ -12477,7 +12476,6 @@ caiyuanyou.com
 caiyugang.com
 cajkov.ru
 calarm.info
-caldav.fe.apple-dns.net
 calendarsapp.com
 califia.imaginemedia.com
 call-mlcrosoftnw-err92789307.win
@@ -14419,7 +14417,6 @@ cloudsink.net
 cloudsoar.com
 cloudss.pw
 cloudstack-china.org
-cloudtcp.net
 cloudvideo.thepaper.cn
 cloudvip1.com
 cloudwp.io
@@ -20419,7 +20416,6 @@ e11290.dspg.akamaiedge.net
 e11696.dscb.akamaiedge.net
 e127f.azurewebsites.net
 e14313.g.akamaiedge.net
-e16126.dscg.akamaiedge.net
 e1723.ca.s.tl88.net
 e1ed050f62.com
 e2068b07cca87c8f36eb4eb89d544fa2.jddebug.com
@@ -22738,7 +22734,6 @@ fi.doh.dns.snopyta.org
 fias.best
 fiberdump.com
 fiberprox.eu
-fides-pol.apple.com
 fieachejgcdehafaadi.ru
 fierastraieculant-ro.com
 fiery-data.com
@@ -28017,6 +28012,7 @@ hotfileupload.com
 hotgiftzone.com
 hothdwallpaperz.com
 hothoomu.net
+hotinfosource.com
 hotjar.io
 hotkd.com
 hotkey123.com
@@ -31436,6 +31432,7 @@ jpqgxy.com
 jprvhcoroir.xyz
 jptyj.com
 jpwy.ynp0h.cn
+jpyjdpal.xyz
 jpzwomhbxoalxu.com
 jq.a0buy.top
 jq2.avpris.ru

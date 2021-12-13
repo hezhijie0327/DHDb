@@ -665,7 +665,6 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -1851,7 +1850,6 @@
 17yund.com
 17yy.com
 17yyba.com
-17zhaogong.com
 17zhiliao.com
 17zhuangxiu.com
 17ziti.com
@@ -7452,6 +7450,7 @@ a.ad7.com
 a.alimama.cn
 a.alimama.cn.danuoyi.tbcache.com
 a.alipayobjects.com
+a.alipayobjects.com.danuoyi.tbcache.com
 a.amap.com
 a.amap.com.danuoyi.tbcache.com
 a.amghais.cn
@@ -18057,6 +18056,7 @@ cloudservice22.kingsoft-office-service.com
 cloudservice27.kingsoft-office-service.com
 cloudsgis.com
 cloudsohu.net
+cloudtcp.net
 cloudtim.msf.tencent-cloud.com
 cloudtomicro.com
 cloudtopo.com
@@ -24038,6 +24038,7 @@ dui88.com
 duia.com
 duiai.com
 duiba.com.cn
+duihuan123.com
 duihuashijie.com
 duikuang.com
 duiopen.com

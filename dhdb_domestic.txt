@@ -7938,6 +7938,7 @@ ac.csdn.net
 ac.dun.163.com
 ac.dun.163yun.com
 ac.jice.io
+ac.mmstat.com
 ac.o2.qq.com
 ac029063571fb6f1f3de5c908b3c3778.safeframe.googlesyndication.com
 ac1.786ip.com
@@ -11948,6 +11949,7 @@ baicheng.com
 baichenginedu.com
 baichuan-api.huxiu.com
 baichuan-sdk.alicdn.com
+baichuan-sdk.alicdn.com.w.cdngslb.com
 baichuan-sdk.taobao.com
 baichuan.baidu.com
 baichuanhd.com
@@ -13432,6 +13434,7 @@ bj-dsmzyy.com
 bj-japi.douyucdn.cn
 bj-ka.com
 bj-kpn.com
+bj-sagtar.com
 bj-sea.com
 bj-sydc.com
 bj-tvart.com
@@ -30710,6 +30713,7 @@ h5.qianbao.qq.com
 h5.qzone.qq.com
 h5.showapp.xunlei.com
 h5.shqmxx.com
+h5.sinaimg.cn
 h5.sm.cn
 h5.ssp.qq.com
 h5.ssp.qq.com.sched.px-dk.tdnsv6.com
@@ -51210,6 +51214,7 @@ pj.com
 pj.fang.anjuke.com
 pj.zu.anjuke.com
 pj3456.com
+pj550077.com
 pj606.com
 pjapi.jd.com
 pjapi.jd.com.gslb.qianxun.com

@@ -28970,6 +28970,7 @@ gfs2.gomein.net.cn.wscdns.com
 gfs4.gomein.net.cn
 gfs4.gomein.net.cn.wscdns.com
 gfs5.gomein.net.cn
+gfs6.gomein.net.cn
 gfs7.gomein.net.cn
 gfs8.gomein.net.cn
 gftuan.com
@@ -35888,6 +35889,7 @@ img3.tapimg.com
 img3.tuhu.org
 img3.utuku.imgcdc.com
 img3.xitongzhijia.net
+img30.360buyimg.com
 img30.360buyimg.com.gslb.qianxun.com
 img4.178.com
 img4.cache.netease.com
@@ -36109,6 +36111,7 @@ in-en.com
 in.ali213.net
 in.m.jd.com
 in.m.jd.com.gslb.qianxun.com
+in.qqhpg.com
 in.vipliangmei.com
 in1.feed.uu.cc
 in1.secure.uu.cc
@@ -42881,6 +42884,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn

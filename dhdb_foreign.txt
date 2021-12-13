@@ -22261,6 +22261,7 @@ avatar.games.dmm.com
 avatargarenanow-a.akamaihd.net
 avatarify.ai
 avatarmobi.com
+avatars.discourse-cdn.com
 avatars.github.com
 avatars.githubusercontent.com
 avatars0.githubusercontent.com
@@ -53648,6 +53649,7 @@ eo.aaaw.xyz
 eo.aliyunwang.top
 eo.ccch.xyz
 eo.eeo1h1.cn
+eo.elevenmedia.cn
 eo.erkesi.cn
 eo.pgqoqv.cn
 eo.pl

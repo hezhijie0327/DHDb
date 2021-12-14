@@ -20705,6 +20705,7 @@ array609.prod.do.dsp.mp.microsoft.com
 array611.prod.do.dsp.mp.microsoft.com
 array612.prod.do.dsp.mp.microsoft.com
 array613.prod.do.dsp.mp.microsoft.com
+array614.prod.do.dsp.mp.microsoft.com
 array801.prod.do.dsp.mp.microsoft.com
 array802.prod.do.dsp.mp.microsoft.com
 array803.prod.do.dsp.mp.microsoft.com
@@ -92679,6 +92680,7 @@ loadlink.transcore.ca
 loadm.exelator.com
 loadpartners.com
 loadserial.ru
+loadsfalladz.casa
 loadthatpage.com
 loadus.exelator.com
 loamauji.com
@@ -95473,6 +95475,7 @@ maiensiyuan.com
 maienyanjing.cn
 maif.fr
 maifjb.com
+maigevoice.com
 maiglair.net
 maigv.com
 maihaimo.com
@@ -104061,7 +104064,6 @@ mp.digital.wilhelmsen.com
 mp.ejdj12.com
 mp.ferchau.com
 mp.subservis.com
-mp.truth.gq
 mp3.com
 mp3bars.com
 mp3buscador.com

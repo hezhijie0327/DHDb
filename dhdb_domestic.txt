@@ -15725,6 +15725,7 @@ cdn-o7p6r5ll.sched.s2.tdnsv5.com
 cdn-oej99hli.sched.s2.tdnsv5.com
 cdn-play.fun.tv
 cdn-pmmutlyp.sched.s2.tdnsv5.com
+cdn-pri.nlark.com
 cdn-qc.content.steamchina.com
 cdn-qtcduyug.sched.s2.tdnsv5.com
 cdn-sdk-opt.getui.com
@@ -18360,6 +18361,7 @@ cmt178.com
 cmt7.com
 cmta.yangkeduo.com
 cmtdi.com
+cmts.iqiyi.com
 cmts.iqiyi.com.w.alikunlun.com
 cmtw.pinduoduo.com
 cmtw.yangkeduo.com
@@ -19300,6 +19302,7 @@ congyicn.com
 conn.wemeet.tencent.com
 conn1.coloros.com
 conn1.oppomobile.com
+conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com
@@ -43332,7 +43335,6 @@ lqbz.junsw.com
 lqgrdj.com
 lqhigo.com
 lqjob88.com
-lqjuwuwang.com
 lqpsj.com
 lqqm.com
 lqrcb.com
@@ -44652,6 +44654,7 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
+mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn

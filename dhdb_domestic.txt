@@ -9402,6 +9402,7 @@ ali-p2p.pull.yximgs.com
 ali-p2p.pull.yximgs.com.w.alikunlun.com
 ali-proxy.pull.yximgs.com
 ali-proxy.pull.yximgs.com.w.alikunlun.net
+ali-safety-video.acfun.cn
 ali-safety-video.acfun.cn.w.alikunlun.com
 ali-safety-video.acfun.cn.w.alikunlun.com.qr.uuhimalayanqm.com
 ali-stats.jpush.cn
@@ -11307,6 +11308,7 @@ assets.giocdn.com.wswebpic.com
 assets.gitee.com
 assets.growingio.com
 assets.taobao.com
+assets.taobao.com.w.cdngslb.com
 assets.tapimg.com
 assets.valueur.com
 assets.xiaojukeji.com
@@ -30556,7 +30558,6 @@ gzexpo.com
 gzfilm.com
 gzfsnet.com
 gzfxkwl.com
-gzfzcj.cn
 gzgc120.com
 gzgdwl.com
 gzguard12th.com
@@ -39027,7 +39028,6 @@ js53777.com
 js6.efyt6.com
 js66649.com
 js74.yqjxzw.com
-js9318.bllzgqbyp.com
 js96008.com
 jsadsdisplay.cn-beijing.log.aliyuncs.com
 jsahj.com

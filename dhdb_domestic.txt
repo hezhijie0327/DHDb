@@ -8732,6 +8732,7 @@ adzshd.com
 ae-people.com
 ae.bdstatic.com
 ae.weixin.qq.com
+ae01.alicdn.com
 ae01.alicdn.com.danuoyi.alicdn.com
 ae02.alicdn.com
 ae02.alicdn.com.danuoyi.alicdn.com
@@ -8838,6 +8839,7 @@ agile-china.com
 agileex.com
 agilehw.online
 agiso.com
+agjy6.com
 agks5cwh.v1d.szbdyd.com
 agks5dao.v1d.szbdyd.com
 agks5ntq.v1d.szbdyd.com
@@ -11547,6 +11549,7 @@ avatar.csdnimg.cn
 avatar.dmzj.com
 avatar.iplaysoft.com
 avatar.iplaysoft.com.cname.yunjiasu-cdn.net
+avatar.ithome.com
 avatar.pddpic.com
 avatar0.weishi.qq.com
 avatar1.weishi.qq.com
@@ -14229,7 +14232,6 @@ bryonypie.com
 brzhang.club
 bs-adaptive.pull.yximgs.com
 bs-origin.pull.yximgs.com
-bs.5442.com
 bs.csshq.com.cn
 bs.forward.douban.com
 bs008.com
@@ -19973,6 +19975,7 @@ cshnkj.com
 cshu360.com
 cshxdc.com
 csi-china.l.google.com
+csi.gstatic.com
 csic-711.com
 csic-ljtech.com
 csic612.com
@@ -25702,6 +25705,7 @@ enterprise.fanyigou.com
 entphz.alipay.com
 entpsz.alipay.com
 entrust.download.lixian.vip.xunlei.com
+entry.baidu.com
 enunix.com
 envisioncn.com
 eo.yun-pdm2000.cn
@@ -59480,7 +59484,6 @@ smzwgk.com
 smzy.com
 sn.gsxt.gov.cn
 snai.edu
-snail.com
 snail007.com
 snailgame.net
 snailshub.com
@@ -59938,7 +59941,6 @@ spdytest1.baidu.com
 spec.wtaplbs.yy.com
 special.cnfol.com
 specie.chaoxing.com
-speed-idc.com
 speed.control.vip.xunlei.com
 speed.gamecenter.qq.com
 speed.goods123.cn

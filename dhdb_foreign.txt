@@ -1567,7 +1567,6 @@
 15a7d74c-dnsotls-ds.metric.gstatic.com
 15cacaospice63nhdk.com
 15cdn.com
-15fa37b45d.com
 15gifts.com
 15h8.net
 15hn.com
@@ -9444,6 +9443,7 @@ a39804.actonservice.com
 a3fdbb9e-dnsotls-ds.metric.gstatic.com
 a3h.de
 a3m.io
+a3p4.net
 a3yqjsrczwwp.com
 a4.mzstatic.com
 a402.g.akamai.net
@@ -22766,6 +22766,7 @@ az667904.vo.msecnd.net
 az668014.vo.msecnd.net
 az693360.vo.msecnd.net
 az708531.vo.msecnd.net
+az725175.vo.msecnd.net
 az745087.vo.msecnd.net
 az764295.vo.msecnd.net
 az795675.vo.msecnd.net
@@ -89590,7 +89591,6 @@ langda.cc
 langest.org
 langgo.org
 langhamhotels.com
-langjiyisheng.com
 langlangchinese.com
 langlinking.com
 langlishmal.club
@@ -123658,7 +123658,6 @@ quentic.com
 queqh.com
 query.ess-apple.com.akadns.net
 query.ess.apple.com
-query.hicloud.com
 query.prod.cms.rt.microsoft.com
 querylead.com
 querylist.cc

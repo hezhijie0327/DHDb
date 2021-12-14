@@ -1389,6 +1389,7 @@
 1573699.b2b.liebiao.com
 1573699.shop.liebiao.com
 157732.shop.liebiao.com
+1586f.com
 1588.tv
 15880.com
 158jixie.com
@@ -10354,7 +10355,6 @@ api.cloud.189.cn
 api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
-api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -15604,6 +15604,7 @@ cd.06bv.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
+cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -27537,6 +27538,7 @@ fnmz.com
 fnnsh.com
 fnrcw.com
 fnrczp.com
+fnsdk.4399sy.com
 fnwy4b.tdum.alibaba.com
 fnysb.com
 fnzoo.com

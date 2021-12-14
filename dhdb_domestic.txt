@@ -5043,7 +5043,6 @@
 5ede337a36c9346ea8f3d14b66f1af38.dlied1.cdntips.net
 5ee1f452c9098ccb7bfc28d490850059.dlied1.cdntips.net
 5eplay.com
-5esc.com
 5etv.com
 5ewin.com
 5f29849c74a59f0f17d534270e3643d2.safeframe.googlesyndication.com
@@ -10540,6 +10539,7 @@ api.verify.mob.com
 api.vip.miui.com
 api.vlightv.com
 api.vuevideo.net
+api.w.inmobi.com
 api.weathercn.com
 api.weibo.cn
 api.weibo.com
@@ -22454,6 +22454,7 @@ dili365.com
 dim0.com
 dimeng.net
 dimensionalzone.com
+dimg01.c-ctrip.com
 dimg01.c-ctrip.com.wscdns.com
 dimg02.c-ctrip.com
 dimg02.c-ctrip.com.wscdns.com
@@ -45733,7 +45734,6 @@ mingbianji.com
 mingcalc.com
 mingchaoonline.com
 mingchaoyouxi.com
-mingcidianzi162.cn
 mingcloud.net
 mingczh.com
 mingdanwang.com

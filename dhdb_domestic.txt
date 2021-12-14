@@ -11286,6 +11286,7 @@ asr.meituan.com
 asrmicro.com
 asrsingapore.com
 asset.newyx.net
+asset.tantanapp.com
 assets-mayun.b0.aicdn.com
 assets-share.dspunion.com
 assets-share.dspunion.com.wswebcdn.com
@@ -16402,6 +16403,7 @@ chanjet.com
 chanluntan.com
 chanmama.com
 channel-account-ssl.xunlei.com
+channel-analysis-js.gmw.cn
 channel-analysis-js.gmw.cn.wswebcdn.com
 channel-analysis.gmw.cn
 channel.api.duapp.com
@@ -26513,7 +26515,6 @@ fangtingzfc.com
 fangtoon.com
 fangtuwang.com
 fangtw.com
-fangtx.com
 fangwei315.com
 fangweima.com
 fangxiaoer.com

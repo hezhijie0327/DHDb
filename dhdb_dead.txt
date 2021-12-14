@@ -14939,7 +14939,6 @@ collector-axa.cloud.ca.com
 collector-medium.lightstep.com
 collector-steal.ga
 collector.apester.com
-collector.dcdn.baidu.com
 collector.hamsterix.cam
 collector.newsx.cc
 collector.puhutv.com
@@ -27003,6 +27002,7 @@ hbqzx.com
 hbrbmedia.com
 hbrjcspx.com
 hbryzx.net
+hbs.sxdanke.cn
 hbscjh.cn
 hbscm.com
 hbsdenterprise.com
@@ -29563,7 +29563,6 @@ immi.cc
 immi520.com
 immivip.com
 imms1.macau.ctm.net
-immugendx.com
 imneinei.com
 imnvgma.cn
 imobifly.com
@@ -30562,7 +30561,6 @@ j.qzxmtyy.com
 j.rvttrack.com
 j.taokeweizhan.com
 j.xinshipu.com
-j.yljiaoluo.com
 j.ytbt.cc
 j.zhdap.com
 j0129.com
@@ -40858,6 +40856,7 @@ oclp.hk
 ocm8.masmovil.es
 ocmhood.com
 ocmoo.net
+ocnnykxjx.com
 ocone.loan
 ocslab.com
 ocsp-certum.com

@@ -19133,6 +19133,7 @@ collecter.frontjs.com
 collection.sina.com.cn
 collector.51zmt.net
 collector.91fenfa.com
+collector.dcdn.baidu.com
 collector.galaxyclouds.cn
 collector.szlcsc.com
 collector.wasu.cn
@@ -31537,7 +31538,6 @@ hbrqygr.com
 hbruicai.com
 hbrzkj.com
 hbs-nd.com
-hbs.sxdanke.cn
 hbsantak.com
 hbsccloud.com
 hbsem.com

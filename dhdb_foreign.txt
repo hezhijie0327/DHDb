@@ -734,7 +734,6 @@
 1.bb6688.ws
 1.car21.net.daraz.com
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -4031,6 +4030,7 @@
 36zhen.com
 36zzz.net
 37-courier.push.apple.com
+37-courier2.push.apple.com
 37.courier-push-apple.com.akadns.net
 37.info.tm
 3709.com
@@ -26127,6 +26127,7 @@ bgmfans.com
 bgmtracker.com
 bgn.gg
 bgov.com
+bgpdefault-hkg.msedge.net
 bgpng.me
 bgproxy.org
 bgr.in
@@ -45683,7 +45684,6 @@ desertfinancial.com
 desertfish.be
 desertsun.com
 desertveinspecialists.com
-deservecustomsadministrator.com
 desewowe.com
 desgao1zt7irn.cloudfront.net
 deshuangwang.cn
@@ -62884,6 +62884,7 @@ gci.wqpeoh58.com
 gci.xcegwjimj.com
 gci.xxmmw.cn
 gci.yabo808.com
+gcih5.agingames.com
 gcion.com
 gcirm.argusleader.com
 gcirm.argusleader.gcion.com

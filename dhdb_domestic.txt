@@ -9615,6 +9615,7 @@ all.ad-core-lb-lf.l.bytedns.net
 all.cnzz.com.danuoyi.tbcache.com
 all.douyin.com.w.kunluncan.com
 all.gamedog.cn.w.kunlungr.com
+all.kwimgs.com.w.cdngslb.com
 all.kwimgs.com.w.cdngslb.com.c.cdnuyun.cn
 all.kwimgs.com.w.cdngslb.com.qr.uuhimalayanqm.com
 all.lv2.qnydns.com
@@ -15599,7 +15600,6 @@ cd.06bv.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
-cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -20489,6 +20489,7 @@ d.3.cn
 d.39.net
 d.8181zx.com
 d.admx.baixing.com
+d.alicdn.com
 d.alicdn.com.w.cdngslb.com
 d.apgoview.com
 d.api.m.le.com
@@ -28610,6 +28611,7 @@ gate.push.x.netease.com
 gateface.com
 gateway-drcn.wallet.dbankcloud.com
 gateway.battlenet.com.cn
+gateway.cdeledu.com
 gateway.fe.apple-dns.cn
 gateway.icloud.com.cn
 gateway.im.weibo.cn

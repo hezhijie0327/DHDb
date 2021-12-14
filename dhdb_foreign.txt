@@ -19040,6 +19040,7 @@ api-secure.recaptcha.net
 api-secure.solvemedia.com
 api-spring.net.daraz.com
 api-ubiservices.ubi.com
+api-umamusume.cygames.jp
 api-us-east-1.ndsopaapl.nudatasecurity.com
 api-us1.cludo.com
 api-verify.flurry.com
@@ -19090,6 +19091,7 @@ api.analytics.omgpop.com
 api.api861861.com
 api.apidocs-repo.net.zooplus.de
 api.apiluiza.com.br
+api.apple-cloudkit.com
 api.apple-cloudkit.fe.apple-dns.net
 api.applovefrom.com
 api.appnxt.net
@@ -31024,6 +31026,7 @@ bxwzds.spartoo.hu
 bxzpvl.pharmacyonline.com.au
 by-sabotage123.duckdns.org
 by.bollore-logistics.com
+by.mbai.cn
 by.nf
 by111111.com
 by1337.000webhostapp.com
@@ -31522,7 +31525,6 @@ c409c8262af5f137f294c437041b3461.fp.measure.office.com
 c43a3cd8f99413891.com
 c44ff.com
 c44wergiu87heghoconutdx.com
-c4b2dbf3a0.040e9e6099.com
 c4b33e43ae127fcb83f0089cb6bdb090.clo.footprintdns.com
 c4cm.actonservice.com
 c4contexture.actonservice.com
@@ -37717,7 +37719,6 @@ cnb.com
 cnbang.net
 cnbbnews.wordpress.com
 cnbc.com
-cnbc.com-article906773.us
 cnbcfm.com
 cnbct.org
 cnbeining.com
@@ -37952,7 +37953,6 @@ cnwcdc.greenfarmparts.com
 cnwebe.com
 cnxiaoyuan.com
 cnxile.com
-cnxmyb.cn
 cnxweb.com
 cny.yoyo.org
 cnyes.com
@@ -45947,6 +45947,7 @@ devaje.pourfemme.it
 devaluationlimetreedeadly.com
 devaluationobserve.com
 devanshp.com
+devappgrant.space
 devastatingallothallucinate.com
 devatics.com
 devcar10.net.daraz.com
@@ -64843,7 +64844,6 @@ gluckman.com
 gluckysecrets.com
 gluegent.com
 glugreez.com
-glumpaul.net
 glumtitu.net
 gluware.com
 gluwhoas.com
@@ -84350,7 +84350,6 @@ jc743hbc6.info
 jcaqvl.twinset.com
 jcb.com
 jcblar.floridarentals.com
-jcboloni.cn
 jccc.edu
 jccchicago.org
 jcdcover.cjt1.net
@@ -85010,7 +85009,6 @@ jinxwww.partner.net.daraz.com
 jinyindao.com
 jinyongwang.com
 jinyueya.com
-jinyueya.net
 jinyunfood.com
 jinzhao.wiki
 jinzhao99.com
@@ -85915,7 +85913,6 @@ jsdd17.jigsy.com
 jsddlzz.com
 jsdelivr.com
 jsdelivr.net
-jsdujuan.com
 jsearch.site
 jsecoin.com
 jser.com
@@ -94142,7 +94139,6 @@ luomedia.eu
 luoqiu.com
 luoqiuxs.com
 luoqiuzw.com
-luoqiuzww.com
 luotediao.net
 luoti.biz
 luoyuanhang.com
@@ -111241,7 +111237,6 @@ ohyeah1080.com
 oi-wiki.org
 oia.outdoorindustry.org
 oiat.dow.com
-oicchina.com
 oicretarifiedy.top
 oicssiq.com
 oid-csr11.net.zooplus.de
@@ -122640,7 +122635,6 @@ pz6682.com
 pz7377.com
 pz779.com
 pz997.com
-pzcdn.com
 pzipxs.futureland.fr
 pzjinxiudadi.com
 pzlink.com

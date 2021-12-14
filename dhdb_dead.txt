@@ -765,6 +765,7 @@
 1676369.com
 1680103kai.co
 1680118.com
+1680go.com
 1681380.com
 1681580.com
 1683580.com
@@ -8081,7 +8082,6 @@ api-login.kkbox.com.tw
 api-metrics-e2e.nonprod.flurry.com
 api-metrics-smoke.nonprod.flurry.com
 api-p.videomarket.jp
-api-umamusume.cygames.jp
 api-vtairanankou-production.mapbox.com
 api-zdj.com
 api.1beb2a44.space
@@ -8108,7 +8108,6 @@ api.ahjinshu.com
 api.andapp.jp
 api.appfireworks.com
 api.appjiagu.com
-api.apple-cloudkit.com
 api.apps.apple.com
 api.appsee.com
 api.authedmine.com
@@ -12272,6 +12271,7 @@ c3h5cae95p.ru
 c3p0.top
 c3y1oja.cn
 c4288.com
+c4b2dbf3a0.040e9e6099.com
 c4frc.info
 c51rf.com
 c52d0ca9c5.com
@@ -14587,6 +14587,7 @@ cnameebis.usagi-online.com
 cnamesvr.com
 cnamextv.com
 cnbaike.org
+cnbc.com-article906773.us
 cnberg.com
 cnblogsc.com
 cnblogse.com
@@ -14710,6 +14711,7 @@ cnxhacker.com
 cnxianzai.com
 cnxingoplastics.com
 cnxishui.net
+cnxmyb.cn
 cnyharo.ru
 cnzazhi.net
 cnzhanting.com
@@ -18173,7 +18175,6 @@ dev-push.m.youku.com
 dev-webs-store-free.site
 dev.dc.letv.com
 dev.fortrader.ru
-devappgrant.space
 devart.adbureau.net
 devatics.io
 devaxi.org
@@ -25335,6 +25336,7 @@ glubopa.ru
 gludraus.com
 glue-length.biz
 glumifo.ru
+glumpaul.net
 glveway-st4ck.site
 glwmlknhrvvg.xyz
 glxp.6c4t5.cn
@@ -30718,6 +30720,7 @@ jc.xuqinqi.cn
 jc1.dayfund.cn
 jc170.com
 jc9866.com
+jcboloni.cn
 jcdb88.com
 jcdfdhx.top
 jchat.io
@@ -31668,6 +31671,7 @@ jscoinminer.com
 jscounter.com
 jsczyjg.com
 jsd.cc
+jsdujuan.com
 jseie.org
 jsgblog.com
 jsh966.com
@@ -40986,6 +40990,7 @@ ohtly.com
 ohtrial.press
 ohwx.7cjsh.cn
 oiaxguxnwkcick.localdomain
+oicchina.com
 oicvgqrahaaejnx.xyz
 oidah.com
 oidiscover.com
@@ -44207,6 +44212,7 @@ pz7533.com
 pz7775.com
 pz81.com
 pz88.com
+pzcdn.com
 pzhfarm.life
 pzhht.com
 pzhttaax.cn

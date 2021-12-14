@@ -188,7 +188,6 @@
 020gay.com
 020h.com
 020usa.com
-020wujin.cn
 020xueche.com
 020zp.net
 021-nov.hichannel.hinet.net.daraz.com
@@ -17581,6 +17580,7 @@ ams.ux-dev.com.my
 ams02.space
 ams1.a.f.prd.aadg.trafficmanager.net
 ams1.racingvpn.com
+ams2.current.a.prd.aadg.trafficmanager.net
 ams2.next.a.prd.aadg.trafficmanager.net
 ams2.test-ipv6.com
 ams900.goo.ne.jp
@@ -21967,7 +21967,6 @@ ausnznet.com
 ausoafab.net
 ausoft.net
 auspicealibis.com
-auspicionfr.fun
 auspiciousvp.com
 auspipe.com
 auspolice.com
@@ -63657,6 +63656,7 @@ getgiftcard.co
 getgiftcardcodes.com
 getgiftcards.org
 getgiftcodes.com
+getgifts.online
 getglue.com
 getgocafe.com
 getgom.com
@@ -125383,7 +125383,6 @@ rdrceting.com
 rdrctgoweb.com
 rdrtech.com
 rdrtrk.com
-rds.alipay.com
 rds.ca
 rdsa2012.com
 rdsa2013.com

@@ -17527,6 +17527,7 @@ amp-clarionledger-com.cdn.ampproject.org
 amp-dw-com.cdn.ampproject.org
 amp-error-reporting.appspot.com
 amp.akamaized.net
+amp.azure.net
 amp.dev
 amp.rd.linksynergy.com
 amp.services
@@ -34836,7 +34837,6 @@ chayayeon.com
 chaye.kr
 chazc.com
 chazuowang.com
-chczz.com
 chd-10yo-models.net.daraz.com
 chd-admins.marketing.net.zooplus.es
 chd-cisco-capwap-controller.net.daraz.com
@@ -36348,6 +36348,7 @@ clariant.com
 clarica.com
 clarifyhealth.com
 clarin.com
+claring-loccelkin.com
 clarins.ca
 clarins.ru
 clarion-defence.com
@@ -43600,7 +43601,6 @@ d4ngwggzm3w7j.cloudfront.net
 d4q8zgf756.com
 d4uvtfdr04uq6raoenvj7m86gdk16v.ext-twitch.tv
 d5.nz
-d5355.com
 d543to-dnsotls-ds.metric.gstatic.com
 d5522.com
 d5555.co
@@ -78988,7 +78988,6 @@ in.listrak.com
 in.mengpr.com
 in.mgwcn.com
 in.ml314.com
-in.mxmrt.com
 in.net
 in.promo.skf.com
 in.secure.sonosite.com
@@ -84928,6 +84927,7 @@ jingwei.link
 jingwei.net
 jingwentian.com
 jingwuhui.com
+jingxiangyalvji.cn
 jingyan8.cc
 jingyanhome.com
 jingyixueyuan.cn
@@ -113929,6 +113929,7 @@ ownpage.fr
 ownynb.bernabei.it
 ownyourlaundromat.com
 owonal.anibis.ch
+owp-hk.americanexpress.com
 owp-sg-prop.americanexpress.com
 owp-tw.americanexpress.com
 ows2.cat.flnet.org
@@ -117706,7 +117707,6 @@ pinvazo.com
 pinweiwed.com
 pinyou8.com
 pinzhitmall.com
-pio.fabianfett.de
 pion.loveserials.net
 pioneerlinux.com
 pioneertimes.net

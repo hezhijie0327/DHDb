@@ -10386,7 +10386,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -32657,7 +32656,6 @@ hndca.com
 hndfbg.com
 hndnews.com
 hndpx.com
-hndxsg.org
 hne45p1.cachenode.cn
 hnemb.com
 hnetn.com
@@ -35968,6 +35966,7 @@ imgcache.gtimg.cn
 imgcache.gtimg.cn.x2s-dstack.sched.dcloudstc.com
 imgcache.qq.com
 imgcache.qq.com.sched.px-dk.tdnsv6.com
+imgcdc.com
 imgcdn.cnbkw.com
 imgcdn.cnbkw.com.w.kunlunhuf.com
 imgcdn.cp63.ott.cibntv.net
@@ -43936,7 +43935,6 @@ m.gexings.com
 m.gmw.cn
 m.gmw.cn.wscdns.com
 m.gotokeep.com
-m.gtnde.com
 m.gywlwh.com
 m.haiwainet.cn
 m.hao123.com
@@ -51517,7 +51515,6 @@ poi-pic.cdn.bcebos.com
 poi.map.xiaojukeji.com
 poikm.com
 pointblack.douyucdn.cn
-poizon.com
 pojie520.com
 pokemon.name
 pokermate.net

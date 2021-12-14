@@ -11467,6 +11467,7 @@ auth.sonkwo.com
 auth.wosms.cn
 authlogin.kfc.com.cn
 authlogin.pizzahut.com.cn
+author.baidu.com
 authorization.desdev.cn
 authstl.alipay.com
 authweb.alipay.com
@@ -16516,6 +16517,7 @@ chbtc.com
 chcedo.com
 chcnav.com
 chcoin.com
+chczz.com
 chdajob.com
 chdbook.cn
 chdelphin.com
@@ -37668,7 +37670,6 @@ jgscct.com
 jgsdaily.com
 jgshare.cn
 jgsjtj.189.cn
-jgstny.com
 jgtc315.com
 jguo.com
 jgxlzd.com
@@ -46259,6 +46260,7 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
+mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com

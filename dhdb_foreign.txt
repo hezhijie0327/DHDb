@@ -19787,6 +19787,7 @@ appcloudcdn.com
 appconsent.io
 appcontent.serif.com
 appdatum.com
+appdl-1-drcn.dbankcdn.com
 appdownload.qm2500.com
 appdownloader.net
 appduu.com
@@ -35791,7 +35792,6 @@ chuchuguwen.com
 chucity.com
 chuckledinadmissible.com
 chudaoyou.com
-chufudsi.net
 chugagre.com
 chuguofeng.com
 chuhanweb.com
@@ -89431,7 +89431,6 @@ laidiannet.com
 laidudu.com
 laigame7.com
 laijiawen.com
-lailivob.net
 laim.tv
 laima-tech.com
 laimanhua.com
@@ -91762,6 +91761,7 @@ linhao99.com
 linicom.co.il
 linicom.co.uk
 lining888.com
+linjiajia.cn
 linjie.org
 link-booster.de
 link-crawler.com
@@ -101331,7 +101331,6 @@ miamribud.com
 mianbao.com
 mianbrothers.com.pk
 mianjuapp.com
-mianjuvip.com
 mianshi365.com
 miantiao.me
 mianvpn.com
@@ -105052,7 +105051,6 @@ mxuiso.com
 mxvp-ad-config-prod-1.zenmxapps.com
 mxvp-feature-toggle-prod-1.zenmxapps.com
 mxvpn.cc
-mxvpn.cn
 mxvpn.com
 mxwpte.dekkonline.com
 my-3dcad.com
@@ -119129,6 +119127,7 @@ pool.graft.hashvault.pro
 pool.minexmr.com
 pool.nimiq-network.com
 pool.nimiq.watch
+pool.ntp.org
 pool.supportxmr.com
 pool.tdcoincore.org
 pool.torrent.pw
@@ -121408,6 +121407,7 @@ proxy.r-ln-1.net.daraz.com
 proxy.searchfiles.de
 proxy.toolur.com
 proxy.vidazoo.com
+proxy.yt
 proxy.zalmos.com
 proxy1.xyz
 proxy2.nullrefexcep.com

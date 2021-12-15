@@ -18385,7 +18385,6 @@ cmyd-10-124.getui.com
 cmz2.stm65i8.com
 cmzd.com
 cmzj.net
-cmzyk.com
 cn-3drp.com
 cn-api.samsungcloud.com
 cn-api.samsungosp.com
@@ -46696,6 +46695,7 @@ msanjia.com
 msc.jd.com
 msc.jd.com.gslb.qianxun.com
 mscbsc.com
+msch.f.360.cn
 msclick2.kuwo.cn
 mscto.com
 msdn.itellyou.cn

@@ -6137,7 +6137,6 @@
 800youhuo.com
 801.tianya.cn
 801.tianyaui.com
-801358.com
 801t.com
 802203.com
 803.tianya.cn
@@ -12799,7 +12798,6 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -16364,7 +16362,6 @@ changan.bama555.com
 changan.biz
 changancap.com
 changanfunds.com
-changansuzuki.com
 changantaihe.com
 changba.com
 changchun-ccpit.com
@@ -27415,6 +27412,7 @@ flamesky.org
 flamingcold.com
 flaredup.com
 flash.cn
+flash.sec.miui.com
 flash2-http.qq.com
 flash8.net
 flash8f.com
@@ -44177,6 +44175,7 @@ m1.mgogo.com
 m1.mogu66.com
 m1.static.yximgs.com
 m1.tt.cn
+m1.vodjk.com
 m1.we556.com
 m10.music.126.net
 m163-dx.netease.com
@@ -46829,6 +46828,7 @@ mtizt.com
 mtj.baidu.com
 mtketang.com
 mtksj.com
+mtm.mo
 mtnets.com
 mtnets.net
 mto.multiopen.cn
@@ -54399,7 +54399,6 @@ quanminbagua.com
 quanminbb.com
 quanminyanxuan.com
 quanqiuwa.com
-quanquanapp.net
 quanriai.com
 quansheng-group.com
 quanshi.com
@@ -55086,6 +55085,7 @@ rayjoy.com
 rayli.adsame.com
 rayli.com.cn
 raymx-micro.com
+rayoptek.com
 rayps.com
 rayrjx.com
 raysilicon.com
@@ -56135,7 +56135,6 @@ ryweike.com
 rywsem.com
 ryxs9bua1ypjikkll3sycftzac0jev68.yundunwaf1.com
 ryxxff.com
-ryyyx.com
 rz-lb2.internet.spanner.alipaydns.com
 rz-rr2.internet.spanner.alipaydns.com
 rzcdc.com

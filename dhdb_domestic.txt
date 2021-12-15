@@ -10387,6 +10387,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -10460,6 +10461,7 @@ api.meishesdk.com
 api.meituan.com
 api.mengtuiapp.com
 api.merro.xyz
+api.micloud.xiaomi.net
 api.microyan.com
 api.middle.transfer.search.miui.com
 api.mini.wps.cn
@@ -10755,7 +10757,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -19604,6 +19605,7 @@ cpu-admin.baidu.com
 cpu-baidu-com-block.cdn.bcebos.com
 cpu.baidu.com
 cpu668.com
+cpucdn.baidu.com
 cpupack.com
 cpush.ctrip.com
 cpush.ctrip.com.tel.oy.ctripgslb.com
@@ -27901,7 +27903,6 @@ fuhuifz.com
 fui.im
 fuiou.com
 fuioupay.com
-fujiabin.com
 fujianqq.com
 fujianrc.com
 fujiansme.com
@@ -39489,6 +39490,7 @@ jxedt.com
 jxedu.net
 jxeduyun.com
 jxetv.com
+jxf0088.com
 jxf57.com
 jxf75.com
 jxg1.com
@@ -40113,7 +40115,6 @@ kekeshici.com
 kekexueba.com
 kelamayi.anjuke.com
 keleyi.com
-keli1.xyz
 kelibiao.com
 kellen.wang
 kelon.com

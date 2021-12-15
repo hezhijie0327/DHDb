@@ -5379,7 +5379,6 @@
 6688.com
 668895.com
 668app.com
-668cp00.com
 668cp77.com
 668lw.com
 668map.com
@@ -9588,6 +9587,7 @@ aliyun-adns.aliyun.com.gds.alibabadns.com
 aliyun-inc.com
 aliyun-iot-share.com
 aliyun-page.cn-hangzhou.log.aliyuncs.com
+aliyun-pcdnts.douyucdn.cn
 aliyun-pcdnts.douyucdn.cn.m.alikunlun.net
 aliyun-stream.kksmg.com
 aliyun-web-tracker.cn-zhangjiakou.log.aliyuncs.com
@@ -29330,7 +29330,6 @@ glmama.com
 global-download.acer.com
 global-harbor.com
 global-ict.cn
-global-jf.com
 global.quickconnect.to
 global.search.xiaomi.net
 globalaccentchinese.com
@@ -46255,7 +46254,6 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
-mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com

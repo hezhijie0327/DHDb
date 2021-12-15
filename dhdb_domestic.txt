@@ -10361,6 +10361,7 @@ api.cupid.dns.iqiyi.com
 api.cupid.iqiyi.com
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
+api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -26953,7 +26954,6 @@ feizhaojun.com
 feizhu.cn
 feizhu.com
 feizhupan.com
-feizl.com
 fekonmotor.com
 felearn.com
 feling.net
@@ -31808,6 +31808,7 @@ heartshow.cn
 heb.anjuke.com
 hebangdianzi.com
 hebaodai.com
+hebauto.com
 hebbank.com
 hebbr.com
 hebca.com
@@ -39592,7 +39593,6 @@ jysyzk.com
 jyteasy.com
 jyxdyzx.com
 jyz.fjtzjy.com
-jyzpw.vip
 jyzq.cn
 jyzysp.com
 jyzz.lnspaqw.com
@@ -57731,6 +57731,7 @@ sh.file.myqcloud.com
 sh.gsxt.gov.cn
 sh.ioiox.net
 sh.ipv6.photo.store.qq.com.tcdn.qq.com
+sh.jd.com
 sh.jd.com.gslb.qianxun.com
 sh.ke.com
 sh.lianjia.com
@@ -60019,7 +60020,6 @@ sq1.chinacsky.com
 sq1996.com
 sq2.chinacsky.com
 sq580.com
-sqa-chn.com
 sqage.com
 sqanju.com
 sqbot.vip

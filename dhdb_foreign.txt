@@ -127,6 +127,7 @@
 01-123.com
 01-all-seed-gc-lx-01.cdn.gaijin.net
 01-all-seed-gc-us-04.cdn.gaijin.net
+01-enlisted-cdnnow.cdn.gaijin.net
 01-enlisted-level3.cdn.gaijin.net
 01-enlisted-stackpath.cdn.gaijin.net
 01-torte.com
@@ -2336,6 +2337,7 @@
 1r8435gsqldr.com
 1rankingad.com
 1redira.com
+1redirb.com
 1rt0n.news
 1ru.tv
 1s8pj.cn
@@ -61575,7 +61577,6 @@ fuppfr-dnsotls-ds.metric.gstatic.com
 fupx.phi.b0ne.com
 fuq.com
 fuqizy.com
-fuqypaqu.xyz
 furacao.ddns.net
 furbo.org
 furhhdl.org
@@ -85832,7 +85833,6 @@ js.sghjtc.xyz
 js.smi2.ru
 js.softreklam.com
 js.sosista.com
-js.start1999.com
 js.stripe.com
 js.stroeermediabrands.de
 js.theprimead.co.kr
@@ -119717,7 +119717,6 @@ powerbook.eu
 powercontent.pl
 powercount.com
 powercount.jswelt.de
-powercx.com
 powerdns.org
 poweredby.jads.co
 poweredbyintel.com
@@ -120830,6 +120829,7 @@ profiline-berlin.de
 profiling.avandor.com
 profiling.eurofins.fi
 profiling.f-secure.com
+profiling.idbbn.fi
 profiling.martela.com
 profiling.martelaoutlet.fi
 profiling.normet.com

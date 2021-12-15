@@ -47,7 +47,6 @@
 00h10.com
 00ksw.net
 00xvppy.cn
-01-enlisted-cdnnow.cdn.gaijin.net
 01.bit.ddns.ms
 01.buyshouses.net
 01.creativecdn.com
@@ -23996,6 +23995,7 @@ fupphailv.idmnet.org
 fupzhtvo.com
 fuqifyb.xyz
 fuqxpjxay.com
+fuqypaqu.xyz
 fureai-hometown.jp
 furenyanfa.cn
 furiousfiles.com
@@ -31557,6 +31557,7 @@ js.sanwen.net
 js.soduso.cc
 js.soonyou123.com
 js.srcsmrtgs.com
+js.start1999.com
 js.static.tebaidu.cn
 js.szande.com.cn
 js.ta80.com
@@ -43652,7 +43653,6 @@ profiles-partner.com
 profiles-partners.com
 profileservice-prod-southeastasia-a.cloudapp.net
 profiletest.net
-profiling.idbbn.fi
 profit-pay.net
 profit-smart.com
 profitwizard.net

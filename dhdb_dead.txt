@@ -3390,7 +3390,6 @@
 7news.site
 7nsc.cn
 7o2o.com
-7out.ru
 7pk.com
 7pud.com
 7r3cna.viqiyi.admaster.com.cn
@@ -8128,7 +8127,6 @@ api.emotes.ch
 api.ethereum.hashvault.pro
 api.fczbl.vip
 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
-api.fosshub.com
 api.g1.junfull.com
 api.g2.junfull.com
 api.game.letvstore.com
@@ -18924,6 +18922,7 @@ dogedoge.com
 dogesnl.live
 dogfoodstorage.net
 doghauky.net
+doghoust.net
 dogopics.com
 dogus-ads-cdn.dygdigital.com
 doh.doh.my.id
@@ -31167,6 +31166,7 @@ jiumei8.com
 jiupaicom.com
 jiuqihb.cn
 jiushiadx.com
+jiushixing.com
 jiututa.com
 jiuwanzi.com
 jiuwuqiong.com
@@ -31325,6 +31325,7 @@ jnzhongding.cn
 jnzixun.com
 jnzn.rttongdiao.com
 joacim.net
+joawapti.net
 joazaush.net
 job-info2015.ru
 job-online.petrovka.info

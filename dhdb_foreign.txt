@@ -6999,6 +6999,7 @@
 7nkbwdf1uq.ru
 7offers.ru
 7ou7ou.com
+7out.ru
 7pc8.com
 7porn.ru
 7psolutions.biz
@@ -19184,6 +19185,7 @@ api.flightproxy.teams.trafficmanager.net
 api.flocktory.com
 api.flurry.com
 api.flygame.io
+api.fosshub.com
 api.fouanalytics.com
 api.frankerfacez.com
 api.freelagu.org
@@ -19208,7 +19210,6 @@ api.hfyhjg.cn
 api.huangye.miui.com
 api.hubapi.com
 api.hubspot.com
-api.hybrid.xiaomi.com
 api.iaddisabled.net.zooplus.de
 api.identitynow.com
 api.imqtyik.com
@@ -48186,7 +48187,6 @@ dogfood.mgmt.docker.lab.net.zooplus.de
 dogfood.stg.mgmt.net.zooplus.de
 dogfood.www.net.daraz.com
 dogheadportal.web.app
-doghoust.net
 dogiedimepupae.com
 doglobal.com
 doglobal.net
@@ -85335,7 +85335,6 @@ joastb.idealista.com
 joastous.com
 joatoon.net.daraz.com
 joautok.hu
-joawapti.net
 job-con.jp
 job-medley.com
 job4ee.com

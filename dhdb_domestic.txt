@@ -1296,7 +1296,6 @@
 139site.com
 139talk.com
 139wanke.com
-139y.com
 139zhuti.com
 13cg.com
 13cr.com
@@ -8090,6 +8089,7 @@ act-vip-ssl.xunlei.com.w.kunlunca.com
 act.cmcmcdn.com
 act.commercial.shouji.360.cn
 act.daoju.qq.com
+act.dmall.com
 act.guanjia.qq.com
 act.qq.com
 act.qzone.qq.com
@@ -10362,7 +10362,6 @@ api.cupid.dns.iqiyi.com
 api.cupid.iqiyi.com
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
-api.developer.xiaomi.com
 api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
@@ -21701,6 +21700,7 @@ ddwhm.com
 ddxia.com
 ddxs.cc
 ddy.adeaz.com
+ddyingyan.com
 ddyun.com
 ddyun123.com
 ddz.com
@@ -37062,7 +37062,6 @@ itrip.com
 itrip.meituan.com
 itruke.com
 its.bjmu.edu.cn
-its.fugetech.com
 its114.com
 itsdata.map.baidu.com
 itshai.com

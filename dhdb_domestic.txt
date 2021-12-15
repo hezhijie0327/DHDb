@@ -5148,7 +5148,6 @@
 5mrk.com
 5nd.com
 5nf0ec.cn
-5nlnzp.shop
 5ooq.com
 5ov35131.v1d.szbdyd.com
 5ov3516c.v1d.szbdyd.com
@@ -8315,6 +8314,7 @@ adash-c.m.taobao.com
 adash-c.ut.taobao.com
 adash-emas.cn-hangzhou.aliyuncs.com
 adash-new.man.aliyuncs.com.gds.alibabadns.com
+adash.m.gds.taobao.com
 adash.m.taobao.com
 adash.man.aliyuncs.com
 adashbc.m.taobao.com
@@ -25417,6 +25417,7 @@ ei6nd.com
 eiabbs.net
 eickaopei.com
 eicp.net
+eid.jd.com
 eid.jd.com.gslb.qianxun.com
 eidlink.com
 eidsign.com.cn

@@ -659,7 +659,6 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
-1.asia.pool.ntp.org
 1.bh5.com.cn
 1.ccutu.com
 1.cjcp.cn
@@ -5172,7 +5171,6 @@
 5read.com
 5ritt.com
 5rs.me
-5sai.com
 5see.com
 5seestar.com
 5sem.com
@@ -17394,6 +17392,7 @@ chmecc.org
 chmed.net
 chmia.org
 chn-feedback.adsrvr.cn
+chn.chinamil.com.cn
 chn112.com
 chn168.com
 chnart.com
@@ -21571,6 +21570,7 @@ dc.meitustat.com
 dc.sigmob.cn
 dc.so.le.com
 dc0555.com
+dc1.networkbench.com
 dc330.com
 dc4444.com
 dc551.com
@@ -24730,6 +24730,7 @@ e39e639f1c46c2a526aea94bd629c47a.dlied1.cdntips.net
 e39jcxi1.sched.sma.tdnsv5.com
 e3cloud.com
 e3e277acd43faf8fb013307441c50b75.dlied1.cdntips.net
+e3f49eaa46b57.cdn.sohucs.com
 e3f49eaa46b57.cdn.sohucs.com.w.cdngslb.com
 e3f635dd5110b761d3abffc7419d49b4.dlied1.cdntips.net
 e3f87f2bedda9f407d353611b84000e8.dlied1.cdntips.net
@@ -26244,7 +26245,6 @@ eyourbusiness.com
 eyrefree.org
 eysyy23y.sched.s2-dk.tdnsv5.com
 eyuangong.com
-eyuanzhou.com
 eyugame.com
 eyunidc.com
 eyunker.com
@@ -26462,6 +26462,7 @@ famen88.com
 famens.com
 famicn.com
 famige.com
+familylifemag.com
 familymart.com.cn
 familymart.e.verystar.net
 famiyou.com
@@ -45959,7 +45960,6 @@ miusi.co
 miutour.com
 miutrip.com
 mivideo.g.mi.com
-miwifi.com
 mix.adsame.com
 mix.kinostuff.com
 mix.linkedin.com

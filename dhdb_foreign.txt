@@ -15206,6 +15206,7 @@ afcp02.com
 afcp07.com
 afcp09.com
 afcs.dell-cidr.akadns.net
+afcs.dell.com
 afcs.dellcdn.com
 afcyhf.com
 afd-k.office.com
@@ -50288,7 +50289,6 @@ e.gsycdb.com
 e.gxjfh.com
 e.hanleywood.com
 e.henhuguan.cn
-e.hissq.com
 e.horizontal.com
 e.huaas.com
 e.huoas.com
@@ -71856,6 +71856,7 @@ h5.ld999.tv
 h5.ldsp66.com
 h5.ldvip19.com
 h5.ldvip20.com
+h5.ldvip21.com
 h5.ldvip23.com
 h5.ldvip24.com
 h5.ldvip25.com
@@ -114465,6 +114466,7 @@ pacerfinancial.com
 pacharge.com
 pachosting.com
 pachosting.com.hk
+pacific-poker.e-online-poker-4u.net
 pacific-times.com
 pacificbiosciences.com
 pacificdentalservices.com

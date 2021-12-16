@@ -14082,6 +14082,7 @@ adserver.aol.fr
 adserver.archant.co.uk
 adserver.ariase.org
 adserver.bdoce.cl
+adserver.betandwin.de
 adserver.bidsxchange.com
 adserver.bing.com
 adserver.bizedge.com
@@ -41619,6 +41620,7 @@ csgochance.com
 csgochecker.net
 csgochip.com
 csgocircle.com
+csgocpu.com
 csgocyz.co
 csgodealer.com
 csgodear.com

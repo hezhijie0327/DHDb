@@ -1297,7 +1297,6 @@
 139talk.com
 139wanke.com
 139zhuti.com
-13cg.com
 13cr.com
 13e156bca5b02fd358cb1a3c95fdd3cb.dlied1.cdntips.net
 13fuwu.com
@@ -5979,6 +5978,7 @@
 7c.com
 7c68cde841aae726c26aee7b9ac2c228.dl.txcdns.com
 7c9e20f2e085f9d082e3ac8838061999.safeframe.googlesyndication.com
+7capp.com
 7cbwus.cn
 7ccj.com
 7cf212f05ce3c304240913b08a53ff5a.safeframe.googlesyndication.com
@@ -29827,7 +29827,6 @@ grfy.net
 grfyw.com
 grgbanking.com
 grge23.com
-grgits.com
 grgsecurity.com
 grgvision.com
 grgyintong.com
@@ -45336,7 +45335,6 @@ mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
 mercury.jd.com
-mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com
 mermaid.ximalaya.com
@@ -47544,7 +47542,6 @@ nbegame.com
 nbegame.net
 nbfox.com
 nbgdjt.com
-nbhao.org
 nbhjcl.b2b.huangye88.com
 nbhky.com
 nbimer.com

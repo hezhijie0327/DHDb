@@ -10384,7 +10384,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -13733,6 +13732,7 @@ bjzqw.com
 bjzs114.com
 bjzwzx.com
 bjzxcp.com
+bjzycd.com
 bjzyrxgs.com
 bk.17173.com
 bk.n.shifen.com
@@ -17632,6 +17632,7 @@ cicmag.com
 cicphoto.com
 cict.com
 cidi.ai
+cidian.youdao.com
 cidiancn.com
 cidianwang.com
 cidschina.com
@@ -20576,6 +20577,7 @@ d1--cn-gotcha05.bilivideo.com
 d1--cn-gotcha05.bilivideo.com.wsdvs.com
 d1--cn-gotcha08.bilivideo.com
 d1--cn-gotcha103.bilivideo.com
+d1--cn-gotcha108.bilivideo.com
 d1--cn-gotcha203.bilivideo.com
 d1--cn-gotcha203.bilivideo.com.w.alikunlun.com
 d1--cn-gotcha203.bilivideo.com.w.alikunlun.com.qr.uuhimalayanqm.com
@@ -22422,6 +22424,7 @@ didacar.com
 didachuxing.com
 didapinche.com
 didatravel.com
+didaxing.com
 didi-food.com
 didi.cn
 didialift.com
@@ -32593,7 +32596,6 @@ hm-3223.net
 hm-yc.com
 hm.baidu.com
 hm.baidu.com.jnsiematcnc.com
-hm.baidu.com.zzsdtzb.com
 hm.e.shifen.com
 hm.shuixyh.com
 hm.youlai.cn
@@ -43124,7 +43126,6 @@ loncent.com
 loncin.com
 loncinindustries.com
 london9999.com
-londonermacao.com
 lonery.com
 long.weixin.qq.com
 long.zu.anjuke.com
@@ -53697,7 +53698,6 @@ qiyukf.net
 qiyukf.nosdn.127.net
 qiyukf.nosdn.127.net.w.cdngslb.com
 qiyuntong.com
-qiyunworld.com
 qiyutianxia.com
 qizhihaotian.cn
 qizhihaotian.com

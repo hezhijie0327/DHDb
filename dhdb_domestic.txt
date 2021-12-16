@@ -10876,6 +10876,7 @@ appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
 appdl.hicloud.com.sched.s3hw.tdnsv5.com
+appdl.lenovo.com.cn
 appdlc-drcn.hispace.hicloud.com
 appdown.info
 appdownload.alicdn.com
@@ -14123,6 +14124,7 @@ bounb.com
 boweifeng.com
 bowuku.com
 box.hyds360.com
+box.jomodns.com
 boxer.baidu.com
 boxgu.com
 boxshows.com
@@ -18797,7 +18799,6 @@ cnlist.com
 cnlive.com
 cnlogo8.com
 cnlp.lp.cs.quickconnect.cn
-cnlty.com
 cnluqiao.com
 cnmanhua.com
 cnmcom.com
@@ -55492,7 +55493,6 @@ res2.eqh5.com
 res2.wx.qq.com
 res2.yuexinshuba.com
 res2.yuexinshuba.com.w.kunlungr.com
-res9.i2356.com
 resauth.kuwo.cn
 rescdn.qqmail.com
 rescdn.yishihui.com

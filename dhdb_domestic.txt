@@ -663,6 +663,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -7469,6 +7470,7 @@ a.cnzz.com.gds.alibabadns.com
 a.cr-nielsen.com
 a.dangdang.com
 a.diaoyu.cn
+a.dmall.com
 a.dxzy163.com
 a.dyjqd.com
 a.ecook.cn
@@ -43964,6 +43966,7 @@ m.ithome.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
+m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jf.10010.com
 m.jiaochengzhijia.com
@@ -46025,6 +46028,7 @@ mkzhan.com
 mkzoo.com
 ml-cg.com
 ml-kq.com
+ml44.cn
 mlairport.com
 mlb.did.ijinshan.com
 mlbuy.com

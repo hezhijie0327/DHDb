@@ -1642,7 +1642,6 @@
 16pic.com
 16rd.com
 16tree.com
-16vcd.com
 16wl.cc
 16xqucqn3ghx1o2jlqtun1ncjcmv0fsr.yundunwaf4.com
 16xx8.com
@@ -2185,6 +2184,7 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
+2.android.pool.ntp.org
 2.arpun.com
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -10310,7 +10310,6 @@ api.3839app.com
 api.557400.com
 api.5hte21mz.com
 api.account.xiaomi.com
-api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -10993,7 +10992,6 @@ appstore.ptmi.gitv.tv
 appstoreisvpic.alipayobjects.com
 appstoreisvpic.alipayobjects.com.danuoyi.tbcache.com
 appsupport.qq.com
-appsupport.stargame.com
 apptao.com
 apptrack.cn
 apptrailers.itunes.apple.com
@@ -23649,6 +23647,7 @@ drip.im
 dripcar.com
 drive.weixin.qq.com
 drive.wps.cn
+driveapis.cloud.huawei.com
 driver.lenovo.com.cn
 driverdevelop.com
 driverdl.lenovo.com.cn

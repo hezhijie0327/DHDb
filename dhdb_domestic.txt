@@ -21572,7 +21572,6 @@ dc.meitustat.com
 dc.sigmob.cn
 dc.so.le.com
 dc0555.com
-dc1.networkbench.com
 dc330.com
 dc4444.com
 dc551.com
@@ -23329,6 +23328,7 @@ dota.sykty.com
 dota2rpg.com
 dotab.douyucdn.cn
 dotamax.com
+dotbeats.douyucdn.cn
 dotcounter.douyucdn.cn
 dotcounter.douyutv.com
 dotcpp.com
@@ -27251,6 +27251,7 @@ finance.haiwainet.cn
 finance.jstv.com
 finance.people.com.cn
 finance.sina.cn
+finance.sina.com.cn
 finance.youku.com
 finance.youth.cn.wswebcdn.com
 financeprod.alipay.com

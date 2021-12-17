@@ -7750,7 +7750,6 @@ analytics.126.net
 analytics.21cn.com
 analytics.ad.daum.net
 analytics.admob.com
-analytics.aimediagroup.com
 analytics.anvato.net
 analytics.artirix.com
 analytics.bhaskar.com
@@ -9688,6 +9687,7 @@ banners.japantoday.com
 banners.kfmb.com
 banners.leadingedgecash.com
 banners.mobile.yandex.net
+banners.nbcupromotes.com
 banners.netcraft.com
 banners.newsru.com
 banners.partypartners.com
@@ -13094,7 +13094,6 @@ cdn9-okzy.com
 cdn9now.com
 cdna.tremormedia.com
 cdnaaa.net
-cdnanalytics.xyz
 cdnbest.net
 cdnbuild.net
 cdncenter.cn
@@ -16478,7 +16477,6 @@ cx0001.cn
 cx42light.cn
 cx930.com
 cxad.cn
-cxcs.microsoft.net
 cxdq.com
 cxgfq.pinlue.com
 cximg.com

@@ -19029,6 +19029,7 @@ api-exponea.o2.sk
 api-extractor.com
 api-fra.livechatinc.com
 api-gameplayer.dmm.com
+api-geetest-com-886580015.ap-southeast-1.elb.amazonaws.com
 api-iam.intercom.io
 api-js.mixpanel.com
 api-localhost.net.daraz.com
@@ -43145,6 +43146,7 @@ d1x0p9n0l25ki7.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1xinhaiy2uqbu.cloudfront.net
 d1xkyo9j4r7vnn.cloudfront.net
+d1xtw.com
 d1xwveyzg9vmq2.cloudfront.net
 d1y7gcia52oqq5.cloudfront.net
 d1ybdlg8aoufn.cloudfront.net
@@ -72135,7 +72137,6 @@ hackstool.com
 hackstore.net.daraz.com
 hackszone.com
 hackteam-adreon.com
-hacktelecharger.net
 hackterritory.info
 hackthatphone.net
 hackthedrive.com
@@ -83648,7 +83649,6 @@ ivocaloid.com
 ivoclarvivadent.com
 ivpn.50webs.com
 ivpn.net
-ivpncup.me
 ivpraz.com
 ivqfxl.brogle.de
 ivr.com.tr
@@ -94818,6 +94818,7 @@ m.nfydd.com
 m.nicholsonconstruction.com
 m.njiet.com
 m.nmtouzi.com
+m.nwxzs.com
 m.obeip.com
 m.oem-cosmetic.com
 m.oipeirates.online

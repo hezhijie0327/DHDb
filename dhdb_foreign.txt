@@ -21787,7 +21787,6 @@ au-mg5.mail.yahoo.com
 au.arjo.com
 au.bms.maxmara.com
 au.com
-au.download.windowsupdate.com
 au.engage.genesiscare.com
 au.pool.ntp.org
 au.promo.skf.com
@@ -33675,6 +33674,7 @@ cdn.digitalpush.org
 cdn.discordapp.com
 cdn.districtm.io
 cdn.doke.app
+cdn.doubleverify.com
 cdn.download.kde.org
 cdn.dragonstatic.com
 cdn.driveback.ru
@@ -43273,6 +43273,7 @@ d2fhjyz3dwdx87.cloudfront.net
 d2fi4ri5dhpqd1.cloudfront.net
 d2focgxak1cn74.cloudfront.net
 d2fy2et424xkoh.cloudfront.net
+d2g15hp0vtnk4i.cloudfront.net
 d2g4rjb98r20op.cloudfront.net
 d2g8ksx1za632p.cloudfront.net
 d2g9nmtuil60cb.cloudfront.net
@@ -44326,7 +44327,6 @@ data-canary.flurry.com
 data-cdn.mbamupdates.com
 data-collector.wefi.com
 data-data-vac.com
-data-detect.nie.netease.com
 data-failover.eroadvertising.com
 data-formula.com
 data-id.ads.oppomobile.com
@@ -90648,7 +90648,6 @@ legler-online.com
 lego.com
 legolas-media.com
 legou361.com
-legozu.com
 legrand.us
 legrandav.com
 legratuits.com

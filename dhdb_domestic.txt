@@ -8148,6 +8148,7 @@ actlog.dftoutiao.com
 actom.me
 actoys.com
 actsdk.idreamsky.com
+actuive.com
 acumoxj.com
 acwifi.net
 acwing.com
@@ -10064,7 +10065,6 @@ anysdk.com
 anytesting.com
 anythinktech.com
 anyunjianzhan.com
-anyv.net
 anywlan.com
 anywood.com
 anyxp.com
@@ -10311,6 +10311,7 @@ api.3839app.com
 api.557400.com
 api.5hte21mz.com
 api.account.xiaomi.com
+api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adbana.com
 api.adnet.mob.com
@@ -12792,6 +12793,7 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -19477,7 +19479,6 @@ cosmoplat.com
 cosmos-video-api.immomo.com
 cosoar.com
 cosplay8.com
-cosplayla.com
 coumie.top
 counect.com
 couns.com
@@ -51602,7 +51603,6 @@ poputar.com
 popziti.com
 porschesky.com
 port.sec.miui.com
-portablesoft.org
 portal-portm.meituan.com
 portal.xunyou.mobi
 portalcdn.cdnetworks.com

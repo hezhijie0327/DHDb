@@ -2184,7 +2184,6 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
-2.android.pool.ntp.org
 2.arpun.com
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -14730,6 +14729,7 @@ c.zhangle.com
 c.zhidian3g.cn
 c.zlongad.com
 c0.3.cn
+c0.3.cn.gslb.qianxun.com
 c0.ifengimg.com
 c01.i01.ctlsh.lv3.cloudglb.com
 c02.3dwwwgame.com

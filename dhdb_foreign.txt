@@ -1386,6 +1386,7 @@
 13322.com
 1337.abcvg.info
 1337.cx
+1337x.is
 1337x.to
 133a436e197e25793fe8538eb2c69f46.clo.footprintdns.com
 134.78.116.150.zz.countries.nerd.dk
@@ -4634,7 +4635,6 @@
 46.courier2-push-apple.com.akadns.net
 46.flnet.org
 460184b7-dnsotls-ds.metric.gstatic.com
-4612.cabet630.com
 4612.yzc596.com
 4616-1.global1cdn.com
 4619940.com
@@ -7050,6 +7050,7 @@
 8.courier-push-apple.com.akadns.net
 8000.com
 8000.vip
+80000.cc
 80000hours.org
 8000ad.com
 8000plus.si
@@ -52709,6 +52710,7 @@ elqtrk.morningstar.fi
 elqtrk.morningstar.fr
 elqtrk.morningstar.hk
 elqtrk.morningstar.it
+elqtrk.morningstar.nl
 elqtrk.morningstar.no
 elqtrk.morningstar.pt
 elqtrk.morningstar.se
@@ -52972,6 +52974,7 @@ emea.wf.com
 emea.www.net.daraz.com
 emeacsr11.net.daraz.com
 emeaevents.americanexpress.com
+emeaing.net.zooplus.es
 emeawww.net.daraz.com
 emebo.com
 emediate.apmmedia.net
@@ -55692,6 +55695,7 @@ extengames.com
 extension-files.twitch.tv
 extension.streamelements.com
 extensiongames.com
+extensions-discovery-images.twitch.tv
 extensions-loader.azurewebsites.net
 extensions.ftalkconnect.com
 extensions.gnome.org
@@ -88822,6 +88826,7 @@ kuailiyu.com
 kuailiyu.net
 kuailugroup.com
 kuaipaobiaoju.com
+kuaiqin.com
 kuaiqun.org
 kuaisantui.cf
 kuaiwanwo.com

@@ -10675,7 +10675,6 @@ apis1.ksapisrv.com
 apis2.gifshow.com
 apis2.ksapisrv.com
 apisgame.iqiyi.com
-apisnd.heytapmobi.com
 apisoft.df0535.com
 apissl.gifshow.com
 apissl.ksapisrv.com
@@ -13206,7 +13205,6 @@ bigdata-sdkself.fcb.com.cn
 bigdata.adfuture.cn
 bigdata.adsunflower.com
 bigdata.adups.com
-bigdata.advmob.cn
 bigdata.ren
 bigdatabbs.com
 bigdatasafe.org
@@ -16509,6 +16507,7 @@ chayu.com
 chayueshebao.com
 chayuqing.com
 chazhaokan.com
+chazhengla.com
 chazhilan.com
 chazidian.com
 chazishop.com
@@ -27067,6 +27066,7 @@ fengzhangame.net
 fengzigame.com
 fengzixbs.com
 fenha.net
+fenkang.tech
 fenlei168.com
 fenlei265.com
 fenleidao.com
@@ -51631,6 +51631,7 @@ post.smzdm.com
 post.sspai.com
 post1.voiceads.cn
 post183.net
+postcha.com
 poster.weather.com.cn
 posterlabs.com
 postfund.com.cn

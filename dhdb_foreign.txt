@@ -3085,7 +3085,6 @@
 268612.com
 2687900.com
 268888.net
-2688m8.com
 268mob.cn
 268mob.com
 26942cd47d8780757cb382e462abbf3d.clo.footprintdns.com
@@ -49788,7 +49787,6 @@ duusuu.com
 duuytoqss3gu4.cloudfront.net
 duwenxue.com
 duwenzhang.com
-duxumpou.com
 duyaoss.com
 duyaossr.com
 duyxvw.finntrail.ru
@@ -50432,6 +50430,7 @@ e13761.dscg.akamaiedge.net
 e13829.x.akamaiedge.net
 e13897.x.akamaiedge.net
 e13993.a.akamaiedge.net
+e14313.g.akamaiedge.net
 e14579.d.akamaiedge.net
 e14579.dspg.akamaiedge.net
 e14705.g.akamaiedge.net
@@ -64672,6 +64671,7 @@ global.asimov.events.data.trafficmanager.net
 global.bing.com
 global.cdn.mikupics.cn
 global.cognizant.com
+global.crypto.csgocpu.com
 global.delltechnologies.com
 global.download.synology.com
 global.glbtls.t.co
@@ -104319,6 +104319,7 @@ ms-home-live.com
 ms-python.gallery.vsassets.io
 ms-python.gallerycdn.vsassets.io
 ms-shopguide.su
+ms-shopplus.su
 ms-toolsai.gallery.vsassets.io
 ms-toolsai.gallerycdn.vsassets.io
 ms-trackingapi.phenompeople.com
@@ -112693,6 +112694,7 @@ ope99.com
 opekoobs.net
 opel.km.ua
 opel.net.zooplus.com
+open-adx.com
 open-china.net
 open-contracting.org
 open-falcon.com
@@ -121344,7 +121346,6 @@ proxite.in
 proxite.me
 proxite.net
 proxize.com
-proxlet.com
 proxmecallmenames.com
 proxmox.com
 proxomitron.info

@@ -19785,6 +19785,7 @@ crashes.mo.wps.cn
 crasheye.cn
 crashlytics.163.com
 crashlytics2.l.google.com
+crashlyticsreports-pa.googleapis.com
 crawl.ws.126.net
 crawlersdkapi.msxf.com
 crawlersdkapi.xngslb.msxf.com
@@ -21673,6 +21674,7 @@ ddmeishi.com
 ddmer.com
 ddmogo.com
 ddms.jd.com
+ddms.jd.com.gslb.qianxun.com
 ddmyapp.wscdn.tcdn.qq.com
 ddmyapp.wscdn.tcdn.qq.com.lxdns.com
 ddnddn.com
@@ -30789,7 +30791,6 @@ h5.wannaplay.cn
 h5.wdjky.com
 h5.weishi.qq.com
 h5.xiaolianhb.com
-h5.yangrongdayipifa.com
 h5.zhongguowangshi.com
 h5.zuimeitianqi.com
 h55u.com

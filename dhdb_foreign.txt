@@ -1161,7 +1161,6 @@
 120w.info
 1212u.com
 121584.com
-121610.com
 121657.com
 121690.com
 121694.com
@@ -19321,6 +19320,7 @@ api.priv.firewall.net.zooplus.de
 api.priv.frontpage.net.zooplus.de
 api.priv.net.zooplus.de
 api.private.repo.net.zooplus.de
+api.producthunt.com
 api.pureapk.com
 api.pushinstruments.com
 api.pwnedpasswords.com
@@ -60594,6 +60594,7 @@ freelaptopreward.com
 freeleaguecodes.com
 freeloader.com
 freelogs.com
+freelolcodes.com
 freelolhacks.com
 freelolskins.com
 freelysurf.cf
@@ -72640,7 +72641,6 @@ hartfordtechnologies.com
 harthatforsin.pro
 harting.com
 harting.de
-hartlocalgod.com
 hartnessintl.com
 harttle.land
 haru-shop.jp
@@ -105071,7 +105071,6 @@ my-adv.ru
 my-amigo-mail.info
 my-bitdefender.com
 my-board.org
-my-cash-bot.co
 my-deco-shop.com
 my-expat-network.com
 my-firewall.org

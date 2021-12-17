@@ -10791,7 +10791,6 @@ app.knights.mi.com
 app.kwaixiaodian.com
 app.lz55.cn
 app.m.letv.com
-app.market.xiaomi.com
 app.mengtuiapp.com
 app.mi.com
 app.moji001.com
@@ -16423,7 +16422,6 @@ channeltrack.yy.com
 chanpay.com
 chanpin100.com
 chanpinban.com
-chanway.net
 chanzhi.org
 chanzuimei.com
 chaoart.com

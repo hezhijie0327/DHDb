@@ -296,6 +296,7 @@
 02portal.hichannel.hinet.net.daraz.com
 02shu.cc
 03-all-seed-gc-us-03.cdn.gaijin.net
+03-all-seed-gc-us-04.cdn.gaijin.net
 03-enlisted-cdnnow.cdn.gaijin.net
 0304game.com
 030buy.com
@@ -2158,7 +2159,6 @@
 198tlc.com
 1990.duckdns.org
 1990tu.com
-1991way.com
 19920905.com
 1994.io
 1999dns.com
@@ -2423,7 +2423,6 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
-2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -16362,6 +16361,7 @@ alaskavisit.com
 alast.omg.lol
 alastonsuomi.com
 alasvow.com
+alawachi.net
 alawar.com
 alawar.ru
 alazingo.com
@@ -20985,6 +20985,7 @@ asdafgergeslijlika.weebly.com
 asdafinance.com
 asdasdad.net
 asdcar.equestrianstockholm.de
+asdf.eldos.xyz
 asdfg23.com
 asdfzxcv1312.com
 asdhit.com
@@ -70795,7 +70796,6 @@ greenvpn.biz
 greenvpn.com
 greenvpn.net
 greenvpn.org
-greenwatermovement.com
 greenway.ie
 greenweez.com
 greenxcx.com
@@ -87185,7 +87185,6 @@ kdkmoments.com
 kdkun.com
 kdl.huaxinsp.cn
 kdlsdk.neverfullydressed.co.uk
-kdly.net
 kdmmm.cn
 kdpxgr.travellink.no
 kdqytm.vipre.com
@@ -94921,6 +94920,7 @@ m.xiamh.com
 m.xiao66y.com
 m.xiaoshuodaquan.com
 m.xingxd.com
+m.xkqpco.com
 m.xkqpco.com.com
 m.xl18.run
 m.xmasxtv.com

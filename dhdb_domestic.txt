@@ -22502,6 +22502,7 @@ dimg02.c-ctrip.com
 dimg02.c-ctrip.com.wscdns.com
 dimg03.c-ctrip.com
 dimg03.c-ctrip.com.wscdns.com
+dimg04.c-ctrip.com
 dimg04.c-ctrip.com.a.bdydns.com
 dimg04.c-ctrip.com.wscdns.com
 dimg05.c-ctrip.com
@@ -28732,7 +28733,6 @@ gdadjs.com
 gdadri.com
 gdadsly.com
 gdbljd.com
-gdc-soccerapi.hupu.com
 gdc.hupucdn.com
 gdccsc.com
 gdcic.net
@@ -29738,7 +29738,6 @@ gp.zaiyunli.cn
 gp10001.kuaizhan.com
 gp123.cc
 gp1903.com
-gp1907.com
 gp241.com
 gp259.com
 gp451.com

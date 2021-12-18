@@ -483,7 +483,6 @@
 10zk.com
 11.golang8.com
 11.hydcd.com
-11.tlu.dl.delivery.mp.microsoft.com
 11.yiqig.com
 110.com
 110.kuaibo.com
@@ -10731,7 +10730,6 @@ birdbeep.net
 birdplanes.xyz
 biromacos.com
 birta.stats.is
-biscuit-taste.net
 bishijie.com
 bishpolicen.club
 bishufang.cn
@@ -24591,6 +24589,7 @@ gd2000.org
 gd3.alicdn.com.danuoyi.alicdn.com
 gdatacube.net
 gdbyhtl.net
+gdc-soccerapi.hupu.com
 gdc2091.cc-club.com.cn
 gdcct.com
 gdcjzyfjwvyqvq.com
@@ -25688,6 +25687,7 @@ goxdrop.com
 goxonnawhmkqq.com
 gozatar.com
 gp-cdn.net
+gp1907.com
 gp1908.com
 gp9697.com
 gpbhgborcpy.com
@@ -34977,7 +34977,6 @@ lumi258.com
 lumion3d.net
 lumpyleaf.com
 lun-cheng.com
-lunafilms.sg
 lunatrade.store
 lunli1988.com
 luntanx18.info

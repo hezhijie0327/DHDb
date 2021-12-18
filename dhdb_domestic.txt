@@ -664,6 +664,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -16490,8 +16491,10 @@ chargerlab.com
 chargerlink.com
 charmelady.com
 charmingglobe.com
+chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
+chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
@@ -50449,7 +50452,6 @@ payment.ishansong.com
 payment2.talkyun.com.cn
 paympay.com
 payqq.msf.tencent-cloud.com
-paytend.com
 pb.bi.gitv.tv
 pb.hd.sohu.com
 pb.hd.sohu.com.cn

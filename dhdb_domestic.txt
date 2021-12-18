@@ -5380,7 +5380,6 @@
 669play.com
 669ye.com
 66aliyun.com
-66beian.com
 66call.com
 66diqiu.com
 66ds.net
@@ -11518,6 +11517,7 @@ autoqingdao.com
 autoshanghai.org
 autosmt.net
 autospaceplus.com
+autoupdate.tantanapp.com
 autoupdate7.synology.cn
 auwinner.com
 aux.soperson.com
@@ -15813,6 +15813,7 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
+cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -28329,7 +28330,6 @@ g5qfx1if3mdj5huysbw5kx58hn8kzbbs.aliyundunwaf.com
 g5wzhq.tdum.alibaba.com
 g6j1dt0.cachenode.cn
 g7.biz.weibo.com
-g72.com
 g7430.com
 g7f9r7.tdum.alibaba.com
 g9hc4.cn

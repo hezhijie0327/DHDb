@@ -10406,6 +10406,7 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.huya.com
+api.hybrid.xiaomi.com
 api.hyhuo.com
 api.iapps.ifeng.com
 api.iimedia.cn
@@ -11303,6 +11304,7 @@ assets.easou.com
 assets.giocdn.com
 assets.giocdn.com.wswebpic.com
 assets.gitee.com
+assets.growingio.com.wswebpic.com
 assets.taobao.com
 assets.taobao.com.w.cdngslb.com
 assets.tapimg.com
@@ -36076,7 +36078,6 @@ immiexpo.com
 immomo.com
 immomogame.com
 immusician.com
-immusoul.com
 immwall.com
 imnight.com
 imobile-ent.com
@@ -48118,7 +48119,6 @@ niupu.com
 niurenqushi.com
 niuschools.com
 niushe.com
-niutaizong.cn
 niutoushe.com
 niutrans.com
 niutuku.com
@@ -51426,6 +51426,7 @@ plum.metgs.com
 pluosi.com
 plures.net
 plus-static.jd.com
+plus.m.jd.com
 plus.m.jd.com.gslb.qianxun.com
 plus.wps.cn
 plusgantt.com

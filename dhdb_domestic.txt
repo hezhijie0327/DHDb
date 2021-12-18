@@ -10388,6 +10388,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -14704,7 +14705,6 @@ c.piecoupon.cn
 c.piliangzhuce.cn
 c.pwfhjjh.cn
 c.queene.cn
-c.rexuebi.com
 c.sayhi.360.cn
 c.ssp.qq.com
 c.sy123888.com
@@ -15423,6 +15423,7 @@ ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfei.com
 ccfjma.m.jd.com
+ccfjma.m.jd.com.gslb.qianxun.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -29519,6 +29520,7 @@ gohomesafe.org
 gohong.com
 going-link.com
 gojiaju.com
+gojokey.club
 goke.com
 gokols.com
 gokuai.com

@@ -2,6 +2,7 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -5370,7 +5371,6 @@
 667744.com
 6677gz.com
 66825.com
-6686693.com
 6686697.com
 6688.com
 668895.com
@@ -19342,6 +19342,7 @@ console.cdnetworks.com
 consolebench.cn-hangzhou.log.aliyuncs.com
 consolecgi.qidian.qq.com
 consumeweb.alipay.com
+contactapi.micloud.xiaomi.net
 contacts.163.com
 contacts.fe.apple-dns.cn
 content.1688.com
@@ -50454,7 +50455,6 @@ pb.jd.com
 pb.sogou.com
 pb.sys.pp8.com
 pb1.pstatp.com
-pb1.qujishu.com
 pb10.sogou.com
 pb2.pstatp.com
 pb2.qujishu.com

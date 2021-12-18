@@ -10441,7 +10441,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -10882,6 +10881,7 @@ appdownload.mail.10086.cn
 appdownload.youku.com
 appdriver.cn
 appdriver.com.cn
+appdump.nie.netease.com
 appeasou.com
 appengine.wmpvp.com
 apperr.log.mgtv.com
@@ -12929,6 +12929,7 @@ beiying.online
 beiyongzhan.com
 beiyu.xin
 beiyxiu.com
+beiyz.com
 beizengtech.com
 beizi.biz
 beizigen.com
@@ -20418,7 +20419,6 @@ cz-yk.com
 cz.douyu.com
 cz.ifeng0.com
 cz0758.cn
-cz2sc.com
 cz365.com
 cz75pw.kl0ru78.xyz
 cz7tjhcv.v1d.szbdyd.com

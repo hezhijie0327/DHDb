@@ -747,7 +747,6 @@
 1000xuexi.com
 1000zhu.com
 10010.8cardmall.com
-10010.cn
 10010.com
 10010.com.cn
 10010400.net
@@ -10044,6 +10043,7 @@ anxiu.com
 anxiw.com
 anxjm.com
 anxz.com
+any.broker.prod.zpath.net
 any.cdn-go.cn.cloud.tc.qq.com
 any.cdn-go.x2s-dstack.sched.dcloudstc.com
 any8.com
@@ -45804,6 +45804,7 @@ mingtaokeji.com
 mingtian.com
 mingtrip.com
 mingxiaodai.com
+mingxing.com
 mingyannet.com
 mingyantong.com
 mingyaohui.com

@@ -10783,7 +10783,6 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -44577,6 +44576,7 @@ manhua.acimg.cn
 manhua.dmzj.com
 manhua365.com
 manhua39.com
+manhuabei.com
 manhuadaohang.com
 manhualang.com
 manhuama.cn

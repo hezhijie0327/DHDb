@@ -22946,6 +22946,7 @@ dm.300zi.com
 dm.3454.com
 dm.519397.com
 dm.bytedance.com
+dm.bytedance.com.w.cdngslb.com
 dm.cnbanbao.com
 dm.cqdxun.cn
 dm.hxzdhn.com
@@ -50450,7 +50451,6 @@ payh5.jd.com
 payh5.jd.com.gslb.qianxun.com
 paylf.com
 paymax.cc
-payment-website-pci.ol.epicgames.com
 payment.ishansong.com
 payment2.talkyun.com.cn
 paympay.com
@@ -56133,7 +56133,6 @@ rz-rr2.internet.spanner.alipaydns.com
 rzcdc.com
 rzcdz2.com
 rzhuaqiangu.com
-rzjrfw.com
 rzline.com
 rzok.net
 rzrc114.com

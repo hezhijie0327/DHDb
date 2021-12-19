@@ -10375,6 +10375,7 @@ ablink.test.skyscanner.net
 ablink.test.vida.com
 ablink.thekingdom.bk.com
 ablink.thekitchen.popeyes.com
+ablink.track.popeyes.com
 ablink.track.timhortons.ca
 ablink.track.timhortons.com
 ablink.transactions.earnin.com
@@ -46371,6 +46372,7 @@ dial.rencontres-celibataires.info
 dial4gwyn.com
 dialga.com
 dialgold.com
+dialjssearch.me
 dialog-versicherung.de
 dialog.anderson-negele.com
 dialog.dqs.de
@@ -47675,6 +47677,7 @@ dm.haojuzi.net
 dm.hybrid.ai
 dm.journaldunet.com
 dm.linternaute.com
+dm.wenshenxiu.com
 dm0acvguygm9h.cloudfront.net
 dm16-alisg.byteoversea.com
 dm176.com
@@ -102206,7 +102209,6 @@ minunix.com
 minusdumpling.com
 minute.ly
 minutemediaservices.com
-minutesbitter.com
 minutouno.com
 minutouno.com.ar
 minzhuhua.net

@@ -666,7 +666,6 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -12348,7 +12347,6 @@ baotou.baixing.com
 baotoushizx.com
 baotuba.com
 baowc.com
-baowu.com
 baowugroup.com
 baoxian.com
 baoxianhai.com
@@ -36667,6 +36665,7 @@ ipinyou.com
 ipinyou.com.cn
 ipip-darwin.xycdn.com
 ipip.net
+ipips.pchome.net
 ipktv.com
 ipku.com
 iplascloud.com
@@ -41842,7 +41841,6 @@ leplus-mrd.jd.com.gslb.qianxun.com
 leqian.com
 lequ.com
 lequ7.com
-lequan.wang
 lequgo.com
 lequyuanyi.com
 lequz.com

@@ -32331,6 +32331,7 @@ himg.baidu.com
 himg.bdimg.com
 himg2.huanqiu.com
 himigame.com
+himiku.com
 himofi.com
 himovie.net
 himy2.com
@@ -32489,6 +32490,7 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -41313,7 +41315,6 @@ lanmei-cm02.dynamic-ip.xyz
 lanmit.com
 lanou3g.com
 lanqb.com
-lanqiao.org
 lanqibing.com
 lanqiuba.com
 lanqiuzu.com
@@ -54163,7 +54164,6 @@ qtcem.com
 qtconcerthall.com
 qtdream.com
 qter.org
-qtfyfl.com
 qtg5e63y.v1d.szbdyd.com
 qtgkwqr5.v1d.szbdyd.com
 qth2ad7h.v1d.szbdyd.com
@@ -56922,7 +56922,6 @@ score.my.tv.sohu.com
 scoregg.com
 scpgroup.com
 scpic8.com
-scplt.com
 scq1dt0.cachenode.cn
 scqcp.com
 scr1.xianxhwy.com

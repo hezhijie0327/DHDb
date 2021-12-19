@@ -28441,6 +28441,7 @@ game.res.meizu.com
 game.rising.cn
 game.str.mdt.qq.com
 game.subway.uu.cc
+game.tgbus.com
 game.tgp.qq.com
 game.vivo.com.cn
 game.vmall.com

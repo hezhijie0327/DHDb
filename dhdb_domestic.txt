@@ -666,6 +666,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -9694,6 +9695,7 @@ aloha-ukulele.com
 alonemonkey.com
 alongsky.com
 alookql.com
+alookweb.com
 alpaca.run
 alpha-browser.com
 alpha-star.org
@@ -34383,6 +34385,7 @@ i.51job.com.51jobdns.com
 i.9le.net
 i.adeaz.com
 i.adsame.com
+i.ai.mi.com
 i.ali213.net
 i.alicdn.com
 i.alicdn.com.danuoyi.tbcache.com
@@ -45061,6 +45064,7 @@ med66.com
 meda.cc
 medal.blog.csdn.net
 medeming.com
+medfintech.com
 media-epicgames-1251447533.file.myqcloud.com
 media-gxnn-person.gxoss.xstore.ctyun.cn
 media-gzga-person.gzoss.xstore.ctyun.cn
@@ -60206,7 +60210,6 @@ ssp.icast.cn
 ssp.juduoping.com
 ssp.kdnet.net
 ssp.kss.ksyun.com
-ssp.lionmobo.com
 ssp.njxzwh.com
 ssp.pro.cn
 ssp.qq.com

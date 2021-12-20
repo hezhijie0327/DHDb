@@ -2785,7 +2785,6 @@
 2cyzx.com
 2d.zol-img.com.cn
 2d.zol-img.com.cn.wswebpic.com
-2d0862a1b0994b3c8138a7bed547b016.vip1.huaweicloudwaf.com
 2d3d5d.net
 2d55dd3b247015337dfc2c53d442d701.safeframe.googlesyndication.com
 2dan.cc
@@ -8438,6 +8437,7 @@ admin6.com
 admin88.com
 adminportal.cdnetworks.com
 admire.so
+admngronline.com
 admobile.top
 admonitor.thepaper.cn
 admpt6.tdum.alibaba.com
@@ -10434,7 +10434,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -19134,6 +19133,7 @@ coldlar.com
 colineapp.com
 colinker.com
 colipu.com
+collab.dingtalk.com
 collapsar.amap.com
 collect.alipay.com
 collect.ctc.ximalaya.com
@@ -26615,7 +26615,6 @@ fansgu.com
 fanshicekong.com
 fanshuapp.com
 fanshuvideo.com
-fanshuxiaobao.com
 fanshuxiaozu.com
 fansiji.com
 fansjoy.net

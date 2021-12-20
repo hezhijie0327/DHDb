@@ -8726,7 +8726,6 @@ a.docs-ns.emailvision.net.daraz.com
 a.dogfood-ns.emailvision.net.daraz.com
 a.dogfood.ns.emailvision.net.daraz.com
 a.doko.moe
-a.dounanhuahui.com
 a.dphunters.com
 a.draugiem.lv
 a.dtprofit.com
@@ -17591,6 +17590,7 @@ amre.work
 amrita.edu
 ams-aaea-1-hos-apigateway-1-1.cloudapp.net
 ams-aase-1-hos-apigateway-1-1.cloudapp.net
+ams-aase-2-hos-apigateway-1-1.cloudapp.net
 ams-efz.ms-acdc.office.com
 ams-krct-1-hos-apigateway-1-1.cloudapp.net
 ams-mvp.trafficmanager.net
@@ -106167,7 +106167,6 @@ nanigans.com
 nanit.com
 nanjingkaishan.com
 nanjinglongyu.com
-nanjishidu.me
 nankankeiba.com
 nanlebbs.com
 nanlive.com

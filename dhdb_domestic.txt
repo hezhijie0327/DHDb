@@ -9056,7 +9056,6 @@ aikucun.com
 ailamtrieuphu.com
 ailete.com
 ailiby.cn
-ailinux.net
 ailinzhou.com
 ailom.com
 ailongmiao.com
@@ -10416,6 +10415,7 @@ api.kmf.com
 api.kmovie.gifshow.com
 api.ktplay.com
 api.kuaishouzt.com
+api.kwaizt.com
 api.ldmnq.com
 api.leancloud.cn
 api.lequ.ptqy.gitv.tv
@@ -22506,6 +22506,7 @@ dimg07.c-ctrip.com
 dimg07.c-ctrip.com.wscdns.com
 dimg08.c-ctrip.com
 dimg08.c-ctrip.com.wscdns.com
+dimg11.c-ctrip.com
 dimg11.c-ctrip.com.wsglb0.com
 dimtown.com
 dinais.com
@@ -27105,7 +27106,6 @@ fexclick.baidu.com
 fexhtml5static.jomodns.com
 ff.dayu.com
 ff.doubleclick.net
-ff.l3gqgd.cn
 ff.meikanguo.com
 ff.qichetansuo.com
 ff.xue163.net

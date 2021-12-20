@@ -1146,7 +1146,6 @@
 2012hacks.info
 2012ui.com
 2013hacks.com
-2013sh.com
 201488894.com
 2014gameshack.com
 2014hacks.com
@@ -16052,7 +16051,6 @@ csgoknifeskins.com
 csgokosmos.ru
 csgoland.ga
 csgolaurel.com
-csgolaw.com
 csgolden.site
 csgoleep.com
 csgoleto.com
@@ -21517,7 +21515,6 @@ esl-one.info
 esl-play.com
 esl-tournament.net
 esl-tournaments.com
-eslcase.com
 eslcup.net
 esliga.ru
 eslone-tournament.com
@@ -30227,6 +30224,7 @@ ismeti.ru
 ismsoxwit.com
 ismtampsshad.icu
 iso-est.com
+isobar.tech
 isodhsd.pro
 isoft-linux.org
 isoftmarketing.com

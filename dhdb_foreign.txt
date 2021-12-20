@@ -2494,6 +2494,7 @@
 2013cheapestbeats.com
 2013newbeatsworld.com
 2013pascherbeatsbydre.com
+2013sh.com
 2013xp.com
 2014cheapbeatsbydre.com
 2014tools.com
@@ -3413,7 +3414,6 @@
 2yt.cn
 2yt.net
 2yuanma.com
-2zm4.cn
 2znp09oa.com
 2zzzzzz.com
 3-a.net
@@ -41697,6 +41697,7 @@ csgoice.com
 csgoid.com
 csgojackpot.com
 csgojoe.com
+csgolaw.com
 csgolden.com
 csgoldluck.com
 csgoldpot.com
@@ -54403,6 +54404,7 @@ esko.com
 eskor.se
 esky8.com
 esl.gg
+eslcase.com
 eslgaming.com
 eslite.com
 esljt.com
@@ -104461,6 +104463,7 @@ msdn.com
 msdn.microsoft.com
 msecure108.com
 msedge.api.cdp.microsoft.com
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 msedge.net
 mseeru.faz.net

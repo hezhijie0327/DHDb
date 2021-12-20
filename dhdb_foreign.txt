@@ -132,6 +132,7 @@
 01-enlisted-stackpath.cdn.gaijin.net
 01-torte.com
 01.beeppool.org
+01.creativecdn.com
 01.gxso.net
 01001.com
 0101011.com
@@ -7984,6 +7985,7 @@
 9376afa2a8fa4e63dd406e8063b0de11.nrb.footprintdns.com
 9376ec23d50b1.com
 937744.com
+937785.com
 9377or.com
 937b0094516d3b64af88df29ba305d9d.clo.footprintdns.com
 9388js.com
@@ -14422,7 +14424,6 @@ adss.yahoo.com
 adssea.byspotify.com
 adssend.net
 adssl01.adtech.fr
-adssl01.adtech.us
 adssl02.adtech.fr
 adsspace.net
 adssyscom.com
@@ -86043,6 +86044,7 @@ jsjnxm.scheurich24.de
 jsjs.org
 jsjxhd.com
 jsksolutions.co.za
+jsku.info
 jskyservices.com
 jskyztc.com
 jslog.post.cz
@@ -88176,7 +88178,6 @@ klscdn.com
 klsdee.com
 klsdmr.com
 klsecurity.com
-klsfgrvklweyr.top
 klsg.net
 klshou.com
 kltdo.com
@@ -101661,7 +101662,6 @@ midnightfever.com
 midnightimpressionperception.com
 midnightnosebleeddoorway.com
 midomi.com
-midootib.net
 midosoo.com
 midphoto.com
 midpopedge.com
@@ -105998,6 +105998,7 @@ na-library.klarnaservices.com
 na-lon05.marketo.com
 na-lon09.marketo.com
 na-pages.husqvarna.com
+na-secure.com
 na-sika.com
 na-sj23.marketo.com
 na.ads.yahoo.com
@@ -111094,7 +111095,6 @@ offerreality.com
 offers.amilia.com
 offers.bycontext.com
 offers.egym.com
-offers.gratisnetwork.com
 offers.hddistributors.com
 offers.jazelauto.com
 offers.netpulse.com
@@ -124217,7 +124217,6 @@ r.turn.com
 r.turn.com.akadns.net
 r.twimg.com
 r.w.inmobi.com
-r.whytoss.com
 r.z2.fm
 r0.ru
 r023m83skv5v.com
@@ -130051,6 +130050,7 @@ saigaocy.com
 saiglobal.com
 sail.name
 sail2world.com
+sailadria.com
 sailcovertend.com
 sailfish.kentcdodds.com
 saili.science

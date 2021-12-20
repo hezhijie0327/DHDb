@@ -995,7 +995,6 @@
 1163.com
 1164915.shop.liebiao.com
 1165490.shop.liebiao.com
-1167018.b2b.liebiao.com
 11684.com
 116cd.115.com
 116cd.com
@@ -2185,6 +2184,7 @@
 2.aili.com
 2.arpun.com
 2.asia.pool.ntp.org
+2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -2397,7 +2397,6 @@
 2217.com
 221700.com
 2222417.b2b.liebiao.com
-2222417.shop.liebiao.com
 2226447.b2b.liebiao.com
 2226447.shop.liebiao.com
 2226503.shop.liebiao.com
@@ -2622,7 +2621,6 @@
 2553444.b2b.liebiao.com
 2553444.shop.liebiao.com
 2555238.b2b.liebiao.com
-2555238.shop.liebiao.com
 2556036.shop.liebiao.com
 255899.p23.tc.cdntip.com
 2560899.shop.liebiao.com
@@ -22039,6 +22037,7 @@ dfsccqak.v1d.szbdyd.com
 dfscda2e.v1d.szbdyd.com
 dfscdj81.v1d.szbdyd.com
 dfscdjcz.v1d.szbdyd.com
+dfscdn.dfcfw.com
 dfshurufa.com
 dfshw.com
 dfsrcw.com
@@ -39486,6 +39485,7 @@ jv0i0u0.cdnnodedns.cn
 jvod.300hu.com
 jvoice.cn
 jvrong.com
+jw01.tttnew.com
 jw03.tttnew.com
 jw100.net
 jwappgc.com

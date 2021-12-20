@@ -2182,7 +2182,6 @@
 2.aili.com
 2.arpun.com
 2.asia.pool.ntp.org
-2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -2407,7 +2406,6 @@
 223b48d683c543952196bcf025282936.dlied1.cdntips.net
 224700.com
 2250207.shop.liebiao.com
-2250712.shop.liebiao.com
 2252e0f7f87fc762abe6eb198dd581c3.safeframe.googlesyndication.com
 2256820.b2b.liebiao.com
 2257078.p23.tc.cdntip.com
@@ -2546,6 +2544,7 @@
 2447754.shop.liebiao.com
 2451608.b2b.liebiao.com
 2451608.shop.liebiao.com
+24538.com
 2455383.b2b.liebiao.com
 24572112-456.hd.webportal.top
 2459551.b2b.liebiao.com
@@ -50106,7 +50105,6 @@ package.dingtalk.com.w.alikunlun.com
 packages.unity.cn
 packtom.com
 packty.com
-pactera.com
 pad-appdata.pingan.com.cn
 pad-cards.iqiyi.com
 padasuo.net

@@ -2511,7 +2511,6 @@
 2374505.p23.tc.cdntip.com
 2374505.sched.sma.tdnsv5.com
 2374597.p23.tc.cdntip.com
-2374947.b2b.liebiao.com
 2374947.shop.liebiao.com
 2376613.b2b.liebiao.com
 2376613.shop.liebiao.com
@@ -10790,6 +10789,7 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -43348,7 +43348,6 @@ lp.open.weixin.qq.com
 lp.pinduoduo.com
 lp.shangdevip.cn
 lp.shangdevip.cn.w.kunlungr.com
-lp1901.com
 lp8gpow5.sched.s2-dk.tdnsv5.com
 lpcdn.pinduoduo.com
 lpcdn.pinduoduo.com.sched.pddlego.tdnsv5.com
@@ -45386,6 +45385,7 @@ mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
 mercury.jd.com
+mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com
 mermaid.ximalaya.com
@@ -46551,6 +46551,7 @@ moseeker.com
 mosesenglish.com
 mosgcj.com
 moshouba.top
+moshuanghua.com
 moshuqiqiu.com
 mosifel.com
 mosoga.net

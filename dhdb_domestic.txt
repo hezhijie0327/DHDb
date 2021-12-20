@@ -5357,7 +5357,6 @@
 668895.com
 668app.com
 668cc668.com
-668cp77.com
 668lw.com
 668map.com
 668news.com
@@ -10438,6 +10437,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -19057,7 +19057,6 @@ codekissyoung.com
 codekk.com
 codeku.me
 codemart.com
-codemcx.work
 codenow.cn
 codeok.com
 codepku.com
@@ -19457,7 +19456,6 @@ coral2.uc.cn
 core-ucloud.tantanapp.com
 core.bilivideo.com
 core.cloud.unity.cn
-core.tantanapp.com
 corebai.com
 corebug.adsame.com
 coreldrawchina.com
@@ -29518,6 +29516,7 @@ gogbuy.com
 gogo-le.com
 gogo.so
 gogo123.com
+gogobids.com
 gogojiang.com
 gogokid.com
 gogooffer.com
@@ -33894,6 +33893,7 @@ huodong.m.taobao.com
 huodong.m.taobao.com.danuoyi.tbcache.com
 huodong.mobilem.360.cn
 huodong.org
+huodong.taobao.com
 huodong.taobao.com.danuoyi.tbcache.com
 huodonghezi.cn
 huodonghezi.com
@@ -45007,6 +45007,7 @@ mdevstat.qqlive.qq.com
 mdfsbn.com
 mdfull.com
 mdhjs.com
+mdian.co
 mdike.alicdn.com
 mdike.alicdn.com.danuoyi.tbcache.com
 mdinjn.com

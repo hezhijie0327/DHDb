@@ -1170,7 +1170,6 @@
 1267253.shop.liebiao.com
 1268693.b2b.liebiao.com
 1268693.shop.liebiao.com
-1269593.b2b.liebiao.com
 126doc.com
 126g.com
 126qiye.com
@@ -1333,7 +1332,6 @@
 1481194.shop.liebiao.com
 1485396.b2b.liebiao.com
 1489092.b2b.liebiao.com
-1489469.b2b.liebiao.com
 1489469.shop.liebiao.com
 148com.com
 148la.com
@@ -11456,6 +11454,7 @@ auto-made.com
 auto-purify.com
 auto-wo.com
 auto.cnfol.com
+auto.sina.com.cn
 auto.sinaimg.cn
 auto.sohu.com
 auto.tancdn.com
@@ -48933,6 +48932,7 @@ okcard.com
 okchang.com
 okchexian.com
 okemu.com
+okexcn.com
 okeycar.com
 okgj.com
 okhimalayanzi.com

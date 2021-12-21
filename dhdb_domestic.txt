@@ -1041,7 +1041,6 @@
 1201258.b2b.liebiao.com
 1201258.shop.liebiao.com
 1205066.b2b.liebiao.com
-1205992.shop.liebiao.com
 1206397.sched.s1k.tdnsv5.com
 1206397.sched.v1.tdnsv5.com
 1207101.b2b.liebiao.com
@@ -37553,6 +37552,7 @@ jdxlt.com
 jdxzz.com
 jdy.com
 jdy33.cn
+jdycdn.com
 jdypcg.com
 jdzbth.com
 jdzdeyy.com

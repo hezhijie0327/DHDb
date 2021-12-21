@@ -660,6 +660,7 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
+1.asia.pool.ntp.org
 1.bh5.com.cn
 1.ccutu.com
 1.cjcp.cn
@@ -1308,7 +1309,6 @@
 1460146.shop.liebiao.com
 1465610.b2b.liebiao.com
 1465610.shop.liebiao.com
-1465687.shop.liebiao.com
 1467739.b2b.liebiao.com
 1469166.b2b.liebiao.com
 1469166.shop.liebiao.com
@@ -2153,7 +2153,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.asia.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -2439,6 +2438,7 @@
 2345cdn.net
 2345daohang.com
 2345download.com
+2345kankan.com
 2345soso.com
 234du.com
 234f.com
@@ -11151,6 +11151,7 @@ as1.wenku.baidu.com
 as2.binstream.live
 as3f.com
 as5.com
+asa.commerce.apple.com
 asa.commerce.apple.com.cdn20.com
 asap.ad7.com
 asc-wines.com
@@ -13237,6 +13238,7 @@ bilibili.cn
 bilibili.co
 bilibili.com
 bilibili.tv
+bilibiligame.net
 bilibilihelper.com
 bilibilipcdn.xktmmosauzq.bilivideo.yfcdn.cn
 biligame.com
@@ -41531,7 +41533,6 @@ ldw4nmdt.s1txipv6.cdntip.com
 ldy.350.com
 ldycdn.com
 ldygo.com
-ldyh666.com
 ldzhibo23.com
 le-feng.com
 le.com

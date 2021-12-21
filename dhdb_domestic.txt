@@ -1312,7 +1312,6 @@
 1467739.b2b.liebiao.com
 1469166.b2b.liebiao.com
 1469166.shop.liebiao.com
-1471025.shop.liebiao.com
 1473846f4246d54ff5ac91bd5d228550.dlied1.cdntips.net
 1475507.b2b.liebiao.com
 1475507.shop.liebiao.com
@@ -2611,7 +2610,6 @@
 2613445.shop.liebiao.com
 263.com
 263.net
-2631493.b2b.liebiao.com
 263em.com
 263vps.com
 263xmail.com
@@ -2852,7 +2850,6 @@
 301pk.com
 3023.com
 3026552989.cloudvdn.com
-302794.shop.m.liebiao.com
 3055t.cn
 306t.com
 3071995.dsp-dk.sched.dcloudstc.com
@@ -41529,7 +41526,6 @@ ldw4nmdt.s1txipv6.cdntip.com
 ldy.350.com
 ldycdn.com
 ldygo.com
-ldzhibo23.com
 le-feng.com
 le.com
 le.wps.cn
@@ -57201,6 +57197,7 @@ search.51job.com
 search.51job.com.51jobdns.com
 search.appstore.vivo.com.cn
 search.bilibili.com
+search.browser.miui.com
 search.cdn.huya.com
 search.dangdang.com
 search.dpool.sina.com.cn
@@ -59908,6 +59905,7 @@ speedfantasybid.com
 speedind.warsongmobile.com
 speednt.com
 speedsz.net
+speedv4.m.jd.com
 speedv4.m.jd.com.gslb.qianxun.com
 speedycloud.cc
 speiyou.com

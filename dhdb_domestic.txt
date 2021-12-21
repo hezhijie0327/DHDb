@@ -1302,7 +1302,6 @@
 140c2370e548444c31c48b60.mdbook.cn
 1415926.mobi
 1415927.b2b.liebiao.com
-1418551.shop.liebiao.com
 14244.com
 1427325.shop.liebiao.com
 14294.com
@@ -14219,6 +14218,7 @@ brzhang.club
 bs-adaptive.pull.yximgs.com
 bs-origin.pull.yximgs.com
 bs.csshq.com.cn
+bs.forward.douban.com
 bs008.com
 bs14.9669.cn
 bs56.net
@@ -15799,7 +15799,6 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
-cdn.jsdelivr.net
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -38144,7 +38143,6 @@ jingchengwl.com
 jingdaka.com
 jingdata.com
 jingdezhen.baixing.com
-jingdian230.com
 jingdianju.com
 jingdianlaoge.com
 jingdiao.com
@@ -54436,6 +54434,7 @@ query-node.yfscdn.net
 query-suggestion.ai.xiaomi.com
 query.aliyun.com
 query.dcdn.baidu.com
+query.hicloud.com
 query.tencent-cloud.com
 queshao.com
 queshu.com

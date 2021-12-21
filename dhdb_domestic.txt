@@ -940,8 +940,6 @@
 1141614.b2b.liebiao.com
 1144313.b2b.liebiao.com
 1144725.shop.liebiao.com
-1144809.b2b.liebiao.com
-1144809.shop.liebiao.com
 1144hg.com
 11467.com
 1146974.b2b.liebiao.com
@@ -18461,6 +18459,7 @@ cn-zjhz-cu-v-06.bilivideo.com
 cn.actual.battle.net
 cn.aiclean.50union.com
 cn.alicdn.com
+cn.alicdn.com.danuoyi.tbcache.com
 cn.aliyun.com
 cn.app.chat.xiaomi.net
 cn.bidushe.com
@@ -21898,7 +21897,6 @@ dev16.baidupan.com
 dev46.baidupan.com
 dev53.baidupan.com
 dev76.baidupan.com
-dev80.baidupan.com
 dev95.baidupan.com
 dev996.com
 devask.net
@@ -23689,6 +23687,7 @@ dsa.iigs9.com
 dsapi.jdy33.cn
 dsblog.net
 dscbs.com
+dsdsds8848.xyz
 dsfdc.com
 dsfof.com
 dsg.gdggzy.org.cn
@@ -41081,6 +41080,7 @@ l.qq.com
 l.rcd.dns.iqiyi.com
 l.sinaimg.cn
 l.tapdb.net
+l.ujian.cc
 l.web.huya.com
 l.web.huya.com.w.kunluncan.com
 l.yidianzixun.com
@@ -43986,7 +43986,6 @@ m.ke.com
 m.kejet.net
 m.kfc.com.cn
 m.kokomh.com
-m.konshan.com
 m.kyxnz.cn
 m.laigame7.net
 m.lanqiuba.com

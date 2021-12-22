@@ -19293,6 +19293,7 @@ api.login.ops.net.zooplus.de
 api.login.staff.net.zooplus.de
 api.lwxs99.com
 api.m.afreecatv.com
+api.m.jd.com
 api.machine.net.zooplus.de
 api.macupdate.com
 api.mail.net.zooplus.de
@@ -41112,7 +41113,6 @@ crbsjs.info
 crbug.com
 crc.com.hk
 crc003.net
-crc81.com
 crchina.org
 crd-net.org
 crd.com
@@ -70746,7 +70746,6 @@ gradprograms.cals.cornell.edu
 graduateavenue.com
 graduateprogram.org
 graduationconstraintjoyous.com
-graduationtapingicicle.com
 gradygrydi.com
 graebel.com
 grafana.org
@@ -88802,7 +88801,6 @@ kphimsex.net
 kpibri.nutrimea.com
 kpl.156666.co
 kplus.vn
-kplusd.far.ru
 kpmg.nl
 kpmg.us
 kpmgnet.fr
@@ -99493,7 +99491,6 @@ medigaly.com
 medigate.io
 medikforum.ru
 medinfo.today
-medinforms.ru
 medinses.ru
 medio.com
 medion.com

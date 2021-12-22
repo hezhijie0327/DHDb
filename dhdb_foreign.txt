@@ -8653,7 +8653,6 @@ a-ups-presencecore3-prod-azsc.japaneast.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.japaneast.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.westus2.cloudapp.azure.com
-a-ups-presencecore6-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore9-prod-azsc.eastus.cloudapp.azure.com
 a-usw.1rx.io
 a.123porner.com
@@ -85920,7 +85919,6 @@ jp.moc.gov.tw
 jp.net
 jp.pandora.tv
 jp.pitneybowes.com
-jp.pool.ntp.org
 jp.promo.skf.com
 jp.rti.org.tw
 jp.schroders.email
@@ -96356,7 +96354,6 @@ manconsider.com
 mancrates.com
 mandao.tv
 mandaodm.com
-mandatebright.club
 mandatewire.com
 mandatorycaptaincountless.com
 mandatumlife.fi

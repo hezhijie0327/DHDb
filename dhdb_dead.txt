@@ -4310,6 +4310,7 @@ a-ups-presencecore4-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.eastus.cloudapp.azure.com
+a-ups-presencecore6-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore7-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.centralus.cloudapp.azure.com
@@ -24991,7 +24992,6 @@ gg-esea.com
 gg-tournament.com
 gg.4kdy.net
 gg.5173.com
-gg.51cto.com
 gg.amblrgg.live
 gg.anqu.com
 gg.btnk024.com
@@ -31444,6 +31444,7 @@ joyowo.com
 joyschema13.live
 joyschema3.live
 jozee.cn
+jp.pool.ntp.org
 jp.vpnvip.com
 jp01-28.ssv4.net
 jp1-live-enc.starmakerstudios.com
@@ -36710,6 +36711,7 @@ mancdn88.com
 manchina.xyz
 mandarincapital.net
 mandarinelan.com
+mandatebright.club
 mandudu.com
 maneta.info
 manfen.net

@@ -1244,7 +1244,6 @@
 13636.com
 1363602.b2b.liebiao.com
 1363602.shop.liebiao.com
-1363801.b2b.liebiao.com
 1363801.shop.liebiao.com
 1366358.b2b.liebiao.com
 1368832400079045.cn-hangzhou.fc.aliyuncs.com
@@ -5487,6 +5486,7 @@
 6tennis.com
 6thhosp.com
 6tiantian.com
+6tie.com
 6tjlu6my.p23.tc.cdntip.com
 6tjlu6my.sched.sma.tdnsv5.com
 6uck6zs5.sched.s2-dk.tdnsv5.com
@@ -10337,6 +10337,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com

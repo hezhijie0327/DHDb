@@ -4292,6 +4292,7 @@ a-ups-presencecore14-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore14-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore2-prod-azsc.japanwest.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.centralus.cloudapp.azure.com
+a-ups-presencecore3-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.eastus2.cloudapp.azure.com
@@ -6906,7 +6907,6 @@ aflrm.com
 afminer.com
 afoxsshadow.com
 afp.adpolestar.net
-afp.alicdn.com
 afp.chinanews.com
 afp.iqiyi.com
 afp.pplive.com
@@ -11573,6 +11573,7 @@ bs.l.qq.com
 bs.lamrd.cn
 bs.url.tw
 bs641.cn
+bs919.com
 bs988.com
 bsa.netdna-cdn.com
 bsadfs.xyz
@@ -13338,7 +13339,6 @@ cf0009.com
 cf027.com
 cf031d45b5.com
 cf2c594adf.com
-cf78.cc
 cf89.gold
 cf8d.stat.gw.youmi.net
 cf9444.com
@@ -18354,6 +18354,7 @@ didiyunapi.com
 didnkinrab.com
 didnrep.ru
 didoga.ru
+die-rankliste.com
 diemov.com
 dierkezhan.com
 dieterichtaylorville.com
@@ -21432,7 +21433,6 @@ erdekeshirek.info
 erdekesvilag.eu
 erdfgj.com
 erdianzhang.com
-erdsqclzjwcylb.com
 erdsyzb.com
 erebor.douban.com
 ereuiib.com
@@ -32258,6 +32258,7 @@ kanmeinv.com
 kannilu.com
 kanqiusai.net
 kansp.com
+kantv.pub
 kanvideo.top
 kanwby.com
 kanzhen666.com
@@ -35767,6 +35768,7 @@ m.ienkdago.cn
 m.ifeib.com
 m.ijieo.com
 m.ik20nd.cn
+m.ilancc.com
 m.im
 m.imiek.com
 m.imykgs.com
@@ -42381,6 +42383,7 @@ pb.okk123.com
 pb.shuxigua.com
 pb.wang502.com
 pb1.qujishu.com
+pb2.qujishu.com
 pbbgfsm.cn
 pbbnedqfhkkgj.localdomain
 pbhrxxcuobz.com
@@ -46038,6 +46041,7 @@ rivrai.com
 riwee.com
 rixcloud.me
 rixcloud.us
+riycecerfpjreyx.xyz
 riyuezw.com
 riyugo.com
 rizedrop.com

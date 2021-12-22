@@ -489,6 +489,7 @@
 0791quanquan.com
 0792u.com
 079768.com
+0797rs.com
 07bf02787f85a3bb53d73bf758bb5fbb.safeframe.googlesyndication.com
 07cn.com
 07dfabef10944e746cad4c60.mdbook.cn
@@ -1243,7 +1244,6 @@
 136136.com
 13636.com
 1363602.b2b.liebiao.com
-1363602.shop.liebiao.com
 1363801.shop.liebiao.com
 1366358.b2b.liebiao.com
 1368832400079045.cn-hangzhou.fc.aliyuncs.com
@@ -2157,7 +2157,6 @@
 2004059.b2b.liebiao.com
 2005net.net
 2006q.com
-2007532.b2b.liebiao.com
 2008php.com
 2008red.com
 200ax.com
@@ -9553,6 +9552,7 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
+all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all163-dxospf.split.netease.com
 all163-ltospf.split.netease.com
@@ -28210,7 +28210,6 @@ g.ieeod0.com
 g.iqilu.com
 g.jia.com
 g.jssdk.net
-g.ju33.com
 g.koowo.com
 g.kuwo.cn
 g.lznews.cn

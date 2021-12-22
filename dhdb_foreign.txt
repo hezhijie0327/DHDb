@@ -8648,7 +8648,6 @@ a-ups-presencecore1-prod-azsc.japanwest.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore11-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.centralus.cloudapp.azure.com
-a-ups-presencecore2-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.australiaeast.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.japaneast.cloudapp.azure.com
@@ -27741,7 +27740,6 @@ blog.vic.mh4u.org
 blog.vive.com
 blog.wan-ifra.org
 blog.weebly.com
-blog.workflow.is
 blog.x188.cn
 blog.xlfmguanyin.com
 blog.yahoo.com
@@ -31724,7 +31722,6 @@ ca763.com
 ca77.com
 ca7705.com
 ca772.com
-ca7755.com
 ca776.com
 ca788.com
 ca8077.com
@@ -35765,6 +35762,7 @@ chouza.com.ar
 chouzakeil.com.ar
 chowhound.com
 chpfgx.com
+chpok.pw
 chpspb.bubbleroom.fi
 chr-hansen.com
 chrczt.vite-envogue.de
@@ -66257,6 +66255,7 @@ go.develop.amazon.com
 go.developerprogram.com
 go.development.wyndhamhotels.com
 go.devisubox.com
+go.devskiller.com
 go.dfepharma.com
 go.dhf.org
 go.dhtech.com
@@ -104603,7 +104602,6 @@ mrt188.com
 mrt528.com
 mrtbbnr.com
 mrtc188.com
-mrtc88.com
 mrtome.com
 mrtweet.com
 mrtx.duckdns.org
@@ -112207,7 +112205,6 @@ onalytica.com
 onamae.com
 onapp.com
 onapsis.com
-onarydarlie.fun
 onaudience.com
 onaugan.com
 onavo.com
@@ -116606,7 +116603,6 @@ pe.fr
 pe.promo.skf.com
 pe.vc
 pea3nut.info
-peace.ca
 peacech.hopto.org
 peacefire.org
 peacefullymenitch.com

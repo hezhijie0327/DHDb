@@ -638,7 +638,6 @@
 0f461325bf56c3e1b9.com
 0f4eac0ba1aff4d674a4686bbea56bcb.clo.footprintdns.com
 0fbhhfxdxc.com
-0fccf56c02.d14b19b49f.com
 0fees.us
 0ffdc33a-dnsotls-ds.metric.gstatic.com
 0ffer.eu
@@ -7520,7 +7519,6 @@
 888cff.com
 888dde.com
 888diao.com
-888fun-city.com
 888funcity.com
 888funcity.net
 888games.com
@@ -8245,7 +8243,6 @@
 9857064.notice.spriggy.com.au
 985994.com
 986.com
-9860775.com
 986707.shop.cnlist.org
 9874452.com
 9874b8acd8c4c663e0902bc246aa1573.clo.footprintdns.com
@@ -13219,6 +13216,7 @@ ads.aroundtherings.com
 ads.arto.dk
 ads.as4x.tmcs.net
 ads.as4x.tmcs.ticketmaster.com
+ads.asiafriendfinder.com
 ads.aspalliance.com
 ads.aspentimes.com
 ads.associatedcontent.com
@@ -37037,6 +37035,7 @@ client-analytics.braintreegateway.com
 client-api-cdn.itunes-apple.com.akadns.net
 client-api.arkoselabs.com
 client-api.itunes.apple.com
+client-api.itunes.apple.com.edgesuite.net
 client-applications.net.daraz.com
 client-log.box.com
 client-logs.warthunder.com
@@ -76065,7 +76064,6 @@ hrs.actonservice.com
 hrs.com
 hrs.de
 hrs5555.com
-hrsaeecwvkg.com
 hrsalon.org
 hrsstrokecocoon.com
 hrum.hotelsapi.io

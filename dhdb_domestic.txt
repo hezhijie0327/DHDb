@@ -7923,6 +7923,7 @@ accounts.firefox.com.cn
 accounts.google.cn
 accounts.nvgs.nvidia.cn
 accounts.qq.com
+accounts.tantanapp.com
 accscdn.cp12.ott.cibntv.net
 accscdn.m.taobao.com
 accsh.org
@@ -31638,7 +31639,6 @@ hcdnw.net163.gslb.c.cdnhwc1.com
 hcdnw.zjtd01.gslb.c.cdnhwc2.com
 hcdnw01.gslb.c.cdnhwc2.com
 hcdnw101.gslb.c.cdnhwc2.com
-hcdnw120.global.c.cdnhwc6.com
 hcdyhr.com
 hcgroup.com
 hch518.com
@@ -48708,7 +48708,6 @@ ocpc.xueersi.com
 ocri-genomics.org
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
-ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.cfca.com.cn
 ocsp.crlocsp.cn

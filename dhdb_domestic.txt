@@ -21547,7 +21547,6 @@ dcdn.bj.aitaotan.com
 dcdn.bj.aitaotan.com.w.kunluncan.com
 dcdnhub.xfs.xcloud.sandai.net
 dcdv.zol.com.cn
-dce0k0.cn
 dcement.com
 dcep-drcn.wallet.dbankcloud.com
 dcetax.com
@@ -28744,6 +28743,7 @@ gdmxjy.com
 gdou.com
 gdown.baidu.com
 gdp.alicdn.com
+gdp.alicdn.com.danuoyi.tbcache.com
 gdpanshi.com
 gdqou2nm.sched.s2.tdnsv5.com
 gdqynews.com
@@ -41424,6 +41424,7 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
+lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com
@@ -52289,7 +52290,6 @@ pvc.zol.com.cn
 pvc123.com
 pvdata.ku6.com
 pvkj.com
-pvlog.moviebox.baofeng.net
 pvm.zol.com.cn
 pvmsite.zol.com.cn
 pvnapp.zol.com.cn

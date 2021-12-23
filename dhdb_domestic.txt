@@ -662,7 +662,6 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -39436,7 +39435,6 @@ jxgxbd.com
 jxhyshiye.com
 jxiaolan.com
 jxicloud.com
-jxidc.net
 jxjdgy.com
 jxjee.com
 jxjia.net

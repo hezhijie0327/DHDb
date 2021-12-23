@@ -2,6 +2,7 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -1285,7 +1286,6 @@
 140c2370e548444c31c48b60.mdbook.cn
 1415926.mobi
 14244.com
-1427325.shop.liebiao.com
 14294.com
 1432283.shop.liebiao.com
 1446065.b2b.liebiao.com
@@ -14391,6 +14391,7 @@ bw88188.com
 bw8848.com
 bw8919.com
 bwae.org
+bway311.com
 bway83.com
 bway88688.com
 bway889.com
@@ -16713,7 +16714,6 @@ china-genius.com
 china-gold.com
 china-goldcard.com
 china-highway.com
-china-holiday.com
 china-hongfei.com
 china-hrg.com
 china-huaxue.com
@@ -18035,6 +18035,7 @@ cloudtui.com
 cloudv.cdnetworks.com
 cloudvast.com
 cloudvdn.com
+cloudvideo.thepaper.cn
 cloudvogue.com
 cloudvse.com
 cloudwise.com
@@ -33955,6 +33956,7 @@ hwanjia.com
 hwasmart.com
 hwccpc.com
 hwcloudlive.com
+hwclouds-dns.net
 hwclouds.com
 hwclouds.mobi
 hwclouds.net
@@ -35273,7 +35275,6 @@ ilin-lighting.com
 ilingdai.com
 ilinki.net
 ilinkone.com
-ilinux.xyz
 ilinyi.net
 ilitu.com
 ilivelog.qcloud.com

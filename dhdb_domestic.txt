@@ -1,6 +1,5 @@
 0-100.com
 0-6.com
-0.cn.pool.ntp.org
 0.pic.pc6.com
 0.pool.ntp.org
 0.up.qingdaonews.com
@@ -9126,6 +9125,7 @@ aiyingshi.com
 aiykj.com
 aiyou.tv
 aiyoumi.com
+aiyouxi07.vip
 aiyuangong.com
 aiyuke.com
 aiyunxiao.com
@@ -37869,6 +37869,7 @@ jiasu.nn.com
 jiasu.qq.com
 jiasuhui.com
 jiasule.com
+jiataotao.com
 jiataoyuan.com
 jiathis.com
 jiatingdog.com
@@ -42395,7 +42396,6 @@ linuxkiss.com
 linuxpk.com
 linuxplus.org
 linuxprobe.com
-linuxqq.net
 linuxrumen.com
 linuxsight.com
 linuxsir.com

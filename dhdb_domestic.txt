@@ -199,7 +199,6 @@
 0283home.com
 028hr.org
 028ip.com
-028kingdee.net
 028kuaidai.com
 028office.com
 028pxw.com
@@ -2547,7 +2546,6 @@
 2556036.shop.liebiao.com
 255899.p23.tc.cdntip.com
 2560899.shop.liebiao.com
-2561820.b2b.liebiao.com
 2561820.shop.liebiao.com
 2564384.shop.liebiao.com
 256621849725484df96496db3ae4a6b7.dlied1.cdntips.net
@@ -3651,7 +3649,6 @@
 4311.com
 431261dd70ea6c599dabad8bc8358aa8.dlied1.cdntips.net
 431582fc7dc659abb3c8b0a55adefeee.dlied1.cdntips.net
-432326.shop.m.liebiao.com
 432520.com
 432672.p23.tc.cdntip.com
 432c9567.51cto.com.cname.yunduns.com
@@ -13014,6 +13011,7 @@ bfzhuce.com
 bg.v4.a.dl.ws.microsoft.com
 bg0.market.xiaomi.com
 bg1.market.xiaomi.com
+bg4.v4.a.dl.ws.microsoft.com
 bg4r2i0.cachenode.cn
 bgbk.org
 bgctv.com

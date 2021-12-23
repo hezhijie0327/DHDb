@@ -3125,7 +3125,6 @@
 270inc.com
 271.onmypc.biz
 271052d1-dnsotls-ds.metric.gstatic.com
-2712.com
 2712k.com
 2720.com
 27270.com
@@ -6526,6 +6525,7 @@
 7065911.com
 70689.com
 70733.com
+7082.com
 7086.in
 7089262.com
 7090853.com
@@ -24934,7 +24934,6 @@ beaconevents.com
 beaconin2.notinote.me
 beacons.brandads.net
 beacons.mediamelon.com
-beacons2.gvt2.com
 beacons4.gvt2.com
 beacons5.gvt2.com
 beaconsco.com
@@ -61634,6 +61633,7 @@ fun8807.com
 fun8809.com
 fun8810.com
 fun88126.com
+fun88223.com
 fun8889.com
 fun888city.net
 fun8893.com
@@ -96548,7 +96548,6 @@ maparchltd.co.uk
 mapbox.cn
 mapbox.com
 mapcom.com
-mapcrayonmiss.com
 mapeng.net
 mapfactor.com
 mapfan.com

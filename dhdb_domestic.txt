@@ -4676,7 +4676,6 @@
 5599.com
 55a20a2b89510bc857653fcda3e10b20.safeframe.googlesyndication.com
 55a6ff3.cdnnodedns.cn
-55bbs.com
 55bf3192575e4cdcfabcb63370211369.dlied1.cdntips.net
 55coin.com
 55dd809f23956f1456d662bee81845f5.dlied1.cdntips.net
@@ -8037,6 +8036,7 @@ activity.gtimg.cn
 activity.hdslb.com
 activity.hdslb.com.w.kunlungr.com
 activity.hnhnmg.com
+activity.kugou.com
 activity.kugou.com.wswebcdn.com
 activity.m.kuaishou.com
 activity.qzone.qq.com

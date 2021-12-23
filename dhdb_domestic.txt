@@ -2518,7 +2518,6 @@
 2501742.b2b.liebiao.com
 2505928.b2b.liebiao.com
 2507178.shop.liebiao.com
-2508021.b2b.liebiao.com
 2508731.b2b.liebiao.com
 2509449.b2b.liebiao.com
 2509449.shop.liebiao.com
@@ -7418,7 +7417,6 @@ a.quangushi.com
 a.qunzou.com
 a.rensheng5.com
 a.sh.vip.dianping.com
-a.shczz.com
 a.tanx.com
 a.tiyuxiu.com
 a.tool.lu
@@ -28748,6 +28746,7 @@ gdrc.com
 gdrc360.com
 gdrcu.com
 gdrfyy.com
+gds-services.com
 gdscse.net
 gdspeedtest.com
 gdsports.net

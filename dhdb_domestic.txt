@@ -661,6 +661,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -1161,7 +1162,6 @@
 127.com
 127.net
 1274cabf9fc86bb0e8416c08d7acd560.v.smtcdns.net
-1277766.b2b.liebiao.com
 1278721.com
 127tv.com
 127xx.com
@@ -2129,6 +2129,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
+2.asia.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -11315,7 +11316,6 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
-au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com
@@ -15203,6 +15203,7 @@ casvm.com
 casystar.com
 cat.sh.vip.dianping.com
 cat898.com
+catalog-public-service-prod06.ol.epicgames.com
 catalog-tj.com
 catchdata.xiaojukeji.com
 catdot.dianping.com
@@ -30261,6 +30262,7 @@ gushiwen.org
 gushufang.com
 gusiyuan.com
 gusuwang.com
+gutianfood.com
 gutou.com
 gutun.net
 guweimin.com
@@ -38083,7 +38085,6 @@ jinghangapps.com
 jinghua.com
 jinghuazhijia.com
 jinghujiaoyu.com
-jingjia.org
 jingjiamicro.com
 jingjiang.com
 jingjiawang.com
@@ -39905,6 +39906,7 @@ kasscloud.com
 kasto.shop.258.com
 katvr.com
 kaven.xyz
+kawayiyi.icu
 kaytrip.com
 kaytune.com
 kazakcnr.com

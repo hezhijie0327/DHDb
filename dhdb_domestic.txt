@@ -2,7 +2,6 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -2477,7 +2476,6 @@
 2425099.shop.liebiao.com
 2426c4d3d539985bced80be7fa75482e.dlied1.cdntips.net
 24415126f52baedc7d219c5f9c0f70dc.dlied1.cdntips.net
-2447754.b2b.liebiao.com
 2447754.shop.liebiao.com
 2451608.b2b.liebiao.com
 24538.com
@@ -3143,7 +3141,6 @@
 360xiaos.com
 360xiehui.com
 360xkw.com
-360xs.com
 360yfw.com
 360youtu.com
 360zbz.com
@@ -10634,6 +10631,7 @@ apkui.com
 apkyx.com
 apkzu.com
 aplan.tv
+aplbs.yy.com
 aplum-inc.com
 aplum.com
 aplus.pptv.com
@@ -10796,6 +10794,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -14924,6 +14923,7 @@ caidao1.com
 caidao8.com
 caidaocloud.com
 caidaoli.com
+caiens.com
 caifuxingketang.com
 caifuzhongwen.com
 caigou2003.com

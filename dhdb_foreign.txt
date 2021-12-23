@@ -21348,6 +21348,7 @@ assets.fastgit.org
 assets.garron.blog
 assets.garron.me
 assets.gitlab-static.net
+assets.growingio.com
 assets.gumroad.com
 assets.gunosy.com
 assets.hcaptcha.com
@@ -23789,6 +23790,7 @@ ban.mirorgazma.ru
 ban.zab.ru
 ban1mid.com
 ban2mid.com
+ban3mid.com
 ban4mid.com
 ban5mid.com
 ban6mid.com
@@ -28064,7 +28066,6 @@ bluejay.twelve70.com
 bluekai-sync.dotomi.com
 bluekai.com
 bluekoff.net
-bluelight.link
 bluelithium.com
 bluemarblegeo.com
 bluemarblepayroll.actonservice.com
@@ -36231,6 +36232,7 @@ citrahalal.co.id
 citramarga.com
 citreon.com
 citrio.com
+citrix-ca.cloudwerx.com
 citrix.brookfieldrenewable.com
 citrusad.com
 citrusbits.com
@@ -61883,6 +61885,7 @@ fwbntw.com
 fwcar13.net.daraz.com
 fwcranes.com
 fwd.us
+fwdkim1.net.zooplus.fr
 fwdq.net
 fwdservice.com
 fwghmj.piatapanda.ro
@@ -106767,7 +106770,6 @@ nbprido.com
 nbsason.com
 nbstatic.com
 nbt.ren
-nbty-china.com
 nbullrusma.top
 nbxzp.com
 nbyggk.jocee.jp

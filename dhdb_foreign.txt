@@ -13223,6 +13223,7 @@ ads.auctioncity.co.nz
 ads.auctions.yahoo.com
 ads.autonet.com.vn
 ads.avazu.net
+ads.avct.cloud
 ads.avocet.io
 ads.b10f.jp
 ads.baadesaba.ir
@@ -24818,6 +24819,7 @@ bd.dk
 bd01.daqiso.com
 bd1617dbbc28f.com
 bd2020.com
+bd295.com
 bd2fbnfg.com
 bd4travel.com
 bd6f21cc-dnsotls-ds.metric.gstatic.com
@@ -26797,7 +26799,6 @@ biqugecom.com
 biqugee.com
 biqugeg.com
 biqugego.com
-biqugemm.com
 biquger.com
 biquges.com
 biqugeso.com
@@ -56050,7 +56051,6 @@ f.staticlp.com
 f.wheredreams.com
 f.xyu.tv
 f.zgbmw.com.cn
-f00961160c.25391ebf69.com
 f01ed651eca.com
 f0439d7578381bd5b596430c88b99a69.clo.footprintdns.com
 f05098.privacy4browsers.com
@@ -87930,7 +87930,6 @@ kilin.xyz
 killeraces.com
 killerdrops.com
 killerparadehay.com
-killerwebstats.com
 killingfieldsmuseum.com
 killingwirelesshumiliation.com
 killsitelima.duckdns.org
@@ -92407,7 +92406,6 @@ liofypwnko.com
 lion.kusama.network
 liondignify.com
 liongetme.com
-lioningepit.fun
 lionmail.columbia.edu
 lionquerychord.com
 lionsdesneigesmontblanc.over-blog.com
@@ -109941,6 +109939,7 @@ ns2.viviotech.production.net.daraz.com
 ns2.viviotech.security.net.daraz.com
 ns2.viviotech.static.net.daraz.com
 ns2.viviotech.uploads.net.daraz.com
+ns22.ru
 ns3.2cl.bellsouth.net.daraz.com
 ns3.adm-cl.bellsouth.net.daraz.com
 ns3.apidocscl.bellsouth.net.daraz.com
@@ -121566,6 +121565,7 @@ prototypes.ru
 prototypr.io
 protovid.com
 protraffic.com
+protrafv2.com
 protrek.jp
 protrudediscussion.com
 prottapp.com

@@ -2306,7 +2306,6 @@
 221316.com
 221400job.com
 22145.com
-2215193.b2b.liebiao.com
 2217.com
 221700.com
 2226447.b2b.liebiao.com
@@ -5676,7 +5675,6 @@
 770970.shop.m.liebiao.com
 7711.com
 771633.com
-77169.com
 77169.net
 7717wan.com
 7723.com
@@ -36432,6 +36430,7 @@ iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
 iosapps.itunes.apple.com.m.alikunlun.net.qr.uuhimalayanqm.com
 iosapps.itunes.apple.com.m.alikunlun.net.v.vvpncdn.com
 iosapps.itunes.apple.com.w.alikunlun.com
+iosapps.itunes.g.aaplimg.com
 iosappx.com
 iosfengwo.com
 ioshost.qtlcdn.com

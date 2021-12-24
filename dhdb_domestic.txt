@@ -1282,10 +1282,8 @@
 14498.com
 1451cn.com
 1458167.s1txipv6.cdntip.com
-1460146.shop.liebiao.com
 1465610.b2b.liebiao.com
 1465610.shop.liebiao.com
-1467739.b2b.liebiao.com
 1469166.b2b.liebiao.com
 1469166.shop.liebiao.com
 1473846f4246d54ff5ac91bd5d228550.dlied1.cdntips.net
@@ -10655,6 +10653,7 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cloud.yfp2p.net
@@ -26769,7 +26768,6 @@ feed.youshu.cc.w.kunlunle.com
 feedads.g.doubleclick.net
 feedback-system.webapp.163.com
 feedback.aliexpress.com
-feedback.cn.ronghub.com
 feedback.zhangle.com
 feeddsp.cn
 feedflpc.jomodns.com
@@ -47821,6 +47819,7 @@ nexttix.net
 nf.jsq.red
 nf.m.taobao.com
 nf.m.taobao.com.gds.alibabadns.com
+nfa.jd.com
 nfa.jd.com.gslb.qianxun.com
 nfc315.com
 nfcmag.com
@@ -50139,7 +50138,6 @@ paopao0.qiyipic.com
 paopao1.qiyipic.com
 paopao2.qiyipic.com
 paopao3.qiyipic.com
-paopaochina.com
 paopaox.com
 paoxq.com
 paoxue.com

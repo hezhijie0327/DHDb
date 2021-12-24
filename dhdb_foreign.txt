@@ -2430,6 +2430,7 @@
 2.biqle.ru
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
+2.centos.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.courier2-push-apple.com.akadns.net
 2.cr.rs
@@ -23874,7 +23875,6 @@ bangumi.moe
 bangumi.tv
 bangyoulater.com
 banhtv.org
-banianspaddi.info
 banicywan.com
 banik.redigy.cz
 banjuanmao.com
@@ -34879,6 +34879,7 @@ chase.com
 chasecenter.com
 chasedeposition.com
 chaserwit.top
+chashebao.com
 chat-lw-nl-02.warthunder.com
 chat-lw-nl-03.warthunder.com
 chat-test-app.firebaseio.com
@@ -40786,6 +40787,7 @@ cpaoffers.network
 cpaoi.com
 cpaprrrrrofit.com
 cpaswag.com
+cpateaser.ru
 cpatext.ru
 cpatool.net
 cpaway.com
@@ -47642,7 +47644,6 @@ dl.benefits.express-scripts.com
 dl.box.net
 dl.browsermine.com
 dl.crazyporn.xxx
-dl.delivery.mp.microsoft.com
 dl.dell.com
 dl.devmate.com
 dl.discordapp.net
@@ -85364,7 +85365,6 @@ jiuxinjinshu.com
 jiuyaoyouxi.com
 jiuys.com
 jiuzhu999.com
-jivomtuz.com
 jivosite.com
 jivox.com
 jivsfr.drogarianovaesperanca.com.br
@@ -104677,6 +104677,7 @@ msg.71.am
 msg.com
 msg.dxp.lenovo.com
 msg.ettoday.net
+msg.m.jd.com
 msg.simeji.baidu.jp
 msg.simeji.me
 msga.71.am

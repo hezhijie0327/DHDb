@@ -1887,7 +1887,6 @@
 1931354.sched.sinastatic-dk.tdnsv5.com
 1937cn.com
 193839.com
-1945138.shop.liebiao.com
 1949idc.com
 1951257.b2b.liebiao.com
 1951257.shop.liebiao.com
@@ -2221,7 +2220,6 @@
 215679.b2b.liebiao.com
 2161383.shop.liebiao.com
 2164229.shop.liebiao.com
-2166635.b2b.liebiao.com
 2167422.shop.liebiao.com
 2177169.shop.liebiao.com
 217play.com
@@ -14119,7 +14117,6 @@ brzhang.club
 bs-adaptive.pull.yximgs.com
 bs-origin.pull.yximgs.com
 bs.csshq.com.cn
-bs.forward.douban.com
 bs008.com
 bs14.9669.cn
 bs56.net
@@ -31573,6 +31570,7 @@ hcdnw.net163.gslb.c.cdnhwc1.com
 hcdnw.zjtd01.gslb.c.cdnhwc2.com
 hcdnw01.gslb.c.cdnhwc2.com
 hcdnw101.gslb.c.cdnhwc2.com
+hcdnw120.global.c.cdnhwc6.com
 hcdyhr.com
 hcgroup.com
 hch518.com

@@ -1,6 +1,7 @@
 0-132.net.daraz.com
 0-courier.push.apple.com
 0-courier2.push.apple.com
+0.cn.pool.ntp.org
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
@@ -1747,6 +1748,7 @@
 170nsb.com
 170tao.com
 17112ad5-dnsotls-ds.metric.gstatic.com
+1713023.b2b.liebiao.com
 1716dy.com
 17173yx.com
 1718001.com
@@ -15763,7 +15765,6 @@ ahsmpt.cheerz.com
 ahstrelgnh.com
 ahszgog.com
 ahtate.ru
-ahu.cc
 ahuac.com
 ahuitg.teufel.de
 ahuo5.com
@@ -27818,7 +27819,6 @@ blogpatrol.com
 blogrankers.com
 blogranking.net
 blogreaderproject.com
-blogreseller.net
 blogroll.livedoor.net
 blogs.com
 blogs.icerocket.com
@@ -31769,7 +31769,6 @@ cabet125.com
 cabet135.com
 cabet174.com
 cabet258.com
-cabet265.com
 cabet266.com
 cabet269.com
 cabet274.com
@@ -51742,7 +51741,6 @@ edacn.net
 edadeal.ru
 edah.us
 edakaj.fitvia.de
-edampeci.com
 edapp.com
 edarah.com.eg
 edavbu.vittz.co.kr
@@ -57817,6 +57815,7 @@ fevernet.com
 fewo-direkt.de
 fewrfie.com
 fexzuf.com
+feydj.com
 feyhuy.emp-shop.sk
 feyl4mh5to.com
 feyxyguwy.com
@@ -64057,7 +64056,6 @@ getyourgiftnow3.blogspot.com
 getyourguide.com
 getyourparker.com
 getyoutube.com
-geudtdngkums.com
 geuniveruls.top
 geurra.kireimo.jp
 gevnqh.com
@@ -82899,7 +82897,6 @@ ips8.com
 ipsir.net
 ipsnews.net
 ipsoa.it
-ipsoorel.com
 ipsowrite.com
 ipsur.org
 ipsw.me
@@ -99331,7 +99328,6 @@ mediafactory.jp
 mediafaze.com
 mediaffiliation.com
 mediafiles-cisco.com
-mediafilesdownload.com
 mediafire.com
 mediafire.vc
 mediafiretrend.com

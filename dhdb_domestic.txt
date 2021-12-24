@@ -1133,7 +1133,6 @@
 1253495.shop.liebiao.com
 12540.org
 1257730.b2b.liebiao.com
-1257730.shop.liebiao.com
 12580.com
 12580.net
 12580.tv
@@ -2255,7 +2254,6 @@
 21cnimg.com
 21cnjy.com
 21cnjy.net
-21cnlunwen.com
 21cos.com
 21cp.com
 21datasheet.com
@@ -50639,7 +50637,6 @@ peoplenews.eu
 peoplerail.com
 pepresource.com
 pepsico.com.cn
-perf.m.jd.com
 perf.m.jd.com.gslb.qianxun.com
 perfect-input.com
 peropero.net
@@ -51581,6 +51578,7 @@ ppcall.com
 ppcc.inter.ptqy.gitv.tv
 ppchuguan.com
 ppcn.net
+ppco.trwba.com
 ppcost.com
 ppdai.com
 ppdaicdn.com

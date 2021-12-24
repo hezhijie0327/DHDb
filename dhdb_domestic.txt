@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -1295,7 +1294,6 @@
 1478803.b2b.jinanfa.cn
 147xz.com
 148-law.com
-1481194.shop.liebiao.com
 1485396.b2b.liebiao.com
 1489092.b2b.liebiao.com
 1489469.shop.liebiao.com
@@ -2452,7 +2450,6 @@
 24183fca.qc.x.bsgslb.cn
 24183fdb.qc.x.bsgslb.cn
 2421js.com
-2425099.shop.liebiao.com
 2426c4d3d539985bced80be7fa75482e.dlied1.cdntips.net
 24415126f52baedc7d219c5f9c0f70dc.dlied1.cdntips.net
 2447754.shop.liebiao.com
@@ -2767,6 +2764,7 @@
 2yup.com
 2zhk.com
 2zimu.com
+2zm4.cn
 3.3322722.com
 3.39zuoye.com
 3.5646.cn
@@ -28837,6 +28835,7 @@ gemii.cc
 gemini-galaxy.com
 gempoll.com
 gemuedu.com
+genbaike.com
 genban.org
 gench.ncss.cn
 gench.ncss.org.cn
@@ -50625,6 +50624,7 @@ peoplenews.eu
 peoplerail.com
 pepresource.com
 pepsico.com.cn
+perf.m.jd.com
 perf.m.jd.com.gslb.qianxun.com
 perfect-input.com
 peropero.net

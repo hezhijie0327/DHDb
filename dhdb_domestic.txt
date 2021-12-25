@@ -2405,7 +2405,6 @@
 237c0801cee0004ce14b82184862cb7d.dlied1.cdntips.net
 237y.com
 238.s2txipv6.cdntip.com
-2395720.shop.liebiao.com
 2396587.shop.liebiao.com
 2398.35go.net
 2398699.shop.liebiao.com
@@ -2495,7 +2494,6 @@
 256621849725484df96496db3ae4a6b7.dlied1.cdntips.net
 256app.com
 256game.com
-2572737.b2b.liebiao.com
 25752.com
 258.com
 258288.com
@@ -22634,6 +22632,7 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
+dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -46554,6 +46553,7 @@ msdn.itellyou.cn.w.kunluncan.com
 mse.jd.com
 msearch.51job.com
 mseddl.gitee.io
+msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net

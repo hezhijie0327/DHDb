@@ -485,7 +485,6 @@
 10b1010.com
 10betcn-apitw.100b108.com
 10betcn-pushcrm.100b108.com
-10betcn-pushserver-tw.100b108.com
 10bo10001.com
 10bobetbo.com
 10hghg.com
@@ -8228,7 +8227,6 @@ api.y.igexin.com
 api.yidiansurong.com
 api.yp.com
 api.ztgm17.ru
-api02.thebigknow.com
 api1.sg8888.ws
 api17tp.apitilt.com
 api2.play.cn
@@ -9197,7 +9195,6 @@ axzlk.com
 ayabreya.xyz
 ayahtyros.com
 ayalapma.com
-ayandns.com
 ayhfnvgv.com
 ayi360.com
 ayjcysteel.com
@@ -9258,6 +9255,7 @@ azuredns-prd.info
 azuredns-prd.org
 azureedge-test.net
 azureedge.us
+azurehk2.0tk8a3a1q4t94dler.com
 azuresmartspaces.net
 azvjudwr.info
 azvozac.ru

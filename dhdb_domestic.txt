@@ -1039,7 +1039,6 @@
 120kid.com
 120kq.com
 120top.com
-1210268.b2b.liebiao.com
 1210268.shop.liebiao.com
 1210399.b2b.liebiao.com
 121121.net
@@ -2475,7 +2474,6 @@
 2509449.shop.liebiao.com
 2513390.shop.liebiao.com
 2519728.b2b.liebiao.com
-2523101.b2b.liebiao.com
 2523101.shop.liebiao.com
 2525f12e7b06a7ab99ec65298fb15c4b.dlied1.cdntips.net
 253.com
@@ -55250,6 +55248,7 @@ report.qcloud.com
 report.qcloudcdn.qq.com
 report.qqweb.qq.com
 report.samsung.japps.cn
+report.tantanapp.com
 report.taptapdada.com
 report.tga.qq.com
 report.url.cn

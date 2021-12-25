@@ -19289,7 +19289,6 @@ api.login.ops.net.zooplus.de
 api.login.staff.net.zooplus.de
 api.lwxs99.com
 api.m.afreecatv.com
-api.m.jd.com
 api.machine.net.zooplus.de
 api.macupdate.com
 api.mail.net.zooplus.de
@@ -21116,7 +21115,6 @@ asia.monerise.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
-asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -71050,6 +71048,7 @@ grf.easyhash.io
 grfgjx.duewest.ca
 grfx.mp3.com
 grfz.de
+grgits.com
 grgs.ro
 grichewoza.pro
 grid.bidswitch.net
@@ -83949,6 +83948,7 @@ iwenson.com
 iwfle5-dnsotls-ds.metric.gstatic.com
 iwgfdj.iko-yo.net
 iwin10.cc
+iwin10.net
 iwin168.net
 iwin98.com
 iwish888.com

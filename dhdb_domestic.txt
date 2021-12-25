@@ -10528,6 +10528,7 @@ apis1.ksapisrv.com
 apis2.gifshow.com
 apis2.ksapisrv.com
 apisgame.iqiyi.com
+apisnd.heytapmobi.com
 apisoft.df0535.com
 apissl.gifshow.com
 apissl.ksapisrv.com
@@ -23288,6 +23289,7 @@ doweidu.com
 dowell-health.com
 dowhere.com
 down-30005.sz.gfp.tencent-cloud.com
+down-cdn.dingtalk.com
 down-update.qq.com
 down-update.qq.com.legodlied1.sched.dcloudstc.com
 down-update.qq.com.sched.dlied1.tdnsv5.com

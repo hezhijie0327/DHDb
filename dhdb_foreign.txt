@@ -6,6 +6,7 @@
 0.gravatar.com
 0.nextyourcontent.com
 0.oldgyhogola.com
+0.openwrt.pool.ntp.org
 0.pool.ntp.org
 0.r.msn.com
 000.0x1f4b0.com
@@ -426,6 +427,7 @@
 0597zp.com
 059e025e7484.com
 05afcp.com
+05b3474b7165d3dcf149fb7333650c42.fp.measure.office.com
 05c4954c015f329c3f44a8878ef319fd.clo.footprintdns.com
 05ee3a24ed11df058c8.com
 05eg.com
@@ -746,6 +748,7 @@
 1.letvlive.com
 1.librestream.com
 1.marketing.net.zooplus.de
+1.pool.ntp.org
 1.qksapp.net
 1.salesforce-partners.com
 1.soufy.cn
@@ -2445,6 +2448,7 @@
 2.krayden.com
 2.letvlive.com
 2.net.zooplus.de
+2.openwrt.pool.ntp.org
 2.realtime.services.box.net
 2.saxenhammer-co.com
 2.speedknow.co
@@ -2599,6 +2603,7 @@
 211n.com
 211zph.com
 212121.ru
+2123b300.lp1.p.srv.nintendo.net
 21270000.com
 21270099.com
 21271166.com
@@ -3250,6 +3255,7 @@
 2990.com
 299035.com
 299299.com.au
+2993.dlads.cn
 299906.com
 299hk.com
 29ae58661b9c7178.com
@@ -3401,6 +3407,7 @@
 2q1wea3rdsf.000webhostapp.com
 2qbb.com
 2qgsjjy89k.com
+2qj7mq3w4uxe.com
 2qqfxz5kecr4.www.eldorado.gg
 2rr7y7gd2qrm.com
 2sfygwfxvsxv.info
@@ -3451,6 +3458,8 @@
 3.courier-push-apple.com.akadns.net
 3.courier2-push-apple.com.akadns.net
 3.cr.rs
+3.openwrt.pool.ntp.org
+3.pool.ntp.org
 3.szcjm.com
 3.tlu.dl.delivery.mp.microsoft.com
 30-courier.push.apple.com
@@ -3699,6 +3708,7 @@
 3332332.com
 3332358.com
 33324333.com
+3332600.com
 3332655.com
 3332839.com
 3332855.com
@@ -3817,6 +3827,7 @@
 34.courier-push-apple.com.akadns.net
 34.courier2-push-apple.com.akadns.net
 341073be6e9db7d2.com
+34130df8af26445ebaa437b8b5b2eaf4.fp.measure.office.com
 3414arzd.com
 3415677.com
 341666666.com
@@ -4087,6 +4098,7 @@
 378699.com
 3788370.com
 3788js.com
+378d1d4f2e54413c8ad68b6b48418175.fp.measure.office.com
 37955aa.com
 3796668.cc
 37a55ad8-dnsotls-ds.metric.gstatic.com
@@ -4122,6 +4134,7 @@
 38666876.com
 386w.com
 387.am
+3874c04da7c8c86e566257854fce6b2c.clo.footprintdns.com
 38777.com
 388123g.com
 388123r.com
@@ -4327,6 +4340,7 @@
 3m.com
 3m.com.au
 3m.com.sg
+3m.com.ssl.sc.omtrdc.net
 3mae.ae
 3maustria.at
 3mbelgie.be
@@ -4587,6 +4601,7 @@
 44333989.com
 4433989.com
 4436927.com
+443a16f192cd42ba9a7564675adb52c3.fp.measure.office.com
 44443885.com
 444475.com
 4444s.vip
@@ -4797,6 +4812,7 @@
 4e5f378b-dnsotls-ds.metric.gstatic.com
 4ebaytraders.com
 4ec18ea0-dnsotls-ds.metric.gstatic.com
+4eef3696db5ec43c4f61cef995f0b01b.fp.measure.office.com
 4everfeel.xyz
 4everproxy.com
 4exlkjnngs.com
@@ -5641,6 +5657,7 @@
 57fd2911f09b76.com
 57njeans.com
 57uu.com
+58.email.stripe.com
 580116.com
 5802365.com
 5807807.com
@@ -6900,6 +6917,7 @@
 78992.com
 789a42c1a33aa5.com
 789club.biz
+789club.com
 789club.org
 789clubs.club
 789gg.com
@@ -6915,6 +6933,7 @@
 78te.com
 78ten.com
 790-ssb-375.mktoresp.com
+790-ssb-375.mktoutil.com
 790092.com
 7901346.com
 7902ce648fc140d9851e609040e349f5.fp.measure.office.com
@@ -7028,6 +7047,7 @@
 7na7.com
 7naicha.com
 7nkbwdf1uq.ru
+7o3x.com
 7offers.ru
 7ou7ou.com
 7out.ru
@@ -8077,6 +8097,7 @@
 9526s7bwd0.com
 9527cha.com
 9527cloud.com
+954-ipv4e.clump.dprodmgd105.aa-rt.sharepoint.com
 9546774.com
 955.info.tm
 95520saturday.hqnpwzu.cn
@@ -8591,6 +8612,7 @@
 a-0001.a-afdentry.net.trafficmanager.net
 a-0001.a-msedge.net
 a-0001.dc-msedge.net
+a-0003.a-msedge.net
 a-0003.fbs2-a-msedge.net
 a-0014.a-msedge.net
 a-0032.a-msedge.net
@@ -8642,18 +8664,79 @@ a-tr-teasc-asse-05.southeastasia.cloudapp.azure.com
 a-tr-teasc-incn-05.centralindia.cloudapp.azure.com
 a-tr-teasc-jpwe-01.japanwest.cloudapp.azure.com
 a-tr-teasc-jpwe-02.japanwest.cloudapp.azure.com
+a-ups-presence0-prod-azsc.centralus.cloudapp.azure.com
+a-ups-presence0-prod-azsc.eastus.cloudapp.azure.com
+a-ups-presence0-prod-azsc.japanwest.cloudapp.azure.com
+a-ups-presence0-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presence1-prod-azsc.australiaeast.cloudapp.azure.com
+a-ups-presence1-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presence1-prod-azsc.japaneast.cloudapp.azure.com
+a-ups-presence1-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presence10-prod-azsc.eastus.cloudapp.azure.com
+a-ups-presence10-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presence11-prod-azsc.eastus.cloudapp.azure.com
+a-ups-presence11-prod-azsc.eastus2.cloudapp.azure.com
+a-ups-presence11-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presence12-prod-azsc.centralus.cloudapp.azure.com
+a-ups-presence12-prod-azsc.eastus.cloudapp.azure.com
+a-ups-presence12-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presence13-prod-azsc.centralus.cloudapp.azure.com
+a-ups-presence13-prod-azsc.eastus2.cloudapp.azure.com
+a-ups-presence13-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presence14-prod-azsc.eastus.cloudapp.azure.com
+a-ups-presence14-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presence14-prod-azsc.westeurope.cloudapp.azure.com
+a-ups-presence14-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presence15-prod-azsc.centralus.cloudapp.azure.com
+a-ups-presence15-prod-azsc.eastus.cloudapp.azure.com
+a-ups-presence15-prod-azsc.eastus2.cloudapp.azure.com
+a-ups-presence15-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presence16-prod-azsc.eastus2.cloudapp.azure.com
+a-ups-presence16-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presence17-prod-azsc.centralus.cloudapp.azure.com
+a-ups-presence17-prod-azsc.eastus.cloudapp.azure.com
+a-ups-presence17-prod-azsc.eastus2.cloudapp.azure.com
+a-ups-presence17-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presence18-prod-azsc.centralus.cloudapp.azure.com
+a-ups-presence18-prod-azsc.eastus.cloudapp.azure.com
+a-ups-presence18-prod-azsc.eastus2.cloudapp.azure.com
+a-ups-presence18-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presence19-prod-azsc.westeurope.cloudapp.azure.com
+a-ups-presence19-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presence2-prod-azsc.australiaeast.cloudapp.azure.com
+a-ups-presence2-prod-azsc.eastus.cloudapp.azure.com
+a-ups-presence2-prod-azsc.eastus2.cloudapp.azure.com
+a-ups-presence2-prod-azsc.japaneast.cloudapp.azure.com
+a-ups-presence2-prod-azsc.japanwest.cloudapp.azure.com
+a-ups-presence2-prod-azsc.southeastasia.cloudapp.azure.com
 a-ups-presence2-prod-azsc.westeurope.cloudapp.azure.com
+a-ups-presence2-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presence3-prod-azsc.australiaeast.cloudapp.azure.com
+a-ups-presence3-prod-azsc.centralus.cloudapp.azure.com
+a-ups-presence3-prod-azsc.eastus.cloudapp.azure.com
+a-ups-presence3-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presence3-prod-azsc.japaneast.cloudapp.azure.com
+a-ups-presence3-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presence4-prod-azsc.eastasia.cloudapp.azure.com
 a-ups-presence4-prod-azsc.japanwest.cloudapp.azure.com
+a-ups-presence4-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presence5-prod-azsc.centralus.cloudapp.azure.com
+a-ups-presence5-prod-azsc.japanwest.cloudapp.azure.com
+a-ups-presence5-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presence6-prod-azsc.eastus2.cloudapp.azure.com
+a-ups-presence6-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presence7-prod-azsc.eastus.cloudapp.azure.com
+a-ups-presence7-prod-azsc.eastus2.cloudapp.azure.com
+a-ups-presence7-prod-azsc.japanwest.cloudapp.azure.com
+a-ups-presence7-prod-azsc.southeastasia.cloudapp.azure.com
+a-ups-presence7-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presence8-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presence8-prod-azsc.eastus.cloudapp.azure.com
+a-ups-presence8-prod-azsc.japaneast.cloudapp.azure.com
+a-ups-presence8-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presence9-prod-azsc.centralus.cloudapp.azure.com
+a-ups-presence9-prod-azsc.eastus.cloudapp.azure.com
+a-ups-presence9-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore0-prod-azsc.australiaeast.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.japanwest.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.westus2.cloudapp.azure.com
@@ -8777,6 +8860,7 @@ a.global.ns.emailvision.net.daraz.com
 a.gluckysecrets.com
 a.greatcontentservice.top
 a.green-good-nice.site
+a.gtld-servers.net
 a.hellonext.co
 a.hentaimotel.com
 a.hibbett.com
@@ -8898,6 +8982,7 @@ a.rfihub.com
 a.ria.ru
 a.rohde-schwarz.com
 a.rohde-schwarz.com.cn
+a.root-servers.net
 a.run.app
 a.ruporn.me
 a.sakh.com
@@ -8933,6 +9018,7 @@ a.velvet.by
 a.veryn1ce.com
 a.vfghd.com
 a.vfgtb.com
+a.vidoomy.com
 a.visitefoz.com.br
 a.visitorqueue.com
 a.visualrevenue.com
@@ -9178,6 +9264,7 @@ a1813.cn.w.tl88.net
 a1813.dscd.akamai.net
 a1815.co.w.tl88.net
 a1818.dscg2.akamai.net
+a1818.dscg2.akamai.net.0.1.cn.akamaitech.net
 a1825.dscd.akamai.net
 a1834.dspg2.akamai.net
 a1835.g2.akamai.net
@@ -9187,13 +9274,17 @@ a1843.g1.akamai.net
 a1847.dscg2.akamai.net
 a1860.dscd.akamai.net
 a1864.gi3.akamai.net
+a1864.gi3.akamai.net.0.1.cn.akamaitech.net
 a1879.dscw14.akamai.net
+a1883.dscd.akamai.net
 a1887.dscq.akamai.net
 a1887.dscq.akamai.net.0.1.cn.akamaitech.net
 a18886.actonservice.com
+a1894.d.akamai.net
 a1897.dscd.akamai.net
 a1902.cn.w.tl88.net
 a1910.dscq.akamai.net
+a1916.dscg2.akamai.net
 a1931.dscgi3.akamai.net
 a1931.dscgi3.akamai.net.0.1.cn.akamaitech.net
 a1943.dscb.akamai.net
@@ -9204,6 +9295,7 @@ a19537.actonservice.com
 a1956.dscb.akamai.net
 a1958.b.akamai.net
 a19609.actonservice.com
+a1961.g2.akamai.net
 a19612.actonservice.com
 a1963.g2.akamai.net
 a1972.d.akamai.net
@@ -9234,6 +9326,7 @@ a22368.actonservice.com
 a22f0d8201ade09fa3.com
 a23509.actonservice.com
 a239.gi3.akamai.net
+a239.gi3.akamai.net.0.1.cn.akamaitech.net
 a2398.casalemedia.com
 a24.biz
 a24273.actonservice.com
@@ -9992,6 +10085,7 @@ aadata.april-international.com
 aadcdn.msauth.net
 aadcdn.msauthimages.net
 aadcdn.msftauth.net
+aadcdn.msftauthimages.net
 aadcdnoriginneu.azureedge.net
 aadcdnoriginwus2.afd.azureedge.net
 aaddss.tohomh.com
@@ -11602,6 +11696,7 @@ ad.thisav.com
 ad.tomshardware.com
 ad.touchwise.co.kr
 ad.turn.com
+ad.turn.com.akadns.net
 ad.tv2.no
 ad.udition.jp
 ad.unimhk.com
@@ -12063,6 +12158,7 @@ addnow.com
 addoer.com
 addons-pa.clients6.google.com
 addons.cdn.mozilla.net
+addons.cdn.mozilla.net.whecloud.com
 addons.opera.com
 addonsmash.com
 addoor.net
@@ -12244,6 +12340,7 @@ adgjl13.com
 adgk.net
 adglaze.com
 adgm.com
+adgocoo.com
 adgoi.com
 adgoji.com
 adgoogle.net
@@ -12532,6 +12629,7 @@ admaster.net
 admatcher.videostrip.com
 admatchly.com
 admatic.com.tr
+admaticcdn.b-cdn.net
 admatrix.jp
 admax.nexage.com
 admaxasia.com
@@ -13824,6 +13922,7 @@ ads.vgchartz.com
 ads.viber.com
 ads.videoadvertising.com
 ads.videosz.com
+ads.vidoomy.com
 ads.vietbao.vn
 ads.viralize.tv
 ads.virginislandsdailynews.com
@@ -13958,6 +14057,7 @@ ads25.focalink.com
 ads2ads.net
 ads2srv.com
 ads3-adnow.com
+ads3.admatic.com.tr
 ads3.contentabc.com
 ads3.freebannertrade.com
 ads3.gamecity.net
@@ -13967,6 +14067,7 @@ ads3.virtual-nights.com
 ads30.adcolony.com
 ads345.com
 ads360.com
+ads4.admatic.com.tr
 ads4.gamecity.net
 ads4.realcities.com
 ads4.virtual-nights.com
@@ -15116,6 +15217,7 @@ ae003.com
 ae062369-dnsotls-ds.metric.gstatic.com
 ae1a1e258b8b016.com
 ae1f9be8883db863499541de24b5d061.fp.measure.office.com
+ae6a0aaac8071ff4b.awsglobalaccelerator.com
 ae888.com
 ae888i.com
 ae8de5-dnsotls-ds.metric.gstatic.com
@@ -15653,6 +15755,7 @@ agmbet.com
 agmtrk.com
 agndmn.com
 agnesb.fr
+agnezanna.com
 agni3.xyz
 agnitio.com.ar
 agoda.com
@@ -16272,6 +16375,7 @@ akamai.co.kr
 akamai.com
 akamai.secure.force.com
 akamai.smartadserver.com
+akamaicdn.webex.com
 akamaietpcnctest.com
 akamaietpcompromisedcnctest.com
 akamaietpcompromisedmalwaretest.com
@@ -16418,6 +16522,7 @@ albshuckcute.com
 albtest.applovin.com
 albumdownloadfree.com
 albumedix.com
+albworld.relay.teams.microsoft.com
 alcaidloggers.com
 alcamiinteractive.com
 alcampo.es
@@ -17055,6 +17160,7 @@ alpinepowersystems.com
 alpiniste.fr
 alpixtrack.com
 alpla.info
+alps.cdn.nintendo.net
 alqp14.com
 alqp160.com
 alqp181.com
@@ -17219,6 +17325,7 @@ amadeus.com
 amads.xyz
 amae.zjcapital.cn
 amaguiz.com
+amajorinryes.com
 amakings.com
 amalan.com
 amalily.com
@@ -17615,6 +17722,7 @@ ams-aase-2-hos-apigateway-1-1.cloudapp.net
 ams-efz.ms-acdc.office.com
 ams-krct-1-hos-apigateway-1-1.cloudapp.net
 ams-mvp.trafficmanager.net
+ams-pageview-public.s3.amazonaws.com
 ams-usea-1-hos-apigateway-1-1.cloudapp.net
 ams.lenovomm.com
 ams.ux-dev.com.my
@@ -17789,6 +17897,7 @@ analytics.aasaam.com
 analytics.aba.com
 analytics.academy.com
 analytics.acgnx.net
+analytics.acgnx.se
 analytics.adam.page
 analytics.adamstoner.com
 analytics.adfreetime.com
@@ -18095,6 +18204,7 @@ analytics.robinhood.com
 analytics.rogersmedia.com
 analytics.rotapost.ru
 analytics.rover.io
+analytics.sakuragawa.moe
 analytics.salesanalytics.io
 analytics.samdd.me
 analytics.samsungknox.com
@@ -18163,6 +18273,7 @@ analytics.tbs.com
 analytics.tcbs.com.vn
 analytics.tcm.com
 analytics.teamcovenant.com
+analytics.tebilisim.com
 analytics.teespring.com
 analytics.teko.vn
 analytics.teleclal.com
@@ -18331,6 +18442,7 @@ andhj.com
 andi-techno.blogspot.hk
 andibringto.biz
 andinista.cl
+andinterpers.com
 andipublisher.com
 andlache.com
 andmejs.com
@@ -18478,6 +18590,7 @@ anhuiyl.com
 ani-com.net
 anibis.ch
 anidb-cdnus.anidb.net
+anidb-prod.anidb.net
 anidb.net
 anidex.info
 anidex.moe
@@ -19205,6 +19318,7 @@ api.duoben.net
 api.duoduomh.1a3.net
 api.e-cg.cn
 api.ebspriv.net.zooplus.de
+api.ec.nintendo.com
 api.effie.co
 api.elliehuxtable.com
 api.epicgames.dev
@@ -19279,6 +19393,7 @@ api.kube-priv.net.zooplus.de
 api.kubectl.net.zooplus.de
 api.lab.amplitude.com
 api.leclerc
+api.levelaccess.net
 api.limbik.com
 api.linkz.net
 api.livechatinc.com
@@ -19296,6 +19411,7 @@ api.macupdate.com
 api.mail.net.zooplus.de
 api.mapbox.com
 api.market.login.net.zooplus.de
+api.media.atlassian.com
 api.mediarithmics.com
 api.mediation.amberweather.com
 api.meomiao.us
@@ -19377,6 +19493,7 @@ api.reproio.com
 api.resetadmins.net.zooplus.de
 api.resets.net.zooplus.de
 api.retargetly.com
+api.revenuecat.com
 api.reviews.co.uk
 api.rnet.plus
 api.rpcadmins.net.zooplus.de
@@ -19472,6 +19589,7 @@ api16-access-sg.pangle.io
 api2.amplitude.com
 api2.branch.io
 api2.dealmoon.com
+api2.fonts.com
 api2.mairuan.com
 api2.origin.com
 api2.papermobi.com
@@ -19519,6 +19637,7 @@ apimail.net.zooplus.es
 apin.monerise.com
 apinas.nct.vn
 apionloadmedia.com
+apiproxy-website-nlb-prod-2-e98cb8cf33ff3581.elb.us-west-2.amazonaws.com
 apipub.oumma.com
 apis.appnxt.net
 apis.google.com
@@ -19638,12 +19757,21 @@ apous.com
 apozh.com
 app-1541815294.000webhostapp.com
 app-a01.lp1.npns.srv.nintendo.net
+app-a02.lp1.npns.srv.nintendo.net
+app-a03.lp1.npns.srv.nintendo.net
+app-a04.lp1.npns.srv.nintendo.net
+app-a05.lp1.npns.srv.nintendo.net
 app-ab33.marketo.com
 app-ab37.marketo.com
 app-abm.marketo.com
 app-adforce.jp
 app-analytics-ru.huami.com
 app-analytics-v2.snapchat.com
+app-b01.lp1.npns.srv.nintendo.net
+app-b02.lp1.npns.srv.nintendo.net
+app-b03.lp1.npns.srv.nintendo.net
+app-b04.lp1.npns.srv.nintendo.net
+app-b05.lp1.npns.srv.nintendo.net
 app-cdn.minepi.com
 app-cheats.net
 app-clicks-corporate.firstrepublic.com
@@ -19712,6 +19840,7 @@ app.getresponse.com
 app.go.bge.com
 app.gopsusports.com
 app.hatchbuck.com
+app.hoppier.com
 app.hstatic.net
 app.hubspot.com
 app.hytdsm.com
@@ -19753,8 +19882,10 @@ app.shopeneo.network
 app.shoptarget.com.br
 app.simplenote.com
 app.smartmailcloud.com
+app.smartsheet.com
 app.staging.nuorder.com
 app.stex.com
+app.tabnine.com
 app.texasperformingarts.org
 app.thomsonreuters.com
 app.titsx.com
@@ -20045,6 +20176,7 @@ appleid.com
 appleid.hamburg
 appleid.idms-apple.com.akadns.net
 appleimac.com
+appleinc.webex.com
 appleinsider.com
 appleiphone.hu
 appleiphone.net
@@ -20214,6 +20346,7 @@ appointments-online.com
 appointments.providence.org
 appollo-plus.com
 appollo.jp
+appoptimize-drcn.dbankcdn.80800000.globalsign.c.cdnhwc1.cn
 apporchid.com
 apportium.com
 apppartner.net.daraz.com
@@ -20234,6 +20367,7 @@ apps-spring.net.daraz.com
 apps-ssl.net.zooplus.fr
 apps-web-store.net
 apps-www.net.daraz.com
+apps.accounts.nintendo.com
 apps.apple.com
 apps.bazaarvoice.com
 apps.box.com
@@ -20612,6 +20746,7 @@ arialcnp.fr
 ariane.abtasty.com
 arianelab.com
 ariang.hezhijie0327.workers.dev
+ariang.js.org
 ariang.mayswind.net
 ariase.org
 ariasystems.com
@@ -20891,6 +21026,7 @@ arysta-na.com
 arz.at
 arzon.com
 as-ansar.com
+as-eb2.3lift.com
 as-farm.com
 as-hp.ca
 as-sec.casalemedia.com
@@ -20946,6 +21082,7 @@ as5000.com
 as5205.com
 as62wl63346.rest
 asa-hermes.gameloft.com
+asaba.sakuragawa.moe
 asacdn.com
 asacolhd.com
 asacp.org
@@ -21224,6 +21361,7 @@ askynz.net
 aslaironer.com
 aslaprason.com
 aslbeauty.byethost7.com
+asm-api-golocal-geo-am-teams.trafficmanager.net
 asm-api-prod-version-skype.trafficmanager.net
 asm.com.ar
 asmarterwindow.com
@@ -21361,6 +21499,7 @@ assets.net.zooplus.fr
 assets.netizen.co
 assets.newsmaxwidget.com
 assets.nflxext.com
+assets.nintendo.com
 assets.onestore.ms
 assets.onestore.ms.akadns.net
 assets.oomz.de
@@ -21378,6 +21517,7 @@ assets.tester.net.zooplus.com
 assets.train-mgmt.net.zooplus.de
 assets.ubuntu.com
 assets.vcs.net
+assets.vercel.com
 assets.vlitag.com
 assets.volvocars.com
 assets.website-files.com
@@ -21389,6 +21529,7 @@ assets1.exgfnetwork.com
 assets1.freshdesk.com
 assets1.unidays.world
 assets10.freshdesk.com
+assets3.freshdesk.com
 assets4.freshdesk.com
 assets5.freshdesk.com
 assets6.freshdesk.com
@@ -21804,6 +21945,8 @@ attwirelessinternet.com
 attwirelessonline.com
 attwirelesssolutions.com
 attyou.com
+atum-4ff.hac.lp1.d4c.nintendo.net
+atum-eda.hac.lp1.d4c.nintendo.net
 atum.hac.lp1.d4c.nintendo.net
 atumn.hac.lp1.d4c.nintendo.net
 atv-ext.amazon.com
@@ -21951,6 +22094,7 @@ aufp.io
 aufsafari.de
 augheguw.net
 augloop-prod-001.southeastasia.cloudapp.azure.com
+augloop-prod-pc00.japaneast.cloudapp.azure.com
 augloop-prod.trafficmanager.net
 augloop.office.com
 augmentation.osi.office.net
@@ -22011,6 +22155,7 @@ auriro.net
 aurjueeh.com
 aurora-d3.herokuapp.com
 aurora-pro.com
+aurora-raws.com
 auroracheats.com
 auroramine.com
 aurorapush.cn
@@ -23015,9 +23160,14 @@ b-tr-teams-krso-02.koreasouth.cloudapp.azure.com
 b-tr-teasc-asse-04.southeastasia.cloudapp.azure.com
 b-tr-teasc-asse-05.southeastasia.cloudapp.azure.com
 b-tr-teasc-asse-06.southeastasia.cloudapp.azure.com
+b-tr-teasc-jpwe-02.japanwest.cloudapp.azure.com
 b-tyc.internet7.vip
+b-ups-presence0-prod.eastus2.cloudapp.azure.com
+b-ups-presence1-prod.westus2.cloudapp.azure.com
 b-ups-presence4-prod.eastus2.cloudapp.azure.com
+b-ups-presence5-prod.eastus2.cloudapp.azure.com
 b-ups-presence6-prod.westus2.cloudapp.azure.com
+b-ups-presence8-prod.westus2.cloudapp.azure.com
 b-ups-presence9-prod.westus2.cloudapp.azure.com
 b.6sc.co
 b.a0trade.top
@@ -23068,6 +23218,7 @@ b.gemini.yahoo.com
 b.global-ssl.fastly.net
 b.gnavi.co.jp
 b.grabo.bg
+b.gtld-servers.net
 b.hatena.ne.jp
 b.hkfuy.com
 b.hoob.us
@@ -23155,6 +23306,7 @@ b.publicmobile.ca
 b.recwwcc5.info
 b.regionns.emailvision.net.daraz.com
 b.rmgserving.com
+b.root-servers.net
 b.rwjf.org
 b.scorecardresearch.com
 b.snow.com
@@ -23170,6 +23322,7 @@ b.wal.co
 b.xcafe.com
 b.xp0f4cj.cn
 b.your.offers.dominos.com
+b0.yahoo.co.jp
 b00kmedia.ru
 b014381c95cb.com
 b02byun5xc3s.com
@@ -23756,6 +23909,7 @@ balloontexture.com
 ballotpedia.org
 ballotwriggle.com
 ballsack.org
+balltv.cc
 ballymoregroup.actonservice.com
 ballymoregroup.com
 balmoralmkt.com
@@ -23851,6 +24005,7 @@ banfivmind.com
 banfourmind.com
 banfubbs.com
 banfzw.cn
+bang-dream.com
 bang5mai.com
 bangbros.com
 bangbrosfreetrial.com
@@ -24319,6 +24474,7 @@ bash-hackers.org
 basheighthnumerous.com
 bashnya.ru
 bashtel.ru
+bashuku.com
 basic-enroll.ccs.mcafee.com
 basic.bravedns.com
 basicapp.online
@@ -24353,6 +24509,7 @@ bassett.org
 basspro.com
 bastengao.com
 bastillepost.com
+bastingestival.com
 bastropfirestone.com
 basuey.toyscenter.it
 bat-bing-com.a-0001.a-msedge.net
@@ -24623,6 +24780,7 @@ bbs.brockbbs.com
 bbs.cantonese.asia
 bbs.cdbook.org
 bbs.comefromchina.com
+bbs.cxthhhhh.com
 bbs.dmhy.org
 bbs.ecstart.com
 bbs.fallenark.com
@@ -24727,6 +24885,7 @@ bcash4you.com
 bcat-data-lp1.cdn.nintendo.net
 bcat-list-lp1.cdn.nintendo.net
 bcat-topics-lp1.cdn.nintendo.net
+bcat-web-lp1.cdn.nintendo.net
 bcautoencheres.fr
 bcb80.com
 bcbay.com
@@ -24816,6 +24975,7 @@ bd-film.com
 bd.apps.zing.vn
 bd.dk
 bd01.daqiso.com
+bd02cdfbf26563ead3a0062e89e42e84.fp.measure.office.com
 bd1617dbbc28f.com
 bd2020.com
 bd295.com
@@ -26293,6 +26453,7 @@ biallo2.de
 biallo3.de
 bianca.com
 bianhao6.com
+bianjiqi.net
 bianlei.com
 biantailajiao.com
 bianzhifu.com
@@ -26655,6 +26816,7 @@ bindinginflict.com
 bindle.io
 bindmillionairenaturalists.com
 bine.me
+bing-ciservice-prod2.cloudapp.net
 bing.cn
 bing.com
 bing.net
@@ -26665,6 +26827,7 @@ bingagencyawards.com
 bingapistatistics.com
 bingbingyy.com
 bingdong700.com
+bingedu.azureedge.net
 bingfeng.tw
 bingj.com
 binglingtech.com
@@ -27556,16 +27719,39 @@ blnjw.com
 blob.bn3prdstr10a.store.core.windows.net
 blob.bn3prdstr11a.store.core.windows.net
 blob.bn4prdstr03a.store.core.windows.net
+blob.bn6prdstr04a.store.core.windows.net
 blob.bn7prdstr01a.store.core.windows.net
+blob.bn7prdstr03a.store.core.windows.net
+blob.bn9prdstr08a.store.core.windows.net
+blob.bn9prdstr12a.store.core.windows.net
+blob.bnz10prdstr03a.store.core.windows.net
+blob.bnz10prdstr18a.store.core.windows.net
+blob.bnz10prdstr19a.store.core.windows.net
+blob.bnz13prdstr04a.store.core.windows.net
+blob.bnz13prdstr09a.store.core.windows.net
+blob.bnz13prdstr10a.store.core.windows.net
 blob.bnz13prdstr11a.store.core.windows.net
 blob.bnz13prdstr14a.store.core.windows.net
 blob.bnz14prdstr11a.store.core.windows.net
 blob.byaprdstr10a.store.core.windows.net
+blob.bz6prdstr05a.store.core.windows.net
+blob.bz7prdstr10a.store.core.windows.net
+blob.dm2prdstr04a.store.core.windows.net
+blob.dm2prdstr05a.store.core.windows.net
 blob.dm5prdstr14a.store.core.windows.net
+blob.dm5prdstr17a.store.core.windows.net
+blob.dsm06prdstr03a.store.core.windows.net
+blob.dsm06prdstr04a.store.core.windows.net
+blob.dsm06prdstr08a.store.core.windows.net
+blob.dsm07prdstr09a.store.core.windows.net
+blob.dsm07prdstr10a.store.core.windows.net
 blob.dsm08prdstr01a.store.core.windows.net
 blob.dsm08prdstr02a.store.core.windows.net
+blob.dsm08prdstr13a.store.core.windows.net
 blob.dsm08prdstr14a.store.core.windows.net
+blob.dsz04prdstr04a.store.core.windows.net
 blob.dsz08prdstr08a.store.core.windows.net
+blob.dz6prdstr03a.store.core.windows.net
 blob.dz6prdstr05a.store.core.windows.net
 blob.dz6prdstr08a.store.core.windows.net
 blob.mnz20prdstr08a.store.core.windows.net
@@ -27696,6 +27882,7 @@ blog.ntsdtt.bid
 blog.onahole.eu
 blog.orph.eu
 blog.ouou.eu
+blog.paldier.com
 blog.path.com
 blog.pathtosharepoint.com
 blog.pentalogic.net
@@ -28858,6 +29045,7 @@ boen.com
 boerding.com
 boerse-online.de
 boerse.ard.de
+boertemc.com
 boeschbodenspies.com
 boettiger.cl
 boetwu.com
@@ -29592,6 +29780,7 @@ brandpoint.com
 brandreachsys.com
 brands.cambrio.com
 brands.coxauto.co.uk
+brands.home-assistant.io
 brands.lookfantastic.com
 brands.nucleigroup.com
 brandsafway.com
@@ -30432,6 +30621,7 @@ bugtracker.meerai.io
 bugumanhua.com
 bugutime.com
 bugwz.com
+bugyo.hac.lp1.eshop.nintendo.net
 bugzilla.mozilla.org
 bugzilla.org
 buhajeruk.com.ar
@@ -31336,6 +31526,7 @@ c.go-mpulse.net
 c.gr.msn.com
 c.greystripe.com
 c.grimuar.ru
+c.gtld-servers.net
 c.gumgum.com
 c.hit.ua
 c.hk.msn.com
@@ -31453,6 +31644,7 @@ c.ns.uploadsemailvision.net.daraz.com
 c.ns.v-emailvision.net.daraz.com
 c.ns.vpn-emailvision.net.daraz.com
 c.ns.web-emailvision.net.daraz.com
+c.office.com
 c.oracleinfinity.io
 c.oumaite168.com.cn
 c.panqishu.com
@@ -31468,6 +31660,7 @@ c.pt.msn.com
 c.pub.network
 c.reset.ns.emailvision.net.daraz.com
 c.rhapsody.com
+c.root-servers.net
 c.ru.msn.com
 c.s-microsoft.com
 c.se.msn.com
@@ -31553,6 +31746,7 @@ c16cp358.com
 c1e86f3506cfe05a6738ea6893ff7e.duckdns.org
 c1exchange.com
 c1hit.tut.by
+c1i.su
 c1neon.com
 c2.flnet.org
 c2.info.tm
@@ -32226,6 +32420,7 @@ campxanh.info
 camrecord.com
 cams.com
 cams.enjoy.be
+cams.imagetwist.com
 cams.imgtaxi.com
 cams.org.sg
 cams.spacash.com
@@ -32414,6 +32609,7 @@ cantv.net
 canuckmethod.com
 canukiss.me
 canva.com
+canvas-cdn-prod.azureedge.net
 canvasflip.com
 canvasopedia.org
 canvassblanketjar.com
@@ -32801,6 +32997,7 @@ carsoug.com
 carsoup.com
 carstagram.com
 carswellmedia.thomsonreuterscanada.ca
+cart.liquidweb.com
 cart.matsuzaka-steak.com
 cart8draw.com
 cartecarburant.leclerc
@@ -33214,6 +33411,7 @@ cbfoot.com
 cbhhomes.com
 cbibhbghgdjbbageabd.ru
 cbili.com
+cbjpeg.stream.highwebmedia.com
 cbjs.ciwei.in
 cbjzw.org
 cbks0.googleapis.com
@@ -33261,6 +33459,7 @@ cbtpzx.pazar3.mk
 cbuacategic.xyz
 cbviho.easyvols.fr
 cbvjddh.23txt.com
+cbxsw.com
 cby.me
 cc-api-behance.adobe.io
 cc-api-data.adobe.io
@@ -33278,6 +33477,7 @@ cc-jpea-06-skype.cloudapp.net
 cc-jpea-08-skype.cloudapp.net
 cc-jpea-09-skype.cloudapp.net
 cc-jpwe-06-skype.cloudapp.net
+cc-jpwe-07-skype.cloudapp.net
 cc-jpwe-08-skype.cloudapp.net
 cc-krce-05-skype.cloudapp.net
 cc-krce-06-skype.cloudapp.net
@@ -33575,6 +33775,7 @@ cdn-creatives-akamai-prd.unityads.unity3d.com
 cdn-creatives-highwinds-prd.unityads.unity3d.com
 cdn-creatives-prd.unityads.unity3d.com
 cdn-dynamic.optimonk.com
+cdn-eu.anidb.net
 cdn-fastly.obsproject.com
 cdn-ffc.oobesaas.adobe.com
 cdn-files-live.gop3.nl
@@ -33623,6 +33824,7 @@ cdn.5bong.com
 cdn.88-f.net
 cdn.8digits.com
 cdn.91p07.com
+cdn.accounts.nintendo.com
 cdn.actiflex.org
 cdn.ad.citynews.it
 cdn.ad.plus
@@ -33633,6 +33835,7 @@ cdn.adclerks.com
 cdn.adguard.com
 cdn.adikteev.com
 cdn.adk2.com
+cdn.admatic.com.tr
 cdn.adnxs.com
 cdn.ads.fotoable.net
 cdn.ads.jlscds.com
@@ -33653,6 +33856,7 @@ cdn.altitudeplatform.com
 cdn.amigovios.com
 cdn.amplitude.com
 cdn.amzuu.com
+cdn.animenewsnetwork.com
 cdn.appconsent.io
 cdn.apple-mapkit.com
 cdn.apple.com.c.footprint.net
@@ -33719,6 +33923,7 @@ cdn.debitcrebit669.com
 cdn.designbyhumans.com
 cdn.devmate.com
 cdn.digicertcdn.com
+cdn.digitaladopt.webex.com
 cdn.digitalpush.org
 cdn.discordapp.com
 cdn.districtm.io
@@ -33738,6 +33943,7 @@ cdn.epommarket.com
 cdn.fastclick.net
 cdn.fedsy.xyz
 cdn.flashtalking.com
+cdn.forms.office.net
 cdn.frankerfacez.com
 cdn.freefarcy.com
 cdn.freehonor.com
@@ -33779,6 +33985,8 @@ cdn.kik.com
 cdn.kingstone.com.tw
 cdn.klasseo.com
 cdn.krxd.net
+cdn.leafletjs.com
+cdn.levelaccess.net
 cdn.line-apps.com
 cdn.live
 cdn.livechatinc.com
@@ -33846,6 +34054,7 @@ cdn.polyfill.io
 cdn.popcash.net
 cdn.popmyads.com
 cdn.preciso.net
+cdn.pricespider.com
 cdn.printfriendly.com
 cdn.propellerads.com
 cdn.pushalert.co
@@ -33874,8 +34083,10 @@ cdn.sendpulse.com
 cdn.serif.com
 cdn.setapp.com
 cdn.shopify.com
+cdn.sift.com
 cdn.simpli.fi
 cdn.smartclick.io
+cdn.smartnews-ads.com
 cdn.smoot.apple.com
 cdn.smoot.g.aaplimg.com
 cdn.sp.rizhao9.com
@@ -33893,6 +34104,7 @@ cdn.steambets.net
 cdn.steepto.com
 cdn.streamelements.com
 cdn.stripst.com
+cdn.strpst.com
 cdn.subscribers.com
 cdn.subscribers.com.cdn.cloudflare.net
 cdn.support.services.microsoft.com
@@ -33916,6 +34128,7 @@ cdn.trackclicks.info
 cdn.trafficexchangelist.com
 cdn.trafficforce.com
 cdn.tranquilli.org
+cdn.treasuredata.com
 cdn.truendo.com
 cdn.tubecorp.com
 cdn.turn.com
@@ -33927,6 +34140,7 @@ cdn.userdatatrust.com
 cdn.v2ex.com
 cdn.videonow.ru
 cdn.viglink.com
+cdn.visa.com
 cdn.vlyby.com
 cdn.vuukle.com
 cdn.wadawada-stop-report-us.com
@@ -33944,6 +34158,7 @@ cdn.yanews24.com
 cdn.yottaa.com
 cdn.yottos.com
 cdn.youracclaim.com
+cdn.zimperium.com
 cdn0.capterra-static.com
 cdn03.boxcdn.net
 cdn03.boxcdn.net.cdn.cloudflare.net
@@ -34221,6 +34436,7 @@ ceehimur.uk
 ceespc.biz
 cef.jkocname.com
 cefqjn.stol-i-stul.com.ua
+ceh3.com
 cehappear.fun
 cehbf.com
 cehbg.com
@@ -34919,6 +35135,7 @@ chaturbate.com
 chaturbatetokenhack.org
 chatw-22.stream.highwebmedia.com
 chatw-4.stream.highwebmedia.com
+chatw-42.stream.highwebmedia.com
 chaudevoisine.com
 chauksoa.net
 chaumsee.net
@@ -35192,6 +35409,7 @@ cheng.pet
 chengadx.com
 chengaib.net
 chengailvsuo.com
+chengbanren02.com
 chengder.com
 chengdulvshi.net
 chengfeilong.com
@@ -35640,6 +35858,7 @@ chinitnam.com
 chinman.net
 chinmedia.vn
 chinmen.cyh.org.tw
+chinoismoras.com
 chinookcu.com
 chinookfinancial.com
 chinsnakes.com
@@ -35693,6 +35912,7 @@ chnwsdyglobalwealthandreinforcementagenc.duckdns.org
 cho7932105co3l2ate3covere53d.com
 choanabethump.com
 chobit.cc
+chobsang.net
 chocalanwines.com
 chocohjuanfhdhf.com
 chocola.com
@@ -35765,6 +35985,7 @@ chrischou.jollybuy.com
 chrismac.org
 chrisshort.net
 christensenusa.com
+christian-kohler.gallerycdn.vsassets.io
 christian.lifeway.com
 christianblogsites.com
 christianbro.pw
@@ -37023,6 +37244,7 @@ client-api.arkoselabs.com
 client-api.itunes.apple.com
 client-api.itunes.apple.com.edgesuite.net
 client-applications.net.daraz.com
+client-error-log-962704628.us-east-1.elb.amazonaws.com
 client-log.box.com
 client-logs.warthunder.com
 client-mgmt.net.zooplus.de
@@ -38157,6 +38379,7 @@ cocomordan.com
 cocomy.net
 coconala.com
 coconuts.boy.jp
+coconutsumptuousreseptivereseptive.com
 cocoon.ro
 cocooncenter.be
 cocooncenter.com
@@ -38198,6 +38421,7 @@ code.giraff.io
 code.hot-mob.com
 code.jquery.com
 code.kinofactor.ru
+code.nintendo.com
 code.org
 code.randomhouse.com
 code.sh
@@ -38283,6 +38507,7 @@ codepunk.io
 codepush.azurewebsites.net
 codepush.blob.core.windows.net
 codepush.teams.microsoft.com
+codepushupdates.azureedge.net
 coder.si
 coder4.com
 coderbee.net
@@ -38336,6 +38561,7 @@ codingdojo.com
 codingmilitia.com
 codon.vn
 codota-dataplane.rudderstack.com
+codotarealtime-dataplane.rudderstack.com
 cody.services
 codyhatfield.me
 coe.int
@@ -38638,6 +38864,7 @@ colorado-photo.com
 colorado.edu
 coloradoan.com
 coloradosprings.com
+colorful-pastrale.com
 colorfulafterthought.com
 colorfulnotebooks.com
 colorlines.com
@@ -38790,6 +39017,8 @@ comline.ru
 comlu.com
 comm-news.com
 comm-works.com
+comm.acgnx.se
+comm.res.easebar.com
 comm.sababasecurity.com
 comm.toro.com
 comm2.jeld-wen.com
@@ -38921,12 +39150,14 @@ communispond.com
 communistcrimes.org
 communities-lb.apple.com.akadns.net
 communities.apple.com
+community-assets.home-assistant.io
 community.akamai.steamstatic.com
 community.bcpp.org
 community.box.com
 community.cloudflare.steamstatic.com
 community.firecore.com
 community.foodforsoul.it
+community.home-assistant.io
 community.hpe.com
 community.monerise.com
 community.newcastle.edu.au
@@ -39176,6 +39407,7 @@ confidencegames.com
 confidentialcures.com
 confidethirstyfrightful.com
 config-api.internet.apps.samsung.com
+config-chr.health.apple.com
 config-ltvp.inmobi.com
 config.88-f.net
 config.edge.skype.com
@@ -39241,6 +39473,7 @@ connaissancesfinancierespratiques.ca
 connatix.com
 connct-9.com
 connead.net
+connect-dre.hispace.hicloud.com
 connect-in-canada.com
 connect-link.com
 connect-metrics-collector.s-onetag.com
@@ -39823,6 +40056,7 @@ contextuads.com
 contextual.media.net
 contextweb.com
 contigoentufarmacia.com
+contile.services.mozilla.com
 contineljs.com
 continue.com
 continuedhostilityequipped.com
@@ -40128,6 +40362,8 @@ copd-aktuell.de
 copercato.com
 coperledsinhe.info
 copesa.cl
+copilot-proxy.githubusercontent.com
+copilot-proxy.trafficmanager.net
 copinesdevoyage.com
 coplanar.cl
 coppel.com
@@ -40652,6 +40888,7 @@ courier-ab-vs.push-apple.com.akadns.net
 courier-ab-vs.push.apple.com
 courier-journal.com
 courier-push-apple.com.akadns.net
+courier-service.oraclecloud.com
 couriermail.com.au
 courierpostonline.com
 courierpress.com
@@ -40746,6 +40983,7 @@ cp24.com
 cp2srvng.xyz
 cp3.gg137.com
 cp3511.com
+cp4.cloudflare.com
 cp455.com
 cp501.prod.do.dsp.mp.microsoft.com
 cp52-4.trixbox.com
@@ -41296,6 +41534,7 @@ crl.digicert-cn.com
 crl.globalsign.com
 crl.globalsign.net
 crl.identrust.com
+crl.microsoft.com
 crl.quovadisglobal.com
 crl.thawte.com
 crl.trust-provider.com
@@ -41406,6 +41645,7 @@ crservicos.com.br
 crsystems.it
 crt.comodoca.com
 crt.livejasmin.com
+crt.sectigo.com
 crt.usertrust.com
 crta.dailymail.co.uk
 crta.metro.co.uk
@@ -41545,6 +41785,7 @@ cs.emxdgt.com
 cs.ffbtas.com
 cs.gssprt.jp
 cs.hot.net.il
+cs.krushmedia.com
 cs.lkqd.net
 cs.media.net
 cs.nakanohito.jp
@@ -41580,6 +41821,7 @@ cs108.com
 cs1100.wpc.omegacdn.net
 cs1227.wpc.alphacdn.net
 cs12d.com
+cs1404.wpc.epsiloncdn.net
 cs148.com
 cs154.com
 cs154.wac.edgecastcdn.net
@@ -41613,6 +41855,7 @@ cs586.com
 cs6.net.daraz.com
 cs612.adn.sigmacdn.net
 cs689.com
+cs767.wpc.epsiloncdn.net
 cs77111.com
 cs780.com
 cs796.wpc.kappacdn.net
@@ -41620,6 +41863,7 @@ cs848.com
 cs897.com
 cs9.wac.phicdn.net
 cs9.wpc.v0cdn.net
+cs95619.wpc.psicdn.net
 cs968.com
 cs983.com
 cs99666.com

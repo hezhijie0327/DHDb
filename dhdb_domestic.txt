@@ -658,6 +658,7 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
+1.asia.pool.ntp.org
 1.bh5.com.cn
 1.ccutu.com
 1.cjcp.cn
@@ -1899,7 +1900,6 @@
 1951257.b2b.liebiao.com
 1951257.shop.liebiao.com
 1955212.b2b.jinanfa.cn
-1956064.shop.liebiao.com
 195663.com
 1956917.s2txipv6.cdntip.com
 1956917.sched.skalego-dk.tdnsv5.com
@@ -2423,7 +2423,6 @@
 2374597.p23.tc.cdntip.com
 2374947.shop.liebiao.com
 2376613.b2b.liebiao.com
-2376613.shop.liebiao.com
 2378425.b2b.liebiao.com
 2378425.shop.liebiao.com
 237c0801cee0004ce14b82184862cb7d.dlied1.cdntips.net
@@ -22864,6 +22863,7 @@ dispatcher.camera360.com
 dispatcher.is.autonavi.com
 dispatcher.is.autonavi.com.gds.alibabadns.com
 dispatcher.upmc.uc.cn
+display.360totalsecurity.com
 display.adhudong.com
 displink.com
 ditan360.com
@@ -36760,6 +36760,7 @@ info10.com
 info110.com
 info35.com
 info4.video.qq.com
+infobbs.xyz
 infobidding.com
 infobigdata.com
 infoc0.duba.net
@@ -39809,7 +39810,6 @@ juhemulu.com
 juheweb.com
 juheying.com
 juhome.net
-juhuasuan.com
 juhuisuan.com
 jui.org
 juicefs.com

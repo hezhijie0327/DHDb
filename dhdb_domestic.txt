@@ -19324,6 +19324,7 @@ coral2.uc.cn
 core-ucloud.tantanapp.com
 core.bilivideo.com
 core.cloud.unity.cn
+core.tantanapp.com
 corebai.com
 corebug.adsame.com
 coreldrawchina.com
@@ -23917,6 +23918,7 @@ duai.com
 dualaid.com
 dualstack-a.apilocate.amap.com
 dualstack-adiu.amap.com
+dualstack-arestapi.amap.com
 dualstack-cgicol.amap.com
 dualstack-logs.amap.com
 dualstack-mps.amap.com.gds.alibabadns.com
@@ -47105,7 +47107,6 @@ mytokenpocket.vip
 mytv365.com
 mytvbt.com
 mytvgame.com
-myuall.com
 myubbs.com
 myuclass.com
 myujob.com

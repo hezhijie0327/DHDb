@@ -2175,7 +2175,6 @@
 2029.cc
 202wan.com
 2033f23e8070d152c94a3a07e9e1e014.dlied1.cdntips.net
-2037362.shop.liebiao.com
 2042587.b2b.liebiao.com
 2045480.s1txipv6.cdntip.com
 2045480.sched.sma-dk.tdnsv5.com
@@ -3310,7 +3309,6 @@
 3aazb.com
 3ad01dfa4.sched.d0.tdnsv5.com
 3aok.com
-3ary.com
 3avox.com
 3b1e47821bce2e6eb197fda6b958c68b.dlied1.cdntips.net
 3b340d7ed623c3b6e76cb52f694ce4da.safeframe.googlesyndication.com
@@ -14428,6 +14426,7 @@ bucojji.cn
 bucuo100.com
 budao.com
 budao24.com
+buddhajnana.org
 buddhalikedoge.com
 budejie.com
 budongnvren.com
@@ -18655,6 +18654,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -32866,7 +32866,6 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
-hk.linkedin.com
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site

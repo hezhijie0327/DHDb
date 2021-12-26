@@ -2305,7 +2305,6 @@
 21znw.com
 22.jiangzi.com
 22.jiangzi.com.cname3039.yjs-cdn.com
-2203704.b2b.liebiao.com
 2209988.shop.liebiao.com
 221316.com
 221400job.com
@@ -10596,6 +10595,7 @@ apicase.io
 apicdn.face.pptv.com
 apicloud.com
 apiconfig.adwo.com
+apidd.yxtun.com
 apidns.kwd.inkuai.com
 apiems.58.com
 apifw.mathpool.cn
@@ -16078,7 +16078,6 @@ cdnweixin.haoduoke.cn
 cdnws.api.huya.com
 cdnx.newvfx.com
 cdooc.com
-cdp.cloud.unity3d.com
 cdqcnt.com
 cdqcp.com
 cdqph.com
@@ -25797,7 +25796,6 @@ elife.icbc.com.cn
 elikeme.com
 elikeme.net
 elitecrm.com
-elkpi.com
 ellechina.com
 ellemen.com
 ellll.com
@@ -29500,7 +29498,6 @@ ghgy.net
 ghlearning.com
 ghmba.com
 ghmcchina.com
-ghmp4.com
 ghost64.com
 ghostchina.com
 ghostsf.com
@@ -34049,7 +34046,6 @@ hudong.jstv.com
 hudong.pl.youku.com
 hudongad.com
 hudongba.com
-hudongcdn.com
 hudongku.net
 hudunsoft.com
 huduntech.com
@@ -37783,6 +37779,7 @@ izhangheng.com
 izhaohe.com
 izhaowo.com
 izhenxin.com
+izheteng.com
 izhihuicheng.net
 izhihuo.com
 izhikang.com

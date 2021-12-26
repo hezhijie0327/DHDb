@@ -1229,7 +1229,6 @@
 1360.com
 136136.com
 13636.com
-1363801.shop.liebiao.com
 1366358.b2b.liebiao.com
 1368832400079045.cn-hangzhou.fc.aliyuncs.com
 1369400.shop.liebiao.com
@@ -18659,7 +18658,6 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -45563,6 +45561,7 @@ mcarding.com
 mcaredown.3g.qq.com
 mcbang.com
 mcbbs.net
+mcbrother.com
 mccaee.com
 mcchina.com
 mccontacts.mail.163.com

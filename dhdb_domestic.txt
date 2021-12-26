@@ -1898,7 +1898,6 @@
 193839.com
 1949idc.com
 1951257.b2b.liebiao.com
-1951257.shop.liebiao.com
 1955212.b2b.jinanfa.cn
 195663.com
 1956917.s2txipv6.cdntip.com
@@ -16097,6 +16096,7 @@ cdnweixin.haoduoke.cn
 cdnws.api.huya.com
 cdnx.newvfx.com
 cdooc.com
+cdp.cloud.unity3d.com
 cdqcnt.com
 cdqcp.com
 cdqph.com
@@ -33416,7 +33416,6 @@ hostker.com
 hostkvm.com
 hostproph.com
 hostxen.com
-hostyun.com
 hot.m.shouji.360tpcdn.com
 hotchat-im.iqiyi.com
 hotdb.com
@@ -46933,7 +46932,6 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
-mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com

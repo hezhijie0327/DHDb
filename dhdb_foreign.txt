@@ -1097,6 +1097,7 @@
 118760000.com
 11880.com
 1188560.b2b.liebiao.com
+1188560.shop.liebiao.com
 118888vip.com
 118cha.com
 118study.com
@@ -23368,6 +23369,7 @@ b18a21ab3c9cb53.com
 b1cd5d33-dnsotls-ds.metric.gstatic.com
 b1f6fe5e3f0c3c8ba6.com
 b1fb813dc806b7d.com
+b1fe8a95ae27823.com
 b1g1w7wic0.com
 b1img.com
 b1js.com
@@ -31720,7 +31722,6 @@ c0c.xyz
 c0cc.com
 c0cd2idcl5.com
 c0i.ckoi.com
-c0metome.com
 c0p.cepsum.umontreal.ca
 c0z.xyz
 c1-odc-15.cdn.office.net
@@ -113813,7 +113814,6 @@ opt8.co
 optad360.io
 optad360.mgr.consensu.org
 optadata.de
-optaim.com
 optanedifference.com
 optanon.blob.core.windows.net
 optcorp.com
@@ -118682,6 +118682,7 @@ pix-cdn.org
 pix.adrta.com
 pix.airbusgroup.com
 pix.eads.com
+pix.impdesk.com
 pix.lendingtree.com
 pix.nbcuni.com
 pix.pub

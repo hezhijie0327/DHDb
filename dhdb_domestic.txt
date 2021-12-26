@@ -8750,7 +8750,6 @@ agile-china.com
 agileex.com
 agilehw.online
 agiso-static.oss-cn-zhangjiakou.aliyuncs.com
-agiso.com
 agjy6.com
 agks5cwh.v1d.szbdyd.com
 agks5dao.v1d.szbdyd.com
@@ -17925,6 +17924,7 @@ cjyun.org
 cjyyw.com
 cjzkw.com
 cjzx.sspu.edu.cn
+cjzzc.com
 ck.houyi.baofeng.net
 ck.kejet.net
 ck100.com
@@ -29437,6 +29437,7 @@ ggdoc.com
 ggemo.com
 ggeye.com
 ggfycufmnscyemidsgj7mgqgmoyd9k29.alicloudwaf.com
+ggg.cool
 gggo.xmbhj.com
 ggic.cmvideo.cn
 ggica.miguvideo.com
@@ -50282,6 +50283,7 @@ otbs.ctc.ximalaya.com
 otcgd.com
 otcms.com
 otczg.com
+otechsolution.com
 oth.bls.mdt.qq.com
 oth.eve.mdt.qq.com
 oth.str.beacon.qq.com

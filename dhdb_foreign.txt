@@ -1762,6 +1762,7 @@
 170tao.com
 17112ad5-dnsotls-ds.metric.gstatic.com
 1713023.b2b.liebiao.com
+1713023.shop.liebiao.com
 1716dy.com
 17173yx.com
 1718001.com
@@ -18821,7 +18822,6 @@ anti-ad.net
 anti-adblock.herokuapp.com
 anti-asianviolenceresources.carrd.co
 anti-cheat.info
-anti-coco.top
 anti-gfw.com
 anti-gfw.org
 anti.anti.cnn.googlepages.com
@@ -23372,7 +23372,6 @@ b1cd5d33-dnsotls-ds.metric.gstatic.com
 b1f6fe5e3f0c3c8ba6.com
 b1fb813dc806b7d.com
 b1fe8a95ae27823.com
-b1g1w7wic0.com
 b1img.com
 b1js.com
 b1n.carabins.umontreal.ca
@@ -41896,7 +41895,6 @@ csdc3333.com
 csdc5.com
 csdc555.com
 csdc5555.com
-csdc7777.com
 csdeals.pro
 csdh.com
 csdisco.com
@@ -50743,6 +50741,7 @@ e.sjuqc.com
 e.synchronybank.com
 e.szqifu.com
 e.t28.net
+e.tdtsd.com
 e.ted.com
 e.tw.cx
 e.uccs.edu
@@ -95563,6 +95562,7 @@ m.qmlcdlo.cn
 m.qualifytring.com
 m.quanxiaoshuo.org
 m.quanxs.net
+m.qusub.com
 m.romgv.com
 m.root-servers.net
 m.rrmeiju.com
@@ -105103,6 +105103,7 @@ ms.dacf.cn
 ms.fringe81.com
 ms.ienkdaccessible.cn
 ms.informaengage.com
+ms.jr.jd.com
 ms.topschooljobs.org
 ms1.ingenious.cloud
 ms115.com
@@ -106797,7 +106798,6 @@ nalntn.elektroshopwagner.de
 nalook.com
 nalpathamkalam.com
 naltis.com
-naluone-av.com
 naluone.net
 nam.loki.delve.office.com
 nam02.safelinks.protection.outlook.com

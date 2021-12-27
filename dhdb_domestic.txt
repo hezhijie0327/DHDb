@@ -1028,7 +1028,6 @@
 11ziyun.com
 12.cookcai.com
 120.net
-1200528.shop.liebiao.com
 1201258.b2b.liebiao.com
 1205066.b2b.liebiao.com
 1206397.sched.s1k.tdnsv5.com
@@ -5980,7 +5979,6 @@
 8.jrj.com.cn
 8.pic.pc6.com
 800020308.com
-8003605.com
 800400.net
 800820.net
 8008202191.com
@@ -21832,6 +21830,7 @@ dcwj168.com
 dcxnews.com
 dczou.com
 dd-advisor.com
+dd-search.jd.com
 dd-search.jd.com.gslb.qianxun.com
 dd-static.jd.com
 dd.iask.cn
@@ -36033,6 +36032,7 @@ img-tx-ugcimg.douyucdn2.cn
 img-vip-ssl.a.88cdn.com
 img-vip-ssl.a.88cdn.com.w.kunlungr.com
 img-x.jd.com
+img-x.jd.com.gslb.qianxun.com
 img-ys011.didistatic.com
 img.0279.net
 img.0bp.top

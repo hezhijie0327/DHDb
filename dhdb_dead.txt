@@ -4366,6 +4366,7 @@ a-ups-presencecore3-prod-azsc.southeastasia.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.eastus2.cloudapp.azure.com
+a-ups-presencecore4-prod-azsc.japaneast.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.southeastasia.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.eastus2.cloudapp.azure.com
@@ -5780,7 +5781,6 @@ adpro.cn
 adprs.net
 adpush.cn
 adpush.dreamscape.com
-adq.nextag.com
 adquantix.com
 adquest3d.com
 adr.realclick.co.kr
@@ -21404,7 +21404,6 @@ emu.ilovemp3.top
 emu999.net
 emui.com
 emulatorxboxone.com
-emule-ed2k.com
 emw919.com
 emyrs-eg.lehmergroup.com
 en.btc-trader-app.club
@@ -29870,6 +29869,7 @@ imrworldwide.com
 imserv001.adtech.us
 imserv002.adtech.us
 imserv003.adtech.us
+imserv004.adtech.us
 imserv005.adtech.us
 imserv006.adtech.us
 imserv00x.adtech.us

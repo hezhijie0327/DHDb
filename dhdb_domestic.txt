@@ -5454,7 +5454,6 @@
 7-wx.com
 7.iscrv.com
 7.pic.pc6.com
-700935.shop.m.liebiao.com
 700bike.com
 700so.com
 700store.com
@@ -10335,6 +10334,7 @@ api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -11406,6 +11406,7 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
+au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com

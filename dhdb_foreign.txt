@@ -1481,6 +1481,7 @@
 146e.com
 1471025.shop.liebiao.com
 1471030.com
+1477637.b2b.liebiao.com
 147xiaoshuo.com
 147xs.com
 147xs.org
@@ -8758,7 +8759,6 @@ a-ups-presencecore11-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.australiaeast.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.japaneast.cloudapp.azure.com
-a-ups-presencecore4-prod-azsc.japaneast.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore9-prod-azsc.eastus.cloudapp.azure.com
@@ -13141,6 +13141,7 @@ adpstatic.com
 adpublisher.s3.amazonaws.com
 adpush.goforandroid.com
 adpushup.com
+adq.nextag.com
 adqic.com
 adquality.ch
 adquota.com
@@ -53572,6 +53573,7 @@ emulatebio.com
 emulateur3ds.com
 emulation64.com
 emulatordb.com
+emule-ed2k.com
 emule-project.org
 emulefans.com
 emuparadise.me
@@ -79625,7 +79627,6 @@ imserv001.adtech.fr
 imserv002.adtech.fr
 imserv003.adtech.fr
 imserv004.adtech.fr
-imserv004.adtech.us
 imserv005.adtech.fr
 imserv006.adtech.fr
 imserv00x.adtech.fr

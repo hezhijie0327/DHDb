@@ -2949,7 +2949,6 @@
 34abf444ceaa441355d09360.mdbook.cn
 34c1cd94f152a18230ee597063399b69.v.smtcdns.net
 34gdcv.tdum.alibaba.com
-34l.com
 34wl.com
 350.com
 350.net
@@ -9543,6 +9542,7 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
+all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all163-dxospf.split.netease.com
 all163-ltospf.split.netease.com
@@ -14970,6 +14970,7 @@ ca39.com
 ca712.com
 ca764519.sched.s2-dk.tdnsv5.com
 ca7706.com
+ca7799.com
 ca77d8615eccf0101e8ba9d27b2d4f2c.v.smtcdns.net
 ca800.com
 caaa-spacechina.com
@@ -53708,6 +53709,7 @@ qcplay.com
 qcq3.com
 qcql.com
 qcr.cc
+qcrx.cn
 qcsdn.com
 qcsh.h5yunban.com
 qcsj.com
@@ -57831,7 +57833,6 @@ scs-hcdn.iqiyi.com
 scs-hcdn.ptqy.gitv.tv
 scs.openspeech.cn
 scscms.com
-scsdns.com
 scsdzxh.org
 scsjnxh.org
 scsstjt.com

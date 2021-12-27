@@ -1183,7 +1183,6 @@
 13023.url.7wkw.com
 1303299.p23.tc.cdntip.com
 1304353772.vod2.myqcloud.com
-1306833.b2b.liebiao.com
 1313311.shop.liebiao.com
 131377.com
 1314520sz.com
@@ -1781,7 +1780,6 @@
 17xxl.com
 17ya.com
 17yaoqu.com
-17yc.com
 17ym.org
 17you.com
 17yucai.com
@@ -40336,6 +40334,7 @@ kaihui.com
 kaihuia.com
 kaiji.ts.2345.com
 kaijia.com
+kaijiaweishi.com
 kaikeba.com
 kaili.baixing.com
 kailing.pub
@@ -44572,7 +44571,6 @@ m.ithome.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
-m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jdcdn.com
 m.jf.10010.com
@@ -48681,6 +48679,7 @@ nhon38wu.sched.d0.tdnsv5.com
 nhsoft-mercury.oss-cn-hangzhou.aliyuncs.com
 nhsoft-mercury.oss-cn-hangzhou.aliyuncs.com.gds.alibabadns.com
 nhsoft.cn
+nhstu.com
 nhygkj.com
 nhz.adwo.com
 nhzedu.com

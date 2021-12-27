@@ -1300,7 +1300,6 @@
 14xd.com
 15.au.download.windowsupdate.com
 15.tlu.dl.delivery.mp.microsoft.com
-150075.com
 1502828.com
 1503.net
 1503708.b2b.jinanfa.cn
@@ -6197,7 +6196,6 @@
 861817.com
 861e41247bec0b954167a8d33f950ff9.dlied1.cdntips.net
 86215.com
-863my.com
 864bbdfae6014bd3019e9260.mdbook.cn
 86516.com
 865211.com
@@ -22989,7 +22987,6 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
-dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -36934,7 +36931,6 @@ internal-amis-res.cdn.bcebos.com
 internal-api-security.feishu.cn
 internal-api-space.feishu.cn
 internal-api.feishu.cn
-internationalbrand.net
 internbird.com
 internetke.com
 internettrademark.com
@@ -40749,6 +40745,7 @@ kfqrc.com
 kfw001.com
 kfweo2.com
 kfwimg.kafan.cn
+kfxxgc.com
 kfyao.com
 kfzimg.com
 kgb-ifs.tanx.com
@@ -44326,6 +44323,7 @@ lygmedia.com
 lygou.cc
 lygrffw.com
 lygsyyijia.com
+lyhdream.com
 lyhero.com
 lyhuadu.com
 lyjinqiao.com
@@ -46219,6 +46217,7 @@ mibokids.com
 mibook-10006092.cos.myqcloud.com
 mibugs.com
 mic-s.com
+mic.ububyiw6655.xyz
 micai.com
 micaiying.com
 micardapi.micloud.xiaomi.net

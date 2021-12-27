@@ -2479,7 +2479,6 @@
 2523101.shop.liebiao.com
 2525f12e7b06a7ab99ec65298fb15c4b.dlied1.cdntips.net
 253.com
-2531134.shop.liebiao.com
 2532426.b2b.liebiao.com
 2532426.shop.liebiao.com
 2538509.b2b.liebiao.com
@@ -2528,7 +2527,6 @@
 260396.s2.cdntip.com
 2605253.b2b.liebiao.com
 2613445.b2b.liebiao.com
-2613445.shop.liebiao.com
 263.com
 263.net
 263em.com
@@ -5770,7 +5768,6 @@
 79432.com
 7958.net
 796067.shop.m.liebiao.com
-7979la.com
 7979u.com
 797sun.com
 798092.com
@@ -10337,7 +10334,6 @@ api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -15081,7 +15077,6 @@ caihongtang.com
 caij100.com
 caijing.com.cn
 caijing123.com
-caijing28.com
 caijingmen.com
 caijingmobile.com
 caijingwu.com
@@ -35578,6 +35573,7 @@ ihitui.com
 ihjiu.com
 ihomefnt.com
 ihomesoft.net
+ihoms.com
 ihongma.com
 ihongpan.com
 ihotel.meituan.com
@@ -51668,7 +51664,6 @@ php-oa.com
 php.cn
 php06.com
 php168.com
-php2.cc
 php318.com
 phpad.cqnews.net
 phpbbchina.com

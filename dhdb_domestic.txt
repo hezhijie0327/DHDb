@@ -1121,7 +1121,6 @@
 123slg.com
 123u.com
 123webgame.com
-1246889.b2b.liebiao.com
 125.la
 1251044.b2b.liebiao.com
 1251337138.cdn.myqcloud.com
@@ -5679,7 +5678,6 @@
 76y.com
 76zu.com
 770921.com
-770970.shop.m.liebiao.com
 7711.com
 771633.com
 77169.net
@@ -28780,7 +28778,6 @@ game9g.com
 gameabc.com
 gameact.qq.com
 gameanalytics.com
-gameath.com
 gamebar.com
 gamebean.com
 gamebean.net
@@ -33730,6 +33727,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.ocloud.heytapmobi.com
 httpdns.push.oppomobile.com
 https-play-g3proxy.lecloud.com
 https.eol.cn

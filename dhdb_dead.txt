@@ -1734,6 +1734,7 @@
 34134c1528b3dd40a3a24b177fd26b853b770b7c2d1c40cb.dlied1.cdntips.net
 343480.com
 345down.com
+345k.com
 345ok.net
 3464.com
 34667c8ece5.com
@@ -11304,6 +11305,7 @@ bmwchampionshipusa.com
 bmwworld.net
 bmwworld.tv
 bmxg.xyz
+bn.kino-go.co
 bn016.com
 bn1.homefot.ru
 bn2-ris-ap-prod-atm.trafficmanager.net
@@ -38602,6 +38604,7 @@ mobileads.msn.com
 mobileanalytics.us-east-2.amazonaws.com
 mobileanalytics.us-west-1.amazonaws.com
 mobileanalytics.us-west-2.amazonaws.com
+mobileap-bgp.ctrip.com.cnc.oy.ctripgslb.com
 mobileapptracking.com
 mobilebrowsing.net
 mobileeventad-hamivideo.cdn.hinet.net
@@ -38654,7 +38657,6 @@ modelegating.com
 modengfei.com
 modern-deco.jp
 modern.tenpay.com
-modernhacks.net
 modgirtspod.work
 modifiedgames.net
 modifytimezone.net

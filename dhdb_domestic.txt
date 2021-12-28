@@ -2174,7 +2174,6 @@
 2078827.b2b.liebiao.com
 2080793.shop.liebiao.com
 2086607.sched.sma-dk.tdnsv5.com
-2092616.b2b.liebiao.com
 2092710.s2.cdntip.com
 2092710.sched.skalego.tdnsv5.com
 2093865.p23.tc.cdntip.com
@@ -6873,7 +6872,6 @@
 95195.com
 95303.com
 95306.cn
-953534.shop.m.liebiao.com
 9536299.slego.tcloudscdn.com
 953a61383037a8304748e5270853e42f.dlied1.cdntips.net
 95408.com
@@ -10882,7 +10880,6 @@ applinzi.com
 applk.cn
 applog.camera360.com
 applog.ddxq.mobi
-applog.matrix.netease.com
 applog.reader.qq.com
 applog.uc.cn
 applog.ucdns.uc.cn

@@ -180,6 +180,7 @@
 01net.com
 01tao.com
 01tingshu.com
+01ue.com
 01wb.com
 02-all-seed-gc-us-03.cdn.gaijin.net
 02-all-seed-gc-us-04.cdn.gaijin.net
@@ -93879,6 +93880,7 @@ log.anninhthudo.vn
 log.api.zaloapp.com
 log.apk.v-mate.mobi
 log.appdriver.jp
+log.avlyun.com
 log.avlyun.sec.intl.miui.com
 log.baodatviet.vn
 log.baodauthau.vn
@@ -96683,7 +96685,6 @@ mail.prentvorur.is
 mail.preview.net.zooplus.it
 mail.priv.net.zooplus.nl
 mail.prod.net.zooplus.fr
-mail.quattra-p.nl
 mail.r-oa-2.net.daraz.com
 mail.radar.imgsmail.ru
 mail.realliferpg.de

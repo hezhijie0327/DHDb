@@ -1121,7 +1121,6 @@
 1251337138.cdn.myqcloud.com
 1251413404.vod2.myqcloud.com
 1252747.b2b.liebiao.com
-1252747.shop.liebiao.com
 12530.com
 1253495.shop.liebiao.com
 12540.org
@@ -1314,7 +1313,6 @@
 155idc.com
 156.n.168810.cn
 1573699.b2b.liebiao.com
-157732.shop.liebiao.com
 1586f.com
 1588.tv
 15880.com
@@ -10813,7 +10811,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com

@@ -10263,6 +10263,7 @@ api.biliapi.net
 api.bilibili.com
 api.biligame.com
 api.bs.zui.com
+api.btstu.cn
 api.bz
 api.callget.cn
 api.che168.com
@@ -16015,6 +16016,7 @@ cdnfile2.msstatic.com
 cdnfile2.msstatic.com.w.kunlunhuf.com
 cdnfileimg.115.com
 cdngslb.com
+cdnhwc1.com
 cdnhwc2.com
 cdnhwc3.com
 cdnimg.115.com
@@ -47997,6 +47999,7 @@ n.mark.letv.com
 n.sinaimg.cn
 n.ssp.qq.com
 n.vlion.cn
+n.yfi8.com
 n.yunshipei.com
 n0.sinaimg.cn
 n0808.com

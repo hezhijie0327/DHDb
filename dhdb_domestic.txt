@@ -2485,7 +2485,6 @@
 25z.cn
 260396.s2.cdntip.com
 2605253.b2b.liebiao.com
-2613445.b2b.liebiao.com
 263.com
 263.net
 263em.com
@@ -22046,6 +22045,7 @@ deqinglaw.com
 derekchou.com
 derenbs.com
 derwer.com
+desc.gome.com.cn
 desc.gome.com.cn.cdn20.com
 descnew.taobao.com
 desdev.cn
@@ -22960,6 +22960,7 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
+dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -30467,6 +30468,7 @@ gucunpark.net
 gudaovision.com
 gudi.suning.com
 gudianhr.com
+guduopu.com
 guer.org
 guess.mediav.com
 guess.tf.360.cn
@@ -50088,6 +50090,7 @@ ops.wedobest.com.cn
 opskb.com
 opsnote.com
 opstool.com
+optaim.com
 optbbs.com
 opticsjournal.net
 optimix.asia
@@ -55739,6 +55742,7 @@ qzs.qzone.qq.com
 qzs.tc.qq.com
 qzshangwu.com
 qzwb.com
+qzxiangxiangkeji.com
 qzxx.com
 qzyiming.cn
 qzze.com

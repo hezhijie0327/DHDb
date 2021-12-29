@@ -2148,7 +2148,6 @@
 2029.cc
 202wan.com
 2033f23e8070d152c94a3a07e9e1e014.dlied1.cdntips.net
-2042587.b2b.liebiao.com
 2045480.s1txipv6.cdntip.com
 2045480.sched.sma-dk.tdnsv5.com
 2048sj.com
@@ -10294,6 +10293,7 @@ api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -48589,7 +48589,6 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
-nex.163.com
 nexiao.com
 next.api.aliyun.com
 next.itellyou.cn
@@ -56571,7 +56570,6 @@ rms.shop.jd.com.gslb.qianxun.com
 rmsfilling-drcn.platform.hicloud.com
 rmsznet.com
 rmttjkw.com
-rmtx.ra.icast.cn
 rmtxpv.ra.icast.cn
 rmw.jdburl.com
 rmwdn.com

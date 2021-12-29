@@ -6420,6 +6420,7 @@ adserv.qconline.com
 adserv.usps.com
 adserv001.adtech.us
 adserv002.adtech.us
+adserv003.adtech.us
 adserv004.adtech.us
 adserv005.adtech.us
 adserv006.adtech.us
@@ -15306,7 +15307,6 @@ congzhi.com
 conmklopc.sytes.net
 conn23.ddns.me
 connect.datafiletechnologies.com
-connect.mdtelephone.com
 connect.summit.co.uk
 connectingcloud.bid
 connection36.com
@@ -15439,7 +15439,6 @@ coquines-webcam.com
 coralsec.com
 corba.adtech.us
 core.adservingfactory.com
-core.bruynzeelkeukens.nl
 corechina.net
 coreml.net
 corewebdesignexperts.com
@@ -15969,6 +15968,7 @@ csdc2222.com
 csdc33.com
 csdc44.com
 csdc4444.com
+csdc5555.com
 csdc7777.com
 csdc8888.com
 csdc999.com
@@ -22239,6 +22239,7 @@ f3b.work
 f3f1317bda.com
 f3fea4450e3b.xzccie.com
 f3ffd7d159c4ae76d9e95df25f875f0d.jddebug.com
+f3rs4np1c5.site
 f4.p0y.com
 f43ffc31e1.com
 f45ff72fec5426ae.com
@@ -32582,6 +32583,7 @@ kaolafm.net
 kaolazhengxin.com
 kaollpuhcfl.com
 kaopubao.net
+kaoqin.com
 kaoshi110.net
 kaoshib.com
 kaoshibaike.com
@@ -46278,6 +46280,7 @@ report.mobile.kukuplay.com
 report.qq.com
 report.sp.miui.com
 report4you.com.au
+reporter.adtech.us
 reporting.flymonarch.com
 reporting.vneconomy.vn
 reports.crashlytics.com

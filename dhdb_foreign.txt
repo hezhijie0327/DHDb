@@ -1,7 +1,6 @@
 0-132.net.daraz.com
 0-courier.push.apple.com
 0-courier2.push.apple.com
-0.cn.pool.ntp.org
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
@@ -6815,6 +6814,7 @@
 7700xj.com
 7701534.emails.tntdrama.com
 7708hd.com
+770970.shop.m.liebiao.com
 771058.cc
 77119159.com
 7713gsefc0.com
@@ -14224,7 +14224,6 @@ adserv.postbulletin.com
 adserv001.adtech.fr
 adserv002.adtech.fr
 adserv003.adtech.fr
-adserv003.adtech.us
 adserv004.adtech.fr
 adserv005.adtech.fr
 adserv006.adtech.fr
@@ -36163,7 +36162,6 @@ chuandaizc.com
 chuang-yen.org
 chuangchangnet.com
 chuangcn.org
-chuangfeixin.com
 chuangke18.com
 chuangmijishu.xyz
 chuangshileather.com
@@ -39642,6 +39640,7 @@ connect.lightriver.com
 connect.marybaldwin.edu
 connect.mastercard-emailb2b.com
 connect.mchdata.com
+connect.mdtelephone.com
 connect.medical.rossu.edu
 connect.mikrocentrum.nl
 connect.munsonhealthcare.org
@@ -40524,6 +40523,7 @@ core-sys.spankbang.com
 core.ad20.net
 core.arc.io
 core.bdec.microsoft.com
+core.bruynzeelkeukens.nl
 core.gcp.vip.tantanapp.com
 core.opentext.com
 core.royalads.net
@@ -41998,7 +41998,6 @@ csdc2.com
 csdc3333.com
 csdc5.com
 csdc555.com
-csdc5555.com
 csdeals.pro
 csdh.com
 csdisco.com
@@ -56575,7 +56574,6 @@ f3555.com
 f368.com
 f37555.com
 f37c88082f894b318447253879366eaf.fp.measure.office.com
-f3rs4np1c5.site
 f4.flnet.org
 f4.info.tm
 f4.shared.global.fastly.net
@@ -87914,7 +87912,6 @@ kaola.com.hk
 kaolayy.com
 kaonavi.jp
 kaopuwangzhuan.com
-kaoqin.com
 kaotic.com
 kaoyan.org
 kaoyangaofen.com
@@ -90990,6 +90987,7 @@ layherna.com
 layl.app
 layoutfill.com
 layshyjar.com
+layyi.com
 laz-g-cdn.alicdn.com
 lazada-sg-2.payment.net.daraz.com
 lazada.co.id
@@ -127862,7 +127860,6 @@ report02.adtech.fr
 report02.adtech.us
 report2.biz
 reporter.adtech.fr
-reporter.adtech.us
 reporter.bz
 reporter001.adtech.fr
 reporter001.adtech.us

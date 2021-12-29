@@ -10719,7 +10719,6 @@ app.gmugmu.com
 app.gsxt.gov.cn
 app.hnzycfc.com
 app.houyi.baofeng.net
-app.icast.cn
 app.ingame.qq.com
 app.jiuzhilan.com
 app.juwang.com
@@ -51171,7 +51170,6 @@ passportapi.115.com
 passporthera.ximalaya.com
 passportws.ximalaya.com
 passwordkeyboard.com
-pat-edu.org
 patachina.org
 patch.ali213.net
 patch.ikuai8.com

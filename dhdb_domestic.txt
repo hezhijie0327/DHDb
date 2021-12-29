@@ -15960,6 +15960,7 @@ cdn2.jianshu.io
 cdn2.jianshu.io.a.bdydns.com
 cdn2.moji002.com
 cdn20.info
+cdn207img.115.com
 cdn210img.115.com
 cdn3-new.xkspbz.com
 cdn3.icast.cn
@@ -33458,7 +33459,6 @@ hqbuycdn.com
 hqc-china.com
 hqcanyin.com
 hqchip.com
-hqck.net
 hqcqz2.cn
 hqcr.com
 hqdlsn.com
@@ -48587,7 +48587,6 @@ newume.com
 newvector.map.baidu.com
 newvfx.com
 newxing.com
-newxitong.com
 newxmp.rcv.sandai.net
 newxue.com
 newyx.net

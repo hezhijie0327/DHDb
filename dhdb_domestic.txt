@@ -657,6 +657,7 @@
 1.92caijing.com
 1.aili.com
 1.ajiyuming.com
+1.asia.pool.ntp.org
 1.bh5.com.cn
 1.ccutu.com
 1.cjcp.cn
@@ -10293,7 +10294,6 @@ api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -14318,7 +14318,6 @@ btcb.com
 btcbbs.com
 btcha.com
 btcsearch.com
-btcsos.com
 btfan.com
 btfile.sdo.com
 btgame01.com
@@ -38126,6 +38125,7 @@ jfinfo.com
 jfm4.pop.baofeng.net
 jfqkj.com
 jfrogchina.com
+jfshare.com
 jfsm5.top
 jfstatic.com
 jfuwu.com
@@ -46886,7 +46886,6 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
-mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com
@@ -56074,7 +56073,6 @@ recycle366.com
 redatoms.com
 redcome.com
 redcross-hx.com
-redcross-sha.org
 reddot-api.gclick.cn
 redeem.lizhi.io
 redefine.ltd
@@ -56726,7 +56724,6 @@ rq.upgrade.drivergenius.com
 rq.wh.cmcm.com
 rqd.ias.tencent-cloud.net
 rqi17.com
-rqjhhg.cn
 rqjrb.com
 rr-sc.com
 rr.knet.cn
@@ -57877,7 +57874,6 @@ sd.iqilu.com
 sd.jumei.com
 sd.qunliao.info
 sd.sina.com.cn
-sd.taptap.com
 sd.youshu.cc
 sd11185.com
 sd173.com

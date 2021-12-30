@@ -9495,6 +9495,7 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
+all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all163-dxospf.split.netease.com
 all163-ltospf.split.netease.com
@@ -10345,6 +10346,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -20683,7 +20685,6 @@ d.url.cn
 d.url.cn.tc.qq.com
 d.url.cn.yyblego-dk.sched.dcloudstc.com
 d.webterren.com
-d.xingshangnet.com
 d.youth.cn
 d.youth.cn.wswebcdn.com
 d.yoyi.tv
@@ -28732,7 +28733,6 @@ game900.com
 game9g.com
 gameabc.com
 gameact.qq.com
-gameanalytics.com
 gamebar.com
 gamebean.com
 gamebean.net

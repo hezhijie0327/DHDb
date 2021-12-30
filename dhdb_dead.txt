@@ -4352,6 +4352,7 @@ a-redirect.com
 a-resolver.com
 a-scrip.org
 a-staticwebedia.com
+a-ups-presencecore0-prod-azsc.australiaeast.cloudapp.azure.com
 a-ups-presencecore0-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore0-prod-azsc.southeastasia.cloudapp.azure.com
 a-ups-presencecore0-prod-azsc.westus2.cloudapp.azure.com
@@ -14217,6 +14218,7 @@ citepucevasuxuqesu.ga
 cithingy.info
 citireklam.com
 citizenscommission.hk
+citizensradio.org
 citroen-ipsos.com
 citrus.carapax.net
 citrusad.net
@@ -32318,7 +32320,6 @@ jxrencai.com
 jxrhjcb.biz
 jxrjzx.com
 jxsgfzx.com
-jxsgxzx.com
 jxsllw.com
 jxss88.mobi
 jxsxb.com
@@ -38691,6 +38692,7 @@ modverka.ru
 moe.im
 moe123.org
 moe2.ga
+moejn.com
 moemiao.net
 moepan-my.sharepoint.cn
 moess.cc
@@ -39683,6 +39685,7 @@ n.tzh019.cn
 n.tzh315.cn
 n.vipadvert.net
 n.wjr1x.cn
+n.yyhanyu.cn
 n01d05.cumulus-cloud.com
 n02.unternehmen.com
 n1219adserv.xyz

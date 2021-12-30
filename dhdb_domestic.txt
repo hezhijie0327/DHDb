@@ -1215,7 +1215,6 @@
 13636.com
 1366358.b2b.liebiao.com
 1368832400079045.cn-hangzhou.fc.aliyuncs.com
-1369400.shop.liebiao.com
 136hr.com
 1370575.b2b.liebiao.com
 13707.net
@@ -8103,7 +8102,6 @@ ad.pt.doubleclick.net
 ad.qingting.fm
 ad.qn.img-space.com
 ad.qq.com
-ad.qun.qq.com
 ad.quwin.cn
 ad.qvb.qcloud.com
 ad.qyer.com
@@ -15966,6 +15964,7 @@ cdndm5.com
 cdndm5.net
 cdndo.com
 cdndownload.liehu.ijinshan.com
+cdnet-dn.gw.samsungapps.com
 cdnet110.com
 cdnetworks.cedexis-test.com
 cdnfhn05.115.com
@@ -21926,7 +21925,6 @@ decisionhub-drcn.emui.dbankcloud.com
 decode-mob-app.le.com
 decq7q2.cachenode.cn
 dede168.com
-dede58.com
 dedecms.com
 dedecms51.com
 dededao.com
@@ -31035,7 +31033,6 @@ h1.static.yximgs.com.cdntip.com
 h1.static.yximgs.com.sched.s1k.tdnsv5.com
 h10.hxsame.hexun.com
 h2.appsimg.com
-h2.res.icast.cn
 h2.static.yximgs.com
 h2.static.yximgs.com.w.alikunlun.com
 h2.static.yximgs.com.w.alikunlun.com.qr.uuhimalayanqm.com
@@ -49661,7 +49658,6 @@ oldapi.dftoutiao.com
 oldapi.zhuge.com
 oldboyedu.com
 oldcp.com
-oldenland.com
 oldpan.me
 oldtang.com
 oldwww.bjmu.edu.cn

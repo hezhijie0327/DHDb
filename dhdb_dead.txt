@@ -5270,6 +5270,7 @@ ad.proxy.sh
 ad.putenbrust.net
 ad.pxlad.io
 ad.qtcs.com.vn
+ad.qun.qq.com
 ad.qwapi.com
 ad.rambler.ru
 ad.rbbtoday.com
@@ -6188,7 +6189,6 @@ ads.seriouswheels.com
 ads.shoutfile.com
 ads.sify.com
 ads.sixapart.com
-ads.skorfikstur.com
 ads.smartclicks.net
 ads.smartdevicemedia.com
 ads.sohh.com
@@ -13291,7 +13291,6 @@ cdncontentdelivery.com
 cdncounter.top
 cdndm.com
 cdndns8.com
-cdnet-dn.gw.samsungapps.com
 cdneurope.com
 cdnews.com.tw
 cdnff.com
@@ -20888,6 +20887,7 @@ ecsfunhget.com
 ecsqyotk.com
 ecssl.pchome.com.tw
 ecto-ecto-uno.com
+ectoralmin.fun
 ecupcafe.eu.org
 ecurrency4all.com
 ecuwa.cn
@@ -26624,6 +26624,7 @@ h1z1trade.online
 h2.18sd.cn
 h2.elf168.net
 h2.ns22.ru
+h2.res.icast.cn
 h268zh7.dsndsn3appbk.in
 h27.com
 h2otalent.com
@@ -28620,6 +28621,7 @@ hugage.com
 huge-skins.com
 hugecdn168.com
 hugeskins.com
+hugvr.cn
 huha.ink
 huhamhire.com
 huhangkuaiji.cn
@@ -36622,6 +36624,7 @@ m.xikedianzi.com.cn
 m.xingyaoapi.com
 m.xk0x.cn
 m.xkena.com
+m.xkqpco.com
 m.xkunn.com
 m.xlhm88.cn
 m.xlsschina15.net

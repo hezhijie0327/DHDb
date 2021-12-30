@@ -8788,7 +8788,6 @@ a-ups-presence8-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presence9-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presence9-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presence9-prod-azsc.westus2.cloudapp.azure.com
-a-ups-presencecore1-prod-azsc.japanwest.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.australiaeast.cloudapp.azure.com
@@ -20004,7 +20003,6 @@ app365.ml
 app4.letitbefaster.website
 app4.letslowbefast.life
 app4cms.net
-app5.fastermac.tech
 app5.letitbefaster.website
 app6.cf
 app6.gq
@@ -22211,7 +22209,6 @@ auluckylottery.com
 aumago.com
 aumaupoy.net
 aumni.fund
-aumpoabi.com
 aumsookr.com
 aunblock.com
 aunsajoa.com
@@ -40683,6 +40680,7 @@ cosmosdb.net
 cosmosdirekt.de
 cosmosjackson.com
 cosmowomans.ru
+cosplaybutts.com
 cosplayjav.pl
 cost1action.com
 costacruise.com
@@ -77450,6 +77448,7 @@ hxyifu.com
 hxyssd.cn
 hxyx360.com
 hxzxg.com
+hy-cn.cn
 hy-dy.cn
 hy-partners.com
 hy05190134.com
@@ -78019,7 +78018,6 @@ ibabyp2p.com
 ibafnw.cn
 ibanner.de
 ibannerexchange.com
-ibaoxiu.net
 ibase.fr
 ibatom.com
 ibb.akacast.akamaistream.net
@@ -85831,7 +85829,6 @@ jibyrm.jeep-official.it
 jicherincom.club
 jicloud.site
 jiclynchron.club
-jicmutse.com
 jid5.com
 jidubook.com
 jiduu.com
@@ -120458,7 +120455,6 @@ popxyz.com
 popyard.com
 popyard.org
 popzila.com
-poqsoft.com
 por.tw
 poranny.pl
 poratedp.top
@@ -129027,6 +129023,7 @@ roadloisirs.com
 roadmapcredulousfang.com
 roadshow.hk
 roadtv.nl
+roadwide.net
 roakicat.net
 roaming.officeapps.live.com
 roan.nl
@@ -130373,7 +130370,6 @@ rysubmission.biz
 rysummer.net
 ryte.com
 rytecdoors.com
-ryturtviaqcana.top
 ryukyushimpo.jp
 ryushare.com
 ryvapi.fragrancenet.com

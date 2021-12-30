@@ -1268,7 +1268,6 @@
 1458167.s1txipv6.cdntip.com
 1469166.b2b.liebiao.com
 1473846f4246d54ff5ac91bd5d228550.dlied1.cdntips.net
-1475507.shop.liebiao.com
 1478803.b2b.jinanfa.cn
 147xz.com
 148-law.com
@@ -2576,7 +2575,6 @@
 29663.com
 296u.com
 2980.com
-298635.shop.liebiao.com
 2989e78221da0ed8.qaxcloudwaf.com
 29a350610.atobo.com
 29b4ff83599e2ebddb036f5065bb687c.dlied1.cdntips.net
@@ -48297,6 +48295,7 @@ necaptcha.nosdn.127.net
 necaptcha.nosdn.127.net.w.cdngslb.com
 nedigitals.com
 needexam.com
+needma.com
 neegle.net
 neeq.cc
 neets.cc

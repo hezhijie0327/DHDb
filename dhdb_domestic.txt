@@ -2406,7 +2406,6 @@
 2451608.b2b.liebiao.com
 24538.com
 24572112-456.hd.webportal.top
-2459551.shop.liebiao.com
 246546.com
 2465841.sched.skalego-dk.tdnsv5.com
 2476038.b2b.liebiao.com
@@ -10290,7 +10289,6 @@ api.fd.mob.com
 api.g.micloud.xiaomi.net
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -23211,7 +23209,6 @@ dmpdata.njcb.com.cn
 dmpenxph.v1d.szbdyd.com
 dmplog.qq.com
 dmqapp.com
-dmr.cnhoney.com
 dmr2kjwl.v1d.szbdyd.com
 dmr8nzrh.v1d.szbdyd.com
 dmread.com

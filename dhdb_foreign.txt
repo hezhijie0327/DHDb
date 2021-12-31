@@ -1,6 +1,7 @@
 0-132.net.daraz.com
 0-courier.push.apple.com
 0-courier2.push.apple.com
+0.cn.pool.ntp.org
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
@@ -3303,7 +3304,6 @@
 292812.com
 293.net
 2933448a31.4e39c772dc.com
-29365.bet
 293870.com
 2952.cc
 296127.cc
@@ -33502,6 +33502,7 @@ cbfau.com
 cbfoot.com
 cbhhomes.com
 cbibhbghgdjbbageabd.ru
+cbiec.com
 cbili.com
 cbjpeg.stream.highwebmedia.com
 cbjs.ciwei.in
@@ -35455,7 +35456,6 @@ cheesecake.jellyfish.com.tw
 cheetah.songrender.com
 cheetahdigital.com
 cheetieaha.com
-cheewait.net
 cheewhoa.net
 cheezdev.com
 cheezit.com
@@ -40300,7 +40300,6 @@ coobuo.pinkpanda.cz
 cooch.tv
 coocox.org
 cooer.net
-coograma.net
 cookbookchina.com
 cookie-accept.com
 cookie-bar.salessquad.co.uk
@@ -74793,6 +74792,7 @@ highperformancecpmnetwork.com
 highperformancedformats.com
 highperformancedisplaycontent.com
 highprofitnetwork.com
+highqualitycurrenciesanddocuments.com
 highresolutiontechnologies.com
 highrevenuecpm.com
 highrockmedia.com

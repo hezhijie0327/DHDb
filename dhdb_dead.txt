@@ -4387,6 +4387,7 @@ a-ups-presencecore4-prod-azsc.japaneast.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.southeastasia.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.eastus2.cloudapp.azure.com
+a-ups-presencecore5-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.eastus2.cloudapp.azure.com
@@ -10902,6 +10903,7 @@ bitbays.com
 bitburg.adtech.us
 bitc.bme.emory.edu
 bitcase.win
+bitcoin-adder.com
 bitcoin-double.xyz
 bitcoin-generator.online
 bitcoin-lightning.info
@@ -11469,7 +11471,6 @@ books-media-edu-premiumblvd.com
 books-media-edu-rewardempire.com
 books-media-rewardpath.com
 books.enlighten.org.tw
-bookstore.emome.net
 boom-drop.net
 boom.mail.ru
 boom66.com
@@ -19034,6 +19035,7 @@ dnshttp.xyz
 dnshwx.com
 dnsip.net
 dnsit.xyz
+dnslogs.net
 dnsmail.xyz
 dnsname.xyz
 dnsng.net
@@ -20545,7 +20547,6 @@ e.xbaiv.com
 e.xcouv.com
 e.xdkje.com
 e.xdunv.com
-e.xetvb.com
 e.xgaij.com
 e.xhsve.cn
 e.xiangchim0.com

@@ -3076,6 +3076,7 @@
 251.151.86.110.zz.countries.nerd.dk
 2511077.com
 251633.com
+2517706.b2b.liebiao.com
 251ai.com
 2525071.b2b.liebiao.com
 252ai.com
@@ -8796,7 +8797,6 @@ a-ups-presencecore12-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.australiaeast.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.japaneast.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.centralus.cloudapp.azure.com
-a-ups-presencecore5-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore9-prod-azsc.eastus.cloudapp.azure.com
 a-usw.1rx.io
 a.123porner.com
@@ -27170,7 +27170,6 @@ bitclub.network
 bitclubnetwork.com
 bitcoadz.io
 bitcoadz.pw
-bitcoin-adder.com
 bitcoin-btc-generators.com
 bitcoin-cash-generator.com
 bitcoin-cashcard.com
@@ -29392,6 +29391,7 @@ bookshuku.com
 bookspot.be
 bookspot.nl
 bookstagram.com
+bookstore.emome.net
 bookstorethree.com
 booktopia.com.au
 booktxt.com
@@ -48456,7 +48456,6 @@ dnsinfo.xyz
 dnsking.ch
 dnskuu.com
 dnslify.com
-dnslogs.net
 dnsmachinefork.com
 dnsnl.alekberg.net
 dnspod-vip5.mydnspod.net
@@ -50898,6 +50897,7 @@ e.wolterskluwer.com
 e.wonwg.com
 e.xeig.cn
 e.xeihy.com
+e.xetvb.com
 e.xkqpco.com.com
 e.xmgysweb.com
 e.xxkio.com
@@ -60215,6 +60215,7 @@ foroes.org
 forosh.biz
 forpsi.hu
 forratti.com.br
+forrealbio.com
 forrealzpiratebay.org
 forrent.com
 forrester.com
@@ -75311,7 +75312,6 @@ hk.mobi.yahoo.com
 hk.myblog.yahoo.com
 hk.napi.ucweb.com
 hk.news.yahoo.com
-hk.pool.ntp.org
 hk.rs
 hk.schroders.email
 hk.search.yahoo.com

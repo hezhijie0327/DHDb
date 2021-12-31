@@ -2423,7 +2423,6 @@
 2507178.shop.liebiao.com
 2509449.shop.liebiao.com
 2513390.shop.liebiao.com
-2519728.b2b.liebiao.com
 2525f12e7b06a7ab99ec65298fb15c4b.dlied1.cdntips.net
 253.com
 2532426.b2b.liebiao.com
@@ -20641,7 +20640,6 @@ d.gdt.qq.com
 d.gionee.com
 d.hexuntech.cn
 d.ifengimg.com
-d.jd.com
 d.jd.com.gslb.qianxun.com
 d.jjyx.com
 d.kugou.com
@@ -22065,7 +22063,6 @@ dev.umeng.com
 dev.wifi8.com
 dev.youmi.net
 dev16.baidupan.com
-dev46.baidupan.com
 dev53.baidupan.com
 dev76.baidupan.com
 dev996.com
@@ -38744,7 +38741,6 @@ jiou.me
 jiouai.com
 jiouyun.com
 jipays.com
-jipiner.com
 jiqid.com
 jiqie.cn
 jiqie.com
@@ -48550,6 +48546,7 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
+nex.163.com
 nexiao.com
 next.api.aliyun.com
 next.itellyou.cn
@@ -51049,7 +51046,6 @@ partner.googleadservices.com
 partner.toutiao.com
 partnerad.l.doubleclick.net
 partnerad.l.google.com
-partnerdownload.xunyou.com
 partners.sina.cn
 partnership.sspu.edu.cn
 pas.suning.com

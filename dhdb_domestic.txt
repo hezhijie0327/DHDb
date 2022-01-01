@@ -1041,7 +1041,6 @@
 12120.net
 1213.me
 121314.com
-1217716.shop.liebiao.com
 1218609.shop.liebiao.com
 121ask.com
 121dian.com
@@ -2078,7 +2077,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.asia.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -11195,6 +11193,7 @@ asr.meituan.com
 asrmicro.com
 asrsingapore.com
 asset.newyx.net
+asset.tantanapp.com
 assets-cli.udesk.cn
 assets-cli.udesk.cn.w.kunlunar.com
 assets-mayun.b0.aicdn.com
@@ -16508,7 +16507,6 @@ chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
-chat1.jd.com
 chat1.jd.com.gslb.qianxun.com
 chataixin59.byf.com
 chatm.com

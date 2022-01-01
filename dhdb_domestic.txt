@@ -661,6 +661,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -1025,7 +1026,6 @@
 1206397.sched.s1k.tdnsv5.com
 1206397.sched.v1.tdnsv5.com
 1207101.b2b.liebiao.com
-1207101.shop.liebiao.com
 120ask.com
 120askimages.com
 120btc.com
@@ -1205,7 +1205,6 @@
 1360.com
 136136.com
 13636.com
-1366358.b2b.liebiao.com
 1368832400079045.cn-hangzhou.fc.aliyuncs.com
 136hr.com
 1370575.b2b.liebiao.com
@@ -23194,7 +23193,6 @@ dnf.17173.com
 dnfm.biligame.com
 dnfziliao.com
 dngjxx.com
-dngswin7.com
 dngsxitong.com
 dngz.net
 dnion.com
@@ -23660,6 +23658,7 @@ download.m.37.com
 download.mcloud.139.com
 download.microsoft.com
 download.onedns.net
+download.pchome.net
 download.pinyin.sogou.com
 download.qianka.com
 download.sangfor.com.cn
@@ -45250,7 +45249,6 @@ maro6.com
 maroon91.com
 marry5.com
 mars.ccc.cmbchina.com
-mars.jd.com
 mars.jd.com.gslb.qianxun.com
 mars.meituan.com
 marstor.com

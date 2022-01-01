@@ -14703,7 +14703,6 @@ c.youike.com.cn
 c.zhangle.com
 c.zhidian3g.cn
 c.zlongad.com
-c0.3.cn
 c0.3.cn.gslb.qianxun.com
 c0.ifengimg.com
 c01.i01.ctlsh.lv3.cloudglb.com
@@ -21996,6 +21995,7 @@ deskier.com
 deskt.cn
 desktopcal.com
 deskwc.com
+desky.xyz
 destinationurl.com
 destoon.com
 detail.1688.com
@@ -26790,7 +26790,6 @@ fanruan.com
 fans8.com
 fansgu.com
 fanshicekong.com
-fanshuapp.com
 fanshuxiaozu.com
 fansiji.com
 fansjoy.net
@@ -37363,7 +37362,6 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
-item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com
@@ -43214,6 +43212,7 @@ lixiangmo.com
 lixianhezi.com
 lixianhua.com
 lixiaocrm.com
+lixiaodie.com
 lixiaoskb.com
 lixiaoyun.com
 lixin.co

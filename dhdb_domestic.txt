@@ -16506,6 +16506,7 @@ chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
+chat1.jd.com
 chat1.jd.com.gslb.qianxun.com
 chataixin59.byf.com
 chatm.com
@@ -54680,7 +54681,6 @@ qq.yh31.com
 qq001.net
 qq123.xin
 qq190.com
-qq241.com
 qq5.com
 qq52o.me
 qq5818.com

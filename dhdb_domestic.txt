@@ -2380,7 +2380,6 @@
 248xyx.com
 2492320.b2b.liebiao.com
 2493944.b2b.liebiao.com
-2498969.b2b.liebiao.com
 2498969.shop.liebiao.com
 2499359.b2b.liebiao.com
 249e6745.qc.x.bsgslb.cn
@@ -21594,6 +21593,7 @@ db2car.com
 db5.gamersky.com
 dbaeumer.gallerycdn.azure.cn
 dbank.com
+dbankcdn.cn
 dbankcdn.com
 dbankcloud.com
 dbbqb.com
@@ -21789,6 +21789,7 @@ ddmap.com
 ddmeishi.com
 ddmer.com
 ddmogo.com
+ddms.jd.com
 ddms.jd.com.gslb.qianxun.com
 ddmyapp.wscdn.tcdn.qq.com
 ddmyapp.wscdn.tcdn.qq.com.lxdns.com
@@ -29410,7 +29411,6 @@ giexya.com
 gif.lu.sogoucdn.com
 gif5.net
 gifcool.com
-gifhub.cc
 gifshow-vod-gd.b0.aicdn.com
 gifshow.b0.aicdn.com
 gifshow.com
@@ -44522,7 +44522,6 @@ m.nabeghlavi.com.cn
 m.nb.17house.com
 m.news.cctv.com
 m.newsmth.net
-m.nq37f.cn
 m.nuoqingck.cn
 m.nxypz.com
 m.nydjsm.cn

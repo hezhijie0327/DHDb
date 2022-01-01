@@ -1587,7 +1587,6 @@
 17350.com
 17351.com
 17369.com
-1737408.shop.liebiao.com
 173eg.com
 173funny.com
 173iot.com
@@ -37360,6 +37359,7 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
+item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com
@@ -41221,6 +41221,7 @@ kuaijishizi.com
 kuaijisishu.com
 kuaijitong.com
 kuaijizheng365.com
+kuaikaiapp.com
 kuaikan.netmon.360safe.com
 kuaikanad.com
 kuaikanmanhua.com

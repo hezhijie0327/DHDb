@@ -42524,7 +42524,6 @@ lianmengapi-hl.snssdk.com
 lianmengapi-lf.snssdk.com
 lianmengapi-lq.snssdk.com
 lianmengapi.snssdk.com
-lianmengma.com
 lianmenhu.com
 lianmishu.com
 lianpuie.com
@@ -50042,6 +50041,7 @@ orcode.com
 order.imooc.com
 order.yystatic.com
 ordercenter.console.aliyun.com
+orderprocessor-public-service-ecomprod01.ol.epicgames.com
 orders-drcn.iap.hicloud.com
 orders.kfc.com.cn
 ordosbank.com
@@ -56634,7 +56634,6 @@ rqjrb.com
 rr-sc.com
 rr.knet.cn
 rr.tv
-rr95.com
 rrb365.com
 rrbay.com
 rrbus.com

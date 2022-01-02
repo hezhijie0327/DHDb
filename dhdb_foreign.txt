@@ -2485,7 +2485,6 @@
 2.krayden.com
 2.letvlive.com
 2.net.zooplus.de
-2.openwrt.pool.ntp.org
 2.realtime.services.box.net
 2.saxenhammer-co.com
 2.speedknow.co
@@ -3187,6 +3186,7 @@
 268mob.cn
 268mob.com
 26942cd47d8780757cb382e462abbf3d.clo.footprintdns.com
+2699806.shop.liebiao.com
 26abc.com
 26c7ac1e-dnsotls-ds.metric.gstatic.com
 26fun.com
@@ -4038,7 +4038,6 @@
 3630685.com
 3637.com
 363lm.com
-3647.tech
 3648980.com
 365-588.com
 365-stream.com
@@ -14789,6 +14788,7 @@ adtoadd.com
 adtol.com
 adtology.com
 adtomafusion.com
+adtomafusion.net
 adtonement.com
 adtongji.xyz
 adtoox.com
@@ -31283,7 +31283,6 @@ bwater.com
 bway881360.com
 bway882338.com
 bway883.com
-bway886.com
 bway88663.com
 bway88725.com
 bway928.com
@@ -63182,7 +63181,6 @@ gaofang.cloud
 gaoguai.com
 gaoguang.com
 gaohao95.com
-gaohbook.net
 gaojianli.me
 gaojinbo.com
 gaokaohelp.com
@@ -77495,6 +77493,7 @@ hyjfnv.valentinmaya.com
 hyjk2000.github.io
 hyjtrf.niidpo.ru
 hykang.com
+hykbl.com
 hyker.000webhostapp.com
 hykiarmqudealy.top
 hyland.com

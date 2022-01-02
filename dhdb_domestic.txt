@@ -935,7 +935,6 @@
 114-91.com
 114.ibicn.com
 1140130.b2b.jinanfa.cn
-1144313.b2b.liebiao.com
 1144725.shop.liebiao.com
 1144hg.com
 11467.com
@@ -10572,7 +10571,6 @@ apkgu.com
 apkplug.com
 apkrj.com
 apks.juyoufan.net
-apkui.com
 apkyx.com
 apkzu.com
 aplan.tv
@@ -10744,6 +10742,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -11108,6 +11107,7 @@ ashj.com
 ashma.info
 ashow.pcpop.com
 ashvsash.com
+asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -11790,7 +11790,6 @@ b9129.com
 b92.photo.store.qq.com
 b9999.com
 ba-li.com
-ba.fqzds.com
 ba05e9866e07280b264b911aaf3e346f.safeframe.googlesyndication.com
 ba210.com
 ba308905a5d58751e139d0b5b4b04b70.v.smtcdns.net
@@ -17599,6 +17598,7 @@ chuxinhudong.com
 chuxinm.com
 chuxueyun.com
 chuying.org
+chuyouke.com
 chuyouling.com
 chuzhaobiao.com
 chuzhou.anjuke.com
@@ -36095,6 +36095,7 @@ img.tencentmusic.com
 img.tenpay.com
 img.tgl.qq.com
 img.tianyancha.com
+img.toppr.com.cn
 img.tudouxy01.com
 img.upe.net
 img.upe.net.w.kunlungr.com

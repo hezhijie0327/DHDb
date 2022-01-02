@@ -1595,6 +1595,7 @@
 173um.com
 173uu.com
 173zy.com
+17439999.com
 17446.com
 1756307.shop.liebiao.com
 1758.com
@@ -1849,7 +1850,6 @@
 195663.com
 1956917.s2txipv6.cdntip.com
 1956917.sched.skalego-dk.tdnsv5.com
-1959888.b2b.liebiao.com
 1965288.s1txipv6.cdntip.com
 1967066.shop.liebiao.com
 19687.com
@@ -18419,6 +18419,7 @@ cn-ahwh-dx-bcache-05.bilivideo.com
 cn-ahwh-dx-bcache-06.bilivideo.com
 cn-ahwh-dx-bcache-07.bilivideo.com
 cn-ahwh-dx-bcache-08.bilivideo.com
+cn-api.samsungcloud.com
 cn-api.samsungosp.com
 cn-api.samsungpositioning.com.cn
 cn-auth.samsungosp.com
@@ -31922,6 +31923,7 @@ hcdnw.net163.gslb.c.cdnhwc1.com
 hcdnw.zjtd01.gslb.c.cdnhwc2.com
 hcdnw01.gslb.c.cdnhwc2.com
 hcdnw101.gslb.c.cdnhwc2.com
+hcdnw120.global.c.cdnhwc6.com
 hcdyhr.com
 hcgroup.com
 hch518.com

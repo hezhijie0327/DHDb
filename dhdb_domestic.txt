@@ -1023,7 +1023,6 @@
 11ziyun.com
 12.cookcai.com
 120.net
-1205066.b2b.liebiao.com
 1206397.sched.s1k.tdnsv5.com
 1206397.sched.v1.tdnsv5.com
 1207101.b2b.liebiao.com
@@ -2467,6 +2466,7 @@
 26ef.com
 26gg.bnq86.com
 26host.com
+26joy.com
 26lady.com
 2704399.shop.liebiao.com
 270top.com
@@ -2884,6 +2884,7 @@
 35c7ebf03b643644e9cbdc34653831b0.dlied1.cdntips.net
 35dalu.com
 35dxs.com
+35fwkb.cn
 35go.net
 35hw.com
 35inter.com
@@ -8375,6 +8376,7 @@ adsense.google.cn
 adserve2.tom.com
 adservice.google.com
 adservice.sigmob.cn
+adserviceretry.kugou.com
 adserving.yuewen.com
 adsfile.bssdlbig.kugou.com
 adsfile.qq.com
@@ -10294,7 +10296,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -21118,7 +21119,6 @@ dajiang365.com
 dajiangsai.org
 dajiangtai.com
 dajianhui.com
-dajiaochongmanhua.com
 dajiashequ.com
 dajiashuo.com
 dajiazhongyi.com

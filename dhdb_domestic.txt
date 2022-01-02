@@ -2478,7 +2478,6 @@
 2741b4c1.qc.x.bsgslb.cn
 275959f3.qc.x.bsgslb.cn
 275st.com
-2772086.shop.liebiao.com
 2776531.sched.d0.tdnsv5.com
 277sy.com
 2799web.com
@@ -8216,6 +8215,7 @@ adiu.amap.com
 adiwlbs.gslb.sinaedge.com
 adjb.5nd.com
 adjucai.com
+adjumo.com
 adjust.cn
 adjuz.com
 adkmob.com
@@ -10749,7 +10749,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -16795,7 +16794,6 @@ china-huaxue.com
 china-huazhou.com
 china-hzd.com
 china-id-speed.unitychina.cn
-china-insurance.com
 china-invests.net
 china-isotope.com
 china-kaihua.com
@@ -37987,6 +37985,7 @@ jeecg.org
 jeecms.com
 jeejen.com
 jeeplus.org
+jeepshoe.net
 jeepyy.com
 jeesci.com
 jeesite.com
@@ -45508,7 +45507,6 @@ mdevstat.qqlive.qq.com
 mdfsbn.com
 mdfull.com
 mdhjs.com
-mdian.co
 mdike.alicdn.com
 mdike.alicdn.com.danuoyi.tbcache.com
 mdinjn.com
@@ -52262,6 +52260,7 @@ poobbs.com
 poocg.com
 poofx.com
 pook.com
+pool.ntp.org
 pool.v6.bt.n0808.com
 poolct.17173.com
 pooldist.shouyou.com
@@ -60792,7 +60791,6 @@ speedsz.net
 speedtest.cn
 speedv4.m.jd.com
 speedv4.m.jd.com.gslb.qianxun.com
-speedycloud.cc
 speiyou.com
 spfmc.com
 spforum.net
@@ -61010,6 +61008,7 @@ ssl.mail.163.com
 ssl.msdk.qq.com
 ssl.ptlogin2.graph.qq.com
 ssl.ptlogin2.mail.qq.com
+ssl.ptlogin2.qq.com
 ssl.trace.zhiziyun.com
 ssl.ts7.qq.com
 ssl.ts8.qq.com
@@ -61668,6 +61667,7 @@ steamxdf.com
 stec.net
 stedu.net
 steelphone.com
+steelsearcher.co.kr
 steelsearcher.com
 stefg.org
 stemcellscn.com

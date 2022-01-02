@@ -2472,7 +2472,6 @@
 2.biqle.ru
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
-2.centos.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.courier2-push-apple.com.akadns.net
 2.cr.rs
@@ -76947,6 +76946,7 @@ hublosk.com
 hubmaydaybrow.com
 hubmetric.samsclub.com
 hubmetrics.samsclub.com
+hubojd.com
 hubporn.com
 hubrus.com
 hubsite-prod11-691171412.us-east-1.elb.amazonaws.com
@@ -79247,7 +79247,6 @@ image1.elife.icbc.com.cn
 image1.fmgstatic.com
 image2.pubmatic.com
 image4.pubmatic.com
-image5.mall.icbc.com.cn
 image6.pubmatic.com
 image8.fmgstatic.com
 image8.mall.icbc.com.cn
@@ -100434,7 +100433,6 @@ megustaleer.com
 megworld.co.uk
 mehebborc.com
 mehide.org
-mei521.com
 meiaoju.com
 meibai14.com
 meibangzx.com
@@ -107423,7 +107421,6 @@ navaxudoru.com
 navbar.blizzard.com
 navdmp.com
 nave.foone.com.br
-navegador.telefonica.com.br
 navegg.com
 naver.com
 naver.net

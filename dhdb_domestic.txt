@@ -28647,6 +28647,7 @@ game.xiaomi.com
 game.yeyou.com
 game.youku.com
 game.youxin75.com
+game12315.com
 game13.com
 game189.com
 game2.com
@@ -33816,6 +33817,7 @@ huaweibro-iflow.video.ums.uc.cn
 huaweicard-drcn.wallet.dbankcloud.com
 huaweicloud-dns.com
 huaweicloud.com
+huaweicloudwaf.com
 huaweidun.com
 huaweimossel.com
 huaweirom.com

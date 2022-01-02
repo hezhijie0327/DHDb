@@ -1,6 +1,7 @@
 0-100.com
 0-6.com
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -1975,6 +1976,7 @@
 1ky.biz
 1l1.cc
 1lan.tv
+1look.tv
 1lou.com
 1lzfro.tdum.alibaba.com
 1lzs.com
@@ -2259,7 +2261,6 @@
 2239.com
 223b48d683c543952196bcf025282936.dlied1.cdntips.net
 224700.com
-2250207.shop.liebiao.com
 2252e0f7f87fc762abe6eb198dd581c3.safeframe.googlesyndication.com
 2256820.b2b.liebiao.com
 2257078.p23.tc.cdntip.com
@@ -2339,7 +2340,6 @@
 2374505.p23.tc.cdntip.com
 2374505.sched.sma.tdnsv5.com
 2374597.p23.tc.cdntip.com
-2376613.b2b.liebiao.com
 2378425.shop.liebiao.com
 237c0801cee0004ce14b82184862cb7d.dlied1.cdntips.net
 237y.com
@@ -10199,7 +10199,6 @@ api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.coconut.is
-api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -19085,6 +19084,7 @@ codekissyoung.com
 codekk.com
 codeku.me
 codemart.com
+codemcx.work
 codenow.cn
 codeok.com
 codepku.com
@@ -44044,6 +44044,7 @@ lust18.cc
 luster3ds.com
 lustervision.com
 lutao.com
+lutouwang.net
 luv66.com
 luways.com
 luwei.me
@@ -46787,6 +46788,7 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
+mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com

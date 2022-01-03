@@ -21776,7 +21776,6 @@ ddmeishi.com
 ddmer.com
 ddmogo.com
 ddms.jd.com
-ddms.jd.com.gslb.qianxun.com
 ddmyapp.wscdn.tcdn.qq.com
 ddmyapp.wscdn.tcdn.qq.com.lxdns.com
 ddnddn.com
@@ -36524,7 +36523,6 @@ in-en.com
 in-neo.cn
 in.ali213.net
 in.m.jd.com
-in.m.jd.com.gslb.qianxun.com
 in.qqhpg.com
 in.vipliangmei.com
 in1.feed.uu.cc
@@ -46056,6 +46054,7 @@ mianfeiwendang.com
 mianhuatang.cc
 mianhuatang.la
 mianjupark.com
+mianjuvip.com
 mianshui365.com
 mianwai.com
 mianxiangxue.com
@@ -54323,6 +54322,7 @@ qiqiuyu.com
 qiqiuyun.net
 qiqivv.com
 qiqiww.com
+qiqutang.com
 qiquting.com
 qire123.com
 qiremanhua.com

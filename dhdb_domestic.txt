@@ -947,7 +947,6 @@
 114dhc.com
 114dns.com
 114god.com
-114hrb.com
 114hzw.com
 114ic.com
 114ic.net
@@ -2373,7 +2372,6 @@
 248xyx.com
 2493944.b2b.liebiao.com
 2498969.shop.liebiao.com
-2499359.b2b.liebiao.com
 249e6745.qc.x.bsgslb.cn
 24d8813bd1df634526ba9e99b463ebb8.dlied1.cdntips.net
 24e4d7191482a3e2283034a6762996f6.safeframe.googlesyndication.com
@@ -10291,7 +10289,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
 api.m.taobao.com
@@ -31959,7 +31956,6 @@ hcxchina.com
 hcxcw.com
 hcxy6.com
 hcy.cc
-hcyy.org
 hcz-member.pingan.com.cn
 hcz-static.pingan.com.cn
 hcz-static.pingan.com.cn.cdn.pingan.com.cn
@@ -37987,7 +37983,6 @@ jeesci.com
 jeesite.com
 jeff-hykin.gallerycdn.azure.cn
 jegotrip.com
-jelleybrown.com
 jellow.club
 jellow.site
 jellyfish.pandora.xiaomi.com

@@ -45872,6 +45872,7 @@ mesu-china.apple.com.akadns.net
 mesu.apple.com.mwcname.com
 met-badge.dreport.meituan.net
 met-horn-log.dreport.meituan.net
+met.red
 meta-cdn.video.iqiyi.com
 meta-cdn.video.ptqy.gitv.tv
 meta.appinn.net
@@ -51666,7 +51667,6 @@ pic.mairuan.com
 pic.mfpjrj.com
 pic.moad.cn
 pic.mytown.qq.com
-pic.new400.cn
 pic.orsoon.com
 pic.pc6.com
 pic.qhyc55.com

@@ -1,7 +1,6 @@
 0-132.net.daraz.com
 0-courier.push.apple.com
 0-courier2.push.apple.com
-0.cn.pool.ntp.org
 0.courier-push-apple.com.akadns.net
 0.gravatar.com
 0.nextyourcontent.com
@@ -251,7 +250,6 @@
 0235uu.com
 0235vv.com
 0235ww.com
-0235xx.com
 0235yy.com
 0235zz.com
 023buy.com
@@ -61310,7 +61308,6 @@ freepsncodesz.com
 freepsnforever.com
 freepsnxbcodes.com
 freepst.com
-freepubg.com
 freerainbowtables.com
 freerangecloud.com
 freerapid.fr
@@ -63748,6 +63745,7 @@ geek-squads.net
 geek-workshop.com
 geekdream.com
 geekersq.cc
+geekfan.net
 geekflare.com
 geekheart.info
 geekhub.com
@@ -75644,7 +75642,6 @@ hoaiig.com
 hoanoola.net
 hoaphaiw.com
 hoaqzs.manier.ro
-hoarseremainedlisp.com
 hobbi.xyz
 hobbiestree.com
 hobby-site.com

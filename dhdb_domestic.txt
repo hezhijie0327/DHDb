@@ -2165,7 +2165,6 @@
 2155.com
 2156048.sched.s2.tdnsv5.com
 2156048.sched.skalego.tdnsv5.com
-2161383.shop.liebiao.com
 2167422.shop.liebiao.com
 217play.com
 217wo.com
@@ -2372,7 +2371,6 @@
 2465841.sched.skalego-dk.tdnsv5.com
 2478908.b2b.liebiao.com
 248xyx.com
-2492320.b2b.liebiao.com
 2493944.b2b.liebiao.com
 2498969.shop.liebiao.com
 2499359.b2b.liebiao.com
@@ -49951,7 +49949,6 @@ openresty.org
 opensc.net
 openserviceauth.ctrip.com
 openspeech.cn
-openstorage.ad.cmvideo.cn
 openstorage.cn
 openthos.com
 openthos.org

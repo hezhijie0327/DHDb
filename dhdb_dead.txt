@@ -4411,6 +4411,7 @@ a-ups-presencecore7-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore8-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presencecore9-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore9-prod-azsc.westus2.cloudapp.azure.com
 a-webapi-prod-asse-shiftsa.southeastasia.cloudapp.azure.com
 a.04ee395e5b8a076c7bd8592851ff8cad.com
@@ -24846,6 +24847,7 @@ gather.donga.com
 gatotkaca.pw
 gaudiessept.space
 gaulauvi.net
+gauwicig.com
 gav1n.com
 gavzad.keenspot.com
 gawxf.com
@@ -32237,6 +32239,7 @@ juejdkio.com
 juemei.cc
 juemuren4449.com
 jueshe.cc
+jueshinan.com
 juesw.com
 juexiang.com
 jufengputao.com
@@ -33514,6 +33517,7 @@ ku4li-t4s.tk
 ku555.net
 ku6.allyes.com
 ku6.net
+ku6110.net
 ku6afp.allyes.com
 ku6cdn.com
 ku6img.com

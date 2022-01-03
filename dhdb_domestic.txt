@@ -2072,6 +2072,7 @@
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
+2.openwrt.pool.ntp.org
 2.pic.pc6.com
 2.pool.ntp.org
 2.up.qingdaonews.com
@@ -4476,6 +4477,7 @@
 53chewu.com
 53dns.org
 53e55n.tdum.alibaba.com
+53gem.com
 53info.com
 53iq.com
 53kf.com
@@ -20455,6 +20457,7 @@ cypmedia.com
 cypresstel.com
 cyqyzx.com
 cyruc.com
+cysd.7kww.net
 cysq.com
 cysua.com
 cytcard.com
@@ -20592,6 +20595,7 @@ d.gdt.qq.com
 d.gionee.com
 d.hexuntech.cn
 d.ifengimg.com
+d.jd.com
 d.jd.com.gslb.qianxun.com
 d.jjyx.com
 d.kugou.com

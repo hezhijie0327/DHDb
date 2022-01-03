@@ -6321,7 +6321,6 @@ ads.y-0.net
 ads.yenimedya.com.tr
 ads.yieldmedia.net
 ads.youporn.com
-ads.yumenetworks.com
 ads.zap2it.com
 ads.zdn.vn
 ads.zdnet.com
@@ -39514,6 +39513,7 @@ mxapparc.com
 mxapple-icloud.com
 mxappmvx.com
 mxbnbc.id
+mxc.com
 mxc87.org
 mxhichina.com
 mxipp.tech
@@ -41070,6 +41070,7 @@ ns32.us
 ns5-xbox1.live.bhvrdbd.com
 nsads.us.publicus.com
 nsads4.us.publicus.com
+nsbpsfttgfi.top
 nsc.gov.tw
 nsclick.baidu.cn
 nscloudwaf.com

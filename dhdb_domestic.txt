@@ -680,7 +680,6 @@
 1.mgff.com
 1.mm100.com
 1.nanrenwo.net
-1.openwrt.pool.ntp.org
 1.pic.pc6.com
 1.pncdn.cn
 1.proewildfire.cn
@@ -46800,7 +46799,6 @@ mobile.youku.com
 mobile2.da.mgtv.com
 mobilead.kuwo.cn
 mobileanjian.com
-mobileap-bgp.ctrip.com.tel.oy.ctripgslb.com
 mobileap-bgp.ctrip.com.tel.rb.ctripgslb.com
 mobileap.ctrip.com
 mobilebasedata.kuwo.cn
@@ -50094,6 +50092,7 @@ ort.stsdk.vivo.com.cn
 orvibo.com
 orz.asia
 orz123.com
+orzbook.com
 orzice.com
 os-easy.com
 os-v.com
@@ -51056,6 +51055,7 @@ passport.dns.iqiyi.com
 passport.douyu.com
 passport.douyu.com.w.cdngslb.com
 passport.iqiyi.com
+passport.jd.com
 passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn

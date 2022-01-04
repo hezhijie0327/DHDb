@@ -10293,6 +10293,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
 api.m.taobao.com
@@ -54480,7 +54481,6 @@ qjbian.com
 qjcz.com
 qjdywhyq.com
 qjfy.com
-qjherb.com
 qjhlw.com
 qjhm.net
 qjmotor.com

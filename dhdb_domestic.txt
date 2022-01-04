@@ -11167,7 +11167,6 @@ asr.meituan.com
 asrmicro.com
 asrsingapore.com
 asset.newyx.net
-asset.tantanapp.com
 assets-cli.udesk.cn
 assets-cli.udesk.cn.w.kunlunar.com
 assets-mayun.b0.aicdn.com
@@ -30730,6 +30729,7 @@ gxzpw.org
 gy-center.net
 gy-fuji.com
 gy.anjuke.com
+gy.com
 gy.taobao.com
 gy7n.com
 gy818.com
@@ -39767,7 +39767,6 @@ junwei1000.com
 junwu262.com
 junxilinux.com
 junyao.tech
-junyougame.com
 junyudns.com
 junyuewl.com
 junzhuan.com
@@ -40361,6 +40360,7 @@ kaolafm.com
 kaolahuzhu.com
 kaopu001.com
 kaopubao.com
+kaopuj.com
 kaopuyun.com
 kaopuyun.net
 kaoqintong.net
@@ -44793,7 +44793,6 @@ machine-information.com
 machine-visions.com
 machine35.com
 machine365.com
-machunjie.com
 macidea.com
 macjb.com
 macjpeg.macsc.com

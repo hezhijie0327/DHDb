@@ -1255,6 +1255,7 @@
 123counts.com
 123cursors.com
 123date.me
+123du.cc
 123freeavatars.com
 123fvd.com
 123hao.com
@@ -33856,7 +33857,6 @@ cczq.net
 ccztgy.elgiganten.dk
 cczwei.de
 cd-ladsp-com.s3.amazonaws.com
-cd-secure.com
 cd-taxi.com
 cd.cococx.com
 cd3ta8-dnsotls-ds.metric.gstatic.com
@@ -131225,6 +131225,7 @@ sa.entireweb.com
 sa.eurosport.com
 sa.flux.community
 sa.foodnetwork.com
+sa.monerise.com
 sa.scorpion.co
 sa.scrippslifestylestudios.com
 sa.sky.it

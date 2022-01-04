@@ -36096,7 +36096,6 @@ img.printf520.com
 img.qcloud.com
 img.qianwee.com
 img.qidian.com
-img.qj.media8.cn
 img.qunliao.info
 img.qunliao.info.qiniudns.com
 img.qwps.cn
@@ -46059,6 +46058,7 @@ mhi-ac.com
 mhjk.1391.com
 mhsf.com
 mhtclub.com
+mhtml5.com
 mhuodong.elong.com
 mhwck.com
 mhwsw.com
@@ -55171,6 +55171,7 @@ quantil.com
 quantuantuan.com
 quantum-info.com
 quanwai.wang
+quanweili.com
 quanxi.cc
 quanxiangyun.com
 quanzhanketang.com

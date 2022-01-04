@@ -933,7 +933,6 @@
 114-91.com
 114.ibicn.com
 1140130.b2b.jinanfa.cn
-1144725.shop.liebiao.com
 1144hg.com
 11467.com
 11476d9f165b3cc916ced3d14301f70c.safeframe.googlesyndication.com
@@ -23657,6 +23656,7 @@ download.visualstudio.microsoft.com
 download.vzuu.com
 download.wan.sohu.com
 download.wegame.qq.com
+download.windowsupdate.com
 download.xmcdn.com
 download.xp666.com
 download.yuelun.com
@@ -26515,7 +26515,6 @@ f0580.com
 f08aa6769f7772762800c8749aa8b968.dlied1.cdntips.net
 f0ea201bf3820480a4f075e474a980d5.safeframe.googlesyndication.com
 f1-shanghai.com
-f1.ichong123.com
 f1.lutouwang.net
 f1.market.mi-img.com
 f1.market.xiaomi.com
@@ -33833,6 +33832,7 @@ huawei.com
 huaweibro-iflow.video.ums.uc.cn
 huaweicard-drcn.wallet.dbankcloud.com
 huaweicloud-dns.com
+huaweicloud-dns.net
 huaweicloud.com
 huaweicloudwaf.com
 huaweidun.com
@@ -45131,7 +45131,6 @@ maoken.com
 maoln.com
 maomaoche.com
 maomaojie.com
-maomego.com
 maoming.anjuke.com
 maoming.baixing.com
 maopuyouxi.com

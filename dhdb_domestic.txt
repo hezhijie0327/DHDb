@@ -10729,6 +10729,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -13170,7 +13171,6 @@ biguolunwen.com
 bigwayseo.com
 bigwinepot.com
 bigwww.com
-bigxiao.com
 bigzhong.com
 bihaiji.com
 bihoo.com
@@ -32681,7 +32681,6 @@ hizyw.com
 hj.vc
 hjapi.com
 hjbxw.com
-hjc778.com
 hjcjifen.com
 hjclass.com
 hjd123.com
@@ -45903,6 +45902,7 @@ meten.com
 meteni.com
 metenk12.com
 metersbonwe.com
+metersbonwe.net
 metgs.com
 metin520.com
 metlifezeng.com
@@ -46783,7 +46783,6 @@ mobile.youku.com
 mobile2.da.mgtv.com
 mobilead.kuwo.cn
 mobileanjian.com
-mobileap-bgp.ctrip.com.tel.rb.ctripgslb.com
 mobileap.ctrip.com
 mobilebasedata.kuwo.cn
 mobilecdnbj.kugou.com

@@ -18151,7 +18151,6 @@ club-img.douyucdn.cn
 club-v4.chinanorth.cloudapp.chinacloudapi.cn
 club.bilibili.com
 club.jd.com
-club.jd.com.gslb.qianxun.com
 club.lenovo.com.cn
 club.m.autohome.com.cn
 club.vip.qq.com
@@ -29193,7 +29192,6 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
-get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -30871,7 +30869,6 @@ gzncstudios.com
 gznemo.com
 gzngn.com
 gznhfz.cn.makepolo.com
-gznote.com
 gznxbank.com
 gzone.gifshow.com
 gzpeite.com
@@ -45867,7 +45864,6 @@ mercury-image.nhsoft.cn
 mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
-mercury.jd.com
 mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com
@@ -48519,6 +48515,7 @@ nextday.im
 nextjoy.com
 nexto2o.com
 nextrt.com
+nextsee.com
 nexttao.com
 nexttix.net
 nf.jsq.red

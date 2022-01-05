@@ -11213,6 +11213,7 @@ astyle.alicdn.com.danuoyi.alicdn.com
 asus.com.cn
 asus.youdemai.com
 asussmart.com
+asv1.bsmakeup.com.cn
 async.qun.qq.com
 asyzonline.com
 at-siac.com
@@ -45319,7 +45320,6 @@ mauu.me
 mav.mavuz.com
 mavatar.iplaysoft.com
 mavatar.iplaysoft.com.cname.yunjiasu-cdn.net
-mavuz.com
 mawei.live
 mawen.co
 mawentao.com
@@ -47250,6 +47250,7 @@ msanjia.com
 msc.jd.com
 msc.jd.com.gslb.qianxun.com
 mscbsc.com
+msch.f.360.cn
 msclick2.kuwo.cn
 msdn.itellyou.cn
 msdn.itellyou.cn.w.kunluncan.com

@@ -2123,7 +2123,6 @@
 2071816258pg.sina.cn
 2071816259pg.sina.cn
 2078244.sched.sma.tdnsv5.com
-2078827.b2b.liebiao.com
 2086607.sched.sma-dk.tdnsv5.com
 2092710.s2.cdntip.com
 2092710.sched.skalego.tdnsv5.com
@@ -12351,6 +12350,7 @@ bb1818.le166.com
 bb2.ifeng.com
 bb263256578ff9085e7ffdc49055ccbc.dlied1.cdntips.net
 bb33e5221f3fce7cba5acb48ec056c24.dlied1.cdntips.net
+bb366.net
 bb3a2e980f27eac05c68e0e845792843.dlied1.cdntips.net
 bb4e3391a889765350211fde338baf58.rdt.cfogc.com
 bbanp.com
@@ -52028,6 +52028,7 @@ pkufh.com
 pkuh6.cn
 pkulaw.com
 pkulaws.com
+pkurc.com
 pkusky.com
 pkusp.com
 pkuszh.com

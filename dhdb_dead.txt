@@ -4390,6 +4390,7 @@ a-ups-presencecore0-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.australiaeast.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore1-prod-azsc.japanwest.cloudapp.azure.com
+a-ups-presencecore1-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore10-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore11-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore11-prod-azsc.westus2.cloudapp.azure.com
@@ -10203,6 +10204,7 @@ bcyimg.com
 bd-caict.com
 bd-gl.com
 bd.1ym7e.cn
+bd.beimap.com
 bd.dhsz.cn
 bd.ershenghuo.com
 bd.gow100.com
@@ -15456,7 +15458,6 @@ convers.link
 converse-all-star.ro
 converse-allstar.ro
 conversewyprzedaz.pl
-conversionlogic.net
 conversionsbox.com
 convertds.com
 convertedversion.com
@@ -16226,7 +16227,6 @@ csgodrain.net
 csgodrone.net
 csgodropbet.com
 csgodrugs.com
-csgoduck.com
 csgoeasy.money
 csgoegg.win
 csgoelect.com
@@ -19419,6 +19419,7 @@ doudouguo.com
 doudouknot.com
 doudouyin.com
 doudouyuedu.com
+douhaosoft.com
 doujl.cn
 doukeji.com
 doulaihai.top
@@ -26207,7 +26208,6 @@ great4mylife.com
 greatcitymore.com
 greatdownloadapps284.download
 greatdownloadapps95.download
-greate2.com
 greatedclu.fun
 greatest-hacks.com
 greatfreeapps235.download

@@ -8842,7 +8842,6 @@ a-ups-presence8-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presence9-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presence9-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presence9-prod-azsc.westus2.cloudapp.azure.com
-a-ups-presencecore1-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.australiaeast.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.japaneast.cloudapp.azure.com
@@ -40371,6 +40370,7 @@ conversion.pl
 conversionbet.com
 conversionfly.com
 conversionlabs.net.pl
+conversionlogic.net
 conversionly.com
 conversionruler.com
 conversions.adaptv.advertising.com
@@ -71683,6 +71683,7 @@ greatclips.net
 greatcpm.com
 greatdane.com
 greatdexchange.com
+greate2.com
 greatedo.com
 greatene.com
 greatergiving.com

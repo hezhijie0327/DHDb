@@ -1195,7 +1195,6 @@
 13636.com
 1368832400079045.cn-hangzhou.fc.aliyuncs.com
 136hr.com
-1370575.b2b.liebiao.com
 13707.net
 1375591.b2b.jinanfa.cn
 1377.com
@@ -29190,6 +29189,7 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
+get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -33618,6 +33618,7 @@ httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
 httpdns.ocloud.heytapmobi.com
+httpdns.push.heytapmobi.com
 httpdns.push.oppomobile.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
@@ -40861,7 +40862,6 @@ km.anjuke.com
 km.com
 km.lianjia.com
 km.xinray.net
-km1.muhoujiemi.com
 km169.net
 km1818.com
 kmail.com
@@ -50038,6 +50038,7 @@ oraybox.com
 oraycn.com
 orayer.com
 orayimg.com
+orbit.jd.com
 orbit.nfcos.cn
 orbitmes.com
 orcadt.com

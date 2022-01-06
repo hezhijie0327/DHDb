@@ -725,6 +725,7 @@
 1.bb6688.ws
 1.car21.net.daraz.com
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -3418,7 +3419,6 @@
 2d2d.hostei.com
 2d73.ru
 2d849933-dnsotls-ds.metric.gstatic.com
-2da6d8fae9.cc29bca73b.com
 2dad6fb89bd6ad325fdb8f2d3ee22c79.clo.footprintdns.com
 2daylink.com
 2days.org
@@ -4587,7 +4587,6 @@
 404mh.com
 404museum.com
 404url.com
-405400.com
 4058125.com
 407098.shop.cnlist.org
 407285029.com
@@ -47690,7 +47689,6 @@ discountbeatsstore.com
 discountbodyparts.com
 discountclick.com
 discountfifacoins.com
-discountforest.com
 discountryvc.club
 discountsoftwaremart.com
 discountwound.com
@@ -71550,7 +71548,6 @@ grafthivecrocus.cam
 grahambrown.com
 grahamreaper.com
 grahisiwhu.com
-graicmiw.com
 grailed.com
 grainger.com
 grainstucked.com
@@ -78604,7 +78601,6 @@ id.google.com
 id.google.com.hk
 id.hao123.com
 id.heroku.com
-id.kbmg.cz
 id.oculus.com
 id.payco.com
 id.promo.skf.com
@@ -94136,7 +94132,6 @@ log.anninhthudo.vn
 log.api.zaloapp.com
 log.apk.v-mate.mobi
 log.appdriver.jp
-log.avlyun.com
 log.avlyun.sec.intl.miui.com
 log.baodatviet.vn
 log.baodauthau.vn
@@ -110372,7 +110367,6 @@ northernintimate.com
 northernterritory.com
 northghost.com
 northhighland.com
-northinmatedepression.com
 northjersey.com
 northmay.com
 northpinedonkeys.com
@@ -121303,7 +121297,6 @@ pptschool.com
 pptte.com
 pptxtv.site
 pptzs.com
-ppund.vsegonet.com
 ppunion.com
 ppurio.com
 ppvmedien.de

@@ -2061,6 +2061,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
+2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -2277,7 +2278,6 @@
 230book.com
 230ghu.tdum.alibaba.com
 2312s.cn
-2317556.shop.liebiao.com
 2323u.com
 2323wan.com
 23243.xc.05cg.com
@@ -2995,6 +2995,7 @@
 363322014.com
 363u.com
 364000.com
+3647.tech
 36500.net
 365128.com
 36543.com
@@ -16871,7 +16872,6 @@ chinabimdata.org
 chinabmi.com
 chinabookinternational.org
 chinabreed.com
-chinabug.net
 chinabus.info
 chinabuses.com
 chinabym.com
@@ -21110,6 +21110,7 @@ dajiangtai.com
 dajianhui.com
 dajiashequ.com
 dajiashuo.com
+dajiazhao.com
 dajiazhongyi.com
 dajie.com
 dajixie.com
@@ -26579,6 +26580,7 @@ f89df8db52d999348c3dce8454e26ac6.dlied1.cdntips.net
 f99.gdsoq.com
 f9e09d749415eeb1b55e2b75b840cdb6.safeframe.googlesyndication.com
 f9e9542dq6tz0v6p.aliyunddos1026.com
+f9evcyf.cn
 fa-today.com
 fa.163.com
 fa597.com
@@ -37539,7 +37541,6 @@ ivysun.net
 iwala.net
 iwan.sogou.com
 iwan4399.com
-iwanbei.com
 iwanboy.com
 iwangding.com
 iwangnan.com
@@ -44597,6 +44598,7 @@ m.uczzd.cn
 m.umbbs.cn
 m.v.qq.com
 m.vaxyz.com
+m.vbinr.com
 m.video.xiaomi.com
 m.vmall.com
 m.wandoujia.com
@@ -46632,6 +46634,7 @@ mm831.com
 mm957.com
 mma.admaster.com.cn
 mma.qq.com
+mmae.qtmojo.com
 mmall.com
 mmapp.qpic.cn
 mmaqa.com
@@ -52264,7 +52267,6 @@ poobbs.com
 poocg.com
 poofx.com
 pook.com
-pool.ntp.org
 pool.v6.bt.n0808.com
 poolct.17173.com
 pooldist.shouyou.com

@@ -10269,6 +10269,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -15568,7 +15569,6 @@ cd.06bv.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
-cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -17984,7 +17984,6 @@ clkstat.china.cn
 clkstat.qihoo.com
 clled.com
 clloz.com
-clocklab.tech
 cloopen.com
 cloopen.net
 cloopm.com

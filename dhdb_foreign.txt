@@ -8493,7 +8493,6 @@
 9996132.com
 9997494f4d4b694d4f6702.online
 9997762.com
-999777.com
 99992000.com
 999988211.com
 99999.suroot.com
@@ -42054,7 +42053,6 @@ cs1227.wpc.alphacdn.net
 cs12d.com
 cs1404.wpc.epsiloncdn.net
 cs148.com
-cs154.com
 cs154.wac.edgecastcdn.net
 cs155.com
 cs203.com
@@ -56027,7 +56025,6 @@ ewind.us
 ewine.cl
 ewithjam.club
 ewnkic.hoiku-box.net
-ewomento.space
 ewooe6df.com
 eworfe.babyartikel.de
 eworld.com
@@ -75541,6 +75538,7 @@ hk.mobi.yahoo.com
 hk.myblog.yahoo.com
 hk.napi.ucweb.com
 hk.news.yahoo.com
+hk.pool.ntp.org
 hk.rs
 hk.schroders.email
 hk.search.yahoo.com

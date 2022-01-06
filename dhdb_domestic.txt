@@ -174,7 +174,6 @@
 027down.com
 027eat.com
 027fcyy.com
-027hhl.com
 027hpedu.com
 027hpit.com
 027htxt.com
@@ -14680,6 +14679,7 @@ c.youike.com.cn
 c.zhangle.com
 c.zhidian3g.cn
 c.zlongad.com
+c0.3.cn
 c0.3.cn.gslb.qianxun.com
 c0.ifengimg.com
 c01.i01.ctlsh.lv3.cloudglb.com
@@ -48159,7 +48159,6 @@ ncacg.org
 ncartfoundation.org
 ncfcsa.org
 ncfgroup.com
-ncfstatic.com
 ncfwx.com
 ncfz.com
 ncgi.video.qq.com
@@ -55675,7 +55674,6 @@ r.dmp.sina.cn
 r.dmp.sina.com.cn
 r.img.cctvpic.com
 r.inews.qq.com
-r.juxuyun.com
 r.l.youku.com
 r.mail.163.com
 r.ppdai.com

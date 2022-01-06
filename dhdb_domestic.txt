@@ -1,5 +1,6 @@
 0-100.com
 0-6.com
+0.cn.pool.ntp.org
 0.pic.pc6.com
 0.up.qingdaonews.com
 00.auto.sohu.com
@@ -35925,6 +35926,7 @@ img-tmdetail.alicdn.com
 img-tx-ugcimg.douyucdn2.cn
 img-vip-ssl.a.88cdn.com
 img-vip-ssl.a.88cdn.com.w.kunlungr.com
+img-x.jd.com
 img-x.jd.com.gslb.qianxun.com
 img-ys011.didistatic.com
 img.0279.net
@@ -42186,6 +42188,7 @@ lejiaolexue.com
 lejj.com
 lejlb.com
 leju.com
+lejuim.qtmojo.com
 lejuliang.com
 lejunwl.com
 lekevr.com
@@ -44839,7 +44842,6 @@ magev6.if.qidian.com
 maggie.gallerycdn.azure.cn
 magi.com
 magi.com.w.kunluncan.com
-magicboxgame.com
 magician.iqiyi.com
 magicleaders.com
 magicnetmall.com

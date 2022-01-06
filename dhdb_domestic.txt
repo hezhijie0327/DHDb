@@ -12691,6 +12691,7 @@ be-xx.com
 be.dpool.sina.cn
 be738b60908021c9817b0f021b69f07b.dlied1.cdntips.net
 be90.com
+bea-s.dinghuoche.com
 beacon-api.aliyuncs.com
 beacon.ias.tencent-cloud.net
 beacon.qq.com
@@ -40328,6 +40329,7 @@ kansdk.com
 kanseen.com
 kanshangjie.com
 kanshu.com
+kanshu8.net
 kanshuwangzhan.com
 kantao.net
 kantiantang.com
@@ -41545,7 +41547,6 @@ l4dk40faecw9jp.mwcname.com
 l4elb.cn
 l4scli1.cachenode.cn
 l5-hdslb.gslb.ksyuncdn.com
-l570mb.cn
 l574ou0.cdnnodedns.cn
 l6.fancyapi.com
 l68.net

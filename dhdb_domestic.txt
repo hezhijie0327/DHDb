@@ -8619,6 +8619,7 @@ agile-china.com
 agileex.com
 agilehw.online
 agiso-static.oss-cn-zhangjiakou.aliyuncs.com
+agiso.com
 agjy6.com
 agks5cwh.v1d.szbdyd.com
 agks5dao.v1d.szbdyd.com
@@ -8837,7 +8838,6 @@ aihao.org
 aihecong.com
 aihehuo.com
 aihelp.net
-aihu.me
 aihuaju.com
 aihuishou-internal.oss-cn-hangzhou.aliyuncs.com
 aihuishou-internal.oss-cn-hangzhou.aliyuncs.com.gds.alibabadns.com
@@ -22012,7 +22012,6 @@ dev.wifi8.com
 dev.youmi.net
 dev16.baidupan.com
 dev53.baidupan.com
-dev76.baidupan.com
 dev996.com
 devask.net
 devclub.cc

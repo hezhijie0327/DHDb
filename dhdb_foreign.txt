@@ -725,7 +725,6 @@
 1.bb6688.ws
 1.car21.net.daraz.com
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -3941,7 +3940,6 @@
 34.courier2-push-apple.com.akadns.net
 341073be6e9db7d2.com
 34130df8af26445ebaa437b8b5b2eaf4.fp.measure.office.com
-3414arzd.com
 3415677.com
 341666666.com
 342262.com
@@ -7114,7 +7112,6 @@
 7eb9db66-dnsotls-ds.metric.gstatic.com
 7ec4b630-dnsotls-ds.metric.gstatic.com
 7edown.com
-7ez4.cn
 7f8e91975bdc9c5f1c.com
 7faed2bc-dnsotls-ds.metric.gstatic.com
 7fba5e50-dnsotls-ds.metric.gstatic.com
@@ -17479,6 +17476,7 @@ am6777.com
 am728.com
 am730.com.hk
 am738.com
+am77p.cn
 ama.com
 amaando.com
 amaaozn.com
@@ -41973,7 +41971,6 @@ crystal-ad.ge
 crystal-toxic.cf
 crystalcorp.com
 crystalcruises.com
-crystalmart.cn
 crystalproducerhurried.com
 crystalski.ie
 cryweb.github.io
@@ -73963,6 +73960,7 @@ hcss.com
 hcth.com
 hctra.org
 hctxf.org
+hcwaxejunyzvxt.com
 hcwiki.com
 hcxfsh.publicdesire.com
 hcyacg.com
@@ -87638,7 +87636,6 @@ jx688.vip
 jx8885.com
 jx999.vip
 jxaxs.com
-jxbin.com
 jxbjt.com
 jxcc.cc
 jxcp1688.com
@@ -93798,7 +93795,6 @@ lknbffkv.com
 lknqfn.furla.com
 lkqd.com
 lkqd.net
-lksdc.com
 lkvkgk.levis.com.tr
 ll.a.hulu.com
 ll38.com
@@ -95992,6 +95988,7 @@ m.guanren9.com
 m.gujinyue.com
 m.gxwztv.com
 m.gz-bz.cn
+m.gzxiuyuan.cn
 m.hanhande.net
 m.haradeiu.rocks
 m.hbstjt88.cn

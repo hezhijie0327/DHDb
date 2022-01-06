@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -20694,6 +20693,7 @@ d2-ec.a.kwimgs.com
 d2-ec.a.kwimgs.com.w.cdngslb.com
 d2-m.ugslb.com
 d2-magic.static.yximgs.com
+d2-magic.static.yximgs.com.w.cdngslb.com
 d2-magic.static.yximgs.com.w.cdngslb.com.qr.uuhimalayanqm.com
 d2-pro.a.kwimgs.com
 d2-pro.a.kwimgs.com.w.cdngslb.com
@@ -37882,6 +37882,7 @@ jcxcvqc.cn
 jcyes.com
 jcyipong.com
 jcyx2019.com
+jczhijia.com
 jczhiyao.com
 jd-88.com
 jd-app.com

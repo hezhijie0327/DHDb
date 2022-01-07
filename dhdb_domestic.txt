@@ -52548,7 +52548,6 @@ prod-metro-admin.oss-cn-shanghai.aliyuncs.com
 prod-metro-admin.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
 prod-rso.lol.qq.com
 prod.api.xiaomi.cn
-prodev.m.jd.com
 prodev.m.jd.com.gslb.qianxun.com
 product.58che.com
 product.dangdang.com

@@ -3132,6 +3132,7 @@
 252ai.com
 253.97.69.113.zz.countries.nerd.dk
 2531134.b2b.liebiao.com
+2531134.shop.liebiao.com
 2532707.b2b.liebiao.com
 25351001.com
 2538509.b2b.liebiao.com
@@ -8305,7 +8306,6 @@
 975648129.com
 975648131.com
 975648132.com
-975648133.com
 975648134.com
 97609aa7-dnsotls-ds.metric.gstatic.com
 9769399.com
@@ -11916,6 +11916,7 @@ ad110.com
 ad1124.com
 ad12.focalink.com
 ad120m.com
+ad12345.com
 ad127m.com
 ad13.focalink.com
 ad132m.com
@@ -117680,6 +117681,7 @@ pdftfe.thekooples.com
 pdiinfo.com.cn
 pdisoftware.com
 pdisp01.c-wss.com
+pdl.gionee.com
 pdlavr.erwinmueller.com
 pdmp.jp
 pdmsmrt.buick.ca

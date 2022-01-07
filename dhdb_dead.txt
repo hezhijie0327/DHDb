@@ -6628,7 +6628,6 @@ adserver1.harvestadsdepot.com
 adserver1.isohunt.com
 adserver1.lokitorrent.com
 adserver1.ogilvy-interactive.de
-adserver1.sonymusiceurope.com
 adserver2.adserver.com.pl
 adserver2.atman.pl
 adserver2.christianitytoday.com
@@ -8815,7 +8814,6 @@ arportfolio.rahmanmahbub.com
 arpun.com
 arrariedcra.club
 arrassley.info
-arrietty.nrj.fr
 arrombadodenunciaai.hopto.org
 arrowkeeperdigest.com
 arrowowner.com
@@ -20488,7 +20486,6 @@ e.miiuv.com
 e.mozist.com
 e.mqgpo.com
 e.mrsasharingspace.com
-e.mrtuo.com
 e.mspazmw.cn
 e.mushizhubao.com
 e.mutvib.cn
@@ -20549,6 +20546,7 @@ e.rjiau.com
 e.rkssxrh.cn
 e.rkw29.cn
 e.rmwdn.com
+e.romgv.com
 e.rp71l.cn
 e.rpaulfrank.com
 e.rqvfewi.cn

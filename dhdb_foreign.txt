@@ -725,7 +725,6 @@
 1.bb6688.ws
 1.car21.net.daraz.com
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -1526,6 +1525,7 @@
 1485396.b2b.liebiao.com
 14866.com
 1487e29a-dnsotls-ds.metric.gstatic.com
+1489469.b2b.liebiao.com
 148dfe140d0f3d5e.com
 149.239.36.125.zz.countries.nerd.dk
 1495039.com
@@ -6320,7 +6320,6 @@
 6655.com
 6655js.com
 6657f1d5a25b6.com
-66603.pw
 6661309.com
 6664398.com
 6665890.com
@@ -18862,7 +18861,6 @@ annienne.com
 anniers.com
 annikasorenstam.com
 anninhthudo.vn
-anniversarytoothbrush.com
 annonce.cz
 annonce.lequipement.fr
 annonser.dagbladet.no
@@ -25197,7 +25195,6 @@ bdgg.youbian.com
 bdgns.com
 bdi-services.de
 bdickh.globalgolf.com
-bditong.com
 bdj55.com
 bdj98.com
 bdkuth.smartbuyglasses.co.uk
@@ -92112,7 +92109,6 @@ let47.com
 let51.com
 let545.com
 let558.com
-let59.com
 let601.com
 let62.com
 let77.net
@@ -102437,6 +102433,7 @@ mg.k9dzax.cn
 mg.ledaren.cn
 mg.mail.yahoo.com
 mg.steepto.com
+mg21.com
 mg2connext.com
 mg3333.com
 mg64.net

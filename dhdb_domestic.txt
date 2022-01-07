@@ -8990,6 +8990,7 @@ aixifan.com
 aixinbaomu.com
 aixinwu.org
 aixq.com
+aixsq.com
 aixuedai.com
 aixuefu.com
 aixuetang.com
@@ -18519,7 +18520,6 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -21964,7 +21964,6 @@ descnew.taobao.com
 desdev.cn
 design.sspu.edu.cn
 design006.com
-design521.com
 designboard.cc
 designsketchskill.com
 designuuu.com
@@ -45854,6 +45853,7 @@ mercury-image.nhsoft.cn
 mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
+mercury.jd.com
 mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com

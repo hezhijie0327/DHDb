@@ -10162,6 +10162,7 @@ api.bigfun.cn
 api.biliapi.net
 api.bilibili.com
 api.biligame.com
+api.browser.miui.com
 api.bs.zui.com
 api.btstu.cn
 api.bz
@@ -35493,7 +35494,6 @@ ihxlife.com
 ihzzy.com
 ii.gdt.qq.com
 ii090.com
-ii3g.com
 ii4lp.tdum.alibaba.com
 ii74.com
 ii77.com
@@ -40889,7 +40889,6 @@ knet.cn
 knewbi.com
 knewone.com
 knewsmart.com
-knicks.jd.com
 knicks.jd.com.gslb.qianxun.com
 knisterpeter.gallerycdn.azure.cn
 knja123.top
@@ -55542,7 +55541,6 @@ qx121.com
 qx162.com
 qxbnkj.com
 qxcu.com
-qxhspimg.com
 qxiu.com
 qxkp.net
 qxm.pluto.sogou.com

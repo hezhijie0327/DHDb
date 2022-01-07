@@ -14558,6 +14558,7 @@ c-sta-cn.upltv.com
 c-uaa.if.iqiyi.com
 c.02kdid.com
 c.28rv.com
+c.3.cn
 c.3.cn.gslb.qianxun.com
 c.35kds.com
 c.51y5.net
@@ -15569,6 +15570,7 @@ cd.06bv.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
+cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -18136,6 +18138,7 @@ club-img.douyucdn.cn
 club-v4.chinanorth.cloudapp.chinacloudapi.cn
 club.bilibili.com
 club.jd.com
+club.jd.com.gslb.qianxun.com
 club.lenovo.com.cn
 club.m.autohome.com.cn
 club.vip.qq.com
@@ -29625,7 +29628,6 @@ gmjk.com
 gmm01.com
 gmmicro.com
 gmmsj.com
-gmonitor.aliimg.com
 gmonline-all.com
 gmopce.com
 gmota.g188.net
@@ -51416,6 +51418,7 @@ peoplenews.eu
 peoplerail.com
 pepresource.com
 pepsico.com.cn
+perf.m.jd.com
 perf.m.jd.com.gslb.qianxun.com
 perfect-input.com
 peropero.net

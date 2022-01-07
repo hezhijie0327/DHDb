@@ -4674,7 +4674,6 @@
 58wangwei.com
 58wanwan.com
 58xinrui.com
-58xs.tw
 58xueche.com
 58xuexi.com
 58yuesao.com
@@ -7664,7 +7663,6 @@ ablesky.com
 abletive.com
 ablman.com
 ablog.talkyun.com.cn
-abmau.com
 aboatedu.com
 aboboo.com
 aboilgame.com
@@ -19533,6 +19531,7 @@ count.pcauto.com.cn
 count.pcpop.com
 count.taobao.com
 count.video.sina.com.cn
+count.vrs.sohu.com
 count.west263.com
 count.wk2.com
 count.xxxssk.com
@@ -43404,6 +43403,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -49115,6 +49115,7 @@ ntp5.aliyun.com
 ntp6.aliyun.com
 ntp7.aliyun.com
 ntpcb.com
+ntpr.xyz
 ntqcct.com
 ntrcb.com
 ntuiw.cc

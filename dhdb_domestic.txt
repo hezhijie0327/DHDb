@@ -1080,7 +1080,6 @@
 123aoe.com
 123bo.com
 123cha.com
-123chaogu.com
 123cw.cn
 123ems.com
 123fc.com
@@ -18520,6 +18519,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -21178,6 +21178,7 @@ dangaoss.com
 dangbei.com
 dangbei.net
 dangbeiprojector.com
+dangcdn.com
 dangdang.com
 danghongyun.com
 danghuan.com

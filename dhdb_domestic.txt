@@ -21675,7 +21675,6 @@ dbzgia.com
 dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
-dc.ads.linkedin.com
 dc.api.my7v.com
 dc.chillyroom.com
 dc.console.aliyun.com
@@ -51164,7 +51163,6 @@ pb.hd.sohu.com
 pb.hd.sohu.com.cn
 pb.i.sogou.com
 pb.jd.com
-pb.sogou.com
 pb.sys.pp8.com
 pb1.pstatp.com
 pb10.sogou.com

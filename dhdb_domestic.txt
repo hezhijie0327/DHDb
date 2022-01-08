@@ -13713,7 +13713,6 @@ blackbirdsport.com
 blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
-blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
@@ -18536,7 +18535,6 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com

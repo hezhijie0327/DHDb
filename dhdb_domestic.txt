@@ -2056,7 +2056,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
@@ -11400,7 +11399,6 @@ autoqingdao.com
 autoshanghai.org
 autosmt.net
 autospaceplus.com
-autoupdate.tantanapp.com
 autoupdate7.synology.cn
 auwinner.com
 aux.soperson.com
@@ -14906,7 +14904,6 @@ cache.video.qiyi.com
 cache.yisu.com
 cache.yisu.com.w.cdngslb.com
 cacheapigo.che168.com
-cachecn.com
 cachecn.net
 cachekit.com
 cachenode.cn

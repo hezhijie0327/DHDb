@@ -2626,6 +2626,7 @@
 3.3322722.com
 3.39zuoye.com
 3.5646.cn
+3.cn.pool.ntp.org
 3.iscrv.com
 3.pic.pc6.com
 3.ssqzj.com
@@ -11176,6 +11177,7 @@ assets.easou.com
 assets.giocdn.com
 assets.giocdn.com.wswebpic.com
 assets.gitee.com
+assets.growingio.com
 assets.growingio.com.wswebpic.com
 assets.taobao.com
 assets.taobao.com.w.cdngslb.com

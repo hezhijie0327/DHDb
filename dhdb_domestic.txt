@@ -655,7 +655,6 @@
 1.92caijing.com
 1.aili.com
 1.asia.pool.ntp.org
-1.bh5.com.cn
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
@@ -10724,7 +10723,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -29759,7 +29757,6 @@ gold.org
 gold.szonline.net
 gold58.com
 gold678.com
-gold8818.com
 goldapple.name
 goldav.net
 goldbj.com
@@ -31441,7 +31438,6 @@ hao245.com
 hao268.com
 hao3399.com
 hao360.com
-hao394.com
 hao4k.cn
 hao549.com
 hao568.com
@@ -48884,6 +48880,7 @@ nmgd.com
 nmgfood.net
 nmgfrank.com
 nmggyy.com
+nmgrwjz.com
 nmgwyw.org
 nmgyljs.com
 nmgzlt.com

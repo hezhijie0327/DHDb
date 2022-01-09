@@ -2,6 +2,7 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -11229,6 +11230,7 @@ atcc360.com
 atchip.com
 atcontainer.com
 atcpu.com
+atctest.org
 atf.com
 atfeng.com
 atguigu.com
@@ -44364,7 +44366,6 @@ m.anjuke.com
 m.anzhuotan.com
 m.api.baifendian.com
 m.apkzu.com
-m.arctime.cn
 m.asklib.com
 m.atm.youku.com
 m.atobo.com

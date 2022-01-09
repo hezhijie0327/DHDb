@@ -14388,6 +14388,7 @@ adserver.betandwin.de
 adserver.bidsxchange.com
 adserver.bing.com
 adserver.bizedge.com
+adserver.bizhat.com
 adserver.bizland-inc.net
 adserver.bluereactor.com
 adserver.break-even.it
@@ -18441,6 +18442,7 @@ analytics.souazi.com
 analytics.southjerseyquakers.org
 analytics.spankbang.com
 analytics.spark.co.nz
+analytics.sports.ru
 analytics.sportybet.com
 analytics.spotify.com
 analytics.spotta.nl
@@ -23197,7 +23199,6 @@ azdrama.se
 aze0.dmp.leclerc
 azek.com
 azera-s014.com
-azerbaycan.tv
 azerimix.com
 azeriondigital.com
 azerty.nl
@@ -72046,6 +72047,7 @@ grpc.termius.com
 grptrker.com
 grrrgraphics.com
 grs.dbankcloud.asia
+grs.dbankcloud.com
 grss-ieee.org
 grt01.com
 grt02.com
@@ -84643,6 +84645,7 @@ ithk.org
 ithome.com.tw
 ithothub.com
 ithubainternships.co.za
+itiger.com
 itim.vn
 itimoh.eslgaming.com
 itinerarymonarchy.com

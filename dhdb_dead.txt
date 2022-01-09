@@ -6522,7 +6522,6 @@ adserver.atari.net
 adserver.backbeatmedia.com
 adserver.billiger-surfen.de
 adserver.billiger-telefonieren.de
-adserver.bizhat.com
 adserver.bluereactor.net
 adserver.bluewin.ch
 adserver.buttonware.com
@@ -7969,7 +7968,6 @@ analytics.radiatemedia.com
 analytics.redbubble.com
 analytics.services.distractify.com
 analytics.sonymusic.com
-analytics.sports.ru
 analytics.sqreem.com
 analytics.teamcoco.com
 analytics.techdiary.dev
@@ -9401,6 +9399,7 @@ azchcdnj.com
 azchcdnk.com
 azchcdnm.com
 azcode.pw
+azerbaycan.tv
 azerty.solutions
 azfilesharing.com
 azmdy.com

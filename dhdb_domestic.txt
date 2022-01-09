@@ -15719,7 +15719,6 @@ cdn-x-w.momentcdn.net
 cdn-x-w.momentcdn.net.cname.yunjiasu-cdn.net
 cdn-xalbum-baishan.xiaoniangao.cn
 cdn-xalbum-compress-baishan.xiaoniangao.cn
-cdn-xalbum-compress-qiniu.xiaoniangao.cn
 cdn-xalbum-compress.xiaoniangao.cn
 cdn-xalbum-mp4.xiaoniangao.cn
 cdn-xalbum2.xiaoniangao.cn
@@ -22017,7 +22016,6 @@ dev.tg.youxi.com
 dev.umeng.com
 dev.wifi8.com
 dev.youmi.net
-dev16.baidupan.com
 dev53.baidupan.com
 dev996.com
 devask.net
@@ -25907,7 +25905,6 @@ eopa.bdstatic.com
 eopa.n.shifen.com
 eoriver.com
 eosantpool.com
-eospark.com
 eotwsg.tdum.alibaba.com
 eovas.net
 ep-china.net
@@ -28841,6 +28838,7 @@ garden-aquarium.com
 gardencn.com
 garmuri.com
 garnoc.com
+gars57.cn
 gas.data.pplive.com
 gasfw.com
 gasgoo.com
@@ -40844,7 +40842,6 @@ kld666.com
 kldjy.com
 kldsam.com
 klfxq.kieedi.foosheng.com
-klicen.com
 klinlee.com
 kliptracker.com
 kljiyou.com

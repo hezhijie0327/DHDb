@@ -270,7 +270,6 @@
 0481rv10sh2q42z7.aliyunddos1026.com
 048a51b35f1f453e2d881eb947513973.safeframe.googlesyndication.com
 04fa21680e59644b11d8822fccf600ec.safeframe.googlesyndication.com
-04wan.com
 0504b2c472e31baad06215d2e05a7cd6.dlied1.cdntips.net
 051058.com
 0510syedu.com
@@ -10399,6 +10398,7 @@ api.xitongcheng.com.cname.yunjiasu-cdn.net
 api.xmpush.xiaomi.com
 api.xsj.wasu.tv
 api.xueersi.com
+api.xueersi.com.w.cdngslb.com
 api.xunyou.mobi
 api.yangkeduo.com
 api.ydl.com
@@ -14171,6 +14171,7 @@ brzhang.club
 bs-adaptive.pull.yximgs.com
 bs-origin.pull.yximgs.com
 bs.csshq.com.cn
+bs.forward.douban.com
 bs008.com
 bs14.9669.cn
 bs56.net

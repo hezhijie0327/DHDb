@@ -1171,6 +1171,7 @@
 1210268.b2b.liebiao.com
 1210268.shop.liebiao.com
 1210399.b2b.liebiao.com
+1210399.shop.liebiao.com
 1212u.com
 1214016.shop.liebiao.com
 1215655.b2b.liebiao.com
@@ -3064,6 +3065,7 @@
 249.132.77.124.zz.countries.nerd.dk
 249057.cc
 24917ba6-dnsotls-ds.metric.gstatic.com
+2492320.b2b.liebiao.com
 2493598.com
 2493944.shop.liebiao.com
 2495289.b2b.liebiao.com
@@ -8424,7 +8426,6 @@
 9898b.net
 989p989q.com
 989y989y.com
-98app1.com
 98app3.com
 98ben.com
 98bf9h8jbg.com
@@ -40669,6 +40670,7 @@ core.gcp.vip.tantanapp.com
 core.opentext.com
 core.royalads.net
 core.spreedly.com
+core.tantanapp.com
 core.unit-sense.net
 core.vchat.vn
 core.vnecdn.com
@@ -105559,7 +105561,6 @@ mpfive.com
 mpfoklbjfy.com
 mpgames.org
 mpglie.apartmentguide.com
-mphgyvnbap.com
 mphlrt.snipes.at
 mpinews.com
 mpio.io
@@ -127484,6 +127485,7 @@ redircar40.net.daraz.com
 redircdn.com
 redirecionador.fun
 redirect-allseason.net.daraz.com
+redirect-connection.com
 redirect-disableddata.net.zooplus.de
 redirect-legacy.tester.net.zooplus.com
 redirect-lib-ht-1.net.daraz.com

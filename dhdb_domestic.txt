@@ -2074,7 +2074,6 @@
 200y.com
 2012.8684.com
 2012.sina.com.cn
-2012379.b2b.liebiao.com
 20130123.com
 2014.mobi
 201551.com
@@ -2346,7 +2345,6 @@
 246546.com
 2465841.sched.skalego-dk.tdnsv5.com
 248xyx.com
-2493944.b2b.liebiao.com
 249e6745.qc.x.bsgslb.cn
 24d8813bd1df634526ba9e99b463ebb8.dlied1.cdntips.net
 24e4d7191482a3e2283034a6762996f6.safeframe.googlesyndication.com
@@ -10867,7 +10865,6 @@ appurl.me
 appuu.cn
 appversion.115.com
 appvipshop.com
-appvv.com
 appweiyuan.com
 appwill.com
 appwk.baidu.com
@@ -18525,6 +18522,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -49431,6 +49429,7 @@ oesell.com
 oetsi.com
 oex.com
 ofcard.com
+ofd.meng-an.cn
 off.vip
 offcn.com
 offer.alibaba.com

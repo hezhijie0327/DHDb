@@ -1162,7 +1162,6 @@
 1334242.b2b.jinanfa.cn
 1337544.sched.sma-dk.tdnsv5.com
 13377608388.com
-1339857.b2b.liebiao.com
 133998.com
 133gp.com
 133jz.com
@@ -4102,7 +4101,6 @@
 51sole.com
 51songguo.com
 51speeds.com
-51spjx.com
 51spm.com
 51sxue.cn
 51sxue.com
@@ -14856,6 +14854,7 @@ ca7755.com
 ca7799.com
 ca77d8615eccf0101e8ba9d27b2d4f2c.v.smtcdns.net
 ca800.com
+ca9033.com
 caaa-spacechina.com
 caaad.com
 caacbook.com
@@ -15715,6 +15714,7 @@ cdn-x-w.momentcdn.net
 cdn-x-w.momentcdn.net.cname.yunjiasu-cdn.net
 cdn-xalbum-baishan.xiaoniangao.cn
 cdn-xalbum-compress-baishan.xiaoniangao.cn
+cdn-xalbum-compress-qiniu.xiaoniangao.cn
 cdn-xalbum-compress.xiaoniangao.cn
 cdn-xalbum-mp4.xiaoniangao.cn
 cdn-xalbum2.xiaoniangao.cn
@@ -22876,6 +22876,7 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
+dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -44514,7 +44515,6 @@ m.mi.com
 m.mijisou.com
 m.mpl.dutils.com
 m.mtuoa.com
-m.mxguan.com
 m.myams.cn
 m.mysty.com.cn
 m.nabeghlavi.com.cn

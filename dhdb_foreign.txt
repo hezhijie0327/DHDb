@@ -7481,6 +7481,7 @@
 850500.com
 8505008.com
 8505031.com
+8505038.com
 851bdcfc-dnsotls-ds.metric.gstatic.com
 8521.org
 8524952.com
@@ -22116,7 +22117,6 @@ attinternetservice.com
 attirerpage.com
 attivertura.com
 attjoy.com
-attleboroarchcape.com
 attnetclient.com
 attomdata.com
 attonlineoffers.com
@@ -83372,7 +83372,6 @@ intervarsitycamps.ca
 interviewstream.com
 intervigil.com
 interweave.com
-interwinvn.com
 interworks.cloud
 interworksmedia.co.kr
 intext-a.akamaihd.net

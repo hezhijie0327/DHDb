@@ -10225,7 +10225,6 @@ api.hengdianfilm.com
 api.home.news.cn
 api.huangye.miui.com
 api.huya.com
-api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -20449,7 +20448,6 @@ cypmedia.com
 cypresstel.com
 cyqyzx.com
 cyruc.com
-cysd.7kww.net
 cysq.com
 cysua.com
 cytcard.com
@@ -28372,7 +28370,6 @@ fytz.net
 fyvart.com
 fyw0898.com
 fywx.cc
-fyxz.com
 fyyy.com
 fyzbgp.a.sohu.com
 fyzku.com
@@ -29379,7 +29376,6 @@ ghost64.com
 ghostchina.com
 ghostsf.com
 ghostxx.com
-ghpym.com
 ghrlib.com
 ghs.net
 ghsmpwalmart.com
@@ -31303,6 +31299,7 @@ handanw.com
 handanyz.com
 handbb.com
 handday.com
+handdiy.com
 handfunds.com
 handian027.com
 handone.com
@@ -41445,6 +41442,7 @@ kwm.com
 kwmiosjump.kuwo.cn
 kwmsg.kuwo.cn
 kwtzn.com
+kwurl.ucweb.com
 kwxjh.net
 kx001.com
 kx516.com

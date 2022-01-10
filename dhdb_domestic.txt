@@ -13696,7 +13696,6 @@ black-unique.com
 blackbirdsport.com
 blackdir.com
 blackdragon.com
-blackhole-m.m.jd.com
 blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
@@ -29430,6 +29429,7 @@ gimg4.baidu.com
 gimhoy.com
 gimoo.net
 gio-api.fcb.com.cn
+gio.ren
 giocdn.com
 gionee.com
 gionee.net
@@ -37809,7 +37809,6 @@ jbcz.tv
 jbelf.com
 jbenden.gallerycdn.azure.cn
 jbfoundry.com
-jbo106.com
 jbo28.com
 jbo568.com
 jbo600.com

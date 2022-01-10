@@ -721,6 +721,7 @@
 1.bb6688.ws
 1.car21.net.daraz.com
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -1034,6 +1035,7 @@
 1141614.b2b.liebiao.com
 1141936.com
 1144313.b2b.liebiao.com
+1144725.shop.liebiao.com
 1144809.b2b.liebiao.com
 1144809.shop.liebiao.com
 1144hu.com
@@ -41984,7 +41986,6 @@ cryptodoubler.io
 cryptoforhealth.com
 cryptographyengineering.com
 cryptokoinz.com
-cryptomeans.co
 cryptomine.pro
 cryptomoneytechh.blogspot.com
 cryptonote.club
@@ -87022,6 +87023,7 @@ jrhrlr.litterbox.com
 jria.jpn.com
 jribwa.jhpfashion.nl
 jrkan.cc
+jrkantv.com
 jrklein.com
 jrnrgc.kitchenshop.ro
 jropij.minelli.fr

@@ -2,7 +2,6 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -14166,7 +14165,6 @@ brzhang.club
 bs-adaptive.pull.yximgs.com
 bs-origin.pull.yximgs.com
 bs.csshq.com.cn
-bs.forward.douban.com
 bs008.com
 bs14.9669.cn
 bs56.net
@@ -16189,7 +16187,6 @@ cftea.com
 cfucn.com
 cfund108.com
 cfws.samr.gov.cn
-cfxinxi.cn
 cfxydefsyy.com
 cfzb.org
 cfzq.com
@@ -26467,7 +26464,6 @@ ezwan.com
 ezywtlyf.sched.sma.tdnsv5.com
 f-0.cc
 f-api.wps.cn
-f-mall.jd.com
 f-mall.jd.com.gslb.qianxun.com
 f-vali.cp31.ott.cibntv.net
 f.aty.sohu.com
@@ -28180,6 +28176,7 @@ fun88369.com
 fun88721.com
 fun8878.com
 fun88asia1.com
+fun909.com
 funchat.cc
 functionads.com
 fund.10jqka.com.cn
@@ -30382,7 +30379,6 @@ gucunpark.net
 gudaovision.com
 gudi.suning.com
 gudianhr.com
-guduopu.com
 guer.org
 guess.mediav.com
 guess.tf.360.cn
@@ -42307,6 +42303,7 @@ letv.com
 letv.m.cn.miaozhen.com
 letv8.com
 letvcloud.com
+letvertise.com
 letwind.com
 letwx.com
 letyo.com

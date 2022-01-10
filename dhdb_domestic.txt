@@ -24839,6 +24839,7 @@ e.gitee.com
 e.ishansong.com
 e.joyxv.com
 e.kuaishou.com
+e.mysty.com.cn
 e.ninebox.cn
 e.nxypz.com
 e.poonscn.com
@@ -40565,6 +40566,7 @@ kenxq.com
 kenxr.com
 kepingtong.com
 kepler-cn.captcha.qcloud.com
+kepler.jd.com
 kepler.ptqy.gitv.tv
 kepuchina.org
 kepusky.com
@@ -52561,6 +52563,7 @@ prod-metro-admin.oss-cn-shanghai.aliyuncs.com
 prod-metro-admin.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com
 prod-rso.lol.qq.com
 prod.api.xiaomi.cn
+prodev.m.jd.com
 prodev.m.jd.com.gslb.qianxun.com
 product.58che.com
 product.dangdang.com
@@ -53023,7 +53026,6 @@ push.tv.sohu.com
 push.ulive.ugslb.com
 push.wapx.cn
 push.yuedu.163.com
-push.zdworks.com
 push.zhangyue.com
 push.zhanzhang.baidu.com
 push.zhihu.com
@@ -56861,7 +56863,6 @@ rvmcu.com
 rwnbfi0d.sched.s2-dk.tdnsv5.com
 rwpt.top
 rwq.youle55.com
-rwss.jdy33.cn
 rwtext.com
 rwxqfbj.com
 rwxwl.com

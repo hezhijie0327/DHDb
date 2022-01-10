@@ -22778,6 +22778,7 @@ dj.captcha.qq.com
 dj.net
 dj.renren.com
 dj0.baidu.com
+dj0ts1x.cn
 dj1.baidu.com
 dj10.com
 dj2.baidu.com
@@ -42916,7 +42917,6 @@ linuxacme.icu
 linuxba.com
 linuxbaike.com
 linuxbaodian.com
-linuxboy.net
 linuxcool.com
 linuxdaxue.com
 linuxdot.net
@@ -51143,6 +51143,7 @@ pb.hd.sohu.com
 pb.hd.sohu.com.cn
 pb.i.sogou.com
 pb.jd.com
+pb.sogou.com
 pb.sys.pp8.com
 pb1.pstatp.com
 pb10.sogou.com

@@ -2109,6 +2109,7 @@
 18wk.com
 18xgroup.com
 18xl.biz
+18xl.in
 18xl.org
 18xs.org
 18xsw.org
@@ -5315,6 +5316,7 @@
 51tv.net
 51tvlu.com
 51vba.com
+51vipedu.com
 51wanqiu.net
 51weidashi.com
 51wf.com
@@ -15519,6 +15521,7 @@ afa.org
 afa28048bf78ad9.com
 afa9bdfa63bf7.com
 afantibbs.com
+afbanner.kinobomber3.online
 afbcashidr.com
 afbshop.de
 afcab5cf-dnsotls-ds.metric.gstatic.com
@@ -25317,7 +25320,6 @@ beaconevents.com
 beaconin2.notinote.me
 beacons.brandads.net
 beacons.mediamelon.com
-beacons2.gvt2.com
 beacons4.gvt2.com
 beacons5.gvt2.com
 beaconsco.com
@@ -31356,6 +31358,7 @@ buzzardflapper.com
 buzzav.com
 buzzbuttons.com
 buzzcity.net
+buzzdeck.com
 buzzdock.com
 buzzfeed.com
 buzzhand.com
@@ -80287,7 +80290,6 @@ incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
 incompatiblemisterfarmer.com
 incompetentjoke.com
-incompetentsummitseparation.com
 inconvenientdilapidation.com
 incoproip.com
 incorphishor.com
@@ -120600,6 +120602,7 @@ pool.graft.hashvault.pro
 pool.minexmr.com
 pool.nimiq-network.com
 pool.nimiq.watch
+pool.ntp.org
 pool.supportxmr.com
 pool.tdcoincore.org
 pool.torrent.pw

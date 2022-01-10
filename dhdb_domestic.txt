@@ -10708,6 +10708,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -51050,6 +51051,7 @@ passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
 passport.lagou.com
+passport.lenovo.com
 passport.lenovo.com.cn
 passport.meituan.com
 passport.mydrivers.com
@@ -54083,7 +54085,6 @@ qibo168.com
 qibosoft.com
 qibulo.com
 qibuzw.com
-qibxdwe1.com
 qicaispace.com
 qicaitechan.com
 qicaizz.com

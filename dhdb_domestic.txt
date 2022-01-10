@@ -1097,7 +1097,6 @@
 125.la
 1251337138.cdn.myqcloud.com
 1251413404.vod2.myqcloud.com
-1252747.b2b.liebiao.com
 12530.com
 12540.org
 12580.com
@@ -2366,7 +2365,6 @@
 2532426.b2b.liebiao.com
 253952.com
 253u.com
-2541629.shop.liebiao.com
 254game.com
 25522jb.com
 255899.p23.tc.cdntip.com
@@ -16870,6 +16868,7 @@ chinabimdata.org
 chinabmi.com
 chinabookinternational.org
 chinabreed.com
+chinabug.net
 chinabus.info
 chinabuses.com
 chinabym.com
@@ -50327,7 +50326,6 @@ owomoe.net
 owspace.com
 owulia.com
 oxbridgedu.org
-oxdfx.com
 oxqoney.cn
 oxyry.com
 oy240.cn

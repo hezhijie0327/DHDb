@@ -15384,7 +15384,6 @@ ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfb707b077b94f38031072966a06631.safeframe.googlesyndication.com
 ccfei.com
-ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
 ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
@@ -44080,6 +44079,7 @@ lvanol.com
 lvchanghuanbao.com
 lvchayun.com
 lvchehui.com
+lvcheng.com
 lvchicar.com
 lvcrown.com
 lvdoutang.com
@@ -51054,7 +51054,6 @@ passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
 passport.lagou.com
-passport.lenovo.com
 passport.lenovo.com.cn
 passport.meituan.com
 passport.mydrivers.com

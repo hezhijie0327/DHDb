@@ -1,6 +1,5 @@
 0-100.com
 0-6.com
-0.cn.pool.ntp.org
 0.pic.pc6.com
 0.up.qingdaonews.com
 00.auto.sohu.com
@@ -1014,7 +1013,6 @@
 1206397.sched.v1.tdnsv5.com
 120ask.com
 120askimages.com
-120btc.com
 120hpyy.com
 120kaoshi.com
 120kid.com
@@ -9015,6 +9013,7 @@ aiziti.net
 aizuna.com
 aizuopin.com
 aj92c2.tdum.alibaba.com
+ajapk.com
 ajaxjs.com
 ajaxstu.com
 ajbbkf.com

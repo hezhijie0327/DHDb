@@ -691,7 +691,6 @@
 1.url.cn.sched.px-dk.tdnsv6.com
 1.v-x.com.cn
 1.weiheshidai.com
-1.wenzhangba.cn
 1.xilu.com
 1.xuexili.com
 1.xytom.com
@@ -21662,7 +21661,6 @@ dc.meitustat.com
 dc.sigmob.cn
 dc.so.le.com
 dc0555.com
-dc1.networkbench.com
 dc330.com
 dc3311.com
 dc4444.com
@@ -23189,6 +23187,7 @@ dns.map.baidu.com
 dns.pub
 dns.update.netease.com
 dns.weibo.cn
+dns.weixin.qq.com
 dns.ximalaya.com
 dns002.com
 dns0755.net
@@ -26966,7 +26965,6 @@ fcxxh.org
 fcyhw.com
 fcz360.com
 fczx.com
-fd-trust.com
 fd.3.cn
 fd.3.cn.gslb.qianxun.com
 fd.qchannel03.cn
@@ -29706,7 +29704,6 @@ goeasy.io
 goepe.com
 goertek.com
 goetheslz.com
-goframe.org
 gog.qtlglb.com
 gogalaxy.gog-statics.com
 gogbuy.com
@@ -43929,7 +43926,6 @@ luckincoffee.com
 lucklnk.com
 lucktui.com
 lucky.wps.cn
-luckyjia.com
 luckyxp.net
 lucode.net
 lucoder.com
@@ -44469,6 +44465,7 @@ m.joyxv.com
 m.jr.jd.com
 m.jrj.com.cn
 m.jy135.com
+m.jzqyw.com
 m.k.sohu.com
 m.k73.com
 m.kafan.cn

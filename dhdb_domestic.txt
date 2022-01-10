@@ -47165,7 +47165,6 @@ mps.amap.com
 mps.amap.com.gds.alibabadns.com
 mps.wenkuzu.com
 mps.yuwenba.cn
-mps.yuwenba.cn.cname3668.yjs-cdn.com
 mpsapi.amap.com
 mptcp-router.uu.163.com
 mpush-api.aliyun.com

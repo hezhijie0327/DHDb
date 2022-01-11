@@ -2557,6 +2557,7 @@
 2i0vw.com
 2ibook.com
 2ic.cc
+2ilt.com
 2img.hitv.com
 2img.mgtv.com
 2ita.com
@@ -8679,7 +8680,6 @@ ahkemi.com
 ahkende.com
 ahkjksw.com
 ahkjw.com
-ahkrd88.com
 ahkxsoft.com
 ahlib.com
 ahlife.com
@@ -12915,7 +12915,6 @@ bestpush.pconline.com.cn
 bestqliang.com
 bestshinhwa.com
 bestsign.info
-bestsrc.com
 besttoneh.com
 besttrav.com
 bestv6.com
@@ -25884,7 +25883,6 @@ ent1.qunchua.cn
 ent1.qunchua.com
 ent120.com
 entboost.com
-enterdesk.com
 enterprise.fanyigou.cn
 enterprise.fanyigou.com
 entphz.alipay.com
@@ -37317,7 +37315,6 @@ itanlian.com
 itanzi.com
 itaoke.org
 itaokecms.com
-itaotm.com
 itaotuo.com
 itaoxiaoshuo.com
 itavcn.com
@@ -51301,6 +51298,7 @@ pcw-api.iqiyi.com.w.alikunlun.com
 pcw-data.video.iqiyi.com
 pcw365.com
 pcweb-v1.log.mgtv.com
+pcweb.api.mgtv.com
 pcweb.v1.mgtv.com
 pcweb2.api.mgtv.com
 pcweb3.api.mgtv.com
@@ -52248,6 +52246,7 @@ polayoutu.com
 pole.6rooms.com
 policy-cde.le.com
 policy.jd.com
+policy.jd.com.gslb.qianxun.com
 policy.video.iqiyi.com
 policy.video.ptqy.gitv.tv
 polingba.com

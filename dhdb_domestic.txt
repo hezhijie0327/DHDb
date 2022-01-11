@@ -2308,7 +2308,6 @@
 2374597.p23.tc.cdntip.com
 2378425.shop.liebiao.com
 237c0801cee0004ce14b82184862cb7d.dlied1.cdntips.net
-237y.com
 238.s2txipv6.cdntip.com
 2398.35go.net
 23a72c571eab6919.cdn.jiashule.com
@@ -9470,6 +9469,7 @@ alog-default.umeng.com
 alog.umeng.com
 alog.umengcloud.com
 alog.zjzwfw.gov.cn
+alogs.umeng.com
 alogs.umengcloud.com
 alogsus.umeng.com
 alogus.umeng.com

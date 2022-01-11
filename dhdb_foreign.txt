@@ -3254,7 +3254,6 @@
 2655896.com
 265660.com
 265958.com
-265tv.com
 265vip.com
 266.etowns.org
 266.info.tm
@@ -34365,6 +34364,7 @@ cdn.sports-streams-online.club
 cdn.sports-streams-online.xyz
 cdn.sstatic.net
 cdn.static.txhy888.cn
+cdn.static.txhy888.cn.a.lahuashanbx.com
 cdn.static.zdbb.net
 cdn.statically.io
 cdn.statuspage.io
@@ -71320,6 +71320,7 @@ google1.azurewebsites.net
 googleads.g.doubleclick.net.iberostar.com
 googleads.github.io
 googleadsl.com
+googleanalytcs.com
 googleanalytics.com
 googleapi.club
 googleapis.com
@@ -76635,7 +76636,6 @@ hot-news-bloggers.ru
 hot-releases.com
 hot-sex-tube.com
 hot.browser.intl.miui.com
-hot.browser.miui.com
 hot.useractive.com
 hot1024.win
 hot2k.com
@@ -94930,6 +94930,7 @@ loopa.net.au
 loopback.io
 loopdesignawards.com
 loopfiles.com
+loopfuse.net
 loophotelawards.com
 loopjump.com
 looplik.com
@@ -104499,6 +104500,7 @@ mo.hc872.cn
 mo.nightlife141.com
 mo.pgqoqv.cn
 mo.qitouch.cn
+mo.qpmue.xyz
 mo.spaces.ru
 mo.wajsa.com
 mo.zdceaa.cn

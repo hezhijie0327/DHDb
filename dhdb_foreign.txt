@@ -106027,7 +106027,6 @@ msdn.com
 msdn.microsoft.com
 msecure108.com
 msedge.api.cdp.microsoft.com
-msedge.f.dl.delivery.mp.microsoft.com
 msedge.net
 mseeru.faz.net
 msetup.pro
@@ -111637,7 +111636,6 @@ ntvplus.tv
 ntvpwpush.com
 ntvsw.com
 ntwkxugtwmbcy.top
-ntx.quanliyouxi.cn
 ntz-keyid-022cbeed5d77060f2833e9d5376ba8bc308cd9ba.microsoftaik.azure.net
 ntzfly.cn
 ntzhoas.com

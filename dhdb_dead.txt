@@ -6683,6 +6683,7 @@ adserver2.atman.pl
 adserver2.christianitytoday.com
 adserver2.condenast.co.uk
 adserver2.eudora.com
+adserver2.mediainsight.de
 adserver2.news-journalonline.com
 adserver2.popdata.de
 adserver3.eudora.com
@@ -21321,7 +21322,6 @@ eer.zhthf.com
 eergaroa.com
 eergurty.net
 eetoday.com
-eetyed.com
 ef.tanx.com
 ef3e88e8a2668e68ef19fbd6acf1b4a24caa17f558e040ae.dlied1.cdntips.net
 ef867a1be4f83922.com
@@ -23315,6 +23315,7 @@ filmsgratuits.org
 filternal.space
 filtonay.com
 fimmovie.com
+fin-vecto.ru
 fin.ex2life.cf
 finalid.com
 finalworkportfolio.ml

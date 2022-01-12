@@ -10704,7 +10704,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -11267,7 +11266,6 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
-au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com
@@ -20428,7 +20426,6 @@ cyikao.com
 cyjcloud.com
 cyjnsy.com
 cyk-cable.com
-cyla.cn
 cym3u8.xazzg.com
 cynee.net
 cynovan.com
@@ -45123,6 +45120,7 @@ maomaojie.com
 maoming.anjuke.com
 maoming.baixing.com
 maopuyouxi.com
+maoqiuapp.com
 maotaizuichen.com
 maotuying.com
 maowow.com

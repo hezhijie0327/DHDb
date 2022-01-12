@@ -13692,6 +13692,7 @@ blackbirdsport.com
 blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
+blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
@@ -49134,7 +49135,6 @@ ntpcb.com
 ntpr.xyz
 ntqcct.com
 ntrcb.com
-ntuiw.cc
 ntuiw.com
 ntwzy.com
 nuan.io
@@ -55623,7 +55623,6 @@ qzfxyy.com
 qzh.zu.anjuke.com
 qzhlkj.net
 qzhmzx.com
-qzhne.com
 qzjzb.com
 qzkey.com
 qzkyl.cn
@@ -57959,6 +57958,7 @@ sdlvxing.com
 sdly35.com
 sdmic.com
 sdn.geekzu.org
+sdn.kugou.com
 sdnfv.org
 sdnjsbc.com
 sdnlab.com
@@ -59156,6 +59156,7 @@ shixiu.org
 shixun.co
 shixunsuda.com
 shixunwl.com
+shiyan.com
 shiyanbar.com
 shiyanbbs.com
 shiyanhospital.com

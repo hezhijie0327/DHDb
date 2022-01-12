@@ -7684,7 +7684,6 @@ ac.jice.io
 ac.mmstat.com
 ac.o2.qq.com
 ac029063571fb6f1f3de5c908b3c3778.safeframe.googlesyndication.com
-ac1.786ip.com
 ac14f0de04fdcd4a-cl2.qcloudcjgj.com
 ac268.com
 ac57.com
@@ -9409,6 +9408,7 @@ all.rising.com.cn
 all.splayer.org.w.cdngslb.com
 all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
+all.zhihu.com.w.kunluncan.com
 all163-dxospf.split.netease.com
 all163-ltospf.split.netease.com
 all3c.com
@@ -18843,7 +18843,6 @@ cnoic.com
 cnokcn.com
 cnolnic.com
 cnolnic.net
-cnookr.com
 cnool.net
 cnophol.com
 cnops.xyz
@@ -40570,7 +40569,6 @@ kenxq.com
 kenxr.com
 kepingtong.com
 kepler-cn.captcha.qcloud.com
-kepler.jd.com
 kepler.ptqy.gitv.tv
 kepuchina.org
 kepusky.com
@@ -43835,7 +43833,6 @@ lr-amm.com
 lr.3conline.com
 lrc99.com
 lrcb.net
-lrcku.com
 lrdzt.com
 lrfz.com
 lrhold.net
@@ -55853,6 +55850,7 @@ rbz1672.com
 rbzygs.com
 rc-fp.sec.wanmei.com
 rc.cc
+rc.fthcz.com
 rc.haodongkeji.cn
 rc.ie13.com
 rc.m.jd.com

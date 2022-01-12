@@ -5084,7 +5084,6 @@
 666baicai.com
 666gps.com
 666idc.com
-666kanqiu.com
 666wan.com
 666xinxin.com
 667744.com
@@ -7909,6 +7908,7 @@ acwifi.net
 acwing.com
 acz.youku.com
 ad-1258444056.cos.accelerate.myqcloud.com
+ad-411.com
 ad-analysis.pconline.com.cn
 ad-android.51wnl.com
 ad-apac.doubleclick.net
@@ -10164,7 +10164,6 @@ api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.coconut.is
-api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com

@@ -10705,6 +10705,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com.c.cdnhwc1.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -40080,6 +40081,7 @@ k.sinaimg.cn
 k.sohu.com
 k.ssp.qq.com
 k.us.sinaimg.cn
+k.xmtsyg.com
 k0o65wkd.sched.sma.tdnsv5.com
 k1-biligame-migu.gslb.h.ngaacdn.cn
 k1-biligame.gslb.ksyuncdn.com
@@ -47256,6 +47258,7 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net
@@ -56899,6 +56902,7 @@ rz-lb2.internet.spanner.alipaydns.com
 rz-rr2.internet.spanner.alipaydns.com
 rzcdc.com
 rzcdz2.com
+rzfanyi.com
 rzhuaqiangu.com
 rzline.com
 rzok.net

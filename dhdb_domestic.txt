@@ -21118,7 +21118,6 @@ dakawm.cc
 dakawm.net
 dakayi.cc
 dakele.com
-dalemax.cn
 dali.anjuke.com
 dalian.anjuke.com
 dalian.baixing.com
@@ -32734,6 +32733,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -43081,6 +43081,7 @@ liuyangfcw.com
 liuyansha.vip
 liuyanzhao.com
 liuyifei.cc
+liuyingqiang.com
 liuzhichao.com
 liuzhuan.oss-accelerate.aliyuncs.com
 liuzk.com

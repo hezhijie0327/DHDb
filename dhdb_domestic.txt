@@ -13693,7 +13693,6 @@ blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
-blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
@@ -14051,7 +14050,6 @@ boxer.baidu.com
 boxgu.com
 boxnovel.baidu.com
 boxrglg.uu.163.com
-boxshows.com
 boxuan001.oss-cn-hangzhou.aliyuncs.com
 boxuegu.com
 boxui.com
@@ -48775,7 +48773,6 @@ njpwerner.gallerycdn.azure.cn
 njq.net
 njqxrc.com
 njrsrc.com
-njs.imagicskin.com
 njshengyuanli.com
 njsjz.com
 njskps.com

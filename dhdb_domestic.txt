@@ -10702,6 +10702,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-1-drcn.dbankcdn.com.c.cdnhwc1.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
@@ -12756,7 +12757,6 @@ beidouxingxueche.com
 beidw.com
 beifang.net
 beifangfoshifen.com
-beifangyanxue.net
 beifb.com
 beifd.com
 beift.com
@@ -18501,7 +18501,6 @@ cn.letou118.net
 cn.linkedin.com
 cn.made-in-china.com
 cn.man484.com
-cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.ntp.org.cn
 cn.pandora.net
@@ -61575,7 +61574,6 @@ staticm.tianqijun.com.w.cdngslb.com
 staticplat.cdn.bcebos.com
 staticq.com
 staticresource-40111.sh.gfp.tencent-cloud.com
-statics-bj.vaptcha.net
 statics-cn.vaptcha.net
 statics-web.iqiyi.com
 statics-web.iqiyi.com.w.alikunlun.com

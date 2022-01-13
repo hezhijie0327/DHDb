@@ -2723,6 +2723,7 @@
 2161383.shop.liebiao.com
 2164229.shop.liebiao.com
 2166635.b2b.liebiao.com
+2167422.shop.liebiao.com
 2177169.shop.liebiao.com
 2177third.com
 218.204.144.124.zz.countries.nerd.dk
@@ -4981,7 +4982,6 @@
 4ebaytraders.com
 4ec18ea0-dnsotls-ds.metric.gstatic.com
 4eef3696db5ec43c4f61cef995f0b01b.fp.measure.office.com
-4everfeel.xyz
 4everproxy.com
 4excel.cn
 4exlkjnngs.com
@@ -36401,6 +36401,7 @@ chushigangdrug.ch
 chuvashskoe.ru
 chuvaz.ru
 chuwi.com
+chuyu.me
 chuzrra.cn
 chvnoticias.cl
 chw365.com
@@ -39932,7 +39933,6 @@ connectionseducation.com
 connectionslearning.com
 connectivity-check.ubuntu.com
 connectivitycheck.android.com
-connectivitycheck.platform.hicloud.com
 connectlp.keysight.com
 connectorx.xyz
 connectportal.netapp.com
@@ -49089,7 +49089,6 @@ dom.dl.wu.akadns.net
 dom2.ru
 domah.ru
 domai.com
-domain-control.net
 domain.club.tw
 domain.com
 domain.garden
@@ -49521,6 +49520,7 @@ download.pdfforge.org
 download.qoo-app.com
 download.sd.baidu.com
 download.weatherblink.com
+download.windowsupdate.com
 download.windowsupdate.nsatc.net
 download.wondershare.com
 download.yesmessenger.com
@@ -65886,7 +65886,6 @@ gmossp-sp.jp
 gmotech.jp
 gmozomg.izihost.org
 gmqyld.jacksonandperkins.com
-gmrcjoetsoccf.top
 gmsjf.com
 gmssl.org
 gmt-china.org
@@ -91293,7 +91292,6 @@ laroche-posay.us
 larossola.it
 larpollicwilli.club
 larrenpicture.pro
-larrenworld.pro
 larsgeorge.com
 las4srv.com
 lasalle.com

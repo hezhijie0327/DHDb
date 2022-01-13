@@ -11137,7 +11137,6 @@ asr.meituan.com
 asrmicro.com
 asrsingapore.com
 asset.newyx.net
-asset.tantanapp.com
 assets-cli.udesk.cn
 assets-cli.udesk.cn.w.kunlunar.com
 assets-mayun.b0.aicdn.com
@@ -13689,7 +13688,6 @@ blackbirdsport.com
 blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
-blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
@@ -51584,7 +51582,6 @@ phpkoo.com
 phpor.net
 phppx.com
 phpsong.com
-phpspider.org
 phpstat.aqsc.cn
 phpstat.cntcm.com.cn
 phpstat.net

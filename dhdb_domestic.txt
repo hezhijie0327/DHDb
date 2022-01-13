@@ -2050,7 +2050,6 @@
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.nanrenwo.net
-2.openwrt.pool.ntp.org
 2.pic.pc6.com
 2.pool.ntp.org
 2.up.qingdaonews.com
@@ -26877,7 +26876,6 @@ faxingchina.com
 faxingcn.com
 faxingshuo.com
 faxingtp.com
-faxingzhan.com
 faxsun.com
 faxuan.net
 fayifa.com
@@ -32390,6 +32388,7 @@ hfyt365.com
 hfzq.com.cn
 hg12333.com
 hg707.com
+hg89068.com
 hgaas.com
 hgame.com
 hgbang.com

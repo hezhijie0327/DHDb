@@ -4767,7 +4767,6 @@
 5gb1t7lc.sched.sma.tdnsv5.com
 5gcg.com
 5givji62.sched.vp.tdnsv5.com
-5glyqw.com
 5gmcsip01.hdb.rcs.chinamobile.com
 5gmcsip04.hdn.rcs.chinamobile.com
 5gmcsip05.hdb.rcs.chinamobile.com
@@ -11378,6 +11377,7 @@ autoqingdao.com
 autoshanghai.org
 autosmt.net
 autospaceplus.com
+autoupdate.tantanapp.com
 autoupdate7.synology.cn
 auwinner.com
 aux.soperson.com
@@ -38824,7 +38824,6 @@ jizhangapp.com
 jizhangzhuce.com
 jizhiba.com
 jizhidsp.com
-jizhiyouke.com
 jizhuomi.com
 jizhutaoke.com
 jj-tv.com
@@ -51448,6 +51447,7 @@ pfmc-ctl.pingan.com.cn
 pfmc-monitor.pingan.com.cn
 pfmcchina.org
 pfp.sina.com.cn
+pfp.sina.net
 pfpip.sina.com
 pg-ad-b1.nosdn.127.net
 pg-ad-b1.ws.126.net

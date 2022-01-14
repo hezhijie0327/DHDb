@@ -656,6 +656,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -12302,6 +12303,7 @@ bayil.cn
 bayimob.com
 bayinfu.com
 bayinh.com
+baymax.video
 bayno.cn
 bayuegua.com
 bayueju.com
@@ -16412,7 +16414,6 @@ chaonanrc.com
 chaonei.com
 chaonengjie.com
 chaonenglu.com
-chaoqun.mobi
 chaoren.com
 chaoshanren.com
 chaoshengboliuliangji.com
@@ -55501,7 +55502,6 @@ qvzkephs.v1d.szbdyd.com
 qvzkltqe.v1d.szbdyd.com
 qvzkwap3.v1d.szbdyd.com
 qw.cc
-qwddcwmwqiqwd21.cn
 qweather.com
 qweather.net
 qweoc88123.top

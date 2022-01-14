@@ -27667,7 +27667,6 @@ flyme.com
 flyml.net
 flysnow.org
 flytexpress.com
-flyxg.com
 flyym.com
 flyzy.com
 flyzy2005.win
@@ -47234,6 +47233,7 @@ msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
 msedge.b.tlu.dl.delivery.mp.microsoft.com
+msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net
@@ -51025,6 +51025,7 @@ passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
 passport.lagou.com
+passport.lenovo.com
 passport.lenovo.com.cn
 passport.meituan.com
 passport.mydrivers.com

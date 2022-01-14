@@ -1175,7 +1175,6 @@
 1214016.shop.liebiao.com
 1215655.b2b.liebiao.com
 121657.com
-121690.com
 121694.com
 121730.com
 121734.com
@@ -19652,6 +19651,7 @@ api.lab.amplitude.com
 api.leclerc
 api.levelaccess.net
 api.limbik.com
+api.linkgist.com
 api.linkz.net
 api.livechatinc.com
 api.login.control.net.zooplus.de
@@ -21514,6 +21514,7 @@ asia.monerise.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
+asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -41148,6 +41149,7 @@ counterfire.info
 countergeo.com
 counterland.com
 counterlevel.de
+counterluck.com
 countermarianne.com
 counteronline.de
 counterpunch.org
@@ -74062,6 +74064,7 @@ hbid.ams3.cdn.digitaloceanspaces.com
 hbjingming.com
 hbjinnong.com
 hbla.net
+hblanghun.cn
 hblg.media.net
 hblinwei.com
 hbnqls.bloomingdales.com.kw
@@ -85564,7 +85567,6 @@ jatikhwan.com
 jatywana.com
 jaubeebe.net
 jauchuwa.net
-jaugloup.com
 jaumevie.com
 jaup0lake.com
 jausaslegal.com
@@ -123848,7 +123850,6 @@ puji114.com
 pukegame.net
 puklisi.ru
 pulfa.com
-pull-flv-l29.douyincdn.com
 pulleymarketing.com
 pullfolio.com
 pullishy.ca

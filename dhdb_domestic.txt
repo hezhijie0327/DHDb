@@ -1,5 +1,6 @@
 0-100.com
 0-6.com
+0.cn.pool.ntp.org
 0.pic.pc6.com
 0.up.qingdaonews.com
 00.auto.sohu.com
@@ -26137,6 +26138,7 @@ eteste.com
 etf.group
 etf88.com
 ethainan.com
+etheadphones.com
 ether-pack.pangolin-sdk-toutiao.com
 ether-pack.pangolin-sdk-toutiao.com.w.cdngslb.com
 ether-pack.pangolin-sdk-toutiao.com.w.cdngslb.com.qr.uuhimalayanqm.com
@@ -60659,7 +60661,6 @@ source.orsoon.com
 source.ubisoft.com.cn
 source.xuexi.cn
 source.youxiaoad.com
-source3g.com
 sourcecodecap.com
 sourcedev.cc
 soushai.com

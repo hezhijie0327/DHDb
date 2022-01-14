@@ -10356,7 +10356,6 @@ api.verify.mob.com
 api.vip.dns.iqiyi.com
 api.vip.iqiyi.com
 api.vip.miui.com
-api.vlightv.com
 api.vuevideo.net
 api.w.inmobi.com
 api.weathercn.com
@@ -16116,6 +16115,7 @@ ceshigu.com
 ceshiren.com
 cespc.com
 cesses.org
+cesuyun.cn
 cetc36.com
 cetccloud.com
 cetcio.com
@@ -48484,7 +48484,6 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
-nex.163.com
 nexiao.com
 next.api.aliyun.com
 next.itellyou.cn

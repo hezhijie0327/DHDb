@@ -10169,6 +10169,7 @@ api.cpu.baidu.com
 api.crucio.hecdn.com
 api.cupid.dns.iqiyi.com
 api.cupid.iqiyi.com
+api.cupid.ptqy.gitv.tv
 api.cupid.qiyi.com
 api.danmu.tv.sohu.com
 api.developer.xiaomi.com

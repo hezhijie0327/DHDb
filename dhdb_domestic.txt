@@ -2068,6 +2068,7 @@
 2006q.com
 2008php.com
 2008red.com
+200ax.com
 200ps.com
 200wan.com
 200y.com
@@ -2172,6 +2173,7 @@
 21food.cn
 21food.com
 21hubei.com
+21hubei.net
 21hulian.com
 21ic.com
 21icsearch.com
@@ -14236,6 +14238,7 @@ btrcsc.com
 bts.hk
 btschool.net
 btsemi.com
+btsha.com
 btsou.org
 btsszx.51sole.com
 btsteel.com
@@ -21982,7 +21985,6 @@ dev.tg.youxi.com
 dev.umeng.com
 dev.wifi8.com
 dev.youmi.net
-dev53.baidupan.com
 dev996.com
 devask.net
 devclub.cc
@@ -52018,6 +52020,7 @@ pl.youku.com
 plaidc.com
 plalzhang.com
 planckled.com
+planet.api.weibo.com
 planetmeican.com
 plantname.xyz
 plantower.com
@@ -53616,7 +53619,6 @@ qdaeon.com
 qdaiduo.com
 qdaily-test-1014796965.cn-northwest-1.elb.amazonaws.com.cn
 qdaily.com
-qdailyapp.com
 qdairlines.com
 qdall01.baidupcs.com
 qdbdsk.com
@@ -55894,6 +55896,7 @@ re.taobao.com
 re53f7dj.v1d.szbdyd.com
 reachace.com
 reachjunction.com
+reachmax.cn
 react-china.org
 reactor.xingye.work
 read.qidian.com

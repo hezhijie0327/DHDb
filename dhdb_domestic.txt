@@ -21365,6 +21365,7 @@ data.biancheng.net.w.kunlunno.com
 data.bilibili.com
 data.bilicdn2.com
 data.bilivideo.com
+data.cdeledu.com
 data.chinaz.com
 data.choujue.net
 data.eastmoney.com
@@ -32269,7 +32270,6 @@ here120.com
 hermes-server.hupu.com
 hermes.cn
 hermes.hupu.com
-hermes.jd.com
 hermes.jd.com.gslb.qianxun.com
 heroclick.cn
 heroes.nos.netease.com
@@ -48077,7 +48077,6 @@ naxcx.com
 naxide.com
 nayatec.com
 nayei.com
-nayishuo.com
 nb-medicalsystem.com
 nb-xn.com
 nb.anjuke.com
@@ -51524,6 +51523,7 @@ photo.sina.com.cn
 photo.sspu.edu.cn
 photo.weibo.com
 photo.wondercv.com
+photo.yxslt.cn
 photo0086.com
 photo3050.com
 photoartiz.com

@@ -11607,6 +11607,7 @@ b.smartvideo.youku.com
 b.tvsou.com
 b.unjs.com
 b.vlion.cn
+b.xp0f4cj.cn
 b.youdao.com
 b.yzcdn.cn
 b.zol-img.com.cn
@@ -11685,7 +11686,6 @@ b37733ef883d7bdfef516541f86509a5.safeframe.googlesyndication.com
 b385.photo.store.qq.com
 b388.photo.store.qq.com
 b3inside.com
-b3log.org
 b3logfile.com
 b41c2488f54aef373f6be23cf0d72457.v.smtcdns.net
 b43dd191111f408d0e288c60.mdbook.cn
@@ -13069,7 +13069,6 @@ biaoqingjia.com
 biaoqingmm.com
 biaotukeji.com
 biaoyi.com
-biaozhun.org
 biaozhun8.com
 biaozhuncang.com
 biaozhuns.com
@@ -44728,6 +44727,7 @@ ma-adx.ctrip.com
 ma-china.com
 ma.zijieapi.com
 ma.zijieapi.com.w.cdngslb.com
+ma16.com
 ma3office.com
 ma68.drpf.x.netease.com
 ma68.game.163.com

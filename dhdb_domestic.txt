@@ -4051,7 +4051,6 @@
 51puer.com
 51qc.com
 51qc.net
-51qed.com
 51qianduan.com
 51qianguo.com
 51qianvisa.com
@@ -7670,6 +7669,7 @@ abtest.alibaba.com
 abtest.m.s.360.cn
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
+abto.cc
 abuquant.com
 abuyun.com
 ac-dun.security.ntes53.netease.com
@@ -38722,7 +38722,6 @@ jita5.com
 jitashe.org
 jitavip.com
 jitcoder.gallerycdn.azure.cn
-jitiku.com
 jituofuture.com
 jiub.ren
 jiubuhua.com

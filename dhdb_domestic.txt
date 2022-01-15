@@ -7664,7 +7664,6 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
-abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abuquant.com
@@ -37329,7 +37328,6 @@ item-china.cn
 item-soa.jd.com
 item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
-item.jd.com
 item.jd.com.gslb.qianxun.com
 item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
@@ -40503,6 +40501,7 @@ kekenet.com
 kekeshici.com
 kekexueba.com
 kelamayi.anjuke.com
+kele4.com
 keleyi.com
 kelibiao.com
 kellen.wang
@@ -59072,7 +59071,6 @@ shiliyoupin.com
 shimano-fishchina.com
 shiminjiaju.com
 shimo.im
-shimodev.com
 shimolife.com
 shimonote.com
 shimonote.net

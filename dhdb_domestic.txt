@@ -660,7 +660,6 @@
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
-1.feihua.net.cn
 1.guyaheng.com
 1.huobiwang.cc
 1.hysou.com
@@ -23439,7 +23438,6 @@ dotcounter.douyucdn.cn.w.cdngslb.com
 dotcounter.douyutv.com
 dotcpp.com
 doteck.com
-dotomui.com
 dotserver.douyucdn.cn
 dotserver.douyucdn.cn.w.cdngslb.com
 dotui.cn

@@ -32734,6 +32734,7 @@ hkance.com
 hkance.xyz
 hkbchina.com
 hkcts.com
+hkeig.com
 hkfc.hk
 hkfljt.com
 hkgcr.com
@@ -37325,7 +37326,6 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
-item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com
@@ -37515,7 +37515,6 @@ iwanvr.com
 iwapan.com
 iwarship.net
 iwasai.com
-iwatch365.com
 iwcjahtkewrjpidl26uuag2jomx91ksn.alicloudwaf.com
 iwcoo.com
 iwebad.com

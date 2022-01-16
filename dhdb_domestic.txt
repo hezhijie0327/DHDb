@@ -1210,6 +1210,7 @@
 139shop.com
 139site.com
 139talk.com
+139w.com
 139wanke.com
 139zhuti.com
 13cr.com
@@ -21366,7 +21367,6 @@ data.biancheng.net.w.kunlunno.com
 data.bilibili.com
 data.bilicdn2.com
 data.bilivideo.com
-data.cdeledu.com
 data.chinaz.com
 data.choujue.net
 data.eastmoney.com
@@ -54927,6 +54927,7 @@ qtjkwdsg.v1d.szbdyd.com
 qtjkwxff.v1d.szbdyd.com
 qtlglb.com
 qtluyuan.com
+qtmojo.cn
 qtpool.com
 qtrun.com
 qtsftl.m.cn.miaozhen.com
@@ -58678,7 +58679,6 @@ shangzhang.com
 shangzhibo.tv
 shangzhou.baixing.com
 shanhaizhanji.com
-shanhu99.com
 shanhuojiaoyi.com
 shanhuu.com
 shanhuxueyuan.com

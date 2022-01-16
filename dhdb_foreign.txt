@@ -6095,7 +6095,6 @@
 6-courier2.push.apple.com
 6.courier-push-apple.com.akadns.net
 6.ddns.ms
-6.ut8.com
 600574230204d873be78ea12c34205cc.clo.footprintdns.com
 60066hg.com
 600ad.com
@@ -58787,7 +58786,6 @@ filament.cf
 filamentapp-assets.s3.amazonaws.com
 filamentapp.s3.amazonaws.com
 filamentcolors.xyz
-filamentrectificationsetback.com
 filateliadimauro.com
 file-lib-oa-2.net.daraz.com
 file-r-oa-2.net.daraz.com
@@ -88800,7 +88798,6 @@ keoofp.gulfnews.com
 keotot.net
 kepakfoodservice.com
 kepard.com
-kepler.jd.com
 kepner-tregoe.com
 kepplerspeakers.com
 kepqtg.smocca.jp
@@ -120863,7 +120860,6 @@ popadon.com
 popads.media
 popads.net
 popadscdn.net
-popagency.net
 popander.com
 poparya.com
 popbounty.com
@@ -131751,6 +131747,7 @@ safe-click.net
 safe-files.com
 safe-inet.com
 safe-installation.com
+safe-mondays.net
 safe-store-md.com
 safe.com
 safe.hyperpaysys.com

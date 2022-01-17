@@ -5013,7 +5013,6 @@
 63kc.com
 63kk.net
 63pe.com
-63pic.com
 63rr.net
 63tl.com
 63yx.com
@@ -9406,7 +9405,6 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
-all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all.zhihu.com.w.kunluncan.com
 all163-dxospf.split.netease.com
@@ -35768,6 +35766,7 @@ image100.360doc.com
 image11.m1905.cn
 image2.sina.com.cn
 image3.ccb.com
+image3.mall.icbc.com.cn
 image3.mall.icbc.com.cn.wscdns.com
 image5.mall.icbc.com.cn.wscdns.com
 image6.mall.icbc.com.cn

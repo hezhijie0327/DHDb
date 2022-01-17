@@ -5341,7 +5341,6 @@ ad.jsecoin.com
 ad.jsnbrynb.com
 ad.kat.ph
 ad.kinogo-kinopoisk.net
-ad.kissanime.ac
 ad.kissanime.io
 ad.kisscartoon.io
 ad.kixer.com
@@ -9983,6 +9982,7 @@ banners.newsru.com
 banners.partypartners.com
 banners.pik.bg
 banners.primaryclick.com
+banners.publipagos.com
 banners.rspworldwide.com
 banners.snapshot.toolbar.conduit-services.com
 banners.sponsoradulto.com
@@ -44212,6 +44212,7 @@ pj8866.com
 pj886888.com
 pj8877.com
 pj98887.com
+pjbar.xyz
 pjbar8.xyz
 pjcrwljs.com
 pjdc0055.com

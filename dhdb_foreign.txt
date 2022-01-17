@@ -11760,6 +11760,7 @@ ad.kddi-fs.com
 ad.keenspace.com
 ad.khan.co.kr
 ad.kinozal.website
+ad.kissanime.ac
 ad.kissanime.co
 ad.kissanime.si
 ad.kissasian.ac
@@ -24527,7 +24528,6 @@ banners.payserve.com
 banners.penthouse.com
 banners.playocio.com
 banners.prikol.ru
-banners.publipagos.com
 banners.resultonline.com
 banners.smarttweak.com
 banners.sys-con.com
@@ -38300,6 +38300,7 @@ cn1lib.org
 cn2.rti.tw
 cn2.stadiumgoods.com
 cn21edu.com
+cn2che.com
 cn2qq.com
 cn3.rti.tw
 cn360cn.com
@@ -119739,7 +119740,6 @@ pj81479.com
 pjatr.com
 pjbadh1.club
 pjbadh2.club
-pjbar.xyz
 pjbar03.xyz
 pjbar2.xyz
 pjbar7.xyz

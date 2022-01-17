@@ -51068,7 +51068,6 @@ pay.bilibili.com
 pay.hicloud.com
 pay.holaq.com
 pay.jd.com
-pay.m.jd.com
 pay.m.jd.com.gslb.qianxun.com
 pay.mairuan.com
 pay.meituan.com

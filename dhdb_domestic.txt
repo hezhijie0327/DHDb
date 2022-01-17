@@ -7664,6 +7664,7 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
+abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abto.cc
@@ -21934,6 +21935,7 @@ deqinglaw.com
 derekchou.com
 derenbs.com
 derwer.com
+des8.com
 desc.gome.com.cn
 desc.gome.com.cn.cdn20.com
 descnew.taobao.com

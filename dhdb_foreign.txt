@@ -1832,6 +1832,7 @@
 1713023.shop.liebiao.com
 1716534.b2b.liebiao.com
 1716dy.com
+1717380.b2b.liebiao.com
 17173yx.com
 1718001.com
 171a60540b.com
@@ -83914,6 +83915,7 @@ intuitvisitorid.api.intuit.com
 intuitwebsites.com
 intunewiki.com
 inturn.co
+intxt.cn
 inurneddoggish.com
 inuvo.com
 inuxu.biz
@@ -116416,6 +116418,7 @@ p39-buy.itunes.apple.com
 p3adaptive.com
 p3nwvpweb025.shr.prod.phx3.secureserver.net
 p3p.yahoo.com
+p3speed.com
 p4-a2jiaaw53kijy-m2mqimpuw46vu77f-303487-i1-v6exp3.v4.metric.gstatic.com
 p4-a2jiaaw53kijy-m2mqimpuw46vu77f-303487-i2-v6exp3.ds.metric.gstatic.com
 p4-a2jiaaw53kijy-m2mqimpuw46vu77f-if-v6exp3-v4.metric.gstatic.com
@@ -121912,7 +121915,6 @@ powvibeo.cc
 powvideo.net
 powweb.com
 poxaharap.com
-poxeemso.com
 poxiao.com
 poxiaotv.com
 poxywh.majorano.com.br

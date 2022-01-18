@@ -33243,7 +33243,6 @@ hostker.com
 hostkvm.com
 hostproph.com
 hostxen.com
-hot.browser.miui.com
 hot.m.shouji.360tpcdn.com
 hotchat-im.iqiyi.com
 hotdb.com
@@ -39971,7 +39970,6 @@ jynews.net
 jypc.org
 jyqitan.oss-cn-hangzhou.aliyuncs.com
 jyqxz2015.com
-jyrd.com
 jyrlzy.com
 jysd.com
 jysq.net
@@ -61040,6 +61038,7 @@ ssl.ts7.qq.com
 ssl.ts8.qq.com
 ssl.wlogin.qq.com
 ssl.woshishuish.top
+ssl.zy3dku.cn
 ssl4.my.800cdn.com
 sslaaa.com
 sslapi.hitokoto.cn

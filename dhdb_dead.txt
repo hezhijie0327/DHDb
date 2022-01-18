@@ -2522,6 +2522,7 @@
 520.com
 520.net
 52003333.com
+52004444.com
 5200bbb.com
 5200cc.com
 5200mmm.com
@@ -6533,6 +6534,7 @@ adse.test.ximalaya.com
 adsearch.appx.91.com
 adsearch.www1.biz
 adselector.ru
+adsense.html5.qq.com
 adsentiz.ru
 adsentnetwork.com
 adserer.ihigh.com
@@ -13389,7 +13391,6 @@ cdn-my3.ru
 cdn-okzyw.com
 cdn-onedrive-live.com
 cdn-speed.com
-cdn-store-icons-highwinds-prd.unityads.unity3d.com
 cdn-t.xyz
 cdn-v.com
 cdn.5bong.com
@@ -44208,6 +44209,7 @@ pinweiduo.com
 pinyierp.com
 pinyoux.com
 pinyuncloud.com
+pinzhitmall.com
 pio.fabianfett.de
 pip919.com
 pipacdn.com
@@ -50450,7 +50452,6 @@ songtaste.com
 songyutech.com
 sonic-skins.com
 sonic-skins.net
-sonicbbs.cc
 sonicjailbreak.com
 sonicjailbreak.net
 sonicthehedgehog.pw
@@ -50902,7 +50903,6 @@ ssl.hyhzy.cn
 ssl.ptlogin2.tencent-cloud.com
 ssl.ymapp.com
 ssl.yx4818.cn
-ssl.zy3dku.cn
 ssl1.speedera.net
 ssl2.cdngc.net
 ssl2.dottexpress.com
@@ -51619,7 +51619,6 @@ subacme.rerouted.org
 subad-server.com
 subchat.net
 subdo.torrentrapid.com
-subdo.tumejortorrent.com
 subdomain-001.smectapop12.pl
 subdomain001.smectapop12.pl
 sube.puwangkj.com

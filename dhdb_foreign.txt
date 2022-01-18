@@ -2534,6 +2534,7 @@
 2.4.je
 2.adam.com
 2.android.pool.ntp.org
+2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -3155,7 +3156,6 @@
 24pm-affiliation.com
 24productions.info
 24proxy.com
-24sevenapps.com
 24smi.info
 24smi.net
 24smi.org
@@ -13659,6 +13659,7 @@ ads.celtra.com
 ads.centraliprom.com
 ads.champs-elysees.com
 ads.chanhtuoi.com
+ads.channel4.com
 ads.cheabit.com
 ads.chumcity.com
 ads.cineville.nl
@@ -14325,6 +14326,7 @@ ads2004.treiberupdate.de
 ads21.focalink.com
 ads22.focalink.com
 ads23.focalink.com
+ads234.com
 ads24.focalink.com
 ads24.net
 ads24h.net
@@ -24487,7 +24489,6 @@ banner.profile.ru
 banner.rbc.ru
 banner.reinstil.de
 banner.relcom.ru
-banner.ringofon.com
 banner.sextorrent.to
 banner.tanto.de
 banner.techarp.com
@@ -32477,7 +32478,6 @@ caibianba.com
 caichenguang.cn
 caicomes.com
 caidianqu.com
-caifu110.com
 caigaowang.com
 caigoushichang.com
 caihong360.com
@@ -34662,7 +34662,6 @@ cdnpe.com
 cdnpixel-onead.cdn.hinet.net
 cdnprojectagora.s3.amazonaws.com
 cdnpure.com
-cdnqq.yl89.cn
 cdnquality.com
 cdnr-ch-1.net.daraz.com
 cdnr-es-1.net.daraz.com
@@ -86191,7 +86190,6 @@ jdlg.net
 jdnpdn.johnnyseeds.com
 jdoqocy.com
 jdownloader.fr
-jdpavds.com
 jdpomi.dejuri.co.kr
 jdsbyb.webmd.com
 jdsports.at
@@ -104825,6 +104823,7 @@ mnptinibfbv.com
 mnpz8.com
 mnrddc.journeys.com
 mnrubber.com
+mnstory.net
 mnsuseumco.xyz
 mntewzlornifzt.com
 mntzm.com

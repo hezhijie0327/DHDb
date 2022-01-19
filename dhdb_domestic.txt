@@ -652,7 +652,6 @@
 1.800400.net
 1.92caijing.com
 1.aili.com
-1.asia.pool.ntp.org
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
@@ -46733,7 +46732,6 @@ mobads.e.shifen.com
 mobaliyun.res.mgtv.com
 moban.com
 mobanhao.com
-mobanku.com
 mobanlane.com
 mobanma.com
 mobanpai.com

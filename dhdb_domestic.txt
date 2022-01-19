@@ -14538,7 +14538,6 @@ c-sta-cn.upltv.com
 c-uaa.if.iqiyi.com
 c.02kdid.com
 c.28rv.com
-c.3.cn
 c.3.cn.gslb.qianxun.com
 c.35kds.com
 c.51y5.net
@@ -24759,6 +24758,7 @@ e-celap.com
 e-chinalife.com
 e-cloudstore.com
 e-cuc.com
+e-cwinfo.com
 e-cyb.com
 e-dache.com
 e-eway.com
@@ -39147,6 +39147,7 @@ joynb.net
 joyncleon.com
 joyocean.org
 joyoung.com
+joyowo.com
 joyque.com
 joyshebao.com
 joyslink.com
@@ -45163,6 +45164,7 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
+mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn

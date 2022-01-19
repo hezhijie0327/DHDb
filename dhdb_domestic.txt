@@ -22408,7 +22408,6 @@ dianhou.com
 dianhua.cn
 dianji007.com
 dianjianggame.com
-dianjiliuliang.com
 dianjin123.com
 dianjinghu.com
 dianjingzhe.com
@@ -30080,6 +30079,7 @@ grs.hicloud.com
 grt-china.com
 grtn.cn
 gruntjs.net
+grzmz.com
 grzq.com
 gs-drcn.game.dbankcloud.com
 gs-loc-cn.apple.com
@@ -43397,6 +43397,7 @@ log-lq.snssdk.com.w.cdngslb.com
 log-reyun-com-for-redirect-1246077432.cn-north-1.elb.amazonaws.com.cn
 log-sc.qutoutiao.net
 log-sdk.gifshow.com
+log-sdk.ksapisrv.com
 log-stats.weathercn.com
 log-upload.mihoyo.com
 log-yex.youdao.com
@@ -47007,7 +47008,6 @@ mop.com
 mop.meituan.com
 mopaas.com
 mopaasapp.com
-mopairv.com
 mopei8.com
 moper.me
 mopicer.com
@@ -48105,6 +48105,7 @@ nba.cn
 nba.emohe.com
 nbabm.com
 nbahi.com
+nbahjx.com
 nbcache00.baidupcs.com
 nbchao.com
 nbcsgo.com

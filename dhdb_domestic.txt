@@ -26291,7 +26291,6 @@ ewz4ksd98492555o.aliyunddos1026.com
 ex-silver.com
 ex-starch.com
 ex.m.jd.com
-ex.m.jd.com.gslb.qianxun.com
 ex.mobmore.com
 ex.puata.info
 ex.tanx.com
@@ -47547,6 +47546,7 @@ mxarts.com
 mxchip.com
 mxddp.com
 mxde.com
+mxguan.com
 mxifund.com
 mxingkong.net
 mxjinchao.com
@@ -51094,6 +51094,7 @@ pay.bilibili.com
 pay.hicloud.com
 pay.holaq.com
 pay.jd.com
+pay.m.jd.com
 pay.m.jd.com.gslb.qianxun.com
 pay.mairuan.com
 pay.meituan.com

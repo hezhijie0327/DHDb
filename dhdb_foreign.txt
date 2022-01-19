@@ -4423,7 +4423,6 @@
 3attar.com
 3b0b2756a0c7ae48e4795f5ba808e4e2.clo.footprintdns.com
 3b318a5d05cfeccd82c24a32b90575a4.clo.footprintdns.com
-3ba87e4828c5a95.com
 3baeb1bf-dnsotls-ds.metric.gstatic.com
 3baf5b49c53ea312372e0ba0591fb529.clo.footprintdns.com
 3blmedia.com
@@ -19688,7 +19687,6 @@ api.hubspot.com
 api.hybrid.xiaomi.com
 api.iaddisabled.net.zooplus.de
 api.identitynow.com
-api.imqtyik.com
 api.infinario.com
 api.insiderkit.io
 api.insight.synology.com

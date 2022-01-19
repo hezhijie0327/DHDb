@@ -6662,6 +6662,7 @@
 92tianjin.com
 92wan.com
 92wudao.com
+92wx.com
 92wy.com
 92xygame.com
 92you.com
@@ -16439,7 +16440,6 @@ charmingglobe.com
 chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
-chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com

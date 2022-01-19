@@ -12523,7 +12523,6 @@ bd1.99danji.com
 bd1.click.com.cn
 bd1.dopa.com
 bd1.guancha.cn
-bd1.idgdmg.com.cn
 bd1.idgdmgroup.com.cn
 bd1.jobui.com
 bd1.pipaw.com
@@ -45164,7 +45163,6 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
-mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
@@ -59991,6 +59989,7 @@ sjmeigao.com
 sjmmhhh.cn
 sjq315.com
 sjrwzz.com
+sjs.jcshouhui.com
 sjs0.sinajs.cn
 sjs2.sinajs.cn
 sjsydq.com
@@ -60317,7 +60316,6 @@ smtvip.com
 smucdn.com
 smudc.com
 smvconf.f.360.cn
-smvip8.cn
 smwd.tech
 smxdiy.com
 smxgjj.com

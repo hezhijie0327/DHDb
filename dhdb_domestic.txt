@@ -8309,7 +8309,6 @@ adsame.com
 adsame.liba.com
 adsame.tianjimedia.com
 adsame1.cnr.cn
-adsamer.adsame.com
 adsapi.manhuaren.com
 adsapi.togothermany.cn
 adsc.samr.gov.cn
@@ -51136,6 +51135,7 @@ pb.hd.sohu.com
 pb.hd.sohu.com.cn
 pb.i.sogou.com
 pb.jd.com
+pb.sogou.com
 pb.sys.pp8.com
 pb1.pstatp.com
 pb10.sogou.com
@@ -55138,7 +55138,6 @@ quanqiuwa.com
 quanriai.com
 quansheng-group.com
 quanshi.com
-quant.la
 quantacn.com
 quantao100.com
 quantaoyougou.com

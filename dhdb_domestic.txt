@@ -6502,7 +6502,6 @@
 91dbq.com
 91ddcc.com
 91ddedu.com
-91dena.com
 91dict.com
 91display.com
 91dnso.com
@@ -10191,6 +10190,7 @@ api.fd.mob.com
 api.g.micloud.xiaomi.net
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com

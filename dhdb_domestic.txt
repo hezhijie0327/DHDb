@@ -10189,7 +10189,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.gamebox.cocos.com
 api.gcloud.qq.com
 api.geetest.com
@@ -25394,7 +25393,6 @@ eduwx.com
 eduxiao.com
 eduzhi.com
 eduzhixin.com
-eduzzjy.com
 edv31cah.v1d.szbdyd.com
 edv31jyj.v1d.szbdyd.com
 edwiv.com
@@ -47493,7 +47491,6 @@ muxin.fun
 muyee.com
 muyewx.com
 muyijia.shop
-muying.com
 muyingjie.com
 muyingzhijia.com
 muymov.a.yximgs.com

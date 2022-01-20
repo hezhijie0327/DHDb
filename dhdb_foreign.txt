@@ -17453,7 +17453,6 @@ alps.cdn.nintendo.net
 alqp14.com
 alqp160.com
 alqp181.com
-alqp190.com
 alqp195.com
 alqp24.com
 alqp49.com
@@ -46807,7 +46806,6 @@ dev.maverick.cm
 dev.net.zooplus.fr
 dev.nimiq-network.com
 dev.psuade.co.uk
-dev.ratingtoplist.com
 dev.sfbg.com
 dev.smartshopmanager.com
 dev.virtualearth.net
@@ -96629,7 +96627,6 @@ m.mcnnic.com
 m.me
 m.media-amazon.com
 m.meizhuli365.cn
-m.mfufanj.cn
 m.mhba123.com
 m.miaoxinqipei.com
 m.micreative-china.cn
@@ -97287,6 +97284,7 @@ magicplayer-s.torrentstream.org
 magictea.xyz
 magictrucs.com
 magicvalley.com
+magiphone.cn
 magiq.com
 magispartners.com
 magix.com
@@ -120151,7 +120149,6 @@ pixiq.com
 pixiv.co.jp
 pixiv.net
 pixiv.re
-pixivacg.com
 pixivic.com
 pixivic.net
 pixkny.dressa.com.ua

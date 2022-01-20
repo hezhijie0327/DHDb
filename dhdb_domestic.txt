@@ -655,7 +655,6 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -13830,7 +13829,6 @@ bnmiul.tdum.alibaba.com
 bnnd.net
 bns.17173.com
 bnu2bnmn.sched.s3hw.tdnsv5.com
-bnuni.com
 bnupg.com
 bnwin.com
 bnzt88.com
@@ -24630,6 +24628,7 @@ dycdn.com
 dycool.com
 dydab.com
 dydata.io
+dyfc.net
 dyfcw.com
 dyg-hec.com
 dygang.kkcaicai.com
@@ -26430,7 +26429,6 @@ ezhijiantuoluo.com
 ezhun.com
 ezip.awehunt.com
 ezjoy.com.my
-ezqhdz.com
 ezrpro.com
 eztcn.com
 eztg.com
@@ -31503,7 +31501,6 @@ haopeixun.com
 haopianyi.com
 haopinku.com
 haoq.tv
-haoqiao.com
 haoqikan.com
 haoqixingstem.com
 haoqq.com
@@ -54958,7 +54955,6 @@ qtjkwdsg.v1d.szbdyd.com
 qtjkwxff.v1d.szbdyd.com
 qtlglb.com
 qtluyuan.com
-qtmojo.cn
 qtpool.com
 qtrun.com
 qtsftl.m.cn.miaozhen.com
@@ -58365,6 +58361,7 @@ setqre.cn
 setting1.hicloud.com
 seuic.com
 sevdot.com
+sevencdn.com
 sevenseas-china.com
 sewise.com
 sex18.xyz
@@ -62824,6 +62821,7 @@ t.cyuew.com
 t.d.yoyi.tv
 t.dangdang.com
 t.dmall.com
+t.dmtrck.com
 t.dsp.mediav.com
 t.e0hkzk2.cn
 t.gdt.qq.com

@@ -706,7 +706,6 @@
 1.ad-locus.com
 1.adidevelopments.com
 1.appexchange.com
-1.asia.pool.ntp.org
 1.bb5522.ws
 1.bb6688.ws
 1.car21.net.daraz.com
@@ -3192,6 +3191,7 @@
 25.wtf.im
 2501742.b2b.liebiao.com
 2505928.b2b.liebiao.com
+2508021.b2b.liebiao.com
 2508731.b2b.liebiao.com
 2509449.b2b.liebiao.com
 2509449.shop.liebiao.com
@@ -120063,7 +120063,6 @@ pixel.mediaiqdigital.com
 pixel.mintigo.com
 pixel.mtrcs.samba.tv
 pixel.newscred.com
-pixel.newsdiscover.com.au
 pixel.nine.com.au
 pixel.nur.kz
 pixel.onaudience.com

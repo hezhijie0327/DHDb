@@ -10148,6 +10148,7 @@ api.bigfun.cn
 api.biliapi.net
 api.bilibili.com
 api.biligame.com
+api.browser.miui.com
 api.bs.zui.com
 api.btstu.cn
 api.bz
@@ -10193,6 +10194,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.gamebox.cocos.com
 api.gcloud.qq.com
 api.geetest.com
@@ -10784,6 +10786,7 @@ appmonlife.pingan.com.cn
 appnavi.baidu.com
 appnode.com
 apponline.research.qq.com
+appoptimize-drcn.dbankcdn.80800000.globalsign.c.cdnhwc1.cn
 appoptimize-drcn.dbankcdn.cn
 appoptimize-drcn.dbankcdn.cn.cdn.dnsv1.com
 appoptimize-drcn.dbankcdn.com
@@ -11376,7 +11379,6 @@ autoqingdao.com
 autoshanghai.org
 autosmt.net
 autospaceplus.com
-autoupdate.tantanapp.com
 autoupdate7.synology.cn
 auwinner.com
 aux.soperson.com
@@ -32310,6 +32312,7 @@ heyi.com
 heyi.shop
 heymore.com
 heyou51.com
+heyoutz.com
 heyplus.com
 heyria.com
 heytap.com
@@ -35437,7 +35440,6 @@ ihappy.vip
 ihaveu.com
 ihdt.tv
 ihealthcoming.com
-ihear123.com
 ihebi.info
 ihei5.com
 iheima.com
@@ -51038,7 +51040,6 @@ passport.mydrivers.com
 passport.n.shifen.com
 passport.ptqy.gitv.tv
 passport.reg.ntes53.netease.com
-passport.shop.jd.com
 passport.shop.jd.com.gslb.qianxun.com
 passport.shuidihuzhu.com
 passport.sina.cn
@@ -56824,7 +56825,6 @@ runsky.com
 runtimeedu.com
 runtimewh.com
 runwith.cc
-runzhize.com
 runzi.cc
 ruochu.com
 ruodian360.com

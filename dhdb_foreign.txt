@@ -236,7 +236,6 @@
 0235ee.com
 0235ff.com
 0235h.com
-0235j.com
 0235jj.com
 0235k.com
 0235ll.com
@@ -27998,6 +27997,7 @@ blender3d.fr
 blenderartists.com
 blendle.nl
 blendzy.duckdns.org
+blenkbenched.casa
 bleopi.com
 blerp.com
 blesk.cz
@@ -35121,7 +35121,6 @@ cfasync.ga
 cfasync.ml
 cfasync.tk
 cfblob.com
-cfbond.com
 cfboo.com
 cfbwql.organifishop.com
 cfcd.duckdns.org
@@ -106359,6 +106358,7 @@ msdn.com
 msdn.microsoft.com
 msecure108.com
 msedge.api.cdp.microsoft.com
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.net
 mseeru.faz.net
 msetup.pro
@@ -107352,6 +107352,7 @@ myedaccount.com
 myeffect.net
 myeffecto.com
 myempro.com
+myetherzero.com
 myexception.cn
 myexceptions.net
 myexternalip.com
@@ -146080,7 +146081,6 @@ stevenshi.me
 stevenspointjournal.com
 stevoglutu.com
 stewclove.com
-stewerdu.net
 stewhustysti.com
 stewlinedull.com
 stex.com
@@ -148244,6 +148244,7 @@ sy.amebame.com
 sy.ameblo.jp
 sy.epac.to
 sy.jlhygy.com
+sy.shongcheng.com
 sy.shop.tm
 sy.to
 sy0606.com
@@ -150769,6 +150770,7 @@ test-fleet-eml.postmates.com
 test-idc-3.fjla37itnf5dpsen.com
 test-ipv6-vm3.comcast.net
 test-ipv6.alpinedc.ch
+test-ipv6.arauc.br
 test-ipv6.belwue.net
 test-ipv6.cgates.lt
 test-ipv6.ch

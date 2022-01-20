@@ -7678,6 +7678,7 @@ ac.jice.io
 ac.mmstat.com
 ac.o2.qq.com
 ac029063571fb6f1f3de5c908b3c3778.safeframe.googlesyndication.com
+ac1.pingpingw.com
 ac14f0de04fdcd4a-cl2.qcloudcjgj.com
 ac268.com
 ac57.com
@@ -29148,7 +29149,6 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
-get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -41028,7 +41028,6 @@ krzzjn.com
 ks-adaptive.pull.yximgs.com
 ks-bj-live-comet-01.chat.bilibili.com
 ks-bj-live-comet-02.chat.bilibili.com
-ks-bj-live-p2p-01.chat.bilibili.com
 ks-cdn1.com
 ks-gz-live-comet-01.chat.bilibili.com
 ks-gz-live-comet-02.chat.bilibili.com
@@ -44510,6 +44509,7 @@ m.nuoqingck.cn
 m.nxypz.com
 m.nydjsm.cn
 m.o4hpc.cn
+m.ocenp.com
 m.ourlj.com
 m.pinduoduo.net
 m.pizzahut.com.cn

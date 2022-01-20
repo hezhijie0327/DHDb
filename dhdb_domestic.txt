@@ -10219,6 +10219,7 @@ api.ijunhai.com
 api.ilikemanga.com
 api.im.qcloud.com
 api.im.weibo.cn
+api.imqtyik.com
 api.inews.qq.com
 api.inmeng.net
 api.installer.xiaomi.com
@@ -31110,6 +31111,7 @@ haguworld.com
 haha33.com
 haha360.com
 haha365.com
+hahadiaoyu.com
 hahaha365.com
 hahait.com
 hahayouxi.com

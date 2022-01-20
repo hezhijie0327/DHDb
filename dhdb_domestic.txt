@@ -482,6 +482,7 @@
 0797rs.com
 07bf02787f85a3bb53d73bf758bb5fbb.safeframe.googlesyndication.com
 07cn.com
+07cp1.com
 07dfabef10944e746cad4c60.mdbook.cn
 07ren.com
 07swz.com
@@ -47585,7 +47586,6 @@ my0511.com
 my0513.com
 my0538.com
 my0551.com
-my0792.com
 my0832.com
 my089.com
 my120.org
@@ -53558,7 +53558,6 @@ qbwu.net
 qbwup.imtt.qq.com
 qc-dds.net
 qc-hr.com
-qc-pm.com
 qc027.com
 qc188.com
 qcc.com

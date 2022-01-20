@@ -18492,7 +18492,6 @@ cn.letou118.net
 cn.linkedin.com
 cn.made-in-china.com
 cn.man484.com
-cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.ntp.org.cn
 cn.pandora.net
@@ -21429,7 +21428,6 @@ datarj.com
 datas.tianqistatic.com
 dataservice.alipayobjects.com
 dataservice.alipayobjects.com.w.cdngslb.com
-datasheet5.com
 datasink.canon.sensorsdatavip.com
 datasink.canva.sensorsdatavip.com
 datasink.dxmpay.com
@@ -25302,6 +25300,7 @@ ediclot.com
 edifier.com
 edingzhuan.com
 edirect.asia
+edith.xiaohongshu.com
 editorconfig.gallerycdn.azure.cn
 ediuschina.com
 edk24.com
@@ -41726,7 +41725,6 @@ lanmit.com
 lanou3g.com
 lanqb.com
 lanqibing.com
-lanqiuba.com
 lanqiuzu.com
 lanreelh.com
 lanrenbijia.com
@@ -44450,6 +44448,7 @@ m.izuis.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
+m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jdcdn.com
 m.jf.10010.com
@@ -51124,7 +51123,6 @@ pb.hd.sohu.com
 pb.hd.sohu.com.cn
 pb.i.sogou.com
 pb.jd.com
-pb.sogou.com
 pb.sys.pp8.com
 pb1.pstatp.com
 pb10.sogou.com
@@ -51533,6 +51531,7 @@ photo.sina.com.cn
 photo.sspu.edu.cn
 photo.weibo.com
 photo.wondercv.com
+photo.ybaobei.cn
 photo.yxslt.cn
 photo0086.com
 photo3050.com
@@ -59689,6 +59688,7 @@ sigchina.com
 sightp.com
 siglent.com
 siglff.com
+sigma-statistics-push.proxima.nie.netease.com
 sigmachip.com
 sigmamed.net
 sign-in.dmall.com
@@ -60265,7 +60265,6 @@ smiseo.com
 smjyfx.com
 smkmp.com
 smm993451716.1688.com
-smmy365.com
 smncden.cn
 smo-clinplus.com
 smoba.ams.game.qq.com

@@ -3682,6 +3682,7 @@
 500zhongcai.com
 5010ef08.fyeds5.com
 5015c0hc.sched.sma-dk.tdnsv5.com
+5017022.com
 501wan.com
 503118.com
 503error.com
@@ -12601,7 +12602,6 @@ bdimg2.qunliao.info
 bdimg2.qunliao.info.download.ks-cdn.com
 bdinfo.net
 bdjiaoben.wmxa.cn
-bdjj.bzr99.com
 bdjs.120askimages.com
 bdjs.163lady.com
 bdjs.6822.com
@@ -51028,6 +51028,7 @@ passport.douyu.com
 passport.douyu.com.w.cdngslb.com
 passport.iqiyi.com
 passport.jd.com
+passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
 passport.lagou.com
@@ -56443,7 +56444,6 @@ rjsb-token-m.jd.com.gslb.qianxun.com
 rjsjmbwx.com
 rjsos.com
 rjypay.com
-rkanr.com
 rkeji.com
 rkgaming.com
 rksec.com

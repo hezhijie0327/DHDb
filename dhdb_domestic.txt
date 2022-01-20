@@ -6874,7 +6874,6 @@
 97cms.com
 97douyin.com
 97enaq2.cachenode.cn
-97gg.net
 97go.com
 97jz.com
 97kid.com
@@ -18371,6 +18370,7 @@ cn-ahwh-dx-bcache-05.bilivideo.com
 cn-ahwh-dx-bcache-06.bilivideo.com
 cn-ahwh-dx-bcache-07.bilivideo.com
 cn-ahwh-dx-bcache-08.bilivideo.com
+cn-api.samsungcloud.com
 cn-api.samsungosp.com
 cn-api.samsungpositioning.com.cn
 cn-auth.samsungosp.com
@@ -46781,6 +46781,7 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
+mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com
@@ -48504,7 +48505,6 @@ nf.jsq.red
 nf.m.taobao.com
 nf.m.taobao.com.gds.alibabadns.com
 nfa.jd.com
-nfa.jd.com.gslb.qianxun.com
 nfc315.com
 nfcmag.com
 nfcws.hicloud.com

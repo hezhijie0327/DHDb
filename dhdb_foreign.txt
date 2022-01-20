@@ -232,7 +232,6 @@
 02345678.com
 0235.com
 0235aa.com
-0235cc.com
 0235ee.com
 0235ff.com
 0235h.com
@@ -8932,7 +8931,6 @@ a-ups-presence9-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presence9-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presence9-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.centralus.cloudapp.azure.com
-a-ups-presencecore3-prod-azsc.australiaeast.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.japaneast.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.centralus.cloudapp.azure.com
 a-usw.1rx.io
@@ -42339,7 +42337,6 @@ csgo-empire.pro
 csgo-fight.com
 csgo-gambler.com
 csgo-gg-wp.ru
-csgo-lobby.com
 csgo-lottery.com
 csgo-raffle.com
 csgo-roulette.net
@@ -75166,7 +75163,6 @@ heymind.github.io
 heynod.com
 heyos.com
 heyou365.com
-heyoutz.com
 heyoya.com
 heyreport.com
 heystaks.com
@@ -106353,7 +106349,6 @@ msdn.com
 msdn.microsoft.com
 msecure108.com
 msedge.api.cdp.microsoft.com
-msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.net
 mseeru.faz.net
 msetup.pro
@@ -125966,7 +125961,6 @@ quiztoolbox.com
 quizzicalzephyr.com
 quizzitch.net
 quk9.destinia.com.ar
-quldu.com
 quledu.net
 qumaef.conects.com
 qumagee.com

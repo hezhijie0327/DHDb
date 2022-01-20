@@ -773,6 +773,7 @@
 100font.com
 100jiapu.com
 100ksw.com
+100legend.com
 100loujia.com
 100market.net
 100md.com
@@ -7215,6 +7216,7 @@ a.jyeoo.com
 a.koudai.com
 a.l.renren.com
 a.lz13.cn
+a.mct01.com
 a.mfcad.net
 a.miyudaquan.top
 a.mjlnbx.cn
@@ -10696,7 +10698,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -30534,7 +30535,6 @@ gutianfood.com
 gutou.com
 guweimin.com
 guwu121.com
-guxiaobei.com
 guxunw.com
 guyaheng.com
 guyungame.com
@@ -32096,7 +32096,6 @@ hegii.com
 hehesheng.com
 heheshouyou.com
 hehesy.com
-hehewan.com
 hehouse.com
 hei7.net
 heibai.org
@@ -45315,6 +45314,7 @@ maxgj.net
 maxhub.com
 maxhub.vip
 maxiang.io
+maxitas.com
 maxjia.com
 maxket.com
 maxli.cn
@@ -53550,6 +53550,7 @@ qbvwpwkc.v1d.szbdyd.com
 qbvwpwzl.v1d.szbdyd.com
 qbvwpwzr.v1d.szbdyd.com
 qbvwpwzx.v1d.szbdyd.com
+qbwu.net
 qbwup.imtt.qq.com
 qc-dds.net
 qc-hr.com

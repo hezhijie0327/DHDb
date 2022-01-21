@@ -16442,7 +16442,6 @@ chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
-chat1.jd.com.gslb.qianxun.com
 chataixin59.byf.com
 chatm.com
 chatn8.bjmantis.net
@@ -19787,7 +19786,6 @@ cr-status.iqiyi.com
 cr.3conline.com
 cr.console.aliyun.com
 cr.file.cloud.duba.net
-cr.m.liebao.cn
 cr.pcauto.com.cn
 cr.youhuiguan.com
 cr11gcsgd.com
@@ -37445,6 +37443,7 @@ itwlw.com
 itwork.club
 itwulin.com
 itxe.net
+itxiao.com
 itxinwen.com
 itxm.net
 itxst.com
@@ -52210,7 +52209,6 @@ polaxiong.com
 polayoutu.com
 pole.6rooms.com
 policy-cde.le.com
-policy.jd.com
 policy.jd.com.gslb.qianxun.com
 policy.video.iqiyi.com
 policy.video.ptqy.gitv.tv

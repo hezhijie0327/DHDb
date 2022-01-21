@@ -10205,7 +10205,6 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
-api.huangye.miui.com
 api.huya.com
 api.hyhuo.com
 api.i-meto.com
@@ -37682,6 +37681,7 @@ j1health.com
 j1hqc7ee.sched.d0-dk.tdnsv5.com
 j1mke25kosgnsssaawfimnbhbrxqmhlr.yundunwaf5.com
 j1ybkf.cn
+j2s.ahxbpm.com
 j3l9dp8i.sched.s2-dk.tdnsv5.com
 j3l9dp8i.sched.skalego-dk.tdnsv5.com
 j3pz.com

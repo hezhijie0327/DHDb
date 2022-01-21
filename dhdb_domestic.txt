@@ -15550,7 +15550,6 @@ cd.06bv.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
-cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -23192,7 +23191,6 @@ dnspod.org
 dnspod.qcloud.com
 dnsrw.com
 dnss.vip
-dnsseed.bitcoin.dashjr.org
 dnssina.com
 dnsum.com
 dnsv1.com
@@ -37649,6 +37647,7 @@ iztyy.com
 iztzq.com
 izuche.com
 izuchebao.com
+izuis.com
 izuiyou.com
 j-h-k.com
 j-image.missfresh.cn
@@ -45865,7 +45864,6 @@ mesu-china.apple.com.akadns.net
 mesu.apple.com.mwcname.com
 met-badge.dreport.meituan.net
 met-horn-log.dreport.meituan.net
-met.red
 meta-cdn.video.iqiyi.com
 meta-cdn.video.ptqy.gitv.tv
 meta.appinn.net

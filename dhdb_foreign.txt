@@ -10171,6 +10171,7 @@ a9d7c19f0282.com
 a9e40e79-dnsotls-ds.metric.gstatic.com
 a9lm.com
 a9nf3hg5c2.com
+a9v8.cn
 a\0006lkn-dnsotls-ds.metric.gstatic.com
 aa-metrics.ab-road.net
 aa-metrics.aircard.jp
@@ -17787,7 +17788,6 @@ amcs00.com
 amcs33.com
 amcs4.com
 amcs44.com
-amcs5.com
 amcs55.com
 amcs66.com
 amcs77.com
@@ -20131,6 +20131,7 @@ app.airtrack.jp
 app.algoriddim.com
 app.allproof.net
 app.arizonawildcats.com
+app.arukas.io
 app.assetscem.endeavorb2b.com
 app.assetsdes.endeavorb2b.com
 app.assetsmanu.endeavorb2b.com
@@ -26991,7 +26992,6 @@ bigfilmproduction.com
 bigfishgames.com
 bigfools.com
 bigfoot.com
-bigfoot1942.sektori.org
 bigfreelotto.com
 biggarcu.com
 biggerboat.com
@@ -38482,6 +38482,7 @@ cnet.com
 cnetcontentsolutions.com
 cnetdirectintl.com
 cneteu.net
+cnevi.com
 cnews.com.tw
 cnews.ru
 cnex.org.cn
@@ -38509,7 +38510,6 @@ cnhelloavgirls.com
 cnhoney.com
 cnhot.cc
 cnhowotruck.com
-cnhuadong.net
 cnhv.co
 cnhvacrnet.com
 cnidea.net
@@ -50963,7 +50963,6 @@ dynu.com
 dynu.net
 dynupdate.no-ip.com
 dynvpn.com
-dyoixbyp.xyz
 dyper.com
 dyqebg.aboutyou.hr
 dyro.net
@@ -55121,7 +55120,6 @@ eroadvertising.com
 eroahaud.com
 eroar.lionsclubs.org
 erobestvideo.ru
-erocool.com
 erocool.me
 erocool.net
 erodaizensyu.com
@@ -107097,7 +107095,6 @@ my.movex.co.uk
 my.ms.mrbonus.com
 my.myway.com
 my.nintendo.com
-my.now-ip.net
 my.npace.org
 my.opera.com
 my.orhp.com
@@ -132372,7 +132369,6 @@ salesforce.org
 salesforce.palmertrucks.com
 salesforce.unity.edu
 salesforceiq.com
-salesforceliveagent.com
 salesforcemarketingcloud.com
 salesforceventures.com
 salesgenius.com

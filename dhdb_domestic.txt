@@ -10209,6 +10209,7 @@ api.hengdianfilm.com
 api.home.news.cn
 api.huangye.miui.com
 api.huya.com
+api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -13644,7 +13645,6 @@ bjzqw.com
 bjzs114.com
 bjzwzx.com
 bjzxcp.com
-bjzycd.com
 bjzyrxgs.com
 bk.17173.com
 bk.n.shifen.com

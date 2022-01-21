@@ -10156,6 +10156,7 @@ api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.coconut.is
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -43178,6 +43179,7 @@ liweijia.com
 liweiliang.com
 liwenzhou.com
 liwinon.com
+liwngad.com
 liwuhy.com
 liwumaoapp.com
 liwushuo.com
@@ -48437,7 +48439,6 @@ newsbz.net
 newscctv.net
 newseasoft.com
 newsgd.com
-newshiyu.com
 newsie.2345.com
 newsimg.cn
 newsing.com
@@ -51115,6 +51116,7 @@ pb.hd.sohu.com
 pb.hd.sohu.com.cn
 pb.i.sogou.com
 pb.jd.com
+pb.sogou.com
 pb.sys.pp8.com
 pb1.pstatp.com
 pb10.sogou.com
@@ -53111,7 +53113,6 @@ pwsannong.com
 pwt.zoosnet.net
 pwupdate.cdn.pandora.xiaomi.com
 px.ads.linkedin.cn
-px.ads.linkedin.com
 px.cbctp.top
 px.effirst.com
 px.nloader.xyz

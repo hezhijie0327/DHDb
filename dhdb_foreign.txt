@@ -19715,6 +19715,7 @@ api.kubectl.net.zooplus.de
 api.lab.amplitude.com
 api.leclerc
 api.levelaccess.net
+api.lewen123.net
 api.limbik.com
 api.linkgist.com
 api.linkz.net
@@ -21582,6 +21583,7 @@ asia.monerise.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
+asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -40157,7 +40159,6 @@ consumable.com
 consumabletv.com
 consumentenbond.nl
 consumer-res.huawei.com
-consumer.huawei.com
 consumer.krxd.net
 consumer.lp1.npns.srv.nintendo.net
 consumer.net
@@ -44720,7 +44721,6 @@ dailyfx.com
 dailyhacks.net
 dailyheadlines.cc
 dailyinnovation.biz
-dailyinterventioncongestion.com
 dailyjobshub.blogspot.in
 dailym.ai
 dailymail.co.uk
@@ -90271,7 +90271,6 @@ koutobey.net
 koutsujiko.jp
 kouwheey.net
 kouzw.com
-kovjo.com
 kovla.com
 kowalskypage.com
 kowamokuzai.com
@@ -96446,7 +96445,6 @@ m.bellwethercoffee.com
 m.biduo.cc
 m.biquge5200.cc
 m.biqugezw.com
-m.bkuax.com
 m.boluoxs.com
 m.bookbaow.com
 m.bookben.com

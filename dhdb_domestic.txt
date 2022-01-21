@@ -45215,7 +45215,6 @@ maroon91.com
 marry5.com
 mars.ccc.cmbchina.com
 mars.jd.com
-mars.jd.com.gslb.qianxun.com
 mars.meituan.com
 marstor.com
 marstv.com
@@ -58132,6 +58131,7 @@ security-lq.snssdk.com.w.cdngslb.com
 security-v6.ias.tencent-cloud.net
 security-web.cdn-go.cn
 security.bilibili.com
+security.browser.miui.com
 security.cdnetworks.com
 security.gome.com.cn
 security.iqiyi.com

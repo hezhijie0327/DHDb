@@ -4041,7 +4041,6 @@
 91gaoqing.com
 91gay.me
 91guohuaw.com
-91jiedai.cn
 91lewei.com
 91link.xyz
 91maker.com
@@ -4528,6 +4527,7 @@ a-ups-presencecore3-prod-azsc.australiaeast.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.eastus2.cloudapp.azure.com
+a-ups-presencecore3-prod-azsc.japaneast.cloudapp.azure.com
 a-ups-presencecore3-prod-azsc.southeastasia.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.eastus.cloudapp.azure.com
@@ -19600,6 +19600,7 @@ dongshihao.com
 dongtaiwang.org
 dongxuyitai.com
 dongzhuoyao.com
+donkeyrecentfaith.com
 donnez-votre-avis.org
 dontaxoaf.com
 dontblockme.modaco.com
@@ -35215,6 +35216,7 @@ lingdonghuyu.com
 lingduwk.com
 lingeriebarren.com
 linghaofang.com
+lingintirejohny.club
 linglingfa.com
 linglong001.com
 linglonglife.com
@@ -46659,7 +46661,6 @@ r1---sn-n4v7knlk.googlevideo.com
 r1---sn-n4v7knls.googlevideo.com
 r1---sn-q4fl6ne6.googlevideo.com
 r10s.com
-r1y.com
 r2---sn-4g5e6nez.googlevideo.com
 r2---sn-4g5e6nls.googlevideo.com
 r2---sn-5hne6n7e.googlevideo.com
@@ -46851,6 +46852,7 @@ ratcracked.hopto.org
 ratho5t.hopto.org
 ratingcase.com
 ratioboom.ru
+rationalan.pro
 rattar.hopto.org
 ratty.hopto.org
 ratyakhu.ru
@@ -46945,7 +46947,6 @@ rcm-cn.amazon.cn
 rcm.shinobi.jp
 rcmd.jp
 rcover.net
-rcptik.ru
 rcpuierp.cn
 rcpx.cc
 rcrnews.com
@@ -51258,6 +51259,7 @@ stat.baike.com
 stat.cbsi.com.cn
 stat.cqwb.com.cn
 stat.cutv.com
+stat.dedecms.com
 stat.discogs.com
 stat.dongqiudi.com
 stat.googleanalysis.mobi

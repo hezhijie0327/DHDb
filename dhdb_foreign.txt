@@ -40884,7 +40884,6 @@ core.gcp.vip.tantanapp.com
 core.opentext.com
 core.royalads.net
 core.spreedly.com
-core.tantanapp.com
 core.unit-sense.net
 core.vchat.vn
 core.vnecdn.com

@@ -17686,7 +17686,6 @@ cipscom.com
 cipunited.com
 cipv6gn.v.bsclink.cn
 cipv6gn.v.trpcdn.net
-ciqinghui.com
 cirk9veg.dispatch.spcdntip.com
 cirmall.com
 cis.sohu.com
@@ -32736,6 +32735,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -41464,6 +41464,7 @@ kwimg8.kuwo.cn
 kwimg9.kuwo.cn
 kwimgs.com
 kwin.wang
+kwin.xyz
 kwkg.kuwo.cn
 kwm.com
 kwmiosjump.kuwo.cn
@@ -44635,6 +44636,7 @@ m.weathercn.com
 m.webshu.net
 m.weibo.cn
 m.wooboo.com.cn
+m.wshufa.com
 m.wsxxu.com
 m.wuxiamh.com
 m.x81zw.com
@@ -53224,7 +53226,6 @@ pyxjwks.com
 pyxk.com
 pyxww.com
 pyynsm.com
-pyyx.com
 pyzjhd.com
 pyzx.xyz
 pzcenter.xueersi.com

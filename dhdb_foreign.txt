@@ -1439,6 +1439,7 @@
 135-139.com
 135.83.145.119.zz.countries.nerd.dk
 1352121.b2b.liebiao.com
+1352121.shop.liebiao.com
 1352365.b2b.liebiao.com
 1356net.com
 135995.com
@@ -34699,6 +34700,7 @@ cdnquality.com
 cdnr-ch-1.net.daraz.com
 cdnr-es-1.net.daraz.com
 cdnreference.com
+cdnren.com
 cdnrl.com
 cdns.com.tw
 cdns.klimg.com
@@ -45739,7 +45741,6 @@ dcr-cd.beeppool.org
 dcrzz.com
 dcs-edge-apse-231350507.ap-southeast-1.elb.amazonaws.com
 dcs-edge-tyo3-624150721.ap-northeast-1.elb.amazonaws.com
-dcs-live.apis.anvato.net
 dcs.audi.com
 dcs.esprit.at
 dcs.esprit.be
@@ -74280,7 +74281,6 @@ hawaiibmw.com
 hawaiipacifichealth.org
 hawesko.de
 hawk.makroskop.eu
-hawktreasure.com
 hawkyeye5ssnd.com
 haworth.com
 hawu.me
@@ -77787,6 +77787,7 @@ huijiadelu.com
 huilm.com
 huilv.911cha.com
 huilv.cc
+huilv.ccsw003.com
 huilvwu.com
 huiman.net
 huimaw.com
@@ -85506,7 +85507,6 @@ iwuipv-dnsotls-ds.metric.gstatic.com
 iwwhm.r5.cr.rs
 iwwqqy.motorsweden.se
 iwymsb.savagex.de
-iwyv.com
 iwyvi.com
 iwzmmb.pampling.com
 ix.co
@@ -120917,6 +120917,7 @@ plug.game
 plug1luge.com
 plugerr.com
 pluggednow.com
+plugin.2beon.co.kr
 plugin.2easydroid.com
 plugin.management
 plugin.me2day.net
@@ -123850,7 +123851,6 @@ ps5.azurewebsites.net
 ps7894.com
 ps8318.com
 psachugh.net
-psadsoob.com
 psaglyfico.com
 psaiceex.net
 psaighid.com

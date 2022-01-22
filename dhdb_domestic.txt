@@ -18136,7 +18136,6 @@ club-huawei.weathercn.com
 club-img.douyucdn.cn
 club-v4.chinanorth.cloudapp.chinacloudapi.cn
 club.bilibili.com
-club.jd.com
 club.jd.com.gslb.qianxun.com
 club.lenovo.com.cn
 club.m.autohome.com.cn
@@ -24573,7 +24572,6 @@ dwq.com
 dwrh.net
 dwsedu.com
 dwstatic.com
-dwstock.com
 dwt.life
 dwtedx.com
 dwtracking.sdo.com
@@ -26115,7 +26113,6 @@ eswin.com
 eszmall.com
 esztsg.org
 eszwdx.com
-et.emarbox.com
 et.softidc.gaofangm.com
 et.tanx.com
 et.w.inmobi.cn

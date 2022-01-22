@@ -22867,6 +22867,7 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
+dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -52451,6 +52452,7 @@ ppmoney.com
 ppnad.com
 pppie.com
 pppoevps.com
+pppoo.com
 pps-log.op-mobile.opera.com
 pps.tv
 ppsimg.com

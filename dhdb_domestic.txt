@@ -10705,6 +10705,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -18398,7 +18399,6 @@ cn-ahwh-dx-bcache-05.bilivideo.com
 cn-ahwh-dx-bcache-06.bilivideo.com
 cn-ahwh-dx-bcache-07.bilivideo.com
 cn-ahwh-dx-bcache-08.bilivideo.com
-cn-api.samsungcloud.com
 cn-api.samsungosp.com
 cn-api.samsungpositioning.com.cn
 cn-auth.samsungosp.com
@@ -18513,6 +18513,7 @@ cn.letou118.net
 cn.linkedin.com
 cn.made-in-china.com
 cn.man484.com
+cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.ntp.org.cn
 cn.pandora.net
@@ -37515,6 +37516,7 @@ iuinns.com
 iuniware.com
 iuoooo.com
 iupnlpd.cn
+iuqcmmqjzwdi.dn4onjr.cn
 iuuu9.com
 iv.doubleclick.net
 iv.jd.com
@@ -51075,7 +51077,6 @@ passport.dns.iqiyi.com
 passport.douyu.com
 passport.douyu.com.w.cdngslb.com
 passport.iqiyi.com
-passport.jd.com
 passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
@@ -52899,6 +52900,7 @@ pull-flv-l13.douyincdn.com
 pull-flv-l26-cny.douyincdn.com
 pull-flv-l26.douyincdn.com
 pull-flv-l27.douyincdn.com
+pull-flv-l29.douyincdn.com.ucloud.com.cn
 pull-flv-l6-cny.douyincdn.com
 pull-flv-l6-hs.pstatp.com
 pull-flv-l6-source.douyincdn.com
@@ -55706,6 +55708,7 @@ r.14244.com
 r.99waiyu.com
 r.alicpd.top
 r.alimc1.top
+r.bing.com
 r.bxb.oupeng.com
 r.dmp.sina.cn
 r.dmp.sina.com.cn
@@ -56696,7 +56699,6 @@ rrdtjj.top
 rree.com
 rrfed.com
 rrfmn.com
-rrhuodong.com
 rrimg.com
 rrjc.com
 rrkf.com
@@ -59675,7 +59677,6 @@ shxbe.com
 shxhgzf.com
 shxiaoran.com
 shxibeiquanshe.com
-shxkwck.com
 shxt.com
 shxwcb.com
 shyanke.com

@@ -2395,6 +2395,7 @@
 263xmail.com
 263y.com
 264006.com
+264802.com
 265.com
 2656000.com
 26595.com
@@ -41942,6 +41943,7 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
+lbsgw.m.jd.com.gslb.qianxun.com
 lbsgwh5.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com

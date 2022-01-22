@@ -35520,6 +35520,7 @@ chat.amplifyreach.com
 chat.ru
 chat.stackexchange.com
 chat.xboxlive.com
+chat1.jd.com.gslb.qianxun.com
 chatakauntewed.com
 chatandgames.net
 chatango.com
@@ -42904,6 +42905,7 @@ ctshirts.com
 ctsilinks2.ctsi.pitt.edu
 ctsscs.com
 ctssr.com
+ctsto.com
 ctstzd.oodji.com
 cttghjfhsw.com
 cttracking02.com
@@ -53992,7 +53994,6 @@ emea.kollmorgen.com
 emea.legacy.tester.net.zooplus.com
 emea.mail.net.zooplus.it
 emea.presence.teams.microsoft.com
-emea.pub
 emea.s3.nautilus-legacy.net.zooplus.com
 emea.wf.com
 emea.www.net.daraz.com

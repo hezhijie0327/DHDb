@@ -1085,7 +1085,6 @@
 123novel.com
 123p1.sogoucdn.com
 123qibu.com
-123qy.com
 123slg.com
 123u.com
 123webgame.com
@@ -45506,6 +45505,7 @@ mcs.snssdk.com.w.kunlunca.com
 mcs.snssdk.com.w.kunlunca.com.c.cdnuyun.cn
 mcs.snssdk.com.w.kunlunca.com.qr.uuhimalayanqm.com
 mcsafebox.com
+mct01.com
 mcu-home.com
 mcu123.net
 mcube-prod.oss-cn-hangzhou.aliyuncs.com
@@ -58390,6 +58390,7 @@ service.mpop.icbc.com.cn
 service.shanghai.gov.cn
 service.urchin.com
 service.uu.163.com
+service.vapp.jd.com
 service.weather.msn.cn
 service.weibo.com
 servicecut.meizu.com

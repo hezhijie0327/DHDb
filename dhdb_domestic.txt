@@ -32734,7 +32734,6 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -55568,7 +55567,6 @@ qwimm.com
 qwolf.com
 qwpo2018.com
 qwps.cn
-qwps.com
 qwqk.net
 qwqoffice.com
 qwsy7n6n.v1d.szbdyd.com

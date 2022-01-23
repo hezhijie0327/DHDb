@@ -10708,7 +10708,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -18034,7 +18033,6 @@ cloudcache.tencentcs.com
 cloudcc.com
 cloudcdn.dopa.com
 cloudcdn.dopa.com.cn
-cloudcdn.net
 cloudcfg.yfp2p.net
 cloudconf.fengkongcloud.com
 cloudconfig.mta.qq.com
@@ -42382,7 +42380,6 @@ lezhi99.com
 lezhibo.com
 lezhiot.com
 lezhiyun.com
-lezhuan.com
 lezhuan168.com
 lezhuan365.com
 lezi.com

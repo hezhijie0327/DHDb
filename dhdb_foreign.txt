@@ -2541,7 +2541,6 @@
 2.4.je
 2.adam.com
 2.android.pool.ntp.org
-2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -6508,7 +6507,6 @@
 66e.cc
 66e769d9475fcb367ce4fba9da9424bd.clo.footprintdns.com
 66fuzhuang.com
-66go.vip
 66hyk.cc
 66hyk.com
 66infra-strat.com
@@ -48381,6 +48379,7 @@ djs999.com
 djsibsmmspjryyn.top
 djsn888.com
 djsoo8p407d6p.cloudfront.net
+djss-design.cn
 djstechpc.com
 dju8.com
 djugoogs.com
@@ -104927,7 +104926,6 @@ moafoche.com
 moage.com
 moahcor6ifhk.app.stoic.ai
 moakaumo.com
-moapteeg.net
 moapuwhe.com
 moartraffic.com
 moat.com

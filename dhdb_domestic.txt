@@ -7663,7 +7663,6 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
-abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abto.cc
@@ -11272,6 +11271,7 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
+au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com
@@ -17228,7 +17228,6 @@ chinatpm.net
 chinatranslation.net
 chinatravel.net
 chinatraveldepot.com
-chinatraveldesigner.com
 chinatruck.org
 chinatrucks.com
 chinatsi.com
@@ -32604,7 +32603,6 @@ hippy.imtt.qq.com.sched.px-dk.tdnsv6.com
 hippy.imtt.qq.com.tcdn.qq.com
 hipring.net
 hiqidi.com
-hiram.wang
 hirede.com
 hirek-online.com
 hireye.com
@@ -53119,7 +53117,6 @@ pv265.com
 pvc-e7031f9b-6522-11e9-883f-fa163e9e2c22.obs.cn-north-1.myhuaweicloud.com
 pvc.zol.com.cn
 pvc123.com
-pvdata.ku6.com
 pvkj.com
 pvm.zol.com.cn
 pvmsite.zol.com.cn
@@ -55831,7 +55828,6 @@ rankaiyx.com
 rankhit.china.com
 ranking.m.jd.com
 ranknowcn.com
-ranqibio.com
 rantu.com
 ranzhi.net
 ranzhi.org
@@ -56706,7 +56702,6 @@ rrxiu.me
 rrxiu.net
 rrzuji.com
 rrzxw.net
-rs.qinsashipin.com
 rs.sinajs.cn
 rs05.com
 rs1.huanqiucdn.cn

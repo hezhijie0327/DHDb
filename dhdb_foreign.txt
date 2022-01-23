@@ -19742,7 +19742,6 @@ api.login.ops.net.zooplus.de
 api.login.staff.net.zooplus.de
 api.lwxs99.com
 api.m.afreecatv.com
-api.m.jd.com
 api.machine.net.zooplus.de
 api.macupdate.com
 api.mail.net.zooplus.de
@@ -41548,6 +41547,7 @@ cpm20.com
 cpm30.com
 cpm360.com
 cpmadvisors.com
+cpmaffiliation.com
 cpmdlmgfwy.com
 cpmgatenetwork.com
 cpmktg.com
@@ -72829,6 +72829,7 @@ guardssentinelcreepy.com
 guardster.com
 gubo.net
 gucci.com
+gucciblog.net
 guccimuseo.com
 guccitimeless.com
 guccitimepieces.com
@@ -73624,6 +73625,7 @@ hacksforfree.bonushacks.com
 hacksforgame.com
 hacksforgamers.com
 hacksfree.net
+hacksgenie.com
 hacksgo.com
 hacksguide.com
 hackshared.com

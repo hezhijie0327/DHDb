@@ -14164,7 +14164,6 @@ brzhang.club
 bs-adaptive.pull.yximgs.com
 bs-origin.pull.yximgs.com
 bs.csshq.com.cn
-bs.forward.douban.com
 bs008.com
 bs14.9669.cn
 bs56.net
@@ -35536,7 +35535,6 @@ iis7.com
 iisicp.com
 iisp.com
 iisp.mbs.boc.cn
-iissbbs.com
 iiszg.com
 iitcp.com
 iitoutiao.com
@@ -43609,7 +43607,6 @@ logservice.hicloud.com
 logservice1.hicloud.com
 logstat.caixin.com
 logstat.t.sfht.com
-logtake.weidian.com
 logtbs.sparta.mig.tencent-cloud.net
 logu.hpplay.cn
 logupdate.avlyun.sec.miui.com
@@ -45267,7 +45264,6 @@ maro6.com
 maroon91.com
 marry5.com
 mars.ccc.cmbchina.com
-mars.jd.com
 mars.meituan.com
 marstor.com
 marstv.com

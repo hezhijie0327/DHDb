@@ -704,7 +704,6 @@
 1.ad-locus.com
 1.adidevelopments.com
 1.appexchange.com
-1.asia.pool.ntp.org
 1.bb5522.ws
 1.bb6688.ws
 1.car21.net.daraz.com
@@ -1523,6 +1522,7 @@
 143nchrtl3.com
 144.dragonparking.com
 1446065.b2b.liebiao.com
+1446065.shop.liebiao.com
 144n.com
 144yd.com
 1452162.com
@@ -6828,6 +6828,7 @@
 71d7511a4861068.com
 71du.com
 71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr
+71http.com
 71i.de
 71p.net
 71txt.com
@@ -8287,6 +8288,7 @@
 941hd.com
 941novel.com
 941tracking.com
+941ziyuan.cn
 942.mrbonus.com
 942777.com
 942porn.com
@@ -28615,7 +28617,6 @@ bluecad.com
 bluecatnetworks.com
 bluecava.com
 bluecloud.pw
-bluecoat.me
 blueconic.com
 blueconic.net
 bluecore.com
@@ -76287,6 +76288,7 @@ hmgnjf.autoscout24.it
 hmh3.com
 hmhco.com
 hmheiya.com
+hmikw.com
 hmizat.co
 hmldds.com
 hmlvxk.julian-fashion.com
@@ -76509,7 +76511,6 @@ home.blog
 home.ceracare.co.uk
 home.cloudn.me
 home.cmgfi.com
-home.deathgun.cn
 home.foni.net
 home.gamer.com.tw
 home.gelsennet.de
@@ -80003,6 +80004,7 @@ image1.elife.icbc.com.cn
 image1.fmgstatic.com
 image2.pubmatic.com
 image4.pubmatic.com
+image5.mall.icbc.com.cn
 image6.pubmatic.com
 image8.fmgstatic.com
 image8.mall.icbc.com.cn

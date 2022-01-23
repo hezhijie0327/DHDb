@@ -5549,6 +5549,7 @@ ad1.xiaomi.com
 ad1.yomiuri.co.jp
 ad1.yourmedia.com
 ad121m.com
+ad12345.com
 ad123m.com
 ad130m.adpdx.com
 ad132m.adpdx.com
@@ -35635,6 +35636,7 @@ loading-delivery6.com
 loading-delivery7.com
 loading-delivery8.com
 loading-delivery9.com
+loading-domain.com
 loading-images.com
 loading-pag.net
 loading-url.net
@@ -40241,6 +40243,7 @@ my.to
 my.top100.photo
 my.trgino.com
 my0blog.ru
+my1616.net
 my1688.shop
 my188home.com
 my1fc.m.b5200.net

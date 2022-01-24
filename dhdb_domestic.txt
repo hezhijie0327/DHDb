@@ -5103,7 +5103,6 @@
 66money.com
 66mz8.com
 66nao.com
-66nh.com
 66play.com
 66rou.com
 66rpg.com
@@ -21565,6 +21564,7 @@ dbaeumer.gallerycdn.azure.cn
 dbank.com
 dbankcdn.cn
 dbankcdn.com
+dbankcloud.asia
 dbankcloud.cn
 dbankcloud.com
 dbankedge.net
@@ -31099,6 +31099,7 @@ h8aq3ba9.sched.vp.tdnsv5.com
 h8r5us1.cachenode.cn
 h9imt8jv.sched.d0.tdnsv5.com
 ha.gsxt.gov.cn
+ha.wheel.duolebo.com
 ha97.com
 haawking.com
 habadog.com

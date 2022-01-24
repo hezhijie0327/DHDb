@@ -1542,6 +1542,7 @@
 2860885.com
 2886115.com
 2886996.com
+2894c9d5b32.com
 289980f6961cab06b7e83dd2536478ab.jddebug.com
 28f35561e0ecfd22a8f8048e07569c29.jddebug.com
 28fc0b1358aae56143c73239d0d95f6b.jddebug.com
@@ -4542,6 +4543,7 @@ a-ups-presencecore4-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.japaneast.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.southeastasia.cloudapp.azure.com
 a-ups-presencecore4-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presencecore5-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.eastus2.cloudapp.azure.com
 a-ups-presencecore5-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore6-prod-azsc.centralus.cloudapp.azure.com
@@ -7786,7 +7788,6 @@ allfilmshd.com
 allfontshere.press
 allfreeapk.com
 allfreegoodsys2updates.stream
-allgamehacked.pw
 allgamehacks.org
 allgames.fun
 allgameshack.com
@@ -14461,6 +14462,7 @@ chuchujie.com
 chudaili.com
 chufudsi.net
 chugagre.com
+chuguo78.com
 chuimg.com
 chuinet.com
 chukalapopi.com
@@ -34424,7 +34426,6 @@ lagouevents.com
 lagoujobs.com
 laiagency.co.tz
 laichaim.net
-laidianba.net
 laifu.net
 laikanxing.com
 laikanxs.com
@@ -47142,6 +47143,7 @@ record.kuai.xunlei.com
 recording-music.net
 recordjapan.net
 recovery-facebook.ws
+recoveryinformremorse.com
 recoye.com
 recreation-leisure-rewardpath.com
 recv.aiclk.com

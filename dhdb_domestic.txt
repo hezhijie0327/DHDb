@@ -10200,7 +10200,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.gamebox.cocos.com
 api.gcloud.qq.com
 api.geetest.com
@@ -17294,6 +17293,7 @@ chinaxpp.com
 chinaxq.com
 chinaxqf.com
 chinaxueqian.com
+chinaxwcb.com
 chinaxzrc.com
 chinayigui.com
 chinayk.com
@@ -17528,7 +17528,6 @@ chufa123.com
 chufaba.me
 chufw.com
 chuge8.com
-chuguo78.com
 chuguohao.com
 chuhoi.com
 chuiyue.com
@@ -28118,6 +28117,7 @@ fulinbox.1688.com
 fuling.com
 fulingwx.com
 fuliti.com
+fulixtv.com
 full-way.com
 fullgoal.com.cn
 fulllinks.com
@@ -35615,7 +35615,6 @@ iku8.com
 ikuai8.com
 ikuailian.com
 ikuaiy.net
-ikxin.com
 il133.cn
 ilab-x.com
 ilaisa.com
@@ -41632,6 +41631,7 @@ laibokeji.com
 laichou.com
 laichuanfeng.com
 laidacai.com
+laidianba.net
 laidingba.com
 laidou.wang
 laifeng.com

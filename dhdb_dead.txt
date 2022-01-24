@@ -22402,6 +22402,7 @@ event.ksosoft.com
 event.prod.bidr.io
 event.trove.com
 event.vntoday.news
+eventapi.afreecatv.com
 eventcsgo.pro
 eventlittrecet.ru
 eventlog.hd.baofeng.com
@@ -32854,7 +32855,6 @@ jumtools.net
 junan.name
 junankeji.com
 jundui.net
-june4commemoration.org
 junecleeland.com
 junefourth-20.net
 juneyaoairlines.com
@@ -46457,7 +46457,6 @@ qt54a.cn
 qtbcw.com
 qtd95fj.online
 qtestin.com
-qthnews.com
 qthosp.com
 qthp82.cn
 qtip.kuaibo.com

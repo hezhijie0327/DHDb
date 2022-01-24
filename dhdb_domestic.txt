@@ -13699,7 +13699,6 @@ blackbirdsport.com
 blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
-blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
@@ -18521,6 +18520,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -18574,7 +18574,6 @@ cname.xiaomiyoupin.com
 cname1.qywww.net
 cname123.net
 cnamehttps.licdn.com.mwcname.com
-cnantennas.com
 cnaomeng.com
 cnautofinance.com
 cnautonews.com
@@ -41427,7 +41426,6 @@ kuyibu.com
 kuyin123.com
 kuyinyun.com
 kuyiso.com
-kuyoo.com
 kuyubox.com
 kuyumall.com
 kuyun.com
@@ -55831,6 +55829,7 @@ rankaiyx.com
 rankhit.china.com
 ranking.m.jd.com
 ranknowcn.com
+rannabio.com
 rantu.com
 ranzhi.net
 ranzhi.org

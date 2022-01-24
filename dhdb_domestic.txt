@@ -14163,6 +14163,7 @@ brzhang.club
 bs-adaptive.pull.yximgs.com
 bs-origin.pull.yximgs.com
 bs.csshq.com.cn
+bs.forward.douban.com
 bs008.com
 bs14.9669.cn
 bs56.net
@@ -59277,7 +59278,6 @@ shop.jd.com
 shop.jd.com.gslb.qianxun.com
 shop.lenovo.com.cn
 shop.lenovo.com.cn.wscdns.com
-shop.m.jd.com
 shop.m.jd.com.gslb.qianxun.com
 shop.m.taobao.com
 shop.m.tmall.com
@@ -61192,7 +61192,6 @@ star-media.cn
 star.jstv.com
 star.xiaojukeji.com
 star7th.com
-star8.net
 starbucks.com.cn
 starcorupdate.hifuntv.com
 stardoctor.com

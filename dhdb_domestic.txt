@@ -10206,6 +10206,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.gamebox.cocos.com
 api.gcloud.qq.com
 api.geetest.com
@@ -11148,6 +11149,7 @@ asr.meituan.com
 asrmicro.com
 asrsingapore.com
 asset.newyx.net
+asset.tantanapp.com
 assets-cli.udesk.cn
 assets-cli.udesk.cn.w.kunlunar.com
 assets-mayun.b0.aicdn.com
@@ -34827,7 +34829,6 @@ i52tt.com
 i574ou0.cdnnodedns.cn
 i5i6.net
 i5zhen.com
-i6.weather.oppomobile.com
 i618.com.cn
 i62.lanzoug.com
 i7.3conline.com
@@ -41635,6 +41636,7 @@ ladybirdedu.com
 ladymetro.com
 ladystr.com
 ladyye.site
+ladyyu.com
 lafhzx.com
 lagou.com
 lagowang.com

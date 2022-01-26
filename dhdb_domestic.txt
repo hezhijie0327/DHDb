@@ -10034,7 +10034,6 @@ apgblogs.com
 apgoview.com
 aphidic.com
 api-20200527.xkspbz.com
-api-a.op-mobile.opera.com
 api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
@@ -10209,6 +10208,7 @@ api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
 api.g.micloud.xiaomi.net
+api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
 api.geetest.com
@@ -22068,7 +22068,6 @@ dezhong365.com
 dezhou.anjuke.com
 dezhou.baixing.com
 dezhoudaily.com
-dezhouqh.com
 df.cache.wpscdn.cn
 df.huya.com
 df.mic.mob.com
@@ -23057,7 +23056,6 @@ dm.bytedance.com
 dm.bytedance.com.w.cdngslb.com
 dm.cnbanbao.com
 dm.cqdxun.cn
-dm.hxzdhn.com
 dm.ishuo.cn
 dm.jb51.net
 dm.jinshasi.cn

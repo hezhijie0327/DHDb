@@ -35554,6 +35554,7 @@ chat.amplifyreach.com
 chat.ru
 chat.stackexchange.com
 chat.xboxlive.com
+chat1.jd.com
 chatakauntewed.com
 chatandgames.net
 chatango.com
@@ -48964,6 +48965,7 @@ dnsrd.com
 dnssec-df.gexperiments4.com
 dnssec-nd.gexperiments1.com
 dnssec.net
+dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 dnsseed.emzy.de
 dnsup.net
@@ -58173,7 +58175,6 @@ favourity.pro
 favourmiles.com
 favstar.fm
 fawanghuihui.org
-fawen8.com
 fawhositho.com
 fawhuksy.com
 fax52.com
@@ -95066,7 +95067,6 @@ log.idnes.cz
 log.infonet.vn
 log.kaka.me
 log.kibboko.com
-log.kienthuc.net.vn
 log.kinhdoanhhoinhap.vn
 log.kinhtedouong.vn
 log.krs-ix.ru
@@ -113450,7 +113450,6 @@ oferting.net
 oferting.org
 oferty-kredytowe.pl
 ofevhcp.com
-ofexmskz.com
 offaces-butional.com
 offalakazaman.com
 offbeatchina.com

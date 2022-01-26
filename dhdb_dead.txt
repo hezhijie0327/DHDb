@@ -1904,7 +1904,6 @@
 365webcall.com
 365weifu.com
 365wenku.com
-365zn.com
 365zyw.com
 365zzd.com
 366.wha.la
@@ -35794,6 +35793,7 @@ log.guid.tpns.sh.tencent.com
 log.hankooki.com
 log.interest.mix.sina.com.cn
 log.invodo.com
+log.kienthuc.net.vn
 log.kino-dom.org
 log.kukuplay.com
 log.liverail.com
@@ -42418,6 +42418,7 @@ ofdl.nctu.me
 ofenop.ru
 ofertedevis.eu
 oferty-online.com
+ofexmskz.com
 offer-mediaservices.download
 offerairjordanlebron.com
 offerbroker.net

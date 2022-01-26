@@ -3036,6 +3036,7 @@
 365yg.com
 365you.com
 365yyd.com
+365zn.com
 3663.com
 366300.com
 3663862938.cloudvdn.com
@@ -10157,7 +10158,6 @@ api.bigfun.cn
 api.biliapi.net
 api.bilibili.com
 api.biligame.com
-api.browser.miui.com
 api.bs.zui.com
 api.btstu.cn
 api.bz
@@ -13315,7 +13315,6 @@ bitol.net
 bitqiu.com
 bitscat.org
 bitsde.com
-bitshuo.com
 bitsqa.com
 bitu360.com
 bituan.io

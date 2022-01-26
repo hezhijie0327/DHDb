@@ -654,6 +654,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -23496,7 +23497,6 @@ doudou911.com
 doudouba.com
 doudoubianli.com
 doudoubird.com
-doufan.tv
 doufl.com
 doufm.net
 douglassclub.com
@@ -56523,6 +56523,7 @@ rm.lomark.cn
 rm.sina.com.cn
 rmb.pingan.com.cn
 rmb.sh
+rmbav.com
 rmcjzz.com
 rmcteam.org
 rmfygg.court.gov.cn

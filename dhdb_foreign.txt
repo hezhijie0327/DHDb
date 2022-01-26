@@ -3674,7 +3674,6 @@
 3.courier-push-apple.com.akadns.net
 3.courier2-push-apple.com.akadns.net
 3.cr.rs
-3.openwrt.pool.ntp.org
 3.pool.ntp.org
 3.szcjm.com
 3.tlu.dl.delivery.mp.microsoft.com
@@ -115952,6 +115951,7 @@ osuwzo.oyunfor.com
 oswhy.com
 osxdaily.com
 osyilvl.dns-cloud.net
+osyum.com
 oszx.co
 ot.obi-italia.it
 ot.obi.at
@@ -119090,7 +119090,6 @@ pendingvillashells.com
 pendo.io
 pendulumtemporary.com
 peneloppe.chickenkiller.com
-penetrateinstalmentfacial.com
 penetrating-photogr.000webhostapp.com
 penfed.org
 penfinancial.com
@@ -124207,7 +124206,6 @@ pseptk.kueski.com
 pseric.blog125.fc2.com
 pseudo.net.nz
 pseudonymization.synology.com
-psevaulr.net
 psfcnf.ochsnersport.ch
 psfljr.nadwyraz.com
 psfpet.com
@@ -125926,7 +125924,6 @@ qp2c.com
 qp3lgzt6exyn.com
 qpby00.com
 qpby0011.com
-qpby0022.com
 qpby0066.com
 qpby0088.com
 qpby11.com

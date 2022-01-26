@@ -651,7 +651,6 @@
 1.800400.net
 1.92caijing.com
 1.aili.com
-1.asia.pool.ntp.org
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
@@ -16486,7 +16485,6 @@ chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
-chat1.jd.com
 chataixin59.byf.com
 chatm.com
 chatn8.bjmantis.net
@@ -19670,7 +19668,6 @@ cpu668.com
 cpucdn.baidu.com
 cpupack.com
 cpush.ctrip.com
-cpush.ctrip.com.tel.oy.ctripgslb.com
 cpush.ctrip.com.tel.rb.ctripgslb.com
 cpvjob.com
 cpxsxk.com
@@ -35055,7 +35052,6 @@ ichunqiu.com
 ichunt.com
 ichzh.com
 iciba.com
-icicicic.com
 icignacmb.com
 icinfo.net
 icirculation.com

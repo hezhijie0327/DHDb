@@ -43608,6 +43608,7 @@ logservice.hicloud.com
 logservice1.hicloud.com
 logstat.caixin.com
 logstat.t.sfht.com
+logtake.weidian.com
 logtbs.sparta.mig.tencent-cloud.net
 logu.hpplay.cn
 logupdate.avlyun.sec.miui.com
@@ -49412,7 +49413,6 @@ octscc.com
 octwuhan.com
 oculist.net
 ocwms.com
-odaily.com
 odao.com
 odg.dell-brand.com
 odg.dell-brand.com.w.kunlunpi.com

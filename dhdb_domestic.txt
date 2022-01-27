@@ -10711,6 +10711,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -36585,6 +36586,7 @@ incsh.sanmenxia.info
 ind-app-comp.com
 indaboom.com
 index.baidu.com
+index.woai310.com
 indexedu.com
 indexedu.net
 indics.com
@@ -44348,6 +44350,7 @@ m.1688.com
 m.168ey.com
 m.1768.com
 m.1905.com
+m.360buyimg.com
 m.360buyimg.com.gslb.qianxun.com
 m.3dmgame.com
 m.51dongshi.com

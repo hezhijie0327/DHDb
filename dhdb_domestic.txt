@@ -11146,7 +11146,6 @@ asr.meituan.com
 asrmicro.com
 asrsingapore.com
 asset.newyx.net
-asset.tantanapp.com
 assets-cli.udesk.cn
 assets-cli.udesk.cn.w.kunlunar.com
 assets-mayun.b0.aicdn.com
@@ -17490,6 +17489,7 @@ chuangcdn.com
 chuangcifang.com
 chuangd.com
 chuangen.com
+chuangfeixin.com
 chuangjiangx.com
 chuangjulm.cn
 chuangkem.com
@@ -20932,7 +20932,6 @@ daanbar.com
 dab.dongqiudi.com
 dab70351b32e4aa83ff38060.mdbook.cn
 daba.com
-dabache.org
 dabaicai.com
 dabaicai.pw
 dabaicai.shop
@@ -36859,6 +36858,7 @@ intopet.com
 intovfx.com
 intowz.com
 intozgc.com
+intple.com
 intra.lenovots.com
 intsavi.com
 intsig.net

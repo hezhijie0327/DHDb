@@ -49402,6 +49402,7 @@ ocsp.pki.goog
 ocsp.sectigochina.com
 ocsp.us.cdnetworks.com
 ocsp2-lb.apple.com.akadns.net
+ocsp2.apple.com
 ocsp2.g.aaplimg.com
 ocsp3.sheca.com
 oct-cts.com
@@ -52559,7 +52560,6 @@ prism-report-net.dreport.meituan.net
 priv.igame.qq.com
 privspace.net
 prjdrj.com
-prm-native.com
 prm.dji.com
 prnasia.com
 pro-crm.xiaoheiban.cn

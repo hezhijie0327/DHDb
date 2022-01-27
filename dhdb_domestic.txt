@@ -6599,7 +6599,6 @@
 91wangcai.com
 91watches.com
 91way.com
-91weiwang.com
 91wenmi.com
 91wllm.com
 91wujia.com
@@ -32737,6 +32736,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -45908,6 +45908,7 @@ message.finance.qq.com
 message.kuwo.cn
 message.meitu.com
 message.sonkwo.com
+messardu.com
 messcenter.58.com
 mesu-china.apple.com.akadns.net
 mesu.apple.com.mwcname.com

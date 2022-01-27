@@ -7468,7 +7468,6 @@
 8274e228-dnsotls-ds.metric.gstatic.com
 8278t.com
 827fa7c868b4b.com
-828360.com
 8284204.com
 828681.com
 828689.com
@@ -15955,6 +15954,7 @@ ag.gbc.criteo.com
 ag.hg1088.com
 ag.innovid.com
 ag.jf3303.com
+ag.palmtube.net
 ag.xs2888.com
 ag.xw283.com
 ag2958.com
@@ -45724,6 +45724,7 @@ dc.trafficmanager.net
 dc.webtrends.com
 dc0031.com
 dc0063.com
+dc0067.com
 dc0069.com
 dc0078.com
 dc08i221b0n8a.cloudfront.net
@@ -72147,6 +72148,7 @@ gpoint.co.jp
 gppppq.newcars.com
 gppro.com
 gpr.hu
+gps.jd.com
 gps8.com
 gpscard.cn
 gpshk.cc
@@ -91353,6 +91355,7 @@ l3.evidon.com
 l3771.darkhost.top
 l3bw.4.shop.tm
 l3g3media.com
+l3op.info
 l4oecosq.com
 l6b587txj1.com
 l77777777.com

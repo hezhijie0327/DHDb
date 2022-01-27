@@ -15188,6 +15188,7 @@ cargo001.com
 carimg.com
 carking001.com
 carltonyu.com
+carmov.com
 carnegiebj.com
 carnoc.com
 carodpiano.com
@@ -36014,6 +36015,7 @@ img.dota2.com.cn
 img.douxie.com
 img.douyucdn.cn
 img.douyucdn.cn.w.cdngslb.com
+img.downk.cc
 img.duoyi.com
 img.duoyi.com.dycdn.com
 img.dydab.com
@@ -36315,7 +36317,6 @@ img3.tapimg.com
 img3.tuhu.org
 img3.utuku.imgcdc.com
 img3.xitongzhijia.net
-img30.360buyimg.com
 img30.360buyimg.com.gslb.qianxun.com
 img4.178.com
 img4.cache.netease.com
@@ -37370,6 +37371,7 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
+item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com
@@ -44294,6 +44296,7 @@ lz-redeem.com
 lz-static.b0.aicdn.com
 lz-www-cdn.b0.aicdn.com
 lz.lianjia.com
+lz.whafwl.com
 lz.zu.anjuke.com
 lz13.cn
 lz310.com

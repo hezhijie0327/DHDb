@@ -22874,7 +22874,6 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
-dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -47231,7 +47230,6 @@ mrchou-website-1251076893.cos.ap-beijing.myqcloud.com
 mrcjcn.com
 mrclown.cn
 mrcrm.com
-mrcuriosity.org
 mrcywang.com
 mrdede.com
 mreg.kuwo.cn

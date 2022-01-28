@@ -6517,6 +6517,7 @@
 669daf4a-dnsotls-ds.metric.gstatic.com
 66aliyun.com
 66b4a775-dnsotls-ds.metric.gstatic.com
+66beian.com
 66dofan.com
 66dt.com
 66e.cc
@@ -38474,7 +38475,6 @@ cn.venetianmacau.com
 cn.windowssearch.com
 cn.yahoo.com
 cn.zimuzimu.com
-cn1.relay.iplc.pro
 cn1.stadiumgoods.com
 cn1069.org
 cn12365.org
@@ -80533,7 +80533,6 @@ img1.zergnet.com
 img119.imagetwist.com
 img169.com
 img18.com
-img2.cs153.com
 img2.t6k.co
 img2.zergnet.com
 img26.com

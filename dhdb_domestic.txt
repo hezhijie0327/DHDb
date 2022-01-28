@@ -23295,7 +23295,6 @@ doctrans-service.youdao.com
 documents.cdnetworks.com
 docx88.com
 doczhi.com
-doczj.com
 dodjoy.com
 dodo.link
 dodo8.com
@@ -29178,6 +29177,7 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
+get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -33128,6 +33128,7 @@ home0311.com
 home0538.com
 home0668.com
 home133.com
+home616.com
 home77.com
 homeai-bsl.iqiyi.com
 homeai.ptqy.gitv.tv
@@ -33145,7 +33146,6 @@ homekoo.com
 homekoocdn.com
 homelnns.com
 homenew.console.aliyun.com
-homepage-gw.jd.com
 homepage-gw.jd.com.gslb.qianxun.com
 hometeda.com
 hometex114.com
@@ -51128,7 +51128,6 @@ patsev.com
 pay-payment.vip.meituan.com
 pay-static.jd.com
 pay.115.com
-pay.1point3acres.com
 pay.95516.com
 pay.95516.com.wscdns.com
 pay.bestfood517.com

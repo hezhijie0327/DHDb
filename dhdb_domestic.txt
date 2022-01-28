@@ -10220,6 +10220,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hyhuo.com
 api.i-meto.com
@@ -44008,7 +44009,6 @@ lulala.com
 lulaohan.com
 lulaoye.1111.grfx-blog.top
 lulian.cn
-lulinux.com
 lulufind.com
 lumajia.com
 lumanman1688.com
@@ -54292,7 +54292,6 @@ qingmang.mobi
 qingmayun.com
 qingmei.me
 qingmo.com
-qingmob.com
 qingnianlvxing.com
 qingqikeji.com
 qingqin.com

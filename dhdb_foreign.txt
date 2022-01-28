@@ -2544,6 +2544,7 @@
 2.4.je
 2.adam.com
 2.android.pool.ntp.org
+2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -38378,7 +38379,6 @@ cmsector.net.zooplus.es
 cmsfg.com
 cmsing.net.daraz.com
 cmsjournal.net
-cmsmodnews.com
 cmsnl.com
 cmstrendslog.indiatimes.com
 cmstrendslog.timesnow.tv
@@ -83137,7 +83137,6 @@ ingevity.com
 ingget.net.zooplus.es
 ingka.com
 ingkacentres.com
-ingoinghitchstick.com
 ingoomychan.com
 ingpercent.biz
 ingratitudedaintyblockade.com
@@ -114254,7 +114253,6 @@ omns.americanexpress.com
 omns.crackle.com
 omns.murdoch.edu.au
 omny.fm
-omoaxaus.net
 omomovie.com
 omoonsih.net
 omotenashi.cygames.jp
@@ -130327,7 +130325,6 @@ rizepoint.com
 rizfilm.com
 rizhuji.com
 rizi168.com
-riziftoo.com
 rizzonelli.it
 rj2ro1x3j4ht.com
 rj82p-marketing.net.daraz.com

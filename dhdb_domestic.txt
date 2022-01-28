@@ -10114,7 +10114,6 @@ api-z.weidian.com
 api-zone-lixian-vip-ssl.xunlei.com
 api.17173.com
 api.186078.com
-api.1point3acres.com
 api.1sapp.com
 api.2.taobao.com
 api.22lianmeng.com
@@ -52899,7 +52898,6 @@ pull-flv-l13.douyincdn.com
 pull-flv-l26-cny.douyincdn.com
 pull-flv-l26.douyincdn.com
 pull-flv-l27.douyincdn.com
-pull-flv-l29.douyincdn.com.ucloud.com.cn
 pull-flv-l6-cny.douyincdn.com
 pull-flv-l6-hs.pstatp.com
 pull-flv-l6-source.douyincdn.com

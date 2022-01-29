@@ -2463,7 +2463,6 @@
 28kai.cc
 28nxuy.tdum.alibaba.com
 28rv.com
-28tlc.com
 28tui.com
 28wxlc.tdum.alibaba.com
 28y.com
@@ -27583,6 +27582,7 @@ fkblog.org
 fkcaijing.com
 fkdmg.com
 fkdxg.com
+fktong.com
 fkw.com
 fkw100.com
 fkxs.net
@@ -59265,6 +59265,7 @@ shokan.org
 shomyq.com
 shop-gateway.tuhu.cn
 shop-gw.chengxinyouxuan.com
+shop-h5.guyijiankang.cn
 shop.3dmgame.com
 shop.admin.yinyuetai.com
 shop.ali213.com

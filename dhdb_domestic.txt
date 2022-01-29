@@ -11054,7 +11054,6 @@ as1.wenku.baidu.com
 as2.binstream.live
 as3f.com
 as5.com
-asa.commerce.apple.com
 asa.commerce.apple.com.cdn20.com
 asap.ad7.com
 asc-wines.com
@@ -12699,7 +12698,6 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -13844,6 +13842,7 @@ bnmiul.tdum.alibaba.com
 bnnd.net
 bns.17173.com
 bnu2bnmn.sched.s3hw.tdnsv5.com
+bnuni.com
 bnupg.com
 bnwin.com
 bnzt88.com
@@ -40536,7 +40535,6 @@ kejet.net
 keji100.net
 kejian.design
 kejijie.net
-kejike.com
 kejilie.com
 kejimt.com
 kejingyuan.com
@@ -47281,6 +47279,7 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net

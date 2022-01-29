@@ -19721,7 +19721,6 @@ api.hfyhjg.cn
 api.huashuge8.com
 api.hubapi.com
 api.hubspot.com
-api.hybrid.xiaomi.com
 api.iaddisabled.net.zooplus.de
 api.identitynow.com
 api.infinario.com
@@ -40242,6 +40241,7 @@ constructbuy.com
 construction.com
 constructionmonitor.com
 construment.com
+construsoft.actonservice.com
 construsoft.com
 consul.io
 consult.americanexpress.com

@@ -10216,6 +10216,7 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.huya.com
+api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -14398,7 +14399,6 @@ bway311.com
 bway83.com
 bway881360.com
 bway886.com
-bway88688.com
 bway889.com
 bway995.com
 bway996.com

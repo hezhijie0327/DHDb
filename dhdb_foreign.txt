@@ -2546,7 +2546,6 @@
 2.4.je
 2.adam.com
 2.android.pool.ntp.org
-2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -2841,7 +2840,6 @@
 221486.com
 2215193.b2b.liebiao.com
 2215193.shop.liebiao.com
-221532.com
 221541.com
 221546.com
 221547.com
@@ -10187,7 +10185,6 @@ a8trck.tolot.com
 a8trck.worldone.to
 a8trk.www.std-lab.jp
 a8vgc.x.incapdns.net
-a8vpn.com
 a8ww.net
 a9.xlgqy.com
 a907907.com
@@ -74929,6 +74926,7 @@ hebcsr.org
 hebdebit.com
 hebdo.ch
 hebdotop.com
+hebeidns.com
 hebeihuayun.com
 hebeitenglong.com
 hebeixingfei.com
@@ -125606,6 +125604,7 @@ qicn.net
 qidian.ca
 qidic.com
 qiditrade.com
+qiecdn.com
 qiepyp.ascianne.com
 qieyz.com
 qifa002.com

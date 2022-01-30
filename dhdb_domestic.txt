@@ -10261,7 +10261,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
 api.m.taobao.com
@@ -41627,7 +41626,6 @@ l8nhhltw.v1d.szbdyd.com
 l8nhhlve.v1d.szbdyd.com
 l8wz4fyt.sched.s2-dk.tdnsv5.com
 l9.tcdnlive.com
-la-mo.com
 la.gtimg.com
 lab.alipay.com
 lab.e.ecust.edu.cn
@@ -59631,7 +59629,6 @@ shunyiqu.com
 shuo.douban.com
 shuo66.com
 shuoba.org
-shuoboku.com
 shuodachuangyi.b2b.huangye88.com
 shuodedui.com
 shuomingshuku.com
@@ -62420,7 +62417,6 @@ sxwbs.com
 sxwg.sh.189.cn
 sxwpyx.com
 sxww.com
-sxxdll.com
 sxxl.com
 sxxt.net
 sxxw.net

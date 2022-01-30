@@ -10212,7 +10212,6 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.huya.com
-api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -45739,7 +45738,6 @@ meikankeji.com
 meikeda.net
 meiku123.com
 meili-inc.com
-meili1123.com
 meilibaobao.com
 meilijia.com
 meiling.com

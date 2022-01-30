@@ -345,6 +345,7 @@
 0577hr.com
 0577job.com
 0577qiche.com
+0578zhaopin.com
 0579fw.com
 0591job.com
 05927.com
@@ -12557,7 +12558,6 @@ bd2.pipaw.com
 bd2.zuimeitianqi.com
 bd3.chuiyue.com
 bd3.idgdmgroup.com.cn
-bd3.idgdmgroup.com.cn.cname3016.yjs-cdn.com
 bd3.jobui.com
 bd4.chuiyue.com
 bd4.idgdmgroup.com.cn
@@ -37895,6 +37895,7 @@ jcloudcs.com
 jcloudec.com
 jcloudstatic.com
 jclps.com
+jcm.jd.com
 jcmob.net
 jcmtxs.com
 jcnano.com

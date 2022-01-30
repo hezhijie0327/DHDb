@@ -2562,6 +2562,7 @@
 2.krayden.com
 2.letvlive.com
 2.net.zooplus.de
+2.openwrt.pool.ntp.org
 2.realtime.services.box.net
 2.saxenhammer-co.com
 2.speedknow.co
@@ -5689,7 +5690,6 @@
 5495723.com
 54benniao.com
 54c4e999b90b2eaf3e97e05157d294d6.clo.footprintdns.com
-54ca10abaa788.com
 54chen.com
 54daxiang.com
 54fcnr.com
@@ -30112,6 +30112,7 @@ bqiovml.com
 bqrfet.midasshoes.com.au
 bqsm.com.cn
 bqtxcs.bellacoastaldecor.com
+bqugumvxc.biz
 bqvndd.ifood.com.br
 br-rx.atatus.com
 br-succeed.jp
@@ -42457,7 +42458,6 @@ cscatv.com
 cscccase.ru.com
 cscoal.com
 cscp.me
-cscp804.com
 cscp820.com
 csdata1.com
 csdc2.com
@@ -71213,6 +71213,7 @@ go2.signalboosters.com
 go2.spectrumreach.com
 go2.stromasys.com
 go2.tlv.com
+go2.toshiba.com
 go2.tsys.com
 go2.unitrends.com
 go2.wolterskluwer.ca
@@ -79288,7 +79289,6 @@ icilix.com
 icinephile.com
 icis.com
 icisleri.gov.tr
-icjceddecjdgbaaaafc.ru
 icjvfvoh.com
 icl-fi.org
 iclasspro.com
@@ -86967,6 +86967,7 @@ jianzhiwangzhan.com
 jiao4.com
 jiaobu365.com
 jiaodafu.net
+jiaofulin.cn
 jiaoshou.com
 jiaoshouwang.com
 jiaosir.com
@@ -109514,6 +109515,7 @@ netlify.app
 netlify.com
 netliker.com
 netlinkad.vn
+netloader.cc
 netmap.su
 netmarketing.net.zooplus.it
 netmatrixsolutions.com

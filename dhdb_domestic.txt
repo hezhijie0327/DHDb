@@ -7963,7 +7963,6 @@ ad.de.doubleclick.net
 ad.dedecms.com
 ad.dev.360.cn
 ad.dongdong.madserving.com
-ad.doubanio.com
 ad.doubleclick.net
 ad.duomi.com
 ad.dzwindows.com
@@ -12863,6 +12862,7 @@ bengchedaquan.com
 bengden.com
 benghuai.com
 bengku.com
+bengtie.com
 benhu01.com
 benimg.com
 benlai.com
@@ -48584,7 +48584,6 @@ ngarihealth.com
 ngbbs.com
 ngcgears.com
 ngctransmission.com
-ngfans.net
 nggh5.3g.qq.com
 ngh6.com
 nginstar.net

@@ -23636,6 +23636,7 @@ download.visualstudio.microsoft.com
 download.vzuu.com
 download.wan.sohu.com
 download.wegame.qq.com
+download.windowsupdate.com
 download.xmcdn.com
 download.xp666.com
 download.yuelun.com
@@ -33634,6 +33635,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.push.heytapmobi.com
 httpdns.push.oppomobile.com
 https-play-g3proxy.lecloud.com
 https.eol.cn

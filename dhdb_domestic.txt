@@ -4760,7 +4760,6 @@
 5fa9309f2800453b0afa9b60.mdbook.cn
 5fe0b1ace526f79254d54d26f437523c.dlied1.cdntips.net
 5fen.com
-5fst22.cn
 5fun.com
 5fwan.com
 5fwuhk.tdum.alibaba.com
@@ -10260,6 +10259,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
 api.m.taobao.com

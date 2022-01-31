@@ -10406,7 +10406,6 @@ api1.kwaixiaodian.com
 api1.mimikko.cn
 api1.nn.com
 api1.tuisong.baidu.com
-api2.1point3acres.com
 api2.analysys.cn
 api2.ctc.ximalaya.com
 api2.e.kuaishou.com
@@ -48649,7 +48648,6 @@ nicescale.com
 nicetuan.net
 nicky1605.com
 nideu.com
-nidianwobang.com
 nidong.com
 nidongme.com
 nie.io

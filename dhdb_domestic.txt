@@ -15752,6 +15752,7 @@ cdn.api.my.le.com
 cdn.app.liuxingyul.cn
 cdn.ark.qq.com
 cdn.bdstatic.com
+cdn.bootcdn.net
 cdn.bootcss.com
 cdn.caiyunapp.com
 cdn.chillyroom.com

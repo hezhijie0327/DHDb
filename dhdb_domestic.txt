@@ -6879,7 +6879,6 @@
 97ting.com
 97tuk.cn
 97wd.com
-97xiaoshuo.net
 97you.net
 97yrbl.com
 9800.com
@@ -7194,7 +7193,6 @@ a.eqxiu.com
 a.exam58.com
 a.f-0.cc
 a.fxltsbl.com
-a.game.163.com
 a.gdt.qq.com
 a.hbf23.cn
 a.hecdn.net
@@ -32741,7 +32739,6 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -48640,7 +48637,6 @@ nicaifu.com
 nice-app.com
 nice1688.com
 nicebing.com
-niceboybao.com
 nicecdn.com
 nicefilm.com
 nicekid.com
@@ -55698,6 +55694,7 @@ r.14244.com
 r.99waiyu.com
 r.alicpd.top
 r.alimc1.top
+r.browser.miui.com
 r.bxb.oupeng.com
 r.dmp.sina.cn
 r.dmp.sina.com.cn
@@ -61088,6 +61085,7 @@ sso.biancheng.net
 sso.chaoxing.com
 sso.le.com
 sso.letv.com
+sso.ptlogin2.qq.com
 ssofair.com
 ssoffo.com
 ssp-api.domob.cn

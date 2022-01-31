@@ -15751,7 +15751,6 @@ cdn.api.my.le.com
 cdn.app.liuxingyul.cn
 cdn.ark.qq.com
 cdn.bdstatic.com
-cdn.bootcdn.net
 cdn.bootcss.com
 cdn.caiyunapp.com
 cdn.chillyroom.com
@@ -17645,7 +17644,6 @@ cifnews.com
 cifoo.com
 ciftis.org
 cig.com.cn
-cigbiexpo.com
 cignacmb.com
 cihai123.com
 cihexpo.com
@@ -46453,7 +46451,6 @@ mintaylor.com
 mints-id.com
 minxing365.com
 minxue.net
-minyaartcrafts.cn
 minzu56.net
 mip-ruiwen-com.sm-tc.cn
 mip.3kr.com

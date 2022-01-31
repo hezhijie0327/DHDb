@@ -11046,6 +11046,7 @@ as1.wenku.baidu.com
 as2.binstream.live
 as3f.com
 as5.com
+asa.commerce.apple.com
 asa.commerce.apple.com.cdn20.com
 asap.ad7.com
 asc-wines.com
@@ -33632,6 +33633,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
 httpdns.push.oppomobile.com
 https-play-g3proxy.lecloud.com

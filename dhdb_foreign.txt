@@ -2252,7 +2252,6 @@
 1965088.shop.liebiao.com
 1967066.b2b.liebiao.com
 1967066.shop.liebiao.com
-196f25ce95a.com
 197.216.77.120.zz.countries.nerd.dk
 1972285.shop.liebiao.com
 1975blr.com
@@ -2548,6 +2547,7 @@
 2.4.je
 2.adam.com
 2.android.pool.ntp.org
+2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -33538,7 +33538,6 @@ carxzp.com
 carzbz.braincandy.net
 carzbz.pollking.com
 carzbz.triviatoday.com
-carzyuncle.com
 cas.clickability.com
 cas.criteo.com
 cas.org
@@ -34580,6 +34579,7 @@ cdn.sportlabs.online
 cdn.sports-streams-online.club
 cdn.sports-streams-online.xyz
 cdn.sstatic.net
+cdn.static.txhy888.cn
 cdn.static.zdbb.net
 cdn.statically.io
 cdn.statuspage.io
@@ -48674,7 +48674,6 @@ dlsite.jp
 dlsite.silveregg.net
 dlski.space
 dlsoft.dmm.com
-dltags.com
 dltsfh.com
 dltviaggi.it
 dlupload.com
@@ -86066,7 +86065,6 @@ jackyyf.com
 jackzhu.com
 jacobeshort.pro
 jacobi.com.ar
-jacquelinelaura.com
 jacuzziontario.com
 jadcenter.com
 jadebuddha.org
@@ -86331,7 +86329,6 @@ javdog.com
 javdove.club
 javdove.com
 javdove.me
-javdove1.fun
 javdove2.club
 javdove2.me
 javdove2.site
@@ -111789,7 +111786,6 @@ nowdigi.com
 nowe.com
 nowe.hk
 nowfal.dev
-nowfastcrew.online
 nowinteract.com
 nowiny24.pl
 nowledco.work

@@ -7963,6 +7963,7 @@ ad.de.doubleclick.net
 ad.dedecms.com
 ad.dev.360.cn
 ad.dongdong.madserving.com
+ad.doubanio.com
 ad.doubleclick.net
 ad.duomi.com
 ad.dzwindows.com
@@ -55001,7 +55002,6 @@ qtjkwdsg.v1d.szbdyd.com
 qtjkwxff.v1d.szbdyd.com
 qtlglb.com
 qtluyuan.com
-qtmojo.cn
 qtpool.com
 qtrun.com
 qtrwwov.cn

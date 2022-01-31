@@ -657,7 +657,6 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -13691,7 +13690,6 @@ black-unique.com
 blackbirdsport.com
 blackdir.com
 blackdragon.com
-blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
@@ -29175,7 +29173,6 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
-get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -32309,6 +32306,7 @@ hermes.cn
 hermes.hupu.com
 hermes.jd.com
 hermes.jd.com.gslb.qianxun.com
+heroad-data.com
 heroclick.cn
 heroes.nos.netease.com
 heroestactics.com

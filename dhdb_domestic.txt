@@ -4449,6 +4449,7 @@
 546990.com
 54admin.net
 54ag.com
+54bk.com
 54bq0afa.sched.d0.tdnsv5.com
 54doctor.net
 54doctors.net
@@ -28153,7 +28154,6 @@ fun315.com
 fun371.com
 fun379.com
 fun501.com
-fun551.com
 fun562.com
 fun566.com
 fun571.com
@@ -32746,6 +32746,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site

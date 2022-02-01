@@ -11591,7 +11591,6 @@ b.cdn03.duolebo.com
 b.cdn04.duolebo.com
 b.clkservice.youdao.com
 b.code.tanwanyx.com
-b.gushiciju.com
 b.hiphotos.baidu.com
 b.iy.com.cn
 b.ninebox.cn
@@ -21174,7 +21173,6 @@ dangjianwang.com
 dangran.me
 dangtianle.com
 dangwan.com
-danhw.com
 daniate.com
 danielpinto8zz6.gallerycdn.azure.cn
 daningcenter.com
@@ -26954,6 +26952,7 @@ fcxxh.org
 fcyhw.com
 fcz360.com
 fczx.com
+fd.3.cn
 fd.3.cn.gslb.qianxun.com
 fd.qchannel03.cn
 fd167.com
@@ -34179,6 +34178,7 @@ huohoo.com
 huohu123.com
 huohuolife.com
 huoju365.com
+huojub.com
 huokebao.net
 huokesoft.com
 huolala.co
@@ -41734,7 +41734,6 @@ langchao.com
 langchengzhixin.com
 langfang.anjuke.com
 langfangfc.com
-langfly.com
 langke.com
 langke.tv
 langlang.cc

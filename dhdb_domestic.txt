@@ -10099,7 +10099,6 @@ api-web-wan-ssl.xunlei.com
 api-xl9-ssl.xunlei.com
 api-yingshiku-ssl.xunlei.com
 api-yuedu.iqiyi.com
-api-z.weidian.com
 api-zone-lixian-vip-ssl.xunlei.com
 api.17173.com
 api.186078.com

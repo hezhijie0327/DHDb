@@ -41120,6 +41120,7 @@ ks-v6-plt.ugslb.com
 ks.pull.yximgs.com
 ks.push.yximgs.com
 ks.ugslb.com
+ks1688.com
 ks3-cn-beijing.ksyun.com
 ks321.com
 ks365.org
@@ -57828,7 +57829,6 @@ sdbeta.com
 sdbys.com
 sdc.10086.cn
 sdc.cmbchina.com
-sdc.pingan.com
 sdc.tenpay.com
 sdca119.com
 sdchem.net

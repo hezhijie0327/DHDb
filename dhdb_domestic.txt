@@ -8278,7 +8278,6 @@ ads.mojicdn.com
 ads.oneway.mobi
 ads.privacy.qq.com
 ads.reader.yueyouxs.com
-ads.service.kugou.com
 ads.serving-sys.cn
 ads.shovtvnet.com
 ads.sina.com
@@ -45255,7 +45254,6 @@ maro6.com
 maroon91.com
 marry5.com
 mars.ccc.cmbchina.com
-mars.jd.com
 mars.jd.com.gslb.qianxun.com
 mars.meituan.com
 marstor.com
@@ -61132,7 +61130,6 @@ ssyule.com
 ssyxlx.com
 ssyzx.net
 sszjnc.com
-sszzqnstatics.mxingkong.net
 sszzweb.mxingkong.net
 sszzz.com
 st-file.yunbanos.cn

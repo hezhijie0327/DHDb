@@ -15380,7 +15380,6 @@ ccfb707b077b94f38031072966a06631.safeframe.googlesyndication.com
 ccfei.com
 ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
-ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -29156,6 +29155,7 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
+get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -55560,6 +55560,7 @@ qx1000.com
 qx10086.net
 qx100years.com
 qx121.com
+qx15.com
 qx162.com
 qxbnkj.com
 qxcu.com

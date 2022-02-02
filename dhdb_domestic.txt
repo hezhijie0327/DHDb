@@ -3891,6 +3891,7 @@
 51fdc.com
 51feibao.com
 51flrc.com
+51fmzg.com
 51fpg.com
 51fubei.com
 51fund.com
@@ -11262,7 +11263,6 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
-au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com
@@ -18512,7 +18512,6 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com

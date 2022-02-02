@@ -658,6 +658,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -17104,6 +17105,7 @@ chinanbb.com
 chinanet-sh.com
 chinanet.cc
 chinanet.mirrors.ustc.edu.cn
+chinanet88.com
 chinanetcenter.com
 chinanetidc.com
 chinanetsun.com

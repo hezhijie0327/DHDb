@@ -28145,7 +28145,6 @@ fun562.com
 fun566.com
 fun571.com
 fun586.com
-fun603.com
 fun606.com
 fun767.com
 fun7733.com
@@ -32731,6 +32730,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -37638,7 +37638,6 @@ iyenei.com
 iyes.youku.com
 iyingdi.com
 iyingji.com
-iyinxun.com
 iyiou.com
 iyiqi.com
 iyishengyuan.com
@@ -39944,7 +39943,6 @@ jxsd-sz.com
 jxsggzy.cn
 jxshangyou.com
 jxslsyy.com
-jxsqw.com
 jxsrfdc.com
 jxtech.net
 jxtyzx.org

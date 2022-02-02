@@ -8279,6 +8279,7 @@ ads.mojicdn.com
 ads.oneway.mobi
 ads.privacy.qq.com
 ads.reader.yueyouxs.com
+ads.service.kugou.com
 ads.serving-sys.cn
 ads.shovtvnet.com
 ads.sina.com
@@ -13847,6 +13848,7 @@ bob-cardif.com
 bob-leasing.com
 bob301.com
 bob302.com
+bobaow.com
 bobbns.com
 bobcfc.com
 bobdirectbank.com
@@ -28976,7 +28978,6 @@ gds-services.com
 gdscse.net
 gdspeedtest.com
 gdsports.net
-gdsqwy.org
 gdsrcw.com
 gdssl.image-gmkt.com
 gdstlab.com
@@ -33106,7 +33107,6 @@ home.m.jd.com.gslb.qianxun.com
 home.meishichina.com
 home.mi.com
 home.wps.cn
-home.yxgz.club
 home.yxgz.vip
 home.zhuanlan.sina.com.cn
 home0311.com

@@ -10208,6 +10208,7 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.huya.com
+api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -57587,7 +57588,6 @@ sb-y6.onlinegamegoonline.com
 sb.firefox.com.cn
 sbanfu.com
 sbanzu.com
-sbbd1.qulishi.com
 sbc-mcc.com
 sbc.firefox.com.cn
 sbeacon.sina.com.cn

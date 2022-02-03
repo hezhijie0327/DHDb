@@ -9395,6 +9395,7 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
+all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all.zhihu.com.w.kunluncan.com
 all163-dxospf.split.netease.com
@@ -63239,7 +63240,6 @@ tao008.com
 tao168.com
 tao3c.com
 tao616.com
-tao800.com
 tao8090.com
 taoad.com
 taobangban.com

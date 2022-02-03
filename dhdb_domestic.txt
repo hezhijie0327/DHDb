@@ -15561,7 +15561,6 @@ cd.06bv.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
-cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -20186,7 +20185,6 @@ ctils.com
 ctime.com
 ctisd.com
 ctjsoft.com
-ctldl.windowsupdate.com
 ctlife.tv
 ctlogin.qq.com
 ctlogin2.qq.com
@@ -35779,7 +35777,6 @@ image3.ccb.com
 image3.mall.icbc.com.cn.wscdns.com
 image5.mall.icbc.com.cn.wscdns.com
 image6.mall.icbc.com.cn.wscdns.com
-image7.mall.icbc.com.cn
 image7.mall.icbc.com.cn.wscdns.com
 image8.mall.icbc.com.cn.wscdns.com
 image82.360doc.cn
@@ -46588,7 +46585,6 @@ mlapp.cn
 mlb.did.ijinshan.com
 mlbuy.com
 mlearn.pingan.com.cn
-mlearn.pingan.com.cn.cdn20.com
 mlgame.wang
 mlgame.xin
 mlgj.com
@@ -51142,6 +51138,7 @@ payment.ishansong.com
 payment2.talkyun.com.cn
 paympay.com
 payqq.msf.tencent-cloud.com
+paytend.com
 pb.bi.gitv.tv
 pb.hd.sohu.com
 pb.hd.sohu.com.cn

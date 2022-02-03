@@ -14592,7 +14592,6 @@ c.ibzs5j.cn
 c.img001.com
 c.jinliaoyang.com
 c.jjkk.org
-c.jvcpgjh.cn
 c.kanwby.com
 c.kuaiduizuoye.com
 c.kuwo.cn
@@ -19236,6 +19235,7 @@ commonapi.ai.xiaomi.com
 commonapi.ztsafe.com
 commonapi.ztsafe.com.w.alikunlun.com
 commoncdn.yangkeduo.com
+commons.moegirl.org.cn
 commons.moegirl.org.cn.dsa.dnsv1.com
 communicatte.com
 community.api.ptqy.gitv.tv

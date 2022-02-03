@@ -2553,7 +2553,6 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
-2.android.pool.ntp.org
 2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
@@ -71435,6 +71434,7 @@ goaciptu.net
 goadopt.io
 goads.pro
 goadservices.com
+goagent.11go.net
 goagent.biz
 goagent.codeplex.com
 goajuzey.com
@@ -80484,7 +80484,6 @@ image4.pubmatic.com
 image5.mall.icbc.com.cn
 image6.pubmatic.com
 image8.fmgstatic.com
-image8.mall.icbc.com.cn
 image8.pubmatic.com
 imageab.com
 imagead-gtut.cdn.hinet.net
@@ -86310,7 +86309,6 @@ jahangiri.us
 jahnreisen.de
 jahproxy.com
 jahproxy.net
-jaidennegros.pro
 jaiku.com
 jailbreakbj.com
 jailbreaked.net
@@ -89473,7 +89471,6 @@ kayakm.com
 kayako.com
 kaydonus.promo.skf.com
 kayege.info
-kayoudi.com
 kayoutlet.com
 kaytri.com
 kayyo.tech

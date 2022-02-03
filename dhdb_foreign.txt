@@ -704,7 +704,6 @@
 1.ad-locus.com
 1.adidevelopments.com
 1.appexchange.com
-1.asia.pool.ntp.org
 1.bb5522.ws
 1.bb6688.ws
 1.car21.net.daraz.com
@@ -1469,6 +1468,7 @@
 1388012.com
 1388110.com
 1388555.com
+138888.co
 138lm.com
 138nh.com
 138vps.com
@@ -22422,6 +22422,7 @@ au-mg5.mail.yahoo.com
 au.arjo.com
 au.bms.maxmara.com
 au.com
+au.download.windowsupdate.com
 au.engage.genesiscare.com
 au.pool.ntp.org
 au.promo.skf.com
@@ -23943,6 +23944,7 @@ b612-api.line-apps.com
 b6131.com
 b666.penzainform.ru
 b6673.com
+b6687.com
 b6797.com
 b6812.com
 b6b4rhsbdawj.com
@@ -59993,7 +59995,6 @@ fjkakuri.com
 fjkjaj.peterhahn.nl
 fjlqqc.com
 fjmailia.com
-fjmeyer.com
 fjmrxys.com
 fjmwjx.com
 fjndwb.com
@@ -60252,6 +60253,7 @@ flightradar24.com
 flightsearchapp.com
 flightsphere.com
 flightzy.bid
+flightzy.date
 flikr.com
 flimsycircle.com
 flimsythought.com

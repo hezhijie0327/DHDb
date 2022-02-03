@@ -2239,7 +2239,6 @@
 2280.com
 2281789.file.p23.tc.cdntip.com
 2281wa.ren
-2286532.shop.liebiao.com
 228777.com
 2288.org
 2295.com
@@ -2476,7 +2475,6 @@
 293041.b2b.jinanfa.cn
 2955931.slego.tcloudscdn.com
 29638e037bcb80230d73d1f49c51d2dc.dlied1.cdntips.net
-29663.com
 296u.com
 2980.com
 2989e78221da0ed8.qaxcloudwaf.com
@@ -15738,6 +15736,7 @@ cdn.api.my.le.com
 cdn.app.liuxingyul.cn
 cdn.ark.qq.com
 cdn.bdstatic.com
+cdn.bootcdn.net
 cdn.bootcss.com
 cdn.caiyunapp.com
 cdn.chillyroom.com
@@ -50366,7 +50365,6 @@ p.alimama.com
 p.ananas.chaoxing.com
 p.appjiagu.com
 p.aty.sohu.com
-p.bangdu2.com
 p.biligame.com
 p.clkservice.youdao.com
 p.comments.youku.com

@@ -32925,7 +32925,6 @@ jshosting.bi
 jshosting.bid
 jshosting.faith
 jshosting.live
-jshosting.loan
 jshosting.party
 jshosting.racing
 jshosting.science

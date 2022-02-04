@@ -2559,6 +2559,7 @@
 2.biqle.ru
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
+2.centos.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.courier2-push-apple.com.akadns.net
 2.cr.rs
@@ -2716,7 +2717,6 @@
 20manx.com
 20min.ch
 20minutes.fr
-20tc.com
 20thingsilearned.com
 20tracks.com
 20xam.com
@@ -4065,7 +4065,6 @@
 33dzcp.com
 33fyt.com
 33hgvip.com
-33lc.com
 33leto.com
 33msc.com
 33rpg.com
@@ -9771,6 +9770,7 @@ a29866.actonservice.com
 a29868.actonservice.com
 a2b3.tk
 a2bapps.com
+a2c653c4d145fa5f96a.com
 a2dfp.net
 a2hosting.com
 a2la.org
@@ -91326,7 +91326,6 @@ kuaibowang.net
 kuaicad.com
 kuaichuanmirror.com
 kuaidi123.net
-kuaidibiaoju.com
 kuaidube.cn
 kuaifr.camicado.com.br
 kuaigao.rrsdl.com

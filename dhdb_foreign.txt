@@ -22443,6 +22443,7 @@ au-mg5.mail.yahoo.com
 au.arjo.com
 au.bms.maxmara.com
 au.com
+au.download.windowsupdate.com
 au.engage.genesiscare.com
 au.pool.ntp.org
 au.promo.skf.com
@@ -58576,7 +58577,6 @@ fc2.red
 fc2blog.net
 fc2blog.us
 fc2cn.com
-fc2live.pw
 fc2live.us
 fc2livecn.com
 fc2web.com
@@ -77834,7 +77834,6 @@ hqart.net
 hqbdsm.com
 hqbpc.com
 hqcdp.org
-hqck.net
 hqfthz.betterlifeuae.com
 hqgkmj.marine-deals.co.nz
 hqhacks.com

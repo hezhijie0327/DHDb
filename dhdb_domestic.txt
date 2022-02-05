@@ -656,6 +656,7 @@
 1.800400.net
 1.92caijing.com
 1.aili.com
+1.asia.pool.ntp.org
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
@@ -23604,7 +23605,6 @@ download.visualstudio.microsoft.com
 download.vzuu.com
 download.wan.sohu.com
 download.wegame.qq.com
-download.windowsupdate.com
 download.xmcdn.com
 download.xp666.com
 download.yuelun.com
@@ -50054,7 +50054,6 @@ orders-drcn.iap.hicloud.com
 orders.kfc.com.cn
 ordosbank.com
 oreilly.com.cn
-orfetuz.com
 org.cn
 orgcc.com
 orgleaf.com
@@ -59478,6 +59477,7 @@ shuanlongda.site
 shuashuaapp.com
 shuazhibo.com
 shubiaob.com
+shubulo.com
 shubuzi.com
 shuc-android.ksord.com
 shuc-js.ksord.com
@@ -62290,7 +62290,6 @@ sxcwit.com
 sxcyts.com
 sxcywy.com
 sxd408.com
-sxdanke.cn
 sxdech.cn
 sxdkj.com
 sxdnserror1.wo.com.cn

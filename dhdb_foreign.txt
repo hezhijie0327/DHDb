@@ -2551,6 +2551,7 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
+2.android.pool.ntp.org
 2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
@@ -7617,7 +7618,6 @@
 8505008.com
 8505031.com
 8505038.com
-8505040.com
 851bdcfc-dnsotls-ds.metric.gstatic.com
 8521.org
 8524952.com
@@ -34909,7 +34909,6 @@ cdnquality.com
 cdnr-ch-1.net.daraz.com
 cdnr-es-1.net.daraz.com
 cdnreference.com
-cdnren.com
 cdnrl.com
 cdns.com.tw
 cdns.klimg.com
@@ -50857,7 +50856,6 @@ dueapp.com
 duelcn.com
 duespainkiller.com
 duewest.ca
-duextv.com
 duf1ql28oaxcm3x6baf7wxvo6n29hrozqxbd13emc3na96i64j.xyz
 dufai4b1ap33z.cloudfront.net
 dufibepe.com
@@ -62226,6 +62224,7 @@ freetls.fastly.net
 freetongdiy.blogspot.hk
 freetool.club
 freetool.it
+freetopgamesfor.me
 freetophacks.com
 freetoppcgames.com
 freetracker.biz
@@ -123407,7 +123406,6 @@ prf.hn
 prf.vagnt.com
 prfctmney.com
 prfdesk.pro
-prfqcdfws.com
 prg.smartadserver.com
 prganvani.com
 prhhqo.vintagevoyage.ru
@@ -131950,6 +131948,7 @@ rtoukfareputf.com
 rtox.net
 rtpdn10.com
 rtpdn11.com
+rtpdn12.com
 rtpetworki.fun
 rtpnt.xyz
 rtproxy-row-l7.waze.com

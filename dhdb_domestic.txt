@@ -10246,6 +10246,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -31217,7 +31218,6 @@ haitou.cc
 haitoujia.com
 haituie.com
 haituncun.com
-haitundr.com
 haitunshenghuo.com
 haituntui.com
 haitunvoice.com
@@ -44324,7 +44324,6 @@ m.1688.com
 m.168ey.com
 m.1768.com
 m.1905.com
-m.360buyimg.com
 m.360buyimg.com.gslb.qianxun.com
 m.3dmgame.com
 m.51dongshi.com

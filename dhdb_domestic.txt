@@ -10574,7 +10574,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -11013,7 +11012,6 @@ as-exchange.com
 as-hitech.com
 as-proxy.rnd.huawei.com
 as-vip.missfresh.cn
-as.61.com
 as.alipayobjects.com
 as.alipayobjects.com.danuoyi.tbcache.com
 as.aplus.pptv.com
@@ -57599,6 +57597,7 @@ sbw.ysjweb.com
 sbwml.net
 sbwxz.com
 sc-cdn.dpvs.yximgs.com
+sc-report.tantanapp.com
 sc-vis.com
 sc.51teach.club
 sc.94rp.com

@@ -14284,6 +14284,7 @@ bugreport.huorong.cn
 bugrpt.oss-cn-beijing.aliyuncs.com
 bugscan.net
 bugscaner.com
+bugsevent.com
 bugtags.com
 bugukj.com
 bugxia.com
@@ -21094,7 +21095,6 @@ dakang-energy.com
 dakao8.com
 dakao8.net
 dakaruanwen.com
-dakawm.cc
 dakawm.net
 dakele.com
 dali.anjuke.com
@@ -29870,6 +29870,7 @@ gosunm.com
 gotadd.cn
 goten.com
 goto.sogou.com
+goto.www.iciba.com
 gotodn.com
 gotoip.net
 gotokeep.com
@@ -44402,7 +44403,6 @@ m.cnxmyb.cn
 m.cocounion.com
 m.cp12.ott.cibntv.net
 m.cqzspt888.cn
-m.ctrip.com
 m.cudaojia.com
 m.czvv.com
 m.da.mgtv.com
@@ -49284,6 +49284,7 @@ o.alimb.top
 o.if.qidian.com
 o.phb123.com
 o1.jyjyj.cn
+o2.cdn.t5.work
 o2123.com
 o2ee.com
 o2o-ad-clicking.alibaba.com

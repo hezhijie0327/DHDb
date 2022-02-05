@@ -7646,6 +7646,7 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
+abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abto.cc
@@ -53667,7 +53668,6 @@ qdjimo.com
 qdjjwsjf.com
 qdkingst.com
 qdkongtiao.com
-qdkzjdsb.cn
 qdl.duoyi.com
 qdl.duoyi.com.wswebpic.com
 qdliye.com

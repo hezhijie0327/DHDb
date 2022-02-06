@@ -12540,7 +12540,6 @@ bd2.zuimeitianqi.com
 bd3.chuiyue.com
 bd3.jobui.com
 bd4.chuiyue.com
-bd4.idgdmgroup.com.cn
 bd5.zuimeitianqi.com
 bd689.com
 bd739.com
@@ -48597,7 +48596,6 @@ nice-app.com
 nice1688.com
 nicebing.com
 nicecdn.com
-nicefilm.com
 nicekid.com
 nicelabel.cc
 nicelinks.site
@@ -50170,7 +50168,6 @@ ota.ptqy.gitv.tv
 otbs.ctc.ximalaya.com
 otcgd.com
 otcms.com
-otczg.com
 otechsolution.com
 oth.bls.mdt.qq.com
 oth.eve.mdt.qq.com
@@ -51085,6 +51082,7 @@ pay.bilibili.com
 pay.hicloud.com
 pay.holaq.com
 pay.jd.com
+pay.m.jd.com
 pay.m.jd.com.gslb.qianxun.com
 pay.mairuan.com
 pay.meituan.com

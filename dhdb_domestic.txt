@@ -654,7 +654,6 @@
 1.800400.net
 1.92caijing.com
 1.aili.com
-1.asia.pool.ntp.org
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
@@ -27174,6 +27173,7 @@ fengqucdn.com
 fengread.com
 fengshows.cn
 fengshui22.com
+fengshui22.net
 fengsung.com
 fengtai.tv
 fengting.io
@@ -40037,7 +40037,6 @@ jzmd.lhy2.xyz
 jzmob.com
 jzmsmj.com
 jzmt.net
-jznqp.net
 jznyjt.com
 jzongguan.com
 jzqyw.com

@@ -8138,6 +8138,7 @@ adimg.youku.com
 adimg.zui.com
 adinall.com
 adinallcdn.com
+adirects.com
 adisaid.cn
 adiu.amap.com
 adiwlbs.gslb.sinaedge.com
@@ -22003,7 +22004,6 @@ devimages-cdn.apple.com.mwcname.com
 devio.org
 devondale.com.cn
 devopen.club
-devops-master.com
 devreaf.icbc.com.cn
 devs.data.mob.com
 devsdata.accuratead.cn
@@ -47598,7 +47598,6 @@ my2space.com
 my2w.com
 my3w.com
 my419.com
-my5058.com
 my51a.com
 my5m.com
 my5v.com
@@ -48495,6 +48494,7 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
+nex.163.com
 nexiao.com
 next.api.aliyun.com
 next.itellyou.cn

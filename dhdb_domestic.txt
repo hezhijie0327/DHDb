@@ -18491,6 +18491,7 @@ cn.letou118.net
 cn.linkedin.com
 cn.made-in-china.com
 cn.man484.com
+cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.ntp.org.cn
 cn.pandora.net
@@ -27652,7 +27653,6 @@ flyme.com
 flyml.net
 flysnow.org
 flytexpress.com
-flyym.com
 flyzy.com
 flyzy2005.win
 fm.duokanbox.com
@@ -34593,7 +34593,6 @@ hzsgjj.com
 hzsjnxh.org
 hzstad88.com
 hztraining.com
-hzuok.com
 hzvs2.cnzz.com
 hzwindpower.com
 hzwsjyjt.com
@@ -37358,7 +37357,6 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
-item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com

@@ -9826,6 +9826,7 @@ anyang.baixing.com
 anyang100.com
 anyangedu.com
 anyangxian.baixing.com
+anyant.com
 anybeen.com
 anyes.com.cn
 anyew.com
@@ -32715,7 +32716,6 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -51126,7 +51126,6 @@ pb.hd.sohu.com
 pb.hd.sohu.com.cn
 pb.i.sogou.com
 pb.jd.com
-pb.sogou.com
 pb.sys.pp8.com
 pb1.pstatp.com
 pb10.sogou.com

@@ -6723,7 +6723,6 @@ adserver.ikiweb.it
 adserver.ilounge.com
 adserver.imevolution.it
 adserver.infinit.net
-adserver.infotiger.com
 adserver.itsfogo.com
 adserver.ixm.co.uk
 adserver.jacotei.com.br
@@ -12458,7 +12457,6 @@ bwsru.com
 bwstatistics.bizwebapps.vn
 bwtvmnf9fxmvanw.ru
 bwv8.com
-bwvnmbhuuhalr.com
 bww.yakexi1024.net
 bwzybf.com
 bx.in.th
@@ -44136,6 +44134,7 @@ pb.funshion.net.cn
 pb.m.naver.com
 pb.okk123.com
 pb.shuxigua.com
+pb.sogou.com
 pb.wang502.com
 pb1.qujishu.com
 pb2.qujishu.com

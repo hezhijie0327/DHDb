@@ -8364,7 +8364,6 @@
 948b1124-dnsotls-ds.metric.gstatic.com
 949678.com
 9499.co
-9499z.com
 94ca34ee0861bc063a61dec12ecede06.clo.footprintdns.com
 94cb.com
 94dreamer.com
@@ -97354,7 +97353,6 @@ m.gxwztv.com
 m.gz-bz.cn
 m.gzxiuyuan.cn
 m.hanhande.net
-m.haradeiu.rocks
 m.hbstjt88.cn
 m.hehongmei.top
 m.heise.de
@@ -123837,6 +123835,7 @@ prod4-collecticon.outlookmobile.com
 prod4.rewardsplatform.microsoft.com
 prod6directconnect.americanexpress.com
 prodcmscdn.azureedge.net
+proddoyen.com
 prodesigners.club
 proditor.sparda.de
 prodjtips.000webhostapp.com
@@ -127977,7 +127976,6 @@ radsms.com
 radsource.us
 raduborza.ro
 raduvaduva.ro
-radxcomm.com
 rael.cf
 rael.ga
 rael.gq
@@ -131801,7 +131799,6 @@ rstt-lan.ch
 rsu.su
 rsuevw.unicef.or.jp
 rsuuc.com
-rsviqjzhvubz.com
 rsyslog.24h.com.vn
 rsz.sk
 rsz6ms.lotcai.com

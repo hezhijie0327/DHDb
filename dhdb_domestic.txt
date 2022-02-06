@@ -11126,6 +11126,7 @@ asr.meituan.com
 asrmicro.com
 asrsingapore.com
 asset.newyx.net
+asset.tantanapp.com
 assets-cli.udesk.cn
 assets-cli.udesk.cn.w.kunlunar.com
 assets-mayun.b0.aicdn.com
@@ -33928,7 +33929,6 @@ huhai.cdwz8.cn
 huhoo.com
 huhoo.net
 huhuang.net
-huhue.com
 hui-ben.com
 hui-chao.com
 hui.net
@@ -59653,7 +59653,6 @@ si0769.com
 si1.go2yd.com
 si9377.com
 siaedu.net
-sianx.com
 siaoao.com
 sibfi.com
 sic.hk

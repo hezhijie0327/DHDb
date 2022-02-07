@@ -44362,7 +44362,6 @@ peptido.ru
 perabetads.com
 perceivecatastrophe.com
 perderpeso2013.com
-pereval.net
 perf-serving.com
 perf.dugout.com
 perf.gds.mmstat.com
@@ -46721,6 +46720,7 @@ qp8u.com
 qp991919.com
 qpby0022.com
 qpby0077.com
+qpby0088.com
 qpby0099.com
 qpdyb.cn
 qpgjmdlq.com
@@ -52684,6 +52684,7 @@ synasender.com
 sync-1778368690.ap-northeast-1.elb.amazonaws.com
 sync-cdn.com
 sync-eu.exe.bid
+sync.fastclick.net
 sync.mobojoy.baidu.com
 sync.shinobi.jp
 sync.teamrtb.net

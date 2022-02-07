@@ -3717,7 +3717,6 @@
 3.courier-push-apple.com.akadns.net
 3.courier2-push-apple.com.akadns.net
 3.cr.rs
-3.pool.ntp.org
 3.szcjm.com
 3.tlu.dl.delivery.mp.microsoft.com
 30-courier.push.apple.com
@@ -34182,7 +34181,6 @@ ccext-public.adobe.io
 ccext-static.adobecces.com
 ccext.adobe.io
 ccfellow.org
-ccflbs.m.jd.com
 ccgenerator.net.daraz.com
 ccgiq.com
 ccgnuq.bbqgalore.com
@@ -52377,6 +52375,7 @@ eb6p0q0rtcjh.www.chandlerorchards.com
 eba-amadeus.netdna-ssl.com
 eba19614-dnsotls-ds.metric.gstatic.com
 ebags.com
+ebahpya.com
 ebahy.com
 ebaifo.com
 ebanoapartments.com
@@ -72718,6 +72717,7 @@ greatfile.net
 greatfire.org
 greatfire.us7.list-manage.com
 greatfire.uservoice.com
+greatfirewall.biz
 greatfirewallofchina.net
 greatfirewallofchina.org
 greatimprudencecuriosity.com
@@ -109813,6 +109813,7 @@ netbul.com
 netbulvar.eu
 netbynet.ru
 netc.sfr.fr
+netcan666.com
 netcetera.com
 netclickstats.com
 netcolony.com
@@ -127271,7 +127272,6 @@ r-tb.com
 r-ulybka.ru
 r.254a.com
 r.2ad.wtf
-r.5207470.com
 r.ad1.ru
 r.akipam.com
 r.bbci.co.uk

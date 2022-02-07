@@ -657,6 +657,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -12190,7 +12191,6 @@ baokutreasury.com
 baolaina.cc
 baoltx.com
 baomi.com
-baomi.org
 baomi365.com
 baomiexpo.com
 baomihua.com
@@ -38467,6 +38467,7 @@ jilingwy.org
 jilinpujiyiyuan.com
 jilinwula.com
 jiliyun.com
+jilong-chem.com
 jilupian.youku.com
 jiluxinqing.cn
 jimeilm.com
@@ -46790,6 +46791,7 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
+mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com

@@ -29134,6 +29134,7 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
+get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -51851,7 +51852,6 @@ ping.doyo.cn
 ping.huatuo.qq.com
 ping.pinyin.sogou.com
 ping.qcloud.com
-ping.ubnt.com
 ping4.sina.cn
 ping46.sina.cn
 ping64.sina.cn
@@ -55887,6 +55887,7 @@ rdms.xyz
 rdnsdb.com
 rdplat.com
 rds-buy.aliyun.com
+rds.alipay.com
 rds.console.aliyun.com
 rdsdk.com
 rdstat.tanx.com

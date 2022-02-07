@@ -2577,7 +2577,6 @@
 2.tgtdiagnostics.com
 2.tlu.dl.delivery.mp.microsoft.com
 2.top4top.io
-2.tracker.eu.org
 2.tuxi.com.cn
 2.worktango.io
 20-courier.push.apple.com
@@ -36492,7 +36491,6 @@ chineseperformingarts.net
 chineseporn.org
 chinesepornweb.com
 chineseposters.net
-chineseradiony.com
 chineseradioseattle.com
 chinesestorytellers.substack.com
 chinesetalks.net
@@ -38862,6 +38860,7 @@ cnnphilippines.com
 cnnpoint.com
 cnnpolitics.com
 cnns.tw
+cnnywz.cn
 cno.jerkmate.com
 cnobol.com
 cnodejs.org
@@ -88734,6 +88733,7 @@ juringupstage.com
 jurmus.com
 juroptyne.com
 jursp.com
+jurty.ml
 juruiklan.com
 juryexecute.com
 juryinvolving.com
@@ -95447,7 +95447,6 @@ log-collector.shopee.vn
 log-ird.outbrain.com
 log-nj.adaptv.advertising.com
 log-player.arte.tv
-log-sdk.ksapisrv.com
 log-sj-eq.adaptv.advertising.com
 log-sj.adaptv.advertising.com
 log-tb.sgsnssdk.com

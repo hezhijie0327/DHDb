@@ -19231,7 +19231,6 @@ commonapi.ai.xiaomi.com
 commonapi.ztsafe.com
 commonapi.ztsafe.com.w.alikunlun.com
 commoncdn.yangkeduo.com
-commons.moegirl.org.cn
 commons.moegirl.org.cn.dsa.dnsv1.com
 communicatte.com
 community.api.ptqy.gitv.tv
@@ -32713,6 +32712,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.linkedin.com
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -44312,6 +44312,7 @@ m.1688.com
 m.168ey.com
 m.1768.com
 m.1905.com
+m.360buyimg.com
 m.360buyimg.com.gslb.qianxun.com
 m.3dmgame.com
 m.51dongshi.com
@@ -46405,6 +46406,7 @@ mints-id.com
 minxing365.com
 minxue.net
 minzu56.net
+miot-spec.org
 mip-ruiwen-com.sm-tc.cn
 mip.3kr.com
 mip.ali213.net
@@ -54622,7 +54624,6 @@ qplus1.idqqimg.com.sched.px-dk.tdnsv6.com
 qpmztk.cn
 qpn3e28v.v1d.szbdyd.com
 qpn3lxxc.v1d.szbdyd.com
-qpsearch.jd.com
 qpsearch.jd.com.gslb.qianxun.com
 qpushapi.innotechx.com
 qpx.com
@@ -56940,7 +56941,6 @@ s.cn.bing.chinacache.net
 s.cn.bing.net
 s.cpro.baidu.com
 s.cr-nielsen.com
-s.csalsylqx.com
 s.ddgjjj.com
 s.dingtalk.com
 s.diyifanwen.com

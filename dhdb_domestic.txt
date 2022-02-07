@@ -10242,7 +10242,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -19328,7 +19327,6 @@ connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
 connectivitycheck.gstatic.com
 connector-systems.com
-connectwifi.org
 connpm.gj.qq.com
 connps.gj.qq.com
 conshow.com
@@ -45451,7 +45449,6 @@ mchifi.com
 mcjd.net
 mclick.simba.taobao.com
 mcllroy.world.tmall.com
-mcnqipdujs.com
 mconf.douyucdn.cn
 mcooks.com
 mcool.com

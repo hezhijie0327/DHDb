@@ -18035,6 +18035,7 @@ cloudfront.cn
 cloudgame-config.aliyun.com
 cloudglb.com
 cloudglb.net
+cloudgoing.com
 cloudguarding.com
 cloudhosts.xyz
 cloudhua.com
@@ -37982,7 +37983,6 @@ jeacar.com
 jeagine.com
 jeanphy.online
 jeasyui.net
-jeasyuicn.com
 jebe.renren.com
 jebe.xnimg.cn
 jedi-games.com

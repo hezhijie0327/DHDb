@@ -8594,7 +8594,6 @@ agnes.www.leyingtt.com
 agneshome.www.leyingtt.com
 agoo-report.m.taobao.com
 agoodm.m.taobao.com
-agoodme.com
 agora.io
 agoraio.cn
 agoralab.co
@@ -20561,6 +20560,7 @@ d.gdt.qq.com
 d.gionee.com
 d.hexuntech.cn
 d.ifengimg.com
+d.jd.com
 d.jd.com.gslb.qianxun.com
 d.jjyx.com
 d.kugou.com
@@ -48986,7 +48986,6 @@ notifiter.youmi.net
 notify.51dzt.com
 novaicare.com
 novalide.com
-novapps.com
 novastargame.net
 novel-supertv.com
 novel-trans-content.cdn.bcebos.com
@@ -62889,7 +62888,6 @@ t16img.yangkeduo.com.sched.pddlego.tdnsv5.com
 t17img.yangkeduo.com
 t17img.yangkeduo.com.sched.pddlego.tdnsv5.com
 t188.dazhonghua.cn
-t1n.cn
 t1networks.com
 t2-dsa-opencdn.a.bdydns.com
 t2-xhs-new-vpc-ipv6-2022140793.cn-north-1.elb.amazonaws.com.cn

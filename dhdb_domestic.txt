@@ -23006,7 +23006,6 @@ dm.bytedance.com
 dm.bytedance.com.w.cdngslb.com
 dm.cnbanbao.com
 dm.cqdxun.cn
-dm.ishuo.cn
 dm.jb51.net
 dm.jinshasi.cn
 dm.jsyst.cn
@@ -36215,7 +36214,6 @@ img10.360buyimg.com.gslb.qianxun.com
 img10.jdcdn.com
 img11-sched.jcloudimg.com
 img11.18183.com
-img11.360buyimg.com
 img11.360buyimg.com.gslb.qianxun.com
 img12.360buyimg.com
 img13.360buyimg.com

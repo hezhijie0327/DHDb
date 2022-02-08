@@ -1857,6 +1857,7 @@
 173.232.141.124.zz.countries.nerd.dk
 1731.bbnc.bbcust.com
 17348.com
+1735016.shop.liebiao.com
 1737408.shop.liebiao.com
 173e2546.akstat.io
 173fc.com
@@ -19863,6 +19864,7 @@ api.login.ops.net.zooplus.de
 api.login.staff.net.zooplus.de
 api.lwxs99.com
 api.m.afreecatv.com
+api.m.jd.com
 api.machine.net.zooplus.de
 api.macupdate.com
 api.mail.net.zooplus.de
@@ -76600,7 +76602,6 @@ hk1lib.org
 hk2.direct.iplc.pro
 hk2.settings.data.microsoft.com.akadns.net
 hk2d.tourismemauricie.com
-hk32168.com
 hk5.cc
 hk662.com
 hk668.com
@@ -112438,7 +112439,6 @@ ns1.raw-twtelecom.net.daraz.com
 ns1.reset.twtelecom.net.daraz.com
 ns1.sandbox-twtelecom.net.daraz.com
 ns1.skinsviviotech.net.daraz.com
-ns1.srcips.com
 ns1.stagingviviotech.net.daraz.com
 ns1.support.viviotech.net.daraz.com
 ns1.synology.me

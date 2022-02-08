@@ -7638,7 +7638,6 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
-abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abto.cc
@@ -12016,7 +12015,6 @@ bajintech.com
 bajson.com
 bakchoi.com
 bake818.cn
-bakumon.me
 bala.cc
 baldc.com
 baletu.com
@@ -12332,7 +12330,6 @@ bbdigital.10010.com
 bbdj.com
 bbdservice.com
 bbdup.com
-bbdzj.com
 bbfstore.com
 bbgstatic.com
 bbicn.com
@@ -42524,7 +42521,6 @@ lianmishu.com
 lianpuie.com
 lianqi.net
 lianruntang.cn
-lianshangbing.com
 lianshijie.com
 liansuo.com
 liantai.cc
@@ -53189,7 +53185,6 @@ q.ox11.com
 q.qlogo.cn
 q.qq.com
 q.reg.163.com
-q.s.cr-nielsen.com
 q.stock.sohu.com
 q.succ123.com
 q.url.cn
@@ -57690,7 +57685,6 @@ scntv.com
 sco-marathon.com
 scodereview.com
 scoee.com
-scomonline.net
 sconf.cdn.bcebos.com
 score.my.tv.sohu.com
 scoregg.com
@@ -59278,7 +59272,6 @@ shortv.cdp.qq.com.svideolego.sched.dcloudstc.com
 shortv.svideo.sched.dcloudstc.com
 shoubanjiang.com
 shoubaodan.com
-shoubiaobaojia.com
 shouce.ren
 shouce365.com
 shouchaobao.com
@@ -59986,7 +59979,6 @@ sjzkz.com
 sjzlg.com
 sjzlgz.com
 sjzmama.com
-sjznews.com
 sjzptoo.com
 sjzqcrl.com
 sjztd.com

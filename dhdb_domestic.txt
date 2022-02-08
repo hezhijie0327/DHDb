@@ -7942,7 +7942,6 @@ ad.de.doubleclick.net
 ad.dedecms.com
 ad.dev.360.cn
 ad.dongdong.madserving.com
-ad.doubanio.com
 ad.doubleclick.net
 ad.duomi.com
 ad.dzwindows.com
@@ -15365,6 +15364,7 @@ ccfb707b077b94f38031072966a06631.safeframe.googlesyndication.com
 ccfei.com
 ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
+ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -23444,6 +23444,7 @@ doudou911.com
 doudouba.com
 doudoubianli.com
 doudoubird.com
+doufan.tv
 doufl.com
 doufm.net
 douglassclub.com
@@ -46787,7 +46788,6 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
-mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com
@@ -54285,7 +54285,6 @@ qinqiang.org
 qinqin.com
 qinqinxiaobao.com
 qinrenzhuanfa2.tiedan2019.com
-qinsashipin.com
 qinsmoon.com
 qinto.com
 qinwanghui.com
@@ -59505,7 +59504,6 @@ shuihuoibm.com
 shuijing100.com
 shuijingwanwq.com
 shuijingwuyu.com
-shuiku.net
 shuiliaosheji.com
 shuimiao.net
 shuimujiaju.com

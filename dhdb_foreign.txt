@@ -44768,6 +44768,7 @@ d3m4hp4bp4w996.cloudfront.net
 d3m6sept6cnil5.cloudfront.net
 d3mcf0n3hvvfk4.cloudfront.net
 d3melu30dgj1x4.cloudfront.net
+d3mr7y154d2qg5.cloudfront.net
 d3mshiiq22wqhz.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3mxi1bmstfyit.cloudfront.net
@@ -132870,7 +132871,6 @@ s002.monerise.com
 s003.monerise.com
 s01.hostcontent.live
 s01.vidtod.me
-s01.vidtodo.pro
 s02.beeppool.org
 s02.vidtod.me
 s03.hostcontent.live
@@ -137848,6 +137848,7 @@ shinnoca.byethost7.com
 shinseibank.com
 shiny.it
 shinyarcadiaproximity.com
+shinychan.com
 shinyproxy.com
 shinyspiesyou.com
 shinystat.com

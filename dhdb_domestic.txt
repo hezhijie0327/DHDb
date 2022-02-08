@@ -4883,7 +4883,6 @@
 5u3d.com
 5u588.com
 5u5u5u5u.com
-5u71.com
 5u941.com
 5ubei.com
 5uks.com
@@ -7639,6 +7638,7 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
+abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abto.cc
@@ -39238,7 +39238,6 @@ jqdzw.com
 jqgc.com
 jqgcw.com
 jqhtml.com
-jqmtws.tcdn.qq.com
 jqpress.com
 jqrkc.com
 jqskygame.com

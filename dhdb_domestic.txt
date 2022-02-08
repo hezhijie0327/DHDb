@@ -29495,6 +29495,7 @@ glbdns.com
 glbdqn.com
 glcanyin.net
 glcct.com
+gldad.com
 gleasy.com
 glg.uu.163.com
 glgczk.com
@@ -30651,6 +30652,7 @@ gxnnxmhb.com
 gxpan.cn
 gxpfyy.com
 gxqcw.com
+gxqrjjcsyh.com
 gxqs.org
 gxrc.com
 gxshuairun.com
@@ -42914,7 +42916,6 @@ linuxacme.icu
 linuxba.com
 linuxbaike.com
 linuxbaodian.com
-linuxboy.net
 linuxcool.com
 linuxdaxue.com
 linuxdot.net
@@ -51018,7 +51019,6 @@ passport.dns.iqiyi.com
 passport.douyu.com
 passport.douyu.com.w.cdngslb.com
 passport.iqiyi.com
-passport.jd.com
 passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
@@ -52531,7 +52531,6 @@ probe.bjmantis.net.w.kunlunar.com
 probe.light.fang.com
 procar.cc
 processon.com
-procivi.net
 prod-file-uploaded.oss-cn-beijing.aliyuncs.com
 prod-huawei-media.shiguangkey.com
 prod-metro-admin.oss-cn-shanghai.aliyuncs.com

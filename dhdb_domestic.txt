@@ -10142,6 +10142,7 @@ api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.coconut.is
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -38211,7 +38212,6 @@ jiangxindaojia.com
 jiangxinlingdu.com
 jiangyoushi.anjuke.com
 jiangzi.com
-jianhen.net
 jianhui.org
 jianhui666.com
 jianianle.com

@@ -8647,6 +8647,7 @@ app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 app0le.com
 app1.letitbefaster.life
+app1.letitbefaster.website
 app1.letmacworkfaster.site
 app1.maatwerkonline.nl
 app1.youngcapital.nl
@@ -9872,7 +9873,6 @@ backend.freecontent.win
 backend.wb888.net
 backlogtop.xyz
 backoffice.evobinary.com
-backpacktf.com
 backpacktf.store
 backup-place.com
 backupfilesserver.com
@@ -21625,7 +21625,6 @@ eduszft.cn
 eduwsw.com
 eduwz.net
 edvdiuobicc.xyz
-edwlifes.vo.llnwd.net
 edxlewni.com
 edzqitvxmvfxvtd.localdomain
 edzx.com
@@ -32242,6 +32241,7 @@ jiangkk.com
 jianguo02.com
 jianguopuzi.com
 jiangxiz.com
+jianhen.net
 jianingy.com
 jiankang13.com
 jiankangkuaile99.com

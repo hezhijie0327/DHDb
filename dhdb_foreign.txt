@@ -1845,6 +1845,7 @@
 1713023.b2b.liebiao.com
 1713023.shop.liebiao.com
 1716534.b2b.liebiao.com
+1716534.shop.liebiao.com
 1716dy.com
 1717380.b2b.liebiao.com
 17173yx.com
@@ -21766,6 +21767,7 @@ asia.monerise.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
+asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -32870,7 +32872,6 @@ caliastudio.com
 calibre-ebook.com
 calif.cc
 californiafamilyfitness.com
-caliskankoylu.com
 calix.com
 caliyuna.cn
 call-ad-network-api.marchex.com
@@ -38825,7 +38826,6 @@ cnfanglei.com
 cnfantasia.com
 cnfbfcw.com
 cnfeat.com
-cnfiberhome.com
 cnfla.com
 cnfmp.net
 cnfol.hk
@@ -48835,6 +48835,7 @@ dl.benefits.express-scripts.com
 dl.box.net
 dl.browsermine.com
 dl.crazyporn.xxx
+dl.delivery.mp.microsoft.com
 dl.dell.com
 dl.devmate.com
 dl.discordapp.net
@@ -111792,7 +111793,6 @@ noclyt.com
 nocookie.net
 noddus.com
 node-marketing.net.daraz.com
-node-p1w-eenga8.sitescout.com
 node-r-dw-1.net.daraz.com
 node-yancancook.net.daraz.com
 node.cdntxt.com
@@ -127752,7 +127752,6 @@ r3---sn-npoeene7.googlevideo.com
 r3---sn-npoeenee.googlevideo.com
 r3---sn-npoeenly.googlevideo.com
 r3---sn-o097znlk.googlevideo.com
-r3---sn-o097znlr.googlevideo.com
 r3---sn-oguelnle.googlevideo.com
 r3---sn-q4fl6nsd.googlevideo.com
 r3---sn-q4fl6nsl.googlevideo.com
@@ -132516,6 +132515,7 @@ rwsjpc.zdravkurort.ru
 rwss.jdy33.cn
 rwwynfpwdnorsg.xyz
 rwykkb.boroughbox.com
+rwyy.jdy33.cn
 rx40.com
 rx616.cn
 rx8800.com

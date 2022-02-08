@@ -49069,6 +49069,7 @@ nsp-logservice-hiview-p41-drcn.obs.cn-north-2.myhuaweicloud.com
 nspt.bdstatic.com
 nsrjlb.com
 nsshare.com
+nstom.net
 nsw88.com
 nswyun.com
 nsydt.com
@@ -51109,6 +51110,7 @@ pb.hd.sohu.com
 pb.hd.sohu.com.cn
 pb.i.sogou.com
 pb.jd.com
+pb.sogou.com
 pb.sys.pp8.com
 pb1.pstatp.com
 pb10.sogou.com
@@ -52207,6 +52209,7 @@ polaxiong.com
 polayoutu.com
 pole.6rooms.com
 policy-cde.le.com
+policy.jd.com
 policy.jd.com.gslb.qianxun.com
 policy.video.iqiyi.com
 policy.video.ptqy.gitv.tv
@@ -61187,7 +61190,6 @@ stat.fyeds5.com
 stat.fyeds9.com
 stat.game.yy.com
 stat.gamedl.qq.com
-stat.guoxinvc.com
 stat.ijinshan.com
 stat.img-space.com
 stat.it168.com

@@ -2046,7 +2046,6 @@
 2.haoxue360.com
 2.nanrenwo.net
 2.pic.pc6.com
-2.pool.ntp.org
 2.up.qingdaonews.com
 2.zol-img.com.cn
 2000888.com
@@ -18508,7 +18507,6 @@ cn314.com
 cn357.com
 cn3k5.com
 cn3wm.com
-cn486.com
 cn4e.com
 cn5135.com
 cn539.com
@@ -27136,7 +27134,6 @@ fengj.com
 fengji.me
 fengji.net
 fengjing.com
-fengjinshuo.com
 fengjr.com
 fengkongcloud.com
 fengkuangzaoren.com

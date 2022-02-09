@@ -49389,6 +49389,7 @@ offer.alibaba.com
 office-cn.net
 office-peixun.com
 office26.com
+officecdn.microsoft.com
 officedoyen.com
 officeedit.com
 officejc.net
@@ -54563,7 +54564,6 @@ qnl1.com
 qnm.hunliji.com
 qnniu.com
 qnqcdn.net
-qnr.io
 qnsb.com
 qnssl.com
 qntz.cc

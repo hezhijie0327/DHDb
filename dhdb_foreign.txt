@@ -21770,7 +21770,6 @@ asia.monerise.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
-asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -76715,7 +76714,6 @@ hk.wagbridge.noncert.alibaba.com.gds.alibabadns.com
 hk.yahoo.com
 hk01.com
 hk08.beeppool.org
-hk1.direct.iplc.pro
 hk1282sec.com
 hk148forum.com
 hk1lib.org
@@ -101124,6 +101122,7 @@ maxpark.com
 maxplan.ru
 maxpreps.com
 maxreader.net
+maxreturn.cn
 maxrozen.com
 maxspeedcdn.com
 maxstv.com

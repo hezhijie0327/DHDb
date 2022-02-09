@@ -32711,6 +32711,7 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -50830,6 +50831,7 @@ pan.bilnn.cn
 pan.diemoe.net
 pan.lanzou.com
 pan.qun.qq.com
+pan58.com
 panabit.com
 panasonic.cn
 pancake.apple.com.cdn20.com

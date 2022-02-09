@@ -2560,7 +2560,6 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
-2.android.pool.ntp.org
 2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
@@ -32183,6 +32182,7 @@ c.greystripe.com
 c.grimuar.ru
 c.gtld-servers.net
 c.gumgum.com
+c.gzsanxiaomingshi.cn
 c.hit.ua
 c.hk.msn.com
 c.holmesmind.com
@@ -64869,6 +64869,7 @@ generatorsource.com
 generic-2.lb.lm5v.com
 genericlink.com
 generouslivelinessevidence.com
+genesis.1337x.org
 genesis.com
 genesis.es
 genesis.malwarebytes.com
@@ -97476,7 +97477,6 @@ m.gcaog.com
 m.gglay.com
 m.giroud.top
 m.global-ssl.fastly.net
-m.gomev.cn
 m.groupe-fiba.fr
 m.grtnahd.cn
 m.gtld-servers.net

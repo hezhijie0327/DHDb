@@ -4122,7 +4122,6 @@
 51vip.biz
 51vv.com
 51wan.com
-51wangdai.com
 51wanquan.com
 51wcity.com
 51web.com
@@ -5478,7 +5477,6 @@
 75757.com
 7579c3308c830b4855be4621322097df.safeframe.googlesyndication.com
 757dy.com
-7580.ltd
 758479.p23.tc.cdntip.com
 758669161.privacysandbox.googleadservices.com
 759d01cc0c66bd2e1469ed9b63cf764f.safeframe.googlesyndication.com
@@ -10768,7 +10766,6 @@ appnavi.baidu.com
 appnode.com
 apponline.research.qq.com
 appoptimize-drcn.dbankcdn.80800000.globalsign.c.cdnhwc1.cn
-appoptimize-drcn.dbankcdn.cn
 appoptimize-drcn.dbankcdn.cn.cdn.dnsv1.com
 appoptimize-drcn.dbankcdn.com
 appoptimize-drcn.dbankcdn.com.c.cdnhwc1.com
@@ -16372,7 +16369,6 @@ channel.api.duapp.com
 channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
 channel.kandian.qq.com
-channel.m.163.com
 channel.togo666.com
 channel2-account-ssl.xunlei.com
 channel3-account-ssl.xunlei.com

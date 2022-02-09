@@ -3205,7 +3205,6 @@
 24log.ru
 24media.gr
 24mx.se
-24network.it
 24newstech.com
 24option.com
 24options.com
@@ -11739,6 +11738,7 @@ ad.1k3.com
 ad.1kxun.com
 ad.24h.com.vn
 ad.360in.com
+ad.360yield.com
 ad.363.in
 ad.3dnews.ru
 ad.52av.one
@@ -35785,7 +35785,6 @@ chat.amplifyreach.com
 chat.ru
 chat.stackexchange.com
 chat.xboxlive.com
-chat1.jd.com
 chatakauntewed.com
 chatandgames.net
 chatango.com

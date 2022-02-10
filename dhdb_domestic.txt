@@ -10792,6 +10792,7 @@ apps.samsung.com
 apps.young-digital.cn
 apps.young-digital.cn.w.kunlunar.com
 apps121.com
+apps5.oingo.com
 appsale.58.com
 appscan.io
 appsdk.tanv.com
@@ -18479,6 +18480,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -27144,7 +27146,6 @@ fengpintech.com
 fengqiu.baixing.com
 fengqiyc.com
 fengqu.com
-fengqucdn.com
 fengread.com
 fengshows.cn
 fengshui22.com
@@ -32398,7 +32399,6 @@ hh.jiankang.com
 hh010.com
 hh1488.com
 hhailuo.com
-hhcmjt.com
 hhcn.com
 hhczy.com
 hhfbqzgs.com
@@ -47210,6 +47210,7 @@ msanjia.com
 msc.jd.com
 msc.jd.com.gslb.qianxun.com
 mscbsc.com
+msch.f.360.cn
 msclick2.kuwo.cn
 msdn.itellyou.cn
 msdn.itellyou.cn.w.kunluncan.com
@@ -48053,6 +48054,7 @@ nattest-china.com
 naturali.io
 nature-museum.net
 natywish.com
+nauac.com
 nav.cn.ronghub.com
 navchina.com
 navigis.uc.cn

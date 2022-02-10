@@ -80,7 +80,6 @@
 01hr.com
 01jzw.com
 01ki.com
-01p.com
 01retail.com
 01rv.com
 01teacher.com
@@ -10681,7 +10680,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -12629,6 +12627,7 @@ bdtj.infinities.com.cn.w.kunlunpi.com
 bdtj.tagtic.cn
 bdtj.tagtic.cn.m.alikunlun.com
 bdtjrcv.com
+bdtkba.com
 bdtm.net
 bdu.focus.cn
 bdunion1.suxiazai.com
@@ -29244,7 +29243,6 @@ ggcykf.com
 ggdata1.cnr.cn
 ggdawanjia.com
 ggdm1.nhaidu.net
-ggdoc.com
 ggemo.com
 ggeye.com
 ggfycufmnscyemidsgj7mgqgmoyd9k29.alicloudwaf.com
@@ -40578,7 +40576,6 @@ kevinjiang.info
 kevinrose.gallerycdn.azure.cn
 kevinyang.gallerycdn.azure.cn
 kewail.com
-kewu.cc
 kexianggroup.com
 kexin001.com
 kexing100.com

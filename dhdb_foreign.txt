@@ -22480,7 +22480,6 @@ au-mg5.mail.yahoo.com
 au.arjo.com
 au.bms.maxmara.com
 au.com
-au.download.windowsupdate.com
 au.engage.genesiscare.com
 au.pool.ntp.org
 au.promo.skf.com
@@ -39162,6 +39161,7 @@ code.directadvert.ru
 code.etracker.com
 code.fastclick.net
 code.giraff.io
+code.hajuwang.cn
 code.hot-mob.com
 code.jquery.com
 code.kinofactor.ru
@@ -131247,7 +131247,6 @@ robots.dmm.com
 robotsbase.com
 roboze.com
 robsbogsrouse.com
-robsoaks.com
 robspabah.com
 robucs.com
 robustbelieve.com
@@ -143543,6 +143542,7 @@ sp.azcentral.com
 sp.battlecreekenquirer.com
 sp.bucyrustelegraphforum.com
 sp.centralfloridafuture.com
+sp.chillicothegazette.com
 sp.clarionledger.com
 sp.commercialappeal.com
 sp.coshoctontribune.com

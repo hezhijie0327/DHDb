@@ -1,5 +1,6 @@
 0-100.com
 0-6.com
+0.cn.pool.ntp.org
 0.pic.pc6.com
 0.up.qingdaonews.com
 00.auto.sohu.com
@@ -29121,6 +29122,7 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
+get.sogou.com
 get.vip
 get233.com
 getapk.cn
@@ -60175,7 +60177,6 @@ smarts.online
 smartservice.console.aliyun.com
 smartsteps.com
 smartstudy.com
-smartx-cn.com
 smartx.com
 smarun.com
 smaryun.com

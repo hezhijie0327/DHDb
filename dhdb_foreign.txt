@@ -1837,7 +1837,6 @@
 17.255.240.182.zz.countries.nerd.dk
 17.courier-push-apple.com.akadns.net
 170525.com
-1706316.com
 170nsb.com
 170tao.com
 170yy.com
@@ -111956,7 +111955,6 @@ noordermeer.ch
 nooroapo.com
 noovell.com
 noowho.com
-nop.xpanama.net
 nope.dk
 nopec.org
 nopis.org
@@ -141651,7 +141649,6 @@ smetrics.shihang.org
 smetrics.shinseibank.com
 smetrics.sho.com
 smetrics.shop.superstore.ca
-smetrics.shopbop.com
 smetrics.shopdisney.in
 smetrics.shopjapan.co.jp
 smetrics.shopjustice.com
@@ -146035,6 +146032,7 @@ static-cn.plista.com
 static-cnt.bid
 static-csr11.net.daraz.com
 static-cstore.cdn.ubi.com
+static-db.com
 static-downloads.com
 static-dw-com.cdn.ampproject.org
 static-eb.media.net

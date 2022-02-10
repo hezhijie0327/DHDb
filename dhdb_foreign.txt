@@ -34921,6 +34921,7 @@ cdnclouds.net
 cdncmp.richaudience.com
 cdnco.us
 cdncont.com
+cdncontentdelivery.com
 cdncqw.com
 cdncreative-onead.cdn.hinet.net
 cdndex.io
@@ -38690,7 +38691,6 @@ cn.msi.com
 cn.nikkei.com
 cn.nytstyle.com
 cn.picacomiccn.com
-cn.pool.ntp.org
 cn.promo.skf.com
 cn.pub.vpon.com
 cn.rti.tw

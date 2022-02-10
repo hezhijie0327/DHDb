@@ -1861,6 +1861,7 @@
 1aq.com
 1as1c36c.slt-dk.sched.tdnsv8.com
 1as1c36c.sltadapter.cdntip.com
+1b23.com
 1b2816704407e70681fd2af21ab70f93.dlied1.cdntips.net
 1b3d0bc81e9d108d3514b2b10e12924a.dlied1.cdntips.net
 1b5e7de2ce344d8a.huaweisafedns.com
@@ -2039,6 +2040,7 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
+2.android.pool.ntp.org
 2.arpun.com
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -7202,7 +7204,6 @@ a.shicigequ.com
 a.tanx.com
 a.tiyuxiu.com
 a.tn.token-ad.com
-a.tool.lu
 a.track.sohu.com
 a.tuizhuti.com
 a.tvsou.com
@@ -14890,7 +14891,6 @@ caicui.com
 caid.baidu.com
 caid.china-caa.org
 caidan2.com
-caidao1.com
 caidao8.com
 caidaocloud.com
 caidaoli.com

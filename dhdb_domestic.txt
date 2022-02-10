@@ -36097,6 +36097,7 @@ img.xgo.com.cn
 img.xiaohongshu.com
 img.xiaozhuvideo.com
 img.xiaozhuvideo.com.w.kunlungr.com
+img.xitongcheng.com
 img.xitongcheng.com.cname.yunjiasu-cdn.net
 img.xiwnu.cn
 img.xuexila.com
@@ -49322,6 +49323,7 @@ ocsp.pki.goog
 ocsp.sectigochina.com
 ocsp.us.cdnetworks.com
 ocsp2.apple.com
+ocsp2.g.aaplimg.com
 ocsp3.sheca.com
 oct-cts.com
 oct-sh.com

@@ -19844,6 +19844,7 @@ api.groupon.de
 api.grumft.com
 api.help.priv.net.zooplus.de
 api.hfyhjg.cn
+api.huangye.miui.com
 api.huashuge8.com
 api.hubapi.com
 api.hubspot.com
@@ -19892,7 +19893,6 @@ api.login.ops.net.zooplus.de
 api.login.staff.net.zooplus.de
 api.lwxs99.com
 api.m.afreecatv.com
-api.m.jd.com
 api.machine.net.zooplus.de
 api.macupdate.com
 api.mail.net.zooplus.de
@@ -40391,7 +40391,6 @@ connectionseducation.com
 connectionslearning.com
 connectivity-check.ubuntu.com
 connectivitycheck.android.com
-connectivitycheck.platform.hicloud.com
 connectlp.keysight.com
 connectorx.xyz
 connectportal.netapp.com
@@ -45378,7 +45377,6 @@ dao6.net
 daoc.net
 daocatdongphuong.com
 daodaoliang.com
-daodianfu.com
 daododo.com
 daodu14.jigsy.com
 daoen888.com
@@ -55796,6 +55794,7 @@ esmentbrads.com
 esmimport.com
 esmt.berlin
 esmtp.biz
+esmystem.com
 esocgd.beltegoed.nl
 esomniture.com
 esoo.org
@@ -60360,6 +60359,7 @@ flexjet.com
 flexnoseassist.com
 flexpod.ynsecureserver.net
 flexport.com
+flexterkita.com
 flextra.1.p2l.info
 flgjustice.org
 flic.kr
@@ -79817,6 +79817,7 @@ idaia.group
 idaiwan.com
 idajjj.sport-decouverte.com
 idaplay.com
+idax.pro
 idaydre.am
 idbkfy.kango-roo.com
 idbnbt.strasburgo.co.jp
@@ -80347,7 +80348,6 @@ ihwxgm.koloboktoys.ru
 ii-i.org
 ii.911cha.com
 ii.cc
-ii.qpmztk.cn
 ii1.chajiaotong.com
 ii36.net
 ii63.net
@@ -86434,7 +86434,6 @@ j9513.com
 j98789.com
 j9987.com
 j9j6l.top
-ja.erocool.com
 ja.moegirl.org
 ja.olympus-ims.com
 ja.wikinews.org
@@ -87133,6 +87132,7 @@ jeravagy.com
 jeremiahlee.com
 jeremylee.sh
 jeremylin.net
+jerencontre.fr
 jergens.com
 jergocast.com
 jerickson.net
@@ -93741,7 +93741,6 @@ lezlvhjeinfurmilviw7pagfiv6j01619284981.nuid.imrworldwide.com
 lezntf.heydudeshoesusa.com
 leztc.com
 lezyo.com
-lf-tools.net
 lf168.com
 lf318.com
 lfai.foundation
@@ -124969,7 +124968,6 @@ psoaemorella.com
 psoageeb.com
 psoaptou.net
 psonstrentie.info
-psoolree.net
 psoomeeg.com
 psoonsod.com
 psoorgou.com
@@ -126421,7 +126419,6 @@ qipamaijia.com
 qipeiren.com
 qipskd.cn
 qiqi.com
-qiqipower.com
 qiqziv.mybinding.com
 qiredy.com
 qirios.com
@@ -139219,7 +139216,6 @@ sjzkaitai.com
 sjzsidadianji.com
 sjzxtsh.com
 sjzyyt.com
-sjzz.cc
 sk-mtek.com
 sk-tea.com
 sk.5.p2l.info

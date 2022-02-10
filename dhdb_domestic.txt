@@ -2591,6 +2591,7 @@
 3.5646.cn
 3.cn.pool.ntp.org
 3.iscrv.com
+3.openwrt.pool.ntp.org
 3.pic.pc6.com
 3.ssqzj.com
 3.up.qingdaonews.com
@@ -6964,7 +6965,6 @@
 99qimingzi.com
 99qumingzi.com
 99read.com
-99shiji.com
 99sun.com
 99sushe.com
 99tianxin.com
@@ -41530,7 +41530,6 @@ l3-prod-patch-gzlj.bilibiligame.net.sched.s7t.tdnsv5.com
 l36h.com
 l3s2.hy.qcloudcdn.com
 l4dk40faecw9jp.mwcname.com
-l4elb.cn
 l4scli1.cachenode.cn
 l5-hdslb.gslb.ksyuncdn.com
 l574ou0.cdnnodedns.cn

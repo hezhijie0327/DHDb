@@ -704,7 +704,6 @@
 1.ad-locus.com
 1.adidevelopments.com
 1.appexchange.com
-1.asia.pool.ntp.org
 1.bb5522.ws
 1.bb6688.ws
 1.car21.net.daraz.com
@@ -1708,6 +1707,7 @@
 163.cm
 163.flnet.org
 163.slyip.net
+163686.com
 163cs.com
 163data.net
 163gq.com
@@ -58374,6 +58374,7 @@ fastcompany.com
 fastcounter.com
 fastcounter.de
 fastcounter.linkexchange.net
+fastcounter.linkexchange.nl
 fastcupid.com
 fastdld.com
 fastdln.com
@@ -104521,7 +104522,6 @@ mieuxchoisir.com
 miexue.com
 mifcom.de
 miffyliye.org
-mifsirnhvvrps.top
 mig4.ddns.ms
 mig8vn.com
 miga.org

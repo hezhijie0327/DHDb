@@ -1114,6 +1114,7 @@
 126doc.com
 126g.com
 126qiye.com
+126shu.com
 126ts.com
 127.com
 127.net
@@ -26246,6 +26247,7 @@ ewww.com.cn
 ewz4ksd98492555o.aliyunddos1026.com
 ex-silver.com
 ex-starch.com
+ex.m.jd.com
 ex.m.jd.com.gslb.qianxun.com
 ex.mobmore.com
 ex.puata.info
@@ -29375,7 +29377,6 @@ gitduck.gallerycdn.azure.cn
 gitee.com
 gitee.io
 github-avatars.oss-cn-hongkong.aliyuncs.com
-github-trending.com
 github.gallerycdn.azure.cn
 gitissue.com
 gitlab-assets.oss-cn-hongkong.aliyuncs.com
@@ -45126,7 +45127,6 @@ mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
 mapi.m.jd.com
-mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
 mapi.vip.com
@@ -51881,6 +51881,7 @@ pinkertech.com
 pinkobaby.com
 pinla.com
 pinmanduo.com
+pinmie.com
 pinpai1.com
 pinpai8.cn
 pinpaidadao.com

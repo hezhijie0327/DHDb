@@ -18377,7 +18377,6 @@ cn-gapis.0cdn.cn.cname.yunjiasu-cdn.net
 cn-hangzhou-component-gw.cloud.alipay.com
 cn-hangzhou-mgs-gw.cloud.alipay.com
 cn-hangzhou.oss-pub.aliyun-inc.com
-cn-hbcd2-cu-v-04.bilivideo.com
 cn-hbcd2-cu-v-06.bilivideo.com
 cn-hbcd2-cu-v-07.bilivideo.com
 cn-hbcd2-cu-v-08.bilivideo.com
@@ -21502,6 +21501,7 @@ dazijia.com
 dazpin.com
 dazu666.com
 dazui.com
+db.cjtcc.cn
 db1.fuz.cc
 db1a359389c3677e83934bf15cb098dc.dlied1.cdntips.net
 db1caad761e1c4e78a0afe7bdbd774bb.qaxcloudwaf.com

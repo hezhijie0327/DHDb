@@ -14131,7 +14131,6 @@ bryonypie.com
 brzhang.club
 bs-adaptive.pull.yximgs.com
 bs-origin.pull.yximgs.com
-bs.csshq.com.cn
 bs008.com
 bs14.9669.cn
 bs56.net
@@ -45754,6 +45753,7 @@ melon.cdnetworks.com
 melove.net
 memacx.com
 member.bilibili.com
+member.chinaacc.com
 member.igoldhk.com
 member.jr.jd.com
 member.jschina.com.cn
@@ -47210,6 +47210,7 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
+msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net

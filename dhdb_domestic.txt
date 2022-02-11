@@ -10678,6 +10678,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -10740,6 +10741,7 @@ applinzi.com
 applk.cn
 applog.camera360.com
 applog.ddxq.mobi
+applog.matrix.netease.com
 applog.reader.qq.com
 applog.uc.cn
 applog.ucdns.uc.cn
@@ -51452,7 +51454,6 @@ pgyer.com
 pgygho.com
 pgyidc.com
 pgysoft.com
-pgyst.net
 pgzs.com
 ph.qucaigg.com
 ph5t.adups.com
@@ -56762,6 +56763,7 @@ ruiyunit.com
 rujiazg.com
 ruketang.com
 rulejianzhan.com
+rum8.perf.linkedin.com
 rumengtushu.suning.com
 runcome.com
 runde666.net
@@ -63143,7 +63145,6 @@ tanpoqiuer.com
 tanqi888.com
 tanshudata.com
 tansoole.com
-tansuotv.com
 tantanapp.com
 tantu.com
 tantu.info

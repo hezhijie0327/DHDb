@@ -21973,7 +21973,6 @@ assets.bwbx.io
 assets.campustraining.es
 assets.chegg.com
 assets.cheggcdn.com
-assets.cntdy.mobi
 assets.codingdojo.com
 assets.contentstack.io
 assets.digitalocean.com
@@ -86827,7 +86826,6 @@ jb.wojb.org
 jb195.com
 jb288.com
 jb33275.com
-jb5988.com
 jb6868.com
 jb7hvcksstar.com
 jb7hvckszone.com
@@ -97115,6 +97113,7 @@ ly.rs
 ly0121.com
 ly5200.cn
 ly8c.caci-online.fr
+lyaeccn.com
 lyatblkpblca.com
 lyaudio.com
 lyaustrymich.club

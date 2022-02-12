@@ -654,6 +654,7 @@
 1.800400.net
 1.92caijing.com
 1.aili.com
+1.asia.pool.ntp.org
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
@@ -16369,6 +16370,7 @@ channel.api.duapp.com
 channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
 channel.kandian.qq.com
+channel.m.163.com
 channel.togo666.com
 channel2-account-ssl.xunlei.com
 channel3-account-ssl.xunlei.com
@@ -27214,6 +27216,7 @@ fexclick.baidu.com
 fexhtml5static.jomodns.com
 ff.dayu.com
 ff.doubleclick.net
+ff.l3gqgd.cn
 ff.meikanguo.com
 ff.qichetansuo.com
 ff.xue163.net

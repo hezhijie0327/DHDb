@@ -657,7 +657,6 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -7356,6 +7355,7 @@ a6518f2746f86af5a42af6eb26efef88.safeframe.googlesyndication.com
 a655e64b5b118aa8b9b9790c332aba29.dlied1.cdntips.net
 a66qq.com
 a67dy.com
+a6a1.com
 a6yadysu.sched.sma.tdnsv5.com
 a70b8ac698914c8a747bba7c8d5515cc.dlied1.cdntips.net
 a70f6451e9b72be6fdeffdd2cff0a088.dlied1.cdntips.net
@@ -62312,7 +62312,6 @@ sxxw.net
 sxxyfw.com
 sxxynews.com
 sxy7.com
-sxybjjz.cn
 sxycrb.com
 sxyj.net
 sxyunyou.cn

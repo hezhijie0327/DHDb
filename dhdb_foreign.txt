@@ -4381,6 +4381,7 @@
 37ee40f8-dnsotls-ds.metric.gstatic.com
 37mnm.com
 37pk49.com
+37pps.com
 37signals.com
 37zw.net
 38-courier.push.apple.com
@@ -30972,7 +30973,6 @@ bt.biz.tm
 bt.btvery.com
 bt.cc
 bt.com
-bt.dl1234.com
 bt.edwardk.info
 bt.endpot.com
 bt.firebit.org
@@ -98800,6 +98800,7 @@ makeit.becker-international.com
 makeit.beckerpumps.com
 makeitopen.com
 makeleaps.com
+makelove.la
 makemoneyrobot.com
 makemymood.com
 makemytrip.com
@@ -144191,6 +144192,7 @@ spielaffe.de
 spieletipps.de
 spiffymachine.com
 spigotsmetonym.cam
+spigpcjs.info
 spigte.shopee.tw
 spike.com
 spilasers.com
@@ -146309,6 +146311,7 @@ static.intercomassets.com
 static.itrack.it
 static.iwincdn.com
 static.javhd.com
+static.jiaquyi.com
 static.kameleoon.com
 static.karte.io
 static.kibboko.com
@@ -149046,7 +149049,6 @@ supportfreecontent.com
 supportfreya.net.daraz.com
 supportiveimpassableevasion.com
 supportlib-ln-1.net.daraz.com
-supportmetrics.apple-support.akadns.net
 supportmetrics.apple.com
 supportmetrics.v.aaplimg.com
 supportmicrosoftoffice.com

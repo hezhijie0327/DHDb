@@ -3711,6 +3711,7 @@
 2yuanma.com
 2znp09oa.com
 2zzzzzz.com
+3-a.net
 3-courier.push.apple.com
 3-courier2.push.apple.com
 3-ddesignsolutions.com
@@ -60941,7 +60942,6 @@ fonts.font.im
 fonts.gmirror.org
 fonts.google.com
 fonts.googleapis.cnpmjs.org
-fonts.gstatic.cnpmjs.org
 fonts.gstatic.font.im
 fonts.hezhijie0327.workers.dev
 fonts.loli.net
@@ -62922,7 +62922,6 @@ ftwork.co.uk
 ftx.com
 ftxabddarlo.xyz
 ftxgame.com
-ftxzq.com
 ftysya.aboutyou.de
 ftzets.silkfred.com
 fu.golikeus.net
@@ -105378,7 +105377,6 @@ miscreantmine.com
 miscreantmoon.com
 misdealcpi.com
 misdem.pro
-miserycontemplaterubbish.com
 miseryheight.com
 mises.org
 misguidedstork.com
@@ -107496,7 +107494,6 @@ msdn.com
 msdn.microsoft.com
 msecure108.com
 msedge.api.cdp.microsoft.com
-msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.net
 mseeru.faz.net
 msetup.pro
@@ -121129,7 +121126,6 @@ pionline.com
 piostats.gdcorner.com
 piou.kirkir.xyz
 pip-pip-pop.com
-pipagogmercy.com
 pipe-collect.ebu.io
 pipe.live.com
 pipe.skype.com

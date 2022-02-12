@@ -10234,6 +10234,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -16121,7 +16122,6 @@ cezxda.com
 cf.17173.com
 cf.3g.qq.com
 cf.aliyun.com
-cf.arctime.cn
 cf.duba.net
 cf.zaiyunli.cn
 cf865.com
@@ -21331,7 +21331,6 @@ dat.gtags.net
 data-ads.oneplusmobile.com
 data-hoisin.coocaa.com
 data-leopard1.vip.meituan.com
-data-news.cdn.cootekservice.com
 data-p2p.vcloud.ks-live.com
 data-pic.cdn.cootekservice.com
 data-sdk-uuid-report.dreport.meituan.net
@@ -35986,7 +35985,6 @@ img.dmallcdn.com
 img.dnfcity.qq.com
 img.docin.com
 img.dota2.com.cn
-img.douxie.com
 img.douyucdn.cn
 img.douyucdn.cn.w.cdngslb.com
 img.downk.cc
@@ -50403,7 +50401,6 @@ p1-tt-ipv6.byteimg.com.wsglb0.com
 p1-tt.bytecdn.cn
 p1-tt.byteimg.com
 p1-ttpush.byteimg.com
-p1.58tg.com
 p1.a.kwimgs.com
 p1.a.yximgs.com
 p1.adkwai.com

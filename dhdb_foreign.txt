@@ -708,6 +708,7 @@
 1.bb6688.ws
 1.car21.net.daraz.com
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -2922,6 +2923,7 @@
 2250712.shop.liebiao.com
 225540.com
 22559.gcandy999.com
+2256820.b2b.liebiao.com
 2257545.b2b.liebiao.com
 22588888.com
 225arud0w9f.blanc.ru
@@ -3479,6 +3481,7 @@
 28852211.app
 28858855.com
 288609.com
+2886115.com
 288966.com
 288f7cd9-dnsotls-ds.metric.gstatic.com
 288x.com
@@ -18175,7 +18178,6 @@ ampry.com
 ampscommercial.com.au
 amptrack-dailymail-co-uk.cdn.ampproject.org
 ampugi334f.com
-ampxchange.com
 ampxl.com
 amrc.org.hk
 amre.work
@@ -50163,7 +50165,6 @@ download.pdfforge.org
 download.qoo-app.com
 download.sd.baidu.com
 download.weatherblink.com
-download.windowsupdate.com
 download.windowsupdate.nsatc.net
 download.wondershare.com
 download.yesmessenger.com
@@ -54654,6 +54655,7 @@ en.akinator.com
 en.alalam.ir
 en.altervista.org
 en.antelopeaudio.com
+en.btcprofit.we-trck.com
 en.cloudss.me
 en.cookiescript.info
 en.crypto-webminer.com

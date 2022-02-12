@@ -10360,6 +10360,7 @@ api.xiaoniangao.cn
 api.xiaoshuo1-sm.com
 api.ximalaya.com
 api.xinyue.qq.com
+api.xitongcheng.com
 api.xitongcheng.com.cname.yunjiasu-cdn.net
 api.xmpush.xiaomi.com
 api.xsj.wasu.tv
@@ -31637,7 +31638,6 @@ hb3rm.com
 hb96568.com
 hbap.net
 hbbaidu.com
-hbbidding.com
 hbbsw.vip
 hbbutler.com
 hbbww.com
@@ -45843,6 +45843,7 @@ meshare.site
 meshiot.com
 meshweb.meituan.com
 mesince.com
+mespro360.com
 mesresearch.com
 message.aliyun.com
 message.bilibili.com
@@ -47217,6 +47218,7 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com

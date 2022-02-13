@@ -2726,7 +2726,6 @@
 33.autohome.com.cn
 33.pcpop.com
 330123456.com
-3304399.com
 3304399.net
 33105.com
 3313dd.com
@@ -10230,7 +10229,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -19948,7 +19946,6 @@ cscec.com
 cscec1b.net
 cscec5b3.com
 cscecst.com
-cscectc.com
 cschannel.anticheatexpert.com
 cschlosser.gallerycdn.azure.cn
 csci.hk
@@ -28305,7 +28302,6 @@ fytz.net
 fyvart.com
 fyw0898.com
 fywx.cc
-fyxz.com
 fyyy.com
 fyzbgp.a.sohu.com
 fyzku.com
@@ -34144,7 +34140,6 @@ huomaotv.com
 huomaqun.com
 huomie.com
 huoming.com
-huonvd.cn
 huoqiuapp.com
 huoqiucaijing.com
 huorong.cn
@@ -37321,6 +37316,7 @@ iteer.net
 itek-training.com
 itellyou.com
 item-china.cn
+item-soa.jd.com
 item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
@@ -64518,7 +64514,6 @@ tmea116.oss-cn-beijing.aliyuncs.com
 tmead.y.qq.com
 tmechina.org
 tmeiju.com
-tmetb.net
 tmfmazu-wangka6.m.qq.com
 tmfmazu4http-wangka.m.qq.com
 tmfmazuhttp-wangka.m.qq.com

@@ -10135,7 +10135,6 @@ api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.coconut.is
-api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -21811,7 +21810,6 @@ dedemao.com
 dedesos.com
 dedeyun.com
 dedezhuji.com
-deehai.com
 deemos.com
 deepba.com
 deepbluenetwork.com
@@ -35031,7 +35029,6 @@ icmyk.cc
 icn.southmoney.com
 icnjob.com
 icntv.tv
-icnws.com
 icoa.vip
 icoat.cc
 icoc.bz
@@ -50946,7 +50943,6 @@ parkmecn.com
 parkviewgreen.com
 parnassusdata.com
 parol-group.com
-parryqiu.com
 parsein.com
 parser.houyi.baofeng.net
 part1-pcdn.fun.tv

@@ -654,7 +654,6 @@
 1.800400.net
 1.92caijing.com
 1.aili.com
-1.asia.pool.ntp.org
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
@@ -4820,6 +4819,7 @@
 5ixuexiwang.com
 5iyq.com
 5iyxw.net
+5j.com
 5jjdw.com
 5jjx.net
 5joys.com
@@ -14640,7 +14640,6 @@ c.yes.youku.com
 c.yootui19999.com
 c.youdao.com
 c.youike.com.cn
-c.zbwnzb.cn
 c.zhangle.com
 c.zhidian3g.cn
 c.zlongad.com
@@ -18484,7 +18483,6 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -39332,7 +39330,6 @@ js.mgtv.com.wscdns.com
 js.miaozhen.com
 js.mosflower.cn
 js.mscto.com
-js.mumayi.net
 js.oh100.com
 js.passport.qihucdn.com
 js.penxiangge.com
@@ -50996,6 +50993,7 @@ passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
 passport.lagou.com
+passport.lenovo.com
 passport.lenovo.com.cn
 passport.meituan.com
 passport.mydrivers.com

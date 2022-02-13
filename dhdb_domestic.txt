@@ -25659,7 +25659,6 @@ emdcadvertise.eastmoney.com
 emdl.ws.microsoft.com
 emea.cdnetworks.com
 emeixs.com
-emeor.com
 emepu.com
 emindos.org
 emjob.com
@@ -49896,6 +49895,7 @@ openke.net
 openlanguage.com
 openlink.cc
 openlocation-drcn.platform.dbankcloud.com
+openloongson.org
 openluat.com
 openmobile.qq.com
 openmobileqqcom.msf.tencent-cloud.com

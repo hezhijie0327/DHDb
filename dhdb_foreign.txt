@@ -2334,7 +2334,6 @@
 1cfe9863-dnsotls-ds.metric.gstatic.com
 1cmir1-dnsotls-ds.metric.gstatic.com
 1cmplus.com
-1cnw.com
 1ctc.sfr.fr
 1d18b.com
 1d33f74a26b4b5f26b52929bbbb9e215.clo.footprintdns.com
@@ -27622,7 +27621,6 @@ biqugezw.com
 biqugu.net
 biquguan.com
 biqukan.com
-biquke.com
 biquku.co
 biqulou.net
 biquluo.com
@@ -37822,6 +37820,7 @@ clickbooth.com
 clickboothlnk.com
 clickbrainiacs.com
 clickbrokers.com
+clickburner.com
 clickbux.ru
 clickcash.com
 clickcashmoney.com
@@ -81114,6 +81113,7 @@ img1.hdmbox.com
 img1.nend.net
 img1.shop2000.com.tw
 img1.zergnet.com
+img11.360buyimg.com
 img119.imagetwist.com
 img169.com
 img18.com
@@ -95698,7 +95698,6 @@ log-collector.shopee.vn
 log-ird.outbrain.com
 log-nj.adaptv.advertising.com
 log-player.arte.tv
-log-sdk.ksapisrv.com
 log-sj-eq.adaptv.advertising.com
 log-sj.adaptv.advertising.com
 log-tb.sgsnssdk.com

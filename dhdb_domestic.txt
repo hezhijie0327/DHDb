@@ -22716,7 +22716,6 @@ dj.captcha.qq.com
 dj.net
 dj.renren.com
 dj0.baidu.com
-dj0ts1x.cn
 dj1.baidu.com
 dj10.com
 dj2.baidu.com
@@ -28208,7 +28207,6 @@ fvti.com
 fw.koolcenter.com
 fw.qq.com
 fw4.me
-fwdq.com
 fwhzxxgbyy.com
 fwjia.com
 fwone.com
@@ -40759,6 +40757,7 @@ kk50.com
 kk520.com
 kkapp.com
 kkazrpqy.sched.ttddy.tdnsv5.com
+kkcache.com
 kkcaicai.com
 kkcapture.com
 kkdict.com

@@ -3905,7 +3905,6 @@
 32.mrface.com
 32.slyip.net
 32.w2.4pu.com
-3200138.com
 3201380.com
 320207.com
 320235.com
@@ -47541,7 +47540,6 @@ dg.irco.com
 dg.yiran686.cn
 dg98q1fqxxogp.cloudfront.net
 dgafgadsgkjg.top
-dgaoz.com
 dgap.org
 dgbftl.luckyvitamin.com
 dgbwya.evyapshop.com
@@ -126137,6 +126135,7 @@ q1.net.daraz.com
 q10.jp
 q10329.com
 q107.com
+q1266.com
 q13.com
 q13fox.com
 q1bq.4.shop.tm
@@ -145237,6 +145236,7 @@ ssp.api.tappx.com
 ssp.behave.com
 ssp.bidvol.com
 ssp.imedia.cz
+ssp.lionmobo.com
 ssp.mediation.trnox.com
 ssp.otm-r.com
 ssp.playbuzz.com
@@ -147864,7 +147864,6 @@ store.sstuan.net
 store.steampowered.com
 store.storeimages.apple.com.akadns.net
 store.storeimages.cdn-apple.com
-store.storevideos.cdn-apple.com
 store.ubi.com
 store.unity.com
 storecatalogrevocation.storequality.microsoft.com

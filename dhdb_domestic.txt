@@ -10227,6 +10227,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -31179,6 +31180,7 @@ haitou.cc
 haitoujia.com
 haituie.com
 haituncun.com
+haitundr.com
 haitunshenghuo.com
 haituntui.com
 haitunvoice.com
@@ -56525,7 +56527,6 @@ root-servers.world
 rootcloud.com
 rootop.org
 rootopen.com
-roov.org
 ror-game.com
 rorotoo.com
 ros.console.aliyun.com

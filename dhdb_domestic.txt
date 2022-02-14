@@ -35964,7 +35964,6 @@ img.douyucdn.cn.w.cdngslb.com
 img.downk.cc
 img.duoyi.com
 img.duoyi.com.dycdn.com
-img.dydab.com
 img.eqbyc.com
 img.expreview.com
 img.feitian001.com
@@ -46748,6 +46747,7 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
+mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com

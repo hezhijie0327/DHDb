@@ -7629,7 +7629,6 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
-abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abto.cc
@@ -11044,7 +11043,6 @@ ashj.com
 ashma.info
 ashow.pcpop.com
 ashvsash.com
-asia.pool.ntp.org
 asiabt.com
 asiaci.com
 asiacool.com
@@ -28501,7 +28499,6 @@ galleon.dmall.com
 galleryapi.micloud.xiaomi.net
 galleryfaceapi.micloud.xiaomi.net
 gallerysearchapi.micloud.xiaomi.net
-galleyn.com
 gallopgazelle.com
 galsun.com
 gamdream.com
@@ -54606,7 +54603,6 @@ qq.com
 qq.do
 qq.guansenff.cn
 qq.net
-qq.tc
 qq.ugcimg.cn
 qq.vvx.highter.top
 qq.yh31.com
@@ -61974,7 +61970,6 @@ sunnysun.co
 sunowo.com
 sunpala.com
 sunplusedu.com
-sunpma.com
 sunpun.com
 sunquan.api.ddxq.mobi
 sunrisedutyfree.com

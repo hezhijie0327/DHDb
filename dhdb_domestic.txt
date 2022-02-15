@@ -91,7 +91,6 @@
 020.com
 020.net
 020banjia.net
-020bom.com
 020icp.com
 020job.com
 020ym.com
@@ -2057,6 +2056,7 @@
 2006q.com
 2008php.com
 2008red.com
+2008zjj.com
 200ps.com
 200wan.com
 200y.com
@@ -9423,7 +9423,6 @@ allwinnertech.com
 allxing.net
 allyes.com
 allyes.net
-allyingshi.com
 allystar.com
 alma-intl.com
 almenon.gallerycdn.azure.cn
@@ -51538,7 +51537,6 @@ phperxuqin.com
 phperz.com
 phpfans.net
 phpfs.com
-phpgen.com
 phpjiami.com
 phpjiayuan.com
 phpkaiyuancms.com
@@ -53075,6 +53073,7 @@ pwrd.com
 pwsannong.com
 pwt.zoosnet.net
 pwupdate.cdn.pandora.xiaomi.com
+px.ads.linkedin.cn
 px.cbctp.top
 px.czxym168.cn
 px.effirst.com

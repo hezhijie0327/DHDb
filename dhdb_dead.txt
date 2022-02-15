@@ -1203,7 +1203,6 @@
 2001-007.com
 2007botclient.com
 200888894.com
-2008zjj.com
 200988894.com
 200f5f9b2c5b6ab9fc8312c67beec2f9.jddebug.com
 200tc.com
@@ -32205,6 +32204,7 @@ jdddata.com
 jddebug.com
 jdedu.net
 jdg.bjygfd.com
+jdgcjx.cn
 jdgslb.com
 jdgtgb.rnz.de
 jdiy.club
@@ -44809,6 +44809,7 @@ phpancake.com
 phpcomposer.net
 phpe.net
 phpfdc.com
+phpgen.com
 phprcdn.com
 phptext.net
 phsqqnneqsbgqe.com

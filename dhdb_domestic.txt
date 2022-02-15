@@ -21741,7 +21741,6 @@ ddplus.meituan.net
 ddqayjr7.v1d.szbdyd.com
 ddqcw.com
 ddske.com
-ddspsc.com
 ddstarapp.com
 ddswcm.com
 ddtaba.com
@@ -50994,6 +50993,7 @@ passport.dns.iqiyi.com
 passport.douyu.com
 passport.douyu.com.w.cdngslb.com
 passport.iqiyi.com
+passport.jd.com
 passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn

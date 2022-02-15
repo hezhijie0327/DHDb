@@ -24758,6 +24758,7 @@ e.bilibili.com
 e.bjmu.edu.cn
 e.bnc66.com
 e.boc.cn
+e.brtyhn.cn
 e.cdntlz.cn
 e.cn.miaozhen.com
 e.cnxmyb.cn
@@ -35890,6 +35891,7 @@ img-tmdetail.alicdn.com
 img-tx-ugcimg.douyucdn2.cn
 img-vip-ssl.a.88cdn.com
 img-vip-ssl.a.88cdn.com.w.kunlungr.com
+img-x.jd.com
 img-x.jd.com.gslb.qianxun.com
 img-ys011.didistatic.com
 img.0279.net
@@ -54123,7 +54125,6 @@ qile771.com
 qilecms.com
 qilindao.com
 qiling.org
-qilingames.com
 qilinxuan.net
 qilong.com
 qilongtan.com

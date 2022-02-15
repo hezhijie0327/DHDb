@@ -2040,7 +2040,6 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
-2.android.pool.ntp.org
 2.arpun.com
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -14633,7 +14632,6 @@ c.youike.com.cn
 c.zhangle.com
 c.zhidian3g.cn
 c.zlongad.com
-c0.3.cn
 c0.3.cn.gslb.qianxun.com
 c0.ifengimg.com
 c02.3dwwwgame.com
@@ -21592,7 +21590,6 @@ dbvwrfll.v1d.szbdyd.com
 dbvwrfxw.v1d.szbdyd.com
 dbvwrfz2.v1d.szbdyd.com
 dbvwrwcf.v1d.szbdyd.com
-dbxnvh.cn
 dbyb.org
 dbzgia.com
 dc-cn.com
@@ -21607,6 +21604,7 @@ dc.meitustat.com
 dc.sigmob.cn
 dc.so.le.com
 dc0555.com
+dc1.networkbench.com
 dc330.com
 dc3311.com
 dc4444.com
@@ -40738,7 +40736,6 @@ kjkd.com
 kjkp.com
 kjks.net
 kjkxun.com
-kjlzt.cn
 kjmx.shop
 kjnkj.club
 kjp.cupid.iqiyi.com
@@ -47199,7 +47196,6 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
-msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
@@ -58833,7 +58829,6 @@ shengcai.net
 shengcaijinrong.com
 shengdan.com
 shengdaosoft.com
-shengdaprint.com
 shengdianhuadg.com
 shengdianhuadk.com
 shengejing.com

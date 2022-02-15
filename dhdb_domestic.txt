@@ -21602,7 +21602,6 @@ dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
 dc.api.my7v.com
-dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -27580,6 +27579,7 @@ flower-med.com
 flower33.com
 flowerpassword.com
 floweryd.chaoxing.com
+flowever.net
 flowplus.meituan.net
 flowportal.com
 flowproxy.6000.liveplay.myqcloud.com
@@ -56595,7 +56595,6 @@ rr.tv
 rrb365.com
 rrbay.com
 rrbus.com
-rrcp.com
 rrdtjj.top
 rree.com
 rrfed.com

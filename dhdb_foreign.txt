@@ -1560,6 +1560,7 @@
 1486050000.rsc.cdn77.org
 14866.com
 1487e29a-dnsotls-ds.metric.gstatic.com
+1489092.b2b.liebiao.com
 1489469.b2b.liebiao.com
 1489469.shop.liebiao.com
 148dfe140d0f3d5e.com
@@ -10393,6 +10394,7 @@ aa65535.com
 aa7.org
 aa8258.com
 aa835.net
+aa88.in
 aa8828.com
 aa888.com
 aa9271e4a2.4d4ac172b7.com
@@ -22552,7 +22554,6 @@ au-mg5.mail.yahoo.com
 au.arjo.com
 au.bms.maxmara.com
 au.com
-au.download.windowsupdate.com
 au.engage.genesiscare.com
 au.pool.ntp.org
 au.promo.skf.com
@@ -34912,6 +34913,7 @@ cdn.wadawada-stop-report-us.com
 cdn.walkme.com
 cdn.wccftech.com
 cdn.welcome.pussysaga.com
+cdn.wg.uproxx.com
 cdn.wibiya.com
 cdn.winter.net.daraz.com
 cdn.wootric.com
@@ -55506,7 +55508,6 @@ epm-pro.com
 epm-stagingmgmt.net.zooplus.de
 epm.mailperformance.com
 epmads.com
-epmao.com
 epnclick.ru
 epnfoq.cyberpowersystem.co.uk
 epnredirect.ru
@@ -128011,7 +128012,6 @@ r2---sn-ntqe6nee.googlevideo.com
 r2---sn-nx5s7nee.googlevideo.com
 r2---sn-nxg8pivnupob-h5qs.googlevideo.com
 r2---sn-o097znl6.googlevideo.com
-r2---sn-o097znld.googlevideo.com
 r2---sn-o097znlk.googlevideo.com
 r2---sn-o097znlr.googlevideo.com
 r2---sn-q4fl6ns6.googlevideo.com

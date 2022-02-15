@@ -3528,6 +3528,7 @@
 29777.com
 297772.com
 29797.com
+298.name
 2981.com
 298635.shop.liebiao.com
 2990.com
@@ -14971,7 +14972,6 @@ adspy.javrank.com
 adspyglass.com
 adspynet.com
 adsquirrel.ai
-adsrefundattempts.com
 adsrevenue.net
 adsring.com
 adsroller.com
@@ -22652,7 +22652,6 @@ audiocontentdownload.g.aaplimg.com
 audioeye.com
 audiometadata-origin.moegirlpedia.moetransit.com
 audiomex.dyndns.org
-audiomonsterbeatsonline.com
 audionews.fm
 audionow.com
 audionow.de
@@ -47032,6 +47031,7 @@ deprivationcorrectioncoats.com
 depskins.com
 deptagency.com
 depthmawoff.com
+depttake.ga
 deqik.com
 der-kleine-ice.de
 der.com
@@ -125028,7 +125028,6 @@ proxmecallmenames.com
 proxmox.com
 proxomitron.info
 proxpn.biz
-proxpn.com
 proxtube.com
 proxy-ajcryptominer.ajplugins.com
 proxy-anywhere.com
@@ -126279,7 +126278,6 @@ pypl.info
 pypl.net
 pypl.tv
 pyq6n.com
-pyreelsepipe.com
 pyrexar.actonservice.com
 pyrexar.com
 pyrobot.org

@@ -708,7 +708,6 @@
 1.bb6688.ws
 1.car21.net.daraz.com
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -45111,7 +45110,6 @@ dadi360.com
 dadigho.com
 dadighost.com
 dadparty.com
-dadsabz.com
 dadsanz.com
 dadsats.com
 dadsatz.com

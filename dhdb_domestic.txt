@@ -14628,6 +14628,7 @@ c.youike.com.cn
 c.zhangle.com
 c.zhidian3g.cn
 c.zlongad.com
+c0.3.cn
 c0.3.cn.gslb.qianxun.com
 c0.ifengimg.com
 c02.3dwwwgame.com
@@ -21591,6 +21592,7 @@ dc-eventlog.missfresh.cn
 dc.3.cn
 dc.ads.linkedin.com
 dc.api.my7v.com
+dc.chillyroom.com
 dc.console.aliyun.com
 dc.cp21.ott.cibntv.net
 dc.letv.com
@@ -32026,6 +32028,7 @@ hec-al.com
 hec-changjiang.com
 hecai360.com
 hecaijing.com
+hecdn.com
 hechangquan.com
 hechaocheng.cn
 hechengbb.com
@@ -36184,7 +36187,6 @@ img11-sched.jcloudimg.com
 img11.18183.com
 img11.360buyimg.com.gslb.qianxun.com
 img12.360buyimg.com
-img13.360buyimg.com
 img14.360buyimg.com
 img14.poco.cn
 img16.diyifanwen.com
@@ -40843,6 +40845,7 @@ knet.cn
 knewbi.com
 knewone.com
 knewsmart.com
+knicks.jd.com
 knicks.jd.com.gslb.qianxun.com
 knisterpeter.gallerycdn.azure.cn
 knja123.top

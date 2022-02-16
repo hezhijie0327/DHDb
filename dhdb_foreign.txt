@@ -2781,7 +2781,6 @@
 2149768.shop.liebiao.com
 2150250.com
 21511fff.com
-2155ec.com
 215679.b2b.liebiao.com
 2161383.shop.liebiao.com
 2164229.shop.liebiao.com
@@ -24142,6 +24141,7 @@ ba.kioskea.net
 ba01n.com
 ba02n.com
 ba03n.com
+ba125.com
 ba32365df2.com
 ba778f04-dnsotls-ds.metric.gstatic.com
 baa2e174884c9c0460e.com
@@ -61861,7 +61861,6 @@ framote.com
 framy.co
 france.alphabet.com
 france24.com
-francecasquebeatssolde.com
 francedimanche.fr
 francemail.com
 francemediasmonde.com

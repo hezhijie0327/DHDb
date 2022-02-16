@@ -8241,6 +8241,7 @@ ads.huan.tv
 ads.icloseli.cn
 ads.ishansong.com
 ads.jianchiapp.com
+ads.linkedin.com
 ads.mojicdn.com
 ads.oneway.mobi
 ads.privacy.qq.com
@@ -43199,7 +43200,6 @@ ljjgdj.org
 ljsdk.com
 ljsw.io
 ljt365.com
-ljtx.com
 ljw012.com
 ljwit.com
 ljxww.com
@@ -44332,6 +44332,7 @@ m.cqzspt888.cn
 m.ctrip.com
 m.cudaojia.com
 m.czvv.com
+m.czxjx.cn
 m.da.mgtv.com
 m.dancihu.com
 m.data.accuratead.cn

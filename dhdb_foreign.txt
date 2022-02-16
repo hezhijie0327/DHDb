@@ -22552,7 +22552,6 @@ au-mg5.mail.yahoo.com
 au.arjo.com
 au.bms.maxmara.com
 au.com
-au.download.windowsupdate.com
 au.engage.genesiscare.com
 au.pool.ntp.org
 au.promo.skf.com
@@ -35176,6 +35175,7 @@ ce.lijit.com
 ce570720-dnsotls-ds.metric.gstatic.com
 ce62e0d222bc5aca.com
 ce7.org
+ceai.xyz
 cebadu.com
 cebay.com
 cebglobal.com
@@ -41359,6 +41359,7 @@ corona-tracing.org
 coronalabs.com
 coronavirus.mcdir.me
 coronavirusnow.com
+coroplastsheet.cn
 corp-cisco-capwap-controller.net.daraz.com
 corp-downloads.com
 corp-marketing.net.zooplus.fr
@@ -86648,6 +86649,7 @@ j2976.com
 j2interactive.com
 j2j.ru
 j2objc.org
+j32aa.com
 j35.co
 j35897.com
 j3hwmp9uprdrkwnev3npevj7mlt2x1620916487.nuid.imrworldwide.com
@@ -116314,6 +116316,7 @@ opentracker.arg.bz
 opentracker.cc
 opentracker.co
 opentracker.net
+opentracker.xyz
 opentracking.ru
 opentrackr.org
 opentranslatorstothings.org
@@ -125747,6 +125750,7 @@ pukegame.net
 puklisi.ru
 pulfa.com
 pull-flv-l29.douyincdn.com
+pull-flv-l29.douyincdn.com.ucloud.com.cn
 pulleymarketing.com
 pullfolio.com
 pullishy.ca

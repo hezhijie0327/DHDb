@@ -12514,7 +12514,6 @@ bd10j05p.sched.sma.tdnsv5.com
 bd2-china.xsfaya.com
 bd2.52che.com
 bd2.dopa.com
-bd2.idgdmgroup.com.cn
 bd2.jobui.com
 bd2.pipaw.com
 bd2.zuimeitianqi.com
@@ -40018,6 +40017,7 @@ jzts.zs-hospital.sh.cn
 jztsjx.com
 jztvxmt.com
 jztylxx.com
+jzvip.cc
 jzwcom.com
 jzxs.com
 jzxue.com
@@ -42863,7 +42863,6 @@ linux.dog
 linux.zone
 linux265.com
 linux5.net
-linuxacme.icu
 linuxba.com
 linuxbaike.com
 linuxbaodian.com

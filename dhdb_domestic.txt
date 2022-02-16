@@ -10683,6 +10683,7 @@ appdownload.mail.10086.cn
 appdownload.youku.com
 appdriver.cn
 appdriver.com.cn
+appdump.nie.netease.com
 appeasou.com
 appengine.wmpvp.com
 apperr.log.mgtv.com
@@ -40276,7 +40277,6 @@ kansdk.com
 kanseen.com
 kanshangjie.com
 kanshu.com
-kanshu8.net
 kanshuhai.com
 kanshuwangzhan.com
 kantao.net

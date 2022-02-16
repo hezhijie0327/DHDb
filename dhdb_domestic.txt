@@ -11213,7 +11213,6 @@ atoken.m.taobao.com
 atom-log.3.cn
 atomic-art.com
 atomicfile.cn
-atool.org
 atool9.com
 atoolbox.net
 atop.fun
@@ -33557,7 +33556,6 @@ httpdns.meituan.com
 httpdns.n.netease.com
 httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
-httpdns.push.oppomobile.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
 httpsdns.baidu.com

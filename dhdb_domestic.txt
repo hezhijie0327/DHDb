@@ -36846,7 +36846,6 @@ ionic.wang
 ionichina.com
 ionutvmi.gallerycdn.azure.cn
 iopenhec.com
-ioperat.com
 ios-dc.51y5.net
 ios-informationplatform.wps.cn
 ios.426g.com
@@ -45112,6 +45111,7 @@ mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
 mapi.m.jd.com
+mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
 mapi.vip.com
@@ -51483,7 +51483,6 @@ photo.tmrmixer.cn
 photo.weibo.com
 photo.wondercv.com
 photo.ybaobei.cn
-photo.yxslt.cn
 photo0086.com
 photo3050.com
 photoartiz.com

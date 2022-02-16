@@ -1321,7 +1321,6 @@
 125a.net
 125attitude.com
 125mx.com
-125uu.com
 126.159.251.49.zz.countries.nerd.dk
 126.etowns.org
 126.flnet.org
@@ -3739,6 +3738,7 @@
 3.courier-push-apple.com.akadns.net
 3.courier2-push-apple.com.akadns.net
 3.cr.rs
+3.pool.ntp.org
 3.szcjm.com
 3.tlu.dl.delivery.mp.microsoft.com
 30-courier.push.apple.com
@@ -52154,6 +52154,7 @@ e83137.dscb.akamaiedge.net
 e8318.dsca.akamaiedge.net
 e834.d.akamaiedge.net
 e8351.com
+e8370.com
 e8374.dsce1.akamaiedge.net
 e8388.com
 e8397.a.akamaiedge.net
@@ -63193,6 +63194,7 @@ fun702.com
 fun712.com
 fun727.com
 fun737.com
+fun7733.com
 fun780.com
 fun8011.com
 fun809.com
@@ -108339,6 +108341,7 @@ mx981.com
 mxapis.com
 mxauevhape.xyz
 mxbpointcodes.com
+mxc87.org
 mxcdn.net
 mxcdn1.now.sh
 mxcdn2.now.sh

@@ -18344,7 +18344,6 @@ cmz2.stm65i8.com
 cmzd.com
 cmzj.net
 cn-0001.cn-msedge.net
-cn-3drp.com
 cn-ahwh-dx-bcache-01.bilivideo.com
 cn-ahwh-dx-bcache-02.bilivideo.com
 cn-ahwh-dx-bcache-03.bilivideo.com
@@ -62100,6 +62099,7 @@ svinsight.com
 svip.wxiansen.cn
 svip15.com
 svipas.gallerycdn.azure.cn
+svipduihuan.com
 svjxuba.cn
 svlik.com
 svn999.com

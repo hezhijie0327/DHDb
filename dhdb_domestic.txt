@@ -3916,6 +3916,7 @@
 51hvac.com
 51hwzy.com
 51ias.com
+51idc.com
 51iec.com
 51ielts.com
 51ifind.com
@@ -19195,6 +19196,7 @@ commonapi.ai.xiaomi.com
 commonapi.ztsafe.com
 commonapi.ztsafe.com.w.alikunlun.com
 commoncdn.yangkeduo.com
+commons.moegirl.org.cn
 commons.moegirl.org.cn.dsa.dnsv1.com
 communicatte.com
 community.api.ptqy.gitv.tv

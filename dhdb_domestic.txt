@@ -10159,7 +10159,6 @@ api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -15358,7 +15357,6 @@ cchfound.org
 cchicc.com
 cchorse.com
 cchtnet.com
-ccian.com
 cciatv.com
 ccic.com
 ccic2.com

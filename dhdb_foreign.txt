@@ -9040,7 +9040,6 @@ a-ups-presence8-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presence9-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presence9-prod-azsc.eastus.cloudapp.azure.com
 a-ups-presence9-prod-azsc.westus2.cloudapp.azure.com
-a-ups-presencecore12-prod-azsc.centralus.cloudapp.azure.com
 a-usw.1rx.io
 a.123porner.com
 a.198banjia.com
@@ -20119,6 +20118,7 @@ api1.123-games.net.daraz.com
 api1.origin.com
 api1.sg888.net
 api16-access-sg.pangle.io
+api2.1point3acres.com
 api2.amplitude.com
 api2.boclinkads.com
 api2.branch.io
@@ -36745,6 +36745,7 @@ chopgunsticker.com
 choplivelychat.com
 chopstick16.com
 chordboard.com
+chordeez.net
 chordscenter.net
 chosensoothespeechless.com
 chosun.com
@@ -48939,7 +48940,6 @@ dl.benefits.express-scripts.com
 dl.box.net
 dl.browsermine.com
 dl.crazyporn.xxx
-dl.delivery.mp.microsoft.com
 dl.dell.com
 dl.devmate.com
 dl.discordapp.net
@@ -87243,6 +87243,7 @@ jdhq188.cn
 jdi5.com
 jdjcc.org
 jdjjegellowd.duckdns.org
+jdkic.com
 jdlcg.cn
 jdlg.net
 jdnpdn.johnnyseeds.com
@@ -125146,7 +125147,6 @@ prp11ahda.s3.amazonaws.com
 prpbns.com
 prpbnsp.com
 prpbnt.com
-prpedjlp.com
 prpops.com
 prpopss.com
 prprcloud.com

@@ -4604,6 +4604,7 @@ a-ups-presencecore1-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore10-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore11-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore11-prod-azsc.westus2.cloudapp.azure.com
+a-ups-presencecore12-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore12-prod-azsc.westus2.cloudapp.azure.com
 a-ups-presencecore13-prod-azsc.centralus.cloudapp.azure.com
 a-ups-presencecore13-prod-azsc.westus2.cloudapp.azure.com
@@ -14631,7 +14632,6 @@ choorgiw.net
 chooseyour26.live
 choozalady.pw
 chopchop.wtf
-chordeez.net
 chormnet3.com
 chosa-kai.jp
 chotee.com
@@ -32268,7 +32268,6 @@ jdiy.club
 jdjingmai.com
 jdjrdns.com
 jdjys.com
-jdkic.com
 jdlhg.com
 jdlingyu.moe
 jdmbmzpwapm.danaher.org
@@ -46124,6 +46123,7 @@ proy.xyz
 proyectoq.cl
 prozapas.dn.ua
 prozz.net
+prpedjlp.com
 prs188188.com
 prsrjdr.ru
 prtgvipnfzqnsq.localdomain
@@ -48712,7 +48712,6 @@ rrsdl.com
 rrsub.com
 rrsub.net
 rruu.com
-rrxh5.cc
 rryqp.cc
 rs.haohaowan8.com
 rs.qinsashipin.com

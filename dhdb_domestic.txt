@@ -25781,6 +25781,7 @@ ent.163.com
 ent.china.com
 ent.sina.com.cn
 ent.youku.com
+ent1.12584.cn
 ent1.qunchua.cn
 ent1.qunchua.com
 ent120.com
@@ -39852,6 +39853,7 @@ jxold.com
 jxpta.com
 jxpxzxf.cn
 jxqcw.com
+jxrjzx.com
 jxrsrc.com
 jxrtv.com
 jxrtvu.com
@@ -49956,7 +49958,6 @@ oraycn.com
 orayer.com
 orayimg.com
 orays.co
-orbit.jd.com
 orbit.nfcos.cn
 orbitmes.com
 orcadt.com

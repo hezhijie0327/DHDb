@@ -10661,7 +10661,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -13088,7 +13087,6 @@ bigfun.cn
 bigfunapp.cn
 biggerlens.com
 biggeryun.com
-biggsai.com
 bigherdsman.com
 bightbc.com
 bigjpg.com
@@ -16085,7 +16083,6 @@ ceshigu.com
 ceshiren.com
 cespc.com
 cesses.org
-cesuyun.cn
 cetc36.com
 cetccloud.com
 cetcio.com
@@ -36536,7 +36533,6 @@ infineon-autoeco.com
 infineon-power-rf.org
 infinitescript.com
 infinityarts.net
-infinitynewtab.com
 info.3g.qq.com
 info.90bola.cc
 info.90bola.top

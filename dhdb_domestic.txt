@@ -10171,6 +10171,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -42978,7 +42979,6 @@ liuxiaoer.com
 liuxiaofan.com
 liuxiaotong.com
 liuxing.com
-liuxingyul.cn
 liuxuchao.com
 liuxue.com
 liuxue114.com
@@ -43545,7 +43545,6 @@ longanlaw.com
 longau.com
 longbaobook.com
 longcai.com
-longchangziben.com
 longcheer.com
 longchen80.com
 longchengtg.com

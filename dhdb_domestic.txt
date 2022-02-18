@@ -10212,7 +10212,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -10660,6 +10659,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -14348,7 +14348,6 @@ bway83.com
 bway886.com
 bway889.com
 bway995.com
-bway996.com
 bwbot.org
 bwchinese.com
 bwda.net
@@ -29233,6 +29232,7 @@ ggw.gusuwang.com
 ggw.watertu.com
 ggwan.com
 ggx.cmvideo.cn
+ggx10.miguvideo.com
 ggxt.net
 ggxxe.com
 ggzf.sh.gov.cn

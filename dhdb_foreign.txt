@@ -19880,6 +19880,7 @@ api.fusepowered.com
 api.fw.tv
 api.gaijinent.com
 api.gameofwhales.com
+api.geetest.com
 api.getadx.com
 api.getter-priv.net.zooplus.de
 api.gfe.nvidia.com
@@ -48941,6 +48942,7 @@ dl.benefits.express-scripts.com
 dl.box.net
 dl.browsermine.com
 dl.crazyporn.xxx
+dl.delivery.mp.microsoft.com
 dl.dell.com
 dl.devmate.com
 dl.discordapp.net
@@ -95482,6 +95484,7 @@ lixuanbaojie.com
 liyangbit.com
 liyangliang.me
 liyaochao.com
+liyelaowu.cn
 liyue.name
 liyuwiki.com
 lizads.com
@@ -123482,7 +123485,6 @@ ppssav.formal-message.com
 ppstream.net
 ppstv.net
 pptchecker.club
-pptp-hk-2.expressnetwork.net
 pptschool.com
 pptte.com
 pptxtv.site
@@ -126165,7 +126167,6 @@ pwwysydh.com
 px-cloud.net
 px-intl.ucweb.com
 px.adhigh.net
-px.ads.linkedin.com
 px.britepool.com
 px.cdn.creative.medialytics.com
 px.derstandard.at
@@ -126876,6 +126877,7 @@ qlbiyu.fratemateclub.com
 qlcoder.com
 qldkru.whitestuff.com
 qlgpy.com
+qling.com
 qlitics.com
 qljiop.allabout.co.jp
 qlldvi.motoscout24.ch

@@ -4209,7 +4209,6 @@
 521logo.com
 521qw.com
 521ro.com
-521tieba.com
 521up.com
 5221.net
 523touzi.com
@@ -21315,6 +21314,7 @@ data.biancheng.net.w.kunlunno.com
 data.bilibili.com
 data.bilicdn2.com
 data.bilivideo.com
+data.cdeledu.com
 data.chinaz.com
 data.choujue.net
 data.eastmoney.com
@@ -33534,7 +33534,6 @@ httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
 httpdns.ocloud.heytapmobi.com
-httpdns.push.heytapmobi.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
 httpsdns.baidu.com

@@ -7692,6 +7692,7 @@ accounts.firefox.com.cn
 accounts.google.cn
 accounts.nvgs.nvidia.cn
 accounts.qq.com
+accounts.tantanapp.com
 accscdn.cp12.ott.cibntv.net
 accscdn.m.taobao.com
 accsh.org
@@ -15163,6 +15164,7 @@ casctcp.com
 case91.com
 casece.org
 casestudy.html5.qq.com
+cashier.alipay.com
 cashier.ele.me
 cashier.youzan.com
 cashierrz41.alipay.com
@@ -16823,7 +16825,6 @@ chinabym.com
 chinabyte.com
 chinabzp.com
 chinac.com
-chinac3.com
 chinacace.org
 chinacache.cedexis.com
 chinacache.com
@@ -29182,7 +29183,6 @@ gg.miued.com
 gg.qucaigg.com
 gg.sonhoo.com
 gg.stargame.com
-gg.txtbbs.com
 gg.uuu9.com
 gg.vidown.cn
 gg.xywy.com
@@ -33783,6 +33783,7 @@ huayoumengze.com
 huayoutianyu.com
 huayuanlcd.com
 huayuannongji.com
+huayuebaobao.com
 huayun.com
 huayunshuzi.com
 huayunyy.com
@@ -38184,6 +38185,7 @@ jianlixiu.com
 jianloubao.com
 jianmei123.com
 jianniang.com
+jianpage.com
 jianpaimeiye.com
 jianpu99.net
 jianpuw.com
@@ -49957,6 +49959,7 @@ oraycn.com
 orayer.com
 orayimg.com
 orays.co
+orbit.jd.com
 orbit.nfcos.cn
 orbitmes.com
 orcadt.com

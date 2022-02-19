@@ -31975,7 +31975,6 @@ hdn.rcs.chinamobile.com
 hdns-event.dmall.com
 hdns.ksyun.com
 hdp.sfcdn.org
-hdp.u01.live.siqiangame.com
 hdpyqa.com
 hdpyqc.com
 hdpyqd.com
@@ -48467,6 +48466,7 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
+nex.163.com
 nexiao.com
 next.api.aliyun.com
 next.itellyou.cn

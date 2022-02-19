@@ -10821,6 +10821,7 @@ appstore.ptmi.gitv.tv
 appstoreisvpic.alipayobjects.com
 appstoreisvpic.alipayobjects.com.danuoyi.tbcache.com
 appsupport.qq.com
+appsupport.stargame.com
 apptao.com
 apptrack.cn
 apptrailers.itunes.apple.com
@@ -46599,7 +46600,6 @@ mm831.com
 mm957.com
 mma.admaster.com.cn
 mma.qq.com
-mmae.qtmojo.com
 mmall.com
 mmapp.qpic.cn
 mmaqa.com
@@ -47811,6 +47811,7 @@ mzboss.com
 mzeyes.com
 mzfxw.com
 mzgtuan.com
+mzh.moegirl.org.cn
 mzh.ren
 mzhb.com
 mzhfm.com

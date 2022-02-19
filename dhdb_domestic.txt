@@ -683,7 +683,6 @@
 1.tecbbs.com
 1.tulaoshi.com
 1.uc129.com
-1.ufc123.com
 1.ufc7.com
 1.up.qingdaonews.com
 1.url.cn
@@ -60247,6 +60246,7 @@ smsp.mbs.boc.cn
 smsx.org
 smsyun.cc
 smt-dip.com
+smt-job.com
 smt.admaster.com.cn
 smtchinamag.com
 smtcl.com

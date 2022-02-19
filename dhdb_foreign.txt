@@ -19832,7 +19832,6 @@ api.cloudmobi.net
 api.codacy.com
 api.codeclimate.com
 api.coinerra.com
-api.comm.miui.com
 api.company-target.com
 api.container.net.zooplus.de
 api.cookielaw-script.it
@@ -74914,6 +74913,7 @@ haokanzhan.com
 haokongbu1.com
 haoleio.com
 haolew.com
+haolezen.com
 haoli747.com
 haoli777.com
 haoli777.net
@@ -128046,7 +128046,6 @@ r2---sn-a5mlrn7r.googlevideo.com
 r2---sn-a5mlrn7s.googlevideo.com
 r2---sn-a5mlrn7s.gvt1.com
 r2---sn-a5mlrn7y.googlevideo.com
-r2---sn-a5mlrn7z.googlevideo.com
 r2---sn-a5mlrnek.googlevideo.com
 r2---sn-a5mlrnel.googlevideo.com
 r2---sn-a5mlrnes.googlevideo.com
@@ -129686,7 +129685,6 @@ redgifs.com
 redgti.com.ar
 redhai.com
 redhat.com
-redhatbox.xyz
 redherring.com
 redherring.ngadcenter.net
 redhotlabs.com
@@ -146080,6 +146078,7 @@ star-tex.ru
 star-village-ent.com
 star.c10r.facebook.com
 star.net.zooplus.de
+starbaby.cc
 starbaby.com
 starbanner.com
 starblog.org

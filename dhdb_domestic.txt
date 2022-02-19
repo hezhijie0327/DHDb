@@ -1817,6 +1817,7 @@
 195663.com
 1956917.s2txipv6.cdntip.com
 1956917.sched.skalego-dk.tdnsv5.com
+195855.com
 1965288.s1txipv6.cdntip.com
 19687.com
 1978534.p23.tc.cdntip.com
@@ -61169,7 +61170,6 @@ stat.img-space.com
 stat.it168.com
 stat.iteye.com
 stat.jc001.cn
-stat.juyoufan.net
 stat.le.com
 stat.letv.com
 stat.lianmeng.360.cn

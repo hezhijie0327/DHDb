@@ -10563,7 +10563,6 @@ ab.adobe-identity.com
 ab.advertiserurl.com
 ab.co
 ab.fanatical.com
-ab11s.com
 ab126.com
 ab13.mktossl.com
 ab18a856-dnsotls-ds.metric.gstatic.com
@@ -30135,7 +30134,6 @@ boruiwang.org
 borumis.com
 bos.ru
 bosa.com
-bosatria.cn
 bosco.foreignpolicy.com
 bosco.ru
 boscooutlet.ru
@@ -38958,6 +38956,7 @@ cnhot.cc
 cnhowotruck.com
 cnhv.co
 cnhvacrnet.com
+cniaas.com
 cnidea.net
 cnihmqxc.com
 cnil.links-lab.fr
@@ -64360,6 +64359,7 @@ gaoming.net
 gaomingbo.com
 gaomon.net
 gaonengfun.com
+gaoqing.fm
 gaoqing.la
 gaosboy.com
 gaoshou.me
@@ -91231,7 +91231,6 @@ koeicn.com
 koeki-net.com
 koeki.com
 koerber-pharma.com
-kofcq5.cn
 koffiemarkt.be
 koffievoordeel.nl
 kofpag.com
@@ -94433,7 +94432,6 @@ licensing.mp.microsoft.com
 licensinginsights.ascap.com
 licentchamom.club
 liceosantaclara.cl
-licertle.co
 lichengdai.com
 lichensafe.com
 lichtmiete.de
@@ -123208,7 +123206,6 @@ portal.shadowsocks.to
 portal.slipstreaminc.org
 portal.t.net.zooplus.it
 portalail.net.zooplus.es
-portalbenefit.com
 portalcafecomnoticias.com.br
 portalcdn.net.zooplus.it
 portalcloud.net.daraz.com

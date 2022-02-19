@@ -21833,6 +21833,7 @@ asia.monerise.com
 asia.nikkei.com
 asia.odcsm1.live.com.akadns.net
 asia.playstation.com
+asia.pool.ntp.org
 asia.portal.microsoftonline.akadns.net
 asia.public.swag.live
 asia.roaming1.live.com.akadns.net
@@ -52944,6 +52945,7 @@ ebury.com
 ebusinesssr.carte-gr.total.fr
 ebuvtk-dnsotls-ds.metric.gstatic.com
 ebuy31.com
+ebuysolar.com
 ebwupu.superbrightleds.com
 ebxirc.taylorstitch.com
 ebz.io
@@ -58379,6 +58381,7 @@ fangjial.com
 fangjslc.com
 fangkuaitang.com
 fanglizhi.info
+fangong.forums-free.com
 fangongheike.com
 fangshanzi.com
 fangsjames.com
@@ -85210,6 +85213,7 @@ ip.azwus2-client-s.msnmessenger.msn.com.akadns.net
 ip.cliphunter.com
 ip.fm
 ip.goguardian.com
+ip.hivps.xyz
 ip.istatmenus.app
 ip.pichunter.com
 ip.ro
@@ -97586,6 +97590,7 @@ lyunsd.cn
 lyv.com
 lyvnee.com
 lyxfra.shopee.com.my
+lyxuexin.com
 lyylua.schweitzerlinen.com
 lyyourc.com
 lyypsy.unisportstore.se
@@ -130476,7 +130481,6 @@ repostone.home.blog
 repovision.net.daraz.com
 repowinter.net.daraz.com
 reprage.com
-reprak.com
 reprenees.club
 representativeray.com
 represented.cn
@@ -137428,7 +137432,6 @@ sex520.net
 sex8.cc
 sex8.com
 sex8.net
-sex888.biz
 sexad.net
 sexandsubmission.com
 sexapp.me

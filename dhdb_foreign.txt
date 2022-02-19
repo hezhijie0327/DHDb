@@ -2567,6 +2567,7 @@
 2.208.188.61.zz.countries.nerd.dk
 2.4.je
 2.adam.com
+2.android.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -17120,6 +17121,7 @@ algistorder.com
 algo.at
 algo.empirehempmarket.com
 algoepico.net
+algogator.com
 algolia.com
 algolia.io
 algolia.net
@@ -113771,7 +113773,6 @@ nxxiyou.com
 nxyoute.com
 nxypz.com
 nxyuanjing.com
-nxyycsyy.com
 ny-onlinestore.com
 ny.5.p2l.info
 ny.stgloballink.com
@@ -123338,7 +123339,6 @@ postupset.com
 postut.cn
 postwarvampire.com
 posudamart.ru
-pot.biqumo.com
 potala.cz
 potalapost.com
 potato.im
@@ -132341,6 +132341,7 @@ rs.gwallet.com
 rs.mail.ru
 rs.smc.tf
 rs0.co.uk
+rs05.com
 rsa.com
 rsabroker.ca
 rsalcau.com
@@ -137271,7 +137272,6 @@ serviceone.com
 serviceos.comcast.net
 serviceos.xfinity.com
 servicer.adskeeper.co.uk
-servicer.marketgid.com
 servicer.mgid.com
 services-sncf.com
 services.aberdeen.com

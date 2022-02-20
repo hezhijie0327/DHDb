@@ -2040,7 +2040,6 @@
 2.arpun.com
 2.cn.pool.ntp.org
 2.haoxue360.com
-2.nanrenwo.net
 2.pic.pc6.com
 2.up.qingdaonews.com
 2.zol-img.com.cn
@@ -45129,7 +45128,6 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
-mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn

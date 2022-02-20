@@ -2585,6 +2585,7 @@
 2.marchetta.be
 2.net.zooplus.de
 2.openwrt.pool.ntp.org
+2.pool.ntp.org
 2.realtime.services.box.net
 2.saxenhammer-co.com
 2.speedknow.co
@@ -13033,7 +13034,6 @@ admanmedia.com
 admantx.com
 admarket.network
 admarketing.yahoo.net
-admarketplace.net
 admarvel.com
 admarvel.s3.amazonaws.com
 admarvel.top
@@ -18175,7 +18175,6 @@ amp.dev
 amp.rd.linksynergy.com
 amp.services
 ampcid.google.com
-ampclicks.com
 ampconfigprod.blob.core.windows.net
 ampcr.io
 ampdaisbras.com
@@ -61258,7 +61257,6 @@ forgot.her.name
 forharriet.com
 forheavensake.org
 forjs.net
-forkjork12.com
 forlinx.net
 forloveandlemons.com
 forlumineoner.com

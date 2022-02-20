@@ -10682,6 +10682,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -32713,7 +32714,6 @@ hkance.com
 hkance.xyz
 hkbchina.com
 hkcts.com
-hkeig.com
 hkfc.hk
 hkfljt.com
 hkgcr.com
@@ -59015,6 +59015,7 @@ shijiaok.com
 shijiazhuang.baixing.com
 shijiazhuang4573420.51sole.com
 shijibenteng.com
+shijicloud.com
 shijie2.com
 shijiebang.com
 shijiebao.vip

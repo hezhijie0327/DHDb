@@ -11251,7 +11251,6 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
-au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com
@@ -45129,6 +45128,7 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
+mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
@@ -46391,6 +46391,7 @@ miquapp.com
 mir4399.com
 miraclevision.net
 mirgaga.net
+mirmzhy.com
 mirror.iscas.ac.cn
 mirror.sjtu.edu.cn
 mirror.tuna.tsinghua.edu.cn

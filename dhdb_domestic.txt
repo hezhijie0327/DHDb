@@ -8566,7 +8566,6 @@ agentchannel.sa7.n.shifen.com
 agentchannel.sa8.n.shifen.com
 aggretrip.map.qq.com
 aggretrip.map.qq.com.sched.px.tdnsv6.com
-aghcdn.com
 agile-china.com
 agileex.com
 agilehw.online
@@ -10232,6 +10231,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -48212,7 +48212,6 @@ nesc.cn
 nessau.dmall.com
 nestgene.com
 nestlechinese.com
-nesxc.com
 net-add.com
 net-swift.com
 net.china.cn
@@ -48829,6 +48828,7 @@ nmwbank.cn
 nmweidian.com
 nmykf.mobi
 nmyp.ltd
+nmzc02.com
 nmzh.net
 nn.com
 nncc626.com
@@ -50097,7 +50097,6 @@ oss.console.aliyun.com
 oss.haomaishou.com
 oss.link
 oss.mail.qq.com
-oss.mzyyun.com
 oss.oact.net
 oss.so
 oss.suning.com

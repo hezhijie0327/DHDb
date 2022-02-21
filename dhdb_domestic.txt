@@ -654,6 +654,7 @@
 1.800400.net
 1.92caijing.com
 1.aili.com
+1.asia.pool.ntp.org
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
@@ -1014,6 +1015,7 @@
 1206397.sched.v1.tdnsv5.com
 120ask.com
 120askimages.com
+120btc.com
 120hpyy.com
 120kaoshi.com
 120kid.com
@@ -36557,7 +36559,6 @@ inewoffice.com
 inewpower.com
 inews.gtimg.com
 inews.gtimg.com.sched.px-dk.tdnsv6.com
-inewya.com
 inf-prdapi.wesure.cn
 inf.ldmnq.com
 inf.vip.meituan.com

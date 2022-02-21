@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0.cn.pool.ntp.org
-0.openwrt.pool.ntp.org
 0.pic.pc6.com
 0.up.qingdaonews.com
 00.auto.sohu.com
@@ -31189,6 +31188,7 @@ haitutech.com
 haiwailoushi.com
 haiwaimoney.com
 haiwainet.cn
+haiwaituiguang.com
 haiwaiyou.com
 haiwaiyoujia.com
 haiwanxinxi.com
@@ -38048,6 +38048,7 @@ jhelper.shanghai.gov.cn
 jhforever.com
 jhgzn.net
 jhhkl.25ku.com
+jhlengku.com
 jhm2012.com
 jhnsh.com
 jhnsyh.com

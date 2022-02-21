@@ -10184,7 +10184,6 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
-api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -36204,6 +36203,7 @@ img11.18183.com
 img11.360buyimg.com
 img11.360buyimg.com.gslb.qianxun.com
 img12.360buyimg.com
+img13.360buyimg.com
 img14.360buyimg.com
 img14.poco.cn
 img16.diyifanwen.com
@@ -50001,6 +50001,7 @@ oraycn.com
 orayer.com
 orayimg.com
 orays.co
+orbit.jd.com
 orbit.nfcos.cn
 orbitmes.com
 orcadt.com

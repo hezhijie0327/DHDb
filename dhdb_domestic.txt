@@ -1,6 +1,7 @@
 0-100.com
 0-6.com
 0.cn.pool.ntp.org
+0.openwrt.pool.ntp.org
 0.pic.pc6.com
 0.up.qingdaonews.com
 00.auto.sohu.com
@@ -36203,6 +36204,7 @@ img11.18183.com
 img11.360buyimg.com
 img11.360buyimg.com.gslb.qianxun.com
 img12.360buyimg.com
+img13.360buyimg.com
 img14.360buyimg.com
 img14.poco.cn
 img16.diyifanwen.com
@@ -52199,7 +52201,6 @@ politics.people.com.cn
 poluoluo.com
 polva.com
 polycn.com
-polycom-china.com
 polycom-jl.com
 polyfill.alicdn.com
 polyfill.alicdn.com.danuoyi.tbcache.com

@@ -1201,6 +1201,7 @@
 2.kaktakkk.ru
 2.mobixs.cn
 2.ns32.us
+2.openwrt.pool.ntp.org
 2.rengshu.com
 2.track.ga
 2.tracker.eu.org
@@ -10461,7 +10462,6 @@ bbdm.051661.com
 bbeeejafhacbigaeih.ru
 bbeljxm2dvwnfib.ru
 bbes.xyz
-bbestmall.com
 bbfabeagadcfbjfbgh.ru
 bbfggzd3duxpsmo.ru
 bbgomsvyyacndcf.xyz
@@ -29276,6 +29276,7 @@ hongmeimei.com
 hongmingpeixun.com
 hongruikt.com
 hongshi33.top
+hongwenge.com
 hongxiang666.com
 hongxinhuaxue.com
 hongyangbg.com
@@ -34532,6 +34533,7 @@ kohako.com
 kohq.rhy.dtdns.net
 kohx3.ru
 koijwsixu.com
+koiper.com
 kojfsbehrvdui.xyz
 kokkk2.com
 koko-ko.com
@@ -47691,6 +47693,7 @@ r5---sn-a5meknes.googlevideo.com
 r5---sn-n4v7knl6.googlevideo.com
 r5---sn-n4v7knlk.googlevideo.com
 r5---sn-n4v7knls.googlevideo.com
+r5---sn-n4v7sn7s.googlevideo.com
 r5---sn-o097znl6.googlevideo.com
 r5---sn-o097znld.googlevideo.com
 r5---sn-o097znlr.googlevideo.com
@@ -49409,6 +49412,7 @@ s808s.com
 s85n4btydl.online
 s8forum.com
 s8n.j990981.ru
+s900045.com
 s936.com
 s9w.cc
 s9wp1.cn
@@ -50615,7 +50619,6 @@ shiveringsail.com
 shiwan.dl.gxpan.cn
 shixi.yjbys.com.w.kunlunle.com
 shixiaofei864.cn
-shixibiaozhi.com
 shixiong.xyz
 shixunjs.th21333.com
 shiyanbar.net

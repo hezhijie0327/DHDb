@@ -2586,7 +2586,6 @@
 2.letvlive.com
 2.marchetta.be
 2.net.zooplus.de
-2.openwrt.pool.ntp.org
 2.pool.ntp.org
 2.realtime.services.box.net
 2.saxenhammer-co.com
@@ -25375,6 +25374,7 @@ bbdzj.com
 bbei7.com
 bbelements.com
 bbercn.com
+bbestmall.com
 bbg.gov
 bbgdirect.com
 bbgevent.com
@@ -77623,7 +77623,6 @@ hongtinnhanh.com
 hongtongad.com
 hongtu.me
 hongtuwang.com
-hongwenge.com
 hongxinbao.com
 hongxinghai.com
 hongyaxuan.com
@@ -91244,7 +91243,6 @@ koijp.com
 koimplishing.club
 koindut.com
 koinly.io
-koiper.com
 koji-analytics.com
 kojiht.partsdirect.ru
 kojima.net
@@ -128304,7 +128302,6 @@ r5---sn-i3belnls.googlevideo.com
 r5---sn-i5heen7l.googlevideo.com
 r5---sn-n4v7sn76.googlevideo.com
 r5---sn-n4v7sn7l.googlevideo.com
-r5---sn-n4v7sn7s.googlevideo.com
 r5---sn-n4v7sn7y.googlevideo.com
 r5---sn-n4v7sn7z.googlevideo.com
 r5---sn-n4v7sne7.googlevideo.com
@@ -133532,7 +133529,6 @@ s8j.com
 s8t.teads.tv
 s8tu.com
 s8xs.com
-s900045.com
 s9151.com
 s9523.com
 s955s.com
@@ -138300,6 +138296,7 @@ shitpassion.com
 shittyurl.org
 shiverconventwilful.com
 shixiao.org
+shixibiaozhi.com
 shixin.com
 shixiong.name
 shixudong.ml

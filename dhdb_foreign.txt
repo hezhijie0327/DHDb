@@ -37594,7 +37594,6 @@ cldlr.com
 cldmail.ru
 cldom.com
 cldr.unicode.org
-cldrck.com
 cldup.com
 cleafs.com
 clean-mobilephone.com
@@ -49398,6 +49397,7 @@ dnsbl.test.nbcume.hb.omtrdc.net
 dnsbl.test.newimagitasinc.hb.omtrdc.net
 dnsbl.test.nsm.tr.netsalesmedia.pl
 dnsbl.test.wbtrkk.teufel.de
+dnsclocknow.com
 dnscrypt.org
 dnscto.net
 dnsdelegation.io
@@ -96935,7 +96935,6 @@ lsj1080.com
 lsjacg.com
 lsjczj.com
 lsjne.com
-lsjtfinance.com
 lskwsx.m.zwdu.com
 lslmetrics.djlmgdigital.com
 lsm.org
@@ -129725,7 +129724,6 @@ redirectconnection.net
 redirectcsr21.net.daraz.com
 redirecteur.net
 redirectgate.com
-redirecting-url.com
 redirecting.ws
 redirection-url.net
 redirectit.net
@@ -142636,6 +142634,7 @@ smrtgs.com
 smrtlnks.com
 smrturl.co
 sms-magic.com
+sms-sending.net
 sms-xxx.com
 sms.gestion.cetelem.fr
 sms.net.zooplus.de

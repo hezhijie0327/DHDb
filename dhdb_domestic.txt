@@ -7622,6 +7622,7 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
+abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abto.cc
@@ -18386,7 +18387,6 @@ cn-hbcd2-cu-v-08.bilivideo.com
 cn-hbcd2-cu-v-09.bilivideo.com
 cn-hbcd2-cu-v-10.bilivideo.com
 cn-hbcd2-cu-v-11.bilivideo.com
-cn-hbcd2-cu-v-13.bilivideo.com
 cn-healthcare.com
 cn-http2.cootek.com
 cn-jsnt-dx-live-01.bilivideo.com
@@ -54583,6 +54583,7 @@ qplus1.idqqimg.com.sched.px-dk.tdnsv6.com
 qpmztk.cn
 qpn3e28v.v1d.szbdyd.com
 qpn3lxxc.v1d.szbdyd.com
+qpokok.com
 qpsearch.jd.com.gslb.qianxun.com
 qpushapi.innotechx.com
 qpx.com

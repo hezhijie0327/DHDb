@@ -21602,6 +21602,7 @@ dbzgia.com
 dc-cn.com
 dc-eventlog.missfresh.cn
 dc.3.cn
+dc.ads.linkedin.com
 dc.api.my7v.com
 dc.chillyroom.com
 dc.console.aliyun.com
@@ -50994,6 +50995,7 @@ passport.dns.iqiyi.com
 passport.douyu.com
 passport.douyu.com.w.cdngslb.com
 passport.iqiyi.com
+passport.jd.com
 passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
@@ -51281,6 +51283,7 @@ pdfzj.com
 pdgzf.com
 pdidc.com
 pdim.gs
+pdkuai.com
 pdkzyy.cn
 pdm.kkapp.com
 pdm.so

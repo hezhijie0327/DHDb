@@ -14616,7 +14616,6 @@ c.slsidvx.cn
 c.ssp.qq.com
 c.sy123888.com
 c.tdm.qq.com
-c.ti863.cn
 c.tieba.baidu.com
 c.tvsou.com
 c.uaa.iqiyi.com
@@ -23572,6 +23571,7 @@ download.visualstudio.microsoft.com
 download.vzuu.com
 download.wan.sohu.com
 download.wegame.qq.com
+download.windowsupdate.com
 download.xmcdn.com
 download.xp666.com
 download.yuelun.com
@@ -25014,6 +25014,7 @@ easylink.io
 easylinkin.com
 easylinkin.net
 easylive.net
+easymks.com
 easymorse.com
 easynet.vip
 easynews.adsame.com

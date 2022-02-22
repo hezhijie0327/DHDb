@@ -96427,7 +96427,6 @@ log-collector.shopee.vn
 log-ird.outbrain.com
 log-nj.adaptv.advertising.com
 log-player.arte.tv
-log-sdk.ksapisrv.com
 log-sj-eq.adaptv.advertising.com
 log-sj.adaptv.advertising.com
 log-tb.sgsnssdk.com
@@ -117591,6 +117590,7 @@ osqa.com
 osqa.net
 oss.achirou.workers.dev
 oss.maxcdn.com
+oss.mzyyun.com
 oss.mzyyun.com.w.kunlunca.com
 osshydreigonan.com
 osskanger.com
@@ -123838,6 +123838,7 @@ portal.shadowsocks.se
 portal.shadowsocks.to
 portal.slipstreaminc.org
 portal.t.net.zooplus.it
+portal.xunyou.mobi
 portalail.net.zooplus.es
 portalcafecomnoticias.com.br
 portalcdn.net.zooplus.it
@@ -128737,7 +128738,6 @@ r2---sn-q4fl6ns6.googlevideo.com
 r2---sn-q4fl6nsl.googlevideo.com
 r2---sn-q4fl6nsr.googlevideo.com
 r2---sn-q4fl6nsy.googlevideo.com
-r2---sn-q4flrn7d.googlevideo.com
 r2---sn-q4flrn7r.googlevideo.com
 r2---sn-q4flrner.googlevideo.com
 r2---sn-q4flrney.googlevideo.com
@@ -151153,6 +151153,7 @@ syukatsulabo.jp
 syvlje.jcom.co.jp
 sywrenalts.com
 syx86.com
+syxchj.cn
 syxcn.com
 syxcwxur.com
 syxgsq.com.cn

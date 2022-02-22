@@ -6297,7 +6297,6 @@ ads.ft.com
 ads.gadget.ro
 ads.gamavirtual.com
 ads.gamblinghit.com
-ads.gamecopyworld.no
 ads.gameinformer.com
 ads.gamelink.com
 ads.gamershell.com
@@ -14633,6 +14632,7 @@ chinawms.cn
 chinaxchina.com
 chinaxiedu.cn
 chinaxingyin.com
+chinaxq.com
 chinayigou.com
 chinaymtz.com
 chinayouji.com
@@ -15140,6 +15140,7 @@ clickwith.bid
 clickwith.date
 clien.info
 cliennes.com
+client.aldtop.com
 client.openapi.hiwifi.com
 client.tenddata.com
 client.tv.uc.cn
@@ -18828,6 +18829,7 @@ dd29phatc5jr3.cloudfront.net
 dd5.dtdns.net
 dd57625.9cash.net
 dd57625.cq11.net
+dd77535fba.3901da0f4a.com
 dd789183642ae01d243244d7af31667c.jddebug.com
 dd9871.com
 ddaa-742e54-tencent-hongkong-liveperso.d1.teridioncloud.net
@@ -48414,6 +48416,7 @@ res.17zj.qq.com
 res.9z.qq.com
 res.a6.hjfile.cn
 res.adcome.cn
+res.bid.ljrtb.cn
 res.cocounion.com
 res.eqxiu.com
 res.haomaojin888.com

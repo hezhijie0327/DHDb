@@ -2585,6 +2585,7 @@
 2.4.je
 2.adam.com
 2.android.pool.ntp.org
+2.asia.pool.ntp.org
 2.atlasroofing.com
 2.au.download.windowsupdate.com
 2.biqle.ru
@@ -14047,6 +14048,7 @@ ads.fu8.life
 ads.fuckingmachines.com
 ads.game.net
 ads.gamecity.net
+ads.gamecopyworld.no
 ads.gamemeca.com
 ads.gamespyid.com
 ads.gamigo.de
@@ -46575,7 +46577,6 @@ dd6300.fun
 dd66778899.com
 dd699.net
 dd6zx4ibq538k.cloudfront.net
-dd77535fba.3901da0f4a.com
 dd8828.com
 dd935.net
 ddacn6pr5v0tl.cloudfront.net

@@ -7561,6 +7561,7 @@ abc.jia.com
 abc.jia.com.wswebcdn.com
 abc.kfyg.xyz
 abc.rwpt.top
+abc.xtyx918.com
 abc.yebaike.com
 abc.yjbys.com
 abc.zhiyaspa.com
@@ -22544,7 +22545,6 @@ dimg05.c-ctrip.com
 dimg05.c-ctrip.com.wscdns.com
 dimg06.c-ctrip.com
 dimg06.c-ctrip.com.wscdns.com
-dimg07.c-ctrip.com
 dimg07.c-ctrip.com.wscdns.com
 dimg08.c-ctrip.com
 dimg08.c-ctrip.com.wscdns.com
@@ -36868,6 +36868,7 @@ ios.bugly.qq.com
 ios.rqd.qq.com
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
+iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -46434,6 +46435,7 @@ mitangbao.com
 mitilove.com
 mittrchina.com
 mituir.xyz
+mituo.cn
 mitv.tracking.miui.com
 miued.com
 miui.com
@@ -57698,7 +57700,6 @@ sctvf.com
 scufida.com
 scujj.com
 scuvc.com
-scvxgm.cn
 scweixiao.com
 scwj.net
 scwlylqx.com

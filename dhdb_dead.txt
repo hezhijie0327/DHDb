@@ -1788,6 +1788,7 @@
 331491.com
 331493.com
 331494.com
+331495.com
 331497.com
 3320.net
 3323399.com
@@ -5095,7 +5096,6 @@ abc.if.qidian.com
 abc.pp.ru
 abc.ruiwen.com
 abc.tpd8.com
-abc.xtyx918.com
 abc.zuiairead.com
 abc.zvqbbj.cn
 abc033-dev.test-exacttarget.com
@@ -11713,7 +11713,6 @@ blogger-stars.org
 bloggerszshops.com
 bloggss.com
 blogherads.com
-blogiblogi.com
 blogisstore.com
 blogistar.org
 blogistories.com
@@ -14153,7 +14152,6 @@ cg-cdn.net
 cg-dialup.net
 cg-vipwebs.com
 cg.hotwp.net
-cg2017.com
 cg233.com
 cgaeo.com
 cgbbatterysw.com

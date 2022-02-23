@@ -18471,7 +18471,6 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -22095,7 +22094,6 @@ dgddh.xyz
 dgdxs.com
 dgg.net
 dggdf.com
-dgggs.com
 dggkj.com
 dggvip.net
 dghqmotor.com

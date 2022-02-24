@@ -10220,6 +10220,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -39453,7 +39454,6 @@ jsnx.net
 jsnxs.com
 jsocr.com
 json-json.com
-json.guoxinvc.com
 jsonatm.broker.tplay.qq.com
 jsonin.com
 jsososo.com
@@ -39864,7 +39864,6 @@ jxw5.weijinzhuanbb.com
 jxwz.net
 jxxdf.com
 jxxfzx.com
-jxxhdn.com
 jxxhsd.com
 jxxyqm.com
 jxyrzdh.com
@@ -41683,7 +41682,6 @@ lanrenzhaofang.com
 lanrenzhijia.com
 lanrenzhoumo.com
 lansedongli.com
-lanseshuba.com
 lanseyujie.com
 lanshanweb.com
 lanshiwan.cn

@@ -4605,6 +4605,7 @@
 58gush.com
 58house.com
 58hzb.com
+58img.com
 58insure.com
 58iwan.com
 58jb.com
@@ -21020,6 +21021,7 @@ daimg.com
 daishangqian.com
 daishujiankang.com
 daishutijian.com
+daiwoqu.com
 daixiaorui.com
 daiyanbao.com
 daiyanmama.com
@@ -24743,7 +24745,6 @@ e.bjmu.edu.cn
 e.bnc66.com
 e.boc.cn
 e.brtyhn.cn
-e.cdntlz.cn
 e.cn.miaozhen.com
 e.cnxmyb.cn
 e.dangdang.com
@@ -35727,6 +35728,7 @@ image3.ccb.com
 image3.mall.icbc.com.cn
 image3.mall.icbc.com.cn.wscdns.com
 image5.mall.icbc.com.cn.wscdns.com
+image6.mall.icbc.com.cn
 image6.mall.icbc.com.cn.wscdns.com
 image7.mall.icbc.com.cn.wscdns.com
 image8.mall.icbc.com.cn.wscdns.com
@@ -38598,6 +38600,7 @@ jinrongren.net
 jinrongwang.net
 jinrui-tech.com
 jins-cn.com
+jinse.com
 jinsebook.com
 jinsehuaqin.com
 jinshakemei.com

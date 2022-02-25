@@ -7913,6 +7913,7 @@ ad.de.doubleclick.net
 ad.dedecms.com
 ad.dev.360.cn
 ad.dongdong.madserving.com
+ad.doubanio.com
 ad.doubleclick.net
 ad.duomi.com
 ad.dzwindows.com
@@ -44014,7 +44015,6 @@ lvye.org
 lvyestudy.com
 lvyetong.com
 lvyidoor.com
-lvylv.cn
 lvyoubei.com
 lvyougl.com
 lvyouw.net

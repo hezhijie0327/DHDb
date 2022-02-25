@@ -11577,6 +11577,7 @@ b.smartvideo.youku.com
 b.tvsou.com
 b.unjs.com
 b.vlion.cn
+b.wxebgpj.cn
 b.xp0f4cj.cn
 b.youdao.com
 b.yzcdn.cn
@@ -16743,7 +16744,6 @@ china-ric.com
 china-riscv.com
 china-see.com
 china-seeq.com
-china-share.com
 china-shimo.com
 china-show.net
 china-shufajia.com

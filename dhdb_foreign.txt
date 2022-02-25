@@ -32449,6 +32449,7 @@ c.latam.msn.com
 c.lattebank.com
 c.lelangegg.cn
 c.loginns.emailvision.net.daraz.com
+c.lxanimation.cn
 c.media-amazon.com
 c.media-dl.co
 c.medialytics.com
@@ -39024,7 +39025,6 @@ cn.msi.com
 cn.nikkei.com
 cn.nytstyle.com
 cn.picacomiccn.com
-cn.pool.ntp.org
 cn.promo.skf.com
 cn.pub.vpon.com
 cn.rti.tw
@@ -54408,7 +54408,6 @@ elle.fr
 elle.ro
 elle.ru
 ellendegeneresgift2019real.blogspot.com
-ellenhilary.com
 ellenince.biz
 ellentmatchwi.com
 ellentube.com
@@ -65077,6 +65076,7 @@ gcp.media-router.wixstatic.com
 gcpug.jp
 gcr.io
 gcrtires.com
+gcsjl8.com
 gcstash.club
 gcstorage.xyz
 gcsz.net
@@ -88389,6 +88389,7 @@ jitouch.com
 jitsi.org
 jitsuroku.kir.jp
 jituwang.com
+jiu.dsnfun.cn
 jiu.rktupt.cn
 jiu3000.com
 jiudiandyw.com
@@ -101787,7 +101788,6 @@ match.doko.jp
 match.justpremium.com
 match.new-programmatic.com
 match.prod.bidr.io
-match.rtbidder.net
 match.rundsp.com
 match.seesaa.jp
 match.sharethrough.com

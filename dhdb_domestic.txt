@@ -8961,7 +8961,6 @@ aizhi.biz
 aizhibaby.com
 aizhigu.com.cn
 aizhigu.tv
-aizhizu.com
 aizhuizhui.com
 aiziti.net
 aizuna.com
@@ -10157,6 +10156,7 @@ api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -30248,6 +30248,7 @@ guanwawa.com
 guanyiyun.com
 guanzhu.mobi
 guanzhulian.com
+guapaijia.com
 guard.sec.xiaojukeji.com
 guazhuan.com
 guazi.com

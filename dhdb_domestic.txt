@@ -32642,7 +32642,6 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -46161,7 +46160,6 @@ mima.club
 mimaru.me
 mime.baidu.com
 mime.n.shifen.com
-mimeihui.com
 mimg.126.net
 mimg.127.net
 mimg.hicooer.cn

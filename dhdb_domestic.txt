@@ -10670,6 +10670,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -25135,7 +25136,6 @@ ecig100.com
 ecitic.com
 ecjobhome.com
 ecjson.com
-ecjtu.net
 eckjzx.com
 eclick.120ask.com
 eclick.360doc.com

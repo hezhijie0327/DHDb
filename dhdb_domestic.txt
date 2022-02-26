@@ -10163,7 +10163,6 @@ api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -52017,7 +52016,6 @@ plbslog.umeng.com
 plcdn.net
 plcent.com
 plcloud.com
-pldba.com
 plesk-cn.com
 plgfzyp.cn
 plmedia00.live.weibo.com

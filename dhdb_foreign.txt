@@ -20471,6 +20471,7 @@ app-lon07.marketo.com
 app-mgmt.docker.net.zooplus.de
 app-sales.net
 app-sdylqipai3917.com
+app-site-association.cdn-apple.com
 app-sj05.marketo.com
 app-sj06.marketo.com
 app-sj13.marketo.com
@@ -115249,7 +115250,6 @@ offside2.000webhostapp.com
 offsigilyphor.com
 offspringperform.net
 offthekerb.com
-offxtv.com
 ofgogoatan.com
 ofhappinyer.com
 ofhypnoer.com

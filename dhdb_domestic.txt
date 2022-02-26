@@ -15896,7 +15896,6 @@ cdnsf.tudou.com
 cdnsvc.com
 cdnszycn.zhiyeapp.com
 cdntip.com
-cdntlz.cn
 cdnudns.com
 cdnunion.com
 cdnvp.com
@@ -25395,7 +25394,6 @@ ef-school.com
 ef.opendsp.tanx.com
 ef3019f6b955ac30.icloudwaf.com
 ef360.com
-ef360.net
 ef47d5a01a35758a202fea7c22b3c337.safeframe.googlesyndication.com
 ef4y7ld6.sched.sma.tdnsv5.com
 ef5g5n1.cachenode.cn
@@ -41150,7 +41148,6 @@ kuaijishizi.com
 kuaijisishu.com
 kuaijitong.com
 kuaijizheng365.com
-kuaikaiapp.com
 kuaikan.netmon.360safe.com
 kuaikanad.com
 kuaikanmanhua.com
@@ -46704,7 +46701,6 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
-mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com
@@ -47155,7 +47151,6 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
-msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net

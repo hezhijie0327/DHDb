@@ -1258,7 +1258,6 @@
 158jixie.com
 1591600.sched.dma-dk.tdnsv5.com
 1595096.sched.d0-dk.tdnsv5.com
-15daili.com
 15gift.com
 15hr.com
 15lu.com
@@ -8748,6 +8747,7 @@ aifenka.cn
 aifenxiang.xyz
 aiff.cdn.bcebos.com
 aiff.cdn.bcebos.com.a.bdydns.com
+aifont.com
 aifu10.com
 aifu360.com
 aigame100.com
@@ -18070,6 +18070,7 @@ club-huawei.weathercn.com
 club-img.douyucdn.cn
 club-v4.chinanorth.cloudapp.chinacloudapi.cn
 club.bilibili.com
+club.jd.com
 club.jd.com.gslb.qianxun.com
 club.lenovo.com.cn
 club.m.autohome.com.cn
@@ -41815,6 +41816,7 @@ lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
 lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
+lbsgwh5.m.jd.com
 lbsgwh5.m.jd.com.gslb.qianxun.com
 lbsnavi.cdn.bcebos.com
 lbsonline.pushct.baidu.com
@@ -48383,6 +48385,7 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
+nex.163.com
 nexiao.com
 next.api.aliyun.com
 next.itellyou.cn

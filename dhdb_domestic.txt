@@ -2032,6 +2032,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
+2.asia.pool.ntp.org
 2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
@@ -48135,6 +48136,7 @@ neoease.com
 neofussvr.sslcs.cdngc.net
 neohytung.com
 neokylinschool.com
+neolix.net
 neoremind.com
 nepian.com
 neptcn.com
@@ -55057,7 +55059,6 @@ query-node.yfscdn.net
 query-suggestion.ai.xiaomi.com
 query.aliyun.com
 query.dcdn.baidu.com
-query.hicloud.com
 query.tencent-cloud.com
 queshao.com
 queshu.com

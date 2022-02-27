@@ -8109,7 +8109,6 @@ adiu.amap.com
 adiwlbs.gslb.sinaedge.com
 adjb.5nd.com
 adjucai.com
-adjumo.com
 adjust.cn
 adjuz.com
 adkmob.com
@@ -22767,6 +22766,7 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
+dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -48385,7 +48385,6 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
-nex.163.com
 nexiao.com
 next.api.aliyun.com
 next.itellyou.cn

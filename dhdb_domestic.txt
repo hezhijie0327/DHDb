@@ -35995,6 +35995,7 @@ img.poppur.com
 img.qcloud.com
 img.qianwee.com
 img.qidian.com
+img.qj.media8.cn
 img.qunliao.info
 img.qunliao.info.qiniudns.com
 img.qwps.cn
@@ -45505,7 +45506,6 @@ medsci-tech.com
 medstarcorp.com
 medtion.com
 medusa.dianping.com
-medvoice.cdn.bcebos.com
 meegoe.com
 meeket.com
 meeshow.com

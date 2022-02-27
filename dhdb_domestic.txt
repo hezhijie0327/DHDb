@@ -767,7 +767,6 @@
 100fenlm.cn
 100fenlm.com
 100font.com
-100ftv.com
 100jiapu.com
 100ksw.com
 100legend.com
@@ -15949,7 +15948,6 @@ cdyushun.com
 cdyzg.com
 cdzdhx.com
 cdzgh.com
-cdzhinan.com
 cdzikao.com
 cdzimo.com
 cdzixun.net
@@ -39115,7 +39113,6 @@ jp03.dns.meo-sub.xyz
 jp04.dns.meo-sub.site
 jp04.dns.meo-sub.xyz
 jp14.com
-jp88888887.cn
 jpaasne.e.shifen.com
 jpad.baidu.com
 jpanj.com
@@ -41444,7 +41441,6 @@ l.web.huya.com
 l.web.huya.com.w.kunluncan.com
 l.yidianzixun.com
 l.ykimg.com
-l07m8gu.cn
 l1.tcdnlive.com
 l1.xfinfr.com
 l2-toutiao-ipv6-ml.gslb.ksyuncdn.com
@@ -47824,7 +47820,6 @@ n9d2bhsn.v1d.szbdyd.com
 n9d2bhtj.v1d.szbdyd.com
 n9d2bhy8.v1d.szbdyd.com
 n9q2bzpq.v1d.szbdyd.com
-na47.com
 na61-na610.wagbridge.alsc-prd.tanx.com.gds.alibabadns.com
 na61-na62-eu95.wagbridge.advertisement.tanx.com
 na61-na62-st3.wagbridge.advertisement.tanx.com
@@ -48392,6 +48387,7 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
+nex.163.com
 nexiao.com
 next.api.aliyun.com
 next.itellyou.cn
@@ -57779,7 +57775,6 @@ sdk.xyapi.game.qq.com
 sdk.zsdfm.com
 sdk1xyajs.data.kuiniuca.com
 sdk1xyajs.data.p2cdn.com
-sdkapi-smartop.jiguang.cn
 sdkapi.douyucdn.cn
 sdkapi1.bizport.cn
 sdkapi10.bizport.cn

@@ -32855,7 +32855,6 @@ hne45p1.cachenode.cn
 hnemb.com
 hnetn.com
 hnfapiao.com
-hnfjwh.com
 hnfjz.com
 hnfyqmj.com
 hngbjy.com
@@ -43291,7 +43290,6 @@ log-lq.snssdk.com.w.cdngslb.com
 log-reyun-com-for-redirect-1246077432.cn-north-1.elb.amazonaws.com.cn
 log-sc.qutoutiao.net
 log-sdk.gifshow.com
-log-sdk.ksapisrv.com
 log-stats.weathercn.com
 log-upload.mihoyo.com
 log-yex.youdao.com

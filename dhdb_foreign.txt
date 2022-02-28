@@ -2589,7 +2589,6 @@
 2.biqle.ru
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
-2.centos.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.courier2-push-apple.com.akadns.net
 2.cr.rs
@@ -49843,7 +49842,6 @@ docsapiing.net.zooplus.de
 docsapispring.net.daraz.com
 docsapiwinter.net.daraz.com
 docsarketing.net.zooplus.it
-docsconvert.club
 docscsr21.net.daraz.com
 docsd.ns.emailvision.net.daraz.com
 docsdrop-lib-ln-1.net.daraz.com
@@ -72984,7 +72982,6 @@ googlesource.com
 googlestore.com
 googlesverige.com
 googlesyndication.com
-googletagnamager.com
 googleusercontent.com
 googlevideo.com
 googlevideoads.com
@@ -106730,7 +106727,6 @@ mn.5.p2l.info
 mn.mistermenuiserie.com
 mn.mn.co.cu
 mn21.com
-mn586.com
 mnbvc34.com
 mnbvjhg.com
 mnbyto.goo-net.com
@@ -143989,6 +143985,7 @@ solebox.com
 soleilneon.com
 solelylounge.com
 solemik.com
+solepic.com
 solepresumablystrangle.com
 solezy.com
 solfa.org

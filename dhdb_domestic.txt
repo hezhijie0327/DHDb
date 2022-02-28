@@ -10662,6 +10662,7 @@ appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
 appdl-1-drcn.dbankcdn.com
+appdl-1-drcn.dbankcdn.com.c.cdnhwc1.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -36447,7 +36448,6 @@ imzhongxin.com
 in-en.com
 in-neo.cn
 in.ali213.net
-in.m.jd.com
 in.m.jd.com.gslb.qianxun.com
 in.qqhpg.com
 in.vipliangmei.com

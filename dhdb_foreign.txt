@@ -1682,6 +1682,7 @@
 159967.shop.m.cnlist.org
 15a7d74c-dnsotls-ds.metric.gstatic.com
 15cacaospice63nhdk.com
+15daili.com
 15gifts.com
 15h8.net
 15hn.com
@@ -20019,7 +20020,6 @@ api.fusepowered.com
 api.fw.tv
 api.gaijinent.com
 api.gameofwhales.com
-api.geetest.com
 api.getadx.com
 api.getter-priv.net.zooplus.de
 api.gfe.nvidia.com
@@ -115408,6 +115408,7 @@ oiya.ru
 oiycak.com
 oiymyn.trustedshops.com
 oj.likewut.net
+oj03.com
 ojbknb.com
 ojbknx.com
 ojclas.flower-webshop.jp
@@ -126424,6 +126425,7 @@ pubtm.com
 pubu.com.tw
 pubu.tw
 pubu888.com
+pubuo.com
 pubwes.com
 pubwise.io
 pubxtag1.com

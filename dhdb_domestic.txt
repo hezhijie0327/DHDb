@@ -5485,6 +5485,7 @@
 770921.com
 7711.com
 771633.com
+77169.com
 77169.net
 7717wan.com
 7723.com
@@ -10813,7 +10814,6 @@ appurl.me
 appuu.cn
 appversion.115.com
 appvipshop.com
-appvv.com
 appweiyuan.com
 appwill.com
 appwk.baidu.com
@@ -11759,7 +11759,6 @@ bad1.51gxqm.com
 badad.googleplex.com
 badda4347d0f01b2c8c76a7d30b19ea7.safeframe.googlesyndication.com
 badjs.m.jd.com
-badjs.m.jd.com.gslb.qianxun.com
 badjs.qidian.qq.com
 badjs.weixinbridge.com
 badls.com
@@ -33146,7 +33145,6 @@ hostker.com
 hostkvm.com
 hostproph.com
 hostxen.com
-hot.browser.miui.com
 hot.m.shouji.360tpcdn.com
 hotchat-im.iqiyi.com
 hotdb.com
@@ -33949,7 +33947,6 @@ huixuanjiasu.com
 huiyan315.com
 huiyankan.com
 huiyaohuyu.com
-huiyep.com
 huiyi8.com
 huiyiabc.com
 huiyinxun.com
@@ -43287,7 +43284,6 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
-log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn
@@ -47112,6 +47108,7 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net

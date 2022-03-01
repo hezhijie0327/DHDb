@@ -220,7 +220,6 @@
 0315xl.com
 0316.cc
 031aa291c8990be3f4364078c5e0b408.safeframe.googlesyndication.com
-032069.com
 03217f0923304fa1c11b9d60.mdbook.cn
 0335wl.com
 03412.com
@@ -15893,7 +15892,6 @@ cdnweb.huya.com
 cdnweixin.haoduoke.cn
 cdnws.api.huya.com
 cdnx.newvfx.com
-cdooc.com
 cdqcnt.com
 cdqcp.com
 cdqph.com
@@ -22764,6 +22762,7 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
+dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -33852,7 +33851,6 @@ huibo.com
 huicaiba.com
 huicaishui.net
 huiche100.com
-huicheimg.com
 huichewang.com
 huichuan-mc.sm.cn
 huichuan.sm.cn
@@ -40158,6 +40156,7 @@ kaiyuanhotels.com
 kaiyuanxian.baixing.com
 kajicam.com
 kaka.com
+kakadm.com
 kakalili.com
 kakamobi.com
 kalading.com
@@ -57421,7 +57420,6 @@ saxn.sina.com.cn
 saxs.sina.cn
 saxs.sina.com.cn
 sayabear.com
-sayloving.com
 saywash.com
 sb-y6.onlinegamegoonline.com
 sb.firefox.com.cn

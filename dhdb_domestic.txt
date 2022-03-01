@@ -15878,7 +15878,6 @@ cdnmirrors.s.tuna.tsinghua.edu.cn
 cdnnodedns.cn
 cdnnzycn.zhiyeapp.com
 cdnpay.360buyimg.com
-cdnqq.yl89.cn
 cdnres.115.com
 cdnsf.tudou.com
 cdnsvc.com
@@ -30720,7 +30719,6 @@ gzjzc.com
 gzlingli.com
 gzlz307.com
 gzlzfm.com
-gzm.xzbu.com
 gzmama.com
 gzmediaclick.com
 gzmiyuan.com
@@ -45734,7 +45732,6 @@ mercury-image.nhsoft.cn
 mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
-mercury.jd.com
 mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com

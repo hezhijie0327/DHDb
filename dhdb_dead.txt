@@ -9702,7 +9702,6 @@ awrsx.cn
 awrz.net
 aws-wnwrdc01.corp.ad.zalando.net
 aws1.millegrilles.com
-awsatstb.com
 awsdns-cn-57.com
 awseukpi.whisbi.com
 awshklkaqkfwok.localdomain
@@ -12575,7 +12574,6 @@ bungalow54.com
 bunkerdrop.life
 bunsen.wapolabs.com
 bunshun.jp
-bupserge.com
 bupt.info
 bureaucracycrutch.com
 burlyblogs.com
@@ -15293,6 +15291,7 @@ clientlog.portal.office.com
 clientlogger-prod.elasticbeanstalk.com
 clients-mediametrie.fr
 clients2.vlcstreamer.com
+clierets.com
 clietns-download.com
 cliffordtrading.com
 cliggi.download
@@ -34163,7 +34162,6 @@ kanglaijd.cn
 kangle.net
 kangre.com
 kangshijd.com
-kangxifan.com
 kanhuacanchan.com
 kaniang.top
 kanichi.jp
@@ -34177,6 +34175,7 @@ kanmee.com
 kanmeinv.com
 kannilu.com
 kanqiusai.net
+kansir.com
 kansp.com
 kanvideo.top
 kanwby.com
@@ -36699,7 +36698,6 @@ log.guid.tpns.sh.tencent.com
 log.hankooki.com
 log.interest.mix.sina.com.cn
 log.invodo.com
-log.kienthuc.net.vn
 log.kino-dom.org
 log.kukuplay.com
 log.liverail.com

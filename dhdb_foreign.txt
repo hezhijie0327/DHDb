@@ -23792,6 +23792,7 @@ aws.net.zooplus.com
 aws.owa.net.zooplus.fr
 aws1.discourse-cdn.com
 awsapps.com
+awsatstb.com
 awsautopilot.com
 awsautoscaling.com
 awsbraket.com
@@ -31870,6 +31871,7 @@ bunzlonline.nl
 bupaglobal.com
 bupatp.com
 bupropion-hcl.1.p2l.info
+bupserge.com
 burba.com
 burbibape.com
 burchillnet.com
@@ -38629,7 +38631,6 @@ clientssl.net.zooplus.es
 clientstream.launchdarkly.com
 clientsviolet.com
 clientwww.marketing.net.zooplus.es
-clierets.com
 clievise.com
 clifads.com
 cliffmuckswiz.com
@@ -90959,7 +90960,6 @@ kanshu5.la
 kanshuapp.com
 kanshuge.com
 kanshula.com
-kansir.com
 kant.ru
 kantaiduo.com
 kantan-access.com
@@ -97159,6 +97159,7 @@ log.idnes.cz
 log.infonet.vn
 log.kaka.me
 log.kibboko.com
+log.kienthuc.net.vn
 log.kinhdoanhhoinhap.vn
 log.kinhtedouong.vn
 log.krs-ix.ru

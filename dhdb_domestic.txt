@@ -2570,7 +2570,6 @@
 3.5646.cn
 3.cn.pool.ntp.org
 3.iscrv.com
-3.openwrt.pool.ntp.org
 3.pic.pc6.com
 3.ssqzj.com
 3.up.qingdaonews.com
@@ -32986,7 +32985,6 @@ home-yd.chaoxing.com
 home.115.com
 home.51cto.com
 home.console.aliyun.com
-home.deathgun.cn
 home.httpcn.com
 home.if.iqiyi.com
 home.m.jd.com
@@ -40190,6 +40188,7 @@ kanglingjiu.com
 kanglu.com
 kangqite.com
 kanguo.com
+kangxifan.com
 kangxin.com
 kangyueshi.com
 kangzhi.com

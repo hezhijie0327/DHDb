@@ -19395,6 +19395,7 @@ coral2.uc.cn
 core-ucloud.tantanapp.com
 core.bilivideo.com
 core.cloud.unity.cn
+core.tantanapp.com
 corebai.com
 corebug.adsame.com
 coreldrawchina.com
@@ -35830,7 +35831,6 @@ img-tmdetail.alicdn.com
 img-tx-ugcimg.douyucdn2.cn
 img-vip-ssl.a.88cdn.com
 img-vip-ssl.a.88cdn.com.w.kunlungr.com
-img-x.jd.com
 img-x.jd.com.gslb.qianxun.com
 img-ys011.didistatic.com
 img.0279.net
@@ -45994,7 +45994,6 @@ microad-z.com
 microbell.com
 microbt.com
 microcardio.com
-microdiag.com
 microdownloadreport.3g.qq.com
 microdreams.com
 microfotos.com

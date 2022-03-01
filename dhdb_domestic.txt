@@ -647,7 +647,6 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -2563,6 +2562,7 @@
 2yuanyy.com
 2yun.com
 2yup.com
+2zfzly.com
 2zhk.com
 2zimu.com
 3.3322722.com
@@ -14030,7 +14030,6 @@ bpvy74e1.s2.cdntip.com
 bpxxfw.com
 bq233.com
 bqatj.com
-bqb12.com
 bqdcdn.allinfinance.com
 bqfelt7v.slt.sched.tdnsv8.com
 bqgimgs1.cdn.bcebos.com
@@ -44490,7 +44489,6 @@ m.xitongzhijia.net
 m.xm124.com
 m.xuanlimin.top
 m.xuexila.com
-m.xxjjfs.cn
 m.yalayi.com
 m.yanjunbo.com
 m.ycai947.com

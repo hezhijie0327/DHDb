@@ -1586,7 +1586,6 @@
 14c21658-dnsotls-ds.metric.gstatic.com
 14marketing.net.daraz.com
 14nuzznszbdp.com
-14so.cn
 14zhu.com
 15-courier.push.apple.com
 15-courier2.push.apple.com
@@ -26247,7 +26246,6 @@ beatsbydre-headphonesshop.com
 beatsbydre-mall.com
 beatsbydre-outlet.com
 beatsbydre-outletsale.net
-beatsbydre-outletstore.com
 beatsbydre-sell.com
 beatsbydre-store.com
 beatsbydre-studio.com
@@ -74182,6 +74180,7 @@ greensender.pl
 greenshot.fr
 greensolutions.ro
 greensolver.net
+greensuy.net
 greentanktech.com
 greentechmedia.com
 greenvilleonline.com
@@ -89668,7 +89667,6 @@ jp.moc.gov.tw
 jp.net
 jp.pandora.tv
 jp.pitneybowes.com
-jp.pool.ntp.org
 jp.promo.skf.com
 jp.rti.org.tw
 jp.schroders.email
@@ -124845,6 +124843,7 @@ pourquoidocteur.fr
 poutswepttaco.com
 pouvideo.cc
 pouyehm.com
+povapeba.xyz
 povarenok.ru
 poverty-action.org
 povoasemanario.pt
@@ -135810,6 +135809,7 @@ sandbox-data.docker.net.zooplus.de
 sandbox-emailvision.admins.net.daraz.com
 sandbox-patner.net.daraz.com
 sandbox.car10.net.daraz.com
+sandbox.disabledhw.net.zooplus.de
 sandbox.docker.scm.net.zooplus.de
 sandbox.itunes-apple.com.akadns.net
 sandbox.itunes.apple.com
@@ -142180,6 +142180,7 @@ smetrics.bbvaseguros.mx
 smetrics.bbvausa.com
 smetrics.bcbsm.com
 smetrics.bcbsnc.com
+smetrics.bcbsnd.com
 smetrics.bd.dk
 smetrics.be.carrefour.eu
 smetrics.beachbody.com

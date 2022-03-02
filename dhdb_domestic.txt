@@ -32627,7 +32627,6 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
-hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -34040,7 +34039,6 @@ huobiwang.cc
 huochai.mobi
 huoche.8684.cn
 huoche.com
-huoche.net
 huocheba.com
 huocheso.com
 huodao.hk
@@ -40556,6 +40554,7 @@ kgfanr.com
 kgimg.com
 kgmobilestat.kugou.com
 kgmobilestatbak.kugou.com
+kgnop2.kugou.com
 kgogame.com
 khdatasolutions.com
 khj.dawsh.cn
@@ -42021,7 +42020,6 @@ leetcodechina.com
 leevy.net
 leewiart.com
 leeyuo.com
-leeyuoxs.com
 lefengtuku.com
 lefile.cn
 leftfm.com
@@ -58718,7 +58716,6 @@ shejiqun.com
 shejis.com
 shejiwo.net
 shejiye.com
-shejizhaji.com
 sheketiandi.com
 shekou.com
 shellsec.com

@@ -730,7 +730,6 @@
 1.librestream.com
 1.marketing.net.zooplus.de
 1.oceanfrontwealth.com
-1.pool.ntp.org
 1.qksapp.net
 1.salesforce-partners.com
 1.soufy.cn
@@ -39341,6 +39340,7 @@ cmu.edu
 cmule.com
 cmule.net
 cmule.org
+cmuliang.com
 cmwprc.erento.com
 cmx.im
 cmxqcv.sundayup.co.kr
@@ -54716,6 +54716,7 @@ el-mundo.net
 ela-3-tnk.com
 elabinfo.com
 elad.ca
+eladies.zhmyq.cn
 elal.com
 eland.doublemax.net
 elandmall.com
@@ -77840,6 +77841,7 @@ hir44.blogspot.com
 hira-meki.jp
 hire.orangehire.com.au
 hireatradesman.com
+hirek-online.com
 hirekmedia.hu
 hiremya.com
 hireproplus.com

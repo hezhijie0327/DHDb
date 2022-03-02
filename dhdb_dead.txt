@@ -15522,7 +15522,6 @@ cn-test.taboola.com
 cn-zjwz-dx-v-04.bilivideo.com
 cn-zjwz5-dx-v-05.bilivideo.com
 cn-zjwz5-dx-v-12.bilivideo.com
-cn.acidcase.com
 cn.api.push.le.com
 cn.bing.net
 cn.caserandom.com
@@ -33313,7 +33312,6 @@ jongta.com
 jonjo.ga
 joobuste.com
 joolupid.com
-joorejou.net
 jor-el.net
 jorjfix.ru
 jorjodika.com
@@ -48102,6 +48100,7 @@ r3---sn-a5meknee.googlevideo.com
 r3---sn-a5meknel.googlevideo.com
 r3---sn-a5meknes.googlevideo.com
 r3---sn-a5mlrn7l.googlevideo.com
+r3---sn-a5mlrn7z.googlevideo.com
 r3---sn-n4v7knl6.googlevideo.com
 r3---sn-n4v7knlk.googlevideo.com
 r3---sn-n4v7knls.googlevideo.com

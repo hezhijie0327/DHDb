@@ -2023,7 +2023,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.asia.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.pic.pc6.com
@@ -56358,7 +56357,6 @@ rmylsc.com
 rmzs.net
 rmzt.com
 rn-hswh.com
-rnd-aresocean-commercial.huawei.com
 rnfengwo.com
 rngtest.com
 rnorder.kfc.com.cn

@@ -4477,7 +4477,6 @@
 5648.cc
 56506666.com
 5654.com
-565880.com
 566.com
 5666.tv
 566855.com
@@ -7596,7 +7595,6 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
-abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abuquant.com
@@ -35843,6 +35841,7 @@ img-tmdetail.alicdn.com
 img-tx-ugcimg.douyucdn2.cn
 img-vip-ssl.a.88cdn.com
 img-vip-ssl.a.88cdn.com.w.kunlungr.com
+img-x.jd.com
 img-x.jd.com.gslb.qianxun.com
 img-ys011.didistatic.com
 img.0279.net
@@ -42919,6 +42918,7 @@ liudatxt.com
 liudon.org
 liudu.com
 liugezhou.online
+liugj.com
 liugm.com
 liuhaolin.com
 liujiajia.me
@@ -44715,6 +44715,7 @@ mafengow.club
 mafengs.com
 mafengwo.cn
 mafengwo.ink
+mafenword.com
 maff.com
 mag10000.com
 mag998.com
@@ -50908,7 +50909,6 @@ passport.dns.iqiyi.com
 passport.douyu.com
 passport.douyu.com.w.cdngslb.com
 passport.iqiyi.com
-passport.jd.com
 passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn

@@ -647,6 +647,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -14360,6 +14361,7 @@ bwhgsb.com
 bwie.net
 bwin3099.com
 bwmelon.com
+bwptl.com
 bwpx.com
 bwsoft.net
 bwtiyu.com
@@ -44501,6 +44503,7 @@ m.ximalaya.com
 m.xinhuanet.com
 m.xitongzhijia.net
 m.xm124.com
+m.xt2d.cn
 m.xuanlimin.top
 m.xuexila.com
 m.yalayi.com
@@ -54497,7 +54500,6 @@ qplus1.idqqimg.com.sched.px-dk.tdnsv6.com
 qpmztk.cn
 qpn3e28v.v1d.szbdyd.com
 qpn3lxxc.v1d.szbdyd.com
-qpokok.com
 qpsearch.jd.com
 qpsearch.jd.com.gslb.qianxun.com
 qpushapi.innotechx.com
@@ -56466,6 +56468,7 @@ router-ins.uu.163.com
 router.fun
 router.gwdang.com
 router.tw
+router.uu.163.com
 routeryun.com
 rowcan.com
 royole.com

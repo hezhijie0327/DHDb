@@ -2024,7 +2024,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.cn.pool.ntp.org
 2.haoxue360.com
 2.pic.pc6.com
 2.pool.ntp.org
@@ -5630,7 +5629,6 @@
 7b2.com
 7b348e36.qc.x.bsgslb.cn
 7b34935d.qc.x.bsgslb.cn
-7b6l2j.cn
 7b83d025f5dd4718a1bf8960.mdbook.cn
 7ba3a179.qc.x.bsgslb.cn
 7ba3a5a9.qc.x.bsgslb.cn
@@ -10536,6 +10534,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -32293,7 +32292,6 @@ hfyt365.com
 hfzq.com.cn
 hg12333.com
 hg707.com
-hg89068.com
 hgaas.com
 hgame.com
 hgbang.com
@@ -43956,7 +43954,6 @@ lvanol.com
 lvchanghuanbao.com
 lvchayun.com
 lvchehui.com
-lvcheng.com
 lvchicar.com
 lvcrown.com
 lvdoutang.com
@@ -59928,7 +59925,6 @@ skytv.cc
 skyue.com
 skywldh.com
 skyworth-ac.com
-skyworth-ai.com
 skyworth-cloud.com
 skyworth-ea.com
 skyworth-mould.com

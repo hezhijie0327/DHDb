@@ -18151,7 +18151,6 @@ cm.jd.com
 cm.l.qq.com
 cm.lianmeng.360.cn
 cm.masky.biddingx.com
-cm.mct01.com
 cm.mediav.com
 cm.miaozhen.atm.youku.com
 cm.passport.iqiyi.com
@@ -40920,6 +40919,7 @@ kr02.dns.meo-sub.site
 kr02.dns.meo-sub.xyz
 krahag.com
 krcom.cn
+krcs.kugou.com
 krdrama.com
 krmzz.org
 krpano.tech
@@ -53972,6 +53972,7 @@ qieseo.com
 qieta.com
 qieying.com
 qieyou.com
+qieyuedu.com
 qiezip.com
 qifangw.com
 qifeiye.com

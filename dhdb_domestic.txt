@@ -56449,6 +56449,7 @@ router.gwdang.com
 router.tw
 router.uu.163.com
 routeryun.com
+routingeye.com
 rowcan.com
 royole.com
 royotech.com
@@ -58394,6 +58395,7 @@ sh.gsxt.gov.cn
 sh.ioiox.net
 sh.ipv6.photo.store.qq.com.tcdn.qq.com
 sh.jd.com
+sh.jd.com.gslb.qianxun.com
 sh.ke.com
 sh.lianjia.com
 sh.mp.weixin.qq.com

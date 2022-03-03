@@ -744,7 +744,6 @@
 135-cdn.com
 135.it
 135019.com
-135031.com
 1351.com
 135198.net
 135309.com
@@ -4214,7 +4213,6 @@
 91dyl.com
 91eto.xyz
 91fenfa.com
-91friend.com
 91funcy.com
 91gaoqing.com
 91guohuaw.com
@@ -14061,6 +14059,7 @@ cdnkimg.com
 cdnlab.live
 cdnmaster.cn
 cdnmerkezi.ninja
+cdnmr.net
 cdnnzycn.zhiyeapp.cn
 cdnok.com
 cdnpc.net
@@ -32037,6 +32036,7 @@ isafe-software.com
 isanook.com
 isaohao.com
 isaonian.com
+isatice.com
 iscreen.top
 isdbjvok.xyz
 isdox.com
@@ -42980,7 +42980,6 @@ npubzssuoini.com
 npush.site
 npy858.com
 npz.com
-nq42.com
 nqkdswiapgpu.localdomain
 nqm.blackcurranthumidifiers.site
 nquhxlfbuis.com
@@ -48110,6 +48109,7 @@ r1---sn-n4v7knls.googlevideo.com
 r1---sn-n4v7sn76.googlevideo.com
 r1---sn-o097znlr.googlevideo.com
 r1---sn-q4fl6ne6.googlevideo.com
+r1---sn-q4fl6ne7.googlevideo.com
 r10s.com
 r2---sn-4g5e6nez.googlevideo.com
 r2---sn-4g5e6nls.googlevideo.com
@@ -48129,6 +48129,7 @@ r2---sn-i3b7knl6.googlevideo.com
 r2---sn-n4v7knl6.googlevideo.com
 r2---sn-n4v7knlk.googlevideo.com
 r2---sn-n4v7knls.googlevideo.com
+r2---sn-n4v7sn7z.googlevideo.com
 r2---sn-o097znl6.googlevideo.com
 r2---sn-o097znld.googlevideo.com
 r2---sn-o097znlr.googlevideo.com
@@ -48178,6 +48179,7 @@ r4---sn-h0jeln7r.googlevideo.com
 r4---sn-n4v7knl6.googlevideo.com
 r4---sn-n4v7knlk.googlevideo.com
 r4---sn-n4v7knls.googlevideo.com
+r4---sn-n4v7sn76.googlevideo.com
 r4---sn-n4v7sn7s.googlevideo.com
 r4---sn-o097znl6.googlevideo.com
 r4---sn-o097znld.googlevideo.com

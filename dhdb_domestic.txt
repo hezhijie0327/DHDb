@@ -1155,6 +1155,7 @@
 1347806.p23.tc.cdntip.com
 1347806.sched.sma.tdnsv5.com
 13482896776.com
+135031.com
 135650.com
 1356789.com
 135958.com
@@ -10197,7 +10198,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -31870,7 +31870,6 @@ hdhui.com
 hdj.baidu.com
 hdjhsudhe.kuaizhan.com
 hdjwww.com
-hdkal67.cn
 hdl-broadcast.qiecdn.com
 hdl1a.douyucdn.cn
 hdl1a.douyucdn.cn.wscdns.com
@@ -37329,6 +37328,7 @@ itrid.com
 itrip.com
 itrip.meituan.com
 itruke.com
+itruni.com
 its.bjmu.edu.cn
 its.fugetech.com
 its114.com
@@ -46724,6 +46724,7 @@ moeyue.com
 moezx.cc
 mofa.com
 mofanbaby.com
+mofang.com
 mofangge.com
 mofanghr.com
 mofangyu.com

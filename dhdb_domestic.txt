@@ -10133,6 +10133,7 @@ api.fd.mob.com
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -21341,7 +21342,6 @@ datastoragesummit.com
 datasync-drcn.cloud.dbankcloud.cn
 datasync.ad-survey.com
 datatang.com
-datathinking.com
 datathinking.net
 datatist.com
 datax.baidu.com
@@ -36218,6 +36218,7 @@ imgcdn.cnbkw.com
 imgcdn.cnbkw.com.w.kunlunhuf.com
 imgcdn.cp63.ott.cibntv.net
 imgcdn.idongde.com
+imgcdn.qj06hfjkg.media8.cn
 imgcdn.scol.com.cn
 imgcdn.toutiaoyule.com
 imgcdn.wapx.cn
@@ -38624,7 +38625,6 @@ jiudianhudong.com
 jiudianjiu.com
 jiudianxing.com
 jiudianyuedu.com
-jiuding18.com
 jiudingcapital.cn
 jiudingcapital.com
 jiuduad.com
@@ -41378,6 +41378,7 @@ l.qq.com
 l.rcd.dns.iqiyi.com
 l.sinaimg.cn
 l.tapdb.net
+l.ujian.cc
 l.web.huya.com
 l.web.huya.com.w.kunluncan.com
 l.yidianzixun.com
@@ -42752,6 +42753,7 @@ linsn.com
 linstitute.net
 lintey.com
 lintongrc.com
+lintyone.top
 linuo-paradigma.com
 linux-code.com
 linux-ren.org

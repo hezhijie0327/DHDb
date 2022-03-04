@@ -8817,7 +8817,6 @@ aipai.com
 aipark.com
 aipenglai.com
 aipiaxi.com
-aipingxiang.com
 aippi-china.org
 aiprose.com
 aipuo.com
@@ -18423,6 +18422,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -43144,6 +43144,7 @@ lkme.cc
 lkong.net
 lkxianglong.net
 lkyou.com
+ll.songlaoban.cn
 ll.tcdn.qq.com
 llewan.com
 llgkm.com

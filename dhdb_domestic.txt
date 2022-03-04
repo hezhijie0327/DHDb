@@ -5205,7 +5205,6 @@
 6hv4cj.tdum.alibaba.com
 6hwan.com
 6ifjtc4v.sched.sma.tdnsv5.com
-6iit.com
 6jianshi.com
 6joi25qa.sched.s2.tdnsv5.com
 6jsnzaiw.slt.sched.tdnsv8.com
@@ -13681,6 +13680,7 @@ blog.itpub.net
 blog.izgq.net
 blog.mydrivers.com
 blog.sina.com.cn
+blog.syx86.cn
 blog.tuziip.com
 blog.yangsh888.com
 blog007.com
@@ -42584,7 +42584,6 @@ limiao.net
 limikeji.com
 liming23.xyz
 liminglight.com
-liminjie714.com
 liminwang.com
 limit-rule.is.autonavi.com
 limit-rule.is.autonavi.com.gds.alibabadns.com
@@ -48632,7 +48631,6 @@ nksvbgx6.v1d.szbdyd.com
 nksvbgxp.v1d.szbdyd.com
 nksvbgzh.v1d.szbdyd.com
 nktaba.com
-nktcw.cn
 nkyt5ash.v1d.szbdyd.com
 nkyt5aty.v1d.szbdyd.com
 nkyt5htc.v1d.szbdyd.com
@@ -54493,6 +54491,7 @@ qqaiqin.com
 qqbaobao.com
 qqbiaoqing.com
 qqbibile.com
+qqbite.com
 qqcf.com
 qqcjw.com
 qqdaqvad.v1d.szbdyd.com

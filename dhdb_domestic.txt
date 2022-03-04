@@ -2501,7 +2501,6 @@
 2f.com
 2f.zol-img.com.cn
 2f.zol-img.com.cn.wswebpic.com
-2f0jlqc.cn
 2fc5.com
 2fefb344f3045b4828b1422a231908c3.dlied1.cdntips.net
 2fuoks.tdum.alibaba.com
@@ -6372,6 +6371,7 @@
 91160.com
 9119dd.com
 911ced9f3b041969075e9b7d889ba5de.rdt.cfogc.com
+911pop.com
 9120728.fls.doubleclick.net
 9125flying.com
 912k.com
@@ -10132,7 +10132,6 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
-api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -19368,7 +19367,6 @@ coovee.net
 coozhi.cn
 coozhi.com
 cop.cdnetworks.com
-copycat.gitee.com
 copyedu.com
 copyfuture.com
 coqdbt6m.sched.sma.tdnsv5.com

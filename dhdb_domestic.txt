@@ -7601,7 +7601,6 @@ ac.jice.io
 ac.mmstat.com
 ac.o2.qq.com
 ac029063571fb6f1f3de5c908b3c3778.safeframe.googlesyndication.com
-ac1.pingpingw.com
 ac14f0de04fdcd4a-cl2.qcloudcjgj.com
 ac268.com
 ac57.com
@@ -18137,7 +18136,6 @@ cm.gamersky.com
 cm.gtags.net
 cm.he2d.com
 cm.ipinyou.com
-cm.jd.com
 cm.l.qq.com
 cm.lianmeng.360.cn
 cm.masky.biddingx.com
@@ -29116,7 +29114,6 @@ gg.blueidea.com
 gg.caixin.com
 gg.cs090.com
 gg.dsxdn.com
-gg.egouz.com
 gg.gao7.com
 gg.huangye88.com
 gg.huolinhe.com
@@ -33584,7 +33581,6 @@ huandie.com
 huangbaoche.com
 huangbowei.com
 huangchun.net
-huangdao.com
 huangdaojiri.org
 huangdc.com
 huangea.com
@@ -36409,6 +36405,7 @@ in.ali213.net
 in.m.jd.com.gslb.qianxun.com
 in.qqhpg.com
 in.vipliangmei.com
+in.wxebgpj.cn
 in1.feed.uu.cc
 in1.secure.uu.cc
 in1361482902yshe.trustpass.alibaba.com
@@ -47079,6 +47076,7 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
+msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net
@@ -48875,7 +48873,6 @@ nr-op.elemecdn.com
 nr-op.elemecdn.com.m.alikunlun.com
 nr7ia8i9.sched.s2-dk.tdnsv5.com
 nrec.com
-nren8.com
 nrsg.net
 ns-strategy.cdn.bcebos.com
 ns-strategy.cdn.bcebos.com.a.bdydns.com

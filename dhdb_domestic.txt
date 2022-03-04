@@ -10138,7 +10138,6 @@ api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -37968,6 +37967,7 @@ jhnsh.com
 jhnsyh.com
 jhonge.net
 jhonse.com
+jhqku.cn
 jhqshfly.com
 jhrcbank.com
 jhsbggw.com
@@ -50172,6 +50172,7 @@ oyohyee.com
 oyonyou.com
 oyoozo.com
 oyster.58.com
+oyvyxj.cn
 oyyj-oys.org
 ozone.10jqka.com.cn
 p-dragon.com
@@ -52480,7 +52481,6 @@ prw.lenovomm.com
 przhushou.com
 przwt.com
 ps-scholar-amis-standard.bj.bcebos.com
-ps.cname1.getui.com
 ps.cname2.getui.com
 ps.map.baidu.com
 ps.res.netease.com

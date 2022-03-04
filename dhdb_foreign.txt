@@ -5,6 +5,7 @@
 0.gravatar.com
 0.nextyourcontent.com
 0.oldgyhogola.com
+0.pool.ntp.org
 0.r.msn.com
 00.net.daraz.com
 000.0x1f4b0.com
@@ -26399,7 +26400,6 @@ beatscheap-nz.com
 beatscheap-uk.com
 beatscheapforsale.com
 beatscollection2014.com
-beatscustomblackfriday.com
 beatsdanmark2013.com
 beatsdrdre-solo.com
 beatsdrdre2014.com
@@ -128574,6 +128574,7 @@ qidic.com
 qiditrade.com
 qiecdn.com
 qiepyp.ascianne.com
+qietu6.com
 qieyz.com
 qifa002.com
 qifa168.net
@@ -128790,6 +128791,7 @@ qlog.adap.tv
 qlsngs.paruvendu.fr
 qlsszi.lululemon.co.nz
 qltx.live.boostmobile-cpx.gbr1-boostmobile-cpx-mdc1.qcloud.com
+qltx1.com
 qlubfrance.carte-gr.total.fr
 qlwgkw.com
 qlwmw.com
@@ -131082,7 +131084,6 @@ ready.nerdery.com
 ready4go.com
 ready4win.com
 readycrew.jp
-readydown.com
 readymoon.com
 readyrobux.com
 readyset.go1.com
@@ -134817,7 +134818,6 @@ rycuvaphy.com
 ryde-inc.jp
 ryder.com
 ryderwear.com
-rydresa.info
 ryerson.com
 ryesurvey.com
 rygfjv.com

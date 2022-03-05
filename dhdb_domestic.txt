@@ -30052,7 +30052,6 @@ gt1.baidu.com
 gt2.a.shifen.com
 gt2.baidu.com
 gt3322.com
-gt9m0fs.cn
 gtadata.com
 gtags.net
 gtan.com
@@ -45270,7 +45269,6 @@ mc.hujiang.com
 mc.qcloudimg.com
 mc.res.netease.com
 mc.tvzhe.com
-mc.weather.com.cn
 mc26.com
 mc361.com
 mc91.com
@@ -59444,7 +59442,6 @@ shyuanting.com
 shyueai.com
 shyunwei.net
 shyuzhai.com
-shyxfdc.com
 shyxwz.com
 shyy6688.com
 shyywz.com
@@ -61608,6 +61605,7 @@ studyintour.com
 studyiris.com
 studylinux.net
 studyll.com
+studyofnet.com
 studypay.com
 studytest.icu
 studyuser.com

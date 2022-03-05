@@ -2595,7 +2595,6 @@
 2.biqle.ru
 2.brinkshome.com
 2.c.ns.emailvision.net.daraz.com
-2.cn.pool.ntp.org
 2.courier-push-apple.com.akadns.net
 2.courier2-push-apple.com.akadns.net
 2.cr.rs
@@ -5172,7 +5171,6 @@
 4b6994dfa47cee4.com
 4bac1ee8-dnsotls-ds.metric.gstatic.com
 4bb6jls06l.com
-4beatsbydre.com
 4bluestones.biz
 4btbtt.com
 4bvf.com
@@ -26576,7 +26574,6 @@ beatsincanada.com
 beatsinsingapore.com
 beatsireland.net
 beatsjoy.com
-beatsneon.com
 beatsnzsale.com
 beatsofdre-usa.com
 beatsonblackfriday2013.com
@@ -51236,7 +51233,6 @@ download.pdfforge.org
 download.qoo-app.com
 download.sd.baidu.com
 download.weatherblink.com
-download.windowsupdate.com
 download.windowsupdate.nsatc.net
 download.wondershare.com
 download.yesmessenger.com

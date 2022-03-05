@@ -32439,6 +32439,7 @@ buyu7755.com
 buyu8001.com
 buyu8007.com
 buyu822.com
+buyu860.com
 buyu861.com
 buyu862.com
 buyu865.com
@@ -46524,7 +46525,6 @@ data-canary.flurry.com
 data-cdn.mbamupdates.com
 data-collector.wefi.com
 data-data-vac.com
-data-detect.nie.netease.com
 data-failover.eroadvertising.com
 data-id.ads.oppomobile.com
 data-ipv6.flurry.com
@@ -77498,6 +77498,7 @@ hen24.com
 hen8.fat.flnet.org
 hen83.com
 hen9.fat.flnet.org
+henanfs.com
 henanjianling.com
 henankh.com
 henanlinyu.cn
@@ -79038,6 +79039,7 @@ home.blog
 home.ceracare.co.uk
 home.cloudn.me
 home.cmgfi.com
+home.deathgun.cn
 home.ferrandinoandson.com
 home.foni.net
 home.gamer.com.tw
@@ -80713,7 +80715,6 @@ hxbxw.com
 hxc10.vip
 hxchem.net
 hxcpp15.com
-hxcpp22.com
 hxcpp8.com
 hxcpp83.com
 hxcsxs.pro

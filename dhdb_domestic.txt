@@ -21544,7 +21544,6 @@ dc.meitustat.com
 dc.sigmob.cn
 dc.so.le.com
 dc0555.com
-dc1.networkbench.com
 dc330.com
 dc3311.com
 dc4444.com
@@ -28326,7 +28325,6 @@ g1.163.com
 g1.ads.oppomobile.com
 g1.gstatic.com
 g1.hub5pn.sandai.net
-g1.pptair.com
 g1.tagtic.cn
 g1.taijuba.com
 g1.ykimg.com
@@ -43256,6 +43254,7 @@ log.1sapp.com
 log.51cto.com
 log.9wuli.com
 log.ad.xiaomi.com
+log.avlyun.com
 log.bitauto.com
 log.bol.wo.cn
 log.china.cn

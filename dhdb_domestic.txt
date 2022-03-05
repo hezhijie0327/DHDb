@@ -4389,7 +4389,6 @@
 53chewu.com
 53dns.org
 53e55n.tdum.alibaba.com
-53gem.com
 53info.com
 53iq.com
 53kf.com
@@ -14224,7 +14223,6 @@ budejie.com
 budou.com
 buduanwang.vip
 buduobaobao.com
-buff.163.com
 buff777.com
 buffst.com
 bug-xl9-ssl.xunlei.com
@@ -14555,7 +14553,6 @@ c.lenovo.com.cn.wswebcdn.com
 c.leslieyu.com.cn
 c.lianjikeji.cn
 c.lianwangtech.com
-c.lucktui.com
 c.m.163.com
 c.mageti.cn
 c.mhtuucr.cn
@@ -41776,6 +41773,7 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
+lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsgwh5.m.jd.com
 lbsgwh5.m.jd.com.gslb.qianxun.com
@@ -48341,6 +48339,7 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
+nex.163.com
 nexiao.com
 next.api.aliyun.com
 next.itellyou.cn
@@ -52405,7 +52404,6 @@ product.pconline.com.cn
 product.pconline.com.cn.cdn20.com
 product.suning.com
 product1.djicdn.com
-productcard.gog-statics.com
 proewildfire.cn
 profile.csdnimg.cn
 profile.firefox.com.cn
@@ -61767,7 +61765,6 @@ sukiu.net
 sulandscape.com
 sule.cc
 suleapi.com
-sulianlian.com
 sulwhasoo.com
 sumaart.com
 sumaarts.com
@@ -64141,7 +64138,6 @@ tinygroup.org
 tinypap.cn
 tinyppa.cn
 tinyservices.net
-tinysou.com
 tip.soku.com
 tipaipai.com
 tipask.com
@@ -64932,7 +64928,6 @@ tracker-01.qvb.qcloud.com
 tracker.ai.xiaomi.com
 tracker.ali213.net
 tracker.btsync.cf
-tracker.btsync.gq
 tracker.coopt.com
 tracker.dcdn.baidu.com
 tracker.didistatic.com

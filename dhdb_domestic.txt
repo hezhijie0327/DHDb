@@ -22841,7 +22841,6 @@ dlcdnwebimgs.asus.com.cn
 dlcdnwebimgs.asus.com.cn.cdnudns.com
 dlcfg.client.v6.chub.sandai.net
 dlcontrol.chub.sandai.net
-dld.com
 dld56.com
 dldir.tc.qq.com
 dldir1.legao.sched.dcloudstc.com
@@ -35317,7 +35316,6 @@ ihani.tv
 ihanshi.com
 ihaozhuo.com
 ihappy.vip
-ihaveu.com
 ihdt.tv
 ihealthcoming.com
 ihebi.info

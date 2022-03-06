@@ -4899,7 +4899,6 @@
 60malaysia.com
 61-183-62-40.trk.galaxyclouds.cn
 610115.com
-610213.net
 612.com
 6122.net
 612459.com
@@ -17868,7 +17867,6 @@ client.map.baidu.com
 client.map.n.shifen.com
 client.qun.qq.com
 client.show.qq.com
-client.stats.yinyuetai.com
 client.wmpvp.com
 client02.pdl.wow.battlenet.com.cn
 client05.pdl.wow.battlenet.com.cn
@@ -34296,6 +34294,7 @@ hyimmi.com
 hyipchina.com
 hyjgxx.com
 hyjp.net
+hykang.com
 hykcsoft.com
 hylname.com
 hylyl.club

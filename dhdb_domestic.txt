@@ -2031,7 +2031,6 @@
 2000888.com
 2000dns.com
 2000new.com
-2000y.net
 200218.com
 2005net.net
 2006q.com
@@ -9392,7 +9391,6 @@ alltosun.com
 alltuu.com
 allwin368.com
 allwinnertech.com
-allxing.net
 allyes.com
 allyes.net
 allystar.com
@@ -36399,6 +36397,7 @@ imzhongxin.com
 in-en.com
 in-neo.cn
 in.ali213.net
+in.m.jd.com
 in.m.jd.com.gslb.qianxun.com
 in.qqhpg.com
 in.vipliangmei.com
@@ -46642,6 +46641,7 @@ mobisage.cn
 mobiw.com
 mobjump.com
 mobjz.com
+mobkeeper.com
 mobmore.com
 mobo168.com
 moboplayer.com
@@ -54456,7 +54456,6 @@ qq.ci
 qq.cm
 qq.com
 qq.do
-qq.guansenff.cn
 qq.net
 qq.ugcimg.cn
 qq.vvx.highter.top

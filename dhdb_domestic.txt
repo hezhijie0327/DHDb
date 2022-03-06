@@ -664,6 +664,7 @@
 1.nanrenwo.net
 1.pic.pc6.com
 1.pncdn.cn
+1.pool.ntp.org
 1.proewildfire.cn
 1.qjhm.net
 1.qtmojo.com
@@ -26143,6 +26144,7 @@ ewanshang.com
 ewatt.com
 ewceo.com
 ewdcloud.com
+ewdtx.com
 ewebeditor.net
 ewebsoft.com
 ewebweb.com
@@ -38228,7 +38230,6 @@ jice.admaster.com.cn
 jice.io
 jichangbus.com
 jichangdaba.com
-jichangp.com
 jiche.com
 jicheng.net
 jichibang2019.com
@@ -56298,7 +56299,6 @@ rms.shop.jd.com.gslb.qianxun.com
 rmsfilling-drcn.platform.hicloud.com
 rmsznet.com
 rmttjkw.com
-rmtxpv.ra.icast.cn
 rmw.jdburl.com
 rmwdn.com
 rmxiongan.com
@@ -59394,7 +59394,6 @@ shut123.com
 shutcm.com
 shuti.com
 shuttle.bayescom.com
-shutxt.com
 shuwangxing.com
 shuyang.tv
 shuyangba.com

@@ -20469,7 +20469,6 @@ d.gionee.com
 d.hexuntech.cn
 d.ifengimg.com
 d.jd.com
-d.jd.com.gslb.qianxun.com
 d.jjyx.com
 d.kugou.com
 d.mingyihui.net
@@ -39747,7 +39746,6 @@ jxold.com
 jxpta.com
 jxpxzxf.cn
 jxqcw.com
-jxrjzx.com
 jxrsrc.com
 jxrtv.com
 jxrtvu.com
@@ -43017,6 +43015,7 @@ liveupoc.tcdn.qq.com
 liveupoc2.tcdn.qq.com
 livevideostack.com
 livew.l.qq.com
+livewebbs2.msstatic.com
 livewebbs2.msstatic.com.w.kunlunhuf.com
 livinglabs.cc
 liwei.red
@@ -51221,7 +51220,6 @@ peoplenews.eu
 peoplerail.com
 pepresource.com
 pepsico.com.cn
-perf.m.jd.com
 perf.m.jd.com.gslb.qianxun.com
 perfect-input.com
 peropero.net

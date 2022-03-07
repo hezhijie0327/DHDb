@@ -10108,6 +10108,7 @@ api.device.xiaomi.net
 api.dewmobile.net
 api.df.mob.com
 api.dianru.com
+api.dianshihome.com
 api.didi.cn
 api.diebian.net
 api.docer.wpscdn.cn
@@ -21533,6 +21534,7 @@ dc.meitustat.com
 dc.sigmob.cn
 dc.so.le.com
 dc0555.com
+dc1.networkbench.com
 dc330.com
 dc3311.com
 dc4444.com
@@ -34005,7 +34007,6 @@ huohoo.com
 huohu123.com
 huohuolife.com
 huoju365.com
-huojub.com
 huokebao.net
 huokesoft.com
 huolala.co
@@ -39485,7 +39486,6 @@ juewei.com
 jufaanli.com
 jufenglc.com
 jufengshang.com
-jufidc.com
 jufoinfo.com
 jugao.com
 juhakokkonen.gallerycdn.azure.cn
@@ -41970,6 +41970,7 @@ leguyu.com
 leha.com
 lehaitv.com
 lehe.com
+lehecai.com
 lehihi.com
 leho.com
 lehuadisplay.com
@@ -63042,7 +63043,6 @@ taokewenan.com
 taokezhushou.com
 taokouling.com
 taoku.com
-taokzu.com
 taolutv.com
 taolx.com
 taomanhua.com

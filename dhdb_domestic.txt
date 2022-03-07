@@ -10132,6 +10132,7 @@ api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
+api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -64027,7 +64028,6 @@ tinfinite.com
 ting-tou.com
 ting55.com
 tingall.com
-tingbook.com
 tingchewei.net
 tingchina.com
 tingclass.com

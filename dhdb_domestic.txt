@@ -6487,6 +6487,7 @@
 91nets.cn
 91open.com
 91paobao.com
+91pdf.com
 91pet.net
 91php.com
 91pkpk.com
@@ -10131,7 +10132,6 @@ api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com

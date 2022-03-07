@@ -661,6 +661,7 @@
 1.lvshi567.com
 1.mgff.com
 1.nanrenwo.net
+1.openwrt.pool.ntp.org
 1.pic.pc6.com
 1.pncdn.cn
 1.pool.ntp.org
@@ -12734,7 +12735,6 @@ beijingxinzhuoyue.com
 beike.cn
 beike21.com
 beikeapp.com
-beikeba.com
 beikeit.com
 beikeread.com
 beikongyun.com
@@ -16321,7 +16321,6 @@ channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
 channel.kandian.qq.com
 channel.m.163.com
-channel.togo666.com
 channel2-account-ssl.xunlei.com
 channel3-account-ssl.xunlei.com
 channelray.com
@@ -40888,7 +40887,6 @@ ks-bj-live-comet-02.chat.bilibili.com
 ks-cdn1.com
 ks-gz-live-comet-01.chat.bilibili.com
 ks-gz-live-comet-02.chat.bilibili.com
-ks-gz-live-p2p-3.chat.bilibili.com
 ks-live-dmcmt-bj6-pm-01.chat.bilibili.com
 ks-live-dmcmt-bj6-pm-02.chat.bilibili.com
 ks-live-dmcmt-sh2-pm-01.chat.bilibili.com
@@ -48994,7 +48992,6 @@ nvidia-china.com
 nvkfkpsp2pyh1bj9bwcv79lsm66x0l1t.aliyundunwaf.com
 nvliren.com
 nvren.com
-nvren55.com
 nvshenfan.com
 nvtnet.com
 nvude3.com

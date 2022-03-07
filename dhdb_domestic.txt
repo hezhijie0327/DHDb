@@ -14093,7 +14093,6 @@ bryonypie.com
 brzhang.club
 bs-adaptive.pull.yximgs.com
 bs-origin.pull.yximgs.com
-bs.forward.douban.com
 bs008.com
 bs14.9669.cn
 bs56.net
@@ -31620,6 +31619,7 @@ hbrc.com
 hbrchina.org
 hbrchinese.org
 hbrd.net
+hbrjcspx.com
 hbruicai.com
 hbrzkj.com
 hbs-nd.com
@@ -47044,7 +47044,6 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
-msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com

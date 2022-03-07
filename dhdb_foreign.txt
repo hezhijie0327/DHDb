@@ -714,6 +714,7 @@
 1.car21.net.daraz.com
 1.circlecvi.com
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -32517,6 +32518,7 @@ bw88tiyu.com
 bwads24.com
 bwangel.me
 bwater.com
+bway881360.com
 bway882338.com
 bway883.com
 bway88663.com
@@ -74929,7 +74931,6 @@ grpc.termius.com
 grptrker.com
 grrrgraphics.com
 grs.dbankcloud.asia
-grs.dbankcloud.com
 grss-ieee.org
 grt01.com
 grt02.com
@@ -82172,6 +82173,7 @@ ihais.com
 ihakka.net
 ihanghai.com
 ihao.org
+ihaoge.net
 ihavesmalltits.com
 ihavetohave.net
 ihc.cellmarque.com
@@ -109778,7 +109780,6 @@ ms1sbu-dnsotls-ds.metric.gstatic.com
 ms3388.com
 ms365surfaceoffer.com
 ms3t.club
-ms4dre.com
 ms52.ga
 ms6588.com
 ms758.com
@@ -111484,6 +111485,7 @@ naigai.bandamatic.com
 naigirl.com
 naikanxs.com
 nailedhard.com
+nailowhe.net
 nailsimproved.com
 naipartners.com
 naitik.net
@@ -125133,6 +125135,7 @@ pool.cryptopay.org.za
 pool.minexmr.com
 pool.nimiq-network.com
 pool.nimiq.watch
+pool.ntp.org
 pool.supportxmr.com
 pool.tdcoincore.org
 pool.torrent.pw
@@ -130432,7 +130435,6 @@ r2---sn-a5mlrn7k.googlevideo.com
 r2---sn-a5mlrn7l.googlevideo.com
 r2---sn-a5mlrn7r.googlevideo.com
 r2---sn-a5mlrn7s.googlevideo.com
-r2---sn-a5mlrn7s.gvt1.com
 r2---sn-a5mlrn7y.googlevideo.com
 r2---sn-a5mlrnek.googlevideo.com
 r2---sn-a5mlrnel.googlevideo.com
@@ -152660,6 +152662,7 @@ swlsbj.com
 swm.digital
 swmbudokan.com
 swnmuh.ru
+swok.net
 swomc.net
 swoo.sh
 swoodlander.site
@@ -154795,7 +154798,6 @@ teambetaffiliates.com
 teambonding.com
 teambuy.cc
 teamcoco.com
-teamcode.biz
 teamcovenant.com
 teamdynamix.com
 teamhgs.com

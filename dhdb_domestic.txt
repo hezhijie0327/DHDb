@@ -10190,6 +10190,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -23612,7 +23613,6 @@ drdwy.com
 dream1986.com
 dream4ever.org
 dreamchasercapital.com
-dreamdu.com
 dreamersall.com
 dreamershop.com
 dreamfull.cn
@@ -54159,7 +54159,6 @@ qiuzhang.com
 qiuzhi5.com
 qiuziti.com
 qivsod.com
-qiwen001.com
 qiwen8.com
 qiwenhui.com
 qiwo.cc

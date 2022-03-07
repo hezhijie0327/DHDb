@@ -10044,7 +10044,6 @@ api.1sapp.com
 api.2.taobao.com
 api.22lianmeng.com
 api.3839app.com
-api.557400.com
 api.5hte21mz.com
 api.account.xiaomi.com
 api.ad.xiaomi.com
@@ -25657,7 +25656,6 @@ enappstore.com
 enbm5hf1.v1d.szbdyd.com
 enbowang.com
 enbrands.com
-enci-world.com
 encourage.kuaishou.com
 endcard-pack.pangolin-sdk-toutiao.com
 endcard-pack.pangolin-sdk-toutiao.com.w.cdngslb.com
@@ -38627,6 +38625,7 @@ jiunile.com
 jiupaicn.com
 jiupin8.com
 jiuq.com
+jiuqihb.cn
 jiuquan.anjuke.com
 jiurong.com
 jiushikou.com

@@ -10127,6 +10127,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -47108,7 +47109,6 @@ msmov.a.yximgs.com
 msmov.a.yximgs.com.azchcdna.com
 msmov.a.yximgs.com.mcchcdn.com
 msn-china.bing123.com
-msn.qtmojo.com
 msn1.com
 msoftdl.360.cn
 msoso.com
@@ -58617,7 +58617,6 @@ sheencity.com
 sheepmats.com
 sheetgit.com
 sheinet.com
-sheitc.org
 shejibao.com
 shejiben.com
 shejidaren.com
@@ -59513,7 +59512,6 @@ simingtang.com
 simonsiefke.gallerycdn.azure.cn
 simope.com
 simperfect.com
-simplecd.cc
 simplecd.org
 simpledatas.com
 simplexue.com

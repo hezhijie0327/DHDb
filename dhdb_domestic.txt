@@ -10095,7 +10095,6 @@ api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.coconut.is
-api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -51351,7 +51350,6 @@ photoint.net
 photonj.photo.store.qq.com
 photopai.com
 photops.com
-photosanxia.com
 photoshare-drcn.cloud.dbankcloud.cn
 photoshare-drcn.hicloud.com
 phototj.photo.store.qq.com

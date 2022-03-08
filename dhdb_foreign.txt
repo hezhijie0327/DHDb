@@ -1791,7 +1791,6 @@
 1680118.com
 1680170.com
 1680177.com
-1680180.com
 1680210.com
 1680218.com
 1680380.com
@@ -4476,7 +4475,6 @@
 37a55ad8-dnsotls-ds.metric.gstatic.com
 37cs.com
 37ee40f8-dnsotls-ds.metric.gstatic.com
-37mnm.com
 37pk49.com
 37pps.com
 37signals.com
@@ -13301,7 +13299,6 @@ admd.housefun.com.tw
 admd.yam.com
 admdspc.com
 adme-net.com
-admeasure.hh-online.jp
 admedia.com
 admedia.io
 admedia.ro
@@ -22026,7 +22023,6 @@ artemisaffiliates.com
 artemiscm.com
 artesfide.com
 artfut.com
-artgullyhep.com
 arthahoonte.biz
 arthritis.atspace.com
 arthur-bonnet.com
@@ -28289,7 +28285,6 @@ bit.ehow.com
 bit.ly
 bit.pt
 bitadv.co
-bitanalysis.net
 bitasiaex.com
 bitballon.com
 bitballoon.com
@@ -40239,7 +40234,6 @@ coin-hive-stratum-yvvbqoavck.now.sh
 coin-hive.com
 coin-service.com
 coin.bajarlo.net
-coinad.com
 coinad.media
 coinad.xyz
 coinadster.com
@@ -77164,6 +77158,7 @@ he.net
 he11oworld.com
 he2911.com
 he360.com
+he3kz8.com
 he3mero6calli4s.com
 he6e.lavieimmo.com
 he7ll.com
@@ -93617,7 +93612,6 @@ ks67.com
 ks744.com
 ks779.com
 ks858.com
-ksaggspp.xyz
 ksax.com
 ksaxx.com
 kscac.com

@@ -8709,6 +8709,7 @@ aidianji.net
 aidigger.com
 aidigong.com
 aidimedia.com
+aidingbuding.com
 aidisida.com
 aidog.com
 aidong.me
@@ -14104,6 +14105,7 @@ bryonypie.com
 brzhang.club
 bs-adaptive.pull.yximgs.com
 bs-origin.pull.yximgs.com
+bs.forward.douban.com
 bs008.com
 bs14.9669.cn
 bs56.net
@@ -15679,7 +15681,6 @@ cdn.aixifan.com.w.kunlunle.com
 cdn.ampproject.org
 cdn.angruo.com
 cdn.api.my.le.com
-cdn.app.liuxingyul.cn
 cdn.ark.qq.com
 cdn.bdstatic.com
 cdn.caiyunapp.com
@@ -32886,7 +32887,6 @@ hnticai.com
 hntobacco.com
 hntv.tv
 hntymg.com
-hnwisecom.com
 hnwlcm.com
 hnwlxh.net
 hnwz8.com
@@ -34453,6 +34453,7 @@ hzsjnxh.org
 hzstad88.com
 hztraining.com
 hzvs2.cnzz.com
+hzwer.com
 hzwindpower.com
 hzwsjyjt.com
 hzwtech.com
@@ -36756,6 +36757,7 @@ ios.bugly.qq.com
 ios.rqd.qq.com
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
+iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -39755,6 +39757,7 @@ jxold.com
 jxpta.com
 jxpxzxf.cn
 jxqcw.com
+jxrencai.com
 jxrsrc.com
 jxrtv.com
 jxrtvu.com
@@ -56701,7 +56704,6 @@ s-02.com
 s-360buyimg.jcloudimg.com
 s-china.mzstatic.itunes-apple.com.akadns.net
 s-d2-v6.ugslb.com
-s-mob.com
 s-ns.com
 s-plt01.ugslb.com
 s-reader.com
@@ -60965,7 +60967,6 @@ stat.58che.com
 stat.adbana.com
 stat.api.tpns.tencent.com
 stat.app.qq.com
-stat.banyunjuhe.com
 stat.browser.nearme.com.cn
 stat.caijing.com.cn
 stat.chinaso.com

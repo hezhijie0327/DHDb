@@ -641,6 +641,7 @@
 1.800400.net
 1.92caijing.com
 1.aili.com
+1.asia.pool.ntp.org
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
@@ -26514,7 +26515,6 @@ fan-xun.com
 fan-yong.com
 fan88.com
 fanai.com
-fanchongling.com
 fanchuangyi.xyz
 fanchuanxiao.net
 fancyapi.com
@@ -31824,7 +31824,6 @@ hd.mmstat.com.gds.alibabadns.com
 hd00.com
 hd027.com
 hd123.com
-hd123.net
 hd12333.com
 hd199.com
 hd199.net
@@ -37104,6 +37103,7 @@ ismartware.com
 isme.pub
 iso-iso9000.com
 iso.mirrors.ustc.edu.cn
+isoft-linux.org
 isoftstone.com
 isorange.com
 isoyes.com

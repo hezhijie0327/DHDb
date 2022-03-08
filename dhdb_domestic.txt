@@ -644,6 +644,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -8492,7 +8493,6 @@ affecthing.com
 affiliate.a4dtracker.com
 affu.net
 afgame.com
-afie.xin
 afjk.com
 afjob88.com
 afm.pipi.cn
@@ -34246,6 +34246,7 @@ hxsd.com
 hxsd.tv
 hxsec.com
 hxssj.cn
+hxsxw.net
 hxthjy.com
 hxtk.com
 hxwglm.com

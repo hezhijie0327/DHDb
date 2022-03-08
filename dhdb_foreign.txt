@@ -1684,6 +1684,7 @@
 159967.shop.m.cnlist.org
 15a7d74c-dnsotls-ds.metric.gstatic.com
 15cacaospice63nhdk.com
+15cdn.com
 15daili.com
 15gifts.com
 15h8.net
@@ -6094,7 +6095,6 @@
 58kanshu.cc
 58kasch.com
 58kuku.com
-58kupu.com
 58net.com
 58picc.com
 58taopinhui.com
@@ -44176,6 +44176,7 @@ ctl.static-api.net.zooplus.de
 ctl.winter.net.daraz.com
 ctlail.net.zooplus.fr
 ctlayn.talbots.com
+ctldl.windowsupdate.com
 ctlega.elago.co.kr
 ctllib-ln-2.net.daraz.com
 ctm-media.com
@@ -51371,7 +51372,6 @@ dq0npalio5.execute-api.us-east-1.amazonaws.com
 dq3yxnlzwhcys.cloudfront.net
 dq95d35.com
 dqb.pw
-dqbwqzkajkuif.com
 dqdwbo.ellamila.com
 dqefxd.kaigoworker.jp
 dqfhxv.paulcamper.de
@@ -67637,7 +67637,6 @@ gl5g98t0vfjb.panprices.com
 glacial-ravine-7295.morning-tundra-7160.herokuspace.com
 glaciertanks.com
 glacuhegly.com
-gladawlvine.com
 gladbachlive.de
 gladcrumple.com
 gladiabots.com
@@ -97356,6 +97355,7 @@ liushuba.com
 liut.xyz
 liuxiaobo.net
 liuxiaolingtong.com
+liuxingyul.cn
 liuxinzhou.com
 liuxuegang.site
 liuyang.com
@@ -130856,7 +130856,6 @@ r4---sn-i3belnl6.googlevideo.com
 r4---sn-i5h7lnll.googlevideo.com
 r4---sn-n4v7sn7l.googlevideo.com
 r4---sn-n4v7sn7y.googlevideo.com
-r4---sn-n4v7sn7z.googlevideo.com
 r4---sn-n4v7sne7.googlevideo.com
 r4---sn-n4v7snee.googlevideo.com
 r4---sn-n4v7sney.googlevideo.com
@@ -134235,7 +134234,6 @@ rmuezp.superpharmacy.com.au
 rmvrpc.habi-unni.com
 rmxhti.zpacks.com
 rn.de
-rnakkaybh.com
 rnalismmin.biz
 rncdn7.com
 rndchandelureon.com

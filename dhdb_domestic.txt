@@ -2023,6 +2023,7 @@
 2.android.pool.ntp.org
 2.arpun.com
 2.haoxue360.com
+2.openwrt.pool.ntp.org
 2.pic.pc6.com
 2.pool.ntp.org
 2.up.qingdaonews.com
@@ -10132,7 +10133,6 @@ api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -31685,6 +31685,7 @@ hbzkzx.com
 hbzqzx.com
 hbzsb.com
 hbzuojia.com
+hbzxtyq.com
 hbzywh.com
 hc-byq.com
 hc-cdn.com

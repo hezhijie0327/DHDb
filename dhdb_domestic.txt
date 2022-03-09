@@ -11223,7 +11223,6 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
-au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com
@@ -30746,6 +30745,7 @@ gzxszf.com
 gzxulang.com
 gzxwtjy.com
 gzycdy.com
+gzyct.com
 gzyitop.com
 gzyouai.com
 gzyucai.com
@@ -30949,6 +30949,7 @@ h8aq3ba9.sched.vp.tdnsv5.com
 h8r5us1.cachenode.cn
 h9imt8jv.sched.d0.tdnsv5.com
 ha.gsxt.gov.cn
+ha.wheel.duolebo.com
 ha97.com
 haawking.com
 habadog.com
@@ -31369,7 +31370,6 @@ haopianyi.com
 haopinku.com
 haoq.tv
 haoqikan.com
-haoqixingstem.com
 haoqq.com
 haoqtv.com
 haorc.com
@@ -41905,7 +41905,6 @@ learning.snssdk.com
 learning.snssdk.com.w.cdngslb.com
 learning.u.wpscdn.cn
 learnku.com
-learnnode.gitee.io
 learsun.com
 leb-china.com
 lebang.com
@@ -49165,6 +49164,7 @@ ocsp.digicert.cn.w.cdngslb.com
 ocsp.pki.goog
 ocsp.sectigochina.com
 ocsp.us.cdnetworks.com
+ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
 ocsp2.g.aaplimg.com
 ocsp3.sheca.com

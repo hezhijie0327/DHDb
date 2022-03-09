@@ -641,7 +641,6 @@
 1.800400.net
 1.92caijing.com
 1.aili.com
-1.asia.pool.ntp.org
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
@@ -12266,7 +12265,6 @@ bayimob.com
 bayinfu.com
 bayinh.com
 baymax.video
-bayno.cn
 bayuegua.com
 bayueju.com
 bayunhome.com
@@ -30929,7 +30927,6 @@ h5ssl.1sapp.com.wswebpic.com
 h5st.m.jd.com
 h5st.m.jd.com.jcloudstatic.com
 h5static.kuwo.cn
-h5static.kuwo.cn.m.alikunlun.com
 h5static.m.jd.com
 h5tk.p2plive.8686c.com
 h5tk.p2plive.8686c.com.wsdvs.com
@@ -33299,6 +33296,7 @@ hrtsea.com
 hrtx.com
 hrunion.org
 hrxiongan.com
+hryidhf.ltd
 hrzy.cc
 hs-fe.com
 hs-outlets.com
@@ -58031,7 +58029,6 @@ sendcloud.net
 sendcloud.org
 sendong.com
 senfengg.com
-sengguo.com
 senguo.cc
 sengxian.com
 seniverse.com

@@ -11185,7 +11185,6 @@ abry.com
 abs-0.twimg.com
 abs-cbn.com
 abs-cbnnews.com
-abs-cdn.org
 abs-static.org
 abs-world.net
 abs.edu
@@ -90447,6 +90446,7 @@ jp.moc.gov.tw
 jp.net
 jp.pandora.tv
 jp.pitneybowes.com
+jp.pool.ntp.org
 jp.promo.skf.com
 jp.rti.org.tw
 jp.schroders.email
@@ -118848,7 +118848,6 @@ opiniac.com
 opinionbar.com
 opiniones-verificadas.com
 opinionjournal.com
-opinionpoll.pro
 opinionshareresearch.com
 opinionstage.com
 opinionsurprise.com
@@ -131472,6 +131471,7 @@ rating.net.daraz.com
 ratings.lycos.com
 ratingsedge.rnr.microsoft.com
 ratioform.it
+rationalan.pro
 rationalwiki.org
 rationmcu.com
 ratkalol.com
@@ -141537,7 +141537,6 @@ shuipaizi.blogspot.jp
 shuipingzuo.com
 shuizilong.com
 shujuba.net
-shujucun.com
 shujuwu.com
 shukeba.com
 shukeju.com

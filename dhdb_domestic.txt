@@ -18409,6 +18409,7 @@ cn.letou118.net
 cn.linkedin.com
 cn.made-in-china.com
 cn.man484.com
+cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.net
 cn.ntp.org.cn
@@ -48725,6 +48726,7 @@ noeic.com
 nohken-sdy.com
 nohup.cc
 nokia-sbell.com
+nokiadatabooklet.ltd
 nolanchou.com
 nolovr.com
 nomax.vip
@@ -49149,7 +49151,6 @@ ocpc.xueersi.com
 ocri-genomics.org
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
-ocsp-lb.apple.com.akadns.net
 ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.cfca.com.cn

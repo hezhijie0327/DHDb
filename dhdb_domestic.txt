@@ -5925,7 +5925,6 @@
 83ffanwv.v1d.szbdyd.com
 83h87d.com
 83jie.com
-83om.com
 83w8dpep.v1d.szbdyd.com
 83w8dv86.v1d.szbdyd.com
 83w8dv9a.v1d.szbdyd.com
@@ -12632,6 +12631,7 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -16390,7 +16390,6 @@ chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
-chat1.jd.com
 chat1.jd.com.gslb.qianxun.com
 chataixin59.byf.com
 chatm.com
@@ -38189,7 +38188,6 @@ jiayi1.oss-cn-shanghai.aliyuncs.com
 jiayi56.com
 jiayin618.com
 jiayongluyou.com
-jiayouhaoche.com
 jiayouxueba.com
 jiayuan-law.com
 jiayuan.com

@@ -3298,7 +3298,6 @@
 3type.cn
 3uol.com
 3us.com
-3uww.cc
 3uznql.tdum.alibaba.com
 3v.do
 3vjia.com
@@ -6553,7 +6552,6 @@
 91yk.com
 91yong.com
 91you.com
-91youban.com
 91yuedu.com
 91yunying.com
 91yxbox.com
@@ -50894,6 +50892,7 @@ pay.bilibili.com
 pay.hicloud.com
 pay.holaq.com
 pay.jd.com
+pay.m.jd.com
 pay.m.jd.com.gslb.qianxun.com
 pay.mairuan.com
 pay.meituan.com

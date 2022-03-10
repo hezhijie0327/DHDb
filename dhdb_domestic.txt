@@ -14809,6 +14809,7 @@ cacerts.digicert.cn
 cacerts.digicert.cn.w.cdngslb.com
 cacfo.com
 cache.a.market.xiaomi.com
+cache.amap.com
 cache.amap.com.danuoyi.tbcache.com
 cache.cnzz.com
 cache.m.ptqy.gitv.tv

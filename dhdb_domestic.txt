@@ -10144,7 +10144,6 @@ api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
-api.geetest.com
 api.gi.igexin.com
 api.gotokeep.com
 api.growingio.com
@@ -10983,6 +10982,7 @@ as.bjmama.net
 as.eqh5.com
 as.hda.gov.cn
 as.hypergryph.com
+as.jdkic.com
 as.kejet.com
 as.kejet.net
 as.mgtv.com
@@ -11149,7 +11149,6 @@ at-siac.com
 at.alicdn.com
 at.alicdn.com.danuoyi.alicdn.com
 at.idqqimg.com
-at.mct01.com
 at.pinduoduo.com
 at.umeng.com
 at.umtrack.com
@@ -17295,6 +17294,7 @@ chizhouren.com
 chiznews.com
 chjso.com
 chkj365.com
+chkwwg.cn
 chlahb.com
 chlbiz.com
 chloe99.com
@@ -17719,7 +17719,6 @@ cjyun.org
 cjyyw.com
 cjzkw.com
 cjzx.sspu.edu.cn
-cjzy.net
 ck.houyi.baofeng.net
 ck.kejet.net
 ck100.com
@@ -31383,6 +31382,7 @@ haosenchina.com
 haosf.com
 haoshanpu.com
 haoshanxi.com
+haoshengla.com
 haoshengmall.com
 haoshenqi.com
 haoshetou.net
@@ -49163,6 +49163,7 @@ ocpc.xueersi.com
 ocri-genomics.org
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
+ocsp-lb.apple.com.akadns.net
 ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.cfca.com.cn

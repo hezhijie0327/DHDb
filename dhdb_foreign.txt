@@ -6299,6 +6299,7 @@
 6-courier2.push.apple.com
 6.courier-push-apple.com.akadns.net
 6.ddns.ms
+6.ut8.com
 600052.com
 600574230204d873be78ea12c34205cc.clo.footprintdns.com
 60066hg.com
@@ -53851,7 +53852,6 @@ ebis.radishbo-ya.co.jp
 ebis.randstad.co.jp
 ebis.rozetta.jp
 ebis.s-bisco.jp
-ebis.sekisuiheim.com
 ebis.smakon.jp
 ebis.studio-alice.co.jp
 ebis.studioindi.jp
@@ -78272,7 +78272,6 @@ hinksdeba.top
 hinkslovel.top
 hinotoenh.online
 hintaopas.fi
-hintonsfeetred.info
 hinwen.com
 hinxot.linksoul.com
 hioeb.com
@@ -78687,7 +78686,6 @@ hk.mobi.yahoo.com
 hk.myblog.yahoo.com
 hk.napi.ucweb.com
 hk.news.yahoo.com
-hk.pool.ntp.org
 hk.rs
 hk.schroders.email
 hk.search.yahoo.com
@@ -90225,7 +90223,6 @@ joe92.com
 joebuhlig.com
 joefrance.org
 joefresh.com
-joehacks.com
 joehill.me
 joeing.duckdns.org
 joel.is
@@ -110058,6 +110055,7 @@ msdn.com
 msdn.microsoft.com
 msecure108.com
 msedge.api.cdp.microsoft.com
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.net
 mseeru.faz.net
 msetup.pro
@@ -118645,6 +118643,7 @@ ooumbr.ae.com.co
 oouwiw.emp-shop.dk
 oovpn.com
 oownik.com
+ooxoatse.com
 ooxx.me
 ooxxsearch.com
 ooyala.com

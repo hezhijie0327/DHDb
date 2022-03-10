@@ -10443,7 +10443,6 @@ apis1.ksapisrv.com
 apis2.gifshow.com
 apis2.ksapisrv.com
 apisgame.iqiyi.com
-apisnd.heytapmobi.com
 apisoft.df0535.com
 apissl.gifshow.com
 apissl.ksapisrv.com
@@ -58557,7 +58556,6 @@ share.baidu.com
 share.gzdsw.com
 share.huoshan.com
 share.jomodns.com
-share.ql1d.com
 share.wedobest.com.cn
 share1.chaoxing.com
 share1diantong.com

@@ -20287,7 +20287,6 @@ api.fusepowered.com
 api.fw.tv
 api.gaijinent.com
 api.gameofwhales.com
-api.geetest.com
 api.getadx.com
 api.getter-pantheon.net.zooplus.de
 api.getter-priv-nginx.net.zooplus.de
@@ -60292,6 +60291,7 @@ fei.pro-market.net
 fei580.com
 feiair.com
 feichangdao.com
+feicuiedu.com
 feidalu.com
 feidavalve.com
 feidugz.com
@@ -89439,7 +89439,6 @@ jeuxcheats.com
 jeuxclub.com
 jeuxhack.net
 jeuxpirate.fr
-jeuxpsvitagratuit.com
 jeuxtricheur.com
 jeuxvideo-live.com
 jeuxvideo.com
@@ -109206,11 +109205,9 @@ monsterbeatsbydrdre-usa.com
 monsterbeatsbydre-nz.com
 monsterbeatsbydre2015.com
 monsterbeatsbydreshop.com
-monsterbeatscasques.com
 monsterbeatsdrdrecheap.com
 monsterbeatsfactory.net
 monsterbeatsfinland.com
-monsterbeatsok.com
 monsterbeatsonlinestoreuk.com
 monsterbeatsoutlet.us
 monsterbeatssales.com

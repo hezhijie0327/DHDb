@@ -10747,6 +10747,7 @@ ab.adobe-identity.com
 ab.advertiserurl.com
 ab.co
 ab.fanatical.com
+ab11s.com
 ab126.com
 ab13.mktossl.com
 ab18a856-dnsotls-ds.metric.gstatic.com
@@ -20287,6 +20288,7 @@ api.fusepowered.com
 api.fw.tv
 api.gaijinent.com
 api.gameofwhales.com
+api.geetest.com
 api.getadx.com
 api.getter-pantheon.net.zooplus.de
 api.getter-priv-nginx.net.zooplus.de
@@ -26414,7 +26416,6 @@ beatrig.com
 beats-by-dre-australia.com
 beats-bydre-mall.com
 beats-bydrestore.com
-beats-bydreuk.com
 beats-deal.com
 beats-headphones-buy-cheap.com
 beats-headphones.us
@@ -44981,6 +44982,7 @@ d.hw-ns.emailvision.net.daraz.com
 d.hwcdn.ns.emailvision.net.daraz.com
 d.image-ad.jp
 d.impactradius-event.com
+d.jd.com.gslb.qianxun.com
 d.k3r.jp
 d.la1-c2-ia4.salesforceliveagent.com
 d.la3-c2-ia4.salesforceliveagent.com
@@ -51219,6 +51221,7 @@ download.cnet.com
 download.com
 download.coolhub.top
 download.developer.apple.com
+download.dlsite.com
 download.dm.origin.com
 download.dnv.com
 download.dnvgl.com
@@ -90087,7 +90090,6 @@ jmcomic.xyz
 jmdlzx.com
 jmedia360.com
 jmeishe.com
-jmf0.com
 jmgehn.cn
 jmjinrong.com
 jmjiuchang.com
@@ -93174,7 +93176,6 @@ knucklecharacteristichairdresser.com
 knuples.net
 knutenegros.pro
 knwekg.com
-kny999.com
 knymhv.ariat.com
 knzmrw.infojobs.net
 knzqjr.pult.ru
@@ -110649,7 +110650,6 @@ mvchallenges.s3-website-eu-west-1.amazonaws.com
 mvclub.net
 mvconf.f.360.cn
 mvdis.gov.tw
-mvdkcfyhtsq.com
 mvezin.modernperformance.com
 mvfglobal.com
 mvgreenpower.com
@@ -135047,7 +135047,6 @@ rrsubway.com
 rrtcfwmvhs.com
 rrtiantang.com
 rrtis.com
-rruu.net
 rrxldl.bol.de
 rrys.tv
 rrys2020.com

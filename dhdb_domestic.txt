@@ -2024,7 +2024,6 @@
 2.arpun.com
 2.centos.pool.ntp.org
 2.haoxue360.com
-2.openwrt.pool.ntp.org
 2.pic.pc6.com
 2.pool.ntp.org
 2.up.qingdaonews.com
@@ -10567,6 +10566,7 @@ app.mengtuiapp.com
 app.mi.com
 app.moji001.com
 app.myzaker.com
+app.nasyun.com
 app.navi.n.shifen.com
 app.nfcos.net.cn
 app.nga.cn
@@ -13415,7 +13415,6 @@ bjhengjia.net
 bjhmedia.jomodns.com
 bjhmedia2.bdstatic.com
 bjhmxx.net
-bjhouse.com
 bjhrkc.com
 bjhszp.com
 bjhtx.com
@@ -13632,7 +13631,6 @@ blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
-blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
@@ -29997,7 +29995,6 @@ gss0.baidu.com
 gss0.bdstatic.com
 gss3.bdstatic.com
 gssdlv.com
-gsstaf.com
 gst-china.net
 gstarcad.com
 gstat.bitauto.com
@@ -55427,6 +55424,7 @@ r-wss.uu.163.com
 r.99waiyu.com
 r.alicpd.top
 r.alimc1.top
+r.bing.com
 r.browser.miui.com
 r.bxb.oupeng.com
 r.dmp.sina.cn

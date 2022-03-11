@@ -10100,7 +10100,6 @@ api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.coconut.is
-api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -44024,7 +44023,6 @@ lyfff.com
 lyg.c21.com.cn
 lyg.live
 lyg01.net
-lyg321.com
 lygdfrcb.com
 lygfdc.com
 lyghi.com

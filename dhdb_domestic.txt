@@ -642,6 +642,7 @@
 1.800400.net
 1.92caijing.com
 1.aili.com
+1.asia.pool.ntp.org
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
@@ -1689,7 +1690,6 @@
 17xxl.com
 17ya.com
 17yaoqu.com
-17yc.com
 17ym.org
 17you.com
 17yucai.com
@@ -37134,6 +37134,7 @@ itaiping.com
 itakeeasy.com
 italy.haiwainet.cn
 italyclassico.com
+italycn.com
 itangbole.com
 itangyuan.com
 itanlian.com

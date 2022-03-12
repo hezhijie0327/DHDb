@@ -8210,7 +8210,6 @@ ads.mojicdn.com
 ads.oneway.mobi
 ads.privacy.qq.com
 ads.reader.yueyouxs.com
-ads.service.kugou.com
 ads.serving-sys.cn
 ads.shovtvnet.com
 ads.sina.com
@@ -14586,7 +14585,6 @@ c.wkanx.com
 c.woaiseo.com.cn
 c.wyykxyp.cn
 c.xbjcgs.cn
-c.xianglong360.cn
 c.xiaobaipan.com
 c.y.qq.com
 c.yes.youku.com
@@ -42819,7 +42817,6 @@ littlesheep.com
 littleswan.com
 liu-kevin.com
 liubaiapp.com
-liubangapp.com
 liubo.live
 liuc.info
 liucaijiu.com
@@ -47033,6 +47030,7 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
@@ -49005,7 +49003,6 @@ nxrxt.com
 nxsks.com
 nxtianshangb.com
 nxty88.com
-nxyqs.com
 ny-yy.com
 ny83.com
 nyato.com

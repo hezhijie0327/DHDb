@@ -2,6 +2,7 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -31350,7 +31351,6 @@ haorc.com
 haoread.com
 haorencai.net
 haorooms.com
-haosdhc.cn
 haoseals.com
 haosenchina.com
 haosf.com

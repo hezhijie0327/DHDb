@@ -18123,6 +18123,7 @@ cm.gamersky.com
 cm.gtags.net
 cm.he2d.com
 cm.ipinyou.com
+cm.jd.com
 cm.l.qq.com
 cm.lianmeng.360.cn
 cm.masky.biddingx.com
@@ -35518,7 +35519,6 @@ im286.net
 im298.com
 im2maker.com
 im323.com
-im520.com
 im577.com
 im58log.58.com
 im5i.com
@@ -43199,6 +43199,7 @@ log-lq.snssdk.com.w.cdngslb.com
 log-reyun-com-for-redirect-1246077432.cn-north-1.elb.amazonaws.com.cn
 log-sc.qutoutiao.net
 log-sdk.gifshow.com
+log-sdk.ksapisrv.com
 log-stats.weathercn.com
 log-upload.mihoyo.com
 log-yex.youdao.com
@@ -44959,7 +44960,6 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
-mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
@@ -51367,7 +51367,6 @@ phppx.com
 phpsong.com
 phpstat.aqsc.cn
 phpstat.cntcm.com.cn
-phpstat.net
 phpstattest01.chinacloudapp.cn
 phpstudy.net
 phpv.net
@@ -51637,6 +51636,7 @@ ping.doyo.cn
 ping.huatuo.qq.com
 ping.pinyin.sogou.com
 ping.qcloud.com
+ping.ubnt.com
 ping4.sina.cn
 ping46.sina.cn
 ping64.sina.cn
@@ -55073,7 +55073,6 @@ quyuansu.com
 quyundong.com
 quzhuanxiang.com
 quzzgames.com
-qv566.cn
 qva9gymr.v1d.szbdyd.com
 qva9jgjb.v1d.szbdyd.com
 qvadh6f3.v1d.szbdyd.com

@@ -2014,7 +2014,6 @@
 2.aili.com
 2.android.pool.ntp.org
 2.arpun.com
-2.centos.pool.ntp.org
 2.haoxue360.com
 2.pic.pc6.com
 2.pool.ntp.org
@@ -2054,7 +2053,6 @@
 20202020zzzzzz.one
 202030.com
 2021.dxsbb.com
-2021fafafa11.com
 2024781.sched.sma.tdnsv5.com
 20261eb6032a8616cd57416fb0a337dc.v.smtcdns.net
 2028471.v1mixipv6.baishan-cloud.com
@@ -12248,6 +12246,7 @@ bayimob.com
 bayinfu.com
 bayinh.com
 baymax.video
+baytaku.com
 bayuegua.com
 bayueju.com
 bayunhome.com
@@ -22749,6 +22748,7 @@ dl0728.com
 dl1.qwp365.cn
 dl10.china.line.qiniudns.com
 dl1023.tcdn.qq.com
+dl158.net
 dl2.gj.qq.com
 dl211qpe.v1d.szbdyd.com
 dl211rgf.v1d.szbdyd.com

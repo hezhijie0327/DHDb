@@ -2,7 +2,6 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -668,7 +667,6 @@
 1.pool.ntp.org
 1.proewildfire.cn
 1.qjhm.net
-1.qtmojo.com
 1.shopit.cn
 1.sj33.net
 1.snzfj.net
@@ -1913,7 +1911,6 @@
 1img.mgtv.com
 1iptv.com
 1j1x.net
-1jduan.com
 1jiajie.com
 1k2k.com
 1ka123.com
@@ -16385,6 +16382,7 @@ chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
+chat1.jd.com
 chat1.jd.com.gslb.qianxun.com
 chataixin59.byf.com
 chatm.com
@@ -27459,6 +27457,7 @@ flights.17u.cn
 flintos.com
 flip.fun
 fliplus.com
+flmcju.cn
 flnet.com
 flomoapp.com
 floor.jd.com
@@ -28845,7 +28844,6 @@ gdyunyin.net
 gdyxc.com
 gdzbs.com
 gdzhongshan.com
-gdzj8.com
 gdzp.org
 gdzs2018.cc
 gdzs2018.vip
@@ -30899,6 +30897,7 @@ h5s.sinaimg.cn
 h5seeds-open.xycdn.com
 h5seeds-open.xycdn.com.gslb.p2cdn.com
 h5shuo.com
+h5speed.m.jd.com
 h5speed.m.jd.com.gslb.qianxun.com
 h5ssl.1sapp.com
 h5ssl.1sapp.com.wswebpic.com
@@ -37642,7 +37641,6 @@ jbfoundry.com
 jbo28.com
 jbo311.com
 jbo568.com
-jbo600.com
 jbo65.com
 jbo8.com
 jbo830.com
@@ -50805,7 +50803,6 @@ passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
 passport.lagou.com
-passport.lenovo.com
 passport.lenovo.com.cn
 passport.meituan.com
 passport.mydrivers.com
@@ -57581,7 +57578,6 @@ sdgdxt.com
 sdgh.net
 sdgreg.cn
 sdgt1985.com
-sdguanglu.com
 sdgude.com
 sdguguo.com
 sdgw.com
@@ -59904,6 +59900,7 @@ sm-check.com
 sm-cq.com
 sm-main.com
 sm-mfk-com.sm-tc.cn
+sm-tc.cn
 sm.bdimg.com
 sm.cn
 sm.domob.cn
@@ -60517,7 +60514,6 @@ special.cnfol.com
 specie.chaoxing.com
 speed.control.vip.xunlei.com
 speed.gamecenter.qq.com
-speed.goods123.cn
 speed.ino.qq.com
 speed.tgp.qq.com
 speedeu.warsongmobile.com

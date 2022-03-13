@@ -1709,7 +1709,6 @@
 1807015877.180.160.113.57.46011.wifi.10b4293010.weibo.66.dnssina.com
 1807015877.180.160.119.86.46011.wifi.10b5093010.weibo.66.dnssina.com
 18095.com
-180qt.com
 181230.com
 18183.com
 181839.com
@@ -15656,6 +15655,7 @@ cdn.adapi.fotoable.com
 cdn.addon.tencentsuite.com
 cdn.adinall.com
 cdn.adm.myhayo.com
+cdn.ads.jlscds.com
 cdn.aiclicash.com
 cdn.aiclk.com
 cdn.aiclk.com.m.alikunlun.com
@@ -26993,7 +26993,6 @@ fengedu.com
 fengeini.com
 fengex.com
 fengfeng.cc
-fenggeba.com
 fenghuaju.cc
 fenghui.tv
 fenghuidongman.com
@@ -35594,6 +35593,7 @@ image.zzd.sm.cn
 image0.lietou-static.com
 image01.joying.com
 image01.joying.com.wswebpic.com
+image1.elife.icbc.com.cn
 image1.elife.icbc.com.cn.wscdns.com
 image1.yimizhibo.tv
 image100.360doc.com
@@ -47015,6 +47015,7 @@ msanjia.com
 msc.jd.com
 msc.jd.com.gslb.qianxun.com
 mscbsc.com
+msch.f.360.cn
 msclick2.kuwo.cn
 msdn.itellyou.cn
 msdn.itellyou.cn.w.kunluncan.com

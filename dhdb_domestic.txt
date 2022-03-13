@@ -26755,6 +26755,7 @@ fc5a4680d01d1c6ba98f9a6438993faf.safeframe.googlesyndication.com
 fc5tn.baidu.com
 fc6tn.baidu.com
 fca18fa3cbeb02e689dd6d2054bc0088.v.smtcdns.net
+fcai.com
 fcapi-ipv6.jpush.cn
 fcapi.jpush.cn
 fcard.api.moji.com
@@ -44266,7 +44267,6 @@ m.joyxv.com
 m.jr.jd.com
 m.jrj.com.cn
 m.jy135.com
-m.jzqyw.com
 m.k.sohu.com
 m.k73.com
 m.kafan.cn
@@ -44955,6 +44955,7 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
+mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
@@ -51963,7 +51964,6 @@ po.funshion.com
 po88.cc
 pobaby.net
 pobasoft.com
-pobiji001.com
 pocc.cc
 pocketdigi.com
 pocketuni.net
@@ -62965,7 +62965,6 @@ taobeihai.com
 taobeike.com
 taobz.com
 taoc.cc
-taocece.com
 taoche.com
 taoci.com
 taocloudx.com

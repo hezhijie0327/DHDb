@@ -10638,7 +10638,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-1-drcn.dbankcdn.com.c.cdnhwc1.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
@@ -39698,7 +39697,6 @@ jxedt.com
 jxedu.net
 jxeduyun.com
 jxetv.com
-jxf75.com
 jxg1.com
 jxgdw.com
 jxgxbd.com
@@ -43977,6 +43975,7 @@ ly-sky.com
 ly.com
 ly200-cdn.com
 ly200.com
+ly2si17.cn
 ly39zx.com
 ly522.com
 ly93.cc
@@ -45645,7 +45644,6 @@ mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
 mercury.jd.com
-mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com
 mermaid.ximalaya.com

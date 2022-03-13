@@ -22816,6 +22816,7 @@ dlcdnwebimgs.asus.com.cn
 dlcdnwebimgs.asus.com.cn.cdnudns.com
 dlcfg.client.v6.chub.sandai.net
 dlcontrol.chub.sandai.net
+dld.com
 dld56.com
 dldir.tc.qq.com
 dldir1.legao.sched.dcloudstc.com
@@ -32563,6 +32564,7 @@ hk07.dns.meo-sub.xyz
 hk08.dns.meo-sub.site
 hk08.dns.meo-sub.xyz
 hk1.cdn.web.ctfile.net
+hk50606.cn
 hk515.net
 hk6qfo1.cdnnodedns.cn
 hk6vc33w.v1d.szbdyd.com
@@ -41800,7 +41802,6 @@ le0000.com
 le1-prod-all-gs-gzlj.bilibiligame.net
 le1-prod-all-gs-gzlj.bilibiligame.net.w.cdngslb.com
 le123.cn
-le166.com
 le3-api.game.bilibili.com
 le5le.com
 le890.com

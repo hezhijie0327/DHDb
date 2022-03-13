@@ -8609,6 +8609,7 @@
 979799777.com
 979f5274-dnsotls-ds.metric.gstatic.com
 97bike.com
+97cms.com
 97d73lsi.com
 97dd7d03-dnsotls-ds.metric.gstatic.com
 97dod.com
@@ -20705,7 +20706,6 @@ aplus.com
 aplusvpn.com
 apm-engine.meteor.com
 apm-proxy.app.elstc.co
-apm.crittercism.com
 apm.tnet.nl
 apmarry.com
 apmebf.com
@@ -34577,7 +34577,6 @@ caspionlog.appspot.com
 casql.com
 casquebeatsdre2013.com
 casquebeatsenligne.com
-casquebeatsmer.net
 casquebeatsofficiel-fr.com
 casquebeatspascher2013.com
 casquebeatssolo.net
@@ -61993,7 +61992,6 @@ fmipmobile.fe.apple-dns.net
 fmipmobile.icloud.com
 fmketang.cn
 fmketang.com
-fmkfzc.com
 fmkgvu.nestpick.com
 fmkys.com
 fmm.io
@@ -65442,7 +65440,6 @@ gamingadult.com
 gamingcitadel.com
 gamingcounter.com
 gamingfun.me
-gaminghacks24.com
 gaminghazard.com
 gaminglocation.com
 gamingmedia.ru
@@ -111836,7 +111833,6 @@ napxv.com
 naqboz.eadwyden.com.br
 naqigs.com
 naradxb.com
-narcosxxx.com
 nard.ca
 narkalignevil.com
 narod.ru
@@ -140421,6 +140417,7 @@ sg3.notarize.com
 sg360.com
 sg5.vip
 sg50.vip
+sg505.com
 sg536.cn
 sg60.vip
 sg668.com

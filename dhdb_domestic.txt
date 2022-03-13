@@ -21569,6 +21569,7 @@ dd-search.jd.com
 dd-search.jd.com.gslb.qianxun.com
 dd-static.jd.com
 dd.iask.cn
+dd.lofujj.com
 dd.meituan.com
 dd.mifengxiuchang.com
 dd.myapp.com
@@ -35604,6 +35605,7 @@ image3.mall.icbc.com.cn.wscdns.com
 image5.mall.icbc.com.cn.wscdns.com
 image6.mall.icbc.com.cn
 image6.mall.icbc.com.cn.wscdns.com
+image7.mall.icbc.com.cn
 image7.mall.icbc.com.cn.wscdns.com
 image8.mall.icbc.com.cn.wscdns.com
 image82.360doc.cn
@@ -58298,6 +58300,7 @@ sh.gsxt.gov.cn
 sh.ioiox.net
 sh.ipv6.photo.store.qq.com.tcdn.qq.com
 sh.jd.com
+sh.jd.com.gslb.qianxun.com
 sh.ke.com
 sh.lianjia.com
 sh.mp.weixin.qq.com

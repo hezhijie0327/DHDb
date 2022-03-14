@@ -4336,6 +4336,7 @@
 3632607.notifysrv.com
 3637.com
 363lm.com
+363u.com
 3648599.notifysrv.com
 365-588.com
 365-stream.com
@@ -14890,6 +14891,7 @@ adserv005.adtech.fr
 adserv005.adtech.us
 adserv006.adtech.fr
 adserv007.adtech.fr
+adserv007.adtech.us
 adserv008.adtech.fr
 adserv2.bravenet.com
 adserve.ams.rhythmxchange.com
@@ -74043,7 +74045,6 @@ google.com.ua
 google.com.uy
 google.com.vc
 google.com.vn
-google.comwikipedia.org
 google.cv
 google.cz
 google.de

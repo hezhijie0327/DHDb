@@ -10097,6 +10097,7 @@ api.cp12.ott.cibntv.net
 api.cportal.cctv.com
 api.cpu.baidu.com
 api.crucio.hecdn.com
+api.csxsyp.cn
 api.cupid.dns.iqiyi.com
 api.cupid.iqiyi.com
 api.cupid.ptqy.gitv.tv
@@ -26577,7 +26578,6 @@ fanhougame.com
 fanhuan.com
 fanhui.douxiaotoutiao.com
 faniuwenda.com
-fanjian.net
 fanjian8.com
 fanjianhome.com
 fanjinyan.com
@@ -51985,7 +51985,6 @@ pnetp.org
 pnewsapp.tc.qq.com
 png.doc88.com
 png.lu.sogoucdn.com
-pngbag.com
 pngui.com
 pnlyy.com
 pnol.net

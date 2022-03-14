@@ -20237,6 +20237,7 @@ api.cloudmobi.net
 api.codacy.com
 api.codeclimate.com
 api.coinerra.com
+api.comm.miui.com
 api.company-target.com
 api.container.net.zooplus.de
 api.cookielaw-script.it
@@ -63436,7 +63437,6 @@ freegeneratorhack.com
 freegeoip.app
 freegies.com
 freegift001.000webhostapp.com
-freegiftcardcode.gq
 freegiftcardcode.net
 freegiftcardcode.win
 freegiftcardgenerator.com
@@ -83466,6 +83466,7 @@ inboldoreer.com
 inbooker.com
 inbound-analytics.pixlee.co
 inbound.veem.com
+inbox-messages.net
 inbox.alumni.utoronto.ca
 inbox.com
 inbox.lv
@@ -125493,7 +125494,6 @@ pop.com.br
 pop.dmglobal.com
 pop.dojo.cc
 pop.dtoo1.space
-pop.mrstiff.com
 pop.porn.fr
 pop.redirect.adsjudo.com
 pop.turnik.su

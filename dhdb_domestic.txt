@@ -4366,6 +4366,7 @@
 532ee8e94bae15d2c40e28774fe292e9.dlied1.cdntips.net
 533y.com
 535300.net
+535o.com
 53617686.com
 5365.com
 5365253.b2b.jinanfa.cn
@@ -37205,7 +37206,6 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
-item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com
@@ -44985,7 +44985,6 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
-mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn

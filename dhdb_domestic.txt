@@ -5559,7 +5559,6 @@
 798ydh.com
 799.net
 7999.com
-7999.tv
 799job.com
 79ce7e11.qc.x.bsgslb.cn
 79ce7e12.qc.x.bsgslb.cn
@@ -9392,7 +9391,6 @@ allwinnertech.com
 allyes.com
 allyes.net
 allystar.com
-alma-intl.com
 almenon.gallerycdn.azure.cn
 alog-default.umeng.com
 alog.umeng.com
@@ -25276,6 +25274,7 @@ edx-cdn.org
 ee-lb.bytedns.net
 ee-skin.com
 ee-vip.net
+ee.zn8ni.cn
 ee34d54ae2314884e4ae20efa1451b35.dl.txcdns.com
 ee6a315087c7ffb1d58d8ae7ce7cf4d7.dl.txcdns.com
 eeb8ea29c0ac4b2ba1bf8960.mdbook.cn
@@ -50951,6 +50950,7 @@ pbmp.ali213.net
 pbootcms.com
 pbpay.didistatic.com
 pbs9fbvz.sched.ska2lego-dk.tdnsv5.com
+pbsvpn.com
 pbsz.ebank.cmbchina.com
 pbtdl.com
 pbtxt.com

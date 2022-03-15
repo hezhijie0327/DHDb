@@ -10148,6 +10148,7 @@ api.hellobike.cn
 api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
+api.huangye.miui.com
 api.huya.com
 api.hyhuo.com
 api.i-meto.com
@@ -22458,6 +22459,7 @@ dimg05.c-ctrip.com
 dimg05.c-ctrip.com.wscdns.com
 dimg06.c-ctrip.com
 dimg06.c-ctrip.com.wscdns.com
+dimg07.c-ctrip.com
 dimg07.c-ctrip.com.wscdns.com
 dimg08.c-ctrip.com
 dimg08.c-ctrip.com.wscdns.com
@@ -46810,7 +46812,6 @@ moonfly.net
 mooninbox.com
 moonjer.com
 moonlian.com
-moontc.com
 moooc.cc
 moorburn.com
 moore.live

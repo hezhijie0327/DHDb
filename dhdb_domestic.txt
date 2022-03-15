@@ -8205,6 +8205,7 @@ ads.mojicdn.com
 ads.oneway.mobi
 ads.privacy.qq.com
 ads.reader.yueyouxs.com
+ads.service.kugou.com
 ads.serving-sys.cn
 ads.shovtvnet.com
 ads.sina.com
@@ -31364,6 +31365,7 @@ haorc.com
 haoread.com
 haorencai.net
 haorooms.com
+haosdhc.cn
 haoseals.com
 haosenchina.com
 haosf.com
@@ -51403,7 +51405,6 @@ phpsong.com
 phpstat.aqsc.cn
 phpstat.cntcm.com.cn
 phpstattest01.chinacloudapp.cn
-phpstudy.net
 phpv.net
 phpvar.com
 phpvod.com

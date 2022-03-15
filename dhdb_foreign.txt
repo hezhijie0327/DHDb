@@ -6135,6 +6135,7 @@
 59bo.net
 59cn7.com
 59d319147c99d0010ef0bea9a2827b75.clo.footprintdns.com
+59di.com
 59e6ea7248001c.com
 59edu.com
 59ee.net
@@ -7132,7 +7133,6 @@
 7500ef52-dnsotls-ds.metric.gstatic.com
 750g.com
 7510994.com
-751790.com
 752516.cc
 752899.com
 755.etowns.org
@@ -20303,7 +20303,6 @@ api.cloudmobi.net
 api.codacy.com
 api.codeclimate.com
 api.coinerra.com
-api.comm.miui.com
 api.company-target.com
 api.container.net.zooplus.de
 api.cookielaw-script.it
@@ -54591,7 +54590,6 @@ edysn.cn
 ee-forum.org
 ee-h.phncdn.com
 ee.0pi84.cn
-ee.1s8pj.cn
 ee.6x53p.cn
 ee.71zrh.cn
 ee.89kvh.cn
@@ -61132,7 +61130,6 @@ fimserve.myspace.com
 fimuod.korkmazstore.com.tr
 fimyxg.bloomberght.com
 fimyxg.haberturk.com
-fin-vecto.ru
 fin-vector.ru
 fin.tips
 fin24.com
@@ -84005,6 +84002,7 @@ infinittna.com
 infinity-tracking.net
 infinityads.com
 infinityid.condenastdigital.com
+infinitynewtab.com
 infinitysocks.com
 infinitytrk.com
 infirmaryglare.com

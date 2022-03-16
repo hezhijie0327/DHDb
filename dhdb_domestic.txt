@@ -1779,7 +1779,6 @@
 18qiang.com
 18rhbg.tdum.alibaba.com
 18shuwu.com
-18touch.com
 18vps.com
 19.offcn.com
 1903it.com
@@ -18403,7 +18402,6 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -21660,7 +21658,6 @@ ddqcw.com
 ddske.com
 ddstarapp.com
 ddswcm.com
-ddtaba.com
 ddtugame.com
 ddun.com
 ddurl.to
@@ -31991,6 +31988,7 @@ heixi.com
 heiyaheiya.com
 heiyan.com
 heiyanwang.com
+heiying.cc
 heiyuege.com
 heiyuewan.com
 heizhushoes.com

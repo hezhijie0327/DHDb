@@ -33453,7 +33453,6 @@ httpdns.meituan.com
 httpdns.n.netease.com
 httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
-httpdns.push.oppomobile.com
 httprunner.org
 https-play-g3proxy.lecloud.com
 https.eol.cn
@@ -40852,6 +40851,7 @@ kq520.net
 kq7.com
 kq81.com
 kq88.com
+kqcfcw.com
 kqgeo.com
 kqidong.com
 kqj123.com
@@ -44989,6 +44989,7 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
+mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn

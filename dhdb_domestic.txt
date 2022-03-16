@@ -10053,7 +10053,6 @@ api.22lianmeng.com
 api.3839app.com
 api.5hte21mz.com
 api.account.xiaomi.com
-api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adnet.mob.com
 api.adxpand.com
@@ -29633,7 +29632,6 @@ gongsizhijia.com
 gongwt.com
 gongxiangcj.com
 gongxiao8.com
-gongxifacai21.top
 gongxifc.com
 gongxuku.com
 gongye360.com
@@ -61626,6 +61624,7 @@ suanning.com
 suanya.cn
 suanya.com
 suapp.me
+sub.alisinak.com
 sub.ykimg.com
 sub1.bgp.netarch-aliec2-edge-lb.l.bytedns.net
 sub2.bgp.netarch-aliec2-edge-lb.l.bytedns.net

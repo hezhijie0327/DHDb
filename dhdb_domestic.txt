@@ -2,6 +2,7 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -3004,6 +3005,7 @@
 36d98a0e7decb0d002d867d0a9020fff.dlied1.cdntips.net
 36dianping.com
 36dj.com
+36g.top
 36hjob.com
 36jr.com
 36kr.com
@@ -10150,6 +10152,7 @@ api.hengdianfilm.com
 api.home.news.cn
 api.huangye.miui.com
 api.huya.com
+api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -38630,7 +38633,6 @@ jiumaojiu.com
 jiumaster.com
 jiumei.com
 jiunile.com
-jiupaicn.com
 jiupin8.com
 jiuq.com
 jiuqihb.cn
@@ -47059,7 +47061,6 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 msedge.b.tlu.dl.delivery.mp.microsoft.com
-msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net

@@ -81910,7 +81910,6 @@ ic.ie.027ie.com
 ic.slyip.net
 ic.tynt.com
 ic3.events.data.microsoft.com
-ic86doc.com
 icab.pk
 icad.ae.org
 icaeconf.com
@@ -116690,6 +116689,7 @@ nwtrih.ticket.com.br
 nwwap.com
 nwxs2.com
 nwxs4.com
+nwxzs.com
 nwyhtl.hollyhood.com.tr
 nx.cm
 nxadmin.com
@@ -132430,7 +132430,6 @@ rdrceting.com
 rdrctgoweb.com
 rdrtech.com
 rdrtrk.com
-rds.alipay.com
 rds.ca
 rdsa2012.com
 rdsa2013.com

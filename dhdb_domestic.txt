@@ -10194,6 +10194,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -40113,6 +40114,7 @@ kanfeidie.com
 kangaiweishi.com
 kangame.tv
 kangaroo.alicdn.com
+kangaroo.alicdn.com.danuoyi.tbcache.com
 kangbaifoundation.com
 kangbatv.com
 kangbidz.com
@@ -42716,6 +42718,7 @@ linlin.com
 linlizone.com
 linlongyun.com
 linlongyx.com
+linni.com
 linnsea.com
 linnyou.com
 linovel.co
@@ -45671,7 +45674,6 @@ mercury-image.nhsoft.cn
 mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
-mercury.jd.com
 merge.report.url.cn
 mergeek.com
 mermaid.ximalaya.com
@@ -56522,7 +56524,6 @@ rtjxssj.com
 rtlog.vidown.cn
 rtmap.com
 rtmonitor.kugou.com
-rtnp.just9229.cn
 rtprod.pae.baidu.com
 rtsac.org
 rtsoup.com
@@ -58332,7 +58333,6 @@ sh.gsxt.gov.cn
 sh.ioiox.net
 sh.ipv6.photo.store.qq.com.tcdn.qq.com
 sh.jd.com
-sh.jd.com.gslb.qianxun.com
 sh.ke.com
 sh.lianjia.com
 sh.mp.weixin.qq.com

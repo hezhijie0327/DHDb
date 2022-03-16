@@ -1779,7 +1779,6 @@
 18ph.com
 18qiang.com
 18rhbg.tdum.alibaba.com
-18shuwu.com
 18vps.com
 19.offcn.com
 1903it.com
@@ -13835,6 +13834,7 @@ bogokj.com
 bohailife.net
 bohaishibei.com
 bohaiyun.com
+bohe.cn
 bohe.com
 bohuihe.com
 bohutmt.com
@@ -27544,6 +27544,7 @@ fmip.fe.apple-dns.cn
 fmipmobile.fe.apple-dns.cn
 fmky2309862.atobo.com
 fmobi.cn
+fmpan.com
 fms-image.missfresh.cn
 fms-image.missfresh.cn.wswebcdn.com
 fms-mdl.oss-cn-beijing.aliyuncs.com
@@ -41737,6 +41738,7 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
+lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsgwh5.m.jd.com
 lbsgwh5.m.jd.com.gslb.qianxun.com
@@ -43529,7 +43531,6 @@ looktmt.com
 lookvin.com
 loome.net
 loonapp.com
-loongnix.com
 loongnix.org
 loongshine.com
 loongsin.com

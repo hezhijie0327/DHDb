@@ -34944,7 +34944,6 @@ icourt.cc
 icp.chinaz.com
 icp21.com
 icpcw.com
-icphu.com
 icpisp.net
 icr-cn.asus.com.cn
 icsc.sps.expressplay.cn
@@ -40392,7 +40391,6 @@ kenxq.com
 kenxr.com
 kepingtong.com
 kepler-cn.captcha.qcloud.com
-kepler.jd.com
 kepler.ptqy.gitv.tv
 kepuchina.org
 kepusky.com
@@ -48989,6 +48987,7 @@ nvidia-china.com
 nvkfkpsp2pyh1bj9bwcv79lsm66x0l1t.aliyundunwaf.com
 nvliren.com
 nvshenfan.com
+nvsheng.com
 nvtnet.com
 nvude3.com
 nvwu.com

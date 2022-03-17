@@ -18405,6 +18405,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -44221,7 +44222,6 @@ m.dancihu.com
 m.data.accuratead.cn
 m.data.mob.com
 m.dayoo.com
-m.dceni.com
 m.dgzj.com
 m.dianping.com
 m.diya1.com
@@ -45674,6 +45674,7 @@ mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
 mercury.jd.com
+mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com
 mermaid.ximalaya.com
@@ -58329,7 +58330,6 @@ sh.file.myqcloud.com
 sh.gsxt.gov.cn
 sh.ioiox.net
 sh.ipv6.photo.store.qq.com.tcdn.qq.com
-sh.jd.com
 sh.ke.com
 sh.lianjia.com
 sh.mp.weixin.qq.com

@@ -10846,7 +10846,6 @@ aqumon.com
 aqv.hicloud.com
 aqy.365dmp.com
 aqyun.com
-aqyzm.com
 aqyzmedia.yunaq.com
 aqzpw.com
 aqzt.com
@@ -15689,6 +15688,7 @@ cdn.cytivalifesciences.com.cn
 cdn.data.video.iqiyi.com
 cdn.data.video.ptqy.gitv.tv
 cdn.dcloud.net.cn
+cdn.dianshihome.com
 cdn.dingxiang-inc.com
 cdn.dsp.com
 cdn.exp.xiaomi.com
@@ -18403,6 +18403,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -40152,6 +40153,7 @@ kanseen.com
 kanshangji.com
 kanshangjie.com
 kanshu.com
+kanshu5.la
 kanshuhai.com
 kanshuwangzhan.com
 kantao.net
@@ -47049,7 +47051,6 @@ msdn.itellyou.cn.w.kunluncan.com
 mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
-msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net
@@ -50128,7 +50129,6 @@ p-ins15273-15273.lbc-vip.ntes53.netease.com
 p-l.play.aiseet.atianqi.com
 p-vp.autohome.com.cn
 p.2345.6463.com
-p.3.cn
 p.3.cn.gslb.qianxun.com
 p.37see.com
 p.51gowan.com

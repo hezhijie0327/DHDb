@@ -13634,6 +13634,7 @@ blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
+blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
@@ -15242,7 +15243,6 @@ cbuagwcmn.1688.com
 cburi.com
 cbvac.com
 cbxdxg.com
-cbyckdf.cn
 cc-hn1.lol.qq.com
 cc-i.gridsumdissector.com
 cc.anjuke.com
@@ -23268,6 +23268,7 @@ dongyin.net
 dongying.baixing.com
 dongzhougroup.com
 donhonet.net
+doniv.net
 donjayamanne.gallerycdn.azure.cn
 donvv.com
 dooccn.com
@@ -39749,7 +39750,6 @@ jxndxuebao.com
 jxnxs.com
 jxold.com
 jxpta.com
-jxpxzxf.cn
 jxqcw.com
 jxrencai.com
 jxrsrc.com
@@ -46237,7 +46237,6 @@ mipstatic.sm-tc.cn
 miquapp.com
 mir4399.com
 miraclevision.net
-mirgaga.net
 mirmzhy.com
 mirror.iscas.ac.cn
 mirror.sjtu.edu.cn
@@ -59949,6 +59948,7 @@ sm96596.com
 sma.hy.qcloudcdn.qq.com
 small.static.cdnudns.com
 smallapp.club
+smallk.net
 smallpdfer.com
 smallyuan.com
 smarch.com

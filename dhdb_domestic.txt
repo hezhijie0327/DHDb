@@ -4503,6 +4503,7 @@
 57023.com
 571400.net
 571b8d24.fyeds2.com
+571free.com
 571xz.com
 572nko0.cachenode.cn
 57471e2c33d0e276334968c5fb52d0e3.dlied1.cdntips.net
@@ -7884,7 +7885,6 @@ ad.de.doubleclick.net
 ad.dedecms.com
 ad.dev.360.cn
 ad.dongdong.madserving.com
-ad.doubanio.com
 ad.doubleclick.net
 ad.duomi.com
 ad.dzwindows.com
@@ -36698,7 +36698,6 @@ intl.aliyun.com
 intldlgs.qq.com
 intmedic.com
 intmian.com
-intnet.net
 intopet.com
 intowz.com
 intozgc.com
@@ -45676,7 +45675,6 @@ mercury-image.nhsoft.cn
 mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
-mercury.jd.com
 mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com

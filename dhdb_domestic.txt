@@ -2,7 +2,6 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -18341,7 +18340,6 @@ cn-railway.net
 cn-roofexpert.com
 cn-sdjn2-cu-v-02.bilivideo.com
 cn-sdjn2-cu-v-03.bilivideo.com
-cn-sdjn3-cu-v-03.bilivideo.com
 cn-sdyt-cu-v-01.bilivideo.com
 cn-sdyt-cu-v-02.bilivideo.com
 cn-sdyt-cu-v-04.bilivideo.com
@@ -27243,7 +27241,6 @@ files.alicdn.com
 files.alicdn.com.danuoyi.tbcache.com
 files.cnblogs.com
 files.gamedog.cn
-files.gitee.com
 files.jb51.net
 files.nasyun.com
 files.nasyun.com.w.kunlunca.com
@@ -62444,7 +62441,6 @@ szputy.com
 szpxe.com
 szqcz.com
 szqf.org
-szqgzx.com
 szqhbs.cn
 szqianbaidun.com
 szqinxindz.com

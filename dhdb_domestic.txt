@@ -5260,6 +5260,7 @@
 70dir.com
 70e.com
 70god.com
+70lm.com
 70mao.com
 70ppt.com
 70soft.com
@@ -18403,7 +18404,6 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com

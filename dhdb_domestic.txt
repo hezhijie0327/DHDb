@@ -10253,7 +10253,6 @@ api.s.suv666.com
 api.samsungcloudcn.com
 api.sdbao.com
 api.sdk.fmobi.cn
-api.sec.miui.com
 api.share.baidu.com
 api.share.mob.com
 api.share.n.shifen.com
@@ -19234,7 +19233,6 @@ connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
 connectivitycheck.gstatic.com
-connectivitycheck.platform.hicloud.com
 connector-systems.com
 connpm.gj.qq.com
 connps.gj.qq.com
@@ -21802,6 +21800,7 @@ denachina.com
 dengfeilong.com
 denghaoxuan.com
 denglu.cc
+dengmoe.com
 dengpeng.me
 dengta120.com
 dengtacj.com
@@ -34965,7 +34964,6 @@ ictr.cn
 ictun.com
 ictuniv.com
 icuh4nsi8ym9bj3p5x81otfx9kpw6uja.yundunwaf2.com
-icuiya.com
 icv.cn
 icver.com
 icvip.com
@@ -47048,6 +47046,7 @@ msdn.itellyou.cn.w.kunluncan.com
 mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
+msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net

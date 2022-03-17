@@ -29279,6 +29279,7 @@ gitbook.net
 gitclone.com
 gitcode.net
 gitduck.gallerycdn.azure.cn
+gitee.com
 github-avatars.oss-cn-hongkong.aliyuncs.com
 github.gallerycdn.azure.cn
 gitissue.com

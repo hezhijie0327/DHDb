@@ -663,7 +663,6 @@
 1.openwrt.pool.ntp.org
 1.pic.pc6.com
 1.pncdn.cn
-1.pool.ntp.org
 1.proewildfire.cn
 1.qjhm.net
 1.shopit.cn
@@ -61720,7 +61719,6 @@ suishenyun.net
 suishouji.com
 suisuijiang.com
 suitesmart.com
-suixin8.com
 suixingjia.com
 suixw.com
 suiyiju.com

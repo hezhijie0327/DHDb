@@ -18560,7 +18560,6 @@ cnelite.org
 cneln.net
 cnemb.com
 cnena.com
-cnenergy.org
 cneol-dns.net
 cnepaper.com
 cnepaper.net
@@ -23411,7 +23410,6 @@ down.chinaz.com
 down.diannaodian.com
 down.dingtalk.com
 down.ewo1617.com
-down.fuzhugo.com
 down.game.qq.com
 down.game.qq.com.sched.dlied1.tdnsv5.com
 down.game.qq.com.sched.p1.tdnsv6.com
@@ -29016,7 +29014,6 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
-get.sogou.com
 get.vip
 getapk.cn
 getbingo.net
@@ -59036,6 +59033,7 @@ shop.jd.com
 shop.jd.com.gslb.qianxun.com
 shop.lenovo.com.cn
 shop.lenovo.com.cn.wscdns.com
+shop.m.jd.com
 shop.m.jd.com.gslb.qianxun.com
 shop.m.taobao.com
 shop.m.tmall.com

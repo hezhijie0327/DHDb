@@ -6444,7 +6444,6 @@ ads.banner.t-online.de
 ads.barnonedrinks.com
 ads.battle.net
 ads.baventures.com
-ads.bbcworld.com
 ads.beeb.com
 ads.belointeractive.com
 ads.bestads.me
@@ -17219,6 +17218,7 @@ crossfitfirestone.com
 crossingstatedsideway.com
 crosslocated.net
 crossthewall.net
+crosswalk-project.net
 crownclam.com
 crowndecoration.net
 crownsafe.net
@@ -17381,7 +17381,6 @@ csgo-drop.com
 csgo-emerald.com
 csgo-explosion.com
 csgo-fierce.com
-csgo-fight.com
 csgo-finder.com
 csgo-fire.pro
 csgo-fortune.com
@@ -34099,6 +34098,7 @@ jiujhzp.com
 jiuji.ltd
 jiujigroup.top
 jiujiinc.top
+jiujiups.com
 jiujiushishi.com
 jiujiuyunhui.com
 jiujiuzi.com
@@ -44725,7 +44725,6 @@ oascentral.scientificamerican.com
 oascentral.seacoastonline.com
 oascentral.seattleweekly.com
 oascentral.sfgate.com
-oascentral.sfweekly.com
 oascentral.sina.com
 oascentral.sina.com.hk
 oascentral.sparknotes.com

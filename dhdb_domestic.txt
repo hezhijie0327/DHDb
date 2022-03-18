@@ -10050,6 +10050,7 @@ api.22lianmeng.com
 api.3839app.com
 api.5hte21mz.com
 api.account.xiaomi.com
+api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adnet.mob.com
 api.adxpand.com
@@ -27254,6 +27255,7 @@ files.alicdn.com
 files.alicdn.com.danuoyi.tbcache.com
 files.cnblogs.com
 files.gamedog.cn
+files.gitee.com
 files.jb51.net
 files.nasyun.com
 files.nasyun.com.w.kunlunca.com

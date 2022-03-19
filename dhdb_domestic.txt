@@ -6916,7 +6916,6 @@
 99read.com
 99sun.com
 99sushe.com
-99tianxin.com
 99vu.com
 99wed.com
 99weiqi.com
@@ -12465,6 +12464,7 @@ bd.pull.yximgs.com.a.bcelive.com
 bd.push.yximgs.com
 bd.push.yximgs.com.b.bcelive.com
 bd.watu.cn
+bd.zhpxkl.cn
 bd07322b9d4aa75a140346bd8e933d3f.dlied1.cdntips.net
 bd1-china.6789.com
 bd1-china.xsfaya.com

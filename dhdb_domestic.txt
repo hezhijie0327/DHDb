@@ -10050,7 +10050,6 @@ api.22lianmeng.com
 api.3839app.com
 api.5hte21mz.com
 api.account.xiaomi.com
-api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adnet.mob.com
 api.adxpand.com
@@ -18582,7 +18581,6 @@ cnfirst.org
 cnfish.com
 cnfisher.com
 cnfol.com
-cnfolimedia.qtmojo.com
 cnfolimg.com
 cnforever.com
 cnforex.com

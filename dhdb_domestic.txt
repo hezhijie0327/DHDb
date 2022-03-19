@@ -8076,6 +8076,7 @@ adimg.mobile.sina.cn
 adimg.uve.weibo.com
 adimg.youku.com
 adimg.zui.com
+adimgs.xici.net
 adinall.com
 adinallcdn.com
 adirects.com
@@ -20066,7 +20067,6 @@ ctdsb.net
 cteaw.com
 ctecdcs.com
 ctex.org
-ctexcel.ca
 ctexcel.com
 ctexcel.fr
 ctfile.com
@@ -26837,6 +26837,7 @@ fdmgj.com
 fdn.geekzu.org
 fdpx.com
 fds.api.moji.com
+fds.so
 fdsr.org
 fdtuflwl.sched.d0.tdnsv5.com
 fduky.com
@@ -44328,6 +44329,7 @@ m.le.com
 m.lengren.com.cn
 m.lenovo.com.cn
 m.lenovo.com.cn.wscdns.com
+m.leyuman.com
 m.liujiaqi.top
 m.lizhi.fm
 m.lousivency.com.cn

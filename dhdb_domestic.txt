@@ -2690,7 +2690,6 @@
 330123456.com
 3304399.net
 33105.com
-3313dd.com
 331872.b2b.jinanfa.cn
 3321.com
 3322.net
@@ -19453,6 +19452,7 @@ cp.5jjx.net
 cp.7y7.com
 cp.eastmoney.com
 cp.gs307.com
+cp.h5.coffeedak.cn
 cp.jfcdns.com
 cp.qbaobei.com
 cp.ra.icast.cn
@@ -19743,7 +19743,6 @@ cre.dp.sina.cn
 cre.mix.sina.com.cn
 cre.net
 cread.com
-cread.jd.com
 cread.jd.com.gslb.qianxun.com
 creatby.com
 createcdigital.com
@@ -37212,6 +37211,7 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
+item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com

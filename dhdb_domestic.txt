@@ -37301,7 +37301,6 @@ itrip.meituan.com
 itruke.com
 itruni.com
 its.bjmu.edu.cn
-its.fugetech.com
 its114.com
 itsdata.map.baidu.com
 itshai.com
@@ -52072,6 +52071,7 @@ poobbs.com
 poocg.com
 poofx.com
 pook.com
+pool.ntp.org
 pool.v6.bt.n0808.com
 poolct.17173.com
 pooldist.shouyou.com

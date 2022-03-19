@@ -10095,6 +10095,7 @@ api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.coconut.is
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -23611,7 +23612,6 @@ drdwy.com
 dream1986.com
 dream4ever.org
 dreamad.mobi
-dreamchasercapital.com
 dreamersall.com
 dreamershop.com
 dreamfull.cn
@@ -31462,7 +31462,6 @@ happyplaygame.net
 happytrave.com
 happyux.com
 happyya.com
-happyyong.com
 haqu.com
 harbin-electric.com
 harborhousehome.com
@@ -40126,6 +40125,7 @@ kanfeidie.com
 kangaiweishi.com
 kangame.tv
 kangaroo.alicdn.com
+kangaroo.alicdn.com.danuoyi.tbcache.com
 kangbaifoundation.com
 kangbatv.com
 kangbidz.com

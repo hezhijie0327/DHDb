@@ -11120,7 +11120,6 @@ astat.bugly.qq.com
 astep.info
 astfc.com
 asthis.net
-astorpiano.com
 astrategy.beacon.qq.com
 astro.awwlrd.cn
 astro.sina.com.cn
@@ -18043,6 +18042,7 @@ club-huawei.weathercn.com
 club-img.douyucdn.cn
 club-v4.chinanorth.cloudapp.chinacloudapi.cn
 club.bilibili.com
+club.jd.com
 club.jd.com.gslb.qianxun.com
 club.lenovo.com.cn
 club.m.autohome.com.cn
@@ -50050,7 +50050,6 @@ oufengblog.com
 oufusoft.com
 ougei.com
 ouguan.pptv.com
-ouhua.info
 ouj.com
 oujistore.com
 oukan.online

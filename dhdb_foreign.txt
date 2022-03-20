@@ -714,6 +714,7 @@
 1.car21.net.daraz.com
 1.circlecvi.com
 1.cms.s81c.com
+1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -4625,6 +4626,7 @@
 3d.mypop3.net
 3d.shophumanoid.com
 3d0cb547.space
+3d2013.com
 3d2s.com
 3d722359-dnsotls-ds.metric.gstatic.com
 3days.cc
@@ -42988,7 +42990,6 @@ cpxinteractive.com
 cpxl.golem.de
 cpython.org
 cpz.to
-cpzkevanfjg.com
 cq.hq1.influitive.com
 cq11.net
 cq315.org
@@ -80087,7 +80088,6 @@ houtroos.com
 houtu666.com
 houyuantuan.com
 houzz.com
-hoveoilnoun.casa
 hover.in
 hoverfly.cdengine.co.uk
 hoverfly.dailyblocks.tv
@@ -112044,7 +112044,6 @@ myucla.com
 myunderseaworld.com
 myuni.adelaide.edu.au
 myunidays.com
-myusersonline.com
 myushan.com
 myuvmedu-my.sharepoint.com
 myuyvl.slendertone.com
@@ -142506,6 +142505,7 @@ sifflettreetop.com
 siffron.com
 sifik.muckbootcompany.com
 sifjakobs.dk
+sifomedia.idg.se
 sifomedia.se
 sift.com
 siftscience.com

@@ -19740,6 +19740,7 @@ cre.dp.sina.cn
 cre.mix.sina.com.cn
 cre.net
 cread.com
+cread.jd.com
 cread.jd.com.gslb.qianxun.com
 creatby.com
 createcdigital.com
@@ -24684,6 +24685,7 @@ e.fengyx.com
 e.fengyx.com.cname1236.yjs-cdn.com
 e.gitee.com
 e.gomev.cn
+e.hissq.com
 e.hogyp.com
 e.ishansong.com
 e.joyxv.com
@@ -31349,7 +31351,6 @@ haolizi.net
 haolyy.com
 haoma.baidu.com
 haomagujia.com
-haomaimrm.com
 haomaishou.com
 haomaiyi.com
 haomaku.com
@@ -39176,6 +39177,7 @@ js.ad7.com
 js.admin6.com
 js.aq.qq.com
 js.aq.tc.qq.com
+js.bju888.com
 js.ccmeng.com
 js.cdn.aliyun.dcloud.net.cn
 js.cdn.aliyun.dcloud.net.cn.w.kunlungr.com
@@ -47537,6 +47539,7 @@ myjoy777.com
 myk3.com
 mykqyy.com
 mylbabao.com
+mylegist.com
 mylike.cc
 mylike.com
 mylikechat.com

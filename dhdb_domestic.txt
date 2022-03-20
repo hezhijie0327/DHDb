@@ -10640,7 +10640,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-1-drcn.dbankcdn.com.c.cdnhwc1.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
@@ -14550,7 +14549,6 @@ c.leankun.com
 c.lenovo.com.cn
 c.lenovo.com.cn.wswebcdn.com
 c.leslieyu.com.cn
-c.lianjikeji.cn
 c.lianwangtech.com
 c.m.163.com
 c.mageti.cn

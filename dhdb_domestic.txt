@@ -559,6 +559,7 @@
 0cd31b1c123252fdcc55734fe447333e.rdt.tfogc.com
 0cdn.cn
 0ci.top
+0ctrl.com
 0d1f38d9a0d4276b93429497be62a2ec.safeframe.googlesyndication.com
 0d5a81ff0767b46d82881aa98352577f.dlied1.cdntips.net
 0daily.com
@@ -10251,6 +10252,7 @@ api.s.suv666.com
 api.samsungcloudcn.com
 api.sdbao.com
 api.sdk.fmobi.cn
+api.sec.miui.com
 api.share.baidu.com
 api.share.mob.com
 api.share.n.shifen.com

@@ -229,7 +229,6 @@
 0366wqxe.sched.sma.tdnsv5.com
 0368.com
 036yx.com
-0371wang.com
 037201.com
 037398.com
 0376.net
@@ -19359,6 +19358,7 @@ coral2.uc.cn
 core-ucloud.tantanapp.com
 core.bilivideo.com
 core.cloud.unity.cn
+core.tantanapp.com
 corebai.com
 corebug.adsame.com
 coreldrawchina.com
@@ -49451,7 +49451,6 @@ onche.net
 oncity.cc
 oncloud.store
 one-all.com
-one-arts.com
 one-console-adns-new.console.aliyun.com
 one-console-adns.console.aliyun.com
 one-second-campaign.cn-hangzhou-b.log.aliyuncs.com

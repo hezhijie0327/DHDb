@@ -2008,7 +2008,6 @@
 2.5646.cn
 2.92caijing.com
 2.aili.com
-2.android.pool.ntp.org
 2.arpun.com
 2.asia.pool.ntp.org
 2.haoxue360.com
@@ -8809,7 +8808,6 @@ aipai.com
 aipark.com
 aipenglai.com
 aipiaxi.com
-aippi-china.org
 aiprose.com
 aipuo.com
 aiq36.g1kb9u.xyz
@@ -25093,6 +25091,7 @@ ecollision.shareinstall.com.cn
 ecom.snssdk.com
 ecomcbjs.jomodns.com
 ecomgxh.kuwo.cn
+ecommerceintegration-public-service-ecomprod02.ol.epicgames.com
 ecomoter.com
 ecook.cn
 ecoplastech.com
@@ -37715,6 +37714,7 @@ jcqzw.com
 jcrb.com
 jcsb.com
 jcsjt.com
+jctflx.xyz
 jctmj.net
 jctrans.com
 jcwcn.com

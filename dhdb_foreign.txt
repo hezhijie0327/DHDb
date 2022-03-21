@@ -8621,7 +8621,6 @@
 97609aa7-dnsotls-ds.metric.gstatic.com
 9769399.com
 9773762.com
-97741046.com
 9778653.com
 977ai.com
 977t.com
@@ -37058,6 +37057,7 @@ chgdf.cn
 chgtmy.com
 chhblog.com
 chhongbi.org
+chhy01.com
 chi.fat.flnet.org
 chi.xtvcname.com
 chi01pap001.settings.live.net
@@ -74916,6 +74916,7 @@ gramho.com
 grammaly.com
 grammarly.com
 gramombird.com
+grampouz.net
 gramscien.xyz
 granadablogs.com
 grandado.com
@@ -78035,6 +78036,7 @@ herceptin.com
 herceptinhylecta.com
 herdailylife.com
 herdcowhas.icu
+herdethi.net
 herdthan.com
 here.com
 here.scrive.com
@@ -78108,7 +78110,6 @@ heryerbitki.com
 herzing.edu
 hesconet.actonservice.com
 hesey.net
-heshebei.com
 hesitanttoothpaste.com
 heska.com
 hesprh.sony.jp
@@ -102819,6 +102820,7 @@ marketing.globalpointofcare.abbott
 marketing.globeius.com
 marketing.gmcvb.com
 marketing.gmo-app.jp
+marketing.gogovapps.com
 marketing.gogreat.com
 marketing.goldenhelix.com
 marketing.goldenpaints.com
@@ -110559,7 +110561,6 @@ ms-ceintl.gallerycdn.vsassets.io
 ms-d.applovin.com
 ms-dotnettools.gallery.vsassets.io
 ms-dotnettools.gallerycdn.vsassets.io
-ms-downloading.com
 ms-edgedevtools.gallerycdn.vsassets.io
 ms-home-live.com
 ms-python.gallery.vsassets.io

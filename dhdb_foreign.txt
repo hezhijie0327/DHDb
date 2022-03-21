@@ -80554,7 +80554,6 @@ https443.org
 httpschecker.net
 httpsecurity.org
 httpsfacebook.com
-httpwwwadserver.com
 httpwwwfacebook.com
 httwww.ossxtv.com
 htuwenming.com
@@ -82761,7 +82760,6 @@ ii773.net
 iiajtl.zeit.de
 iianalytics.com
 iiaquj.siksilk.com
-iias.eu
 iiba.org
 iibied.pharm16.gr
 iicdn.com
@@ -131693,7 +131691,6 @@ r6---sn-a5mlrnel.googlevideo.com
 r6---sn-a5mlrnes.googlevideo.com
 r6---sn-a5mlrnez.googlevideo.com
 r6---sn-n4v7sn7l.googlevideo.com
-r6---sn-n4v7sn7s.googlevideo.com
 r6---sn-p5qlsnzd.googlevideo.com
 r6---sn-q4fl6nlr.googlevideo.com
 r6---sn-tt1e7n7k.googlevideo.com
@@ -140230,6 +140227,7 @@ selescope.com
 self-events-data.trafficmanager.net
 self-repair.mozilla.org
 self-repair.r53-2.services.mozilla.com
+self-study-service.com.cn
 self.com
 self.events.data.microsoft.com
 self.gutenberg.org

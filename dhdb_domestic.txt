@@ -20456,6 +20456,7 @@ d.gionee.com
 d.hexuntech.cn
 d.ifengimg.com
 d.jd.com
+d.jd.com.gslb.qianxun.com
 d.jjyx.com
 d.kugou.com
 d.mingyihui.net
@@ -45682,7 +45683,6 @@ mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
 mercury.jd.com
-mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com
 mermaid.ximalaya.com
@@ -52338,6 +52338,7 @@ pro.heiguang.com
 pro.hoye.letv.com
 pro.iweihai.cn
 pro.letv.com
+pro.m.jd.com
 pro.m.jd.com.gslb.qianxun.com
 pro.pz0.3dn.ie.sogou.com
 pro6e.com
@@ -60483,7 +60484,6 @@ sowin.com
 sowu.com
 soxsok.com
 soxuxu.com
-soyao.me
 soyim.com
 soyiyuan.com
 soyobo.com

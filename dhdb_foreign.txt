@@ -14473,6 +14473,7 @@ ads.open.pl
 ads.opensubtitles.org
 ads.optusnet.com.au
 ads.orbi.kr
+ads.oregonlive.com
 ads.osdn.com
 ads.outpersonals.com
 ads.oxyshop.cz
@@ -36354,7 +36355,6 @@ cfxsss.deerberg.de
 cfxzp.com
 cfyhym.weightwatchers.fr
 cg-orz.com
-cg-zwdb.com
 cg.net
 cg2017.com
 cg8xtv.com
@@ -44397,6 +44397,7 @@ cuicinfo.org
 cuicoterapia.cl
 cuies.com
 cuihu100.com
+cuihua.org
 cuijunwei.com
 cuipengfei.me
 cuiron.de
@@ -122094,7 +122095,6 @@ partner-ts.groupon.co.uk
 partner-ts.groupon.com
 partner-ts.groupon.de
 partner-ts.groupon.fr
-partner-ts.groupon.net
 partner-ts.groupon.nl
 partner-ts.groupon.pl
 partner-tst.net.daraz.com

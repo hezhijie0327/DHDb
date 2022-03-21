@@ -2206,6 +2206,7 @@
 22her6.tdum.alibaba.com
 22lrc.com
 22ntd6yc.sched.s2-dk.tdnsv5.com
+22zryx.com
 22zw.com
 22zy.net
 23-14.gz.apigwtencent.com
@@ -5514,7 +5515,6 @@
 77tianxu.cn
 77xmd.com
 77ys.com
-77zhuan.com
 780277.s2.cdntip.com
 7813f2a8a0b99bf5fa74ccd447dae295.dlied1.cdntips.net
 78187.com
@@ -12546,7 +12546,6 @@ bdjiaoben.wmxa.cn
 bdjs.120askimages.com
 bdjs.163lady.com
 bdjs.6822.com
-bdjs.91zhuti.com
 bdjs.99.com.cn
 bdjs.999d.com
 bdjs.daziba.cn
@@ -13628,6 +13627,7 @@ blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
+blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
 blackzs.com

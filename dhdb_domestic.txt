@@ -10186,6 +10186,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -38620,6 +38621,7 @@ jiujiui.com
 jiujiuwan.com
 jiukang.org
 jiuku.com
+jiulesy.com
 jiulingwan.com
 jiulishi.com
 jiulx.com
@@ -59900,7 +59902,6 @@ slide.news.sina.com.cn
 slide.sports.sina.com.cn
 slides.discovery.tom.com
 slink.gifshow.com
-slink8.com
 slinli.com
 sljkj.com
 slkeq.com

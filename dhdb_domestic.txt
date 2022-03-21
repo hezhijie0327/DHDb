@@ -10188,7 +10188,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -18337,7 +18336,6 @@ cn-nmghhht-cu-v-11.bilivideo.com
 cn-psy.com
 cn-railway.net
 cn-roofexpert.com
-cn-sdjn2-cu-v-02.bilivideo.com
 cn-sdjn2-cu-v-03.bilivideo.com
 cn-sdyt-cu-v-01.bilivideo.com
 cn-sdyt-cu-v-02.bilivideo.com
@@ -25425,7 +25423,6 @@ eiabbs.net
 eickaopei.com
 eicp.net
 eid.jd.com
-eid.jd.com.gslb.qianxun.com
 eidlink.com
 eidsign.com.cn
 eidv2.jd.com
@@ -30345,6 +30342,7 @@ guoqinwang.com
 guoruiinfo.com
 guoruijx.com
 guosen.com.cn
+guoshudq.com
 guotv.com
 guowaidiaocha.com
 guowaitianqi.com
@@ -37670,6 +37668,7 @@ jbo65.com
 jbo8.com
 jbo830.com
 jbo8877.com
+jbo909.com
 jbqipa.com
 jbryun.com
 jbzj.com
@@ -39992,6 +39991,7 @@ k5dmil2.cachenode.cn
 k6271.com
 k73.com
 k780.com
+k7ab5n4.cn
 k7u6e0u6.sched.sma-dk.tdnsv5.com
 k8a39bgn.v1d.szbdyd.com
 k8a7ob5a.v1d.szbdyd.com
@@ -40729,7 +40729,6 @@ knet.cn
 knewbi.com
 knewone.com
 knewsmart.com
-knicks.jd.com
 knicks.jd.com.gslb.qianxun.com
 knisterpeter.gallerycdn.azure.cn
 knja123.top

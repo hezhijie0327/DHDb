@@ -14594,6 +14594,7 @@ c.xbjcgs.cn
 c.xiaobaipan.com
 c.y.qq.com
 c.yes.youku.com
+c.ylist.cn
 c.youdao.com
 c.youike.com.cn
 c.zhangle.com
@@ -24669,6 +24670,7 @@ e.ad.xiaomi.com
 e.ayues.com
 e.baidu.com
 e.banmamedia.com
+e.bentengcn.com
 e.bilibili.com
 e.bjmu.edu.cn
 e.bnc66.com
@@ -25276,6 +25278,7 @@ ee-lb.bytedns.net
 ee-skin.com
 ee-vip.net
 ee.1s8pj.cn
+ee.71zrh.cn
 ee.j5s9b.cn
 ee.zn8ni.cn
 ee34d54ae2314884e4ae20efa1451b35.dl.txcdns.com
@@ -27493,7 +27496,6 @@ flowever.net
 flowplus.meituan.net
 flowportal.com
 flowproxy.6000.liveplay.myqcloud.com
-floyou.com
 flpc.bdstatic.com
 flpsz.com
 fls-cn.amazon.cn

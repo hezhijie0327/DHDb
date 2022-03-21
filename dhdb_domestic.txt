@@ -15501,6 +15501,7 @@ cd.06bv.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
+cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -27876,7 +27877,6 @@ fshzg.com
 fsigc.com
 fsigns.duba.net
 fsjoy.com
-fskj100.cn
 fskmp.com
 fsky.pro
 fslgz.com
@@ -48325,6 +48325,7 @@ nexttix.net
 nf.jsq.red
 nf.m.taobao.com
 nf.m.taobao.com.gds.alibabadns.com
+nfa.jd.com
 nfa.jd.com.gslb.qianxun.com
 nfc315.com
 nfcmag.com
@@ -58089,7 +58090,6 @@ septwolves.com
 sepu.net
 seq.jd.com
 sequ.biz
-sequoia.apple.com
 sequoiadb.com
 ser.cer.v588.top
 ser.uadrc.com

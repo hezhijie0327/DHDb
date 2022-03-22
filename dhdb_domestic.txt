@@ -34035,7 +34035,6 @@ huodong.mobilem.360.cn
 huodong.org
 huodong.taobao.com
 huodong.taobao.com.danuoyi.tbcache.com
-huodonghezi.cn
 huodonghezi.com
 huodonghui.net
 huodongjia.com
@@ -52125,6 +52124,7 @@ poobbs.com
 poocg.com
 poofx.com
 pook.com
+pool.ntp.org
 pool.v6.bt.n0808.com
 poolct.17173.com
 pooldist.shouyou.com
@@ -64887,7 +64887,6 @@ tr.jd.com.gslb.qianxun.com
 tr.jianshu.com
 tr.p.360.cn
 tr.uwenku.com
-tr691.cn
 tra2.api.baifendian.com
 trace-report.tgp.qq.com
 trace.51jingying.com

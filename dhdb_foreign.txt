@@ -1550,6 +1550,7 @@
 1465610.b2b.liebiao.com
 1465610.shop.liebiao.com
 1465687.shop.liebiao.com
+1467739.b2b.liebiao.com
 1469166.b2b.liebiao.com
 1469166.shop.liebiao.com
 147.net.zooplus.de
@@ -20374,6 +20375,7 @@ api.freewebfonts.org
 api.funcaptcha.com
 api.fusepowered.com
 api.fw.tv
+api.g.micloud.xiaomi.net
 api.gaijinent.com
 api.gameofwhales.com
 api.geetest.com
@@ -59241,7 +59243,6 @@ facebookvacation.com
 facebookw.com
 facebookwork.com
 facebookworld.com
-facebookz.co
 facebool.com
 facebool.info
 facebooll.com
@@ -81849,6 +81850,7 @@ ibit.am
 ibixiaxs.com
 ibizababes.com
 ibjapan.com
+ibjivzn.com
 ibksturm.synology.me
 ibkups.rci.com
 iblogs.com
@@ -110614,7 +110616,6 @@ msdn.com
 msdn.microsoft.com
 msecure108.com
 msedge.api.cdp.microsoft.com
-msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.net
 mseeru.faz.net
 msetup.pro
@@ -117104,6 +117105,7 @@ oascentral.itbusiness.ca
 oascentral.law.com
 oascentral.lycos.com
 oascentral.mayoclinic.com
+oascentral.medbroadcast.com
 oascentral.newsmax.com
 oascentral.poconorecord.com
 oascentral.pottsmerc.com
@@ -130163,7 +130165,6 @@ qinglvai.com
 qingman5.com
 qingmang.me
 qingmo.net
-qingmob.com
 qingnianwang.com
 qingniao.me
 qingpeng.org
@@ -136365,7 +136366,6 @@ ryde-inc.jp
 ryder.com
 ryderwear.com
 ryerson.com
-ryesurvey.com
 rygfjv.com
 ryhastille.info
 ryhlrctrn.xyz

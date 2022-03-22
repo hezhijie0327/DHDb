@@ -17659,7 +17659,6 @@ cj.weather.com.cn
 cjavapy.com
 cjcjw.com
 cjcp.cn
-cjdby.net
 cjdcw.com
 cjde.xyz
 cjdx1.com
@@ -46611,6 +46610,7 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
+mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com

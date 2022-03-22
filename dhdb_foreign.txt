@@ -717,7 +717,6 @@
 1.car21.net.daraz.com
 1.circlecvi.com
 1.cms.s81c.com
-1.cn.pool.ntp.org
 1.courier-push-apple.com.akadns.net
 1.courier-sandbox-push-apple.com.akadns.net
 1.courier2-push-apple.com.akadns.net
@@ -9043,7 +9042,6 @@
 9w2zed1szg.execute-api.us-east-1.amazonaws.com
 9wan9.com
 9wjc.com
-9wlm.com
 9xbuddy.com
 9xeqynu3gt7c.com
 9xz.net
@@ -14420,7 +14418,6 @@ ads.jiwire.com
 ads.joaffs.com
 ads.jobsite.co.uk
 ads.jossip.com
-ads.jpost.com
 ads.juicyads.com
 ads.junctionbox.com
 ads.justhungry.com
@@ -15233,6 +15230,7 @@ adservice.tohsoft.com
 adservicemedia.dk
 adserving.budsinc.com
 adserving.cpxadroit.com
+adserving.performgroup.com
 adserving.unibet.com
 adservingfactory.com
 adservingfront.com
@@ -23303,6 +23301,7 @@ au-mg5.mail.yahoo.com
 au.arjo.com
 au.bms.maxmara.com
 au.com
+au.download.windowsupdate.com
 au.engage.genesiscare.com
 au.pool.ntp.org
 au.promo.skf.com
@@ -35478,7 +35477,6 @@ cdlcli.sortmund.pl
 cdlib.org
 cdlinli.com
 cdlinux.net
-cdlkzb.com
 cdlute.com
 cdmediaworld.com
 cdmfund.org
@@ -37651,7 +37649,6 @@ chinauncensored.tv
 chinaview.wordpress.com
 chinavpn.net
 chinawaijiao.com
-chinawaiyu.com
 chinawater.net
 chinaway.org
 chinaweb.bsgroup.com.hk
@@ -117850,6 +117847,7 @@ oas.uniontrib.com
 oas.villagevoice.com
 oas.vtsgonline.com
 oasazedy.com
+oasc04012.247realmedia.com
 oascentral.artistirect.com
 oascentral.blackenterprises.com
 oascentral.businessweeks.com
@@ -139703,7 +139701,6 @@ scripts.bestprice.gr
 scripts.chitika.net
 scripts.jixie.io
 scripts.linkz.net
-scripts.mailfire.io
 scripts.mrpiracy.xyz
 scripts.psyma.com
 scripts.sil.org
@@ -149313,7 +149310,6 @@ springboard.com
 springboardplatform.com
 springboardvideo.com
 springbok.agency
-springboot.io
 springbot.com
 springbrooksoftware.com
 springcocoon.com

@@ -1110,6 +1110,7 @@
 128qd.com
 128uu.com
 1294472.p23.tc.cdntip.com
+129676.com
 12d3e2e7b202c39f98d900b4b3d4ea86.safeframe.googlesyndication.com
 12e9jt0.cachenode.cn
 12ebe068d8b3cc091b8c480f46ace353.dl.txcdns.com
@@ -10167,6 +10168,7 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.home.skysrt.com
+api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -34514,7 +34516,6 @@ hzzqs.com
 hzzsbbs.com
 hzzsfs.com
 hzzydb.cn
-i-1.linuxidc.com
 i-520.net
 i-ab.com
 i-ad.adwo.com
@@ -49429,6 +49430,7 @@ okweb.info
 okwuyou.com
 okxr.com
 okz.ltd
+okzhaosheng.com
 ol-cdn.com
 ol-img.com
 ol.ali213.net

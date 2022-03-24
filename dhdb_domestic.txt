@@ -2014,6 +2014,7 @@
 2.arpun.com
 2.asia.pool.ntp.org
 2.haoxue360.com
+2.openwrt.pool.ntp.org
 2.pic.pc6.com
 2.pool.ntp.org
 2.up.qingdaonews.com
@@ -4931,6 +4932,7 @@
 629961.shop.258.com
 62a.net
 62game.com
+6310461.com
 63243.com
 63261be07f241eed4c092f2656b6a427.dlied1.cdntips.net
 6328.net
@@ -14471,7 +14473,6 @@ bzcm.net
 bzcw8.com
 bzd6688.com
 bzddrive.com
-bzdiao.com
 bzfwq.com
 bzfxw.com
 bzgame.apk4399.com
@@ -44280,6 +44281,7 @@ m.cnxmyb.cn
 m.cocounion.com
 m.cp12.ott.cibntv.net
 m.cqzspt888.cn
+m.ctrip.com
 m.cudaojia.com
 m.czvv.com
 m.da.mgtv.com
@@ -48372,7 +48374,6 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
-nex.163.com
 nexiao.com
 next.api.aliyun.com
 next.itellyou.cn

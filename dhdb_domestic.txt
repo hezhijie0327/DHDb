@@ -5742,7 +5742,6 @@
 7wa.cc
 7wan.com
 7wenyi.com
-7wkw.com
 7wnews.com
 7wsh.com
 7wsh.net
@@ -35660,7 +35659,6 @@ image.zzd.sm.cn
 image0.lietou-static.com
 image01.joying.com
 image01.joying.com.wswebpic.com
-image1.elife.icbc.com.cn
 image1.elife.icbc.com.cn.wscdns.com
 image1.yimizhibo.tv
 image100.360doc.com
@@ -51406,7 +51404,6 @@ photo.chaoxing.com
 photo.codefat.cn
 photo.fanya.chaoxing.com
 photo.jstv.com
-photo.majiang188.cn
 photo.pic.sohu.com
 photo.sina.com.cn
 photo.sspu.edu.cn
@@ -55032,7 +55029,6 @@ query-node.yfscdn.net
 query-suggestion.ai.xiaomi.com
 query.aliyun.com
 query.dcdn.baidu.com
-query.hicloud.com
 query.tencent-cloud.com
 queshao.com
 queshu.com

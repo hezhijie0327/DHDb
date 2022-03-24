@@ -9928,7 +9928,6 @@ ap.cpatrk.net
 ap.czxym168.cn
 ap.dongqiudi.com
 ap.easyjz.com.cn
-ap.itresource.vip
 ap.ksrong.com
 ap.nloader.xyz
 ap01-vncproxy.aliyun.com
@@ -11204,6 +11203,7 @@ atj-kuaishou.37.com.cn
 atlas.dmall.com
 atlas.yidianzixun.com
 atlenovo.com
+atm.punchbox.org
 atm.yoyi.com.cn
 atobo.com
 atoken.m.taobao.com
@@ -46981,7 +46981,6 @@ movie-img.hupu.com
 movie.douban.com
 movie.hupu.com
 movie.youku.com
-moviesty.com
 movit-tech.com
 mowan123.com
 mowowo.com

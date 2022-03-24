@@ -66,7 +66,6 @@
 01192.ping360.cn
 0123456789.com
 0135135.com
-016272.com
 019103.com
 01c79f75.qc.x.bsgslb.cn
 01c7ac46.qc.x.bsgslb.cn
@@ -5068,6 +5067,7 @@
 672651.p23.tc.cdntip.com
 672677.p23.tc.cdntip.com
 6727282d930857aac024d783b942b1d6.dlied1.cdntips.net
+6728812.com
 676z.com
 677200.shop.258.com
 67876.com
@@ -15718,6 +15718,7 @@ cdn.cn.gcloudcs.com
 cdn.cnbj1.fds.api.mi-img.com
 cdn.console.aliyun.com
 cdn.convergemob.com
+cdn.cytivalifesciences.com.cn
 cdn.data.video.iqiyi.com
 cdn.data.video.ptqy.gitv.tv
 cdn.dcloud.net.cn
@@ -59989,7 +59990,6 @@ slog.sina.com.cn
 slog.trackingio.com
 slogra.com
 slooti.com
-slpchelp.com
 slpi1.com
 slql3ara.v1d.szbdyd.com
 slrbs.com

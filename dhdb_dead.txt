@@ -9042,7 +9042,6 @@ app.flurry.com
 app.heywire.com
 app.ibaiducdn.com
 app.icast.cn
-app.insight.heidrick.com
 app.linezing.com
 app.marketizator.com
 app.pchome.net
@@ -10116,6 +10115,7 @@ b.aol.com
 b.aowugame.com
 b.apzeyu.com
 b.beizhoujt.cn
+b.coroplastsheet.cn
 b.cowoo.win
 b.cyone.com.cn
 b.daylskg.cn
@@ -10165,7 +10165,6 @@ b07f916388fc6e06847.com
 b0bffe434df02fb81f53674e5325fbf4.jddebug.com
 b0d3ea12ec1b93f7af9.com
 b0e2bb2ddb.com
-b0f1d2.com
 b0lc.cn
 b0w.me
 b1-20.bit.games
@@ -11185,6 +11184,7 @@ beatsbydre-beatsheadphone.com
 beatsbydre-club.com
 beatsbydre-headphones.com
 beatsbydre-headphonesshop.com
+beatsbydre-outletsale.net
 beatsbydre-outletstore.com
 beatsbydre-studio.com
 beatsbydre-us.com
@@ -35401,6 +35401,7 @@ kaibo5888.com
 kaidop.com
 kaierdle.com
 kaif1688.com
+kaige68.com
 kaiguangdou.com
 kaihutai.cn
 kaijun.win
@@ -40004,6 +40005,7 @@ m5xy0v.cn
 m6988.com
 m6r.eu
 m7.szdxpso.me
+m71.qhdzfs.cn
 m77.tb0099.com
 m78.xhydrs.cn
 m78929.com
@@ -46222,7 +46224,6 @@ p-log.ykimg.com
 p-n.io
 p.5mnh.com
 p.985mi.com
-p.9wotuan.com
 p.adbrn.com
 p.admob.com
 p.adpdx.com
@@ -49876,6 +49877,7 @@ r1---sn-n4v7knl6.googlevideo.com
 r1---sn-n4v7knlk.googlevideo.com
 r1---sn-n4v7knls.googlevideo.com
 r1---sn-n4v7sn76.googlevideo.com
+r1---sn-n4v7sn7l.googlevideo.com
 r1---sn-n4v7sn7s.googlevideo.com
 r1---sn-n4v7sn7y.googlevideo.com
 r1---sn-n4v7sn7z.googlevideo.com

@@ -16353,6 +16353,7 @@ channel.api.duapp.com
 channel.fanxing.kugou.com
 channel.hitouch.hicloud.com
 channel.kandian.qq.com
+channel.m.163.com
 channel2-account-ssl.xunlei.com
 channel3-account-ssl.xunlei.com
 channelray.com
@@ -33229,7 +33230,6 @@ hovfree.com
 how234.com
 howbuy.com
 howelllighting.com
-howfile.com
 howjoin.com
 howzhi.com
 hoxue.com
@@ -33869,7 +33869,6 @@ huidu.net
 huiduapi.nuomi.com
 huiemall.com
 huieyes.com
-huifarm.com
 huifenqi.com
 huifudashi.com
 huifusihai.com
@@ -40115,7 +40114,6 @@ kaifapiao.com
 kaifaxueyuan.com
 kaifu.com
 kaifuzq.com
-kaige68.com
 kaihei.co
 kaiheila.cn
 kaihu.la
@@ -50224,6 +50222,7 @@ p.37see.com
 p.51gowan.com
 p.6463.com
 p.99mssj.com
+p.9wotuan.com
 p.abcache.com
 p.admaster.com.cn
 p.alimama.com

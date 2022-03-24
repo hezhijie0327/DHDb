@@ -646,6 +646,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -15355,6 +15356,7 @@ ccfb707b077b94f38031072966a06631.safeframe.googlesyndication.com
 ccfei.com
 ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
+ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -29330,6 +29332,7 @@ gitclone.com
 gitcode.net
 gitduck.gallerycdn.azure.cn
 gitee.com
+gitee.io
 github-avatars.oss-cn-hongkong.aliyuncs.com
 github.gallerycdn.azure.cn
 gitissue.com
@@ -49936,7 +49939,6 @@ orcode.com
 order.imooc.com
 order.yystatic.com
 ordercenter.console.aliyun.com
-orderprocessor-public-service-ecomprod01.ol.epicgames.com
 orders-drcn.iap.hicloud.com
 orders.kfc.com.cn
 ordosbank.com
@@ -50117,6 +50119,7 @@ ouguan.pptv.com
 ouj.com
 oujistore.com
 oukan.online
+ouklqd.com
 oulvnet.com
 oumengke.com
 ounh.org
@@ -57821,7 +57824,6 @@ sdlangkun.com
 sdlgzy.com
 sdlinqu.com
 sdlldj.com
-sdlmhb.com
 sdlongli.com
 sdlvxing.com
 sdly35.com

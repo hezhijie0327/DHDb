@@ -26410,6 +26410,7 @@ f2time.com
 f2zd.com
 f3.market.mi-img.com
 f3.market.xiaomi.com
+f3.mi-stat.gslb.mi-idc.com
 f3.souid.com
 f315.cc
 f3322.net
@@ -27183,7 +27184,6 @@ fff36.net
 ffhre.com
 ffilelogapp.huya.com
 ffmobi.com
-ffmulu.com
 ffpedia.com
 ffplay.net
 ffquan.cn
@@ -44367,7 +44367,6 @@ m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
 m.jd.com
-m.jd.com.gslb.qianxun.com
 m.jdcdn.com
 m.jf.10010.com
 m.jiaochengzhijia.com

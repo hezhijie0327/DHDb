@@ -662,7 +662,6 @@
 1.lvshi567.com
 1.mgff.com
 1.nanrenwo.net
-1.openwrt.pool.ntp.org
 1.pic.pc6.com
 1.pncdn.cn
 1.proewildfire.cn
@@ -22615,7 +22614,6 @@ diugai.com
 diuling.com
 diushouji.com
 div.io
-diviner.jd.com
 diviner.jd.com.gslb.qianxun.com
 division-data.alicdn.com
 diwork.com
@@ -32625,6 +32623,7 @@ hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
 hk.linkedin.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -37264,6 +37263,7 @@ item-china.cn
 item-soa.jd.com
 item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
+item.jd.com
 item.jd.com.gslb.qianxun.com
 item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
@@ -42315,7 +42315,6 @@ lfhacks.com
 lfidc.net
 lfkjgh.com
 lfksqzj.com
-lfl.gg
 lflucky.com
 lfork.com
 lfppt.com

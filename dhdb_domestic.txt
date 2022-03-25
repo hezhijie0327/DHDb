@@ -2011,7 +2011,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.asia.pool.ntp.org
 2.haoxue360.com
 2.openwrt.pool.ntp.org
 2.pic.pc6.com
@@ -29345,7 +29344,6 @@ gjalk.com
 gjb9001b.com
 gjbaek.ren
 gjfax.com
-gjgov.com
 gjgwy.net
 gjgwy.org
 gjgzpw.com
@@ -37751,7 +37749,6 @@ jcloudcs.com
 jcloudec.com
 jcloudstatic.com
 jclps.com
-jcm.jd.com
 jcmob.net
 jcmtxs.com
 jcnano.com
@@ -48367,6 +48364,7 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
+nex.163.com
 nexiao.com
 next.api.aliyun.com
 next.itellyou.cn

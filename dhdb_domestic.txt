@@ -9806,6 +9806,7 @@ anymetre.com
 anyoy.com
 anyrtc.io
 anysdk.com
+anysql.net
 anytesting.com
 anythinktech.com
 anyunjianzhan.com
@@ -40197,7 +40198,6 @@ kanqu.com
 kanquwen.com
 kansdk.com
 kanseen.com
-kanshangji.com
 kanshangjie.com
 kanshu.com
 kanshu5.la
@@ -49226,7 +49226,6 @@ ocsp.sectigochina.com
 ocsp.us.cdnetworks.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
-ocsp2.g.aaplimg.com
 ocsp3.sheca.com
 oct-cts.com
 oct-sh.com

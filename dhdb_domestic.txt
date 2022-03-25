@@ -10171,7 +10171,6 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.home.skysrt.com
-api.huangye.miui.com
 api.huya.com
 api.hybrid.xiaomi.com
 api.hyhuo.com
@@ -20057,7 +20056,6 @@ cszybdf.com
 cszywl.net
 cszzjc.com
 ct-bjs-sgh-00001.oos-cn-180622.ctyunapi.cn
-ct-cdm.com
 ct.duba.net
 ct.epro.sogou.com
 ct.niu.xunlei.com
@@ -44843,7 +44841,6 @@ maizim.com
 maizuo.com
 majia99.com
 majiamen.com
-majiang188.cn
 majianwei.com
 majing.io
 majorsec.com
@@ -45640,6 +45637,7 @@ meituyun.com
 meituyunji.com
 meiweis.com
 meiweishudan.com
+meiwenting.com
 meixueyuan.com
 meiyaapp.com
 meiyan.com

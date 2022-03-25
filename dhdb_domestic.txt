@@ -9310,6 +9310,7 @@ aliwork.com
 aliwx.net
 alixiaomi.com
 alixixi.com
+alixox.com
 aliyiyao.com
 aliyun-adns.aliyun.com.gds.alibabadns.com
 aliyun-inc.com
@@ -31774,7 +31775,6 @@ hcdnv.djg.gslb.c.cdnhwc2.com
 hcdnv.jd.jdcloudcache.net
 hcdnv.ks6.gslb.c.cdnhwc1.com
 hcdnv.sched.p1.qcloudcdn.com
-hcdnv.tencent.com.c.cdnhwc1.com
 hcdnv.top7.gslb.c.cdnhwc2.com
 hcdnv.ucloud.ks.ucnaming.info
 hcdnv.upyun.ks.aicdn4.com
@@ -42891,7 +42891,6 @@ littlepoll1.people.com.cn
 littleroost.net
 littlesheep.com
 littleswan.com
-liu-kevin.com
 liubaiapp.com
 liubo.live
 liuc.info
@@ -44439,7 +44438,6 @@ m.simba.taobao.com
 m.sina.com.cn
 m.siwmc.cn
 m.sjzhushou.com
-m.slshiye.cn
 m.sm.cn
 m.smzdm.com
 m.so.com

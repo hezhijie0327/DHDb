@@ -10219,7 +10219,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -19886,7 +19885,6 @@ csairdutyfree.com
 csairshop.com
 csapa.org
 csapi.xajjk.com
-csaspx.com
 csb8.byf.com
 csbdkj.com
 csbidding.com
@@ -21300,6 +21298,7 @@ data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
+data.sec.miui.com
 data.snm0516.aisee.tv
 data.sonkwo.com
 data.trendymedia.com.cn
@@ -36489,7 +36488,6 @@ inf.vip.meituan.com
 infertilitybridge.com
 infineon-autoeco.com
 infinitescript.com
-infinityarts.net
 info.3g.qq.com
 info.90bola.cc
 info.90bola.top

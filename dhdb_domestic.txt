@@ -13664,7 +13664,6 @@ blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
-blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
@@ -18913,7 +18912,6 @@ cnzsqh.com
 cnzsyz.com
 cnzxsoft.com
 cnzyao.com
-cnzz.991yue.com
 cnzz.com
 cnzz.mmstat.com
 cnzz.net
@@ -33496,7 +33494,6 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
-httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
 httprunner.org
 https-play-g3proxy.lecloud.com
@@ -47102,6 +47099,7 @@ msanjia.com
 msc.jd.com
 msc.jd.com.gslb.qianxun.com
 mscbsc.com
+msch.f.360.cn
 msclick2.kuwo.cn
 msdn.itellyou.cn
 msdn.itellyou.cn.w.kunluncan.com

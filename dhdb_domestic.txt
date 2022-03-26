@@ -5452,6 +5452,7 @@
 764100.com
 7654.com
 765534.sched.s2.tdnsv5.com
+7656c4.com
 765i.com
 765q.com
 766.com
@@ -13662,6 +13663,7 @@ blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
+blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
@@ -18430,7 +18432,6 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -24986,7 +24987,6 @@ eb80.com
 ebadu.com
 ebadu.net
 ebaina.com
-ebama.net
 ebangchina.com
 ebanma.com
 ebanshu.net
@@ -35148,6 +35148,7 @@ idtcdn.com
 idtechwh.com
 idting.com
 iduochong.com
+iduoha.com
 iduvip.com
 iduvor0.qiniudns.com
 iduwdjf.qiniudns.com
@@ -36113,7 +36114,6 @@ img10.360buyimg.com.gslb.qianxun.com
 img10.jdcdn.com
 img11-sched.jcloudimg.com
 img11.18183.com
-img11.360buyimg.com
 img11.360buyimg.com.gslb.qianxun.com
 img12.360buyimg.com
 img13.360buyimg.com
@@ -58162,7 +58162,6 @@ service.ad.duomi.com
 service.cdn.vip.xunlei.com
 service.cocounion.com
 service.danmu.youku.com
-service.dedecms.com
 service.dg.wps.cn
 service.epro.sogou.com
 service.jiagu.360.cn

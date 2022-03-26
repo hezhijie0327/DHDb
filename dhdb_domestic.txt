@@ -28772,7 +28772,6 @@ gd-linux.com
 gd-linux.org
 gd-stats.jpush.cn
 gd.10086.cn
-gd.cnhange.cn
 gd.gsxt.gov.cn
 gd.sina.com.cn
 gd.sycdn.kuwo.cn
@@ -39724,6 +39723,7 @@ jwfun.com
 jwipc.com
 jwks123.com
 jwl100.com
+jwmfxp.xyz
 jwnote.com
 jwshy.com
 jwview.com
@@ -45719,6 +45719,7 @@ mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
 mercury.jd.com
+mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com
 mermaid.ximalaya.com
@@ -52104,7 +52105,6 @@ poobbs.com
 poocg.com
 poofx.com
 pook.com
-pool.ntp.org
 pool.v6.bt.n0808.com
 poolct.17173.com
 pooldist.shouyou.com

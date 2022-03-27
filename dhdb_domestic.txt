@@ -2016,7 +2016,6 @@
 2.arpun.com
 2.haoxue360.com
 2.openwrt.pool.ntp.org
-2.pic.pc6.com
 2.pool.ntp.org
 2.up.qingdaonews.com
 2.zol-img.com.cn
@@ -6133,7 +6132,6 @@
 88bx.com
 88cdn.com
 88cp00.com
-88cpc.com
 88db746bae7df75eb85fb6ec8da86d37.dlied1.cdntips.net
 88f0d25ff381e77d.cdn.jiashule.com
 88h3.com
@@ -19457,7 +19455,6 @@ cover.e.shifen.com
 covinda.com
 covtv.com
 cowarobot.com
-cowlevel.net
 cowtransfer.com
 coyuk.com
 cozyee.com
@@ -25974,7 +25971,6 @@ estory365.com
 estp.5258da.com
 estrongs.com
 estudychinese.com
-esugimoto.com
 esun21.com
 esun88.com
 esuniao.com

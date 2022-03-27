@@ -8229,6 +8229,7 @@ ads.vamaker.com
 ads.vipbaihe.com
 ads.voiceads.cn
 ads.vps1352.com
+ads.waframedia1.com
 ads.waps.cn
 ads.wapx.cn
 ads.wasu.tv
@@ -10457,6 +10458,7 @@ apis1.ksapisrv.com
 apis2.gifshow.com
 apis2.ksapisrv.com
 apisgame.iqiyi.com
+apisnd.heytapmobi.com
 apisoft.df0535.com
 apissl.gifshow.com
 apissl.ksapisrv.com
@@ -11355,7 +11357,6 @@ av-ic.com
 av.huijiwiki.com
 av.u5m4.cn
 av.video.qq.com
-av001.com
 av010.com
 av1.xdrig.com
 av1.xdrig.com.td.fusion.iaas.jdcloud.com
@@ -12496,7 +12497,6 @@ bd.zhpxkl.cn
 bd07322b9d4aa75a140346bd8e933d3f.dlied1.cdntips.net
 bd1-china.6789.com
 bd1-china.xsfaya.com
-bd1-ys.km.com
 bd1.365qilu.com
 bd1.52che.com
 bd1.99danji.com
@@ -16383,7 +16383,6 @@ chaoshi.detail.tmall.com
 chaosu.com
 chaosuduokai.com
 chaosw.com
-chaowaihui.com
 chaoxing.cc
 chaoxing.com
 chaoxz.com
@@ -46396,6 +46395,7 @@ mlairport.com
 mlapp.cn
 mlb.did.ijinshan.com
 mlbuy.com
+mldys.mqchy.cn
 mlearn.pingan.com.cn
 mlgame.wang
 mlgj.com
@@ -49044,7 +49044,6 @@ nxhscxkj.com
 nxin.com
 nxly766.com
 nxmvgant.v1d.szbdyd.com
-nxnbcw.com
 nxnet.net
 nxnews.net
 nxnresearch.com
@@ -50860,6 +50859,7 @@ passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
 passport.lagou.com
+passport.lenovo.com
 passport.lenovo.com.cn
 passport.meituan.com
 passport.mydrivers.com
@@ -54981,6 +54981,7 @@ query-node.yfscdn.net
 query-suggestion.ai.xiaomi.com
 query.aliyun.com
 query.dcdn.baidu.com
+query.hicloud.com
 query.tencent-cloud.com
 queshao.com
 queshu.com

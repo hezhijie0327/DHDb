@@ -722,6 +722,7 @@
 1000uc.com
 1000xuexi.com
 1000zhu.com
+10010.8cardmall.com
 10010.com
 10010.com.cn
 10010400.net
@@ -16311,7 +16312,6 @@ changjiang.baixing.com
 changjiangdata.com
 changjiangtimes.com
 changker.com
-changkunet.com
 changle.baixing.com
 changli.baixing.com
 changning.net
@@ -61331,7 +61331,6 @@ static.xitongzhijia.net
 static.xundayun.com
 static.yidianzixun.com
 static.yjbys.com
-static.yjbys.com.w.kunlungr.com
 static.ykimg.com
 static.youku.com
 static.youku.com.w.kunlunar.com
@@ -62744,7 +62743,6 @@ t3.qpic.cn
 t3.tiles.ditu.live.com
 t3315.com
 t355u.tdum.alibaba.com
-t38uu.k42jvw.com
 t4-dsa-opencdn.a.bdydns.com
 t4.a.market.xiaomi.com
 t4.agrantsem.com

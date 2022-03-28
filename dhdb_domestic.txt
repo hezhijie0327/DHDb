@@ -5442,6 +5442,7 @@
 757dy.com
 758479.p23.tc.cdntip.com
 758669161.privacysandbox.googleadservices.com
+7587366.com
 759d01cc0c66bd2e1469ed9b63cf764f.safeframe.googlesyndication.com
 75a6ff3.cdnnodedns.cn
 75n474.com
@@ -32580,6 +32581,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -38133,7 +38135,6 @@ jianzha.baixing.com
 jianzhan-fe.cdn.bcebos.com
 jianzhan-image.cdn.bcebos.com
 jianzhan-image.cdn.bcebos.com.a.bdydns.com
-jianzhanbao.net
 jianzhangongsi.com
 jianzhi8.com
 jianzhiba.net
@@ -47018,7 +47019,6 @@ mrchou-website-1251076893.cos.ap-beijing.myqcloud.com
 mrcjcn.com
 mrclown.cn
 mrcrm.com
-mrcywang.com
 mrdede.com
 mreg.kuwo.cn
 mrhallacg.com

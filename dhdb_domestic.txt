@@ -4567,7 +4567,6 @@
 58dadi.com
 58daojia.com
 58display.com
-58fenlei.com
 58food.com
 58game.com
 58gush.com
@@ -44304,6 +44303,7 @@ m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
 m.jd.com
+m.jd.com.gslb.qianxun.com
 m.jdcdn.com
 m.jf.10010.com
 m.jiaochengzhijia.com

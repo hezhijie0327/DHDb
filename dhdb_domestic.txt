@@ -2712,6 +2712,7 @@
 333ck.com
 333cn.com
 333job.com
+334.com
 335084e3854021f189735c644edf0fd5.dlied1.cdntips.net
 33519.com
 336.com
@@ -10179,7 +10180,6 @@ api.ijunhai.com
 api.ilikemanga.com
 api.im.qcloud.com
 api.im.weibo.cn
-api.imqtyik.com
 api.inews.qq.com
 api.inmeng.net
 api.installer.xiaomi.com
@@ -21330,7 +21330,6 @@ datangweishi.com
 datangzww.com
 dataodu.com
 dataoke.com
-dataprajna.net
 datarelab.com
 datarj.com
 datas.tianqistatic.com
@@ -32530,6 +32529,7 @@ hiyouqu.com
 hizg.org
 hizhu.com
 hizj.net
+hizuan.net
 hizyw.com
 hj.vc
 hjapi.com
@@ -38859,7 +38859,6 @@ jmd-china.com
 jmdardu.cn
 jmdedu.com
 jmeii.com
-jmf0.com
 jmf6.com
 jmgle.com
 jmgo.com
@@ -56344,7 +56343,6 @@ rockbrain.net
 rockemb.com
 rockerfm.com
 rockjitui.com
-rockmanlab.net
 rocky.hk
 rockyenglish.com
 roffar.com

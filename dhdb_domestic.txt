@@ -10662,6 +10662,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-1-drcn.dbankcdn.com.c.cdnhwc1.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
@@ -43764,7 +43765,6 @@ ltsydzd.qq.com
 ltwkw.com
 ltxjob.com
 lty.fun
-ltyonej.cn
 ltzsjt.com
 lu.com
 lu.sogou.com
@@ -47074,7 +47074,6 @@ ms-vsliveshare.gallerycdn.azure.cn
 ms.bdimg.com
 ms.cnbanbao.com
 ms.cnczjy.com
-ms.jr.jd.com
 ms.jr.jd.com.gslb.qianxun.com
 ms.vipstatic.com
 ms.zu.anjuke.com
@@ -58659,6 +58658,7 @@ shclearing.com
 shcljoy.com
 shcngz.com
 shcwbz.com
+shcymc.com
 shdctp.com
 shdjt.com
 shdrkj.com

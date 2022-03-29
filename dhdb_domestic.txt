@@ -3515,7 +3515,6 @@
 48f7fea33de063d2122b2ebd7fce9add.dlied1.cdntips.net
 48hao.net
 48pbw97k.slt.cdntip.com
-49.80.116.223.in-addr.arpa
 4905250569f04e15f29d5060.mdbook.cn
 4919853.b2b.jinanfa.cn
 4930261.b2b.jinanfa.cn
@@ -4420,6 +4419,7 @@
 550400.com
 5504z.com
 55188.com
+5525526.com
 55344.com
 555yst.com
 5566.net
@@ -12653,6 +12653,7 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -26606,7 +26607,6 @@ fanjinyan.com
 fanli.com
 fanli001.net
 fanlibang.com
-fanlibei.com
 fanlicome.com
 fanlihe.com
 fanlijinfu.com
@@ -50436,7 +50436,6 @@ p4.lefile.cn
 p4.lefile.cn.wscdns.com
 p4.music.126.net
 p4.music.126.net.w.alikunlun.com
-p4.pstatp.com
 p4.qhimg.com
 p4.ssl.qhimg.com
 p418.ssl.qhimgs4.com

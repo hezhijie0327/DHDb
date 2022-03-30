@@ -9900,7 +9900,6 @@ aososs.oss-cn-beijing.aliyuncs.com
 aoswtc.com
 aotian.com
 aotrip.net
-aotu.io
 aotuzuche.com
 aowenmarketing.com
 aoxingsujiao.com
@@ -16422,7 +16421,6 @@ chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
-chat1.jd.com
 chat1.jd.com.gslb.qianxun.com
 chataixin59.byf.com
 chatm.com
@@ -21466,7 +21464,6 @@ dbfund.com.cn
 dbgeek.org
 dbgzqfn5.v1d.szbdyd.com
 dbkan.com
-dbkdwe1.com
 dblgf.com
 dblpmp.com
 dbmailserver.com
@@ -21694,6 +21691,7 @@ de-moe.org
 de.as.cp61.ott.cibntv.net
 de.as.pptv.com
 de.uwenku.com
+de1919.com
 de4e41c6.qc.x.bsgslb.cn
 de4ee749.qc.x.bsgslb.cn
 de518.com
@@ -25827,6 +25825,7 @@ epweike.com
 epwitkey.com
 epwk.com
 epzcw.com
+epzpzmg.cn
 eq.10jqka.com.cn
 eq2uep1.cachenode.cn
 eq80cq1.cachenode.cn
@@ -27696,7 +27695,6 @@ forum.51nb.com
 forums.ventoy.net
 forwardcommtmp.weixin.qq.com
 forwardgroup.com
-forwardhard.cn
 forwardtmp.weixin.qq.com
 forwardwx.weixin.qq.com
 forwe.store
@@ -45283,6 +45281,7 @@ mc.hujiang.com
 mc.qcloudimg.com
 mc.res.netease.com
 mc.tvzhe.com
+mc.weather.com.cn
 mc26.com
 mc361.com
 mc91.com
@@ -47092,7 +47091,6 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
-msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com

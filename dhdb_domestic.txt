@@ -34593,6 +34593,7 @@ i.snssdk.com
 i.snssdk.com.w.kunluncan.com
 i.sso.sina.com.cn
 i.stat.nearme.com.cn
+i.tantanapp.com
 i.taobao.com
 i.tddmp.com
 i.ulmdb.cn
@@ -49061,7 +49062,6 @@ nxmvgant.v1d.szbdyd.com
 nxnet.net
 nxnews.net
 nxnresearch.com
-nxrxt.com
 nxsks.com
 nxtianshangb.com
 nxty88.com
@@ -56758,7 +56758,6 @@ s.appjiagu.com
 s.autoimg.cn
 s.bdstatic.com
 s.btime.com
-s.c-ctrip.com
 s.caduka.cn
 s.cdn.u17t.com
 s.cdxyb.cn

@@ -9564,6 +9564,7 @@ analytics.mlapp.cn
 analytics.mpay.netease.com
 analytics.oceanengine.com
 analytics.pointdrive.linkedin.com
+analytics.rayjump.com
 analytics.shop.hisense.com
 analytics.snssdk.com
 analytics.talkingdata.net
@@ -18421,7 +18422,6 @@ cn.letou118.net
 cn.linkedin.com
 cn.made-in-china.com
 cn.man484.com
-cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.net
 cn.ntp.org.cn
@@ -33436,7 +33436,6 @@ htdata.qq.com
 htdata2.qq.com
 htdata3.qq.com
 htdata4.qq.com
-htdzwy.com
 hteacher.net
 hteos.com
 htexam.com

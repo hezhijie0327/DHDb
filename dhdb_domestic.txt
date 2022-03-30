@@ -13709,6 +13709,7 @@ blog.51cto.com
 blog.chinaunix.net
 blog.csdn.net
 blog.fuckgfw233.org
+blog.gitee.com
 blog.hicasper.com
 blog.hicasper.com.cname.yunjiasu-cdn.net
 blog.itpub.net
@@ -17660,7 +17661,6 @@ citsgbt.com
 citure.net
 citvc.com
 city.sina.com.cn
-city.youpukeji.cn
 city8.com
 citygf.com
 cityhui.com
@@ -41113,6 +41113,7 @@ kuaixun360.com
 kuaiya.cn
 kuaiyingxiao88.com
 kuaiyingyong.vip
+kuaiyong.com
 kuaiyoujia.com
 kuaiyouxi.com
 kuaiyu.com
@@ -62373,7 +62374,6 @@ szclmd.com
 szcompare.com
 szcsot.com
 szcssx.com
-szcsw.com
 szcua.org
 szcwdz.com
 szcy99.com

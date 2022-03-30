@@ -7111,7 +7111,6 @@ a.alipayobjects.com
 a.alipayobjects.com.danuoyi.tbcache.com
 a.amap.com
 a.amap.com.danuoyi.tbcache.com
-a.amghais.cn
 a.app.qq.com
 a.appcpa.net
 a.appjiagu.com
@@ -15540,6 +15539,7 @@ cd.06bv.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
+cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -23629,6 +23629,7 @@ dreamo100.com
 dreamore.com
 dreams-travel.com
 dreamswood.com
+dreamsz.net
 dreamtown.58.com
 dreamware.com.cn
 dreawer.com
@@ -49262,6 +49263,7 @@ offer.alibaba.com
 office-cn.net
 office-peixun.com
 office26.com
+officecdn.microsoft.com
 officectrl.com
 officejc.net
 officese.com
@@ -64396,7 +64398,6 @@ tmfsdk4.m.qq.com
 tmfsdktcp.m.qq.com
 tmfsdktcpv4.m.qq.com
 tmfsdp1.cachenode.cn
-tmge.alicdn.com
 tmhong.com
 tmhvps.com
 tmigoods.com

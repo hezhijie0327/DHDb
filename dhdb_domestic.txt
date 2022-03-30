@@ -3683,6 +3683,7 @@
 512play.com
 513523.com
 51386.com
+513hjs.com
 514193.com
 514200.com
 51499.com
@@ -10665,7 +10666,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-1-drcn.dbankcdn.com.c.cdnhwc1.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
@@ -31119,7 +31119,6 @@ haitou.cc
 haitoujia.com
 haituie.com
 haituncun.com
-haitundr.com
 haitunshenghuo.com
 haituntui.com
 haitunvoice.com
@@ -39219,6 +39218,7 @@ js.ea3w.com
 js.fengniao.com
 js.gdyjs.com
 js.gomein.net.cn
+js.goodemc.com
 js.gsxt.gov.cn
 js.haisheteam.com
 js.haoxyx.com
@@ -50286,7 +50286,6 @@ p1.lefile.cn
 p1.lefile.cn.wscdns.com
 p1.meituan.net
 p1.music.126.net
-p1.pstatp.com
 p1.pstatp.com.wscdns.com
 p1.qhimg.com
 p1.qxzsw.com
@@ -59365,7 +59364,6 @@ shumeipai.nxez.com
 shumeipaiba.com
 shumenol.com
 shumensy.com
-shumiao.com
 shumiimg.com
 shundecity.com
 shunderen.com
@@ -63001,7 +62999,6 @@ tankmm.com
 tanknee.cn
 tanky.vip
 tankywoo.com
-tanling.com
 tanluxia.com
 tanmer.com
 tanmizhi.com

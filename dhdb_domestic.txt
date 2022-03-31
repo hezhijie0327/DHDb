@@ -14511,7 +14511,6 @@ c-sta-cn.upltv.com
 c-uaa.if.iqiyi.com
 c.02kdid.com
 c.28rv.com
-c.3.cn
 c.3.cn.gslb.qianxun.com
 c.35kds.com
 c.51y5.net
@@ -32593,6 +32592,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.pool.ntp.org
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -55620,7 +55620,6 @@ raycns.com
 raycom-inv.com
 raycuslaser.com
 raydonet.com
-rayjoy.com
 rayli.adsame.com
 rayli.com.cn
 raymx-micro.com

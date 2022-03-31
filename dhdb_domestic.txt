@@ -10213,6 +10213,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -14377,7 +14378,6 @@ bwhgsb.com
 bwie.net
 bwin3099.com
 bwmelon.com
-bwptl.com
 bwpx.com
 bwsoft.net
 bwtiyu.com
@@ -29111,6 +29111,7 @@ gftuan.com
 gfun.me
 gfund.com
 gfvip00ao.com
+gfvip05ad.com
 gfwsl.geforce.cn
 gfxaa.com
 gfxcamp.com
@@ -32019,7 +32020,6 @@ heiyuewan.com
 heizhushoes.com
 heizuan.com
 hejian669.51sole.com
-hejies.com
 hejiu2016.com
 hejizhan.com
 hejun.com
@@ -64595,7 +64595,6 @@ tools.l.google.com
 tools.tmga.qq.com
 toomoss.com
 toon.mobi
-tooogooo.com
 tooopen.com
 tootour.com
 top-iot.com

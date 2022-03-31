@@ -7533,7 +7533,6 @@ abc.jia.com
 abc.jia.com.wswebcdn.com
 abc.kfyg.xyz
 abc.rwpt.top
-abc.xtyx918.com
 abc.yebaike.com
 abc.yjbys.com
 abc.zhiyaspa.com
@@ -25168,6 +25167,7 @@ edajob.com
 edatop.com
 edawiki.com
 edb-tech.com
+edc.zzzkxx.com
 edcba.com
 edd1d412e86361b58929a8d0e4a5ba3d.dlied1.cdntips.net
 eddic.net
@@ -41904,6 +41904,7 @@ learning.snssdk.com
 learning.snssdk.com.w.cdngslb.com
 learning.u.wpscdn.cn
 learnku.com
+learnnode.gitee.io
 learsun.com
 lebang.com
 lebang.net
@@ -45791,7 +45792,6 @@ mg09.zhaopin.com
 mg3721.com
 mgame-sv.netease.com
 mgame.sohu.com
-mgamevideo.serviceproxy.qq.com
 mgate.jd.com
 mgate.jd.com.gslb.qianxun.com
 mgbsdk.matrix.netease.com

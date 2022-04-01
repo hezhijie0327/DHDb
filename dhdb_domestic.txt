@@ -8362,7 +8362,6 @@ adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.madserving.com
-adv.sec.miui.com
 adv.zuimeitianqi.com
 advbeta.madserving.com
 advert.api.thejoyrun.com
@@ -15345,7 +15344,6 @@ ccfb707b077b94f38031072966a06631.safeframe.googlesyndication.com
 ccfei.com
 ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
-ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -59034,6 +59032,7 @@ shop1157007315556.1688.com
 shop119340084.taobao.com
 shop13472379.m.youzan.com
 shop1467306713870.1688.com
+shop163011508.v.weidian.com
 shop18560191h2977.1688.com
 shop1z7c564687567.1688.com
 shop244950792.taobao.com

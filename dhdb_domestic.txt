@@ -10538,7 +10538,6 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
-app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -11862,6 +11861,7 @@ baiduyy.com
 baiduzhidao.site
 baieryk.com
 baietu.com
+baifayule.com
 baifen.music.baidu.com
 baifendian.com
 baifumeiba.com
@@ -53945,7 +53945,6 @@ qijishow.com
 qijizuopin.com
 qijoe.com
 qijuan.com
-qikan123.com
 qikanw.com
 qikegu.com
 qikepai.cn
@@ -59051,6 +59050,7 @@ shop987.net
 shopapi.io.mi.com
 shopbop.ink
 shopc.e.shifen.com
+shopchaoren.com
 shopee.cn
 shopeesz.com
 shopin.net
@@ -59509,6 +59509,7 @@ siluecai.com
 silusheji.com
 siluwu.com
 sim.djicdn.com
+sim800.com
 simaba.m.taobao.com
 simaba.taobao.com
 simage.weathercn.com
@@ -60230,6 +60231,7 @@ soft.macx.cn
 soft.tbs.imtt.qq.com
 soft.xitongxz.net
 soft.zhidian3g.cn
+soft10.com
 soft2005.com
 soft50.com
 soft5566.com

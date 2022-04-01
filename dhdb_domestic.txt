@@ -7918,7 +7918,6 @@ ad.jiemian.com
 ad.jp.doubleclick.net
 ad.jxnews.com.cn
 ad.k.21cn.com
-ad.lflucky.com
 ad.lqalm.com
 ad.madserving.com
 ad.mail.sohu.com
@@ -37210,6 +37209,7 @@ iteer.net
 itek-training.com
 itellyou.com
 item-china.cn
+item-soa.jd.com
 item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com.gslb.qianxun.com
@@ -47040,6 +47040,7 @@ ms-toolsai.gallerycdn.azure.cn
 ms-vscode-remote.gallerycdn.azure.cn
 ms-vscode.gallerycdn.azure.cn
 ms-vsliveshare.gallerycdn.azure.cn
+ms.actingidekex.cn
 ms.bdimg.com
 ms.cnbanbao.com
 ms.cnczjy.com
@@ -48458,6 +48459,7 @@ ninecoign.com
 ninepart.com
 nineroad.com
 ninesix.cc
+ninestargroup.com
 ningbo-airport.com
 ningbo.baixing.com
 ningbocat.com
@@ -62614,7 +62616,6 @@ t.mdn2015x3.com
 t.minipage.2345.cc
 t.mookie1.cn
 t.pzclw.cn
-t.qiuqiuqipai.com
 t.qq.com
 t.quandangdang.net
 t.ruanjian.2345.com

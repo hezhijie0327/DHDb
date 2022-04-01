@@ -36088,7 +36088,6 @@ img11-sched.jcloudimg.com
 img11.18183.com
 img11.360buyimg.com.gslb.qianxun.com
 img12.360buyimg.com
-img14.360buyimg.com
 img14.poco.cn
 img16.diyifanwen.com
 img166.diyifanwen.com
@@ -57069,6 +57068,7 @@ s6.music.126.net
 s6.music.126.net.wsglb0.com
 s6.rr.itc.cn
 s6.vip.wpscdn.cn
+s60sky.com
 s6110-flv-ml.gslb.ksyuncdn.com
 s6110-ml.gslb.ksyuncdn.com
 s6120-ml.gslb.ksyuncdn.com
@@ -58134,6 +58134,7 @@ sesier.com
 sestat.baidu.com
 sesubox.com
 setlightning.idc.dmall.com
+setting.rayjump.com
 setting1.hicloud.com
 seuic.com
 sevencdn.com

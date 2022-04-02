@@ -15521,7 +15521,6 @@ cd.06bv.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
-cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -18404,6 +18403,7 @@ cn.letou118.net
 cn.linkedin.com
 cn.made-in-china.com
 cn.man484.com
+cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.net
 cn.ntp.org.cn
@@ -31404,7 +31404,6 @@ haostat.qihoo.com
 haotb.com
 haote.com
 haotehui.com
-haotihui.com
 haotijin.com
 haotoon.cn
 haotoufa.com

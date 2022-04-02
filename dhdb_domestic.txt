@@ -2556,7 +2556,6 @@
 3.3322722.com
 3.39zuoye.com
 3.5646.cn
-3.cn.pool.ntp.org
 3.iscrv.com
 3.pic.pc6.com
 3.ssqzj.com
@@ -6566,6 +6565,7 @@
 925177359317868fca73f994645a371b.safeframe.googlesyndication.com
 925pk.com
 9270271.fls.doubleclick.net
+927927.com
 927953.com
 927jx.com
 928051.p23.tc.cdntip.com
@@ -25970,6 +25970,7 @@ esw.tymcdn.com
 eswin.com
 eszmall.com
 esztsg.org
+esztyg.com
 eszwdx.com
 et.softidc.gaofangm.com
 et.tanx.com
@@ -38316,6 +38317,7 @@ jimg.iigs9.com
 jimi168.com
 jimicn.com
 jimifashion.com
+jimilier.com
 jimiru-bj.com
 jimistore.com
 jimonet.cc
@@ -49148,7 +49150,6 @@ ocpc.xueersi.com
 ocri-genomics.org
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
-ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.cfca.com.cn
 ocsp.crlocsp.cn

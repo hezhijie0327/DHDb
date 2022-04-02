@@ -44410,7 +44410,6 @@ m.vaxyz.com
 m.video.xiaomi.com
 m.vmall.com
 m.wandoujia.com
-m.wdeie.com
 m.weathercn.com
 m.webshu.net
 m.weibo.cn
@@ -46594,6 +46593,7 @@ mobiledissector.com
 mobilefhtj.kuwo.cn
 mobilegamebase.com
 mobilegw.alipay.cn
+mobilegw.alipay.com
 mobilegw.alipaydns.com
 mobilehera.ximalaya.com
 mobilelivephoto.bs2dl.yy.com

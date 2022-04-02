@@ -646,7 +646,6 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -1958,6 +1957,7 @@
 1r49n.cn
 1r7nya677qygwfqfpq1f6uvcsg9b7avy.alicloudwaf.com
 1rtb.com
+1s8pj.cn
 1safety.cc
 1sapp.com
 1shang.com
@@ -23488,7 +23488,6 @@ downpack.baidu.com
 downpack.bdstatic.com
 downpp.com
 downsdk.3g.qq.com
-downuc.com
 downv6.qq.com
 downv6.qq.com.legodlied1-dk.sched.dcloudstc.com
 downv6.qq.com.yyb-dk.sched.dcloudstc.com
@@ -39072,7 +39071,6 @@ jpyoo.com
 jpyssc.com
 jq.qq.com
 jq22.com
-jq960.com
 jqcfgnm.cn
 jqcool.net
 jqdzw.com
@@ -40083,7 +40081,6 @@ kaiyuanhotels.com
 kaiyuanxian.baixing.com
 kajicam.com
 kaka.com
-kakadm.com
 kakalili.com
 kakamobi.com
 kalading.com
@@ -44336,7 +44333,6 @@ m.mijisou.com
 m.mpl.dutils.com
 m.mrtuo.com
 m.mtuoa.com
-m.myams.cn
 m.nabeghlavi.com.cn
 m.nb.17house.com
 m.news.cctv.com
@@ -51429,7 +51425,6 @@ piaode.ren
 piaodown.com
 piaofang168.com
 piaoliang.com
-piaolianghuay.com
 piaoniu.com
 piaoquantv.com
 piaoshen.com

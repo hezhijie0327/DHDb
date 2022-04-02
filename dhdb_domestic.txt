@@ -19235,6 +19235,7 @@ connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
 connectivitycheck.gstatic.com
+connectivitycheck.platform.hicloud.com
 connector-systems.com
 connpm.gj.qq.com
 connps.gj.qq.com
@@ -37501,6 +37502,7 @@ izestchina.com
 izhangchu.com
 izhangheng.com
 izhaohe.com
+izhaoo.com
 izhaowo.com
 izhenxin.com
 izheteng.com
@@ -44850,7 +44852,6 @@ manage.wdfans.cn
 manage.wuhancloud.cn
 managemobile.cdeledu.com
 manben.com
-manbetx36.bet
 manboker.com
 mandao-tech.com
 mandarinedu.org

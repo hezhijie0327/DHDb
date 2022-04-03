@@ -10169,7 +10169,6 @@ api.hengdianfilm.com
 api.home.news.cn
 api.home.skysrt.com
 api.huya.com
-api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -29738,6 +29737,7 @@ gooooal.com
 goooob.com
 gooood.hk
 goootech.com
+goootu.com
 goosai.com
 goosail.com
 gooseeker.com
@@ -35956,6 +35956,7 @@ img.samsungapps.com
 img.scicat.cn
 img.scicat.cn.w.kunlunaq.com
 img.scoregg.com
+img.shentus.com
 img.sheyuansu.com
 img.sogoucdn.com
 img.sogoucdn.com.p23.tc.cdntip.com

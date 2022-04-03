@@ -2399,7 +2399,6 @@
 27lvpai.com
 27tj.com
 27ws.com
-27yx.com
 2800.so
 281010.com
 28123.com
@@ -50864,6 +50863,7 @@ passport.dns.iqiyi.com
 passport.douyu.com
 passport.douyu.com.w.cdngslb.com
 passport.iqiyi.com
+passport.jd.com
 passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn

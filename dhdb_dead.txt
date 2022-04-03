@@ -1403,7 +1403,6 @@
 22.dhcp.biz
 22.dns2.us
 22.fartit.com
-22.ly.rs
 22.otzo.com
 22.proxydns.com
 22.qingsongbar.com
@@ -1646,6 +1645,7 @@
 27fys.xyz
 27l.com
 27pan.2wk.com
+27yx.com
 2803e11a21.com
 28083890.com
 2827.com
@@ -24434,6 +24434,7 @@ f1c.i.biquge5200.com
 f2.e703.net
 f2.p0y.com
 f23y4td4.com
+f2b2204b2300b6f770a267388c891327.clo.footprintdns.com
 f2d92947a0c33f5a167c67c62bdf7611.jddebug.com
 f2phacks.com
 f3.mi-stat.gslb.mi-idc.com
@@ -30726,7 +30727,6 @@ hlw22.com
 hlw299.com
 hlw555.com
 hlw66.com
-hlwlizloq.com
 hlytec.com
 hlzqnstatics.mxingkong.net
 hm-analytics.com
@@ -35925,6 +35925,7 @@ kbnihnmrghgy.com
 kbotrjug.xyz
 kbwrsxnmhmm.top
 kbyelxqr.com
+kbzdxt.com
 kc-valves.com
 kc.jjhaolin.com
 kc.kexinshe.com
@@ -39656,7 +39657,6 @@ m.gtiou.com
 m.gtnde.com
 m.gtuoj.com
 m.guaas.com
-m.guifei99.com
 m.guvdfs.cn
 m.gvez.top
 m.gwdqp.com
@@ -40087,6 +40087,7 @@ m.symad.cn
 m.sz05f.cn
 m.szmt02.cn
 m.szmt18.cn
+m.szqifu.com
 m.szwjzl.cn
 m.szyuke.cn
 m.t3j6a.cn
@@ -55922,7 +55923,6 @@ sub.topber.com
 subacme.rerouted.org
 subad-server.com
 subchat.net
-subdo.torrentrapid.com
 subdomain-001.smectapop12.pl
 subdomain001.smectapop12.pl
 sube.puwangkj.com

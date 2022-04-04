@@ -32611,7 +32611,6 @@ hk08.dns.meo-sub.site
 hk08.dns.meo-sub.xyz
 hk1.cdn.web.ctfile.net
 hk50606.cn
-hk515.net
 hk6qfo1.cdnnodedns.cn
 hk6vc33w.v1d.szbdyd.com
 hk6vc35k.v1d.szbdyd.com
@@ -43107,6 +43106,7 @@ ljxww.com
 ljzfin.com
 lk.brand.sogou.com
 lk.kepuwen.com
+lkbf.0532ci.com.cn
 lkcgyl.com
 lkcoffee.com
 lkcsgo.com
@@ -57775,7 +57775,6 @@ sdqmy.com
 sdqoi2d.com
 sdras.gallerycdn.azure.cn
 sdrcu.com
-sdrufu.com
 sdsf.sspu.edu.cn
 sdshshb.com
 sdshulifang.com

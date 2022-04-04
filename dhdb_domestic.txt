@@ -15526,6 +15526,7 @@ cd.06bv.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
+cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -18369,7 +18370,6 @@ cn-sdyt-cu-v-07.bilivideo.com
 cn-sdyt-cu-v-08.bilivideo.com
 cn-sdyt-cu-v-09.bilivideo.com
 cn-sdyt-cu-v-10.bilivideo.com
-cn-sdyt-cu-v-11.bilivideo.com
 cn-sdyt-cu-v-12.bilivideo.com
 cn-sdyt-cu-v-13.bilivideo.com
 cn-sdyt-cu-v-14.bilivideo.com
@@ -20470,6 +20470,7 @@ d.h5.coffeedak.cn
 d.hexuntech.cn
 d.ifengimg.com
 d.jd.com
+d.jd.com.gslb.qianxun.com
 d.jjyx.com
 d.kugou.com
 d.mingyihui.net
@@ -40241,6 +40242,7 @@ kc.gouchezj.com
 kc.yeyou.com
 kc9.cn
 kcart.alipay.com
+kccqgj.cn
 kchance.com
 kchuhai.com
 kcity.org
@@ -56050,7 +56052,6 @@ res2.eqh5.com
 res2.wx.qq.com
 res2.wx.qq.com.cloud.tc.qq.com
 res2.wx.qq.com.sched.px-dk.tdnsv6.com
-res2.yuexinshuba.com
 res2.yuexinshuba.com.w.kunlungr.com
 resauth.kuwo.cn
 rescdn.qqmail.com

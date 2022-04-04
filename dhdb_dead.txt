@@ -7042,6 +7042,7 @@ adsbizsimple.com
 adscdn.baidu.cn
 adsclick.qq.com
 adsclick.yx.js.cn
+adscok.com
 adscorp.win
 adscpm.com
 adscpm.site
@@ -8657,6 +8658,7 @@ analytics.ws.126.net
 analytics.xyscdn.com
 analytics.zingerwebdesign.com
 analyticsncc.net
+analytik.xyz
 analyze.yahooapis.com
 analyzer.omniata.com
 anank.ke
@@ -16270,6 +16272,7 @@ cn-sdjn2-cu-v-07.bilivideo.com
 cn-sdjn2-cu-v-08.bilivideo.com
 cn-sdjn2-cu-v-09.bilivideo.com
 cn-sdjn3-cu-v-03.bilivideo.com
+cn-sdyt-cu-v-11.bilivideo.com
 cn-test.taboola.com
 cn-wallet-generator.hashvault.pro
 cn-zjwz-dx-v-01.bilivideo.com
@@ -19778,7 +19781,6 @@ dc0062.com
 dc1.networkbench.com
 dc173cc1070c2ab16b1d.date
 dc2.csdn.net
-dc2210.com
 dc4400.com
 dc4499.com
 dc44qjwal3p07.cloudfront.net
@@ -35966,7 +35968,6 @@ kcai779.com
 kcai868.com
 kcar.com
 kcc.g31hc.cn
-kccqgj.cn
 kcdn.xyz
 kcdnvip.com
 kcehdslfcqva.com
@@ -39027,7 +39028,6 @@ lumion3d.net
 lumpyleaf.com
 lumreckle.fun
 lun-cheng.com
-lunafilms.sg
 lunatrade.store
 lunli1988.com
 luntan588.space
@@ -51244,6 +51244,7 @@ res.udb.duowan.com
 res.woread.com.cn.gslb.wo186.tv
 res.ydcabin.com
 res.ymxiaopin.com
+res2.yuexinshuba.com
 res9.i2356.com
 resad.mediaid.click
 resadvantco.info

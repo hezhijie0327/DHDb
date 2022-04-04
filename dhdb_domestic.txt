@@ -10102,7 +10102,6 @@ api.bigfun.cn
 api.biliapi.net
 api.bilibili.com
 api.biligame.com
-api.browser.miui.com
 api.bs.zui.com
 api.btstu.cn
 api.bz
@@ -32277,7 +32276,6 @@ hgkscflg.v1d.szbdyd.com
 hgkscwmk.v1d.szbdyd.com
 hglaser.com
 hgnc.net
-hgpull3.zjzhaishi.com
 hgv1la4y.sched.pddlego-dk.tdnsv5.com
 hgxy.info
 hgy413.com
@@ -48672,7 +48670,6 @@ nmgd.com
 nmgfood.net
 nmgfrank.com
 nmggyy.com
-nmgrwjz.com
 nmgwyw.org
 nmgyljs.com
 nmhfw.com

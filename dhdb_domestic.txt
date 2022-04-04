@@ -6369,7 +6369,6 @@
 90qh.com
 90sheji.com
 90tank.com
-90vm.com
 90yang.com
 90zm.net
 910015779.s1txipv6.cdntip.com
@@ -10168,6 +10167,7 @@ api.hengdianfilm.com
 api.home.news.cn
 api.home.skysrt.com
 api.huya.com
+api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -16369,7 +16369,6 @@ chaojizuowen.com
 chaoku.oss-cn-chengdu.aliyuncs.com
 chaolean.com
 chaolen.com
-chaoliangyun.cn
 chaolongbus.com
 chaonanrc.com
 chaonei.com
@@ -53918,7 +53917,6 @@ qidong.co
 qidong.name
 qidongyx.com
 qidou.com
-qiduocloud.com
 qiduowei.com
 qie.tv
 qieerxi.com

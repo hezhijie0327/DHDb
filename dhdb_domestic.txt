@@ -12651,6 +12651,7 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -24674,7 +24675,6 @@ e.ad.xiaomi.com
 e.ayues.com
 e.baidu.com
 e.banmamedia.com
-e.bentengcn.com
 e.bilibili.com
 e.bjmu.edu.cn
 e.bnc66.com
@@ -49168,6 +49168,7 @@ ocpc.xueersi.com
 ocri-genomics.org
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
+ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.cfca.com.cn
 ocsp.crlocsp.cn
@@ -56603,7 +56604,6 @@ ruiyunit.com
 rujiazg.com
 ruketang.com
 rulejianzhan.com
-rum8.perf.linkedin.com
 rumengtushu.suning.com
 runcome.com
 runde666.net
@@ -62138,7 +62138,6 @@ sxxynews.com
 sxy7.com
 sxycrb.com
 sxyj.net
-sxyunyou.cn
 sxyyedu.cn
 sxz14300.51sole.com
 sxzfcy.com

@@ -10662,6 +10662,7 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
+appdl-1-drcn.dbankcdn.com
 appdl-1-drcn.dbankcdn.com.c.cdnhwc1.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
@@ -14535,6 +14536,7 @@ c.click.alimama.com
 c.cnzz.com
 c.cotton.netease.com
 c.cotton.netease.com.cdn20.com
+c.cqpsf.cn
 c.ctags.cn
 c.ctc.w.ximalaya.com
 c.cyhx98.com
@@ -19247,7 +19249,6 @@ connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
 connectivitycheck.gstatic.com
-connectivitycheck.platform.hicloud.com
 connector-systems.com
 connpm.gj.qq.com
 connps.gj.qq.com
@@ -36746,7 +36747,6 @@ iocrest.com
 ioeyjsb.com
 ioffershow.com
 ioffice100.com
-ioio.in
 ioiox.com
 ioiox.net
 iok.la
@@ -48802,6 +48802,7 @@ norlinked.com
 norma-external-collect.meizu.com
 normcore.com
 north1test.blob.core.chinacloudapi.cn
+northdm.com
 northdy.com
 northgun.com
 northtimes.com
@@ -49614,7 +49615,6 @@ oolap.com
 oomake.com
 oomll.cn
 ooniu.com
-ooop.zqwlkj.cn
 ooopic.com
 ooopn.com
 ooss.oss.aliyuncs.com
@@ -55562,6 +55562,7 @@ rabc1.iteye.com
 rabc2.iteye.com
 race604.com
 racing-china.com
+racktom.com
 radar.zuimeitianqi.com
 raddus.bayescom.com
 radicalmail.net

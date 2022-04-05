@@ -18424,7 +18424,6 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -44201,7 +44200,6 @@ m.acfun.cn.w.kunlunar.com
 m.ad.zhangyue.com
 m.ads.sohu.com
 m.ahinun.cn
-m.ahwczn.cn
 m.aihuishou.com
 m.ajmide.com
 m.ali213.net

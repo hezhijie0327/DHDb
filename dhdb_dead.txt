@@ -1410,6 +1410,7 @@
 220.127.27.58.in-addr.arpa
 220efda3143.com
 221234.xyz
+221486.com
 221532.com
 221547.com
 221558.com
@@ -3052,6 +3053,7 @@
 59kaixuan.com
 59kankan.com
 59nmk4u.tech
+59pk.net
 5a8d98f440cf0d8a4558df6310c3891b.jddebug.com
 5abb9cf6f410fd36bc0dabeff289a4c5.jddebug.com
 5abc52efb14d419bc29bfd57e06e2be2.jddebug.com
@@ -5310,6 +5312,7 @@ aa.wenxue6.com
 aa.xiangxiangmf.com
 aa.zldh123.com
 aa01.dynu.net
+aa059.com
 aa1.ifeng.com
 aa13.cloud
 aa228.net
@@ -5812,6 +5815,7 @@ ad.hieahgkcha.cn
 ad.house365.com
 ad.howstuffworks.com
 ad.ibookstar.com
+ad.iconadserver.com
 ad.idgtn.net
 ad.ihuman.com
 ad.ilikesponsorad.co.kr
@@ -8483,7 +8487,6 @@ amcs4.com
 amcs44.com
 amcs5.com
 amcs55.com
-amcs66.com
 amcs77.com
 amcs9.com
 amdgchinese.org
@@ -22026,7 +22029,6 @@ dynatracesaas.com
 dyndns.work
 dynlrgfzo6vb5.cloudfront.net
 dynsrvaba.com
-dynsrvdea.com
 dynsrvtbg.com
 dynssp.com
 dyntrk.com
@@ -53326,7 +53328,6 @@ servads.aip.org
 servadsdisrupt.com
 servamain.ddns.net
 servantolog.ru
-serve.adneutralads.com
 serve.mediayan.com
 serveac.com
 servedby-buysellads.com

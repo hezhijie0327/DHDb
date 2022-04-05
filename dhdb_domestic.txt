@@ -4647,7 +4647,6 @@
 59f660e5b7f1daaa60f12d92f3d426d5.safeframe.googlesyndication.com
 59hi.com
 59iedu.com
-59pk.net
 59store.com
 59w.net
 59wj.com
@@ -10305,7 +10304,6 @@ api.tuhu.cn
 api.tuisong.baidu.com
 api.tv.sohu.com
 api.tw06.xlmc.sandai.net
-api.tw06.xlmc.sec.miui.com
 api.udache.com
 api.union.vip.com
 api.unipay.qq.com
@@ -37200,7 +37198,6 @@ itbuy.com
 itbyte.net
 itc.cn
 itc.sspu.edu.cn
-itcacfo.com
 itchaguan.com
 itchaxun.cn
 itcpn.net

@@ -7595,7 +7595,6 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
-abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abuquant.com
@@ -13040,7 +13039,6 @@ biaoyi.com
 biaozhun8.com
 biaozhuncang.com
 biaozhuns.com
-biaozhunyisheng.com
 biask.com
 bibaodao.com
 bibenet.com
@@ -34951,6 +34949,7 @@ icoc.in
 icoc.me
 icode9.com
 icodef.com
+icoderobot.com
 icofchina.com
 icom5g.com
 icon.cecdc.com
@@ -50362,7 +50361,6 @@ p2perrorlog.douyucdn.cn
 p2peye.com
 p2phx.com
 p2plive-ali.douyucdn.cn
-p2plive-ws.douyucdn.cn
 p2plog.douyucdn.cn
 p2pport.yfp2p.net
 p2psdk.wscdns.com
@@ -51553,7 +51551,6 @@ pic100.weishi.qq.com
 pic16.com
 pic1cdn.cmbchina.com
 pic1cdn.cmbchina.com.w.alikunlun.com
-pic2.178.com
 pic2.inter.ptqy.gitv.tv
 pic2.iqiyipic.com
 pic2.orsoon.com

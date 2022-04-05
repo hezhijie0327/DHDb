@@ -10111,7 +10111,6 @@ api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.coconut.is
-api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -32836,7 +32835,6 @@ hngh.org
 hngican.com
 hngoldcorp.com
 hngou.com
-hngrafton.cn
 hngshk.51sole.com
 hngwg.com
 hngwmt.com
@@ -46146,7 +46144,6 @@ mingtaokeji.com
 mingtian.com
 mingtrip.com
 mingxiaodai.com
-mingxing.com
 mingyannet.com
 mingyantong.com
 mingyaohui.com
@@ -55615,7 +55612,6 @@ rapidppt.com
 rapoo.com
 rarcbank.com
 rarelit.net
-rarshare.com
 rashost.com
 rata-catering.com
 rate.taobao.com
@@ -59604,7 +59600,6 @@ singee77.com
 singhead.com
 singpodcast.com
 sinmeng.com
-sinmv.com
 sino-cr.com
 sino-flexography.com
 sino-life.com

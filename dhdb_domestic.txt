@@ -2,6 +2,7 @@
 0-6.com
 0.cn.pool.ntp.org
 0.pic.pc6.com
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -7595,6 +7596,7 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
+abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abuquant.com
@@ -22582,7 +22584,6 @@ diuling.com
 diushouji.com
 div.io
 diviner.jd.com
-diviner.jd.com.gslb.qianxun.com
 division-data.alicdn.com
 diwork.com
 dixintong.com
@@ -31057,7 +31058,6 @@ haigou.life
 haigui001.com
 haiguime.com
 haijia.org
-haijiangzx.com
 haijiaonet.com
 haijingfang.cc
 haiketrip.com
@@ -37752,6 +37752,7 @@ jczs.xyz
 jd-88.com
 jd-app.com
 jd-bbs.com
+jd-ex.com
 jd-fm.com
 jd-mod-space.s3.cn-north-1.jdcloud-oss.com
 jd-tv.com
@@ -56481,6 +56482,7 @@ rsb2.pingan.com.cn
 rsc.bjmu.edu.cn
 rsc.zsc.edu.cn
 rscloudmart.com
+rsctljb.cn
 rsdgd.com
 rsdyy.com
 rsftjj.cn

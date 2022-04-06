@@ -51,6 +51,7 @@
 00red.com
 00tera.com
 00wv.com
+00xvppy.cn
 01-cf.com
 010155.net
 0101shop.com
@@ -12650,7 +12651,6 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -21635,6 +21635,7 @@ ddmap.com
 ddmeishi.com
 ddmer.com
 ddmogo.com
+ddms.jd.com
 ddms.jd.com.gslb.qianxun.com
 ddmyapp.wscdn.tcdn.qq.com
 ddmyapp.wscdn.tcdn.qq.com.lxdns.com
@@ -34589,7 +34590,6 @@ i.snssdk.com
 i.snssdk.com.w.kunluncan.com
 i.sso.sina.com.cn
 i.stat.nearme.com.cn
-i.tantanapp.com
 i.taobao.com
 i.tddmp.com
 i.ulmdb.cn

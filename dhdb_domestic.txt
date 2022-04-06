@@ -26085,6 +26085,7 @@ eueueu.com
 eugnnn.com
 eui.cc
 euibe.com
+eulatracking-public-service-prod06.ol.epicgames.com
 eulike.com
 eulixos.com
 euratwin.com
@@ -61202,7 +61203,6 @@ static.gcores.com
 static.gcores.com.w.kunlungr.com
 static.geetest.com
 static.geetest.com.w.cdngslb.com
-static.geetest.com.wswebpic.com
 static.gg.uuu9.com
 static.go2yd.com
 static.googleadsserving.cn
@@ -63438,7 +63438,6 @@ tencent-growthimage.xiaoheiban.cn.w.kunlungr.com
 tencent.cn
 tencent.com
 tencent.com.cn
-tencent.com.hk
 tencent.m.cn.miaozhen.com
 tencent.net.cn
 tencentads.com

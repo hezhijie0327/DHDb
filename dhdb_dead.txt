@@ -32955,7 +32955,6 @@ imserv001.adtech.us
 imserv002.adtech.us
 imserv004.adtech.us
 imserv005.adtech.us
-imserv006.adtech.us
 imserv00x.adtech.us
 imsupercard.com
 imsystem.site
@@ -47717,6 +47716,7 @@ phonering4you.com
 phonestats.net
 phoneysoap.com
 phoodsom.net
+phookree.com
 phorm.biz.tr
 phorm.cl
 phorm.co.in
@@ -53209,7 +53209,6 @@ seed-2.nimiq.net
 seed-20.nimiq.net
 seed-3.nimiq.net
 seed-4.nimiq.net
-seed-4.nimiq.network
 seed-5.nimiq.net
 seed-6.nimiq.net
 seed-7.nimiq.net
@@ -55649,6 +55648,7 @@ stat3.888.ku6.com
 statcamp.net
 stater-tc.com
 static-cnt.bi
+static-cnt.bid
 static-economist.com
 static-nike.com
 static-od.com
@@ -55664,6 +55664,7 @@ static.duoshuo.com
 static.exoclick.com
 static.exosrv.com
 static.firehunt.com
+static.geetest.com.wswebpic.com
 static.googeadsserving.cn
 static.googles.com
 static.hk.rs
@@ -56655,7 +56656,6 @@ t-analytics.com
 t-fb-w-sv-bn-7j.ru
 t-kibo.com
 t-msedge.net
-t-pan.triodos.com
 t-staging.powerreviews.com
 t-support.net
 t.24mk.xyz
@@ -57286,6 +57286,7 @@ tencent-cloud.cn
 tencent-cloud.com
 tencent-cloud.net
 tencent-gf.com
+tencent.com.hk
 tencentclb.com
 tencentcloudapi.com
 tencentdevices.com
@@ -58404,6 +58405,7 @@ tpool.cn
 tpptv.ipdx.cn.miaozhen.com
 tpqiiosuhqiv.xyz
 tps11013.doubleverify.com
+tps11020.doubleverify.com
 tps11025.doubleverify.com
 tptrk.ru
 tpveanxnwerwpf.com

@@ -5471,7 +5471,6 @@
 76al.com
 76baobao.com
 76dongdong.com
-76jie.com
 76ju.com
 76phtp1.cachenode.cn
 76wu.com
@@ -24109,7 +24108,6 @@ dumasoftware.com
 dumeiwen.com
 dumi0898.com
 dumili.com
-dumou.com
 dumpapp.com
 dun.ppdaicdn.com
 dun.ppdaicdn.com.w.kunlungr.com
@@ -25289,6 +25287,7 @@ ee.1s8pj.cn
 ee.71zrh.cn
 ee.j5s9b.cn
 ee.s47e8.cn
+ee.u4q2.cn
 ee.xr883.cn
 ee.zn8ni.cn
 ee34d54ae2314884e4ae20efa1451b35.dl.txcdns.com
@@ -28421,6 +28420,7 @@ galaxy.bjcathay.com
 galaxy.sogoucdn.com
 galaxyappstore.com
 galaxyasset.com
+galaxyclouds.cn
 galaxyentertainment.com
 galaxyinfo.com
 galaxymacau.com
@@ -44410,7 +44410,6 @@ m.sp.17house.com
 m.static.xitongzhijia.net
 m.suning.com
 m.suofeiyashop.com
-m.szmt11.cn
 m.sztjdz.com.cn
 m.taobao.com
 m.tech.china.com

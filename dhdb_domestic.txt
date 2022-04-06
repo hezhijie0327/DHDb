@@ -9487,7 +9487,6 @@ amethystum.com
 amexpressnetwork.com
 amfi.gou.sogou.com
 amgbs.com
-amghais.cn
 amgmedia.cn
 amh.sh
 amhimalayanet.com
@@ -10540,6 +10539,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net

@@ -1579,6 +1579,7 @@
 1778.com
 177817.com
 177o.com
+178-go.com
 178.com
 1783919.com
 178448.com
@@ -2024,6 +2025,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
+2.asia.pool.ntp.org
 2.haoxue360.com
 2.openwrt.pool.ntp.org
 2.pool.ntp.org
@@ -4078,7 +4080,6 @@
 51tuiyi.com
 51tunhuo.com
 51tvbao.com
-51tvrom.com
 51tyty.com
 51tz.com
 51ukf.com
@@ -21277,7 +21278,6 @@ data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
-data.sec.miui.com
 data.snm0516.aisee.tv
 data.sonkwo.com
 data.trendymedia.com.cn
@@ -23010,7 +23010,6 @@ dngjxx.com
 dngsxitong.com
 dngz.net
 dnion.com
-dnjishu.com
 dnjsb.com
 dnkeeper.dbankcloud.com
 dnkeeper.hicloud.com

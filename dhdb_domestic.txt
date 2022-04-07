@@ -10165,6 +10165,7 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.home.skysrt.com
+api.huangye.miui.com
 api.huya.com
 api.hyhuo.com
 api.i-meto.com
@@ -43782,7 +43783,6 @@ lucode.net
 lucoder.com
 lucy365.com
 lucydraw.com
-ludake.com
 ludashi.com
 ludeqi.com
 ludiban.com
@@ -49184,7 +49184,6 @@ ocsp.sectigochina.com
 ocsp.us.cdnetworks.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
-ocsp2.g.aaplimg.com
 ocsp3.sheca.com
 oct-cts.com
 oct-sh.com

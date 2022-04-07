@@ -16411,7 +16411,6 @@ chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
-chat1.jd.com
 chat1.jd.com.gslb.qianxun.com
 chataixin59.byf.com
 chatm.com
@@ -29034,6 +29033,7 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
+get.sogou.com
 get.vip
 getapk.cn
 getbingo.net

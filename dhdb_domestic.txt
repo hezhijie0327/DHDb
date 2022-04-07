@@ -26180,6 +26180,7 @@ ewz4ksd98492555o.aliyunddos1026.com
 ex-silver.com
 ex-starch.com
 ex.m.jd.com
+ex.m.jd.com.gslb.qianxun.com
 ex.mobmore.com
 ex.puata.info
 ex.tanx.com
@@ -44674,6 +44675,7 @@ magentochina.org
 magev6.if.qidian.com
 maggie.gallerycdn.azure.cn
 magi.com
+magic-future.com
 magician.iqiyi.com
 magicleaders.com
 magicnetmall.com
@@ -57081,7 +57083,6 @@ s6.c-ctrip.com.ctripgslb.com
 s6.cnzz.com
 s6.mini.wpscdn.cn
 s6.music.126.net
-s6.music.126.net.wsglb0.com
 s6.rr.itc.cn
 s6.vip.wpscdn.cn
 s60sky.com

@@ -9792,6 +9792,7 @@ anybeen.com
 anyes.com.cn
 anyew.com
 anygame.info
+anyiidc.com
 anyilv.com
 anyka.com
 anyknew.com
@@ -18417,7 +18418,6 @@ cn.letou118.net
 cn.linkedin.com
 cn.made-in-china.com
 cn.man484.com
-cn.mclean.50union.com
 cn.mvconf.50union.com
 cn.net
 cn.ntp.org.cn
@@ -50855,6 +50855,7 @@ passport.dns.iqiyi.com
 passport.douyu.com
 passport.douyu.com.w.cdngslb.com
 passport.iqiyi.com
+passport.jd.com
 passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn

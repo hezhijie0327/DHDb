@@ -9025,7 +9025,6 @@ aks.zu.anjuke.com
 akscan.com
 aksdjfksl.kuaiyunbd.com
 aksdkfj.biexsite.net
-akswe.com
 aksxw.com
 akuaikan.com
 akuziti.com
@@ -37226,6 +37225,7 @@ item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
 item.jd.com.gslb.qianxun.com
+item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
 item.mediav.com
 item.taobao.com
@@ -41756,7 +41756,6 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
-lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsgwh5.m.jd.com
 lbsgwh5.m.jd.com.gslb.qianxun.com
@@ -48321,6 +48320,7 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
+nex.163.com
 next.api.aliyun.com
 next.itellyou.cn
 next.itellyou.cn.w.kunluncan.com

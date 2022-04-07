@@ -8092,7 +8092,6 @@ adimg.mobile.sina.cn
 adimg.uve.weibo.com
 adimg.youku.com
 adimg.zui.com
-adimgs.xici.net
 adinall.com
 adinallcdn.com
 adirects.com
@@ -21227,6 +21226,7 @@ darwinlearns.com
 das.mobile.youku.com
 dashangcloud.com
 dashangu.com
+dashedm.com
 dashen520.com
 dashengji.com
 dashenglaile.com
@@ -27636,6 +27636,7 @@ fongmong.com
 font.chinaz.com
 font168.com
 fontke.com
+fonts-gstatic.wp-china-yes.net
 fonts.geekzu.org
 fonts.googleapis.com
 fonts.gstatic.com
@@ -38105,7 +38106,6 @@ jiankong58.com
 jiankongbao.com
 jianlaixiaoshuo.com
 jianlc.com
-jianlc.net
 jianli-sky.com
 jianli9.com
 jianliao.com

@@ -5139,6 +5139,7 @@
 6abc.net
 6ac67d2d47024b85d62c4360.mdbook.cn
 6acm.com
+6amc.com
 6an8.com
 6api.net
 6apt.com
@@ -32073,7 +32074,6 @@ help.yunaq.com
 helpdaohang1.ksmobile.com
 helpduba1.ksmobile.com
 helpdubaclient.ksmobile.com
-helper-sys.com
 helper.docer.wps.cn
 helpgamebox1.ksmobile.com
 helpkprotect1.ksmobile.com
@@ -49177,6 +49177,7 @@ ocsp.pki.goog
 ocsp.sectigochina.com
 ocsp.us.cdnetworks.com
 ocsp2-lb.apple.com.akadns.net
+ocsp2.g.aaplimg.com
 ocsp3.sheca.com
 oct-cts.com
 oct-sh.com

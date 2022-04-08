@@ -5038,7 +5038,6 @@
 66call.com
 66diqiu.com
 66ds.net
-66house.com
 66jjzw.tdum.alibaba.com
 66law.cn
 66liu.com
@@ -10245,7 +10244,6 @@ api.my.tv.sohu.com
 api.neixin.cn
 api.newad.ifeng.com
 api.nhsoft.cn
-api.node1.systest.ptqy.gitv.tv
 api.node2.systest.ptqy.gitv.tv
 api.np.mobilem.360.cn
 api.oneniceapp.com
@@ -11993,7 +11991,6 @@ baizhan.net
 baizhanke.com
 baizhibest.com
 baizhiedu.com
-baizhixx.com
 baizhu.cc
 baj.fanwenzhan.com
 baj0tv.tdum.alibaba.com
@@ -18418,6 +18415,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -32907,6 +32905,7 @@ hntymg.com
 hnwlcm.com
 hnwlxh.net
 hnwz8.com
+hnxahz.com
 hnxdf.com
 hnxfpfb.com
 hnxgzg.com
@@ -48429,6 +48428,7 @@ nies.org
 niexiaotao.com
 nieyou.com
 nifengz.com
+nightwishcn.com
 nihao.net
 nihaobank.com
 nihaodd.com
@@ -56599,6 +56599,7 @@ ruiyunit.com
 rujiazg.com
 ruketang.com
 rulejianzhan.com
+rum8.perf.linkedin.com
 rumengtushu.suning.com
 runcome.com
 runde666.net

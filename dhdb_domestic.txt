@@ -10203,7 +10203,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -52482,6 +52481,7 @@ ptg.tcdn.qq.com
 pthxuexi.com
 ptimg.org
 ptlogin.qidian.com
+ptlogin.yuewen.com
 ptlogin2.docs.qq.com
 ptlogin2.game.qq.com
 ptlogin2.qq.com

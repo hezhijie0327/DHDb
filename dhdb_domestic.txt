@@ -16402,7 +16402,6 @@ charmingglobe.com
 chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
-chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
@@ -30211,7 +30210,6 @@ guangzhuiyuan.com
 guanhuaju.com
 guanjia.10010.com
 guanjia.lenovo.com.cn
-guanjia2.com
 guanjiabo.net
 guanjiajf.com
 guankou.net

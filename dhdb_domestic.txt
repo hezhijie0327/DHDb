@@ -10160,7 +10160,6 @@ api.hellobike.com
 api.hengdianfilm.com
 api.home.news.cn
 api.home.skysrt.com
-api.huangye.miui.com
 api.huya.com
 api.hyhuo.com
 api.i-meto.com
@@ -18704,6 +18703,7 @@ cnlive.com
 cnlogo8.com
 cnlp.lp.cs.quickconnect.cn
 cnluqiao.com
+cnm.xlcktv.com
 cnmanhua.com
 cnmcom.com
 cnmdy.com
@@ -38730,7 +38730,6 @@ jjhyxh.com
 jjidc.com
 jjiehao.com
 jjisp.com
-jjj.amghais.cn
 jjj.ee
 jjj393.com
 jjjg.co
@@ -51813,7 +51812,6 @@ pko123.com
 pkpk.com
 pkpky.com
 pkpmsoft.com
-pksanb.com
 pksfc.com
 pku-hit.com
 pku-lvxin.com

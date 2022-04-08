@@ -380,6 +380,7 @@
 06jm.com
 06peng.com
 0701news.com
+070210.com
 07073.com
 07073h5.com
 07073sy.com
@@ -3320,7 +3321,6 @@
 3zhijk.com
 3zmuseum.com
 4-xiang.com
-4.pic.pc6.com
 4.up.qingdaonews.com
 400-lighting.com
 400.com
@@ -21270,6 +21270,7 @@ data.mistat.xiaomi.com
 data.openspeech.cn
 data.p4psearch.1688.com
 data.qq.com
+data.sec.miui.com
 data.snm0516.aisee.tv
 data.sonkwo.com
 data.trendymedia.com.cn
@@ -50145,7 +50146,6 @@ p-ins15273-15273.lbc-vip.ntes53.netease.com
 p-l.play.aiseet.atianqi.com
 p-vp.autohome.com.cn
 p.2345.6463.com
-p.3.cn
 p.3.cn.gslb.qianxun.com
 p.37see.com
 p.51gowan.com
@@ -54421,7 +54421,6 @@ qpic.y.qq.com
 qplus1.idqqimg.com.sched.px-dk.tdnsv6.com
 qpn3e28v.v1d.szbdyd.com
 qpn3lxxc.v1d.szbdyd.com
-qpsearch.jd.com
 qpsearch.jd.com.gslb.qianxun.com
 qpushapi.innotechx.com
 qpzq.net
@@ -57401,7 +57400,6 @@ sc2p.com
 sc2yun.com
 sc666.com
 scache.node1.systest.ptqy.gitv.tv
-scache.node2.systest.ptqy.gitv.tv
 scaffi.com
 scan.call.f.360.cn
 scanv.com

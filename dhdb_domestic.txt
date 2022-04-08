@@ -21952,6 +21952,7 @@ dfp.aa.sdo.com
 dfp.mbcloud.com
 dfp.suning.com
 dfpgw.paas.cmbchina.com
+dfpk.com
 dfrcb.com
 dfs168.com
 dfs800.com
@@ -37022,6 +37023,7 @@ ironfishchina.com
 irongbei.com
 ironghui.com
 irootech.com
+irpmgcmd.com
 irpmt.mail.163.com
 irs01.net
 irs03.com
@@ -37843,7 +37845,6 @@ jeecg.org
 jeecms.com
 jeejen.com
 jeeplus.org
-jeepshoe.net
 jeepyy.com
 jeesci.com
 jeff-hykin.gallerycdn.azure.cn
@@ -47050,6 +47051,7 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com

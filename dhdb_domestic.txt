@@ -33475,7 +33475,6 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
-httpdns.push.heytapmobi.com
 httprunner.org
 https-play-g3proxy.lecloud.com
 https.eol.cn
@@ -52476,7 +52475,6 @@ psytest.sspu.edu.cn
 psyzg.com
 pszx.com
 pszxw.com
-pszyzxh.org
 pt-bus.com
 pt-starimg.didistatic.com
 pt.5211game.com

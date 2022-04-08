@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0.cn.pool.ntp.org
-0.pic.pc6.com
 0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
@@ -18292,7 +18291,6 @@ cmts.iqiyi.com.w.alikunlun.com
 cmtw.pinduoduo.com
 cmtw.yangkeduo.com
 cmu1h.com
-cmvbah0ozedolf.wsglb0.com
 cmvideo.cn
 cmvtc.com
 cmwb.com
@@ -40398,6 +40396,7 @@ kenxq.com
 kenxr.com
 kepingtong.com
 kepler-cn.captcha.qcloud.com
+kepler.jd.com
 kepler.ptqy.gitv.tv
 kepuchina.org
 kepusky.com
@@ -43737,7 +43736,6 @@ ltp-cloud.com
 ltscsy.qq.com
 ltsf.com
 ltssjy.qq.com
-ltsws.qq.com
 ltswxy.com
 ltsydzd.qq.com
 ltwkw.com
@@ -57784,7 +57782,6 @@ sdxitong.com
 sdxjpc.com
 sdxvisa.com
 sdxzt.com
-sdyhwk.com
 sdyinshuachang.com
 sdyizhibi.com
 sdynr.com

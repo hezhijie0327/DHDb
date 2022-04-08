@@ -8365,7 +8365,6 @@ adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.madserving.com
-adv.sec.miui.com
 adv.zuimeitianqi.com
 advbeta.madserving.com
 advert.api.thejoyrun.com
@@ -9687,7 +9686,6 @@ anli.lifegamer.top
 anlink.com
 anlogic.com
 anmobc.com
-anmoxiansheng.com
 anmoyi98.com
 ann9.com
 annangela.moe
@@ -28545,7 +28543,6 @@ gamersky.com
 games.mobileapi.hupu.com
 games.renren.com
 games.sina.com.cn
-games.tgbus.com
 games.tgbus.com.wscdns.com
 gameservice.com
 gamesh.com
@@ -32617,6 +32614,7 @@ hkaco.com
 hkance.com
 hkance.xyz
 hkbchina.com
+hkbmsb.fun
 hkcts.com
 hkfc.hk
 hkfljt.com

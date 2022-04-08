@@ -6110,6 +6110,7 @@
 8848phone.com
 885.com
 8855.org
+8857634.com
 88582.com
 8860.net
 8864.com
@@ -10106,7 +10107,6 @@ api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.coconut.is
-api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -10883,7 +10883,6 @@ archerysalon.com
 archgo.com
 archi-motive.com
 archiant.com
-archidead.net
 archio.pro
 architbang.com
 archive.biliimg.com
@@ -20936,6 +20935,7 @@ dailuopan.com
 daily.zzx.cnklog.com
 dailygn.com
 dailyqd.com
+daima.diaoben.net
 daima.dsxdn.com
 daima.jiazhao.com
 daima.ysdui.com
@@ -31594,6 +31594,7 @@ hbhm.net
 hbhtcm.com
 hbhtxx.com
 hbhxbb.com
+hbhyc.cn
 hbhyychem.com
 hbhz.net
 hbicpa.org

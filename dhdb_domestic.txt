@@ -10553,7 +10553,6 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cj.sina.cn
@@ -29827,6 +29826,7 @@ gp88888.com
 gp891.com
 gpai.net
 gpautobid.com
+gpbctv.com
 gpbeta.com
 gpcd.gtimg.cn
 gpcd.gtimg.cn.sched.px.tdnsv6.com
@@ -62247,7 +62247,6 @@ sz-etong.com
 sz-jlc.com
 sz-lcsc.com
 sz-mtr.com
-sz-osckj.com
 sz-printing.com
 sz-rms-bcs.lol.qq.com
 sz-skt.com

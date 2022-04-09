@@ -11220,6 +11220,7 @@ atyun.net
 atzjg.net
 atzlinux.com
 atzuche.com
+au.download.windowsupdate.com
 au.w.inmobi.cn
 au.youmi.net
 auak.com
@@ -19353,7 +19354,6 @@ coral2.uc.cn
 core-ucloud.tantanapp.com
 core.bilivideo.com
 core.cloud.unity.cn
-core.tantanapp.com
 corebai.com
 corebug.adsame.com
 coreldrawchina.com
@@ -20280,7 +20280,6 @@ cychaiqian.com
 cyclingchina.net
 cyclone-robotics.com
 cyclonemoto.com
-cycytea.cn
 cycyuan.com
 cydf.com
 cydiakk.com
@@ -20329,6 +20328,7 @@ cyypscl.com
 cyyself.name
 cyyz.org
 cyyzws.com
+cyzm.net
 cz-toshiba.com
 cz-yk.com
 cz.douyu.com
@@ -44295,6 +44295,7 @@ m.ithome.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
+m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jdcdn.com
 m.jf.10010.com
@@ -47050,7 +47051,6 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
-msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com

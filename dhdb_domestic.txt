@@ -36750,7 +36750,6 @@ ios.bugly.qq.com
 ios.rqd.qq.com
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
-iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -37095,7 +37094,6 @@ ismartware.com
 isme.pub
 iso-iso9000.com
 iso.mirrors.ustc.edu.cn
-isoft-linux.org
 isoftstone.com
 isorange.com
 isoyes.com
@@ -41485,6 +41483,7 @@ lamabang.com
 lamahui.com
 lamaison-arting.com
 lamajie.com
+lamall.com
 lamaqun.com
 lamaying.com
 lamiu.com

@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0.cn.pool.ntp.org
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -2549,7 +2548,6 @@
 2tx.com
 2uuwt8.tdum.alibaba.com
 2vc00.com
-2vv.cc
 2weima.com
 2xbxtr.tdum.alibaba.com
 2y7gd6.tdum.alibaba.com
@@ -22569,6 +22567,7 @@ diuling.com
 diushouji.com
 div.io
 diviner.jd.com
+diviner.jd.com.gslb.qianxun.com
 division-data.alicdn.com
 diwork.com
 dixintong.com

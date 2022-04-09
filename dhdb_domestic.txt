@@ -35919,6 +35919,7 @@ img.nihaodd.com
 img.nihaodd.com.cname.yunjiasu-cdn.net
 img.ninebox.cn
 img.onlinedown.net
+img.ott.siqiangame.com
 img.pconline.com.cn
 img.pconline.com.cn.cdn20.com
 img.pconline.com.cn.w.kunluncan.com
@@ -51481,7 +51482,6 @@ pic.mfpjrj.com
 pic.moad.cn
 pic.mytown.qq.com
 pic.orsoon.com
-pic.pc6.com
 pic.qhyc55.com
 pic.rmb.bdstatic.com
 pic.shop.lenovo.com.cn

@@ -10536,7 +10536,6 @@ app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
-app-web-seo-aso.com
 app-zh.com
 app-zhconf.paas.cmbchina.com
 app.50bang.org
@@ -16399,6 +16398,7 @@ charmingglobe.com
 chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
+chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
@@ -34029,7 +34029,6 @@ huodongshu.com
 huodongxing.com
 huoduan.com
 huofar.com
-huofayu.com
 huofutp.com
 huogz.com
 huohoo.com
@@ -51202,7 +51201,6 @@ pegatroncorp.com
 peidu.com
 peilian.com
 peiluyou.com
-peise.net
 peixun.net
 peixun5.com
 peixune.com

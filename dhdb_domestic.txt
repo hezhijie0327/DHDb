@@ -10297,6 +10297,7 @@ api.tuhu.cn
 api.tuisong.baidu.com
 api.tv.sohu.com
 api.tw06.xlmc.sandai.net
+api.tw06.xlmc.sec.miui.com
 api.udache.com
 api.union.vip.com
 api.unipay.qq.com
@@ -10809,6 +10810,7 @@ appurl.me
 appuu.cn
 appversion.115.com
 appvipshop.com
+appvv.com
 appweiyuan.com
 appwill.com
 appwk.baidu.com
@@ -30688,6 +30690,7 @@ gzesap.com
 gzexpo.com
 gzfilm.com
 gzfsnet.com
+gzfxkwl.com
 gzgc120.com
 gzgdwl.com
 gzguard12th.com
@@ -31448,6 +31451,7 @@ haowuyunji.com
 haowuyx.com
 haoxg.net
 haoxipu.com
+haoxiyou.com
 haoxue.com
 haoxue360.com
 haoxuetang99.com
@@ -47063,7 +47067,6 @@ msanjia.com
 msc.jd.com
 msc.jd.com.gslb.qianxun.com
 mscbsc.com
-msch.f.360.cn
 msclick2.kuwo.cn
 msdn.itellyou.cn
 msdn.itellyou.cn.w.kunluncan.com

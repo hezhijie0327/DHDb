@@ -10553,6 +10553,7 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
+app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cj.sina.cn
@@ -19787,6 +19788,7 @@ crifst.com
 crimoon.net
 crispstata.com
 crjshop.com
+crl.apple.com
 crl.kaspersky.com
 crl.pki.goog
 crlcn.com
@@ -52283,7 +52285,6 @@ pr.x.hub.sandai.net
 prateekmahendrakar.gallerycdn.azure.cn
 prcedu.com
 prcee.org
-prd-lender.cdp.internal.unity3d.com
 pre-ad.alimama.com
 pre-adv.alimama.com
 pre2-ad.alimama.com
@@ -57561,7 +57562,6 @@ sczg.com
 sczgzb.com
 sczhaosheng.com
 sczl123.com
-sczlb.com
 sczlcts.com
 sczshz.net
 sczsie.com

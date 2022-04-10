@@ -21286,7 +21286,6 @@ data6.video.iqiyi.com
 data985.com
 dataaq.yy.com
 dataautoupdate7.synology.cn
-databank.air.yoyi.com.cn
 databank.yoyi.com.cn
 datacaciques.com
 datacard.qidian.qq.com.sched.px-dk.tdnsv6.com
@@ -44332,7 +44331,6 @@ m.kfc.com.cn
 m.kyxnz.cn
 m.laigame7.net
 m.lanqiuba.com
-m.lanseshuba.com
 m.lanshiwan.cn
 m.laxienian888.com
 m.le.com

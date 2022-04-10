@@ -2022,7 +2022,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.asia.pool.ntp.org
 2.haoxue360.com
 2.openwrt.pool.ntp.org
 2.pool.ntp.org
@@ -3687,6 +3686,7 @@
 5151doc.com
 5151sc.com
 5153.com
+5155046.com
 5156edu.com
 5156rcw.com
 515app.com
@@ -10106,6 +10106,7 @@ api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.coconut.is
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -10531,7 +10532,6 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
-app-site-association.cdn-apple.com
 app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
@@ -21372,6 +21372,7 @@ daxue.changhewh.cn
 daxuecn.com
 daxueit.com
 daxuepc.com
+daxueshengqiandai.com
 daxuesushe.com
 daxuewa.com
 daxuewang.com

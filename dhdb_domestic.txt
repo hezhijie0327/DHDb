@@ -36762,6 +36762,7 @@ ios.bugly.qq.com
 ios.rqd.qq.com
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
+iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -37687,7 +37688,6 @@ jbo909.com
 jbqipa.com
 jbryun.com
 jbzj.com
-jbzwread.com
 jbzyk.com
 jbzyw.com
 jc-ai.com
@@ -56003,7 +56003,6 @@ res.hduofen.cn
 res.hoisin.coocaatv.com
 res.hpoi.net.cn
 res.hunantv.com
-res.icast.cn
 res.imtt.qq.com
 res.imtt.x2.sched.dcloudstc.com
 res.ipingke.com

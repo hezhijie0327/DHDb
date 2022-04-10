@@ -23079,7 +23079,6 @@ dnsv5.com
 dnswhk.com
 dnswind.net
 dnszh.com
-dnxp.net
 dnxtc.net
 do-shi.com
 do1024.com
@@ -25101,6 +25100,7 @@ ecollision.shareinstall.com.cn
 ecom.snssdk.com
 ecomcbjs.jomodns.com
 ecomgxh.kuwo.cn
+ecommerceintegration-public-service-ecomprod02.ol.epicgames.com
 ecomoter.com
 ecook.cn
 ecoplastech.com
@@ -33919,7 +33919,6 @@ huixianxian.baixing.com
 huixiaoer.com
 huixiaoer.net
 huixingsoft.com
-huixinli.com
 huixinyt.com
 huixinyun.com
 huixuanjiasu.com

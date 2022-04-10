@@ -5220,7 +5220,6 @@
 6tennis.com
 6thhosp.com
 6tiantian.com
-6tie.com
 6tjlu6my.p23.tc.cdntip.com
 6tjlu6my.sched.sma.tdnsv5.com
 6uc.cc
@@ -11090,6 +11089,7 @@ asr.meituan.com
 asrmicro.com
 asrsingapore.com
 asset.newyx.net
+asset.tantanapp.com
 assets-cli.udesk.cn
 assets-cli.udesk.cn.w.kunlunar.com
 assets-mayun.b0.aicdn.com
@@ -21625,7 +21625,6 @@ ddmap.com
 ddmeishi.com
 ddmer.com
 ddmogo.com
-ddms.jd.com
 ddms.jd.com.gslb.qianxun.com
 ddmyapp.wscdn.tcdn.qq.com
 ddmyapp.wscdn.tcdn.qq.com.lxdns.com
@@ -33481,6 +33480,7 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
+httpdns.ocloud.heytapmobi.com
 httprunner.org
 https-play-g3proxy.lecloud.com
 https.eol.cn
@@ -49245,7 +49245,6 @@ offer.alibaba.com
 office-cn.net
 office-peixun.com
 office26.com
-officecdn.microsoft.com
 officectrl.com
 officejc.net
 officese.com
@@ -52189,6 +52188,7 @@ pp.myapp.com
 pp.myapp.com.sched.ssdv6.tdnsv6.com
 pp.xdplt.com
 pp100.com
+pp130.com
 pp2.pptv.com
 pp6.cc
 pp70.com

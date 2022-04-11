@@ -7754,7 +7754,6 @@ acs4baichuan.m.taobao.com
 acshoes.com
 acsrq.com
 acstatic-dun.126.net
-acstatic-dun.126.net.wsglb0.com
 acstatic.dun.163yun.com
 act-telecom.com
 act-vip-ssl.xunlei.com
@@ -10242,7 +10241,6 @@ api.neixin.cn
 api.newad.ifeng.com
 api.nhsoft.cn
 api.node1.systest.ptqy.gitv.tv
-api.node2.systest.ptqy.gitv.tv
 api.np.mobilem.360.cn
 api.oneniceapp.com
 api.oneyuan.nagezan.net
@@ -31445,6 +31443,7 @@ haoweb.top
 haowen100.com
 haoword.com
 haowu.com
+haowu.info
 haowu.link
 haowuyunji.com
 haowuyx.com

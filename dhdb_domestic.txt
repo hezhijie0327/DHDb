@@ -10241,6 +10241,7 @@ api.my.tv.sohu.com
 api.neixin.cn
 api.newad.ifeng.com
 api.nhsoft.cn
+api.node1.systest.ptqy.gitv.tv
 api.node2.systest.ptqy.gitv.tv
 api.np.mobilem.360.cn
 api.oneniceapp.com
@@ -45006,6 +45007,7 @@ mapi.appvipshop.vipgslb.com
 mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
+mapi.m.jd.com
 mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn

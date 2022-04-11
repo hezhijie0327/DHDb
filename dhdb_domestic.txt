@@ -38084,7 +38084,6 @@ jianhui.org
 jianhui666.com
 jianianle.com
 jianjian.tv
-jianjiaobuluo.com
 jiankang.com
 jiankanghebei.com
 jiankangju.com
@@ -49186,6 +49185,7 @@ ocsp.pki.goog
 ocsp.sectigochina.com
 ocsp.us.cdnetworks.com
 ocsp2-lb.apple.com.akadns.net
+ocsp2.apple.com
 ocsp2.g.aaplimg.com
 ocsp3.sheca.com
 oct-cts.com

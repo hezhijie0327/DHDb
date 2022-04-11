@@ -10162,6 +10162,7 @@ api.hengdianfilm.com
 api.home.news.cn
 api.home.skysrt.com
 api.huya.com
+api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -37467,7 +37468,6 @@ ixiqi.com
 ixiunv.com
 ixizang.com
 ixmu.net
-ixniang.com
 ixpub.net
 ixsch.com
 ixu.me
@@ -44165,7 +44165,6 @@ m.1768.com
 m.1905.com
 m.1s8pj.cn
 m.360buyimg.com
-m.360buyimg.com.gslb.qianxun.com
 m.3dmgame.com
 m.51dongshi.com
 m.51job.com

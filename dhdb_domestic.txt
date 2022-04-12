@@ -19228,7 +19228,6 @@ connect-drcn.dbankcloud.cn
 connect-drcn.hispace.hicloud.com
 connect.play.aiseet.atianqi.com
 connect.qq.com
-connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
@@ -33824,7 +33823,6 @@ hui800.com
 hui800.net
 huian.baixing.com
 huibo.com
-huicaiba.com
 huicaishui.net
 huiche100.com
 huichewang.com
@@ -47049,6 +47047,7 @@ ms.actingidekex.cn
 ms.bdimg.com
 ms.cnbanbao.com
 ms.cnczjy.com
+ms.ienkdaccessible.cn
 ms.jr.jd.com.gslb.qianxun.com
 ms.vipstatic.com
 ms.zu.anjuke.com
@@ -47531,7 +47530,6 @@ myhostadmin.net
 myhuaweicloud.cn
 myhuaweicloud.com
 myhug.cn
-myhuilv.com
 myhwclouds.com
 myicloud.vip
 myie9.com

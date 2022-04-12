@@ -19229,6 +19229,7 @@ connect-drcn.dbankcloud.cn
 connect-drcn.hispace.hicloud.com
 connect.play.aiseet.atianqi.com
 connect.qq.com
+connect.rom.miui.com
 connect.unity.cn
 connectivity.samsung.com.cn
 connectivitycheck.cbg-app.huawei.com
@@ -26281,7 +26282,6 @@ eyoodns.com
 eyou.com
 eyou.net
 eyoucms.com
-eyoujj.com
 eyourbusiness.com
 eyrefree.org
 eysyy23y.sched.s2-dk.tdnsv5.com
@@ -48057,7 +48057,6 @@ neoease.com
 neofussvr.sslcs.cdngc.net
 neohytung.com
 neokylinschool.com
-neolix.net
 neoremind.com
 nepian.com
 neptcn.com

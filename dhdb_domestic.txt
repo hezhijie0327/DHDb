@@ -291,6 +291,7 @@
 052cb209c20ec0c2be2ea70e15fe56a5.safeframe.googlesyndication.com
 0531.com
 053135.com
+0531welt.com
 0531wt.com
 0532.com
 0535-0411.com
@@ -7895,6 +7896,7 @@ ad.de.doubleclick.net
 ad.dedecms.com
 ad.dev.360.cn
 ad.dongdong.madserving.com
+ad.doubanio.com
 ad.doubleclick.net
 ad.duomi.com
 ad.dzwindows.com
@@ -10629,7 +10631,6 @@ appbsl.com
 appbyme.com
 appbz.info
 appc.baidu.com
-appccc.com
 appcdn.wapx.cn
 appchannel.html5.qq.com
 appchina.com

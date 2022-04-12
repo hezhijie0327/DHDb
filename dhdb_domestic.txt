@@ -4782,6 +4782,7 @@
 5kcrm.net
 5kda.com
 5khouse.com
+5kmm.top
 5kupky.tdum.alibaba.com
 5lanren.com
 5lbw.com
@@ -10238,7 +10239,6 @@ api.my.tv.sohu.com
 api.neixin.cn
 api.newad.ifeng.com
 api.nhsoft.cn
-api.node1.systest.ptqy.gitv.tv
 api.np.mobilem.360.cn
 api.oneniceapp.com
 api.oneyuan.nagezan.net
@@ -49243,6 +49243,7 @@ offer.alibaba.com
 office-cn.net
 office-peixun.com
 office26.com
+officecdn.microsoft.com
 officectrl.com
 officejc.net
 officese.com

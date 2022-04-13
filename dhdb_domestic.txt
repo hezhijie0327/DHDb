@@ -37218,6 +37218,7 @@ iteer.net
 itek-training.com
 itellyou.com
 item-china.cn
+item-soa.jd.com
 item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
@@ -43247,6 +43248,7 @@ log-lq.snssdk.com.w.cdngslb.com
 log-reyun-com-for-redirect-1246077432.cn-north-1.elb.amazonaws.com.cn
 log-sc.qutoutiao.net
 log-sdk.gifshow.com
+log-sdk.ksapisrv.com
 log-stats.weathercn.com
 log-upload.mihoyo.com
 log-yex.youdao.com
@@ -45061,6 +45063,7 @@ maro6.com
 maroon91.com
 marry5.com
 mars.ccc.cmbchina.com
+mars.jd.com
 mars.jd.com.gslb.qianxun.com
 mars.meituan.com
 marstor.com
@@ -46062,7 +46065,6 @@ million-api.aiclk.com
 millll.net
 millnovel.com
 miloktv.com
-miloli.info
 milu.com
 milvzn.com
 mima.club
@@ -61575,7 +61577,6 @@ studyget.com
 studygolang.com
 studyingtours.com
 studyintour.com
-studyiris.com
 studylinux.net
 studyll.com
 studyofnet.com
@@ -63694,7 +63695,6 @@ thehanshow.com
 theiei.com
 thejiangmen.com
 thejoyrun.com
-theme-drcn.dbankcdn.com
 theme-tc-drcn.dbankcdn.cn
 themebetter.com
 themis.hupu.com

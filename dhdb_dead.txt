@@ -10561,6 +10561,7 @@ baidu.cm
 baidu.cmxsw.com
 baidu.com.hen83.com
 baidu.dengzhoull.com
+baidu.dsp.tansuotv.com
 baidu.ehrenreich.ca
 baidu.greenxf.cn
 baidu.jz5u.net
@@ -21836,6 +21837,7 @@ dsn00.com
 dsn01.co
 dsn03.com
 dsn05.co
+dsn105.co
 dsn2252a.com
 dsn300.com
 dsn5266.com
@@ -31168,7 +31170,6 @@ hnpet.net
 hnpjshop.com
 hnpljm.xyz
 hnpxsm.com.cn
-hnqbb.com
 hnqhdnryukqko.com
 hnquyou.com
 hnrledu.com
@@ -35636,7 +35637,6 @@ jshell.net
 jshosting.bi
 jshosting.faith
 jshosting.live
-jshosting.party
 jshosting.racing
 jshosting.science
 jshosting.win

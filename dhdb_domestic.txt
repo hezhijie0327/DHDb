@@ -2023,6 +2023,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
+2.cn.pool.ntp.org
 2.haoxue360.com
 2.openwrt.pool.ntp.org
 2.pool.ntp.org
@@ -18354,7 +18355,6 @@ cn-nmghhht-cu-v-11.bilivideo.com
 cn-psy.com
 cn-railway.net
 cn-roofexpert.com
-cn-sdjn2-cu-v-03.bilivideo.com
 cn-sdyt-cu-v-01.bilivideo.com
 cn-sdyt-cu-v-02.bilivideo.com
 cn-sdyt-cu-v-04.bilivideo.com
@@ -49772,7 +49772,6 @@ openke.net
 openlanguage.com
 openlink.cc
 openlocation-drcn.platform.dbankcloud.com
-openloongson.org
 openluat.com
 openmobile.qq.com
 openmobileqqcom.msf.tencent-cloud.com

@@ -22971,7 +22971,6 @@ dms.fx678.com
 dms.vancss.com
 dms.xuexxing.com
 dmssc.net
-dmt.qcrx.cn
 dmtg.com
 dmtl.xyz
 dmtracking.1688.com
@@ -25436,6 +25435,7 @@ eiabbs.net
 eickaopei.com
 eicp.net
 eid.jd.com
+eid.jd.com.gslb.qianxun.com
 eidlink.com
 eidsign.com.cn
 eidv2.jd.com
@@ -42751,6 +42751,7 @@ linshang.com
 linshigong.com
 linsn.com
 linstitute.net
+lint2.com
 lintey.com
 lintongrc.com
 linuo-paradigma.com

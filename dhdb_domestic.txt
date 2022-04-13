@@ -4484,6 +4484,7 @@
 56dr.com
 56en.com
 56fba.cn
+56fff.net
 56ggb.com
 56golf.com
 56img.com
@@ -10060,6 +10061,7 @@ api.22lianmeng.com
 api.3839app.com
 api.5hte21mz.com
 api.account.xiaomi.com
+api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adnet.mob.com
 api.adxpand.com
@@ -16405,7 +16407,6 @@ chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
 chat1.jd.com
-chat1.jd.com.gslb.qianxun.com
 chataixin59.byf.com
 chatm.com
 chatn8.bjmantis.net
@@ -47068,7 +47069,6 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
-msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com

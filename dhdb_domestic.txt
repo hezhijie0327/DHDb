@@ -4852,7 +4852,6 @@
 5yi.com
 5ykj.cn
 5ykj.com
-5you.com
 5youchou.com
 5yun.org
 5zai.com
@@ -10241,6 +10240,7 @@ api.my.tv.sohu.com
 api.neixin.cn
 api.newad.ifeng.com
 api.nhsoft.cn
+api.node2.systest.ptqy.gitv.tv
 api.np.mobilem.360.cn
 api.oneniceapp.com
 api.oneyuan.nagezan.net
@@ -10651,7 +10651,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com
 appdl-1-drcn.dbankcdn.com.c.cdnhwc1.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
@@ -55746,7 +55745,6 @@ readnovel.com
 readooapi.youshu.cc
 readpaper.com
 readtv-assets.oss-cn-qingdao.aliyuncs.com
-readzq.com
 reaer.com
 realclearprivacy.biz
 realdatamed.com
@@ -57548,6 +57546,7 @@ sctv.com
 sctvf.com
 scufida.com
 scujj.com
+scutef.org
 scuvc.com
 scweixiao.com
 scwj.net
@@ -59343,6 +59342,7 @@ shundecity.com
 shunderen.com
 shunguang.com
 shunmi.com
+shunshiwlkj.com
 shunshunliuxue.com
 shuntu.cn
 shunwang.com
@@ -62295,7 +62295,6 @@ sz5.tencent.com
 sz5983.com
 sz6.tencent.com
 sz61.com
-sz68.com
 sz7.tencent.com
 sz7h.com
 sz8.tencent.com

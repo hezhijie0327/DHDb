@@ -14609,6 +14609,7 @@ c.wkanx.com
 c.woaiseo.com.cn
 c.wyykxyp.cn
 c.xbjcgs.cn
+c.xianglong360.cn
 c.xiaobaipan.com
 c.y.qq.com
 c.yes.youku.com
@@ -18359,7 +18360,6 @@ cn-sdyt-cu-v-07.bilivideo.com
 cn-sdyt-cu-v-08.bilivideo.com
 cn-sdyt-cu-v-09.bilivideo.com
 cn-sdyt-cu-v-10.bilivideo.com
-cn-sdyt-cu-v-14.bilivideo.com
 cn-shanghai-ds-1002.oss-acc.aliyuncs.com
 cn-shanghai-ds-2025.oss-acc.aliyuncs.com
 cn-shanghai-ds-2029.oss-acc.aliyuncs.com
@@ -57056,7 +57056,6 @@ s4.hy.qcloudcdn.com
 s4.hy.qcloudcdn.com.s4.cdntip.com
 s4.mini.wpscdn.cn
 s4.music.126.net
-s4.music.126.net.wscdns.com
 s4.ssl.qhimg.com
 s4.tool.lu
 s4.vip.wpscdn.cn

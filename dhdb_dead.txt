@@ -781,6 +781,7 @@
 1337x.org
 133china.com
 133u.com
+135-139.com
 135-cdn.com
 135.it
 135019.com
@@ -13784,7 +13785,6 @@ c.x.cn.miaozhen.com
 c.xadingli.cn
 c.xdygw.com.cn
 c.xhsxgmt.cn
-c.xianglong360.cn
 c.xianguonongchang.org
 c.xiaozhuyoupu.com
 c.xilongfuwu.com
@@ -16410,6 +16410,7 @@ cn-sdjn3-cu-v-03.bilivideo.com
 cn-sdyt-cu-v-11.bilivideo.com
 cn-sdyt-cu-v-12.bilivideo.com
 cn-sdyt-cu-v-13.bilivideo.com
+cn-sdyt-cu-v-14.bilivideo.com
 cn-test.taboola.com
 cn-wallet-generator.hashvault.pro
 cn-zjwz-dx-v-01.bilivideo.com
@@ -24057,6 +24058,7 @@ eradek.ru
 eranet.com
 eranews.eracom.com.tw
 ercos.cn
+ercredici.info
 erdekeshirek.club
 erdekeshirek.info
 erdekesvilag.eu
@@ -40455,6 +40457,7 @@ m.qbenu.com
 m.qdeia.com
 m.qdiut.com
 m.qh70wg.cn
+m.qhout.com
 m.qhuik.com
 m.qhxcdmfj.cn
 m.qingzhencai.net
@@ -52970,6 +52973,7 @@ s3d4.cn
 s3m.milkjpg.com
 s3xified.com
 s4.55.la
+s4.music.126.net.wscdns.com
 s4.parkeren-amsterdam.com
 s4.parkeren-haarlem.nl
 s4.parkeren-utrecht.nl

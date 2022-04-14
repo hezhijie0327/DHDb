@@ -7595,7 +7595,6 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
-abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abuquant.com
@@ -12104,7 +12103,6 @@ banyuetan.org
 banyuetanxcx.com
 banyunjuhe.com
 banzdw.cn
-banzou.name
 bao-cun.com
 bao-fang.com
 bao-hulu.com
@@ -24076,6 +24074,7 @@ duihuan123.com
 duihuashijie.com
 duikuang.com
 duilin.me
+duimin.com
 duiopen.com
 duitang.com
 duitianhe.com

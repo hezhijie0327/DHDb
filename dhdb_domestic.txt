@@ -10241,7 +10241,6 @@ api.my.tv.sohu.com
 api.neixin.cn
 api.newad.ifeng.com
 api.nhsoft.cn
-api.node2.systest.ptqy.gitv.tv
 api.np.mobilem.360.cn
 api.oneniceapp.com
 api.oneyuan.nagezan.net
@@ -26317,6 +26316,7 @@ ezhicai.com
 ezhijiantuoluo.com
 ezip.awehunt.com
 ezjoy.com.my
+ezlian.com
 ezrpro.com
 eztcn.com
 eztg.com
@@ -45910,7 +45910,6 @@ miaomiaozhe.com
 miaomore.com
 miaopai.com
 miaopai.video.weibocdn.com
-miaopin8.com
 miaoshou.com
 miaoshou.net
 miaoshoucdn.com

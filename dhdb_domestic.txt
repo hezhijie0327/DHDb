@@ -19420,7 +19420,6 @@ count5.pconline.com.cn
 count5.pconline.com.cn.dnsgtm.com
 count6.pconline.com.cn
 countad.pconline.com.cn.dnsgtm.com
-counter.kingsoft.com
 counter.ksosoft.com
 counter.m1905.com
 counter.pcauto.com.cn
@@ -24629,7 +24628,6 @@ e-celap.com
 e-chinalife.com
 e-cloudstore.com
 e-cuc.com
-e-cwinfo.com
 e-cyb.com
 e-dache.com
 e-eway.com
@@ -61395,7 +61393,6 @@ stats-a.maxthon.com
 stats.autohome.com.cn
 stats.chinaz.com
 stats.chinaz.com.wscdns.com
-stats.cn.ronghub.com
 stats.cocounion.com
 stats.dayoo.com
 stats.dmp.ghac.cn

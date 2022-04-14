@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0.cn.pool.ntp.org
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -12645,7 +12644,6 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -25284,6 +25282,7 @@ ee.71zrh.cn
 ee.j5s9b.cn
 ee.s47e8.cn
 ee.u4q2.cn
+ee.w82ph.cn
 ee.xr883.cn
 ee.zn8ni.cn
 ee34d54ae2314884e4ae20efa1451b35.dl.txcdns.com
@@ -52447,7 +52446,6 @@ ps-scholar-amis-standard.bj.bcebos.com
 ps.cname2.getui.com
 ps.map.baidu.com
 ps.res.netease.com
-ps.res.netease.com.wsglb0.com
 ps2.gamedl.qq.com
 ps3.tgbus.com
 ps3.tgbus.com.wscdns.com

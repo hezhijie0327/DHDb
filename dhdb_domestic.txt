@@ -1,6 +1,7 @@
 0-100.com
 0-6.com
 0.cn.pool.ntp.org
+0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -5970,6 +5971,7 @@
 855462.t.hypers.com.cn
 85550.com
 8558.org
+8562475.com
 8563p.cn
 85679999.com
 85814.com
@@ -31450,7 +31452,6 @@ haoxiyou.com
 haoxue.com
 haoxue360.com
 haoxuetang99.com
-haoxxwang.com
 haoxyx.com
 haoyhq.com
 haoyisheng.com
@@ -49714,7 +49715,6 @@ opencdnbdmap.jomodns.com
 opencdnbdsimage.jomodns.com
 opencdnbdspc.jomodns.com
 opencdnbdsucaiku.jomodns.com
-opencdnbdtbpic.jomodns.com
 opencdnbdvdposter.jomodns.com
 opencdnbdwappass.jomodns.com
 opencdncloud.jomodns.com

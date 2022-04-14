@@ -12403,7 +12403,6 @@ bc123536f4c15f0787f49501a41b9fac.safeframe.googlesyndication.com
 bc694ce81e5cefcd4a1acbacfb56d4cb.dlied1.cdntips.net
 bcactc.com
 bcad9c3d5ecc7f359bdd3b1709c41616.dl.txcdns.com
-bcb5.com
 bcbanzou.com
 bcbpm.com
 bcbvi.com
@@ -21565,6 +21564,7 @@ dcwj168.com
 dcxnews.com
 dczou.com
 dd-advisor.com
+dd-search.jd.com
 dd-search.jd.com.gslb.qianxun.com
 dd-static.jd.com
 dd.iask.cn
@@ -25356,6 +25356,7 @@ efapiao.com
 efashionchina.com
 efb2eacbcf3d4fabf366d149489760cd.dlied1.cdntips.net
 efe-h2.cdn.bcebos.com
+efe25.t7wl8.cn
 efengji.org
 eff-soft.com
 eff.inte.sogou.com
@@ -27214,7 +27215,6 @@ fieldschina.com
 fifsky.com
 fiio.net
 filcochina.com
-file-dd.jd.com
 file-dd.jd.com.gslb.qianxun.com
 file-link.pinduoduo.com
 file.40017.cn
@@ -49720,7 +49720,6 @@ opencdnbdsucaiku.jomodns.com
 opencdnbdtbpic.jomodns.com
 opencdnbdvdposter.jomodns.com
 opencdnbdwappass.jomodns.com
-opencdnbdwm.jomodns.com
 opencdncloud.jomodns.com
 opencdncloudv6.jomodns.com
 opencdncloudv6test.jomodns.com

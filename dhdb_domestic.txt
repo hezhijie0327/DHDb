@@ -2020,6 +2020,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
+2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.openwrt.pool.ntp.org

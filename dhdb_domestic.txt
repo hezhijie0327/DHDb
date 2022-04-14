@@ -714,7 +714,6 @@
 10006.info
 1000ci.net
 1000eb.net
-1000fun.com
 1000phone.com
 1000phone.net
 1000su.com
@@ -10107,7 +10106,6 @@ api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.coconut.is
-api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com

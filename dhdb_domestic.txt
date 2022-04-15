@@ -7898,7 +7898,6 @@ ad.de.doubleclick.net
 ad.dedecms.com
 ad.dev.360.cn
 ad.dongdong.madserving.com
-ad.doubanio.com
 ad.doubleclick.net
 ad.duomi.com
 ad.dzwindows.com
@@ -35388,6 +35387,7 @@ iibechina.com
 iibq.com
 iicp.net
 iidns.com
+iifab.com
 iiiff.com
 iiiimg.com
 iiilab.com
@@ -46538,7 +46538,6 @@ mnancheng.com
 mnbvtgv.com
 mndsoft.com
 mnkan.com
-mnoswqa.com
 mnqlog.ldmnq.com
 mnw.cn
 mnwor.xuanlishi.com

@@ -1746,7 +1746,6 @@
 187cn.cn
 188.com
 1881296.sched.skalego.tdnsv5.com
-1886zuche.com
 188app.xyz
 188cf.net
 188diaoche.com
@@ -7596,6 +7595,7 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
+abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abuquant.com
@@ -35391,7 +35391,6 @@ iibq.com
 iicp.net
 iidns.com
 iifab.com
-iiiff.com
 iiiimg.com
 iiilab.com
 iiiview.net
@@ -49728,7 +49727,6 @@ opencdnbaiduwm.jomodns.com
 opencdnbd.jomodns.com
 opencdnbdcharon.jomodns.com
 opencdnbdfctn.jomodns.com
-opencdnbdiknowpic.jomodns.com
 opencdnbdiknowwap.jomodns.com
 opencdnbdimgtn.jomodns.com
 opencdnbdmap.jomodns.com

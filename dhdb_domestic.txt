@@ -12550,6 +12550,7 @@ bdfpbimg.ifengimg.com
 bdfund.cn
 bdfzcd.net
 bdfzgz.net
+bdfzxj.net
 bdg190.com
 bdg251.com
 bdg6227.com
@@ -49735,6 +49736,7 @@ opencdnbdmap.jomodns.com
 opencdnbdsimage.jomodns.com
 opencdnbdspc.jomodns.com
 opencdnbdsucaiku.jomodns.com
+opencdnbdtbpic.jomodns.com
 opencdnbdvdposter.jomodns.com
 opencdnbdwappass.jomodns.com
 opencdncloud.jomodns.com
@@ -63715,7 +63717,6 @@ thehanshow.com
 theiei.com
 thejiangmen.com
 thejoyrun.com
-theme-tc-drcn.dbankcdn.cn
 themebetter.com
 themis.hupu.com
 themisweeps.com

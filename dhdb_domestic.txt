@@ -2019,7 +2019,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.centos.pool.ntp.org
 2.cn.pool.ntp.org
 2.haoxue360.com
 2.openwrt.pool.ntp.org
@@ -44232,7 +44231,6 @@ m.brtyhn.cn
 m.bs641.cn
 m.ccb.com
 m.ccshwy.com
-m.chaoliangyun.cn
 m.chinaacc.com
 m.chinasspp.com
 m.chinaz.com
@@ -45705,6 +45703,7 @@ mercury-image.nhsoft.cn
 mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
+mercury.jd.com
 mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com

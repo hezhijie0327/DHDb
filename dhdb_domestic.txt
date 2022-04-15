@@ -14112,7 +14112,6 @@ brysj.vip
 brzhang.club
 bs-adaptive.pull.yximgs.com
 bs-origin.pull.yximgs.com
-bs.forward.douban.com
 bs008.com
 bs14.9669.cn
 bs56.net
@@ -57602,6 +57601,7 @@ sd.gsxt.gov.cn
 sd.int.jumei.com
 sd.iqilu.com
 sd.jumei.com
+sd.mmfile.net
 sd.qunliao.info
 sd.sina.com.cn
 sd.youshu.cc

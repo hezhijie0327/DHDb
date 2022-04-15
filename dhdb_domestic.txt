@@ -1531,7 +1531,6 @@
 171win.net
 171yxw.com
 17207.com
-172210.com
 1727732.sched.kslego.tdnsv5.com
 17284.net
 1729256881.docs.qq.com
@@ -10298,7 +10297,6 @@ api.tuhu.cn
 api.tuisong.baidu.com
 api.tv.sohu.com
 api.tw06.xlmc.sandai.net
-api.tw06.xlmc.sec.miui.com
 api.udache.com
 api.union.vip.com
 api.unipay.qq.com
@@ -16414,6 +16412,7 @@ chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
 chat1.jd.com
+chat1.jd.com.gslb.qianxun.com
 chataixin59.byf.com
 chatm.com
 chatn8.bjmantis.net
@@ -41568,7 +41567,6 @@ langtze.com
 languangdy.com
 langyuseo.com
 langzi.fun
-lanhaicaijing.com
 lanhaiweb.net
 lanhaizhi.com
 lanhuapp.com

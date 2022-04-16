@@ -6771,7 +6771,6 @@
 9697.com
 969e3d12780c0ba1344565aa0acaf05c.safeframe.googlesyndication.com
 969g.com
-96app.com
 96bbs.com
 96fbd20ea10c0c4edbb2e71352bb3085.dlied1.cdntips.net
 96go.com
@@ -18301,7 +18300,6 @@ cmwin.com
 cmx.autohome.com.cn
 cmxrcw.com
 cmyd-10-124.getui.com
-cmz2.stm65i8.com
 cmzd.com
 cmzj.net
 cn-0001.cn-msedge.net
@@ -50868,6 +50866,7 @@ passport.dns.iqiyi.com
 passport.douyu.com
 passport.douyu.com.w.cdngslb.com
 passport.iqiyi.com
+passport.jd.com
 passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn

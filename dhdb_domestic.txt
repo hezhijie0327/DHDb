@@ -13192,6 +13192,7 @@ binqsoft.com
 binzhi.com
 binzhou.anjuke.com
 binzhou.baixing.com
+binzhouquan.com
 binzhuang.com
 bio-equip.com
 bio-fuyang.com
@@ -18413,6 +18414,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -44642,7 +44644,6 @@ macsofter.com
 macv.com
 macw-down.macsc.com
 macw.com
-macwk.com
 macwords.cn
 macxf.com
 macz.com

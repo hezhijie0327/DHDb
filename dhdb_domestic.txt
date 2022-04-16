@@ -11147,6 +11147,7 @@ at-siac.com
 at.alicdn.com
 at.alicdn.com.danuoyi.alicdn.com
 at.idqqimg.com
+at.mct01.com
 at.pinduoduo.com
 at.umeng.com
 at.umtrack.com
@@ -11663,6 +11664,7 @@ b57yuoty.sched.v1.tdnsv5.com
 b595.com
 b5a8ed4c6f42793f.cname.365cyd.cn
 b5afe3a299e02adefba7d7c8a77fd05f.dlied1.cdntips.net
+b5b6.com
 b5m.com
 b5ofge3.cachenode.cn
 b612.me
@@ -30451,7 +30453,6 @@ guyaheng.com
 guyungame.com
 guzhangting.com
 guzhifengds.com
-guzhiwang.com
 guziyy.com
 guzzoni-apple-com.v.aaplimg.com
 guzzoni.apple.com
@@ -49727,7 +49728,6 @@ opencdnbaiduwm.jomodns.com
 opencdnbd.jomodns.com
 opencdnbdcharon.jomodns.com
 opencdnbdfctn.jomodns.com
-opencdnbdiknowwap.jomodns.com
 opencdnbdimgtn.jomodns.com
 opencdnbdmap.jomodns.com
 opencdnbdsimage.jomodns.com

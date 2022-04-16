@@ -3024,7 +3024,6 @@
 3733.com
 3733afa291ee74d097df6e9e34342874.v.smtcdns.net
 3737.com
-3737g.com
 3737k.com
 373f.com
 373house.com
@@ -49262,6 +49261,7 @@ offer.alibaba.com
 office-cn.net
 office-peixun.com
 office26.com
+officecdn.microsoft.com
 officectrl.com
 officejc.net
 officese.com
@@ -50354,7 +50354,6 @@ p2p001.com
 p2p178.com
 p2p7.cloudlinks.cn
 p2pcdn.com
-p2pchina.com
 p2pchunk-table.douyucdn.cn
 p2pchunk-ws.douyucdn.cn.wsdvs.com
 p2pcq.com

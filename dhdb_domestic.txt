@@ -10161,6 +10161,7 @@ api.hengdianfilm.com
 api.home.news.cn
 api.home.skysrt.com
 api.huya.com
+api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com

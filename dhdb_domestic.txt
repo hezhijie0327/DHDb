@@ -4270,7 +4270,6 @@
 52kanxiaoshuo.com
 52kfly.com
 52liaoshen.com
-52linglong.com
 52lion.com
 52luckystar.com
 52lvyou.com
@@ -25123,6 +25122,7 @@ ecppn.com
 ecqun.com
 ecrent.com
 ecrrc.com
+ecs-ap-southeast-3.console.aliyun.com
 ecs-buy-cn-chengdu.aliyun.com
 ecs-buy-cn-heyuan.aliyun.com
 ecs-buy-cn-huhehaote.aliyun.com
@@ -39870,7 +39870,6 @@ jzgcjsysjzz.com
 jzgwind.com
 jzhfz.com
 jzic.com
-jzjtop.com
 jzkapp.com
 jzkjjt.com
 jzkuaiji.com
@@ -50298,7 +50297,6 @@ p1.zhumengwl.com
 p10.pstatp.com
 p11.douyinpic.com
 p18118.com
-p188.cn
 p1v6m.tcdn.qq.com
 p1v6mid.tcdn.qq.com
 p2-v6-ml.gslb.ksyuncdn.com

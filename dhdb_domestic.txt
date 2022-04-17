@@ -19793,6 +19793,7 @@ crifst.com
 crimoon.net
 crispstata.com
 crjshop.com
+crl.apple.com
 crl.kaspersky.com
 crl.pki.goog
 crlcn.com
@@ -33233,7 +33234,6 @@ hpplay.cn
 hprx.com
 hpstore-china.com
 hpstore.cc
-hpuoj.com
 hpwu.com
 hpx05.com
 hpyk.com
@@ -59047,6 +59047,7 @@ shop.jd.com
 shop.jd.com.gslb.qianxun.com
 shop.lenovo.com.cn
 shop.lenovo.com.cn.wscdns.com
+shop.m.jd.com
 shop.m.jd.com.gslb.qianxun.com
 shop.m.taobao.com
 shop.m.tmall.com

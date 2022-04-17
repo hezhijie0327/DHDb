@@ -14533,7 +14533,6 @@ c.cnzz.com
 c.cotton.netease.com
 c.cotton.netease.com.cdn20.com
 c.cqpsf.cn
-c.ctags.cn
 c.ctc.w.ximalaya.com
 c.cyhx98.com
 c.d3iz9md.com
@@ -40945,7 +40944,6 @@ ksdkcks.com
 ksdq0514.com
 ksense.com
 ksgnr.com
-kshitachi.com
 kshot.com
 ksimgopencdn.jomodns.com
 ksjgs.com
@@ -55981,7 +55979,6 @@ report.pindayun.com
 report.qcloud.com
 report.qcloudcdn.qq.com
 report.qqweb.qq.com
-report.samsung.japps.cn
 report.tantanapp.com
 report.taptapdada.com
 report.tga.qq.com
@@ -56073,7 +56070,6 @@ res2.eqh5.com
 res2.wx.qq.com
 res2.wx.qq.com.cloud.tc.qq.com
 res2.wx.qq.com.sched.px-dk.tdnsv6.com
-res2.yuexinshuba.com.w.kunlungr.com
 resauth.kuwo.cn
 rescdn.qqmail.com
 rescdn.yishihui.com
@@ -58883,7 +58879,6 @@ shijicloud.com
 shijie2.com
 shijiebang.com
 shijiebao.vip
-shijieditu.net
 shijiehuarenbao.com
 shijiemap.com
 shijiemingren.com
@@ -59178,6 +59173,7 @@ show.f.mediav.com
 show.g.mediav.com
 show.govhunan.cn
 show.jiuhui899.com
+show.kc.taotaosou.com
 show.kuanp.com
 show.look.360.cn
 show.m.mediav.com

@@ -2551,6 +2551,7 @@
 2xbxtr.tdum.alibaba.com
 2y7gd6.tdum.alibaba.com
 2y9y.com
+2yt.net
 2yuanyy.com
 2yun.com
 2yup.com
@@ -16408,7 +16409,6 @@ charmingglobe.com
 chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
-chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
@@ -18567,6 +18567,7 @@ cnelite.org
 cneln.net
 cnemb.com
 cnena.com
+cnenergy.org
 cneol-dns.net
 cnepaper.com
 cnepaper.net

@@ -31901,6 +31901,7 @@ hdn.rcs.chinamobile.com
 hdns-event.dmall.com
 hdns.ksyun.com
 hdp.sfcdn.org
+hdp.u01.live.siqiangame.com
 hdpyqa.com
 hdpyqc.com
 hdpyqd.com
@@ -36770,6 +36771,7 @@ ios.bugly.qq.com
 ios.rqd.qq.com
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
+iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -45701,7 +45703,6 @@ mercury-image.nhsoft.cn
 mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
-mercury.jd.com
 mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com

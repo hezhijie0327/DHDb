@@ -6531,6 +6531,7 @@
 91watches.com
 91way.com
 91wenmi.com
+91wii.com
 91wllm.com
 91wujia.com
 91wutong.com
@@ -9024,7 +9025,6 @@ aks.jdpay.com
 aks.zu.anjuke.com
 akscan.com
 aksdjfksl.kuaiyunbd.com
-aksdkfj.biexsite.net
 aksxw.com
 akuaikan.com
 akuziti.com
@@ -28148,6 +28148,7 @@ fview.com
 fvread.com
 fvti.com
 fw-12365.com
+fw-biotech.com
 fw.koolcenter.com
 fw.qq.com
 fw4.me
@@ -49736,7 +49737,6 @@ opencdnbdmap.jomodns.com
 opencdnbdsimage.jomodns.com
 opencdnbdspc.jomodns.com
 opencdnbdsucaiku.jomodns.com
-opencdnbdtbpic.jomodns.com
 opencdnbdvdposter.jomodns.com
 opencdnbdwappass.jomodns.com
 opencdncloud.jomodns.com
@@ -55902,6 +55902,7 @@ remoteaps.com
 remotedu.com
 renaren.com
 rencaijob.com
+rendease.com
 render-oss-cdn.amap.com
 render-oss-cdn.amap.com.w.cdngslb.com
 render-server.cdn.bcebos.com

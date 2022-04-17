@@ -8368,6 +8368,7 @@ adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.madserving.com
+adv.sec.miui.com
 adv.zuimeitianqi.com
 advbeta.madserving.com
 advert.api.thejoyrun.com
@@ -14703,7 +14704,6 @@ c4b0af8c607ae831.cdn.jiashule.com
 c4b0af8c607ae831.vip.jiasule.org
 c4d.live
 c4datc.com
-c4dba.com
 c4dcn.com
 c4dpro.com
 c4dsky.com
@@ -21528,6 +21528,7 @@ dc.meitustat.com
 dc.sigmob.cn
 dc.so.le.com
 dc0555.com
+dc1.networkbench.com
 dc330.com
 dc3311.com
 dc4444.com
@@ -48978,7 +48979,6 @@ ntpcb.com
 ntpr.xyz
 ntqcct.com
 ntrcb.com
-ntuiw.com
 ntwzy.com
 nuan.io
 nuandao.com
@@ -51378,6 +51378,7 @@ photo.sspu.edu.cn
 photo.tmrmixer.cn
 photo.weibo.com
 photo.wondercv.com
+photo.xfytjx.cn
 photo.ybaobei.cn
 photo0086.com
 photo3050.com
@@ -53493,7 +53494,6 @@ qdmama.net
 qdmcxh.com
 qdmm.com
 qdnsyh.com
-qdooc.com
 qdp.qidian.com
 qdpdjx.com
 qdpr.com
@@ -58549,7 +58549,6 @@ shanweinews.net
 shanxiang.suning.com
 shanxidiy.com
 shanximuseum.com
-shanxiol.com
 shanxiuxia.com
 shanxuenet.com
 shanyemangfu.com

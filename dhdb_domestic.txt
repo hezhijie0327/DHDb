@@ -2020,7 +2020,6 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
-2.cn.pool.ntp.org
 2.haoxue360.com
 2.openwrt.pool.ntp.org
 2.pool.ntp.org
@@ -45849,6 +45848,7 @@ mgyapp.com
 mgyyw.com
 mgzf.com
 mgzxzs.com
+mh1.zhengdongwuye.cn
 mh456.com
 mh51.com
 mh868.com

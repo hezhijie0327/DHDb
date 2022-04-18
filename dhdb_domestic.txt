@@ -11663,6 +11663,7 @@ b4a39826-ws.va.huya.com
 b4a3986d-ws.va.huya.com
 b4a39873-ws.va.huya.com
 b4ec0679ed478db7.cdn.jiashule.com
+b5.fe100.net
 b57yuoty.sched.v1.tdnsv5.com
 b595.com
 b5a8ed4c6f42793f.cname.365cyd.cn
@@ -17376,7 +17377,6 @@ chr33z.gallerycdn.azure.cn
 chrain.wang
 chrent.com
 chrice.net
-chrieschina.com
 chriseckenrode.gallerycdn.azure.cn
 christian-kohler.gallerycdn.azure.cn
 chrjkn.cn
@@ -44207,7 +44207,6 @@ m.ali213.net.w.kunluncan.com
 m.aliyun.com
 m.analytics.126.net
 m.anjuke.com
-m.anzhuotan.com
 m.api.baifendian.com
 m.apkzu.com
 m.asklib.com

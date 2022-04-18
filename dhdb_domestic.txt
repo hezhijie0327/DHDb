@@ -8065,7 +8065,6 @@ adfile.caixin.com
 adfile.wifi8.com
 adfill.adview.cn
 adfilter.imtt.qq.com
-adflying.com
 adfortest.com
 adfuture.cn
 adfyt.com
@@ -46321,6 +46320,7 @@ mivideo.g.mi.com
 miwifi.com
 mix.adsame.com
 mix.kinostuff.com
+mix.linkedin.com
 mixbao.com
 mixcapp.com
 mixdo.net
@@ -47085,7 +47085,6 @@ msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
 msedge.b.tlu.dl.delivery.mp.microsoft.com
-msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net

@@ -56847,6 +56847,7 @@ s.weibo.com
 s.xiaolianhb.com
 s.xiaolianhb.com.w.kunlungr.com
 s.xinghao89.com
+s.xmcmn.com
 s.yaozui.com
 s.yidianzixun.com
 s.zampdsp.com
@@ -61284,7 +61285,6 @@ static.sensorsdata.cn
 static.shenyou.cn
 static.sinawap.com
 static.sonkwo.com
-static.studygolang.com
 static.sundxs.com
 static.sundxs.com.w.kunlungr.com
 static.t.agrantsem.com

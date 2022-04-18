@@ -1,7 +1,6 @@
 0-100.com
 0-6.com
 0.cn.pool.ntp.org
-0.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link

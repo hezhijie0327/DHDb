@@ -19538,7 +19538,6 @@ cpu-admin.baidu.com
 cpu-baidu-com-block.cdn.bcebos.com
 cpu.baidu.com
 cpu114.com
-cpu668.com
 cpucdn.baidu.com
 cpupack.com
 cpush.ctrip.com
@@ -24614,7 +24613,6 @@ dzwindows.com
 dzwww.com
 dzwww.net
 dzxxzy.com
-dzxzx.cn
 dzy.r147emh.com
 dzyqc.com
 dzyqh.com
@@ -40857,7 +40855,6 @@ kq520.net
 kq7.com
 kq81.com
 kq88.com
-kqcfcw.com
 kqgeo.com
 kqidong.com
 kqiwen.net

@@ -45020,7 +45020,6 @@ mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
 mapi.m.jd.com
-mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
 mapi.vip.com
@@ -49735,7 +49734,6 @@ opencdnbaiduwm.jomodns.com
 opencdnbd.jomodns.com
 opencdnbdcharon.jomodns.com
 opencdnbdfctn.jomodns.com
-opencdnbdiknowpic.jomodns.com
 opencdnbdimgtn.jomodns.com
 opencdnbdmap.jomodns.com
 opencdnbdsimage.jomodns.com

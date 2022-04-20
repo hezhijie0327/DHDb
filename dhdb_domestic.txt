@@ -1937,6 +1937,7 @@
 1mob.com
 1more.com
 1mpi.com
+1mtime.com
 1mushroom.com
 1mxian.com
 1n11.com
@@ -19223,6 +19224,7 @@ congyicn.com
 conn.wemeet.tencent.com
 conn1.coloros.com
 conn1.oppomobile.com
+conn2.oppomobile.com
 conn3.coloros.com
 connb.gj.qq.com
 connc.gj.qq.com
@@ -24065,7 +24067,6 @@ duer-kids.baidu.com
 duer-music.cdn.bcebos.com
 dueros-h2.baidu.com
 dueros-voice.baidu.com
-dugoogle.com
 duguoxue.com
 duguying.net
 duhao.net

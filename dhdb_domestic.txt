@@ -10063,7 +10063,6 @@ api.22lianmeng.com
 api.3839app.com
 api.5hte21mz.com
 api.account.xiaomi.com
-api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adnet.mob.com
 api.adxpand.com
@@ -49167,7 +49166,6 @@ obins.net
 obj6.com
 obolee.com
 obowin.com
-obozy.pzdlfww.cn
 obs.cn-north-2.myhwclouds.com
 obs.dfvcg0.cn-north-1.myhuaweicloud.com
 obus-cn.dc.heytapmobi.com
@@ -58682,7 +58680,6 @@ shenchai.com
 shenchuang.com
 shencut.com
 shendoow.com
-shendugho.com
 shenduliaojie.com
 shenduwin8.com
 sheng6364.gitee.io
@@ -63836,7 +63833,6 @@ tianjihr.com
 tianjimedia.com
 tianjin.anjuke.com
 tianjinwe.com
-tianjinzs.com
 tiankong.com
 tianlaiedu.com
 tianlaikge.com
@@ -65853,7 +65849,6 @@ u.vlion.cn
 u.weixin.qq.com
 u.x.jd.com
 u.y.qq.com
-u.yiiwoo.com
 u.yy.com
 u.zhugeapi.net
 u0.iqiyipic.com

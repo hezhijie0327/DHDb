@@ -644,6 +644,7 @@
 1.800400.net
 1.92caijing.com
 1.aili.com
+1.asia.pool.ntp.org
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
@@ -4130,7 +4131,6 @@
 51yuu.com
 51yw.club
 51zan.com
-51zbz.com
 51zhangdan.com
 51zhantai.com
 51zhanzhuang.cn
@@ -57419,7 +57419,6 @@ sc2car.com
 sc2p.com
 sc2yun.com
 sc666.com
-scache.node1.systest.ptqy.gitv.tv
 scaffi.com
 scan.call.f.360.cn
 scanv.com
@@ -60859,6 +60858,7 @@ ssp16.adview.cn
 sspaas.com
 sspai.com
 sspai.me
+sspapi.youxiaoad.com
 sspmiaoshuo.cn-hangzhou.log.aliyuncs.com
 sspmservice.ad-survey.com
 ssports.com
@@ -62604,7 +62604,6 @@ t.mdn2015x3.com
 t.minipage.2345.cc
 t.mookie1.cn
 t.pzclw.cn
-t.qq.com
 t.quandangdang.net
 t.ruanjian.2345.com
 t.sj.qq.com

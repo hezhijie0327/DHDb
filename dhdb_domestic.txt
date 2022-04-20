@@ -2866,7 +2866,6 @@
 360kb.com
 360kuai.com
 360kuaixue.com
-360kxr.com
 360lj.com
 360log.com
 360longyan.com
@@ -36105,6 +36104,7 @@ img11.360buyimg.com
 img11.360buyimg.com.gslb.qianxun.com
 img12.360buyimg.com
 img13.360buyimg.com
+img14.360buyimg.com
 img14.poco.cn
 img16.diyifanwen.com
 img166.diyifanwen.com
@@ -38729,7 +38729,6 @@ jjhh.com
 jjhuifu.com
 jjhuigou.com
 jjhuoyan.com
-jjhygl.hzfc.gov.cn
 jjhyxh.com
 jjidc.com
 jjiehao.com

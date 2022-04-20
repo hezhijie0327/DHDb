@@ -6307,7 +6307,6 @@
 8qv31dlh.v1d.szbdyd.com
 8qv6163a.v1d.szbdyd.com
 8qv616e8.v1d.szbdyd.com
-8qwe5.com
 8s123.com
 8s8s.com
 8she.com
@@ -10065,6 +10064,7 @@ api.22lianmeng.com
 api.3839app.com
 api.5hte21mz.com
 api.account.xiaomi.com
+api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adnet.mob.com
 api.adxpand.com
@@ -25406,7 +25406,6 @@ ehaier.com
 ehangtian.com
 ehaoyao.com
 ehaoyao.us
-ehawk.com
 ehclglobal.com
 ehijoy.com
 ehiman.com
@@ -26727,6 +26726,7 @@ fastmyna.com
 fastonetech.com
 fastreportcn.com
 fastsoc.com
+fastsoso.cc
 fatedier.com
 fatiao.pro
 fatjiong.com
@@ -33135,7 +33135,6 @@ hostker.com
 hostkvm.com
 hostproph.com
 hostxen.com
-hot.browser.miui.com
 hot.m.shouji.360tpcdn.com
 hotbanner.site
 hotchat-im.iqiyi.com

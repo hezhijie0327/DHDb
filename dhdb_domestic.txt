@@ -4,7 +4,6 @@
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
-00000.host
 0000gz.com
 0006266.com
 000714.xyz
@@ -52943,7 +52942,6 @@ pwsannong.com
 pwt.zoosnet.net
 pwupdate.cdn.pandora.xiaomi.com
 px.cbctp.top
-px.czxym168.cn
 px.effirst.com
 px.nloader.xyz
 px.qucaigg.com
@@ -59091,6 +59089,7 @@ shopnc.net
 shopping.ele.me
 shoppingcampaigns-api-drcn.ai.dbankcloud.com
 shoprobam.com
+shopxo.net
 short-video.kakamobi.cn
 short-yypush.yy.com
 short.weixin.qq.com

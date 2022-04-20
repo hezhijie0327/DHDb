@@ -926,7 +926,6 @@
 114cbd.com
 114chn.com
 114dev.com
-114dhc.com
 114dns.com
 114hzw.com
 114ic.com
@@ -18397,7 +18396,6 @@ cn.epubee.com
 cn.hao123.n.shifen.com
 cn.huijucn.com
 cn.i.gtimg.cn
-cn.img.stb.s-msn.com
 cn.innity-asia.com
 cn.lakdc.top
 cn.launcher.battlenet.com.cn
@@ -30620,6 +30618,7 @@ gyxdkjdl.com
 gyxuan.com
 gyypw.com
 gyyqcloud.com
+gyyx.cn
 gyzfbz.net
 gyzq.com.cn
 gz-cm01.dynamic-ip.xyz
@@ -35646,6 +35645,7 @@ image11.m1905.cn
 image2.sina.com.cn
 image3.ccb.com
 image3.mall.icbc.com.cn.wscdns.com
+image5.mall.icbc.com.cn
 image5.mall.icbc.com.cn.wscdns.com
 image6.mall.icbc.com.cn.wscdns.com
 image7.mall.icbc.com.cn
@@ -60658,7 +60658,6 @@ sq2.chinacsky.com
 sq580.com
 sq581.com
 sqage.com
-sqanju.com
 sqchunqiu.com
 sqdaily.com
 sqdd.myapp.com

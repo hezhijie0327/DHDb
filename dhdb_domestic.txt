@@ -7668,7 +7668,6 @@ accounts.firefox.com.cn
 accounts.google.cn
 accounts.nvgs.nvidia.cn
 accounts.qq.com
-accounts.tantanapp.com
 accscdn.cp12.ott.cibntv.net
 accscdn.m.taobao.com
 accsh.org
@@ -57159,7 +57158,6 @@ safeframe.googlesyndication.com
 safehoo.com
 safenext.com
 safetunnel.tk
-safewiki.org
 sagetrc.com
 sagocloud.com
 sahcqmu.com

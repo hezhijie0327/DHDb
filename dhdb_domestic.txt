@@ -8542,7 +8542,6 @@ aggretrip.map.qq.com
 aggretrip.map.qq.com.sched.px.tdnsv6.com
 agile-china.com
 agileex.com
-agilehw.online
 agiso-static.oss-cn-zhangjiakou.aliyuncs.com
 agiso.com
 agks5cwh.v1d.szbdyd.com
@@ -39314,7 +39313,6 @@ jsform.com
 jsform3.com
 jsfund.cn
 jsfycdn3.com
-jsgbds.com
 jsgc168.com
 jsgcbank.com
 jsgh.org
@@ -51925,6 +51923,7 @@ plgfzyp.cn
 plmedia00.live.weibo.com
 plmedia00.live.weibo.com.w.cdngslb.com
 plmedia20.live.weibo.com
+plogin.m.jd.com
 plogin.m.jd.com.gslb.qianxun.com
 plsmspx.com
 plt.data.pplive.com
@@ -54329,7 +54328,6 @@ qlchat.com
 qldzj.com
 qlidc.com
 qlisv.siemens6es7.com
-qljgw.com
 qll-times.com
 qlmoney.com
 qlnp7a2u.sltadapter.cdntip.com

@@ -665,6 +665,7 @@
 1.mgff.com
 1.nanrenwo.net
 1.pncdn.cn
+1.pool.ntp.org
 1.proewildfire.cn
 1.qjhm.net
 1.shopit.cn
@@ -10095,6 +10096,7 @@ api.bigfun.cn
 api.biliapi.net
 api.bilibili.com
 api.biligame.com
+api.browser.miui.com
 api.bs.zui.com
 api.btstu.cn
 api.bz
@@ -25383,6 +25385,7 @@ efwang.com
 efwh.com
 efy-tech.com
 efyt6.com
+efzfcwxjvoentetjwhvuiuqbeyjkubrt.com
 egainnews.com
 egame.qq.com
 eggc111.com
@@ -36104,7 +36107,6 @@ img11.360buyimg.com
 img11.360buyimg.com.gslb.qianxun.com
 img12.360buyimg.com
 img13.360buyimg.com
-img14.360buyimg.com
 img14.poco.cn
 img16.diyifanwen.com
 img166.diyifanwen.com
@@ -45629,6 +45631,7 @@ member.zcygov.cn
 memewan.com
 memeyule.com
 memorieslab.com
+memorycarddeal.com
 memoryhere.com
 mems.me
 memsconsulting.com

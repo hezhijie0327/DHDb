@@ -14618,6 +14618,7 @@ c.xiaobaipan.com
 c.y.qq.com
 c.yes.youku.com
 c.ylist.cn
+c.yootui19999.com
 c.youdao.com
 c.youike.com.cn
 c.zhangle.com
@@ -29100,6 +29101,7 @@ gftuan.com
 gfun.me
 gfund.com
 gfvip00ao.com
+gfvip04af.com
 gfvip05ad.com
 gfvip07ap.com
 gfvip08ao.com
@@ -49174,6 +49176,7 @@ ocri-genomics.org
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
 ocsp-lb.apple.com.akadns.net
+ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
 ocsp.cfca.com.cn
 ocsp.crlocsp.cn

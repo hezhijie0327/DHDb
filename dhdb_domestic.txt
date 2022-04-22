@@ -2561,7 +2561,6 @@
 3.39zuoye.com
 3.5646.cn
 3.iscrv.com
-3.pic.pc6.com
 3.ssqzj.com
 3.up.qingdaonews.com
 3000.com
@@ -10714,7 +10713,6 @@ applicationloader.net
 applinks.qingting.fm
 applinzi.com
 applk.cn
-applog.camera360.com
 applog.ddxq.mobi
 applog.matrix.netease.com
 applog.reader.qq.com
@@ -42544,6 +42542,7 @@ likeface.com
 likefar.com
 likefont.com
 likeji.net
+likeminer.nablabee.com
 likeshare-tech.com
 likeshuo.com
 liketm.com
@@ -48366,6 +48365,7 @@ ngarihealth.com
 ngbbs.com
 ngcgears.com
 ngctransmission.com
+nggdwfz.cn
 nggh5.3g.qq.com
 ngh6.com
 nginstar.net
@@ -58721,7 +58721,6 @@ shenjing.com
 shenkexin.com
 shenkun.xyz
 shenlandianshang.1688.com
-shenliancaijing.com
 shenliyang.com
 shenma.com
 shenmadsp.com

@@ -45779,6 +45779,7 @@ ns.app.dns04.com
 ns.ca
 ns.cac.com.cn
 ns.huawei.com.cn
+ns.hws.ru
 ns.jasnk.com
 ns.ms.justdied.com
 ns.netnet.or.jp
@@ -45861,7 +45862,6 @@ ntdoaaoh.top
 ntdumfipbfjudm.xyz
 ntebfvnpmf.xyz
 ntefyxq.com
-ntes53.com
 ntgvbvrrwl.com
 nthfundog.com
 nthxbfedxfkpx.com
@@ -52199,6 +52199,7 @@ res2.yuexinshuba.com.w.kunlungr.com
 res9.i2356.com
 resad.mediaid.click
 resadvantco.info
+resclassaction.com
 research-archive.com
 researchkit.cn
 researchkit.com.cn

@@ -2561,6 +2561,7 @@
 3.3322722.com
 3.39zuoye.com
 3.5646.cn
+3.cn.pool.ntp.org
 3.iscrv.com
 3.ssqzj.com
 3.up.qingdaonews.com
@@ -19545,7 +19546,6 @@ cpush.ctrip.com
 cpush.ctrip.com.tel.rb.ctripgslb.com
 cpvjob.com
 cpxsxk.com
-cq-download-ipv6.ftn.qq.com
 cq-wnl.com
 cq.c21.com.cn
 cq.cm
@@ -36106,6 +36106,7 @@ img11.360buyimg.com
 img11.360buyimg.com.gslb.qianxun.com
 img12.360buyimg.com
 img13.360buyimg.com
+img14.360buyimg.com
 img14.poco.cn
 img16.diyifanwen.com
 img166.diyifanwen.com

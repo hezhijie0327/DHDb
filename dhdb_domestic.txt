@@ -13653,6 +13653,7 @@ blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
+blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
@@ -45340,7 +45341,6 @@ mcfuzhu.net
 mcgi.v.qq.com
 mchat.com
 mchifi.com
-mcix.cn
 mcjd.net
 mclean.f.360.cn
 mclick.simba.taobao.com
@@ -57648,7 +57648,6 @@ sdchem.net
 sdchina.com
 sdchn.com
 sdcqjy.com
-sdcydl.com
 sdd.dzsc.com
 sdd.hi1718.com
 sdd17.com
@@ -63602,7 +63601,6 @@ tezhongzhuangbei.com
 tezign.com
 tf-api.xw888.net
 tf.360.cn
-tf.adddyy.com
 tf.caohua.com
 tf.gzleilin.com
 tf.hftaili.com

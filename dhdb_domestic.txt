@@ -13641,7 +13641,6 @@ bkzzy.com
 bl.client.cache.wpscdn.cn
 bl.com
 bl.gtags.net
-bl.qq.com
 bl9k.com
 bla.gtimg.com
 bla01.com
@@ -15926,6 +15925,7 @@ cdronghai.com
 cdrtvu.com
 cdruzhu.com
 cds.3.cn
+cds.3.cn.gslb.qianxun.com
 cds.51y5.net
 cds.apple.com.mwcname.com
 cdsassets.apple.com.mwcname.com
@@ -35834,7 +35834,6 @@ img-tmdetail.alicdn.com
 img-tx-ugcimg.douyucdn2.cn
 img-vip-ssl.a.88cdn.com
 img-vip-ssl.a.88cdn.com.w.kunlungr.com
-img-x.jd.com
 img-x.jd.com.gslb.qianxun.com
 img-ys011.didistatic.com
 img.0279.net
@@ -38749,7 +38748,6 @@ jjbang.com
 jjbangbang.com
 jjbank.net
 jjbbs.com
-jjbhn.com
 jjbisai.com
 jjbnews.xyz
 jjccb.com

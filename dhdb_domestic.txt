@@ -18423,6 +18423,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -25015,6 +25016,7 @@ ebscn-am.com
 ebscn.com
 ebseek.com
 ebsnew.boc.cn
+ebsxlpv.cn
 ebt243.doc88.com
 ebtang.com
 ebtcbank.com

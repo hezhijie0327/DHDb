@@ -3713,7 +3713,6 @@
 517japan.com
 517lppz.com
 517mr.com
-517rcw.com
 517sc.com
 517tez.com
 517xc.com
@@ -12654,6 +12653,7 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -19805,7 +19805,6 @@ cricbigdata.com
 crifst.com
 crimoon.net
 crispstata.com
-crjshop.com
 crl.apple.com
 crl.kaspersky.com
 crl.pki.goog
@@ -45047,6 +45046,7 @@ mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
 mapi.m.jd.com
+mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
 mapi.vip.com
@@ -61800,6 +61800,7 @@ sungoal.org
 sungoedu.com
 sunhante.com
 sunhaojie.com
+suninf.net
 suning.cn
 suning.com
 suning.sched.d0-dk.tdnsv5.com
@@ -62287,7 +62288,6 @@ syx86.cn
 syxj.net
 syxwang.com
 syxwnet.com
-syybmy.cn
 syyx.com
 syyyking.com
 syzlzz.com

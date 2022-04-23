@@ -643,7 +643,6 @@
 1.800400.net
 1.92caijing.com
 1.aili.com
-1.asia.pool.ntp.org
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
@@ -10068,7 +10067,6 @@ api.22lianmeng.com
 api.3839app.com
 api.5hte21mz.com
 api.account.xiaomi.com
-api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adnet.mob.com
 api.adxpand.com
@@ -29683,6 +29681,7 @@ gongpin.net
 gongpingjia.com
 gongshang.mingluji.com
 gongshang120.com
+gongshe99.com
 gongshu168.cn
 gongsibao.com
 gongsijiaoyi.com

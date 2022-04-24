@@ -4496,6 +4496,7 @@
 56uu.com
 56ye.net
 56zzx.com
+56zzz.net
 57.com.cn
 57023.com
 571400.net
@@ -37263,6 +37264,7 @@ item-china.cn
 item-soa.jd.com
 item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
+item.jd.com
 item.jd.com.gslb.qianxun.com
 item.m.jd.com
 item.m.jd.com.gslb.qianxun.com
@@ -38879,7 +38881,6 @@ jmbbs.com
 jmd-china.com
 jmdedu.com
 jmeii.com
-jmf6.com
 jmgle.com
 jmgo.com
 jmhai.com
@@ -49941,6 +49942,7 @@ orihard.com
 oriondm.jd.com
 oriondm.jd.com.gslb.qianxun.com
 oritive.com
+orizwud.cn
 orleto.com
 orsoon.com
 ort-stsdk.vivo.com.cn

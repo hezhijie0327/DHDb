@@ -3228,7 +3228,6 @@
 3img.hitv.com
 3img.hitv.com.w.kunlunle.com
 3img.hitv.com.wsglb0.com
-3incloud.com
 3ixmjf.tdum.alibaba.com
 3ja9lo1h.sched.sma.tdnsv5.com
 3jia5.com
@@ -14936,6 +14935,7 @@ cailol.com
 cailongtong.com
 cailutong.com
 cailuw.com
+caimaovip.com
 caimei365.com
 caimogu.net
 caimomo.com
@@ -40765,6 +40765,7 @@ knewsmart.com
 knicks.jd.com
 knicks.jd.com.gslb.qianxun.com
 knisterpeter.gallerycdn.azure.cn
+knivesdealer.com
 knja123.top
 know88.com
 knowgive.com
@@ -41123,7 +41124,6 @@ kuaitijian.com
 kuaitu666.com
 kuaiwan.com
 kuaiwan01.com
-kuaixun360.com
 kuaiya.cn
 kuaiyingxiao88.com
 kuaiyingyong.vip
@@ -52976,6 +52976,7 @@ pwsannong.com
 pwt.zoosnet.net
 pwupdate.cdn.pandora.xiaomi.com
 px.ads.linkedin.cn
+px.ads.linkedin.com
 px.cbctp.top
 px.effirst.com
 px.nloader.xyz

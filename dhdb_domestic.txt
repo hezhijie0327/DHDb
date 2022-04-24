@@ -15916,6 +15916,7 @@ cdnweb.huya.com
 cdnweixin.haoduoke.cn
 cdnws.api.huya.com
 cdnx.newvfx.com
+cdp.cloud.unity3d.com
 cdqcnt.com
 cdqcp.com
 cdqph.com
@@ -22733,7 +22734,6 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
-dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -23608,7 +23608,6 @@ dragonnewsru.com
 dragonsea-china.com
 dramx.com
 drartisan.com
-dratio.com
 drawyoo.com
 drc6kayy.v1d.szbdyd.com
 drcact.com
@@ -59013,6 +59012,7 @@ shjt.net
 shjxfc.com
 shjyou.com
 shjyqcmm.b2b.huangye88.com
+shke.kuuad.com
 shkkl.com
 shkypump.com
 shl56.com

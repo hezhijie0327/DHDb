@@ -6860,6 +6860,7 @@
 9917.com
 991726.com
 991kang.com
+991yue.com
 9928.tv
 9939.com
 993h.com
@@ -10170,7 +10171,6 @@ api.hengdianfilm.com
 api.home.news.cn
 api.home.skysrt.com
 api.huya.com
-api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -27701,6 +27701,7 @@ formtalk.net
 formulahendry.gallerycdn.azure.cn
 formysql.com
 fornature.com
+forsigner.com
 forsou.com
 fortunebill.com
 fortunehope.com

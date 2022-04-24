@@ -19231,6 +19231,7 @@ configserver.platform.hicloud.com
 configsvr.msf.3g.qq.com
 configsvr.openmsf.3g.qq.com
 configuration.apple.com.mwcloudcdn.com
+configure.rayjump.com
 confinfo.map.qq.com
 conghua.baixing.com
 congm.in
@@ -45508,6 +45509,7 @@ meetzoom.net
 meeuapp.net
 megapornotv.com
 megaseeds.lofter.com
+megatopsites.com
 megc2s1.cachenode.cn
 megoal.org
 megobike.com
@@ -45731,6 +45733,7 @@ mercury-image.nhsoft.cn
 mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
+mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com
 mermaid.ximalaya.com
@@ -46735,6 +46738,7 @@ moenis.com
 moerkeji.net
 moerlong.com
 moesola.com
+moetu.org
 moetuji.com
 moew.xyz
 moeyue.com
@@ -50947,7 +50951,6 @@ pay.bilibili.com
 pay.hicloud.com
 pay.holaq.com
 pay.jd.com
-pay.m.jd.com
 pay.m.jd.com.gslb.qianxun.com
 pay.mairuan.com
 pay.meituan.com

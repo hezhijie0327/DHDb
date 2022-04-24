@@ -10272,7 +10272,6 @@ api.s.suv666.com
 api.samsungcloudcn.com
 api.sdbao.com
 api.sdk.fmobi.cn
-api.sec.miui.com
 api.share.baidu.com
 api.share.mob.com
 api.share.n.shifen.com
@@ -37764,6 +37763,7 @@ jcloudcs.com
 jcloudec.com
 jcloudstatic.com
 jclps.com
+jcm.jd.com
 jcmob.net
 jcmtxs.com
 jcnano.com
@@ -39580,7 +39580,6 @@ julive.com
 julur.com
 julyedu.com
 julysong.com
-jumaizhijia.com
 jumei.com
 jumeiglobal.com
 jumi.com

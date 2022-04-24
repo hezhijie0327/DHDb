@@ -47112,7 +47112,6 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
-msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
@@ -49755,6 +49754,7 @@ opencdnbaidutbpic.jomodns.com
 opencdnbaiduvdposter.jomodns.com
 opencdnbaiduwm.jomodns.com
 opencdnbd.jomodns.com
+opencdnbdapp.jomodns.com
 opencdnbdcharon.jomodns.com
 opencdnbdfctn.jomodns.com
 opencdnbdimgtn.jomodns.com

@@ -14184,7 +14184,6 @@ btbat.com
 btbtav.com
 btc114.com
 btc123.com
-btc17.com
 btc38.com
 btc5.net
 btc789.com
@@ -22735,6 +22734,7 @@ dl.arctime.cn
 dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
+dl.delivery.mp.microsoft.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -29182,7 +29182,6 @@ ggcj.com
 ggcode.2345.com
 ggcykf.com
 ggdata1.cnr.cn
-ggdawanjia.com
 ggdm1.nhaidu.net
 ggeye.com
 ggfycufmnscyemidsgj7mgqgmoyd9k29.alicloudwaf.com
@@ -49776,7 +49775,6 @@ opencdnctripdl.jomodns.com
 opencdnedgeb2.jomodns.com
 opencdnglobal.jomodns.com
 opencdnglobalv6.jomodns.com
-opencdnglobalv6test.jomodns.com
 opencdnhuyavod.jomodns.com
 opencdnjd.jomodns.com
 opencdnksvod.jomodns.com

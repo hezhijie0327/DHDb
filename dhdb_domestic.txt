@@ -892,7 +892,6 @@
 110hack.com
 110tm.com
 111111111.com
-1111biao.com
 1118.cctv.com
 1119503.s1txipv6.cdntip.com
 111com.net
@@ -10782,7 +10781,6 @@ appsimg.com
 appsina.com
 appso.yingjiesheng.com
 appsoc.yingjiesheng.com
-appstochina.com
 appstore-upgrade.tv.mi.com
 appstore.browser.qq.com
 appstore.cdn.pandora.xiaomi.com
@@ -23091,6 +23089,7 @@ dnswind.net
 dnszh.com
 dnxtc.net
 do-shi.com
+do.lymstsc.com
 do1024.com
 do123.net
 do1618.com
@@ -36441,6 +36440,7 @@ in.ali213.net
 in.m.jd.com
 in.m.jd.com.gslb.qianxun.com
 in.qqhpg.com
+in.qzkxt.com
 in.vipliangmei.com
 in1.feed.uu.cc
 in1.secure.uu.cc
@@ -44992,6 +44992,7 @@ maoyia.com
 maoyiwang.com
 maoyouhui.cc
 maoyun.com
+maoyuncloud.cn
 maoyuncloud.com
 maoyundns.com
 maozhuar.com
@@ -61452,7 +61453,6 @@ steamcloud-hkg.oss-accelerate.aliyuncs.com
 steamcloud-sgp.oss-accelerate.aliyuncs.com
 steamcloud-ugc-hkg.oss-accelerate.aliyuncs.com
 steamcn-sh.oss-cn-shanghai.aliyuncs.com
-steamcodegenerator.xyz
 steampipe.steamcontent.tnkjmec.com
 steampowered.com.8686c.com
 steamrepcn.com

@@ -10625,7 +10625,6 @@ appapi.17house.com
 appapi.51job.com
 appapi.dmall.com
 appapis.dmall.com
-appapisdk.tanv.com
 apparelsos.com
 appbacklog.dftoutiao.com
 appbackupapi.micloud.xiaomi.net
@@ -43707,7 +43706,6 @@ lr-amm.com
 lr.3conline.com
 lrc99.com
 lrcb.net
-lrdgb.cn
 lrdzt.com
 lrevfhmp.cn
 lrfz.com
@@ -50997,7 +50995,6 @@ pbcan.com
 pbcdn.com
 pbd.sogou.com
 pbmp.ali213.net
-pbootcms.com
 pbpay.didistatic.com
 pbs9fbvz.sched.ska2lego-dk.tdnsv5.com
 pbsvpn.com

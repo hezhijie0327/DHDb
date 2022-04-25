@@ -12789,7 +12789,6 @@ beixingmh.com
 beixzw.cn
 beiyanmaoyi.com
 beiyc.com
-beiying.online
 beiyongzhan.com
 beiyu.xin
 beiyxiu.com
@@ -39262,7 +39261,6 @@ js.tongji.linezing.com
 js.tv.itc.cn
 js.tv.itc.cn.wsglb0.com
 js.ub.fang.com
-js.ubaike.cn
 js.union-wifi.com
 js.users.51.la
 js.vipyy88.com
@@ -55008,6 +55006,7 @@ query-node.yfscdn.net
 query-suggestion.ai.xiaomi.com
 query.aliyun.com
 query.dcdn.baidu.com
+query.hicloud.com
 query.tencent-cloud.com
 queshao.com
 queshu.com

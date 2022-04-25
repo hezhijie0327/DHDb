@@ -16417,6 +16417,7 @@ charmingglobe.com
 chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
+chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
@@ -33172,6 +33173,7 @@ hostproph.com
 hostxen.com
 hot.m.shouji.360tpcdn.com
 hotbanner.site
+hotcbit.org
 hotchat-im.iqiyi.com
 hotdb.com
 hotdeeplink.com
@@ -36023,6 +36025,7 @@ img.vqqu.cn
 img.wan.sogou.com
 img.wdjky.com
 img.weiyun.com
+img.xdwww.cn
 img.xgo.com.cn
 img.xiaohongshu.com
 img.xiaozhuvideo.com

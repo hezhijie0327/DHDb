@@ -32190,7 +32190,6 @@ hermes-server.hupu.com
 hermes.cn
 hermes.hupu.com
 hermes.jd.com
-hermes.jd.com.gslb.qianxun.com
 heroad-data.com
 heroclick.cn
 heroes.nos.netease.com
@@ -56927,7 +56926,6 @@ s1.irs03.com
 s1.lenovomm.cn
 s1.mini.wpscdn.cn
 s1.music.126.net
-s1.music.126.net.wscdns.com
 s1.pipishu.com
 s1.poco.cn
 s1.pplive.cn

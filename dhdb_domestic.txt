@@ -10167,6 +10167,7 @@ api.hengdianfilm.com
 api.home.news.cn
 api.home.skysrt.com
 api.huya.com
+api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -14576,6 +14577,7 @@ c.lianwangtech.com
 c.m.163.com
 c.mageti.cn
 c.mhtuucr.cn
+c.mininini.cn
 c.mipcdn.com
 c.mk6n4ym.cn
 c.mp.qq.com
@@ -36143,7 +36145,6 @@ img11.360buyimg.com
 img11.360buyimg.com.gslb.qianxun.com
 img12.360buyimg.com
 img13.360buyimg.com
-img14.360buyimg.com
 img14.poco.cn
 img16.diyifanwen.com
 img166.diyifanwen.com
@@ -43078,6 +43079,7 @@ lixiang.com
 lixiangmo.com
 lixianhezi.com
 lixianhua.com
+lixianze.top
 lixiaocrm.com
 lixiaoskb.com
 lixiaoyun.com
@@ -49381,7 +49383,6 @@ ok-app.online
 ok-meeting.com
 ok1616.com
 ok165.com
-ok22.org
 ok365.com
 ok8809.com
 ok9624.com
@@ -56053,7 +56054,6 @@ res.mi.baidu.com
 res.mmstat.com
 res.ncdz.qq.com
 res.nie.netease.com
-res.nie.netease.com.lxdns.com
 res.njxzwh.com
 res.pinpai8.cn
 res.pizzahut.com.cn

@@ -3771,6 +3771,7 @@
 51changmi.com
 51changxie.com
 51chaoban.com
+51check.com.cn
 51chongdian.net
 51chuli.com
 51cir.com
@@ -9324,7 +9325,6 @@ aliyun-web-tracker.cn-zhangjiakou.log.aliyuncs.com
 aliyun-youhui.com
 aliyun.cdn.chengzilte.top
 aliyun.com
-aliyun365.com
 aliyunbaike.com
 aliyuncdn.com
 aliyuncdnct.inter.dispatch.com.w.kunlunhuf.com
@@ -13791,6 +13791,7 @@ bnc66.com
 bnchina.com
 bncwork.com
 bnd-ybb.cn
+bndbddt.top
 bnet.163.com
 bnhgsb.com
 bnmiul.tdum.alibaba.com
@@ -46237,6 +46238,7 @@ minihaowan.com
 miniluck.com
 miningconf.org
 mininglamp.com
+mininini.cn
 minipage.2345.cn
 minipage.2345.com
 minipkg.dingtalk.com
@@ -50892,7 +50894,6 @@ passport.dns.iqiyi.com
 passport.douyu.com
 passport.douyu.com.w.cdngslb.com
 passport.iqiyi.com
-passport.jd.com
 passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn
@@ -59379,7 +59380,6 @@ shuoba.org
 shuodachuangyi.b2b.huangye88.com
 shuodedui.com
 shuomingshuku.com
-shuoshuo9.com
 shuoshuokong.com
 shuowan.cc
 shuowan.com

@@ -351,6 +351,7 @@
 0598job.com
 0598rc.com
 0598yu.com
+0599yx.com
 05bk.com
 05cg.com
 05e837eab77ca01fe524924f3d877c8e.dl.txcdns.com
@@ -41783,6 +41784,7 @@ lbsapi.m.jd.com
 lbsapi.m.jd.com.gslb.qianxun.com
 lbsgd.m.jd.com
 lbsgd.m.jd.com.gslb.qianxun.com
+lbsgw.m.jd.com
 lbsgw.m.jd.com.gslb.qianxun.com
 lbsgwh5.m.jd.com
 lbsgwh5.m.jd.com.gslb.qianxun.com

@@ -7599,7 +7599,6 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
-abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abuquant.com
@@ -14502,6 +14501,7 @@ c-sta-cn.upltv.com
 c-uaa.if.iqiyi.com
 c.02kdid.com
 c.28rv.com
+c.3.cn
 c.3.cn.gslb.qianxun.com
 c.35kds.com
 c.51y5.net
@@ -26200,6 +26200,7 @@ ewww.com.cn
 ewz4ksd98492555o.aliyunddos1026.com
 ex-silver.com
 ex-starch.com
+ex.m.jd.com.gslb.qianxun.com
 ex.mobmore.com
 ex.puata.info
 ex.tanx.com
@@ -26347,6 +26348,7 @@ ezwan.com
 ezywtlyf.sched.sma.tdnsv5.com
 f-0.cc
 f-api.wps.cn
+f-mall.jd.com
 f-mall.jd.com.gslb.qianxun.com
 f-vali.cp31.ott.cibntv.net
 f.aty.sohu.com

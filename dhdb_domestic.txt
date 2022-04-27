@@ -1119,6 +1119,7 @@
 12h5.com
 12jn.com
 12ky.com
+12mlbe.com
 12sporting.com
 12tiku.com
 12yao.com
@@ -1562,7 +1563,6 @@
 176878.com
 1769.tv
 176quan.com
-177.lyszsz.cn
 1773.com
 1778.com
 177817.com
@@ -11091,7 +11091,6 @@ asr.meituan.com
 asrmicro.com
 asrsingapore.com
 asset.newyx.net
-asset.tantanapp.com
 assets-cli.udesk.cn
 assets-cli.udesk.cn.w.kunlunar.com
 assets-mayun.b0.aicdn.com
@@ -12648,7 +12647,6 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -17655,6 +17653,7 @@ citiz.net
 citmt.cn
 citreport.com
 cits-sz.net
+cits0871.com
 cits2.com
 citscq.com
 citscsc.com
@@ -26347,7 +26346,6 @@ ezwan.com
 ezywtlyf.sched.sma.tdnsv5.com
 f-0.cc
 f-api.wps.cn
-f-mall.jd.com
 f-mall.jd.com.gslb.qianxun.com
 f-vali.cp31.ott.cibntv.net
 f.aty.sohu.com

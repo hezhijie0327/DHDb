@@ -18367,7 +18367,6 @@ cn-sdyt-cu-v-06.bilivideo.com
 cn-sdyt-cu-v-07.bilivideo.com
 cn-sdyt-cu-v-08.bilivideo.com
 cn-sdyt-cu-v-09.bilivideo.com
-cn-sdyt-cu-v-10.bilivideo.com
 cn-shanghai-ds-1002.oss-acc.aliyuncs.com
 cn-shanghai-ds-2025.oss-acc.aliyuncs.com
 cn-shanghai-ds-2029.oss-acc.aliyuncs.com
@@ -20684,7 +20683,6 @@ d5.a.kwimgs.com
 d5.mobaders.com
 d5.sina.com.cn
 d5.sinaimg.cn
-d50pjq1.cachenode.cn
 d518ed55f3428b52fae9a53469fe6404.dlied1.cdntips.net
 d5253.com
 d52ad7cd77466b4de50da5f24834f20c.dlied1.cdntips.net
@@ -23492,6 +23490,7 @@ download.visualstudio.microsoft.com
 download.vzuu.com
 download.wan.sohu.com
 download.wegame.qq.com
+download.windowsupdate.com
 download.xmcdn.com
 download.xp666.com
 download.yuelun.com

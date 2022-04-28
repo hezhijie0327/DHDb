@@ -7029,7 +7029,6 @@
 9mic.com
 9n7kda12.sched.sinastatic-dk.tdnsv5.com
 9nali.com
-9ni8ep1.cachenode.cn
 9niag5.tdum.alibaba.com
 9now.net
 9ok.com
@@ -10547,6 +10546,7 @@ app.50bang.org
 app.5211game.com
 app.58.com
 app.91.com
+app.9yyg.cn
 app.acm.dzwww.com
 app.agent.yfp2p.net
 app.agent.yunfancdn.com
@@ -15174,7 +15174,6 @@ casctcp.com
 case91.com
 casece.org
 casestudy.html5.qq.com
-cashier.alipay.com
 cashier.ele.me
 cashier.youzan.com
 cashierrz41.alipay.com
@@ -15704,6 +15703,7 @@ cdn.aixifan.com
 cdn.aixifan.com.w.kunlunle.com
 cdn.ampproject.org
 cdn.api.my.le.com
+cdn.app.kachapt.cn
 cdn.ark.qq.com
 cdn.bdstatic.com
 cdn.caiyunapp.com
@@ -28609,7 +28609,6 @@ ganlvji.com
 ganniu.com
 ganqi.com
 ganqi.net
-gansuci.com
 gansuyunshi.com
 ganxianw.com
 ganzhe.com
@@ -47095,6 +47094,7 @@ ms.bdimg.com
 ms.cnbanbao.com
 ms.cnczjy.com
 ms.ienkdaccessible.cn
+ms.jr.jd.com
 ms.jr.jd.com.gslb.qianxun.com
 ms.vipstatic.com
 ms.zu.anjuke.com

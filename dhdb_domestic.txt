@@ -16414,7 +16414,6 @@ charmingglobe.com
 chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
-chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
@@ -28279,6 +28278,7 @@ fzyfan.com
 fzyfan.net
 fzyfs.net
 fzzqcdn.com
+fzzrlh.com
 g-live.easyliao.com
 g-photography.net
 g-search1.alicdn.com
@@ -34877,7 +34877,6 @@ icaile.com
 ican365.net
 icandata.com
 icanzc.com
-icaoye.com
 icardfinancial.com
 icash.baidu.com
 icasiso.com
@@ -45402,7 +45401,6 @@ mdpda.com
 mdskip.m.tmall.com
 mdskip.taobao.com
 mdtu.com
-mduckstudio.com
 mdvdns.com
 mdvoo.com
 mdy-edu.com
@@ -51017,6 +51015,7 @@ pc.115.com
 pc.da.mgtv.com
 pc.grpc.stat.xnet.sandai.net
 pc.grpc.xnet.sandai.net
+pc.jinrongwang.net
 pc.lenovomm.cn
 pc.mobad.ijinshan.com
 pc.pay.youku.com
@@ -57438,6 +57437,7 @@ sc02.alicdn.com
 sc04.alicdn.com
 sc117754a1uv41ig.aliyunddos1028.com
 sc119.cc
+sc157.com
 sc1588.com
 sc2.nosdn.127.net
 sc2car.com

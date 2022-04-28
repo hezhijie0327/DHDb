@@ -25366,7 +25366,6 @@ ef360.com
 ef47d5a01a35758a202fea7c22b3c337.safeframe.googlesyndication.com
 ef4y7ld6.sched.sma.tdnsv5.com
 ef5g5n1.cachenode.cn
-ef7elo0.cachenode.cn
 ef9377.com
 ef9i.lo83cs.space
 efa536d69361488d60ab780f64f1486b.dlied1.cdntips.net
@@ -30992,6 +30991,7 @@ h5s.sinaimg.cn
 h5seeds-open.xycdn.com
 h5seeds-open.xycdn.com.gslb.p2cdn.com
 h5shuo.com
+h5speed.m.jd.com
 h5speed.m.jd.com.gslb.qianxun.com
 h5ssl.1sapp.com
 h5ssl.1sapp.com.wswebpic.com
@@ -42982,6 +42982,7 @@ live-ws2.jd.com.gslb.qianxun.com
 live.api.ddxq.mobi
 live.baidu.com
 live.bilibili.com
+live.bsycdn.siqiangame.com
 live.chinaz.com
 live.csdn.net
 live.ctc.ximalaya.com
@@ -45725,7 +45726,6 @@ mercury-image.nhsoft.cn
 mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
-mercury.jd.com
 mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com
@@ -53953,6 +53953,7 @@ qidongyx.com
 qidou.com
 qiduowei.com
 qie.tv
+qiecdn.com
 qieerxi.com
 qiekj-web-log.cn-shanghai.log.aliyuncs.com
 qiekj.com
@@ -60949,7 +60950,6 @@ star7th.com
 starbucks.com.cn
 starcorupdate.hifuntv.com
 stardoctor.com
-starduster.me
 stardustsky.net
 starfish.pandora.xiaomi.com
 starfish.sys.tv.mi.com
@@ -62979,7 +62979,6 @@ tanmer.com
 tanmizhi.com
 tannet-information.com
 tanpoqiuer.com
-tanqi888.com
 tanshan.site
 tanshudata.com
 tansoole.com

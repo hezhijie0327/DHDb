@@ -608,7 +608,6 @@
 0img.hitv.com.wsglb0.com
 0img.mgtv.com
 0ka.com
-0lkpjt0.cachenode.cn
 0m6q970.cachenode.cn
 0pi84.cn
 0quan8.com
@@ -10099,6 +10098,7 @@ api.bigfun.cn
 api.biliapi.net
 api.bilibili.com
 api.biligame.com
+api.browser.miui.com
 api.bs.zui.com
 api.btstu.cn
 api.bz
@@ -27397,6 +27397,7 @@ fisherac.com
 fishing-sinkers.com
 fishingjoy.com
 fishlee.net
+fishmobi.com
 fishtui.com
 fit-start.co
 fit-time.com
@@ -34486,6 +34487,7 @@ hznzcn.com
 hzou.net
 hzpgc.com
 hzqf123.com
+hzqimiao.com
 hzqiuxue.com
 hzr1.com
 hzrc.com
@@ -46009,7 +46011,6 @@ mid.houyi.baofeng.net
 midainc.com
 midas.gtimg.cn
 midas.rong360.com
-midday.me
 middle.tgp.qq.com
 midifan.com
 midinfo.baofeng.com

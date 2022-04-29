@@ -645,7 +645,6 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -11715,7 +11714,6 @@ b9128.com
 b9129.com
 b92.photo.store.qq.com
 b9999.com
-b9g4.nxwfhjvi.cn
 ba-li.com
 ba05e9866e07280b264b911aaf3e346f.safeframe.googlesyndication.com
 ba210.com
@@ -14516,7 +14514,6 @@ c.appjiagu.com
 c.autohome.com.cn
 c.aw.ak.mob.com
 c.baertt.com
-c.biancheng.net
 c.biancheng.net.w.kunlunno.com
 c.booksir.com.cn
 c.btyou.com
@@ -29930,7 +29927,6 @@ graphmovie.com
 graphqqcom.msf.tencent-cloud.com
 graueneko.xyz
 gravatar.helingqi.com
-gravatar.wp-china-yes.net
 gray-ad-sdk.aiclk.com
 gray-ad-sdk.aiclk.com.m.alikunlun.com
 grayconfig.ai.xiaomi.com
@@ -47134,7 +47130,6 @@ msg.eclicks.cn
 msg.iqiyi.com
 msg.m.jd.com
 msg.m.jd.com.gslb.qianxun.com
-msg.mobile.kugou.com
 msg.ptqy.gitv.tv
 msg.push.51y5.net
 msg.qy.net

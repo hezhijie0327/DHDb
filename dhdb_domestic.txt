@@ -15679,6 +15679,7 @@ cdn-xalbum2.xiaoniangao.cn
 cdn-xphoto2.xiaoniangao.cn
 cdn-xyx.raink.com.cn
 cdn-zjk-trans.dingtalk.com
+cdn.000714.xyz
 cdn.0i-i0.com
 cdn.10bests.com
 cdn.10bests.com.w.kunlungr.com
@@ -47132,6 +47133,7 @@ msg.eclicks.cn
 msg.iqiyi.com
 msg.m.jd.com
 msg.m.jd.com.gslb.qianxun.com
+msg.mobile.kugou.com
 msg.ptqy.gitv.tv
 msg.push.51y5.net
 msg.qy.net

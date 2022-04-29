@@ -7664,6 +7664,7 @@ accounts.firefox.com.cn
 accounts.google.cn
 accounts.nvgs.nvidia.cn
 accounts.qq.com
+accounts.tantanapp.com
 accscdn.cp12.ott.cibntv.net
 accscdn.m.taobao.com
 accsh.org
@@ -29099,6 +29100,7 @@ gfjl.org
 gflcsiot.com
 gflearn.aichaoxing.com
 gfnormal04ad.com
+gfnormal07ar.com
 gfrtrttweet.com
 gfs-op.douyucdn.cn
 gfs1.gomein.net.cn
@@ -34316,7 +34318,6 @@ hy-la.com
 hy-zr.com
 hy.huangye88.com.cn
 hy.huangye88.net
-hy2046.com
 hy628.com
 hyahm.com
 hyb2b.com
@@ -36144,6 +36145,7 @@ img11.18183.com
 img11.360buyimg.com.gslb.qianxun.com
 img12.360buyimg.com
 img13.360buyimg.com
+img14.360buyimg.com
 img14.poco.cn
 img16.diyifanwen.com
 img166.diyifanwen.com
@@ -41670,7 +41672,6 @@ laoke.com
 laolai.com
 laoliang.net
 laolieren.shop
-laoliulaoliu.com
 laoma.ltd
 laomaotao.net
 laoqiange.club
@@ -45657,6 +45658,7 @@ melon.cdnetworks.com
 melove.net
 memacx.com
 member.bilibili.com
+member.chinaacc.com
 member.igoldhk.com
 member.jr.jd.com
 member.jschina.com.cn

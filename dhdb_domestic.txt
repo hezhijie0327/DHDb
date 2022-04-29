@@ -1714,7 +1714,6 @@
 182208.com
 182885.com
 1829345.sched.s2-dk.tdnsv5.com
-183-131-220-1.ksyungslb.com
 1830536.vp.tcdnvod.com
 183me.com
 183post.com
@@ -11086,6 +11085,7 @@ asr.meituan.com
 asrmicro.com
 asrsingapore.com
 asset.newyx.net
+asset.tantanapp.com
 assets-cli.udesk.cn
 assets-cli.udesk.cn.w.kunlunar.com
 assets-mayun.b0.aicdn.com
@@ -11271,6 +11271,7 @@ austarstudy.com
 australia.people.com.cn
 auth-ai.meituan.com
 auth.api.gitv.tv
+auth.be.sec.miui.com
 auth.sonkwo.com
 auth.wosms.cn
 authlogin.kfc.com.cn
@@ -44651,7 +44652,6 @@ macjb.com
 macjpeg.macsc.com
 mackentan.com
 mackext.com
-macno1.com
 macocn.com
 macoshome.com
 macrosan.com

@@ -27184,7 +27184,6 @@ ffxiv.xin
 ffyoo.com
 fg.cc
 fg258.com
-fg8uqn1.cachenode.cn
 fga0.market.xiaomi.com
 fgb0.market.xiaomi.com
 fgc0.market.xiaomi.com
@@ -29647,6 +29646,7 @@ golfvv.com
 golink.com
 golinksworld.com
 golive-tv.com
+golivetv.tv
 golue.com
 gomeart.com
 gomecloud.com
@@ -37260,7 +37260,6 @@ iteer.net
 itek-training.com
 itellyou.com
 item-china.cn
-item-soa.jd.com
 item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com
@@ -44469,6 +44468,7 @@ m.vaxyz.com
 m.video.xiaomi.com
 m.vmall.com
 m.wandoujia.com
+m.wdeie.com
 m.weathercn.com
 m.webshu.net
 m.weibo.cn
@@ -47116,6 +47116,7 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net

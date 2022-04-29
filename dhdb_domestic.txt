@@ -32186,6 +32186,7 @@ hermes-server.hupu.com
 hermes.cn
 hermes.hupu.com
 hermes.jd.com
+hermes.jd.com.gslb.qianxun.com
 heroad-data.com
 heroclick.cn
 heroes.nos.netease.com
@@ -36138,6 +36139,7 @@ img10.jdcdn.com
 img11-sched.jcloudimg.com
 img11.18183.com
 img11.360buyimg.com.gslb.qianxun.com
+img12.360buyimg.com
 img13.360buyimg.com
 img14.poco.cn
 img16.diyifanwen.com
@@ -43123,7 +43125,6 @@ ljimg.com
 ljjgdj.org
 ljk.ink
 ljsdk.com
-ljsw.io
 ljt365.com
 ljw012.com
 ljwit.com
@@ -44712,6 +44713,7 @@ magictavern.com
 magicwindow.cn
 magicwinmail.com
 magicyourlife101.com
+magiphone.cn
 magnet.rayjump.com
 magook.com
 magsci.org

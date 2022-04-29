@@ -15528,6 +15528,7 @@ cd.06bv.com
 cd.centanet.com
 cd.dabansuan.cn
 cd.file.myqcloud.com
+cd.jd.com
 cd.jd.com.gslb.qianxun.com
 cd.lianjia.com
 cd.preview.ftn.qq.com
@@ -15906,7 +15907,6 @@ cdnweb.huya.com
 cdnweixin.haoduoke.cn
 cdnws.api.huya.com
 cdnx.newvfx.com
-cdp.cloud.unity3d.com
 cdqcnt.com
 cdqcp.com
 cdqph.com
@@ -22865,7 +22865,6 @@ dlied6.qq.com.yyb.sched.dcloudstc.com
 dlimg.lovfp.com
 dljrw.com
 dll01.com
-dllake.com
 dllzj.com
 dlmonita.com
 dlmzk.com
@@ -55416,6 +55415,7 @@ qyshbf.ltd
 qyt1902.com
 qytdesign.com
 qytxhy.com
+qywl777.com
 qywww.net
 qyx-fbao.getapk.cn
 qyxan15a.v1d.szbdyd.com

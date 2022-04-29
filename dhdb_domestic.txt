@@ -13643,6 +13643,7 @@ blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
+blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
@@ -26527,6 +26528,7 @@ famige.com
 familymart.com.cn
 familymart.e.verystar.net
 famiyou.com
+famorlymal.com
 famosascalvas.com
 famulei.com
 fan-lun.com
@@ -29096,6 +29098,7 @@ gfglb.com
 gfjl.org
 gflcsiot.com
 gflearn.aichaoxing.com
+gfnormal04ad.com
 gfrtrttweet.com
 gfs-op.douyucdn.cn
 gfs1.gomein.net.cn
@@ -39230,7 +39233,6 @@ js.ea3w.com
 js.fengniao.com
 js.gdyjs.com
 js.gomein.net.cn
-js.goodemc.com
 js.gsxt.gov.cn
 js.haisheteam.com
 js.haoxyx.com
@@ -66560,7 +66562,6 @@ update.khd.2345.cc
 update.leiting.com
 update.minipage.2345.cc
 update.minipage.2345.com
-update.miui.com
 update.nn.com
 update.pan.baidu.com
 update.pan.n.shifen.com

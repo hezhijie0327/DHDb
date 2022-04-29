@@ -3221,6 +3221,7 @@
 3hbox.com
 3hgui.com
 3hm23gai.sched.s2-dk.tdnsv5.com
+3hnceq1.cachenode.cn
 3ijw4t.tdum.alibaba.com
 3img.hitv.com
 3img.hitv.com.w.kunlunle.com
@@ -18340,6 +18341,7 @@ cn-hbcd2-cu-v-08.bilivideo.com
 cn-hbcd2-cu-v-09.bilivideo.com
 cn-hbcd2-cu-v-10.bilivideo.com
 cn-hbcd2-cu-v-11.bilivideo.com
+cn-hbcd2-cu-v-14.bilivideo.com
 cn-hbcd2-cu-v-17.bilivideo.com
 cn-healthcare.com
 cn-http2.cootek.com
@@ -48357,7 +48359,6 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
-nex.163.com
 next.api.aliyun.com
 next.itellyou.cn
 next.itellyou.cn.w.kunluncan.com

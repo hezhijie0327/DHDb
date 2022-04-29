@@ -47108,7 +47108,6 @@ mse.jd.com
 msearch.51job.com
 msearch.51job.com.51jobdns.com
 mseddl.gitee.io
-msedge.f.dl.delivery.mp.microsoft.com
 msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
 msf.ias.tencent-cloud.net
@@ -55850,6 +55849,7 @@ redocn.com
 redou.com
 redpaper-10006092.cos.myqcloud.com
 redphon.com
+redpoint-msg.m.jd.com
 redpoint-msg.m.jd.com.gslb.qianxun.com
 redream.com
 redrock.team

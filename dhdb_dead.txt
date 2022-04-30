@@ -8732,6 +8732,7 @@ analytics.cervellio.com
 analytics.cmg.net
 analytics.cohesionapps.com
 analytics.core.retell.cc
+analytics.dev.springboardvideo.com
 analytics.easyvideo.vn
 analytics.elx.cloud
 analytics.fairfax.com.au
@@ -16473,7 +16474,6 @@ cloudfront.net
 cloudgfw.com
 cloudgfw.net
 cloudinary.net
-cloudinsights.com
 cloudmap.hk
 cloudmedia.gdn
 cloudmediacdn.com
@@ -18024,6 +18024,7 @@ cscccase.online
 cscccase.ru
 cscectc.com
 cscmcup.com
+cscp.me
 cscp804.com
 cscp820.com
 csdc0000.com
@@ -38005,7 +38006,6 @@ kzupload.com
 kzvhgpqvmle.com
 kzws02uffs.com
 kzwsh.cn
-kzxsrxf.cn
 l-f.pw
 l-instagram.cf
 l-kingmall.com

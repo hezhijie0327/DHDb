@@ -12567,7 +12567,6 @@ bdimg1.qunliao.info
 bdimg2.qunliao.info
 bdimg2.qunliao.info.download.ks-cdn.com
 bdinfo.net
-bditong.com
 bdjiaoben.wmxa.cn
 bdjs.120askimages.com
 bdjs.163lady.com
@@ -18346,6 +18345,7 @@ cn-gapis.0cdn.cn.cname.yunjiasu-cdn.net
 cn-hangzhou-component-gw.cloud.alipay.com
 cn-hangzhou-mgs-gw.cloud.alipay.com
 cn-hangzhou.oss-pub.aliyun-inc.com
+cn-hbcd2-cu-v-04.bilivideo.com
 cn-hbcd2-cu-v-06.bilivideo.com
 cn-hbcd2-cu-v-07.bilivideo.com
 cn-hbcd2-cu-v-08.bilivideo.com
@@ -37285,6 +37285,7 @@ iteer.net
 itek-training.com
 itellyou.com
 item-china.cn
+item-soa.jd.com
 item-soa.jd.com.gslb.qianxun.com
 item.gome.com.cn
 item.jd.com

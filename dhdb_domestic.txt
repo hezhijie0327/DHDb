@@ -6309,7 +6309,6 @@
 8s8s.com
 8she.com
 8sz5rvxt.p29.tcdnvod.com
-8t5xo.cn
 8taobaodian.com
 8tgh.com
 8tiufb.tdum.alibaba.com
@@ -12482,7 +12481,6 @@ bd.pull.yximgs.com.a.bcelive.com
 bd.push.yximgs.com
 bd.push.yximgs.com.b.bcelive.com
 bd.watu.cn
-bd.zhpxkl.cn
 bd07322b9d4aa75a140346bd8e933d3f.dlied1.cdntips.net
 bd1-china.6789.com
 bd1-china.xsfaya.com
@@ -49820,7 +49818,6 @@ opencdnspyv6.jomodns.com
 opencdnssl.jomodns.com
 opencdnsslv6.jomodns.com
 opencdnv6.jomodns.com
-opencdnv6test.jomodns.com
 opencdnweiruan.jomodns.com
 opencdnzhihustatic.jomodns.com
 opencloud.wostore.cn

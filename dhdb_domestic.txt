@@ -5044,7 +5044,6 @@
 66ui.com
 66wc.com
 66wz.com
-66you.com
 66zhizu.com
 66zhuang.com
 671061.shop.258.com
@@ -10148,6 +10147,7 @@ api.exc.mob.com
 api.faceid.com
 api.fc.mob.com
 api.fd.mob.com
+api.g.micloud.xiaomi.net
 api.gameanalytics.com
 api.gamebox.cocos.com
 api.gcloud.qq.com
@@ -14652,6 +14652,7 @@ c151fb41e1c344b429b2ce741ff0cad9.v.smtcdns.net
 c193264ac500d2b82fdd4f9ea5475a93.dlied1.cdntips.net
 c1dbbffc92e6e53e8fcf8c89037dbe15.safeframe.googlesyndication.com
 c1km4.com
+c1s.com
 c1wx.lianwangtech.com
 c2.58toto.net
 c2.amap.com
@@ -35546,6 +35547,7 @@ ikuaiy.net
 ikuvn.com
 il133.cn
 ilab-x.com
+ilaic.org
 ilaisa.com
 ilanluo.com
 ilanni.com

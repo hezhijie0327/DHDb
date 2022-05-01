@@ -4469,6 +4469,7 @@
 56clte.org
 56da.com
 56dr.com
+56eee.net
 56en.com
 56fba.cn
 56fff.net
@@ -10532,6 +10533,7 @@ app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
 app-site-association.cdn-apple.com
+app-site-association.g.aaplimg.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -59632,6 +59634,7 @@ singbon.com
 singcere.net
 singdown.com
 singee77.com
+singfun.com
 singhead.com
 singpodcast.com
 sinmeng.com
@@ -63608,7 +63611,6 @@ tezign.com
 tf-api.xw888.net
 tf.360.cn
 tf.caohua.com
-tf.gzleilin.com
 tf.hftaili.com
 tf.wiki
 tf58.com

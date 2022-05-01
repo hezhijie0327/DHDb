@@ -2554,7 +2554,6 @@
 3.3322722.com
 3.39zuoye.com
 3.5646.cn
-3.cn.pool.ntp.org
 3.iscrv.com
 3.ssqzj.com
 3.up.qingdaonews.com
@@ -2690,6 +2689,7 @@
 330123456.com
 3304399.net
 33105.com
+3313dd.com
 331872.b2b.jinanfa.cn
 3321.com
 3322.net
@@ -29300,7 +29300,6 @@ gifshow.b0.aicdn.com
 gifshow.com
 gifshow.uplive.ks-cdn.com
 gift.douyucdn.cn
-giftcardclub.net
 gifu-pr.com
 giga-da.com
 gigabyte.cn
@@ -53684,7 +53683,6 @@ qhee-ma.com
 qhee.com
 qhfax.com
 qhfx.net
-qhgbkr.cn
 qhgxq.com
 qhgy.net
 qhimg.com
@@ -56790,7 +56788,6 @@ s.autoimg.cn
 s.bdstatic.com
 s.btime.com
 s.c-ctrip.com
-s.caduka.cn
 s.cdn.u17t.com
 s.cdxyb.cn
 s.chuimg.com

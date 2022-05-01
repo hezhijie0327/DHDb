@@ -4420,6 +4420,7 @@
 5599.com
 55a20a2b89510bc857653fcda3e10b20.safeframe.googlesyndication.com
 55a6ff3.cdnnodedns.cn
+55bbs.com
 55bf3192575e4cdcfabcb63370211369.dlied1.cdntips.net
 55dd809f23956f1456d662bee81845f5.dlied1.cdntips.net
 55dian.com
@@ -10445,7 +10446,6 @@ apis1.ksapisrv.com
 apis2.gifshow.com
 apis2.ksapisrv.com
 apisgame.iqiyi.com
-apisnd.heytapmobi.com
 apisoft.df0535.com
 apissl.gifshow.com
 apissl.ksapisrv.com
@@ -34228,7 +34228,6 @@ hwpub-s01-drcn.cloud.dbankcloud.cn
 hwrecruit.com
 hwsem.com
 hwshu.com
-hwt.player888.cn
 hwtelcloud.com
 hwtrip.com
 hwx.h4kdxs.com
@@ -40759,7 +40758,6 @@ knet.cn
 knewbi.com
 knewone.com
 knewsmart.com
-knicks.jd.com
 knicks.jd.com.gslb.qianxun.com
 knisterpeter.gallerycdn.azure.cn
 knja123.top

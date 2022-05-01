@@ -608,7 +608,6 @@
 0img.mgtv.com
 0ka.com
 0m6q970.cachenode.cn
-0pi84.cn
 0quan8.com
 0rg.pw
 0s8s.com
@@ -18344,6 +18343,7 @@ cn-hbcd2-cu-v-08.bilivideo.com
 cn-hbcd2-cu-v-09.bilivideo.com
 cn-hbcd2-cu-v-10.bilivideo.com
 cn-hbcd2-cu-v-11.bilivideo.com
+cn-hbcd2-cu-v-12.bilivideo.com
 cn-hbcd2-cu-v-14.bilivideo.com
 cn-hbcd2-cu-v-15.bilivideo.com
 cn-hbcd2-cu-v-17.bilivideo.com
@@ -29149,6 +29149,7 @@ gfvip09ac.com
 gfvip09aj.com
 gfvip09an.com
 gfvip09aq.com
+gfvip09at.com
 gfwsl.geforce.cn
 gfxaa.com
 gfxcamp.com
@@ -33539,7 +33540,6 @@ httpdns.kwd.inkuai.com
 httpdns.lss.baidu.n.shifen.com
 httpdns.meituan.com
 httpdns.n.netease.com
-httpdns.ocloud.heytapmobi.com
 httpdns.push.heytapmobi.com
 https-play-g3proxy.lecloud.com
 https.eol.cn
@@ -41079,7 +41079,6 @@ kuaidizs.com
 kuaiduizuoye.com
 kuaiduwen.com
 kuaiex.com
-kuaifa.mobi
 kuaifaka.com
 kuaifawu.com
 kuaigames.com
@@ -56568,7 +56567,6 @@ rt354.cn
 rta.map.qq.com
 rta.vlion.cn
 rtas.videocc.net
-rtb-p.kejet.net
 rtb-tk-cn.rayjump.com
 rtb-x.jd.com
 rtb-x.jd.com.gslb.qianxun.com

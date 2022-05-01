@@ -10534,6 +10534,7 @@ app-measurement.com
 app-monitor.ele.me
 app-router.com
 app-router.leancloud.cn
+app-site-association.cdn-apple.com
 app-store.name
 app-tj.adinall.com
 app-v6.ias.tencent-cloud.net
@@ -39742,7 +39743,6 @@ jwfun.com
 jwipc.com
 jwks123.com
 jwl100.com
-jwmfxp.xyz
 jwnote.com
 jwshy.com
 jwview.com

@@ -34631,7 +34631,6 @@ i.snssdk.com
 i.snssdk.com.w.kunluncan.com
 i.sso.sina.com.cn
 i.stat.nearme.com.cn
-i.tantanapp.com
 i.taobao.com
 i.tddmp.com
 i.ulmdb.cn
@@ -40758,6 +40757,7 @@ knet.cn
 knewbi.com
 knewone.com
 knewsmart.com
+knicks.jd.com
 knicks.jd.com.gslb.qianxun.com
 knisterpeter.gallerycdn.azure.cn
 knja123.top
@@ -44309,6 +44309,7 @@ m.gmw.cn
 m.gmw.cn.wscdns.com
 m.gomev.cn
 m.gotokeep.com
+m.gxwztv.com
 m.gywlwh.com
 m.haiwainet.cn
 m.hao123.com
@@ -46307,7 +46308,6 @@ misc-xl9-ssl.xunlei.com
 misc-xl9-ssl.xunlei.com.w.kunlungr.com
 misc.360buyimg.com
 misc.pandora.xiaomi.com
-misc.wcd.qq.com
 misc.xl9.xunlei.com
 miscanner.api.xiaomi.net
 miscd.com

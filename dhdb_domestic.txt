@@ -13638,6 +13638,7 @@ blackdir.com
 blackdragon.com
 blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
+blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
 blackshark.com
 blackswancake.com
@@ -27982,7 +27983,6 @@ fudaiapp.com
 fudanglp.com
 fudanmed.com
 fudanpress.com
-fudao.biancheng.net
 fudao.biancheng.net.w.kunlunca.com
 fudata.cn
 fudian-bank.com
@@ -28860,7 +28860,6 @@ gdmoa.org
 gdmschina.com
 gdmseduol.com
 gdmuseum.com
-gdmxjy.com
 gdou.com
 gdown.baidu.com
 gdp.alicdn.com
@@ -29057,7 +29056,6 @@ geshui.com
 geshui100.com
 geshuiw.com
 gesuo.com
-get.sogou.com
 get.vip
 getapk.cn
 getbingo.net
@@ -41608,7 +41606,6 @@ lanketd.com
 lanlanlife.com
 lanlicai.com
 lanmao.com
-lanmei-cm02.dynamic-ip.xyz
 lanmit.com
 lanou3g.com
 lanqb.com
@@ -51294,6 +51291,7 @@ peoplenews.eu
 peoplerail.com
 pepresource.com
 pepsico.com.cn
+perf.m.jd.com
 perf.m.jd.com.gslb.qianxun.com
 perfect-input.com
 peropero.net

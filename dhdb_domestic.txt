@@ -1,5 +1,6 @@
 0-100.com
 0-6.com
+0.cn.pool.ntp.org
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
@@ -7238,7 +7239,6 @@ a1.shusanqi.com
 a1.sumiaowang.com
 a1.twtym.com
 a1.xystatic.com
-a1.yaozui.com
 a1.zhanzhang.net
 a1.zhanzhang.net.cname2958.yjs-cdn.com
 a1010.phobos.apple.com
@@ -32237,7 +32237,6 @@ heyi.com
 heyi.shop
 heymore.com
 heyou51.com
-heyoutz.com
 heyplus.com
 heyria.com
 heytap.com
@@ -36608,7 +36607,6 @@ innovisgroup.com
 inoherb.com
 inoneh5.com
 inoteexpress.com
-inotgo.com
 inott.api.mgtv.com
 inott.bz.mgtv.com
 inotthuodong.api.mgtv.com

@@ -1849,7 +1849,6 @@
 1bus.net
 1buu1.penyouw.com
 1c09b4e433f8e67a.jomoxc.com
-1c225d3.cachenode.cn
 1c2aff254019f5046c555a1581722bea.dlied1.cdntips.net
 1c385838e4ee2c72-cl2.qcloudcjgj.com
 1c919e52f2c619cc374edf41fe51f489.safeframe.googlesyndication.com
@@ -2351,6 +2350,7 @@
 263xmail.com
 263y.com
 264006.com
+2646w.com
 264802.com
 265.com
 2656000.com
@@ -16407,6 +16407,7 @@ charmingglobe.com
 chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
+chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com

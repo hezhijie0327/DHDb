@@ -22641,6 +22641,7 @@ dj1.baidu.com
 dj10.com
 dj2.baidu.com
 dj34.com
+dj63.com
 dj88.com
 dj89.com
 dj97.com
@@ -40743,7 +40744,6 @@ kmway.com
 kmxkh.com
 kn.bjbrtc.com
 kn.qhdfxkj.com
-kn.zhipinbook.cn
 kn.zzdahan.com
 kn120.com
 knb.hlgmsy.com
@@ -50225,7 +50225,6 @@ p.junshifuxin.com
 p.kf3msfm.com
 p.kugou.com
 p.l.qq.com
-p.lexph.com
 p.lu.sogou.com
 p.m.jd.com
 p.m.jd.com.gslb.qianxun.com

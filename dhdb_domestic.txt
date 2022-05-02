@@ -5806,7 +5806,6 @@
 80paper.com
 80rlg3.tdum.alibaba.com
 80s.qucaigg.com
-80shihua.com
 80sjy.net
 80txt.la
 80vps.com
@@ -11142,6 +11141,7 @@ at.umeng.com
 at.umtrack.com
 at.zuimeitianqi.com
 at0.pub.funshion.com
+at0086.com
 at0086.net
 at1.doubanio.com
 at1.pub.funshion.com
@@ -12621,7 +12621,6 @@ be90.com
 bea-s.dinghuoche.com
 beacon-api.aliyuncs.com
 beacon.ias.tencent-cloud.net
-beacon.qq.com
 beacon.sina.com.cn
 beacon.sparta.mig.tencent-cloud.net
 beacon.tingyun.com
@@ -27806,7 +27805,6 @@ fqi43ta2.sched.sma.tdnsv5.com
 fqis.xin
 fqjob.net
 fqpai.com
-fqvpn.net
 fqxkj.cn
 fqzww.com
 fr-odc.samsungapps.com
@@ -30583,6 +30581,7 @@ gxh.vip.qq.com.sched.px-dk.tdnsv6.com
 gxhc.ink
 gxhl.com
 gxhouse.com
+gxhzv.cn
 gxhzxw.com
 gxiang.net
 gxiang.org
@@ -32950,6 +32949,7 @@ hntianduo.com
 hnticai.com
 hntobacco.com
 hntv.tv
+hntvjiaotong.com
 hntymg.com
 hnwlcm.com
 hnwlxh.net
@@ -51388,7 +51388,6 @@ photo.sspu.edu.cn
 photo.tmrmixer.cn
 photo.weibo.com
 photo.wondercv.com
-photo.xfytjx.cn
 photo.ybaobei.cn
 photo0086.com
 photo3050.com

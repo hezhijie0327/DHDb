@@ -2012,7 +2012,6 @@
 2.arpun.com
 2.haoxue360.com
 2.openwrt.pool.ntp.org
-2.pool.ntp.org
 2.up.qingdaonews.com
 2.zol-img.com.cn
 2000888.com
@@ -6789,7 +6788,6 @@
 9718.com
 9718game.com
 9724.com
-973.com
 9758136.fls.doubleclick.net
 97616.net
 9767525.com

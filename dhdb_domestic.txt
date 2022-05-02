@@ -7495,7 +7495,6 @@ aau8.xyz
 aau9.xyz
 aaxpro.com
 aaz1.xyz
-aazcio.cn
 ab.cnbanbao.com
 ab.dydab.com
 ab.hwwt8.com
@@ -18056,6 +18055,7 @@ club-huawei.weathercn.com
 club-img.douyucdn.cn
 club-v4.chinanorth.cloudapp.chinacloudapi.cn
 club.bilibili.com
+club.jd.com
 club.jd.com.gslb.qianxun.com
 club.lenovo.com.cn
 club.m.autohome.com.cn
@@ -30891,6 +30891,7 @@ h3dns.net
 h3ooemdg.sched.sma.tdnsv5.com
 h3ue2s.com
 h3yun.com
+h41s.com
 h4399.com
 h4kcydip.sched.sma.tdnsv5.com
 h4kdxs.com
@@ -44408,6 +44409,7 @@ m.richaji.com
 m.robooot.com
 m.runoob.com
 m.samsunganycar.com
+m.sbinx.com
 m.sctcd.com
 m.sdyl188.com
 m.sh.bendibao.com
@@ -58330,7 +58332,6 @@ sh-eastwes.com
 sh-henian.com
 sh-hilead.com
 sh-holiday.com
-sh-hywin.com
 sh-pod1-smp-device-asset.apple.com.mwcname.com
 sh-pod2-smp-device-asset.apple.com
 sh-pod2-smp-device.apple.com

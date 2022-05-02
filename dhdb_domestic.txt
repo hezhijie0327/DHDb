@@ -11086,7 +11086,6 @@ asset.tantanapp.com
 assets-cli.udesk.cn
 assets-cli.udesk.cn.w.kunlunar.com
 assets-mayun.b0.aicdn.com
-assets-share.dspunion.com
 assets-share.dspunion.com.wswebcdn.com
 assets.115.com
 assets.116cd.com
@@ -20471,7 +20470,6 @@ d.gdt.qq.com
 d.gionee.com
 d.hexuntech.cn
 d.ifengimg.com
-d.jd.com
 d.jd.com.gslb.qianxun.com
 d.jjyx.com
 d.kugou.com
@@ -25399,6 +25397,7 @@ efpp.com
 efucms.com
 efueloil.com
 efunds.com.cn
+efunent.com
 efwang.com
 efwh.com
 efy-tech.com
@@ -29101,6 +29100,7 @@ gfglb.com
 gfjl.org
 gflcsiot.com
 gflearn.aichaoxing.com
+gfnormal03ab.com
 gfnormal04ad.com
 gfnormal06aa.com
 gfnormal07ar.com

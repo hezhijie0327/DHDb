@@ -642,6 +642,7 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
+1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -17943,6 +17944,7 @@ cloud.tsinghua.edu.cn
 cloud.video.taobao.com
 cloud.xdrig.com
 cloud.xdrig.com.td.fusion.iaas.jdcloud.com
+cloud.zyiis.net
 cloud189-gansu-person.oos-gslz.ctyunapi.cn
 cloud189-shh2-person.oos-sh2.ctyunapi.cn
 cloud189-xinjiang-person.oos-xjwlmq.ctyunapi.cn

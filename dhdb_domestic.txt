@@ -10056,6 +10056,7 @@ api.22lianmeng.com
 api.3839app.com
 api.5hte21mz.com
 api.account.xiaomi.com
+api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adnet.mob.com
 api.adxpand.com
@@ -19625,7 +19626,6 @@ cqjnw.org
 cqjob.com
 cqjsxx.com
 cqjy.com
-cqkdtui.com
 cqkjwx.com
 cqkqinfo.com
 cqkundian.com
@@ -21967,7 +21967,6 @@ dflow.log.hunantv.com
 dfmc.com
 dfmcastrol.com
 dfmingya.com
-dfnnet1.cachenode.cn
 dfp.aa.sdo.com
 dfp.mbcloud.com
 dfp.suning.com
@@ -41341,7 +41340,6 @@ kyhere.com
 kyhs.me
 kyimg.com
 kyjxy.com
-kykmuyi.cn
 kyle.pub
 kyleduo.com
 kylin-os.com
@@ -42760,7 +42758,6 @@ linktt.com
 linkunbin.com
 linkvans.com
 linkwebll.com
-linlin.com
 linlizone.com
 linlongyun.com
 linlongyx.com
@@ -43276,7 +43273,6 @@ log-lq.snssdk.com.w.cdngslb.com
 log-reyun-com-for-redirect-1246077432.cn-north-1.elb.amazonaws.com.cn
 log-sc.qutoutiao.net
 log-sdk.gifshow.com
-log-sdk.ksapisrv.com
 log-stats.weathercn.com
 log-upload.mihoyo.com
 log-yex.youdao.com
@@ -44471,7 +44467,6 @@ m.wooboo.com.cn
 m.wshufa.com
 m.wsxxu.com
 m.wuxiamh.com
-m.wz382.cn
 m.x81zw.com
 m.xd5s.com
 m.xieyanmin.com.cn
@@ -51932,7 +51927,6 @@ player.mgtv.com
 player.mgtv.com.wscdns.com
 player.tenglutg.com
 player.youku.com
-player888.cn
 playerhotfix.douyucdn.cn
 playfifa.com
 playhistory.bz.mgtv.com

@@ -7587,6 +7587,7 @@ abtest-ch.snssdk.com
 abtest-ch.snssdk.com.w.cdngslb.com.c.cdnuyun.cn
 abtest.alibaba.com
 abtest.m.s.360.cn
+abtest.tantanapp.com
 abtest3-misc-lq.zijieapi.com
 abtest3-misc-lq.zijieapi.com.w.kunluncan.com
 abuquant.com
@@ -29092,6 +29093,7 @@ gfglb.com
 gfjl.org
 gflcsiot.com
 gflearn.aichaoxing.com
+gfnormal01aq.com
 gfnormal03ab.com
 gfnormal04ad.com
 gfnormal06aa.com
@@ -30680,7 +30682,6 @@ gz121.com
 gz12301.com
 gz12333.com
 gz2.tl.jsq.red
-gz360.com
 gz4399.com
 gz4u.net
 gz51la.com
@@ -41560,6 +41561,7 @@ langlib.com
 langlive.com
 langlvseo.com
 langmanzg.com
+langmeijy.net
 langren.net
 langren001.com
 langren8.com

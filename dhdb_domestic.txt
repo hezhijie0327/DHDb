@@ -11883,7 +11883,6 @@ baike.com
 baike.haosou.com
 baike.jomodns.com
 baike.res.netease.com
-baike.res.netease.com.wsglb0.com
 baike.so.com
 baike.sogou.com
 baike.uu.163.com
@@ -28954,7 +28953,6 @@ geement.com
 geeqee.com
 geermu.baixing.com
 geermunews.com
-geesee.com
 geeseteam.com
 geetest.com
 geetest.datasink.sensorsdata.cn
@@ -36873,7 +36871,6 @@ ip4239609970.mobgslb.tbcache.com
 ip4244759674.mobgslb.tbcache.com
 ip4266940086.mobgslb.tbcache.com
 ip454723255.out.azhimalayanvh.com
-ip518.com
 ip6.ssl.msdk.qq.com
 ip668o.com
 ip669.com
@@ -44879,7 +44876,6 @@ mallshow.net
 mallstaroa.com
 mallui.pizzahut.com.cn
 mallusongs.net
-mallzhe.com
 mallzto.com
 malmam.com
 malong.com
@@ -57774,6 +57770,7 @@ sdlvxing.com
 sdly35.com
 sdmic.com
 sdn.geekzu.org
+sdn.hzxma.com
 sdn.kugou.com
 sdnfv.org
 sdnjsbc.com

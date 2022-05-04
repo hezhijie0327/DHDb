@@ -3247,6 +3247,7 @@
 3mbang.com
 3miao.net
 3mtw.com
+3osk8q2.cachenode.cn
 3png.com
 3poo.com
 3pp.starbucks.com.cn
@@ -10315,7 +10316,6 @@ api.wmpvp.com
 api.wondercv.com
 api.wsq.umeng.com
 api.wx.my7v.com
-api.wxlink.szyuexin.com.cn
 api.xd.com
 api.xiachufang.com
 api.xiaoheihe.cn
@@ -12346,7 +12346,6 @@ bbs.hassbian.com
 bbs.iappstoday.com
 bbs.ikuai8.com
 bbs.ikuai8.com.w.kunluncan.com
-bbs.mobileapi.hupu.com
 bbs.mumayi.com
 bbs.nga.cn
 bbs.nga.cn.wswebcdn.com
@@ -43731,7 +43730,6 @@ lsmf.sspu.edu.cn
 lsnetlib.com
 lsoos.com
 lspjy.com
-lsq6.com
 lsqifu.com
 lsqpay.com
 lsrbs.net

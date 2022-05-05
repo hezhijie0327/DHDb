@@ -15332,6 +15332,7 @@ ccf.m.jd.com
 ccf.m.jd.com.gslb.qianxun.com
 ccfb707b077b94f38031072966a06631.safeframe.googlesyndication.com
 ccfei.com
+ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
 ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
@@ -18182,6 +18183,7 @@ cmbchina.net
 cmbi.com.hk
 cmbimg.com
 cmbt.cn
+cmbzqtf.cn
 cmc.tanx.com
 cmcc-ecs.com
 cmcc.in
@@ -50909,7 +50911,6 @@ pay.bilibili.com
 pay.hicloud.com
 pay.holaq.com
 pay.jd.com
-pay.m.jd.com
 pay.m.jd.com.gslb.qianxun.com
 pay.mairuan.com
 pay.meituan.com

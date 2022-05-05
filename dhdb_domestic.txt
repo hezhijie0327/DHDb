@@ -11080,7 +11080,6 @@ asset.tantanapp.com
 assets-cli.udesk.cn
 assets-cli.udesk.cn.w.kunlunar.com
 assets-mayun.b0.aicdn.com
-assets-share.dspunion.com.wswebcdn.com
 assets.115.com
 assets.116cd.com
 assets.51downapp.cn
@@ -18406,6 +18405,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -41334,7 +41334,6 @@ kz8yx.com
 kzj365.com
 kztpms.com
 kzwr.com
-kzxsrxf.cn
 kzzs.shop
 l-rcd.iqiyi.com
 l.bst.126.net
@@ -41371,7 +41370,6 @@ l3-prod-patch-gzlj.bilibiligame.net.cdntip.com
 l3-prod-patch-gzlj.bilibiligame.net.sched.s7t.tdnsv5.com
 l36h.com
 l3s2.hy.qcloudcdn.com
-l4dk40faecw9jp.mwcname.com
 l4scli1.cachenode.cn
 l5-hdslb.gslb.ksyuncdn.com
 l574ou0.cdnnodedns.cn
@@ -48154,7 +48152,6 @@ new.cnzz.com
 new.gzsggzyjyzx.cn
 new.qq.com
 new.taobc.com
-new.users.51.la
 new.weibo.cn
 new.yokaunion.com
 new1cloud.com

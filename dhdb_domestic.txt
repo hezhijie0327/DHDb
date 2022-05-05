@@ -4795,7 +4795,6 @@
 5ov688tk.v1d.szbdyd.com
 5ov688yy.v1d.szbdyd.com
 5ov68eyh.v1d.szbdyd.com
-5p9p5f3.cachenode.cn
 5pao.com
 5pk.com
 5plus1.net
@@ -10194,7 +10193,6 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
-api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -25279,7 +25277,6 @@ ee-vip.net
 ee.0pi84.cn
 ee.1s8pj.cn
 ee.j5s9b.cn
-ee.s47e8.cn
 ee.u4q2.cn
 ee.w82ph.cn
 ee.xr883.cn
@@ -43466,7 +43463,6 @@ longau.com
 longcai.com
 longcheer.com
 longchen80.com
-longchengtg.com
 longcloud.weixin.com
 longclouds.com
 longcore.com
@@ -45937,6 +45933,7 @@ micardapi.micloud.xiaomi.net
 michaelapp.com
 micheal.wang
 michelam.com
+michong.com
 michplay.com
 miclle.com
 micro-bee.com
@@ -50947,7 +50944,6 @@ pb2.pstatp.com
 pb3.pstatp.com
 pb5.rsjun.cn
 pb6.sogou.com
-pb6o6q2.cachenode.cn
 pb89.com
 pbai.paas.cmbchina.com
 pbcan.com

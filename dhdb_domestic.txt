@@ -10190,6 +10190,7 @@ api.live.bilibili.com
 api.luffycity.com
 api.m.gds.taobao.com
 api.m.huya.com
+api.m.jd.com
 api.m.jd.com.gslb.qianxun.com
 api.m.mi.com
 api.m.sm.cn
@@ -12622,7 +12623,6 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -15897,6 +15897,7 @@ cdren.net
 cdronghai.com
 cdrtvu.com
 cdruzhu.com
+cds.3.cn
 cds.3.cn.gslb.qianxun.com
 cds.51y5.net
 cds.apple.com.mwcname.com
@@ -20509,7 +20510,6 @@ d1--cn-gotcha103.bilivideo.com
 d1--cn-gotcha108.bilivideo.com
 d1--cn-gotcha202.bilivideo.com
 d1--cn-gotcha203.bilivideo.com
-d1--cn-gotcha203.bilivideo.com.w.alikunlun.com
 d1--cn-gotcha204.bilivideo.com
 d1--cn-gotcha204.bilivideo.com.l5.sched.dcloudlive.com
 d1--cn-gotcha204.bilivideo.com.tcdnlive.com
@@ -30231,7 +30231,6 @@ guanli.chaoxing.com
 guanli360.com
 guanlixinli.com
 guanmeikj.com
-guanmeixiangsu.com
 guanrenjiaoyu.com
 guanshangsq.com
 guanshangyu.cc
@@ -32826,7 +32825,6 @@ hnbits.com
 hnbljy.com
 hnc-router-pb-v6.xiaojukeji.com
 hnccpit.org
-hnchuncheng.com
 hncoolwarm.com
 hncreate.com
 hncsmjzs.com
@@ -44290,7 +44288,6 @@ m.ithome.com
 m.jb51.net
 m.jb51.net.cdn20.com
 m.jcaik.com
-m.jd.com
 m.jd.com.gslb.qianxun.com
 m.jdcdn.com
 m.jf.10010.com
@@ -44409,6 +44406,7 @@ m.track.ad.xiaomi.com
 m.tsgyg.cn
 m.tuhu.cn
 m.uc123.com
+m.ucaii.com
 m.uczzd.cn
 m.umbbs.cn
 m.v.qq.com

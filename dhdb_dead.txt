@@ -2134,6 +2134,7 @@
 3728a.com
 373135.com
 373258.com
+373294.com
 373391.com
 373415.com
 373820.com
@@ -7456,6 +7457,7 @@ adsrv1.tapad.com
 adsrv2.wilmingtonstar.com
 adsrvgateway.com
 adss.dotdo.net
+adssl01.adtech.us
 adsspace.net
 adst.biz
 adstager.com
@@ -25729,7 +25731,6 @@ fcsass.org.cn
 fcsjw.com
 fcstats.bcentral.com
 fcunq.com
-fd-trust.com
 fd.yyets.tk
 fd2.m.630book.la
 fd2e64b4c2e729.com
@@ -25896,7 +25897,6 @@ fengyunlive.com
 fengyunzhibo.com
 fengzhilu.cn
 fenhao14.com
-fenhao24.com
 fenmr.com
 fenq.com
 fensui168.com

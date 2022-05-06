@@ -37686,7 +37686,6 @@ jb51.com
 jb51.net
 jb6636.cn
 jb79997.com
-jb88app.com
 jbaier023.com
 jbaobao.com
 jbb.one
@@ -44999,6 +44998,7 @@ mapi.dianping.com
 mapi.fenqile.com
 mapi.hellobike.com
 mapi.m.jd.com
+mapi.m.jd.com.gslb.qianxun.com
 mapi.meituan.com
 mapi.ttbike.com.cn
 mapi.vip.com
@@ -45791,7 +45791,6 @@ mg.glwxw.net
 mg.hrgame.com.cn
 mg.listc.cn
 mg.uu.163.com
-mg.uu.163.com.wsglb0.com
 mg09.zhaopin.com
 mg3721.com
 mgame-sv.netease.com

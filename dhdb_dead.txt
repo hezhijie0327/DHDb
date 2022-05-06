@@ -7219,6 +7219,7 @@ adserv.usps.com
 adserv001.adtech.fr
 adserv002.adtech.us
 adserv006.adtech.fr
+adserv007.adtech.fr
 adservant.guj.de
 adserve.canadawidemagazines.com
 adserve.city-ad.com
@@ -12708,7 +12709,6 @@ blockmetrics.com
 blockob.com
 blog-api.i5zhen.com
 blog-stars.org
-blog-stat.com
 blog.8500km.com
 blog.boxcar.io
 blog.br
@@ -29374,6 +29374,7 @@ gossipmiser.com
 gossipsbollywoods.com
 gostatspro.com
 gosu-talker.com
+gosugrounds.com
 gosuncdn.com
 gosuncdn.net
 gosvtp.biquge.info
@@ -43801,6 +43802,7 @@ mob.12365chia.com
 mob.adwhirl.com
 mob.huimee.net
 mob10.cqjktj.com
+mob29.shqcbus.com
 mob2web.com
 mobad.ijinshan.com
 mobadme.jp
@@ -55266,6 +55268,7 @@ sh.zyns.com
 sh22.us
 sh414.com
 sh5208.vip
+sh5y.com
 sh8y.com
 sha0001.com
 sha1.videotrek.co

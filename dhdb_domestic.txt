@@ -46535,7 +46535,6 @@ moapi.wps.cn
 moawx.hotwater.com.cn
 mob.com
 mob26.jnjszl.com
-mob29.shqcbus.com
 mob55.com
 mobaders.com
 mobaders.oss-cn-beijing.aliyuncs.com
@@ -51922,6 +51921,7 @@ plum.metgs.com
 pluosi.com
 plures.net
 plus-static.jd.com
+plus.m.jd.com
 plus.m.jd.com.gslb.qianxun.com
 plus.wps.cn
 plusgantt.com
@@ -58348,7 +58348,6 @@ sh.zu.anjuke.com
 sh112.com
 sh1122.com
 sh5e.com
-sh5y.com
 sh7.com
 sh85gk.com
 sh9130.com

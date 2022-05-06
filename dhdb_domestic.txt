@@ -20514,7 +20514,6 @@ d1--cn-gotcha108.bilivideo.com
 d1--cn-gotcha202.bilivideo.com
 d1--cn-gotcha203.bilivideo.com
 d1--cn-gotcha203.bilivideo.com.w.alikunlun.com
-d1--cn-gotcha203.bilivideo.com.w.alikunlun.com.qr.uuhimalayanqm.com
 d1--cn-gotcha204.bilivideo.com
 d1--cn-gotcha204.bilivideo.com.l5.sched.dcloudlive.com
 d1--cn-gotcha204.bilivideo.com.tcdnlive.com
@@ -39266,6 +39265,7 @@ js2.a.kwimgs.com.download.ks-cdn.com
 js2.a.yximgs.com
 js2.t.sinajs.cn
 js3.org
+js3768.zhudiaosz.com
 js4.eastmoney.com
 js412.yqjxzw.com
 js4273.zhudiaosz.com
@@ -41261,7 +41261,6 @@ kwimg4.kuwo.cn
 kwimg8.kuwo.cn
 kwimg9.kuwo.cn
 kwimgs.com
-kwin.wang
 kwin.xyz
 kwkg.kuwo.cn
 kwm.com

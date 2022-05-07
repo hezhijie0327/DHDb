@@ -4778,7 +4778,6 @@
 5lux.com
 5lyrysc1.sched.s2-dk.tdnsv5.com
 5m5agvee.sched.s2-dk.tdnsv5.com
-5m5m5m.com
 5mapk.com
 5mrk.com
 5nd.com
@@ -11738,7 +11737,6 @@ background.cowtransfer.com
 backstage-img-ssl.a.88cdn.com
 backup.hdslb.com
 backup.hdslb.com.w.alikunlun.com
-backzero.com
 bacocis.com
 bacs.51job.com
 bad1.51gxqm.com
@@ -12140,7 +12138,6 @@ baokan.tv
 baoku-safe.2345.com
 baoku.com
 baoku.safe.2345.com
-baokuandi.com
 baokutreasury.com
 baolaina.cc
 baoltx.com
@@ -12620,7 +12617,6 @@ beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
 beacons3.gvt2.com
 beacons5.gvt3.com
 beadwallet.com
@@ -42255,7 +42251,6 @@ lgoing.com
 lgpic.com
 lgstatic.com
 lgwf1.shiep.edu.cn
-lgzikao.com
 lh-lx.com
 lh.kehuduan.2345.com
 lh168.net
@@ -48317,6 +48312,7 @@ nf.m.taobao.com
 nf.m.taobao.com.gds.alibabadns.com
 nfa.jd.com
 nfa.jd.com.gslb.qianxun.com
+nfa5.com
 nfc315.com
 nfcmag.com
 nfcws.hicloud.com
@@ -51320,7 +51316,6 @@ phonegap100.com
 phonekr.com
 phopic.com
 phormchina.com
-photo.941ziyuan.cn
 photo.backerbiotech.cn
 photo.chaoxing.com
 photo.codefat.cn

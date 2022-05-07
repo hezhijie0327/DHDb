@@ -6253,6 +6253,7 @@
 8liuxing.com
 8lk.com
 8llp.com
+8mfty.com
 8mhh.com
 8miu.com
 8miu.net
@@ -13619,7 +13620,6 @@ black-unique.com
 blackbirdsport.com
 blackdir.com
 blackdragon.com
-blackhole-m.m.jd.com
 blackhole-m.m.jd.com.gslb.qianxun.com
 blackhole.m.jd.com
 blackhole.m.jd.com.gslb.qianxun.com
@@ -16386,6 +16386,7 @@ charmingglobe.com
 chassis-cdn.appcloudcdn.com
 chassis-cdn.appcloudcdn.com.wswebpic.com
 chat.fwone.com
+chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
@@ -33660,6 +33661,7 @@ huarongled.com
 huaruicom.com
 huas.co
 huashan-datahub-drcn.emui.dbankcloud.com
+huashangcf.com
 huashangtop.com
 huashen-edu.com
 huasheng.love

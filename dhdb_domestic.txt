@@ -10035,7 +10035,6 @@ api.22lianmeng.com
 api.3839app.com
 api.5hte21mz.com
 api.account.xiaomi.com
-api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adnet.mob.com
 api.adxpand.com
@@ -20485,7 +20484,6 @@ d1--cn-gotcha04.bilivideo.com.l5.sched.dcloudlive.com
 d1--cn-gotcha05.bilivideo.com
 d1--cn-gotcha05.bilivideo.com.wsdvs.com
 d1--cn-gotcha08.bilivideo.com
-d1--cn-gotcha103.bilivideo.com
 d1--cn-gotcha108.bilivideo.com
 d1--cn-gotcha202.bilivideo.com
 d1--cn-gotcha203.bilivideo.com

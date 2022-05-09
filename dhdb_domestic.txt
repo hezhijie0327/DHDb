@@ -2092,6 +2092,7 @@
 2155.com
 2156048.sched.s2.tdnsv5.com
 2156048.sched.skalego.tdnsv5.com
+2158524.com
 217play.com
 217wo.com
 2180535.dispatch.spcdntip.com
@@ -14501,7 +14502,6 @@ c.dun.163.com
 c.duomai.com
 c.eqxiu.com
 c.f1zd.com
-c.feilan5.cn
 c.freeride.com.cn
 c.fwone.com
 c.fzjarow.cn
@@ -62617,6 +62617,7 @@ t4.agrantsem.com
 t4.chei.com.cn
 t4.market.mi-img.com
 t409us1.cachenode.cn
+t5.51maiwanju.com
 t5.a.market.xiaomi.com
 t5.baidu.com
 t5.market.mi-img.com

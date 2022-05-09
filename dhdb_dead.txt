@@ -7480,6 +7480,7 @@ adsrv2.wilmingtonstar.com
 adsrvgateway.com
 adss.dotdo.net
 adssl01.adtech.us
+adssl02.adtech.us
 adsspace.net
 adst.biz
 adstager.com
@@ -8400,7 +8401,6 @@ aliwears.com
 aliweimeng.top
 alixil.ru
 aliyun-ns.com
-aliyun365.com
 aliyunceng.com
 aliyunddos0002.com
 aliyunddos0005.com
@@ -39227,7 +39227,6 @@ lib.haotv8.com
 lib.xmrm.pw
 liba.haotv8.com
 libchina.com
-libdgel.net
 libentao.club
 libertatea.info
 liberty-ss.top

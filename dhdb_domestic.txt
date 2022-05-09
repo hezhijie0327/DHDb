@@ -10528,7 +10528,6 @@ app.biliapi.net
 app.bilibili.com
 app.biligame.com
 app.cctv.com
-app.chat.xiaomi.net
 app.chinaz.com
 app.chinaz.com.wswebpic.com
 app.cj.sina.cn
@@ -27159,7 +27158,6 @@ fhlyou.com
 fhmion.com
 fhoverseas.com
 fhrlw.com
-fhthkz.cn
 fhtlw.com
 fhtzvip.com
 fhwlgs.com
@@ -36079,7 +36077,6 @@ img10.360buyimg.com.gslb.qianxun.com
 img10.jdcdn.com
 img11-sched.jcloudimg.com
 img11.18183.com
-img11.360buyimg.com
 img11.360buyimg.com.gslb.qianxun.com
 img12.360buyimg.com
 img13.360buyimg.com
@@ -45005,7 +45002,6 @@ maro6.com
 maroon91.com
 marry5.com
 mars.ccc.cmbchina.com
-mars.jd.com.gslb.qianxun.com
 mars.meituan.com
 marstor.com
 marstv.com

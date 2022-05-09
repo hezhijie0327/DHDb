@@ -5090,7 +5090,6 @@
 695976.sched.v1-dk.tdnsv5.com
 695c300a6a54a6edb03c97352fcd4efd.v.smtcdns.net
 695ljg.com
-695qdp1.cachenode.cn
 696157.com
 697195.shop.258.com
 697966.shop.258.com
@@ -38833,7 +38832,6 @@ jndwyy.com
 jnesc.com
 jngapkf.cn
 jnhouse.com
-jnjcxx.com
 jnjj.com
 jnjszl.com
 jnkason.com
@@ -50784,6 +50782,7 @@ passport.dns.iqiyi.com
 passport.douyu.com
 passport.douyu.com.w.cdngslb.com
 passport.iqiyi.com
+passport.jd.com
 passport.jd.com.gslb.qianxun.com
 passport.jomodns.com
 passport.krcom.cn

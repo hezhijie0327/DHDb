@@ -2205,6 +2205,7 @@
 22her6.tdum.alibaba.com
 22lrc.com
 22ntd6yc.sched.s2-dk.tdnsv5.com
+22shop.com
 22zryx.com
 22zw.com
 22zy.net
@@ -18382,7 +18383,6 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -19746,7 +19746,6 @@ credit.yibin.gov.cn
 credit.zhangye.gov.cn
 creditcard-fin.meituan.com
 creditcn.com
-creditsailing.com
 creditxb.com
 creport-start.play.aiseet.atianqi.com
 crewcn.com
@@ -22545,6 +22544,7 @@ diugai.com
 diuling.com
 div.io
 diviner.jd.com
+diviner.jd.com.gslb.qianxun.com
 division-data.alicdn.com
 diwork.com
 dixiao.org
@@ -39524,6 +39524,7 @@ junjunfudao.com
 junka.com
 junlee.net
 junlongtech.com
+junmoseo.com
 junnanhao.com
 junph.com
 junpin.com

@@ -18382,6 +18382,7 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
+cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -25309,7 +25310,6 @@ ef360.com
 ef47d5a01a35758a202fea7c22b3c337.safeframe.googlesyndication.com
 ef4y7ld6.sched.sma.tdnsv5.com
 ef5g5n1.cachenode.cn
-ef7elo0.cachenode.cn
 ef9377.com
 ef9i.lo83cs.space
 efa536d69361488d60ab780f64f1486b.dlied1.cdntips.net
@@ -28346,6 +28346,7 @@ ga2.3dmgame.com
 ga25.com
 gaandroid.talkingdata.net
 gab.122.gov.cn
+gac-capital.com
 gac-nio.com
 gacfca.com
 gacfcasales.com
@@ -36074,7 +36075,6 @@ img10.jdcdn.com
 img11-sched.jcloudimg.com
 img11.18183.com
 img11.360buyimg.com.gslb.qianxun.com
-img12.360buyimg.com
 img13.360buyimg.com
 img14.poco.cn
 img16.diyifanwen.com
@@ -48250,7 +48250,6 @@ newxue.com
 newyx.net
 newzgc.com
 newzhizao.com
-nex.163.com
 next.api.aliyun.com
 next.itellyou.cn
 next.itellyou.cn.w.kunluncan.com
@@ -49654,7 +49653,6 @@ opencdnbdwappass.jomodns.com
 opencdnbdwm.jomodns.com
 opencdncloud.jomodns.com
 opencdncloudv6.jomodns.com
-opencdnctripdl.jomodns.com
 opencdnedgeb2.jomodns.com
 opencdnglobal.jomodns.com
 opencdnglobalv6.jomodns.com

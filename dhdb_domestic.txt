@@ -644,7 +644,6 @@
 1.ccutu.com
 1.cjcp.cn
 1.click.com.cn
-1.cn.pool.ntp.org
 1.codesdq.com
 1.feeddsp.cn
 1.feihua.com
@@ -5776,7 +5775,6 @@
 808w.com
 8090.com
 8090.pk
-8090.so
 8090120.com
 8090app.com
 8090cdn.com
@@ -15306,6 +15304,7 @@ ccfb707b077b94f38031072966a06631.safeframe.googlesyndication.com
 ccfei.com
 ccfjma.m.jd.com
 ccfjma.m.jd.com.gslb.qianxun.com
+ccflbs.m.jd.com
 ccflbs.m.jd.com.gslb.qianxun.com
 ccflow.org
 ccfund.com.cn
@@ -22617,7 +22616,6 @@ djlmvip.com
 djlsoft.net
 djs.baomihua.com
 djsh5.com
-djsrbe3.cachenode.cn
 djstg.com
 djwxw.com
 djwyjszpyxgs473.shop.258.com
@@ -51670,7 +51668,6 @@ pipipifa.com
 pipishu.com
 pipix.com
 pipsemi.com
-piq.cr-nielsen.com
 piq.in-neo.cn
 pis-s.alicdn.com
 pis.alicdn.com

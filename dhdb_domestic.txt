@@ -1065,6 +1065,7 @@
 123hdp.com
 123huodong.com
 123lihun.com
+123lm.com
 123meiyan.com
 123menpiao.com
 123novel.com
@@ -13413,7 +13414,6 @@ bjiwex.com
 bjjabc.com
 bjjbsj.com
 bjjchf.com
-bjjdboai.cn
 bjjdwx.com
 bjjf.cc
 bjjfsd.com
@@ -18377,7 +18377,6 @@ cn.pandora.net
 cn.patch.battle.net
 cn.patch.battlenet.com.cn
 cn.pcfreetime.com
-cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.streetvoice.com
 cn.tencent.lb.metowolf.com
@@ -36708,7 +36707,6 @@ ios.bugly.qq.com
 ios.rqd.qq.com
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
-iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -62709,7 +62707,6 @@ taijidf.com
 taijiny.com
 taijio.com
 taijs.com
-taijuba.com
 taikang.com
 taikanglife.com
 taikangzhijia.com

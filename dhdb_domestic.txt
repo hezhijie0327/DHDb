@@ -24626,6 +24626,7 @@ e.ad.xiaomi.com
 e.ayues.com
 e.baidu.com
 e.banmamedia.com
+e.bentengcn.com
 e.bilibili.com
 e.bjmu.edu.cn
 e.bnc66.com
@@ -30573,7 +30574,6 @@ gyxdkjdl.com
 gyxuan.com
 gyypw.com
 gyyqcloud.com
-gyyx.cn
 gyzfbz.net
 gyzq.com.cn
 gz-cm01.dynamic-ip.xyz
@@ -31882,6 +31882,7 @@ healthdata.hicloud.com
 healthjd.com
 healthr.com
 healthych.com
+healthyun.com
 heart-game.com
 hearthstone.nosdn.127.net
 heartide.com
@@ -48239,7 +48240,6 @@ nexttix.net
 nf.jsq.red
 nf.m.taobao.com
 nf.m.taobao.com.gds.alibabadns.com
-nfa.jd.com
 nfa.jd.com.gslb.qianxun.com
 nfa5.com
 nfc315.com
@@ -54920,7 +54920,6 @@ qunar.ink
 qunarcdn.com
 qunarzz.com
 qunchua.cn
-qunchua.com
 quncrm.com
 qunfenxiang.net
 qungong.com
@@ -59377,7 +59376,6 @@ siiic.com
 siikzd1.cn
 siilu.com
 sijiaomao.com
-sijie.wang
 sijijun.com
 sijinchuanbo.com
 sijitao.net

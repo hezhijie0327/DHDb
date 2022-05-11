@@ -7299,6 +7299,7 @@ a6518f2746f86af5a42af6eb26efef88.safeframe.googlesyndication.com
 a655e64b5b118aa8b9b9790c332aba29.dlied1.cdntips.net
 a66qq.com
 a67dy.com
+a6s.ruyiqufu.com
 a6yadysu.sched.sma.tdnsv5.com
 a70b8ac698914c8a747bba7c8d5515cc.dlied1.cdntips.net
 a70f6451e9b72be6fdeffdd2cff0a088.dlied1.cdntips.net
@@ -10035,6 +10036,7 @@ api.22lianmeng.com
 api.3839app.com
 api.5hte21mz.com
 api.account.xiaomi.com
+api.ad.xiaomi.com
 api.ad.yipinread.com
 api.adnet.mob.com
 api.adxpand.com
@@ -24621,7 +24623,6 @@ e-tui.net
 e.189.cn
 e.360.cn
 e.51sole.com
-e.8of9hd.cn
 e.91.com
 e.ad.xiaomi.com
 e.ayues.com
@@ -25768,7 +25769,6 @@ epwitkey.com
 epwk.com
 epzcw.com
 eq.10jqka.com.cn
-eq2uep1.cachenode.cn
 eq984.cn
 eqbyc.com
 eqding.com
@@ -39191,6 +39191,7 @@ js3768.zhudiaosz.com
 js4.eastmoney.com
 js412.yqjxzw.com
 js4273.zhudiaosz.com
+js453.zhudiaosz.com
 js50.ys137.com
 js6.efyt6.com
 js7004.hnfpgm.com

@@ -4254,6 +4254,7 @@
 88106.com
 8811.tw
 8812098.com
+8812752.com
 88210212.com
 8827777.com
 883.engine.mobileapptracking.com
@@ -5845,7 +5846,6 @@ ad-recommend.com
 ad-safe.com
 ad-server.online
 ad-servicestats.net
-ad-spire.net
 ad-srv-track.com
 ad-switcher.com
 ad-tag.biz
@@ -25569,7 +25569,6 @@ fandom-case.com
 fandomcase.com
 fandommetrics.com
 fanfou.im
-fangbinxing.com
 fangbx.com
 fangdalaw.gd.cn
 fange.icu

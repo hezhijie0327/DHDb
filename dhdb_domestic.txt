@@ -16382,7 +16382,6 @@ chat.jd.com
 chat.jd.com.gslb.qianxun.com
 chat.qidian.qq.com
 chat.sobot.com
-chat1.jd.com
 chat1.jd.com.gslb.qianxun.com
 chataixin59.byf.com
 chatm.com
@@ -18312,6 +18311,7 @@ cn-hbcd2-cu-v-09.bilivideo.com
 cn-hbcd2-cu-v-10.bilivideo.com
 cn-hbcd2-cu-v-11.bilivideo.com
 cn-hbcd2-cu-v-12.bilivideo.com
+cn-hbcd2-cu-v-13.bilivideo.com
 cn-hbcd2-cu-v-14.bilivideo.com
 cn-hbcd2-cu-v-15.bilivideo.com
 cn-hbcd2-cu-v-16.bilivideo.com
@@ -32685,7 +32685,6 @@ hlmdctel.v1d.szbdyd.com
 hlnmg.com
 hlpqbmqx.v1d.szbdyd.com
 hlpretty.net
-hlqoefai.cn
 hlread.com
 hls.itunes.apple.com.mwcname.com
 hlsh5p1.douyucdn2.cn
@@ -35190,6 +35189,7 @@ ifengniao.net
 ifengo.com
 ifengpai.com
 ifengtui.com
+ifenguo.com
 ifengweekly.com
 ifengwoo.com
 ifensi.com
@@ -44175,7 +44175,6 @@ m.data.mob.com
 m.dayoo.com
 m.dgzj.com
 m.dianping.com
-m.diya1.com
 m.diyifanwen.com
 m.dji.com
 m.dmzj.com

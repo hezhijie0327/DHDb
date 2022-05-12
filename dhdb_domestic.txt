@@ -9335,7 +9335,6 @@ all.ocpc.xueersi.com.w.cdngslb.com
 all.openinstall.io.w.cdngslb.com
 all.rising.com.cn
 all.splayer.org.w.cdngslb.com
-all.uyan.cc.w.kunlunsl.com
 all.xueersi.com.w.kunluncan.com
 all.zhihu.com.w.kunluncan.com
 all163-dxospf.split.netease.com
@@ -11175,7 +11174,6 @@ atlas.yidianzixun.com
 atlenovo.com
 atm.punchbox.org
 atm.yoyi.com.cn
-atm988.com
 atobo.com
 atoken.m.taobao.com
 atom-log.3.cn
@@ -28923,7 +28921,6 @@ geiniwan.com
 geizan.cc
 gejiawen.com
 gejiba.com
-geke0530.shop.258.com
 gelics.com
 gelonghui.com
 gelu.me
@@ -36071,10 +36068,10 @@ img10.360buyimg.com.gslb.qianxun.com
 img10.jdcdn.com
 img11-sched.jcloudimg.com
 img11.18183.com
-img11.360buyimg.com
 img11.360buyimg.com.gslb.qianxun.com
 img12.360buyimg.com
 img13.360buyimg.com
+img14.360buyimg.com
 img14.poco.cn
 img16.diyifanwen.com
 img166.diyifanwen.com
@@ -36727,6 +36724,7 @@ ios.bugly.qq.com
 ios.rqd.qq.com
 iosack.tuisong.baidu.com
 iosapps-cn-lb.dl-apple.com.akadns.net
+iosapps.itunes.apple.com
 iosapps.itunes.apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com.m.alikunlun.net
 iosapps.itunes.apple.com.m.alikunlun.net.n.num1dns.com
@@ -40190,7 +40188,6 @@ kbscloud.com
 kbtcraftsman.oss-cn-zhangjiakou.aliyuncs.com
 kbtcraftsman.oss-cn-zhangjiakou.aliyuncs.com.gds.alibabadns.com
 kbtsogi.cn
-kbw2018.com
 kbyun.com
 kc.gouchezj.com
 kc.yeyou.com
@@ -41325,6 +41322,7 @@ l3-prod-patch-gzlj.bilibiligame.net.cdntip.com
 l3-prod-patch-gzlj.bilibiligame.net.sched.s7t.tdnsv5.com
 l36h.com
 l3s2.hy.qcloudcdn.com
+l4scli1.cachenode.cn
 l5-hdslb.gslb.ksyuncdn.com
 l574ou0.cdnnodedns.cn
 l6.fancyapi.com
@@ -41586,7 +41584,6 @@ laohu8.com
 laohuabao.com
 laohuangli.net
 laohucaijing.com
-laohuyun.com
 laojiuxitong.com
 laoke.com
 laolai.com

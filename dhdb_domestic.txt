@@ -13920,7 +13920,6 @@ boot-img.xuexi.cn
 boot-video.xuexi.cn
 bootcdn.cn
 bootcdn.meihaoxiangwang.com
-bootcdn.net
 bootcss.com
 bootstrapmb.com
 booyu-import.com
@@ -14793,6 +14792,7 @@ cabling-system.com
 cabxgw.com
 cacerts.digicert.cn
 cacerts.digicert.cn.w.cdngslb.com
+cacfo.com
 cache.a.market.xiaomi.com
 cache.amap.com
 cache.amap.com.danuoyi.tbcache.com

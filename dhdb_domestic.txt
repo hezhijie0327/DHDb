@@ -20473,7 +20473,6 @@ d1--cn-gotcha05.bilivideo.com.wsdvs.com
 d1--cn-gotcha08.bilivideo.com
 d1--cn-gotcha108.bilivideo.com
 d1--cn-gotcha202.bilivideo.com
-d1--cn-gotcha203.bilivideo.com
 d1--cn-gotcha204.bilivideo.com
 d1--cn-gotcha204.bilivideo.com.l5.sched.dcloudlive.com
 d1--cn-gotcha204.bilivideo.com.tcdnlive.com
@@ -26339,7 +26338,6 @@ f315.cc
 f3322.net
 f3322.org
 f3738309d8de5146841318cf2ce06d3c.dlied1.cdntips.net
-f4.market.mi-img.com
 f4.market.xiaomi.com
 f4.uaevivi.top
 f4082.cn
@@ -40642,6 +40640,7 @@ knet.cn
 knewbi.com
 knewone.com
 knewsmart.com
+knicks.jd.com
 knicks.jd.com.gslb.qianxun.com
 knisterpeter.gallerycdn.azure.cn
 knja123.top
@@ -44591,7 +44590,6 @@ maguang.net
 magvision.com
 mahao.xyz
 mahoupao.com
-mahoupao.net
 mahua.com
 mahuarili.com
 mahuatalk.com

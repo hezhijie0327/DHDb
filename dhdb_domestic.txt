@@ -30863,7 +30863,6 @@ h5.m.youku.com
 h5.m.youzan.com
 h5.mse.360.cn
 h5.net
-h5.pk1179.com
 h5.qianbao.qq.com
 h5.qzone.qq.com
 h5.showapp.xunlei.com
@@ -48075,7 +48074,6 @@ new-service.biliapi.net
 new.cnzz.com
 new.gzsggzyjyzx.cn
 new.qq.com
-new.taobc.com
 new.weibo.cn
 new.yokaunion.com
 new1cloud.com

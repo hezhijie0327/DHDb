@@ -7130,6 +7130,7 @@ a.koudai.com
 a.l.renren.com
 a.llysc.cn
 a.lz13.cn
+a.m.gxwztv.com
 a.mct01.com
 a.mfcad.net
 a.miyudaquan.top
@@ -10633,7 +10634,6 @@ appdata.q1.com
 appdelivery.4008123123.com
 appdetailh5.vivo.com.cn
 appdj.xesimg.com
-appdl-1-drcn.dbankcdn.com.c.cdnhwc1.com
 appdl-2-drcn.dbankcdn.com
 appdl-3-drcn.dbankcdn.com
 appdl-drcn.dbankcdn.com.s3.sched.tdnsv1.com
@@ -55457,7 +55457,6 @@ r6.mo.baidu.com
 r8qtou0.cachenode.cn
 r9---sn-2x3een7d.gvt1.com
 r9---sn-2x3eln7l.gvt1.com
-r96hli1.cachenode.cn
 ra.gtimg.com
 ra1cy3r6.com
 rabbit.meitustat.com

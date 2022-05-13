@@ -16562,7 +16562,6 @@ clickit.go2net.com
 clicklog.hd.baofeng.com
 clicklog.moviebox.baofeng.com
 clicklog.moviebox.baofeng.net
-clickmedia.ro
 clickmngr.com
 clickpoint.it
 clickredirection.com
@@ -38922,6 +38921,7 @@ ldcache.net
 ldd.me
 lddpgn.cn
 ldeng.com
+ldg0oo1.cachenode.cn
 ldgvxuhg.com
 ldimage01.adtech.us
 ldimage02.adtech.us

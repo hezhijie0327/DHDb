@@ -2021,7 +2021,6 @@
 2005net.net
 2006q.com
 2008php.com
-2008red.com
 2008zjj.com
 200ps.com
 200wan.com
@@ -7647,7 +7646,6 @@ accounts.firefox.com.cn
 accounts.google.cn
 accounts.nvgs.nvidia.cn
 accounts.qq.com
-accounts.tantanapp.com
 accscdn.cp12.ott.cibntv.net
 accscdn.m.taobao.com
 accsh.org
@@ -22281,7 +22279,6 @@ diansan.com
 dianshang.com
 dianshanghy.com
 dianshangyi.com
-dianshige.com
 dianshihome.com
 dianshijia.com
 dianshimo.com
@@ -28165,6 +28162,7 @@ fyeds6.com
 fyeds7.com
 fyeds8.com
 fyeds9.com
+fyesqma.cn
 fyfch.com
 fygame.com
 fygdrs.com
@@ -44857,7 +44855,6 @@ manpianyi.com
 manshen.net
 manwuxian123.com
 manxiu-law.com
-many88.com
 manyoo.net
 manyou.com
 manyoujing.net

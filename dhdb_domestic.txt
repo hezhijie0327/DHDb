@@ -10431,6 +10431,7 @@ apis1.ksapisrv.com
 apis2.gifshow.com
 apis2.ksapisrv.com
 apisgame.iqiyi.com
+apisnd.heytapmobi.com
 apisoft.df0535.com
 apissl.gifshow.com
 apissl.ksapisrv.com
@@ -32557,6 +32558,7 @@ hk.bdstatic.com
 hk.futu5.com
 hk.jtsh123.com
 hk.lianjia.com
+hk.linkedin.com
 hk.preview.ftn.qq.com
 hk.uwenku.com
 hk01.dns.meo-sub.site
@@ -32880,7 +32882,6 @@ hnxfpfb.com
 hnxgzg.com
 hnxmxit.com
 hnxuntang.com
-hnxxjn.com
 hnxyjt.com
 hnyczs.club
 hnyfkj.com
@@ -46454,7 +46455,6 @@ mnwww.com
 mnxz8.com
 mo.baidu.com
 mo.haloapps.cn
-mo.hc872.cn
 mo.kugou.com
 mo.m.taobao.com
 mo.m.tmall.com

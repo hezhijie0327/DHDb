@@ -6863,7 +6863,6 @@
 999.ygcp55.com
 9991.com
 999120.net
-999178.com
 99933.cn
 99939.com
 99966.cn
@@ -10091,6 +10090,7 @@ api.cloud.huawei.com
 api.cn-weathernews.cn
 api.cntv.cn
 api.coconut.is
+api.comm.miui.com
 api.coolguang.com
 api.cp12.ott.cibntv.net
 api.cportal.cctv.com
@@ -10146,7 +10146,6 @@ api.hengdianfilm.com
 api.home.news.cn
 api.home.skysrt.com
 api.huya.com
-api.hybrid.xiaomi.com
 api.hyhuo.com
 api.i-meto.com
 api.iapps.ifeng.com
@@ -11256,6 +11255,7 @@ austarstudy.com
 australia.people.com.cn
 auth-ai.meituan.com
 auth.api.gitv.tv
+auth.be.sec.miui.com
 auth.sonkwo.com
 auth.wosms.cn
 authlogin.kfc.com.cn
@@ -27366,6 +27366,7 @@ fjeca.com
 fjedu.com
 fjeny8wp.sched.sma.tdnsv5.com
 fjfoxiang.com
+fjfymjm.cn
 fjgdwl.com
 fjgwy.org
 fjhun.com
@@ -28781,7 +28782,6 @@ gdlins.com
 gdliontech.com
 gdlppow.com
 gdlsgz.com
-gdlvbiaokeji.cn
 gdmappress.com
 gdmingshizx.com
 gdmm.com
@@ -40458,6 +40458,7 @@ kiees.com
 kihgwe.com
 kiiik.com
 kiijoy.com
+kiiqnnx.cn
 kililife.com
 killdb.com
 kilvn.com
@@ -51166,7 +51167,6 @@ peoplenews.eu
 peoplerail.com
 pepresource.com
 pepsico.com.cn
-perf.m.jd.com
 perf.m.jd.com.gslb.qianxun.com
 perfect-input.com
 peropero.net
@@ -58065,7 +58065,6 @@ sestat.baidu.com
 sesubox.com
 set56.7pud.com
 setlightning.idc.dmall.com
-setting.rayjump.com
 setting1.hicloud.com
 seuic.com
 sevencdn.com

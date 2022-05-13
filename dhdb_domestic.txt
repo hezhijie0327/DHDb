@@ -13072,6 +13072,7 @@ bigota.d.miui.com
 bigplayers.com
 bigrnet.com
 bigsec.net
+bigtree.mobi
 biguo100.com
 biguolunwen.com
 bigwayseo.com
@@ -20834,6 +20835,7 @@ dadaojiayuan.com
 dadayou.com
 dadetong.com
 dadianstudio.com
+dadighost.com
 dadijilu.com
 dadipedia.com
 dadizq.com
@@ -41306,7 +41308,6 @@ l2.tcdnlive.com
 l2.xfinfr.com
 l3-prod-all-gs-gzlj.bilibiligame.net
 l3-prod-patch-gzlj.bilibiligame.net
-l3-prod-patch-gzlj.bilibiligame.net.cdntip.com
 l3-prod-patch-gzlj.bilibiligame.net.sched.s7t.tdnsv5.com
 l36h.com
 l3s2.hy.qcloudcdn.com
@@ -45604,7 +45605,6 @@ mercury-image.nhsoft.cn
 mercury-image.nhsoft.cn.m.alikunlun.com
 mercury-node-center.nhsoft.cn
 mercury-sdk.snssdk.com
-mercury.jd.com
 mercury.jd.com.gslb.qianxun.com
 merge.report.url.cn
 mergeek.com
@@ -48314,6 +48314,7 @@ nhsoft-mercury.oss-cn-hangzhou.aliyuncs.com
 nhsoft-mercury.oss-cn-hangzhou.aliyuncs.com.gds.alibabadns.com
 nhsoft.cn
 nhstu.com
+nhxz.com
 nhygkj.com
 nhz.adwo.com
 nhzedu.com

@@ -2008,6 +2008,7 @@
 2.92caijing.com
 2.aili.com
 2.arpun.com
+2.centos.pool.ntp.org
 2.haoxue360.com
 2.openwrt.pool.ntp.org
 2.up.qingdaonews.com
@@ -30927,7 +30928,6 @@ h5ssl.1sapp.com.wswebpic.com
 h5st.m.jd.com
 h5st.m.jd.com.jcloudstatic.com
 h5static.kuwo.cn
-h5static.m.jd.com
 h5tk.p2plive.8686c.com
 h5tk.p2plive.8686c.com.wsdvs.com
 h5tpl.com
@@ -45759,6 +45759,7 @@ mgyyw.com
 mgzf.com
 mgzxzs.com
 mh1.zhengdongwuye.cn
+mh1234.com
 mh456.com
 mh51.com
 mh868.com
@@ -55278,6 +55279,7 @@ qy435.com
 qy6.com
 qyaaaa.com
 qyafndr.cn
+qybeiyong.com
 qyc2008.com
 qycg.wang
 qycn.com

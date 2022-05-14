@@ -781,7 +781,6 @@
 100ye.net
 100yigui.com
 100yingcai.com
-100yiyao.com
 100zp.com
 101.com
 10101111.com
@@ -28645,7 +28644,6 @@ gate.push.x.netease.com
 gateface.com
 gateway-drcn.wallet.dbankcloud.com
 gateway.battlenet.com.cn
-gateway.cdeledu.com
 gateway.craft.moe
 gateway.fe.apple-dns.cn
 gateway.icloud.com.cn
@@ -53470,6 +53468,7 @@ qfyncdhj.v1d.szbdyd.com
 qfynnqjc.v1d.szbdyd.com
 qg.net
 qgcyjq.org
+qgdvyvd.cn
 qgdz222.com
 qgfdqjf.cn
 qgjapp.com
@@ -56333,6 +56332,7 @@ rq.wh.cmcm.com
 rqd.ias.tencent-cloud.net
 rqi17.com
 rqjrb.com
+rqkgcd.xyz
 rr-sc.com
 rr.knet.cn
 rr.tv
@@ -56840,7 +56840,6 @@ s1c.time.edu.cn
 s1e.time.edu.cn
 s1p.cache.qcloudcdn.com
 s1p.cache.qcloudcdn.com.cdntip.com
-s1p.cache.qcloudcdn.com.sched.s1p.tdnsv5.com
 s1p.hy.qcloudcdn.com
 s1p.hy.qcloudcdn.com.sched.s1p.tdnsv5.com
 s2-10745.kwimgs.com
